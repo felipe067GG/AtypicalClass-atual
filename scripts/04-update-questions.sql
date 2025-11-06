@@ -1,0 +1,312 @@
+-- Atualizar questões com conteúdo adaptado para alunos atípicos
+-- Este script substitui as questões existentes ou adiciona novas
+
+-- Limpar questões antigas e inserir as novas adaptadas
+TRUNCATE TABLE questions RESTART IDENTITY CASCADE;
+
+-- Removido colunas tags, is_adapted, adaptation_notes que não existem na tabela
+-- Adicionado coluna title que existe na tabela
+-- Questões de Matemática adaptadas para Autismo
+INSERT INTO questions (title, subject, specialty, difficulty, question_text, options, correct_answer, explanation, source) VALUES
+('Contagem com Maçãs', 'Matemática', 'Autismo', 'Fácil', 
+'🧮 Vamos contar juntos! Quantas maçãs 🍎 você vê aqui? 🍎🍎🍎', 
+'["1 maçã", "2 maçãs", "3 maçãs ✓", "4 maçãs"]',
+'3 maçãs ✓',
+'Use objetos concretos (maçãs reais ou imagens) para contar junto com o aluno. Permita que toque e manipule os objetos. Usa emojis visuais, linguagem simples e permite manipulação concreta.',
+'adapted'),
+
+('Subtração com Balas', 'Matemática', 'TDAH', 'Fácil',
+'⚡ DESAFIO RÁPIDO! Você tem 5 balas 🍬. Come 2 balas. Quantas sobraram?',
+'["2 balas", "3 balas ✓", "5 balas", "7 balas"]',
+'3 balas ✓',
+'Atividade curta e dinâmica. Use balas reais para tornar concreto e motivador. Questão curta, dinâmica, com contexto interessante e visual chamativo.',
+'adapted'),
+
+('Sequência Numérica', 'Matemática', 'Dislexia', 'Fácil',
+'Olhe para os números: 2️⃣ 4️⃣ 6️⃣ 8️⃣ __ Qual número vem depois?',
+'["9", "10 ✓", "11", "12"]',
+'10 ✓',
+'Use números grandes e coloridos. Permita uso de calculadora ou linha numérica. Usa números em formato emoji, evita texto longo, foca no padrão visual.',
+'adapted'),
+
+('Adição com Quadrados', 'Matemática', 'Discalculia', 'Fácil',
+'🟦🟦 + 🟦 = ? Use os quadrados azuis para contar!',
+'["2", "3 ✓", "4", "5"]',
+'3 ✓',
+'Forneça blocos manipuláveis. Deixe o aluno contar fisicamente antes de responder. Representação visual concreta, permite contagem um a um, sem símbolos abstratos.',
+'adapted'),
+
+-- Questões de Português adaptadas
+('Sons de Animais', 'Português', 'Autismo', 'Fácil',
+'Complete a frase: O gato 🐱 faz... ',
+'["Au au", "Miau ✓", "Muuu", "Cocoricó"]',
+'Miau ✓',
+'Use sons reais de animais (áudio ou vídeo). Conecte com experiências do aluno. Usa contexto concreto e familiar, com apoio visual (emoji) e conexão sensorial.',
+'adapted'),
+
+('Palavra Secreta', 'Português', 'TDAH', 'Fácil',
+'🎮 PALAVRA SECRETA! Qual palavra está escondida? C_S_ (dica: você mora nela)',
+'["COSO", "CASA ✓", "CISA", "CUSA"]',
+'CASA ✓',
+'Transforme em jogo. Use timer curto. Dê feedback imediato. Formato de jogo, curto, com dica contextual e elemento de descoberta.',
+'adapted'),
+
+('Rimas Simples', 'Português', 'Dislexia', 'Fácil',
+'Qual palavra rima com GATO? 🐱',
+'["CASA", "PATO ✓", "BOLA", "MESA"]',
+'PATO ✓',
+'Use palavras curtas e simples. Leia em voz alta. Permita resposta oral. Palavras curtas, foco em som (não escrita), permite resposta oral.',
+'adapted'),
+
+-- Questões de Ciências adaptadas
+('Crescimento de Plantas', 'Ciências', 'Autismo', 'Médio',
+'Observe a sequência: 🌱 → 🌿 → 🌳 O que está acontecendo?',
+'["A planta está morrendo", "A planta está crescendo ✓", "A planta está dormindo", "A planta está comendo"]',
+'A planta está crescendo ✓',
+'Use plantas reais ou vídeo em time-lapse. Permita observação direta do crescimento. Sequência visual clara, processo observável, linguagem direta.',
+'adapted'),
+
+('Experimento com Sal', 'Ciências', 'TDAH', 'Médio',
+'🔬 EXPERIMENTO! O que acontece se misturar água + sal?',
+'["Explode 💥", "O sal desaparece ✓", "Fica colorido", "Vira gelo"]',
+'O sal desaparece ✓',
+'FAÇA O EXPERIMENTO! Aprendizado ativo e prático mantém atenção. Atividade prática, experimento real, aprendizado cinestésico.',
+'adapted'),
+
+-- Questões de História adaptadas
+('Linha do Tempo da Vida', 'História', 'Autismo', 'Médio',
+'Linha do tempo: Bebê 👶 → Criança 🧒 → Adulto 🧑 → ?',
+'["Bebê de novo", "Idoso ✓", "Criança de novo", "Nada"]',
+'Idoso ✓',
+'Use fotos reais da família do aluno mostrando diferentes idades. Usa linha do tempo visual, conecta com experiência pessoal.',
+'adapted'),
+
+('Descobrimento do Brasil', 'História', 'TDAH', 'Médio',
+'⚔️ QUIZ RÁPIDO! Quem descobriu o Brasil?',
+'["Cristóvão Colombo", "Pedro Álvares Cabral ✓", "Dom Pedro I", "Tiradentes"]',
+'Pedro Álvares Cabral ✓',
+'Use formato de quiz show. Adicione música ou timer para engajamento. Formato quiz, pergunta direta, resposta rápida.',
+'adapted'),
+
+-- Questões de Geografia adaptadas
+('Localização Pessoal', 'Geografia', 'Autismo', 'Fácil',
+'Onde você mora? 🏠 → 🏘️ Rua → 🏙️ Cidade → 🗺️ ?',
+'["Planeta", "Estado ✓", "Universo", "Escola"]',
+'Estado ✓',
+'Use mapas reais. Comece com a casa do aluno e expanda gradualmente. Sequência do concreto ao abstrato, começa com experiência pessoal.',
+'adapted'),
+
+('Símbolos no Mapa', 'Geografia', 'Dislexia', 'Médio',
+'Veja o mapa: 🏔️ = Montanha, 🌊 = Mar. O que é 🏜️?',
+'["Floresta", "Deserto ✓", "Rio", "Cidade"]',
+'Deserto ✓',
+'Use símbolos visuais em vez de texto. Forneça legenda com imagens. Usa símbolos visuais, reduz carga de leitura, foco em interpretação visual.',
+'adapted'),
+
+-- Questões de Inglês adaptadas
+('Animais em Inglês', 'Inglês', 'Autismo', 'Fácil',
+'Match: 🐕 = ?',
+'["Cat", "Dog ✓", "Bird", "Fish"]',
+'Dog ✓',
+'Use flashcards com imagem e palavra. Associação visual-verbal. Associação direta imagem-palavra, vocabulário concreto.',
+'adapted'),
+
+('Música em Inglês', 'Inglês', 'TDAH', 'Fácil',
+'🎵 Complete a música: "Happy 🎂 to you, Happy 🎂 to you..." Qual palavra falta?',
+'["Christmas", "Birthday ✓", "New Year", "Party"]',
+'Birthday ✓',
+'Use música real! Cante junto. Aprendizado multissensorial. Usa música familiar, contexto cultural, aprendizado lúdico.',
+'adapted'),
+
+-- Questões de Física adaptadas
+('Gravidade Simples', 'Física', 'Autismo', 'Médio',
+'Experiência: Solte uma bola 🏀 e uma pena 🪶 ao mesmo tempo. O que cai primeiro?',
+'["A pena", "A bola ✓", "Caem juntos", "Nenhum cai"]',
+'A bola ✓',
+'FAÇA O EXPERIMENTO! Deixe o aluno soltar os objetos e observar. Experimento prático, observação direta, aprendizado cinestésico.',
+'adapted'),
+
+('Eletricidade Básica', 'Física', 'TDAH', 'Médio',
+'⚡ DESAFIO! O que faz a lâmpada 💡 acender?',
+'["Água", "Eletricidade ✓", "Vento", "Fogo"]',
+'Eletricidade ✓',
+'Monte um circuito simples. Atividade prática mantém foco. Pergunta direta, pode incluir experimento prático.',
+'adapted'),
+
+-- Questões de Química adaptadas
+('Estados da Matéria', 'Química', 'Autismo', 'Médio',
+'Observe: Gelo 🧊 → Água 💧 → Vapor ☁️. O que mudou?',
+'["A cor", "O estado ✓", "O sabor", "Nada"]',
+'O estado ✓',
+'Demonstre com gelo real derretendo. Observação concreta do processo. Processo observável, sequência visual, fenômeno concreto.',
+'adapted'),
+
+('Reação Química', 'Química', 'TDAH', 'Médio',
+'🧪 EXPERIMENTO COLORIDO! Vinagre + bicarbonato = ?',
+'["Nada acontece", "Faz espuma ✓", "Fica azul", "Congela"]',
+'Faz espuma ✓',
+'FAÇA! Experimento rápido, visual e surpreendente mantém atenção. Experimento prático, resultado visual imediato, engajador.',
+'adapted'),
+
+-- Questões de Biologia adaptadas
+('Cadeia Alimentar', 'Biologia', 'Autismo', 'Médio',
+'Cadeia alimentar: Planta 🌱 → Coelho 🐰 → ?',
+'["Outra planta", "Raposa ✓", "Pedra", "Sol"]',
+'Raposa ✓',
+'Use bonecos ou desenhos. Monte a cadeia fisicamente com o aluno. Sequência lógica visual, pode usar manipuláveis, conceito concreto.',
+'adapted'),
+
+('Função do Esqueleto', 'Biologia', 'Dislexia', 'Médio',
+'Veja as imagens: 🦴🦴🦴 = Esqueleto. Qual sua função?',
+'["Pensar", "Sustentar o corpo ✓", "Respirar", "Digerir"]',
+'Sustentar o corpo ✓',
+'Use modelo anatômico ou imagens. Minimize texto, maximize visual. Usa imagens em vez de texto longo, pergunta direta sobre função.',
+'adapted'),
+
+-- Mais questões variadas adaptadas
+('Padrões com Cores', 'Matemática', 'Autismo', 'Médio',
+'Padrão: 🔴🔵🔴🔵🔴__. Qual vem depois?',
+'["🔴", "🔵 ✓", "🟢", "🟡"]',
+'🔵 ✓',
+'Use objetos coloridos reais. Deixe o aluno continuar o padrão fisicamente. Padrão visual claro, cores distintas, pode usar manipuláveis.',
+'adapted'),
+
+('Contagem de Letras', 'Português', 'Discalculia', 'Fácil',
+'Quantas letras tem a palavra GATO? G-A-T-O',
+'["3", "4 ✓", "5", "6"]',
+'4 ✓',
+'Escreva cada letra em um cartão separado. Conte junto com o aluno. Separa letras visualmente, permite contagem concreta.',
+'adapted'),
+
+('Símbolos Históricos', 'História', 'Dislexia', 'Fácil',
+'Veja a imagem: 👑 Quem usa coroa?',
+'["Professor", "Rei ✓", "Médico", "Bombeiro"]',
+'Rei ✓',
+'Use imagens reais de reis e rainhas. Minimize leitura. Usa símbolo visual, pergunta simples, reduz carga de leitura.',
+'adapted'),
+
+('Quiz de Oceanos', 'Geografia', 'TDAH', 'Fácil',
+'🌍 QUIZ! Qual o maior oceano?',
+'["Atlântico", "Pacífico ✓", "Índico", "Ártico"]',
+'Pacífico ✓',
+'Use globo ou mapa interativo. Torne visual e tátil. Formato quiz rápido, pode usar material concreto (globo).',
+'adapted'),
+
+('Fotossíntese Simples', 'Ciências', 'Dislexia', 'Fácil',
+'Veja: ☀️ + 🌱 = Planta cresce. O que a planta precisa do sol?',
+'["Cor", "Luz ✓", "Som", "Cheiro"]',
+'Luz ✓',
+'Use diagrama visual simples. Explique com imagens, não texto longo. Diagrama visual, conceito simplificado, pergunta direta.',
+'adapted'),
+
+('Cálculo Rápido', 'Matemática', 'TDAH', 'Médio',
+'⏰ CONTRA O TEMPO! 7 + 8 = ?',
+'["14", "15 ✓", "16", "17"]',
+'15 ✓',
+'Use timer de 10 segundos. Gamifique a matemática! Desafio rápido, elemento de jogo, feedback imediato.',
+'adapted'),
+
+('Cores em Inglês', 'Inglês', 'Dislexia', 'Fácil',
+'Match colors: 🔴 = ?',
+'["Blue", "Red ✓", "Green", "Yellow"]',
+'Red ✓',
+'Use objetos coloridos reais. Associação visual-verbal. Associação cor-palavra, visual claro, vocabulário básico.',
+'adapted'),
+
+('Propriedades dos Materiais', 'Física', 'Dislexia', 'Médio',
+'Veja: 🎾 quica, 🧱 não quica. Por quê?',
+'["Cor diferente", "Material diferente ✓", "Tamanho diferente", "Peso diferente"]',
+'Material diferente ✓',
+'Demonstre com objetos reais. Deixe o aluno testar. Comparação visual, experimento prático, conceito concreto.',
+'adapted'),
+
+('Misturas Simples', 'Química', 'Autismo', 'Fácil',
+'Água 💧 + Corante 🎨 = ?',
+'["Água branca", "Água colorida ✓", "Água quente", "Água sólida"]',
+'Água colorida ✓',
+'FAÇA! Misture água com corante alimentício. Observação direta. Experimento simples, resultado visual imediato, seguro.',
+'adapted'),
+
+('Dentes Humanos', 'Biologia', 'TDAH', 'Fácil',
+'🦷 QUIZ RÁPIDO! Quantos dentes tem um adulto?',
+'["20", "28", "32 ✓", "40"]',
+'32 ✓',
+'Use espelho! Deixe o aluno contar os próprios dentes. Pergunta rápida, pode conectar com experiência pessoal.',
+'adapted'),
+
+('Ciclo do Dia', 'História', 'Autismo', 'Fácil',
+'Sequência: Manhã 🌅 → Tarde ☀️ → Noite 🌙 → ?',
+'["Manhã de novo ✓", "Tarde de novo", "Sempre noite", "Para"]',
+'Manhã de novo ✓',
+'Use relógio visual ou linha do tempo circular. Conceito de ciclo. Ciclo visual, conceito de tempo concreto, sequência lógica.',
+'adapted'),
+
+('Localização do Brasil', 'Geografia', 'Discalculia', 'Médio',
+'Veja o mapa: Brasil 🇧🇷 fica em qual continente?',
+'["África", "América do Sul ✓", "Europa", "Ásia"]',
+'América do Sul ✓',
+'Use mapa colorido grande. Aponte fisicamente no mapa. Usa mapa visual, localização concreta, sem cálculos.',
+'adapted'),
+
+('Verbos com Animais', 'Português', 'Autismo', 'Médio',
+'Complete: "O cachorro late. O gato ____"',
+'["Late", "Mia ✓", "Canta", "Voa"]',
+'Mia ✓',
+'Use sons de animais (áudio). Conecte com experiência real. Contexto concreto, associação som-ação, familiar.',
+'adapted'),
+
+('Peso e Massa', 'Ciências', 'Discalculia', 'Fácil',
+'Qual é mais pesado? 🪨 Pedra ou 🪶 Pena?',
+'["Pena", "Pedra ✓", "Igual", "Depende"]',
+'Pedra ✓',
+'Use balança real! Deixe o aluno pesar os objetos. Comparação concreta, pode usar balança, experiência tátil.',
+'adapted'),
+
+('Família em Inglês', 'Inglês', 'Autismo', 'Médio',
+'Family: 👨 Father, 👩 Mother, 👦 ?',
+'["Sister", "Son ✓", "Uncle", "Grandfather"]',
+'Son ✓',
+'Use fotos da família do aluno. Personalize o aprendizado. Usa símbolos visuais, pode personalizar com fotos reais.',
+'adapted'),
+
+('Frações com Pizza', 'Matemática', 'Dislexia', 'Médio',
+'Veja: 🍕 Pizza cortada em 4 pedaços. Você comeu 1. Quanto sobrou?',
+'["1/4", "2/4", "3/4 ✓", "4/4"]',
+'3/4 ✓',
+'Use pizza real ou desenho. Represente visualmente as frações. Fração representada visualmente, contexto concreto, pode desenhar.',
+'adapted'),
+
+('Força e Movimento', 'Física', 'Autismo', 'Fácil',
+'O que acontece quando você empurra um carrinho 🛒?',
+'["Ele para", "Ele se move ✓", "Ele voa", "Ele desaparece"]',
+'Ele se move ✓',
+'Use carrinho de brinquedo real. Demonstre força e movimento. Causa e efeito observável, experimento simples, concreto.',
+'adapted'),
+
+('Mudança de Estado', 'Química', 'TDAH', 'Fácil',
+'🧊 EXPERIMENTO! Gelo no sol = ?',
+'["Fica maior", "Derrete ✓", "Fica colorido", "Explode"]',
+'Derrete ✓',
+'FAÇA! Coloque gelo no sol e observe. Rápido e visual. Experimento rápido, resultado visível, processo observável.',
+'adapted'),
+
+('Sentidos do Corpo', 'Biologia', 'Dislexia', 'Fácil',
+'Veja: 👁️👁️ = 2 olhos. Para que servem?',
+'["Ouvir", "Ver ✓", "Cheirar", "Comer"]',
+'Ver ✓',
+'Use espelho. Deixe o aluno observar os próprios olhos. Usa símbolo visual, pergunta sobre função, pode usar espelho.',
+'adapted'),
+
+('Civilizações Antigas', 'História', 'TDAH', 'Fácil',
+'🏛️ QUIZ! Onde viviam os faraós?',
+'["Brasil", "Egito ✓", "China", "Grécia"]',
+'Egito ✓',
+'Use imagens de pirâmides. Torne visual e interessante. Formato quiz, pergunta direta, pode usar imagens impactantes.',
+'adapted'),
+
+('Ciclo da Água', 'Geografia', 'Autismo', 'Médio',
+'Sequência: Nascente 💧 → Rio 🌊 → ?',
+'["Nascente de novo", "Mar ✓", "Montanha", "Nuvem"]',
+'Mar ✓',
+'Use maquete ou diagrama. Mostre o caminho da água fisicamente. Sequência lógica, processo natural, pode usar maquete.',
+'adapted');
