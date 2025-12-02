@@ -149,18 +149,24 @@ export default function HomePage() {
                   transition={{ delay: 0.4, duration: 0.6 }}
                   className="flex justify-center space-x-4 mb-8"
                 >
-                  <div className="bg-gradient-to-r from-blue-600/30 to-blue-700/30 border border-blue-500/30 px-6 py-3 rounded-lg">
-                    <div className="text-2xl font-bold text-blue-400">81</div>
-                    <div className="text-sm text-blue-200">Recursos Disponíveis</div>
-                  </div>
-                  <div className="bg-gradient-to-r from-blue-500/30 to-blue-600/30 border border-blue-400/30 px-6 py-3 rounded-lg">
-                    <div className="text-2xl font-bold text-blue-400">5</div>
-                    <div className="text-sm text-blue-200">Áreas Especializadas</div>
-                  </div>
-                  <div className="bg-gradient-to-r from-blue-700/30 to-blue-800/30 border border-blue-600/30 px-6 py-3 rounded-lg">
-                    <div className="text-2xl font-bold text-blue-400">100%</div>
-                    <div className="text-sm text-blue-200">Gratuito</div>
-                  </div>
+                  <Link href="/questoes">
+                    <Button className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-6 py-3 text-lg">
+                      <BookMarked className="w-5 h-5 mr-2" />
+                      Questões Adaptadas
+                    </Button>
+                  </Link>
+                  <Link href="/conteudos">
+                    <Button className="bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white px-6 py-3 text-lg">
+                      <BookOpen className="w-5 h-5 mr-2" />
+                      Conteúdos Pedagógicos
+                    </Button>
+                  </Link>
+                  <Link href="/contribuir">
+                    <Button className="bg-gradient-to-r from-blue-700 to-blue-800 hover:from-blue-800 hover:to-blue-900 text-white px-6 py-3 text-lg">
+                      <Pencil className="w-5 h-5 mr-2" />
+                      Contribuir
+                    </Button>
+                  </Link>
                 </motion.div>
 
                 {/* Quick Access Buttons */}
