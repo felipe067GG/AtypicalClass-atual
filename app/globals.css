@@ -31,7 +31,7 @@ body {
     --radius: 0.5rem;
   }
 
-  /* Light theme */
+  /* Light theme with proper colors - blue focus, white backgrounds, good contrast */
   .light {
     --background: 0 0% 100%;
     --foreground: 222 47% 11%;
@@ -40,7 +40,7 @@ body {
     --popover: 0 0% 100%;
     --popover-foreground: 222 47% 11%;
     --primary: 221 83% 53%;
-    --primary-foreground: 0 0% 98%;
+    --primary-foreground: 0 0% 100%;
     --secondary: 210 40% 96%;
     --secondary-foreground: 222 47% 11%;
     --muted: 210 40% 96%;
@@ -48,10 +48,44 @@ body {
     --accent: 210 40% 96%;
     --accent-foreground: 222 47% 11%;
     --destructive: 0 84% 60%;
-    --destructive-foreground: 0 0% 98%;
+    --destructive-foreground: 0 0% 100%;
     --border: 214 32% 91%;
     --input: 214 32% 91%;
     --ring: 221 83% 53%;
+  }
+
+  /* Apply light theme styles globally */
+  .light {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+  }
+
+  .light .bg-gradient-to-br {
+    background: linear-gradient(to bottom right, #f8fafc, #e0f2fe, #dbeafe);
+  }
+
+  .light .bg-gray-950\/70,
+  .light .bg-gray-950\/90,
+  .light .bg-gray-900\/50,
+  .light .bg-gray-900 {
+    background-color: white !important;
+    border-color: hsl(var(--border)) !important;
+  }
+
+  .light .border-gray-800,
+  .light .border-gray-700 {
+    border-color: hsl(var(--border)) !important;
+  }
+
+  .light .text-white {
+    color: hsl(var(--foreground)) !important;
+  }
+
+  .light .text-slate-300,
+  .light .text-slate-400,
+  .light .text-gray-300,
+  .light .text-gray-400 {
+    color: hsl(var(--muted-foreground)) !important;
   }
 }
 

@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 import { LanguageProvider } from "@/lib/language-context"
 import { ThemeProvider } from "@/lib/theme-context"
+import { CookieConsent } from "@/components/cookie-consent"
 
 export const metadata: Metadata = {
   title: "AtypicalClass",
@@ -22,7 +23,10 @@ export default function RootLayout({
     <html lang="pt">
       <body>
         <ThemeProvider>
-          <LanguageProvider>{children}</LanguageProvider>
+          <LanguageProvider>
+            {children}
+            <CookieConsent />
+          </LanguageProvider>
         </ThemeProvider>
       </body>
     </html>
