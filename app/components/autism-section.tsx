@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Brain, BookOpen, Download, Clock, ExternalLink, Target, Star } from "lucide-react"
 import ActivityDetailsModal from "./activity-details-modal"
+import { DownloadButton } from "@/components/download-button"
 
 export default function AutismSection() {
   const [selectedActivity, setSelectedActivity] = useState<any>(null)
@@ -119,6 +120,19 @@ export default function AutismSection() {
       objectives: ["Conhecimento histórico", "Leitura", "Compreensão de texto"],
       rating: 4.5,
       downloads: 1200,
+      downloadFile: "historia-familia-real",
+    },
+    {
+      name: "Atividade de Química - Pilha de Daniell",
+      age: "10-14 anos",
+      duration: "40-50 min",
+      description: "Exercícios sobre pilhas elétricas com atividades de pintura e identificação",
+      materials: ["Lápis de cor", "Diagrama da pilha", "Lista de objetos"],
+      implementation: "Adaptado com suportes visuais e instruções claras",
+      objectives: ["Conhecimento científico", "Identificação", "Coordenação motora"],
+      rating: 4.4,
+      downloads: 980,
+      downloadFile: "quimica-pilha-daniell",
     },
   ]
 
@@ -332,14 +346,6 @@ INSTRUÇÕES:
 
 DICA: OBJETOS ELÉTRICOS GERALMENTE TÊM FIO OU BATERIA!
 
-ADAPTAÇÕES PARA ALUNOS ATÍPICOS:
-✓ Instruções claras e diretas
-✓ Texto em letras maiúsculas
-✓ Atividade visual e prática
-✓ Lista organizada com checkboxes
-✓ Dicas visuais para facilitar
-✓ Exercício de pintura para engajamento
-
 CONCEITOS TRABALHADOS:
 • Componentes de uma pilha elétrica
 • Energia elétrica no cotidiano
@@ -529,14 +535,18 @@ Continue assim!
                     </div>
                     <div className="flex justify-between items-center pt-2">
                       <span className="text-sm text-slate-400">{activity.downloads} downloads</span>
-                      <Button
-                        size="sm"
-                        className="bg-blue-600 hover:bg-blue-700"
-                        onClick={() => handleViewDetails(activity)}
-                      >
-                        <BookOpen className="w-4 h-4 mr-2" />
-                        Ver Detalhes
-                      </Button>
+                      {activity.downloadFile ? (
+                        <DownloadButton fileBaseName={activity.downloadFile} label="Baixar" />
+                      ) : (
+                        <Button
+                          size="sm"
+                          className="bg-blue-600 hover:bg-blue-700"
+                          onClick={() => handleViewDetails(activity)}
+                        >
+                          <BookOpen className="w-4 h-4 mr-2" />
+                          Ver Detalhes
+                        </Button>
+                      )}
                     </div>
                   </CardContent>
                 </Card>

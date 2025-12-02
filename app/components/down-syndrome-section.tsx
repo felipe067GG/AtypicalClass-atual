@@ -7,6 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Heart, BookOpen, Download, Clock, ExternalLink, Target, Star } from "lucide-react"
 import ActivityDetailsModal from "./activity-details-modal"
 import { useState } from "react"
+import { DownloadButton } from "@/components/download-button"
 
 export default function DownSyndromeSection() {
   const [selectedActivity, setSelectedActivity] = useState<any>(null)
@@ -107,6 +108,30 @@ export default function DownSyndromeSection() {
       objectives: ["Expressão", "Criatividade", "Socialização"],
       rating: 4.6,
       downloads: 1650,
+    },
+    {
+      name: "Atividade de História - Família Real no Brasil",
+      age: "8-12 anos",
+      duration: "45-60 min",
+      description: "Exercícios sobre a chegada da Família Real Portuguesa (1808) - 2º série",
+      materials: ["Quadro com palavras", "Imagens", "Respostas visuais"],
+      implementation: "Adaptado para alunos com Síndrome de Down",
+      objectives: ["Conhecimento histórico", "Leitura", "Compreensão de texto"],
+      rating: 4.5,
+      downloads: 1100,
+      downloadFile: "historia-familia-real",
+    },
+    {
+      name: "Atividade de Química - Pilha de Daniell",
+      age: "10-14 anos",
+      duration: "40-50 min",
+      description: "Exercícios sobre pilhas elétricas com atividades de pintura e identificação",
+      materials: ["Lápis de cor", "Diagrama da pilha", "Lista de objetos"],
+      implementation: "Adaptado com suportes visuais e instruções claras",
+      objectives: ["Conhecimento científico", "Identificação", "Coordenação motora"],
+      rating: 4.4,
+      downloads: 890,
+      downloadFile: "quimica-pilha-daniell",
     },
   ]
 
@@ -590,156 +615,6 @@ DICAS GERAIS:
 
 © AtypicalClass 2025`,
     },
-    {
-      title: "Atividade de História - Família Real no Brasil",
-      type: "Atividade Adaptada",
-      description: "Exercícios sobre a chegada da Família Real Portuguesa (1808) - 2º série",
-      featured: false,
-      content: `ATIVIDADE DE HISTÓRIA 2º SÉRIE
-
-1- Encontre as palavras abaixo no quadro abaixo.
-REI; DIA DO FICO; BLOQUEIO CONTINENTAL; CASA DA MOEDA.
-
-B L O Q U E I O R A P
-C O N T I N E N T A L
-E D U P A T O U H X O
-T G E A R E I I M C U
-G O B L I K P A E S T
-A D I A D O F I C O Q
-Y X A E I F I O V E F
-C A S A D A M O E D A
-
-2- Escreva os nomes das imagens abaixo, que fizeram parte do período joanino no Brasil.
-
-REI                    BIBLIOTECA              BANCO DO BRASIL
-
-____________________________________________
-____________________________________________
-____________________________________________
-
-TEXTO: A CHEGADA DA FAMÍLIA REAL AO BRASIL
-
-NO ANO DE 1808, A FAMÍLIA REAL PORTUGUESA VEIO PARA O BRASIL.
-ELES FUGIRAM DE PORTUGAL PORQUE A FRANÇA QUERIA INVADIR O PAÍS.
-O LÍDER DA FAMÍLIA REAL ERA DOM JOÃO VI.
-
-A VIAGEM FOI FEITA DE NAVIO E DUROU MUITOS DIAS. QUANDO
-CHEGARAM, FORAM MORAR NO RIO DE JANEIRO. COM A CHEGADA DA
-CORTE, O BRASIL GANHOU ESCOLAS, BIBLIOTECAS E FÁBRICAS. TAMBÉM
-FOI CRIADA A PRIMEIRA ORQUESTRA E O PRIMEIRO BANCO DO BRASIL.
-
-A VINDA DA FAMÍLIA REAL AJUDOU O BRASIL A CRESCER E SE
-PREPARAR PARA O FUTURO.
-
-3- Em que ano a família real veio para o Brasil?
-A) 1500
-B) 1808 ✓
-C) 1900
-
-4) De onde veio a família real?
-A) Da França
-B) De Portugal ✓
-C) Da África
-
-5- Como a família real viajou para o Brasil?
-A) De avião
-B) De navio ✓
-C) De carro
-
-6- Para qual cidade a família real foi morar?
-A) Salvador
-B) São Paulo
-C) Rio de Janeiro ✓
-
-ADAPTAÇÕES PARA ALUNOS ATÍPICOS:
-✓ Texto em letras maiúsculas para facilitar leitura
-✓ Frases curtas e diretas
-✓ Vocabulário acessível
-✓ Questões de múltipla escolha
-✓ Caça-palavras com palavras-chave
-✓ Espaços para respostas visuais
-
-O tempo utilizado para o estudo nunca é
-um tempo perdido. Estudar é investir no
-seu futuro. Sei que você dará o seu
-melhor, pois sei do seu potencial.
-Boa prova!!
-
-© AtypicalClass 2025 - Material Adaptado para Educação Inclusiva`,
-    },
-    {
-      title: "Atividade de Química - Pilha de Daniell",
-      type: "Atividade Adaptada",
-      description: "Exercícios sobre componentes da pilha e energia elétrica",
-      featured: false,
-      content: `ATIVIDADE DE QUÍMICA
-OBSERVE A IMAGEM E RESPONDA
-
-1. RELACIONE OS COMPONENTES DA PILHA DE DANIELL NOS LUGARES CORRETOS:
-
-A – ELETRODO –  
-B – VOLTÍMETRO
-C – PONTE SALINA
-D – ÂNODO
-E – ELETRODO +
-F – CÁTODO
-
-INSTRUÇÕES:
-- OBSERVE O DIAGRAMA DA PILHA DE DANIELL
-- IDENTIFIQUE CADA COMPONENTE
-- ESCREVA A LETRA CORRESPONDENTE NO LUGAR CORRETO
-
-COMPONENTES DA PILHA:
-□ ELETRODO NEGATIVO (-)
-□ ELETRODO POSITIVO (+)
-□ VOLTÍMETRO (MEDE A VOLTAGEM)
-□ PONTE SALINA (CONECTA AS SOLUÇÕES)
-□ ÂNODO (ONDE OCORRE OXIDAÇÃO)
-□ CÁTODO (ONDE OCORRE REDUÇÃO)
-
-2. PINTE OS OBJETOS QUE FUNCIONAM COM ENERGIA ELÉTRICA:
-
-LISTA DE OBJETOS:
-□ LÂMPADA
-□ ÁRVORE
-□ CELULAR
-□ PEDRA
-□ COMPUTADOR
-□ FLOR
-□ TELEVISÃO
-□ NUVEM
-□ VENTILADOR
-□ MONTANHA
-□ GELADEIRA
-□ RIO
-
-INSTRUÇÕES:
-- LEIA CADA OBJETO COM ATENÇÃO
-- PINTE APENAS OS OBJETOS QUE PRECISAM DE ENERGIA ELÉTRICA
-- SE TIVER DÚVIDA, PERGUNTE AO PROFESSOR
-
-DICA: OBJETOS ELÉTRICOS GERALMENTE TÊM FIO OU BATERIA!
-
-ADAPTAÇÕES PARA ALUNOS ATÍPICOS:
-✓ Instruções claras e diretas
-✓ Texto em letras maiúsculas
-✓ Atividade visual e prática
-✓ Lista organizada com checkboxes
-✓ Dicas visuais para facilitar
-✓ Exercício de pintura para engajamento
-
-CONCEITOS TRABALHADOS:
-• Componentes de uma pilha elétrica
-• Energia elétrica no cotidiano
-• Identificação de objetos elétricos
-• Vocabulário científico básico
-
-O conhecimento é uma jornada, não um destino.
-Cada passo que você dá é uma vitória!
-Continue assim!
-
-© AtypicalClass 2025 - Material Adaptado para Educação Inclusiva`,
-    },
   ]
 
   const getDifficultyColor = (difficulty: string) => {
@@ -1074,14 +949,18 @@ Continue assim!
                   </div>
                   <div className="flex justify-between items-center pt-2">
                     <span className="text-sm text-gray-400">{activity.downloads} downloads</span>
-                    <Button
-                      size="sm"
-                      className="bg-blue-600 hover:bg-blue-700"
-                      onClick={() => handleViewDetails(activity)}
-                    >
-                      <BookOpen className="w-4 h-4 mr-2" />
-                      Ver Detalhes
-                    </Button>
+                    {activity.downloadFile ? (
+                      <DownloadButton fileBaseName={activity.downloadFile} label="Baixar" />
+                    ) : (
+                      <Button
+                        size="sm"
+                        className="bg-blue-600 hover:bg-blue-700"
+                        onClick={() => handleViewDetails(activity)}
+                      >
+                        <BookOpen className="w-4 h-4 mr-2" />
+                        Ver Detalhes
+                      </Button>
+                    )}
                   </div>
                 </CardContent>
               </Card>

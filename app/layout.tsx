@@ -1,6 +1,8 @@
 import type React from "react"
 import type { Metadata } from "next"
 import "./globals.css"
+import { LanguageProvider } from "@/lib/language-context"
+import { ThemeProvider } from "@/lib/theme-context"
 
 export const metadata: Metadata = {
   title: "AtypicalClass",
@@ -17,8 +19,12 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="pt">
+      <body>
+        <ThemeProvider>
+          <LanguageProvider>{children}</LanguageProvider>
+        </ThemeProvider>
+      </body>
     </html>
   )
 }
