@@ -22,9 +22,9 @@ export function DownloadButton({ fileBaseName, label, size = "sm", className = "
   }
 
   const languageNames = {
-    pt: "Português",
-    en: "English",
-    es: "Español",
+    pt: "Português (PT)",
+    en: "English (EN)",
+    es: "Español (ES)",
   }
 
   const handleDownload = (lang: "pt" | "en" | "es") => {
@@ -41,26 +41,26 @@ export function DownloadButton({ fileBaseName, label, size = "sm", className = "
       <DropdownMenuTrigger asChild>
         <Button size={size} className={`bg-blue-600 hover:bg-blue-700 ${className}`}>
           <Download className="w-4 h-4 mr-2" />
-          {label || "Download"}
+          {label || "Download"} {languageNames[language]}
           <Globe className="w-3 h-3 ml-2" />
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="bg-gray-900 border-gray-700 light:bg-white light:border-gray-200">
+      <DropdownMenuContent className="bg-gray-900 border-gray-700">
         <DropdownMenuItem
           onClick={() => handleDownload("pt")}
-          className="text-white hover:bg-gray-800 cursor-pointer light:text-slate-900 light:hover:bg-gray-100"
+          className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
         >
           <span className={language === "pt" ? "font-bold text-blue-400" : ""}>{languageNames.pt}</span>
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleDownload("en")}
-          className="text-white hover:bg-gray-800 cursor-pointer light:text-slate-900 light:hover:bg-gray-100"
+          className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
         >
           <span className={language === "en" ? "font-bold text-blue-400" : ""}>{languageNames.en}</span>
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleDownload("es")}
-          className="text-white hover:bg-gray-800 cursor-pointer light:text-slate-900 light:hover:bg-gray-100"
+          className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
         >
           <span className={language === "es" ? "font-bold text-blue-400" : ""}>{languageNames.es}</span>
         </DropdownMenuItem>

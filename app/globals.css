@@ -31,61 +31,87 @@ body {
     --radius: 0.5rem;
   }
 
-  /* Light theme with proper colors - blue focus, white backgrounds, good contrast */
+  /* Light theme with much better contrast - dark text on white backgrounds */
   .light {
     --background: 0 0% 100%;
-    --foreground: 222 47% 11%;
+    --foreground: 222 84% 4.9%;
     --card: 0 0% 100%;
-    --card-foreground: 222 47% 11%;
+    --card-foreground: 222 84% 4.9%;
     --popover: 0 0% 100%;
-    --popover-foreground: 222 47% 11%;
+    --popover-foreground: 222 84% 4.9%;
     --primary: 221 83% 53%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 210 40% 96%;
-    --secondary-foreground: 222 47% 11%;
-    --muted: 210 40% 96%;
-    --muted-foreground: 215 16% 47%;
-    --accent: 210 40% 96%;
-    --accent-foreground: 222 47% 11%;
-    --destructive: 0 84% 60%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 100%;
-    --border: 214 32% 91%;
-    --input: 214 32% 91%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
     --ring: 221 83% 53%;
   }
 
   /* Apply light theme styles globally */
   .light {
-    background-color: hsl(var(--background));
+    background: linear-gradient(to bottom right, #ffffff, #f0f9ff, #e0f2fe);
     color: hsl(var(--foreground));
   }
 
+  /* Fix all dark backgrounds to white and ensure dark text in light mode */
   .light .bg-gradient-to-br {
-    background: linear-gradient(to bottom right, #f8fafc, #e0f2fe, #dbeafe);
+    background: linear-gradient(to bottom right, #ffffff, #f0f9ff, #e0f2fe) !important;
   }
 
+  .light .bg-black,
+  .light .bg-gray-950,
   .light .bg-gray-950\/70,
   .light .bg-gray-950\/90,
   .light .bg-gray-900\/50,
-  .light .bg-gray-900 {
+  .light .bg-gray-900,
+  .light .bg-gray-800\/50,
+  .light .bg-gray-800 {
     background-color: white !important;
-    border-color: hsl(var(--border)) !important;
   }
 
   .light .border-gray-800,
-  .light .border-gray-700 {
+  .light .border-gray-700,
+  .light .border-gray-600 {
     border-color: hsl(var(--border)) !important;
   }
 
-  .light .text-white {
-    color: hsl(var(--foreground)) !important;
+  /* Force dark text in light mode for all text elements */
+  .light .text-white,
+  .light .text-slate-200 {
+    color: hsl(222 84% 4.9%) !important;
   }
 
   .light .text-slate-300,
   .light .text-slate-400,
   .light .text-gray-300,
   .light .text-gray-400 {
-    color: hsl(var(--muted-foreground)) !important;
+    color: hsl(215.4 16.3% 46.9%) !important;
+  }
+
+  .light .text-slate-500 {
+    color: hsl(215 16% 47%) !important;
+  }
+
+  /* Fix blue text to be visible in light mode */
+  .light .text-blue-300,
+  .light .text-blue-200 {
+    color: hsl(221 83% 40%) !important;
+  }
+
+  .light .text-blue-400 {
+    color: hsl(221 83% 53%) !important;
+  }
+
+  /* Fix card descriptions and muted text */
+  .light .text-muted-foreground {
+    color: hsl(215.4 16.3% 46.9%) !important;
   }
 }
 

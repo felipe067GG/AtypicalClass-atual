@@ -22,6 +22,7 @@ import {
 } from "lucide-react"
 import Header from "../components/header"
 import { createClient } from "@/lib/supabase/client"
+import { useLanguage } from "@/lib/language-context"
 
 interface Question {
   id: string
@@ -66,6 +67,8 @@ const SPECIALTIES = [
 ]
 
 export default function QuestoesPage() {
+  const { t } = useLanguage()
+
   const [selectedSubject, setSelectedSubject] = useState("all")
   const [selectedSpecialty, setSelectedSpecialty] = useState("all")
   const [selectedDifficulty, setSelectedDifficulty] = useState("all")
@@ -134,7 +137,7 @@ export default function QuestoesPage() {
         <div className="flex items-center justify-center min-h-[60vh]">
           <div className="text-center">
             <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-            <p className="text-slate-300">Carregando questões...</p>
+            <p className="text-slate-300">{t("loadingQuestions")}</p>
           </div>
         </div>
       </div>
@@ -166,7 +169,7 @@ export default function QuestoesPage() {
             <CardHeader>
               <CardTitle className="flex items-center text-blue-400">
                 <Filter className="w-5 h-5 mr-2" />
-                Filtros
+                {t("filters")}
               </CardTitle>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -204,16 +207,16 @@ export default function QuestoesPage() {
                 </div>
 
                 <div>
-                  <label className="text-sm text-slate-400 mb-2 block">Dificuldade</label>
+                  <label className="text-sm text-slate-400 mb-2 block">{t("difficulty")}</label>
                   <Select value={selectedDifficulty} onValueChange={setSelectedDifficulty}>
                     <SelectTrigger className="bg-gray-800/50 border-gray-700">
-                      <SelectValue placeholder="Todas" />
+                      <SelectValue placeholder={t("all")} />
                     </SelectTrigger>
                     <SelectContent className="bg-gray-800 border-gray-700">
-                      <SelectItem value="all">Todas</SelectItem>
-                      <SelectItem value="Fácil">Fácil</SelectItem>
-                      <SelectItem value="Médio">Médio</SelectItem>
-                      <SelectItem value="Difícil">Difícil</SelectItem>
+                      <SelectItem value="all">{t("all")}</SelectItem>
+                      <SelectItem value="Fácil">{t("easy")}</SelectItem>
+                      <SelectItem value="Médio">{t("medium")}</SelectItem>
+                      <SelectItem value="Difícil">{t("hard")}</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
@@ -234,7 +237,8 @@ export default function QuestoesPage() {
 
           {/* Results */}
           <div className="mb-4 text-slate-400">
-            Encontradas <span className="text-blue-400 font-semibold">{filteredQuestions.length}</span> questões
+            {t("found")} <span className="text-blue-400 font-semibold">{filteredQuestions.length}</span>{" "}
+            {t("questionsLabel")}
           </div>
 
           {selectedQuestion ? (
@@ -381,9 +385,7 @@ export default function QuestoesPage() {
           {filteredQuestions.length === 0 && !loading && (
             <Card className="bg-gray-900/50 border-gray-800">
               <CardContent className="py-12 text-center">
-                <p className="text-slate-400 text-lg">
-                  Nenhuma questão encontrada com os filtros selecionados. Tente ajustar os critérios de busca.
-                </p>
+                <p className="text-slate-400 text-lg">{t("noQuestionsFound")}</p>
               </CardContent>
             </Card>
           )}
