@@ -156,8 +156,8 @@ importers:
         specifier: latest
         version: 6.5.2(@react-email/render@2.0.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0))
       shadcn:
-        specifier: latest
-        version: 3.5.1(@types/node@22.0.0)(typescript@5.0.2)
+        specifier: 3.4.0
+        version: 3.4.0(@types/node@22.0.0)(typescript@5.0.2)
       sonner:
         specifier: latest
         version: 2.0.7(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
@@ -3570,8 +3570,8 @@ packages:
   setprototypeof@1.2.0:
     resolution: {integrity: sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==}
 
-  shadcn@3.5.1:
-    resolution: {integrity: sha512-yLbIDouYv8Xz25BxV/GAGC/46R7/oNwoXIs/IFIYXK47+fKcFIYzThtBqJwFEZTzkkvqJCo+MBg0K9QLTmhFmQ==}
+  shadcn@3.4.0:
+    resolution: {integrity: sha512-2fZC7+seml8/Eq77TKRJEotJY+llQsuFK4j8cHWk1oe4Qhit/ekai4w+cyaudwKNc+eTFqldR7rLxtTGCxJZ7Q==}
     hasBin: true
 
   sharp@0.33.5:
@@ -7637,7 +7637,7 @@ snapshots:
 
   setprototypeof@1.2.0: {}
 
-  shadcn@3.5.1(@types/node@22.0.0)(typescript@5.0.2):
+  shadcn@3.4.0(@types/node@22.0.0)(typescript@5.0.2):
     dependencies:
       '@antfu/ni': 25.0.0
       '@babel/core': 7.28.5
