@@ -1030,7 +1030,7 @@ PARA ADOLESCENTES:
             {strategies.map((strategy, index) => (
               <Card
                 key={index}
-                className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300 h-full"
+                className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300 h-full"
               >
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
@@ -1068,7 +1068,7 @@ PARA ADOLESCENTES:
             {activities.map((activity, index) => (
               <Card
                 key={index}
-                className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300"
+                className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300"
               >
                 <CardHeader>
                   <div className="flex justify-between items-start">
@@ -1138,7 +1138,7 @@ PARA ADOLESCENTES:
             {courses.map((course, index) => (
               <Card
                 key={index}
-                className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300"
+                className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300"
               >
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
@@ -1187,7 +1187,7 @@ PARA ADOLESCENTES:
             {resources.map((resource, index) => (
               <Card
                 key={index}
-                className={`bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300 ${
+                className={`bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300 ${
                   resource.featured ? "ring-2 ring-blue-500/50" : ""
                 }`}
               >

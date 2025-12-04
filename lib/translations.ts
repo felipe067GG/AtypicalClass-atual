@@ -65,6 +65,39 @@ export const translations = {
     readContent: "Ler Conteúdo",
     showing: "Mostrando",
     contents: "conteúdo(s)",
+
+    // Homepage
+    platformSubtitle: "Plataforma Educacional - 2025",
+    platformDescription:
+      "Uma plataforma dedicada a apoiar professores no trabalho com alunos atípicos, oferecendo recursos práticos, estratégias comprovadas e materiais adaptados para uma educação verdadeiramente inclusiva.",
+    adaptedQuestions: "Questões Adaptadas",
+    pedagogicalContent: "Conteúdos Pedagógicos",
+    researchBased: "Pesquisa Fundamentada",
+    researchDesc: "Conteúdo baseado em literatura especializada e práticas comprovadas",
+    realExperience: "Experiência Real",
+    experienceDesc: "Desenvolvido com vivência prática em neurodiversidade",
+    practicalResources: "Recursos Práticos",
+    practicalDesc: "Atividades e materiais prontos para uso em sala de aula",
+    inclusiveEducation: "Educação Inclusiva",
+    inclusiveDesc: "Promovendo igualdade de oportunidades para todos os alunos",
+    specializationAreas: "Áreas de Especialização",
+    specializationDesc:
+      "Recursos especializados desenvolvidos para atender às necessidades específicas de diferentes perfis de alunos atípicos.",
+    availableResources: "recursos disponíveis",
+
+    // Conditions
+    autism: "Autismo",
+    autismDesc: "Estratégias e recursos especializados",
+    downSyndrome: "Síndrome de Down",
+    downDesc: "Atividades e metodologias adaptadas",
+    adhd: "TDAH",
+    adhdDesc: "Técnicas de foco e concentração",
+    visualImpairment: "Def. Visual",
+    visualDesc: "Recursos táteis e adaptativos",
+    hearingImpairment: "Def. Auditiva",
+    hearingDesc: "Comunicação visual e inclusiva",
+    resources: "Recursos",
+    about: "Sobre",
   },
   en: {
     // Header
@@ -109,7 +142,6 @@ export const translations = {
     pedagogy: "Pedagogy",
     other: "Other",
 
-    // Added translations
     allSubjects: "All Subjects",
     allSpecialties: "All Specialties",
     difficulty: "Difficulty",
@@ -133,6 +165,39 @@ export const translations = {
     readContent: "Read Content",
     showing: "Showing",
     contents: "content(s)",
+
+    // Homepage
+    platformSubtitle: "Educational Platform - 2025",
+    platformDescription:
+      "A platform dedicated to supporting teachers working with atypical students, offering practical resources, proven strategies, and adapted materials for truly inclusive education.",
+    adaptedQuestions: "Adapted Questions",
+    pedagogicalContent: "Pedagogical Content",
+    researchBased: "Research-Based",
+    researchDesc: "Content based on specialized literature and proven practices",
+    realExperience: "Real Experience",
+    experienceDesc: "Developed with practical experience in neurodiversity",
+    practicalResources: "Practical Resources",
+    practicalDesc: "Activities and ready-to-use classroom materials",
+    inclusiveEducation: "Inclusive Education",
+    inclusiveDesc: "Promoting equal opportunities for all students",
+    specializationAreas: "Specialization Areas",
+    specializationDesc:
+      "Specialized resources developed to meet the specific needs of different profiles of atypical students.",
+    availableResources: "available resources",
+
+    // Conditions
+    autism: "Autism",
+    autismDesc: "Specialized strategies and resources",
+    downSyndrome: "Down Syndrome",
+    downDesc: "Adapted activities and methodologies",
+    adhd: "ADHD",
+    adhdDesc: "Focus and concentration techniques",
+    visualImpairment: "Visual Impairment",
+    visualDesc: "Tactile and adaptive resources",
+    hearingImpairment: "Hearing Impairment",
+    hearingDesc: "Visual and inclusive communication",
+    resources: "Resources",
+    about: "About",
   },
   es: {
     // Header
@@ -177,7 +242,6 @@ export const translations = {
     pedagogy: "Pedagogía",
     other: "Otro",
 
-    // Added translations
     allSubjects: "Todas las Materias",
     allSpecialties: "Todas las Especialidades",
     difficulty: "Dificultad",
@@ -201,6 +265,39 @@ export const translations = {
     readContent: "Leer Contenido",
     showing: "Mostrando",
     contents: "contenido(s)",
+
+    // Homepage
+    platformSubtitle: "Plataforma Educativa - 2025",
+    platformDescription:
+      "Una plataforma dedicada a apoyar a los profesores en el trabajo con estudiantes atípicos, ofreciendo recursos prácticos, estrategias comprobadas y materiales adaptados para una educación verdaderamente inclusiva.",
+    adaptedQuestions: "Preguntas Adaptadas",
+    pedagogicalContent: "Contenidos Pedagógicos",
+    researchBased: "Basado en Investigación",
+    researchDesc: "Contenido basado en literatura especializada y prácticas comprobadas",
+    realExperience: "Experiencia Real",
+    experienceDesc: "Desarrollado con experiencia práctica en neurodiversidad",
+    practicalResources: "Recursos Prácticos",
+    practicalDesc: "Actividades y materiales listos para usar en el aula",
+    inclusiveEducation: "Educación Inclusiva",
+    inclusiveDesc: "Promoviendo igualdad de oportunidades para todos los estudiantes",
+    specializationAreas: "Áreas de Especialización",
+    specializationDesc:
+      "Recursos especializados desarrollados para satisfacer las necesidades específicas de diferentes perfiles de estudiantes atípicos.",
+    availableResources: "recursos disponibles",
+
+    // Conditions
+    autism: "Autismo",
+    autismDesc: "Estrategias y recursos especializados",
+    downSyndrome: "Síndrome de Down",
+    downDesc: "Actividades y metodologías adaptadas",
+    adhd: "TDAH",
+    adhdDesc: "Técnicas de enfoque y concentración",
+    visualImpairment: "Def. Visual",
+    visualDesc: "Recursos táctiles y adaptativos",
+    hearingImpairment: "Def. Auditiva",
+    hearingDesc: "Comunicación visual e inclusiva",
+    resources: "Recursos",
+    about: "Acerca de",
   },
 }
 
