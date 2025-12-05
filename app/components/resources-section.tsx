@@ -1,31 +1,67 @@
 "use client"
 
+import { motion } from "framer-motion"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
-import { BookOpen, Download, FileText, Video, Users, Phone, Mail } from "lucide-react"
+import { Download, FileText, Video, Users, Phone, Mail } from "lucide-react"
+import { useLanguage } from "@/lib/language-context"
 
 export default function ResourcesSection() {
+  const { t, language } = useLanguage()
+
   const materials = [
     {
-      title: "Guia Completo de Educação Inclusiva",
+      title: {
+        pt: "Guia Completo de Educação Inclusiva",
+        en: "Complete Guide to Inclusive Education",
+        es: "Guía Completa de Educación Inclusiva",
+      },
       type: "PDF",
       size: "2.5 MB",
-      description: "Manual abrangente com estratégias para todas as deficiências",
+      description: {
+        pt: "Manual abrangente com estratégias para todas as deficiências",
+        en: "Comprehensive manual with strategies for all disabilities",
+        es: "Manual completo con estrategias para todas las discapacidades",
+      },
       icon: FileText,
     },
     {
-      title: "Vídeos Educativos - Práticas Inclusivas",
-      type: "Vídeo",
-      size: "Serie",
-      description: "Coleção de vídeos demonstrando técnicas em sala de aula",
+      title: {
+        pt: "Vídeos Educativos - Práticas Inclusivas",
+        en: "Educational Videos - Inclusive Practices",
+        es: "Videos Educativos - Prácticas Inclusivas",
+      },
+      type: {
+        pt: "Vídeo",
+        en: "Video",
+        es: "Video",
+      },
+      size: {
+        pt: "Série",
+        en: "Series",
+        es: "Serie",
+      },
+      description: {
+        pt: "Coleção de vídeos demonstrando técnicas em sala de aula",
+        en: "Collection of videos demonstrating classroom techniques",
+        es: "Colección de videos demostrando técnicas en el aula",
+      },
       icon: Video,
     },
     {
-      title: "Kit de Atividades Adaptadas",
+      title: {
+        pt: "Kit de Atividades Adaptadas",
+        en: "Adapted Activities Kit",
+        es: "Kit de Actividades Adaptadas",
+      },
       type: "ZIP",
       size: "15 MB",
-      description: "Mais de 100 atividades prontas para usar",
+      description: {
+        pt: "Mais de 100 atividades prontas para usar",
+        en: "Over 100 ready-to-use activities",
+        es: "Más de 100 actividades listas para usar",
+      },
       icon: Download,
     },
   ]
@@ -35,19 +71,31 @@ export default function ResourcesSection() {
       name: "APAE - Associação de Pais e Amigos dos Excepcionais",
       contact: "(11) 3346-2000",
       email: "contato@apae.org.br",
-      description: "Suporte para pessoas com deficiência intelectual",
+      description: {
+        pt: "Suporte para pessoas com deficiência intelectual",
+        en: "Support for people with intellectual disabilities",
+        es: "Apoyo para personas con discapacidad intelectual",
+      },
     },
     {
       name: "Instituto Benjamin Constant",
       contact: "(21) 3478-4442",
       email: "ibc@ibc.gov.br",
-      description: "Especializado em deficiência visual",
+      description: {
+        pt: "Especializado em deficiência visual",
+        en: "Specialized in visual impairment",
+        es: "Especializado en discapacidad visual",
+      },
     },
     {
       name: "INES - Instituto Nacional de Educação de Surdos",
       contact: "(21) 2285-7546",
       email: "ines@ines.gov.br",
-      description: "Referência em educação de surdos",
+      description: {
+        pt: "Referência em educação de surdos",
+        en: "Reference in deaf education",
+        es: "Referencia en educación para sordos",
+      },
     },
   ]
 
@@ -762,114 +810,120 @@ AVALIAÇÃO DAS ATIVIDADES:
 
   return (
     <div className="space-y-8">
-      <div className="text-center mb-8 relative">
+      <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8 relative">
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-blue-800/20 rounded-3xl blur-3xl"></div>
         <div className="relative z-10 p-8">
-          <h2 className="text-4xl font-bold text-white mb-4">Recursos e Materiais</h2>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-6">
-            Acesse materiais, organizações de apoio e recursos online para enriquecer sua prática pedagógica inclusiva.
+          <h2 className="text-4xl font-bold text-white mb-4">
+            {language === "pt" && "Recursos e Materiais"}
+            {language === "en" && "Resources and Materials"}
+            {language === "es" && "Recursos y Materiales"}
+          </h2>
+          <p className="text-xl text-slate-300 max-w-3xl mx-auto">
+            {language === "pt" && "Downloads gratuitos, organizações parceiras e materiais de apoio para educadores"}
+            {language === "en" && "Free downloads, partner organizations and support materials for educators"}
+            {language === "es" && "Descargas gratuitas, organizaciones asociadas y materiales de apoyo para educadores"}
           </p>
+        </div>
+      </motion.div>
+
+      <div>
+        <h3 className="text-2xl font-bold text-white mb-6">
+          {language === "pt" && "Materiais Educativos"}
+          {language === "en" && "Educational Materials"}
+          {language === "es" && "Materiales Educativos"}
+        </h3>
+        <div className="grid md:grid-cols-3 gap-6">
+          {materials.map((material, index) => {
+            const IconComponent = material.icon
+            return (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: index * 0.1 }}
+                whileHover={{ scale: 1.03 }}
+              >
+                <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300">
+                  <CardHeader>
+                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-4">
+                      <IconComponent className="w-8 h-8 text-white" />
+                    </div>
+                    <CardTitle className="text-white text-center">
+                      {typeof material.title === "object" ? material.title[language] : material.title}
+                    </CardTitle>
+                    <div className="flex justify-center space-x-4 text-sm">
+                      <Badge className="bg-blue-600">
+                        {typeof material.type === "object" ? material.type[language] : material.type}
+                      </Badge>
+                      <Badge variant="outline" className="border-slate-600 text-slate-300">
+                        {typeof material.size === "object" ? material.size[language] : material.size}
+                      </Badge>
+                    </div>
+                    <CardDescription className="text-slate-300 text-center">
+                      {typeof material.description === "object" ? material.description[language] : material.description}
+                    </CardDescription>
+                  </CardHeader>
+                  <CardContent>
+                    <Button
+                      className="w-full bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900"
+                      onClick={() =>
+                        handleDownload(
+                          typeof material.title === "object" ? material.title.pt : material.title,
+                          typeof material.type === "object" ? material.type.pt : material.type,
+                        )
+                      }
+                    >
+                      <Download className="w-4 h-4 mr-2" />
+                      {language === "pt" && "Download Gratuito"}
+                      {language === "en" && "Free Download"}
+                      {language === "es" && "Descarga Gratuita"}
+                    </Button>
+                  </CardContent>
+                </Card>
+              </motion.div>
+            )
+          })}
         </div>
       </div>
 
-      <div className="grid lg:grid-cols-2 gap-8">
-        <Card className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300">
-          <CardHeader>
-            <CardTitle className="flex items-center text-white">
-              <Download className="w-5 h-5 mr-2 text-blue-500" />
-              Materiais para Download
-            </CardTitle>
-            <CardDescription className="text-gray-300">Recursos gratuitos para usar em sala de aula</CardDescription>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {materials.map((material, index) => {
-              const IconComponent = material.icon
-              return (
-                <div
-                  key={index}
-                  className="flex items-center justify-between p-4 border border-gray-800 rounded-lg hover:bg-gray-900/50"
-                >
-                  <div className="flex items-center space-x-3">
-                    <IconComponent className="w-8 h-8 text-blue-500" />
-                    <div>
-                      <h4 className="font-semibold text-white">{material.title}</h4>
-                      <p className="text-sm text-gray-300">{material.description}</p>
-                      <div className="flex items-center space-x-2 mt-1">
-                        <Badge variant="outline" className="border-blue-500 text-blue-400">
-                          {material.type}
-                        </Badge>
-                        <span className="text-xs text-gray-500">{material.size}</span>
-                      </div>
-                    </div>
-                  </div>
-                  <Button
-                    size="sm"
-                    className="bg-blue-600 hover:bg-blue-700"
-                    onClick={() => handleDownload(material.title, material.type)}
-                  >
-                    <Download className="w-4 h-4 mr-2" />
-                    Baixar
-                  </Button>
-                </div>
-              )
-            })}
-          </CardContent>
-        </Card>
-
-        <Card className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300">
-          <CardHeader>
-            <CardTitle className="flex items-center text-white">
-              <Users className="w-5 h-5 mr-2 text-purple-500" />
-              Organizações de Apoio
-            </CardTitle>
-            <CardDescription className="text-gray-300">Instituições que oferecem suporte e orientação</CardDescription>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {organizations.map((org, index) => (
-              <div key={index} className="p-4 border border-gray-800 rounded-lg">
-                <h4 className="font-semibold mb-2 text-white">{org.name}</h4>
-                <p className="text-sm text-gray-300 mb-3">{org.description}</p>
-                <div className="space-y-2">
-                  <div className="flex items-center text-sm text-gray-300">
-                    <Phone className="w-4 h-4 mr-2 text-blue-500" />
-                    {org.contact}
-                  </div>
-                  <div className="flex items-center text-sm text-gray-300">
-                    <Mail className="w-4 h-4 mr-2 text-green-500" />
-                    {org.email}
-                  </div>
-                </div>
-              </div>
-            ))}
-          </CardContent>
-        </Card>
-      </div>
-
-      <Card className="bg-gradient-to-r from-blue-950/50 to-purple-950/50 border-blue-800/50">
-        <CardHeader className="text-center">
-          <CardTitle className="text-2xl text-white">Precisa de Mais Ajuda?</CardTitle>
-          <CardDescription className="text-lg text-gray-300">
-            Nossa equipe está aqui para apoiar sua jornada na educação inclusiva
-          </CardDescription>
-        </CardHeader>
-        <CardContent className="text-center space-y-4">
-          <div className="flex justify-center space-x-4">
-            <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
-              <Mail className="w-5 h-5 mr-2" />
-              Fale Conosco
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="border-blue-500 text-blue-400 hover:bg-blue-600 hover:text-white"
+      <div>
+        <h3 className="text-2xl font-bold text-white mb-6">
+          {language === "pt" && "Organizações Parceiras"}
+          {language === "en" && "Partner Organizations"}
+          {language === "es" && "Organizaciones Asociadas"}
+        </h3>
+        <div className="grid md:grid-cols-3 gap-6">
+          {organizations.map((org, index) => (
+            <motion.div
+              key={index}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: index * 0.1 }}
+              whileHover={{ scale: 1.02 }}
             >
-              <BookOpen className="w-5 h-5 mr-2" />
-              FAQ
-            </Button>
-          </div>
-          <p className="text-sm text-gray-400">Respondemos em até 24 horas • Suporte gratuito para educadores</p>
-        </CardContent>
-      </Card>
+              <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300">
+                <CardHeader>
+                  <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-3">
+                    <Users className="w-6 h-6 text-white" />
+                  </div>
+                  <CardTitle className="text-white text-center text-lg">{org.name}</CardTitle>
+                  <CardDescription className="text-slate-300 text-center">{org.description[language]}</CardDescription>
+                </CardHeader>
+                <CardContent className="space-y-2">
+                  <div className="flex items-center justify-center space-x-2 text-sm text-slate-400">
+                    <Phone className="w-4 h-4" />
+                    <span>{org.contact}</span>
+                  </div>
+                  <div className="flex items-center justify-center space-x-2 text-sm text-blue-400">
+                    <Mail className="w-4 h-4" />
+                    <span>{org.email}</span>
+                  </div>
+                </CardContent>
+              </Card>
+            </motion.div>
+          ))}
+        </div>
+      </div>
     </div>
   )
 }

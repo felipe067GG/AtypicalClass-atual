@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import { motion } from "framer-motion"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
@@ -1006,7 +1007,7 @@ BENEFÍCIOS:
 
   return (
     <div className="space-y-8">
-      <div className="text-center mb-8 relative">
+      <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8 relative">
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-blue-800/20 rounded-3xl blur-3xl"></div>
         <div className="relative z-10 p-8">
           <div className="bg-gradient-to-br from-blue-500 to-blue-700 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -1018,20 +1019,20 @@ BENEFÍCIOS:
             educacional e adaptadas às necessidades específicas de alunos com TDAH.
           </p>
           <div className="flex justify-center space-x-6">
-            <div className="bg-gray-950/70 px-4 py-2 rounded-lg">
+            <div className="bg-slate-900/50 px-4 py-2 rounded-lg">
               <div className="text-2xl font-bold text-blue-400">9</div>
               <div className="text-sm text-gray-400">recursos disponíveis</div>
             </div>
-            <div className="bg-gray-950/70 px-4 py-2 rounded-lg">
+            <div className="bg-slate-900/50 px-4 py-2 rounded-lg">
               <div className="text-2xl font-bold text-blue-400">89%</div>
               <div className="text-sm text-gray-400">eficácia média</div>
             </div>
           </div>
         </div>
-      </div>
+      </motion.div>
 
       <Tabs defaultValue="strategies" className="w-full">
-        <TabsList className="grid w-full grid-cols-4 bg-gray-950/70 border border-gray-800">
+        <TabsList className="grid w-full grid-cols-4 bg-slate-900/50 border border-slate-700">
           <TabsTrigger value="strategies" className="data-[state=active]:bg-blue-600">
             Estratégias
           </TabsTrigger>
@@ -1049,37 +1050,42 @@ BENEFÍCIOS:
         <TabsContent value="strategies" className="space-y-6">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {strategies.map((strategy, index) => (
-              <Card
+              <motion.div
                 key={index}
-                className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300 h-full"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: index * 0.1 }}
+                whileHover={{ scale: 1.03 }}
               >
-                <CardHeader>
-                  <div className="flex justify-between items-start mb-2">
-                    <CardTitle className="text-xl text-blue-400">{strategy.title}</CardTitle>
-                    <Badge className={`${getDifficultyColor(strategy.difficulty)} text-white`}>
-                      {strategy.difficulty}
-                    </Badge>
-                  </div>
-                  <CardDescription className="text-gray-300">{strategy.description}</CardDescription>
-                  <div className="flex items-center space-x-4 text-sm text-gray-400">
-                    <div className="flex items-center space-x-1">
-                      <Target className="w-4 h-4" />
-                      <span>{strategy.effectiveness}% eficaz</span>
+                <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300 h-full">
+                  <CardHeader>
+                    <div className="flex justify-between items-start mb-2">
+                      <CardTitle className="text-xl text-blue-400">{strategy.title}</CardTitle>
+                      <Badge className={`${getDifficultyColor(strategy.difficulty)} text-white`}>
+                        {strategy.difficulty}
+                      </Badge>
                     </div>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <ul className="space-y-2 mb-4">
-                    {strategy.tips.map((tip, tipIndex) => (
-                      <li key={tipIndex} className="flex items-center text-sm text-gray-300">
-                        <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
-                        {tip}
-                      </li>
-                    ))}
-                  </ul>
-                  <div className="text-xs text-gray-500 italic border-t border-gray-800 pt-2">{strategy.source}</div>
-                </CardContent>
-              </Card>
+                    <CardDescription className="text-gray-300">{strategy.description}</CardDescription>
+                    <div className="flex items-center space-x-4 text-sm text-gray-400">
+                      <div className="flex items-center space-x-1">
+                        <Target className="w-4 h-4" />
+                        <span>{strategy.effectiveness}% eficaz</span>
+                      </div>
+                    </div>
+                  </CardHeader>
+                  <CardContent>
+                    <ul className="space-y-2 mb-4">
+                      {strategy.tips.map((tip, tipIndex) => (
+                        <li key={tipIndex} className="flex items-center text-sm text-gray-300">
+                          <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
+                          {tip}
+                        </li>
+                      ))}
+                    </ul>
+                    <div className="text-xs text-gray-500 italic border-t border-gray-800 pt-2">{strategy.source}</div>
+                  </CardContent>
+                </Card>
+              </motion.div>
             ))}
           </div>
         </TabsContent>
@@ -1087,69 +1093,74 @@ BENEFÍCIOS:
         <TabsContent value="activities" className="space-y-6">
           <div className="grid md:grid-cols-2 gap-6">
             {activities.map((activity, index) => (
-              <Card
+              <motion.div
                 key={index}
-                className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: index * 0.1 }}
+                whileHover={{ scale: 1.02 }}
               >
-                <CardHeader>
-                  <div className="flex justify-between items-start">
-                    <div className="flex-1">
-                      <CardTitle className="text-lg text-white mb-2">{activity.name}</CardTitle>
-                      <div className="flex items-center space-x-4 mb-3">
-                        <Badge variant="outline" className="border-blue-500 text-blue-400">
-                          {activity.age}
-                        </Badge>
-                        <div className="flex items-center space-x-1 text-sm text-gray-400">
-                          <Clock className="w-4 h-4" />
-                          <span>{activity.duration}</span>
-                        </div>
-                        <div className="flex items-center space-x-1 text-sm text-gray-400">
-                          <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                          <span>{activity.rating}</span>
+                <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300">
+                  <CardHeader>
+                    <div className="flex justify-between items-start">
+                      <div className="flex-1">
+                        <CardTitle className="text-lg text-white mb-2">{activity.name}</CardTitle>
+                        <div className="flex items-center space-x-4 mb-3">
+                          <Badge variant="outline" className="border-blue-500 text-blue-400">
+                            {activity.age}
+                          </Badge>
+                          <div className="flex items-center space-x-1 text-sm text-gray-400">
+                            <Clock className="w-4 h-4" />
+                            <span>{activity.duration}</span>
+                          </div>
+                          <div className="flex items-center space-x-1 text-sm text-gray-400">
+                            <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
+                            <span>{activity.rating}</span>
+                          </div>
                         </div>
                       </div>
                     </div>
-                  </div>
-                  <CardDescription className="text-gray-300">{activity.description}</CardDescription>
-                </CardHeader>
-                <CardContent className="space-y-4">
-                  <div>
-                    <h5 className="text-sm font-semibold text-gray-400 mb-2">Materiais:</h5>
-                    <div className="flex flex-wrap gap-1">
-                      {activity.materials.map((material, i) => (
-                        <Badge key={i} variant="outline" className="border-gray-600 text-gray-300 text-xs">
-                          {material}
-                        </Badge>
-                      ))}
+                    <CardDescription className="text-gray-300">{activity.description}</CardDescription>
+                  </CardHeader>
+                  <CardContent className="space-y-4">
+                    <div>
+                      <h5 className="text-sm font-semibold text-gray-400 mb-2">Materiais:</h5>
+                      <div className="flex flex-wrap gap-1">
+                        {activity.materials.map((material, i) => (
+                          <Badge key={i} variant="outline" className="border-gray-600 text-gray-300 text-xs">
+                            {material}
+                          </Badge>
+                        ))}
+                      </div>
                     </div>
-                  </div>
-                  <div>
-                    <h5 className="text-sm font-semibold text-gray-400 mb-2">Objetivos:</h5>
-                    <div className="flex flex-wrap gap-1">
-                      {activity.objectives.map((objective, i) => (
-                        <Badge key={i} className="bg-blue-600 text-white text-xs">
-                          {objective}
-                        </Badge>
-                      ))}
+                    <div>
+                      <h5 className="text-sm font-semibold text-gray-400 mb-2">Objetivos:</h5>
+                      <div className="flex flex-wrap gap-1">
+                        {activity.objectives.map((objective, i) => (
+                          <Badge key={i} className="bg-blue-600 text-white text-xs">
+                            {objective}
+                          </Badge>
+                        ))}
+                      </div>
                     </div>
-                  </div>
-                  <div>
-                    <h5 className="text-sm font-semibold text-gray-400 mb-2">Fundamentação:</h5>
-                    <p className="text-sm text-gray-300">{activity.implementation}</p>
-                  </div>
-                  <div className="flex justify-between items-center pt-2">
-                    <span className="text-sm text-gray-400">{activity.downloads} downloads</span>
-                    <Button
-                      size="sm"
-                      className="bg-blue-600 hover:bg-blue-700"
-                      onClick={() => handleViewDetails(activity)}
-                    >
-                      <BookOpen className="w-4 h-4 mr-2" />
-                      Ver Detalhes
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+                    <div>
+                      <h5 className="text-sm font-semibold text-gray-400 mb-2">Fundamentação:</h5>
+                      <p className="text-sm text-gray-300">{activity.implementation}</p>
+                    </div>
+                    <div className="flex justify-between items-center pt-2">
+                      <span className="text-sm text-gray-400">{activity.downloads} downloads</span>
+                      <Button
+                        size="sm"
+                        className="bg-blue-600 hover:bg-blue-700"
+                        onClick={() => handleViewDetails(activity)}
+                      >
+                        <BookOpen className="w-4 h-4 mr-2" />
+                        Ver Detalhes
+                      </Button>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
             ))}
           </div>
         </TabsContent>
@@ -1157,48 +1168,53 @@ BENEFÍCIOS:
         <TabsContent value="courses" className="space-y-6">
           <div className="grid md:grid-cols-2 gap-6">
             {courses.map((course, index) => (
-              <Card
+              <motion.div
                 key={index}
-                className="bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: index * 0.1 }}
+                whileHover={{ scale: 1.02 }}
               >
-                <CardHeader>
-                  <div className="flex justify-between items-start mb-2">
-                    <CardTitle className="text-lg text-white">{course.title}</CardTitle>
-                    {course.certificate && <Badge className="bg-blue-600 text-white">Certificado</Badge>}
-                  </div>
-                  <CardDescription className="text-blue-400">{course.provider}</CardDescription>
-                  <div className="flex items-center space-x-4 text-sm text-gray-400">
-                    <div className="flex items-center space-x-1">
-                      <Clock className="w-4 h-4" />
-                      <span>{course.duration}</span>
+                <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300">
+                  <CardHeader>
+                    <div className="flex justify-between items-start mb-2">
+                      <CardTitle className="text-lg text-white">{course.title}</CardTitle>
+                      {course.certificate && <Badge className="bg-blue-600 text-white">Certificado</Badge>}
                     </div>
-                    <div className="flex items-center space-x-1">
-                      <BookOpen className="w-4 h-4" />
-                      <span>{course.modules} módulos</span>
-                    </div>
-                    <Badge className={getDifficultyColor(course.level)}>{course.level}</Badge>
-                  </div>
-                </CardHeader>
-                <CardContent className="space-y-4">
-                  <div className="flex justify-between items-center">
-                    <div className="flex items-center space-x-2">
+                    <CardDescription className="text-blue-400">{course.provider}</CardDescription>
+                    <div className="flex items-center space-x-4 text-sm text-gray-400">
                       <div className="flex items-center space-x-1">
-                        <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                        <span className="text-white">{course.rating}</span>
+                        <Clock className="w-4 h-4" />
+                        <span>{course.duration}</span>
                       </div>
-                      <span className="text-gray-400">({course.students} alunos)</span>
+                      <div className="flex items-center space-x-1">
+                        <BookOpen className="w-4 h-4" />
+                        <span>{course.modules} módulos</span>
+                      </div>
+                      <Badge className={getDifficultyColor(course.level)}>{course.level}</Badge>
                     </div>
-                    <span className="text-2xl font-bold text-blue-400">{course.price}</span>
-                  </div>
-                  <Button
-                    className="w-full bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900"
-                    onClick={() => window.open(course.url, "_blank")}
-                  >
-                    <ExternalLink className="w-4 h-4 mr-2" />
-                    Acessar Curso
-                  </Button>
-                </CardContent>
-              </Card>
+                  </CardHeader>
+                  <CardContent className="space-y-4">
+                    <div className="flex justify-between items-center">
+                      <div className="flex items-center space-x-2">
+                        <div className="flex items-center space-x-1">
+                          <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
+                          <span className="text-white">{course.rating}</span>
+                        </div>
+                        <span className="text-gray-400">({course.students} alunos)</span>
+                      </div>
+                      <span className="text-2xl font-bold text-blue-400">{course.price}</span>
+                    </div>
+                    <Button
+                      className="w-full bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900"
+                      onClick={() => window.open(course.url, "_blank")}
+                    >
+                      <ExternalLink className="w-4 h-4 mr-2" />
+                      Acessar Curso
+                    </Button>
+                  </CardContent>
+                </Card>
+              </motion.div>
             ))}
           </div>
         </TabsContent>
@@ -1206,30 +1222,37 @@ BENEFÍCIOS:
         <TabsContent value="resources" className="space-y-6">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {resources.map((resource, index) => (
-              <Card
+              <motion.div
                 key={index}
-                className={`bg-gray-950/70 border-gray-800 hover:bg-gray-950/90 transition-all duration-300 ${
-                  resource.featured ? "ring-2 ring-blue-500/50" : ""
-                }`}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: index * 0.1 }}
+                whileHover={{ scale: 1.02 }}
               >
-                <CardHeader>
-                  <div className="flex justify-between items-start">
-                    <CardTitle className="text-lg text-white">{resource.title}</CardTitle>
-                    {resource.featured && <Badge className="bg-blue-500 text-white">Destaque</Badge>}
-                  </div>
-                  <Badge className="bg-blue-600 text-white w-fit">{resource.type}</Badge>
-                  <CardDescription className="text-gray-300">{resource.description}</CardDescription>
-                </CardHeader>
-                <CardContent className="space-y-4">
-                  <Button
-                    className="w-full bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900"
-                    onClick={() => handleDownload(resource)}
-                  >
-                    <Download className="w-4 h-4 mr-2" />
-                    Download Gratuito
-                  </Button>
-                </CardContent>
-              </Card>
+                <Card
+                  className={`bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300 ${
+                    resource.featured ? "ring-2 ring-blue-500/50" : ""
+                  }`}
+                >
+                  <CardHeader>
+                    <div className="flex justify-between items-start">
+                      <CardTitle className="text-lg text-white">{resource.title}</CardTitle>
+                      {resource.featured && <Badge className="bg-blue-500 text-white">Destaque</Badge>}
+                    </div>
+                    <Badge className="bg-blue-600 text-white w-fit">{resource.type}</Badge>
+                    <CardDescription className="text-gray-300">{resource.description}</CardDescription>
+                  </CardHeader>
+                  <CardContent className="space-y-4">
+                    <Button
+                      className="w-full bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900"
+                      onClick={() => handleDownload(resource)}
+                    >
+                      <Download className="w-4 h-4 mr-2" />
+                      Download Gratuito
+                    </Button>
+                  </CardContent>
+                </Card>
+              </motion.div>
             ))}
           </div>
         </TabsContent>
