@@ -2,7 +2,14 @@
 
 import { Button } from "@/components/ui/button"
 import { Download, Globe } from "lucide-react"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+} from "@/components/ui/dropdown-menu"
 import { useLanguage } from "@/lib/language-context"
 
 interface DownloadButtonProps {
@@ -13,7 +20,7 @@ interface DownloadButtonProps {
 }
 
 export function DownloadButton({ fileBaseName, label, size = "sm", className = "" }: DownloadButtonProps) {
-  const { language } = useLanguage()
+  const { t } = useLanguage()
 
   const downloads = {
     pt: `/downloads/${fileBaseName}-pt.pdf`,
@@ -22,9 +29,9 @@ export function DownloadButton({ fileBaseName, label, size = "sm", className = "
   }
 
   const languageNames = {
-    pt: "Português (PT)",
-    en: "English (EN)",
-    es: "Español (ES)",
+    pt: "Português",
+    en: "English",
+    es: "Español",
   }
 
   const handleDownload = (lang: "pt" | "en" | "es") => {
@@ -41,28 +48,30 @@ export function DownloadButton({ fileBaseName, label, size = "sm", className = "
       <DropdownMenuTrigger asChild>
         <Button size={size} className={`bg-blue-600 hover:bg-blue-700 ${className}`}>
           <Download className="w-4 h-4 mr-2" />
-          {label || "Download"} {languageNames[language]}
+          {label || t("download")}
           <Globe className="w-3 h-3 ml-2" />
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="bg-gray-900 border-gray-700">
+        <DropdownMenuLabel className="text-gray-400">{t("selectLanguage")}</DropdownMenuLabel>
+        <DropdownMenuSeparator className="bg-gray-700" />
         <DropdownMenuItem
           onClick={() => handleDownload("pt")}
           className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
         >
-          <span className={language === "pt" ? "font-bold text-blue-400" : ""}>{languageNames.pt}</span>
+          🇧🇷 {languageNames.pt}
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleDownload("en")}
           className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
         >
-          <span className={language === "en" ? "font-bold text-blue-400" : ""}>{languageNames.en}</span>
+          🇺🇸 {languageNames.en}
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleDownload("es")}
           className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
         >
-          <span className={language === "es" ? "font-bold text-blue-400" : ""}>{languageNames.es}</span>
+          🇪🇸 {languageNames.es}
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>

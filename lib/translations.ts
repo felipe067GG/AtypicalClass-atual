@@ -98,6 +98,42 @@ export const translations = {
     hearingDesc: "Comunicação visual e inclusiva",
     resources: "Recursos",
     about: "Sobre",
+
+    // Questions page
+    questionsBank: "Banco de Questões",
+    questionsBankDesc: "Questões de diversas matérias e especialidades para estudo e prática",
+    subject: "Matéria",
+    searchPlaceholder: "Buscar por título, especialidade ou conteúdo...",
+
+    // Content page
+    contentLibrary: "Biblioteca de Conteúdos",
+    educationalContent: "Conteúdos Educacionais",
+    contentDesc: "Materiais teóricos e práticos de diversas disciplinas para apoiar o ensino",
+    searchContent: "Buscar conteúdos, especialidades ou tags...",
+
+    // Contribute page
+    contribute: "Atribuir",
+    teacherCommunity: "Comunidade de Professores",
+    shareWithCommunity: "Compartilhe com a comunidade",
+    createPost: "Criar Publicação",
+    communityFeed: "Feed da Comunidade",
+    writeComment: "Escreva um comentário...",
+    confirmDelete: "Tem certeza que deseja deletar esta publicação?",
+    likes: "Curtidas",
+    comments: "Comentários",
+    publish: "Publicar",
+    publishMessage: "Publicar Mensagem",
+    publishTip: "Publicar Dica",
+    publishQuestion: "Publicar Questão",
+    publishing: "Publicando...",
+    loggedAs: "Logado como",
+    delete: "Deletar",
+    send: "Enviar",
+
+    // Download
+    selectLanguage: "Selecione o idioma",
+    download: "Baixar",
+    downloadMaterial: "Baixar Material",
   },
   en: {
     // Header
@@ -198,6 +234,42 @@ export const translations = {
     hearingDesc: "Visual and inclusive communication",
     resources: "Resources",
     about: "About",
+
+    // Questions page
+    questionsBank: "Question Bank",
+    questionsBankDesc: "Questions from various subjects and specialties for study and practice",
+    subject: "Subject",
+    searchPlaceholder: "Search by title, specialty or content...",
+
+    // Content page
+    contentLibrary: "Content Library",
+    educationalContent: "Educational Content",
+    contentDesc: "Theoretical and practical materials from various disciplines to support teaching",
+    searchContent: "Search content, specialties or tags...",
+
+    // Contribute page
+    contribute: "Contribute",
+    teacherCommunity: "Teacher Community",
+    shareWithCommunity: "Share with the community",
+    createPost: "Create Post",
+    communityFeed: "Community Feed",
+    writeComment: "Write a comment...",
+    confirmDelete: "Are you sure you want to delete this post?",
+    likes: "Likes",
+    comments: "Comments",
+    publish: "Publish",
+    publishMessage: "Publish Message",
+    publishTip: "Publish Tip",
+    publishQuestion: "Publish Question",
+    publishing: "Publishing...",
+    loggedAs: "Logged in as",
+    delete: "Delete",
+    send: "Send",
+
+    // Download
+    selectLanguage: "Select language",
+    download: "Download",
+    downloadMaterial: "Download Material",
   },
   es: {
     // Header
@@ -298,6 +370,42 @@ export const translations = {
     hearingDesc: "Comunicación visual e inclusiva",
     resources: "Recursos",
     about: "Acerca de",
+
+    // Questions page
+    questionsBank: "Banco de Preguntas",
+    questionsBankDesc: "Preguntas de diversas materias y especialidades para estudio y práctica",
+    subject: "Materia",
+    searchPlaceholder: "Buscar por título, especialidad o contenido...",
+
+    // Content page
+    contentLibrary: "Biblioteca de Contenidos",
+    educationalContent: "Contenidos Educativos",
+    contentDesc: "Materiales teóricos y prácticos de diversas disciplinas para apoyar la enseñanza",
+    searchContent: "Buscar contenidos, especialidades o etiquetas...",
+
+    // Contribute page
+    contribute: "Contribuir",
+    teacherCommunity: "Comunidad de Profesores",
+    shareWithCommunity: "Comparte con la comunidad",
+    createPost: "Crear Publicación",
+    communityFeed: "Feed de la Comunidad",
+    writeComment: "Escribe un comentario...",
+    confirmDelete: "¿Está seguro de que desea eliminar esta publicación?",
+    likes: "Me gusta",
+    comments: "Comentarios",
+    publish: "Publicar",
+    publishMessage: "Publicar Mensaje",
+    publishTip: "Publicar Consejo",
+    publishQuestion: "Publicar Pregunta",
+    publishing: "Publicando...",
+    loggedAs: "Conectado como",
+    delete: "Eliminar",
+    send: "Enviar",
+
+    // Download
+    selectLanguage: "Seleccione el idioma",
+    download: "Descargar",
+    downloadMaterial: "Descargar Material",
   },
 }
 

@@ -157,11 +157,9 @@ export default function QuestoesPage() {
         >
           <div className="text-center mb-8">
             <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
-              Banco de Questões
+              {t("questionsBank")}
             </h1>
-            <p className="text-xl text-slate-300 max-w-3xl mx-auto">
-              Questões de diversas matérias e especialidades para estudo e prática
-            </p>
+            <p className="text-xl text-slate-300 max-w-3xl mx-auto">{t("questionsBankDesc")}</p>
           </div>
 
           {/* Filters */}
@@ -175,7 +173,7 @@ export default function QuestoesPage() {
             <CardContent className="space-y-4">
               <div className="grid md:grid-cols-3 gap-4">
                 <div>
-                  <label className="text-sm text-slate-400 mb-2 block">Matéria</label>
+                  <label className="text-sm text-slate-400 mb-2 block">{t("subject")}</label>
                   <Select value={selectedSubject} onValueChange={setSelectedSubject}>
                     <SelectTrigger className="bg-gray-800/50 border-gray-700">
                       <SelectValue />
@@ -191,7 +189,7 @@ export default function QuestoesPage() {
                 </div>
 
                 <div>
-                  <label className="text-sm text-slate-400 mb-2 block">Especialidade</label>
+                  <label className="text-sm text-slate-400 mb-2 block">{t("specialty")}</label>
                   <Select value={selectedSpecialty} onValueChange={setSelectedSpecialty}>
                     <SelectTrigger className="bg-gray-800/50 border-gray-700">
                       <SelectValue />
@@ -226,7 +224,7 @@ export default function QuestoesPage() {
                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-slate-500" />
                 <Input
                   type="text"
-                  placeholder="Buscar por título, especialidade ou conteúdo..."
+                  placeholder={t("searchPlaceholder")}
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   className="pl-10 bg-gray-800/50 border-gray-700"
@@ -331,7 +329,7 @@ export default function QuestoesPage() {
                       variant="outline"
                       className="border-gray-700"
                     >
-                      ← Anterior
+                      ← {t("previous")}
                     </Button>
                     <Button
                       onClick={handleNextQuestion}
@@ -341,7 +339,7 @@ export default function QuestoesPage() {
                       }
                       className="bg-blue-600 hover:bg-blue-700"
                     >
-                      Próxima →
+                      {t("next")} →
                     </Button>
                   </div>
                 </CardContent>
@@ -373,7 +371,7 @@ export default function QuestoesPage() {
                     <CardContent>
                       <Button className="w-full bg-blue-600 hover:bg-blue-700">
                         <BookOpen className="w-4 h-4 mr-2" />
-                        Responder
+                        {t("answer")}
                       </Button>
                     </CardContent>
                   </Card>

@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge"
 import { Search, BookOpen, FileText } from "lucide-react"
 import Header from "../components/header"
 import { createClient } from "@/lib/supabase/client"
+import { useLanguage } from "@/hooks/useLanguage"
 
 interface Content {
   id: string
@@ -41,6 +42,7 @@ export default function ConteudosPage() {
   const [selectedContent, setSelectedContent] = useState<Content | null>(null)
   const [contents, setContents] = useState<Content[]>([])
   const [loading, setLoading] = useState(true)
+  const { t } = useLanguage()
 
   useEffect(() => {
     const loadContents = async () => {
@@ -96,14 +98,12 @@ export default function ConteudosPage() {
         >
           <div className="inline-flex items-center bg-gradient-to-r from-blue-600/20 to-blue-800/20 border border-blue-500/30 rounded-full px-6 py-2 mb-4">
             <BookOpen className="w-5 h-5 mr-2 text-blue-400" />
-            <span className="text-blue-300">Biblioteca de Conteúdos</span>
+            <span className="text-blue-300">{t("contentLibrary")}</span>
           </div>
           <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
-            Conteúdos Educacionais
+            {t("educationalContent")}
           </h1>
-          <p className="text-xl text-slate-300 max-w-3xl mx-auto">
-            Materiais teóricos e práticos de diversas disciplinas para apoiar o ensino
-          </p>
+          <p className="text-xl text-slate-300 max-w-3xl mx-auto">{t("contentDesc")}</p>
         </motion.div>
 
         {/* Search and Filters */}
@@ -117,7 +117,7 @@ export default function ConteudosPage() {
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
             <Input
               type="text"
-              placeholder="Buscar conteúdos, especialidades ou tags..."
+              placeholder={t("searchContent")}
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               className="pl-10 bg-gray-900/50 border-gray-700 text-white placeholder:text-gray-400"
@@ -150,7 +150,8 @@ export default function ConteudosPage() {
           className="mb-4"
         >
           <p className="text-gray-400">
-            Mostrando <span className="text-blue-400 font-semibold">{filteredContents.length}</span> conteúdo(s)
+            {t("showing")} <span className="text-blue-400 font-semibold">{filteredContents.length}</span>{" "}
+            {t("contents")}
           </p>
         </motion.div>
 
@@ -203,7 +204,7 @@ export default function ConteudosPage() {
                     variant="outline"
                     className="border-gray-700"
                   >
-                    ← Anterior
+                    ← {t("previous")}
                   </Button>
                   <Button
                     onClick={() => {
@@ -217,7 +218,7 @@ export default function ConteudosPage() {
                     }
                     className="bg-blue-600 hover:bg-blue-700"
                   >
-                    Próximo →
+                    {t("next")} →
                   </Button>
                 </div>
               </CardContent>
@@ -268,7 +269,7 @@ export default function ConteudosPage() {
                       </div>
                       <Button className="w-full bg-blue-600 hover:bg-blue-700">
                         <FileText className="w-4 h-4 mr-2" />
-                        Ler Conteúdo
+                        {t("readContent")}
                       </Button>
                     </CardContent>
                   </Card>
@@ -282,7 +283,7 @@ export default function ConteudosPage() {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="text-center py-12">
             <Card className="bg-gray-900/50 border-gray-800">
               <CardContent className="py-12">
-                <p className="text-gray-400 text-lg">Nenhum conteúdo encontrado com os filtros selecionados.</p>
+                <p className="text-gray-400 text-lg">{t("noContentFound")}</p>
               </CardContent>
             </Card>
           </motion.div>

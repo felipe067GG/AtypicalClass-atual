@@ -28,6 +28,7 @@ import Header from "../components/header"
 import { useRouter } from "next/navigation"
 import { createClient } from "@/lib/supabase/client"
 import { createPost, likePost, addComment, deletePost } from "../actions/posts"
+import { useLanguage } from "@/lib/language-context"
 
 const subjects = [
   "Português",
@@ -81,6 +82,7 @@ interface Comment {
 
 export default function ContribuirPage() {
   const router = useRouter()
+  const { t } = useLanguage() // Added translation hook
   const [user, setUser] = useState<any>(null)
   const [loading, setLoading] = useState(false)
   const [message, setMessage] = useState("")
@@ -296,7 +298,7 @@ export default function ContribuirPage() {
       <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white flex items-center justify-center">
         <div className="text-center">
           <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-          <p className="text-slate-300">Verificando autenticação...</p>
+          <p className="text-slate-300">{t("authenticating")}</p>
         </div>
       </div>
     )
@@ -309,14 +311,14 @@ export default function ContribuirPage() {
       <main className="container mx-auto px-4 py-8">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
-            Atribuir - Comunidade de Professores
+            {t("contribute")} - {t("teacherCommunity")}
           </h1>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Compartilhe mensagens, dicas pedagógicas e questões com outros professores
-          </p>
+          <p className="text-xl text-gray-300 max-w-3xl mx-auto">{t("shareWithCommunity")}</p>
           <div className="mt-4 inline-flex items-center gap-2 px-4 py-2 bg-green-950/30 border border-green-500/30 rounded-lg">
             <CheckCircle2 className="w-5 h-5 text-green-400" />
-            <span className="text-green-300">Logado como: {user.name}</span>
+            <span className="text-green-300">
+              {t("loggedAs")}: {user.name}
+            </span>
           </div>
         </motion.div>
 
@@ -326,23 +328,23 @@ export default function ContribuirPage() {
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2 }}>
               <Card className="bg-gray-950/70 border-gray-800 sticky top-24">
                 <CardHeader>
-                  <CardTitle className="text-white">Criar Publicação</CardTitle>
-                  <CardDescription className="text-slate-400">Compartilhe com a comunidade</CardDescription>
+                  <CardTitle className="text-white">{t("createPost")}</CardTitle>
+                  <CardDescription className="text-slate-400">{t("shareWithCommunity")}</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <Tabs defaultValue="message" className="w-full">
                     <TabsList className="grid w-full grid-cols-3 bg-gray-900">
                       <TabsTrigger value="message" className="text-xs">
                         <MessageSquare className="w-3 h-3 mr-1" />
-                        Mensagem
+                        {t("message")}
                       </TabsTrigger>
                       <TabsTrigger value="tip" className="text-xs">
                         <Lightbulb className="w-3 h-3 mr-1" />
-                        Dica
+                        {t("tip")}
                       </TabsTrigger>
                       <TabsTrigger value="question" className="text-xs">
                         <HelpCircle className="w-3 h-3 mr-1" />
-                        Questão
+                        {t("question")}
                       </TabsTrigger>
                     </TabsList>
 
@@ -350,30 +352,30 @@ export default function ContribuirPage() {
                       <form onSubmit={handleSubmitMessage} className="space-y-4 mt-4">
                         <div className="space-y-2">
                           <Label htmlFor="message-title" className="text-gray-300">
-                            Título
+                            {t("title")}
                           </Label>
                           <Input
                             id="message-title"
                             name="title"
-                            placeholder="Título da mensagem"
+                            placeholder={t("messageTitle")}
                             className="bg-gray-900 border-gray-700 text-white"
                             required
                           />
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="message-content" className="text-gray-300">
-                            Mensagem
+                            {t("message")}
                           </Label>
                           <Textarea
                             id="message-content"
                             name="content"
-                            placeholder="Compartilhe suas ideias..."
+                            placeholder={t("shareIdeas")}
                             className="bg-gray-900 border-gray-700 text-white min-h-[120px]"
                             required
                           />
                         </div>
                         <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={loading}>
-                          {loading ? "Publicando..." : "Publicar Mensagem"}
+                          {loading ? t("publishing") : t("publishMessage")}
                         </Button>
                       </form>
                     </TabsContent>
@@ -382,10 +384,10 @@ export default function ContribuirPage() {
                       <form onSubmit={handleSubmitTip} className="space-y-4 mt-4">
                         <div className="grid grid-cols-2 gap-2">
                           <div className="space-y-2">
-                            <Label className="text-gray-300">Matéria</Label>
+                            <Label className="text-gray-300">{t("subject")}</Label>
                             <Select name="subject" required>
                               <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
-                                <SelectValue placeholder="Selecione" />
+                                <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
                                 {subjects.map((subject) => (
@@ -397,10 +399,10 @@ export default function ContribuirPage() {
                             </Select>
                           </div>
                           <div className="space-y-2">
-                            <Label className="text-gray-300">Especialidade</Label>
+                            <Label className="text-gray-300">{t("specialty")}</Label>
                             <Select name="specialty" required>
                               <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
-                                <SelectValue placeholder="Selecione" />
+                                <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
                                 {specialties.map((specialty) => (
@@ -414,7 +416,7 @@ export default function ContribuirPage() {
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="tip-title" className="text-gray-300">
-                            Título da Dica
+                            {t("tipTitle")}
                           </Label>
                           <Input
                             id="tip-title"
@@ -426,30 +428,30 @@ export default function ContribuirPage() {
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="tip-description" className="text-gray-300">
-                            Descrição Breve
+                            {t("description")}
                           </Label>
                           <Input
                             id="tip-description"
                             name="description"
-                            placeholder="Resumo da dica"
+                            placeholder={t("tipDescription")}
                             className="bg-gray-900 border-gray-700 text-white"
                             required
                           />
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="tip-content" className="text-gray-300">
-                            Conteúdo da Dica
+                            {t("content")}
                           </Label>
                           <Textarea
                             id="tip-content"
                             name="content"
-                            placeholder="Descreva sua dica pedagógica..."
+                            placeholder={t("sharePedagogicalTip")}
                             className="bg-gray-900 border-gray-700 text-white min-h-[120px]"
                             required
                           />
                         </div>
                         <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={loading}>
-                          {loading ? "Publicando..." : "Publicar Dica"}
+                          {loading ? t("publishing") : t("publishTip")}
                         </Button>
                       </form>
                     </TabsContent>
@@ -458,10 +460,10 @@ export default function ContribuirPage() {
                       <form onSubmit={handleSubmitQuestion} className="space-y-4 mt-4">
                         <div className="grid grid-cols-2 gap-2">
                           <div className="space-y-2">
-                            <Label className="text-gray-300">Matéria</Label>
+                            <Label className="text-gray-300">{t("subject")}</Label>
                             <Select name="subject" required>
                               <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
-                                <SelectValue placeholder="Selecione" />
+                                <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
                                 {subjects.map((subject) => (
@@ -473,10 +475,10 @@ export default function ContribuirPage() {
                             </Select>
                           </div>
                           <div className="space-y-2">
-                            <Label className="text-gray-300">Especialidade</Label>
+                            <Label className="text-gray-300">{t("specialty")}</Label>
                             <Select name="specialty" required>
                               <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
-                                <SelectValue placeholder="Selecione" />
+                                <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
                                 {specialties.map((specialty) => (
@@ -490,31 +492,31 @@ export default function ContribuirPage() {
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="question-title" className="text-gray-300">
-                            Título
+                            {t("title")}
                           </Label>
                           <Input
                             id="question-title"
                             name="title"
-                            placeholder="Título da questão"
+                            placeholder={t("questionTitle")}
                             className="bg-gray-900 border-gray-700 text-white"
                             required
                           />
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="question-text" className="text-gray-300">
-                            Enunciado
+                            {t("enunciation")}
                           </Label>
                           <Textarea
                             id="question-text"
                             name="question_text"
-                            placeholder="Digite o enunciado..."
+                            placeholder={t("writeEnunciation")}
                             className="bg-gray-900 border-gray-700 text-white min-h-[80px]"
                             required
                           />
                         </div>
                         <div className="space-y-2">
                           <div className="flex items-center justify-between">
-                            <Label className="text-gray-300">Alternativas</Label>
+                            <Label className="text-gray-300">{t("alternatives")}</Label>
                             <Button
                               type="button"
                               onClick={addOption}
@@ -524,7 +526,7 @@ export default function ContribuirPage() {
                               disabled={options.length >= 6}
                             >
                               <Plus className="w-3 h-3 mr-1" />
-                              Adicionar
+                              {t("add")}
                             </Button>
                           </div>
                           {options.map((option, index) => (
@@ -532,7 +534,7 @@ export default function ContribuirPage() {
                               <Input
                                 value={option}
                                 onChange={(e) => updateOption(index, e.target.value)}
-                                placeholder={`Alternativa ${index + 1}`}
+                                placeholder={`${t("alternative")} ${index + 1}`}
                                 className="bg-gray-900 border-gray-700 text-white text-sm"
                                 required
                               />
@@ -551,7 +553,7 @@ export default function ContribuirPage() {
                           ))}
                         </div>
                         <div className="space-y-2">
-                          <Label className="text-gray-300">Resposta Correta</Label>
+                          <Label className="text-gray-300">{t("correctAnswer")}</Label>
                           <Select value={correctAnswer} onValueChange={setCorrectAnswer} required>
                             <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
                               <SelectValue />
@@ -560,7 +562,7 @@ export default function ContribuirPage() {
                               {options.map((option, index) =>
                                 option.trim() ? (
                                   <SelectItem key={index} value={index.toString()}>
-                                    Alt. {index + 1}: {option.substring(0, 30)}
+                                    {t("alt")}. {index + 1}: {option.substring(0, 30)}
                                     {option.length > 30 ? "..." : ""}
                                   </SelectItem>
                                 ) : null,
@@ -570,33 +572,33 @@ export default function ContribuirPage() {
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="explanation" className="text-gray-300">
-                            Explicação
+                            {t("explanation")}
                           </Label>
                           <Textarea
                             id="explanation"
                             name="explanation"
-                            placeholder="Explique a resposta..."
+                            placeholder={t("explainAnswer")}
                             className="bg-gray-900 border-gray-700 text-white min-h-[60px]"
                             required
                           />
                         </div>
                         <div className="space-y-2">
                           <Label htmlFor="difficulty" className="text-gray-300">
-                            Dificuldade
+                            {t("difficulty")}
                           </Label>
                           <Select name="difficulty" required>
                             <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
-                              <SelectValue placeholder="Selecione" />
+                              <SelectValue placeholder={t("select")} />
                             </SelectTrigger>
                             <SelectContent>
-                              <SelectItem value="Fácil">Fácil</SelectItem>
-                              <SelectItem value="Médio">Médio</SelectItem>
-                              <SelectItem value="Difícil">Difícil</SelectItem>
+                              <SelectItem value="Fácil">{t("easy")}</SelectItem>
+                              <SelectItem value="Médio">{t("medium")}</SelectItem>
+                              <SelectItem value="Difícil">{t("hard")}</SelectItem>
                             </SelectContent>
                           </Select>
                         </div>
                         <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={loading}>
-                          {loading ? "Publicando..." : "Publicar Questão"}
+                          {loading ? t("publishing") : t("publishQuestion")}
                         </Button>
                       </form>
                     </TabsContent>
@@ -623,18 +625,18 @@ export default function ContribuirPage() {
           {/* Posts Feed */}
           <div className="lg:col-span-2">
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}>
-              <h2 className="text-2xl font-bold text-white mb-4">Feed da Comunidade</h2>
+              <h2 className="text-2xl font-bold text-white mb-4">{t("communityFeed")}</h2>
 
               {loadingPosts ? (
                 <div className="text-center py-12">
                   <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-                  <p className="text-slate-300">Carregando publicações...</p>
+                  <p className="text-slate-300">{t("loadingPosts")}</p>
                 </div>
               ) : posts.length === 0 ? (
                 <Card className="bg-gray-950/70 border-gray-800">
                   <CardContent className="py-12 text-center">
                     <MessageSquare className="w-16 h-16 text-gray-600 mx-auto mb-4" />
-                    <p className="text-gray-400">Nenhuma publicação ainda. Seja o primeiro a compartilhar!</p>
+                    <p className="text-gray-400">{t("noPosts")}</p>
                   </CardContent>
                 </Card>
               ) : (
@@ -675,7 +677,7 @@ export default function ContribuirPage() {
                                   size="icon"
                                   onClick={() => handleDeletePost(post.id)}
                                   className="text-red-400 hover:text-red-300 hover:bg-red-950/30 h-8 w-8"
-                                  title="Deletar publicação"
+                                  title={t("delete")}
                                 >
                                   <Trash2 className="w-4 h-4" />
                                 </Button>
@@ -705,7 +707,7 @@ export default function ContribuirPage() {
                               className="text-gray-400 hover:text-red-400"
                             >
                               <Heart className="w-4 h-4 mr-1" />
-                              {post.likes}
+                              {post.likes} {t("likes")}
                             </Button>
                             <Button
                               variant="ghost"
@@ -714,7 +716,7 @@ export default function ContribuirPage() {
                               className="text-gray-400 hover:text-blue-400"
                             >
                               <MessageCircle className="w-4 h-4 mr-1" />
-                              {post.comments?.length || 0}
+                              {post.comments?.length || 0} {t("comments")}
                             </Button>
                           </div>
 
@@ -735,7 +737,7 @@ export default function ContribuirPage() {
                               )}
                               <div className="flex gap-2">
                                 <Input
-                                  placeholder="Adicione um comentário..."
+                                  placeholder={t("writeComment")}
                                   value={commentText}
                                   onChange={(e) => setCommentText(e.target.value)}
                                   className="bg-gray-800 border-gray-700 text-white"
@@ -744,6 +746,7 @@ export default function ContribuirPage() {
                                   onClick={() => handleComment(post.id)}
                                   size="icon"
                                   className="bg-blue-600 hover:bg-blue-700"
+                                  title={t("send")}
                                 >
                                   <Send className="w-4 h-4" />
                                 </Button>
