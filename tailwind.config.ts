@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss"
+import plugin from "tailwindcss/plugin"
 
 export default {
   darkMode: ["class"],
@@ -73,5 +74,13 @@ export default {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [
+    require("tailwindcss-animate"),
+    // Registra a variante `light:` usada em ~100 lugares do app.
+    // Sem isso o Tailwind ignora essas classes e nada é gerado —
+    // o tema claro dependia só dos overrides `.light ...` em globals.css.
+    plugin(({ addVariant }) => {
+      addVariant("light", ".light &")
+    }),
+  ],
 } satisfies Config

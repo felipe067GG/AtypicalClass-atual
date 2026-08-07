@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Lightbulb, BookOpen, Download, Clock, ExternalLink, Target, Star } from "lucide-react"
 import ActivityDetailsModal from "./activity-details-modal"
-import { useLanguage } from "@/hooks/useLanguage"
+import { useLanguage } from "@/lib/language-context"
 
 export default function ADHDSection() {
   const { t } = useLanguage()

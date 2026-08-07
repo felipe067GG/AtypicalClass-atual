@@ -1,7 +1,6 @@
 "use server"
 
 import { createClient } from "@/lib/supabase/server"
-import { revalidatePath } from "next/cache"
 
 export async function createPost(formData: FormData) {
   const supabase = await createClient()
@@ -85,11 +84,16 @@ export async function createPost(formData: FormData) {
     })
   }
 
-  revalidatePath("/contribuir")
   return { success: true, message: "Post criado com sucesso!" }
 }
 
-export async function likePost(postId: string) {
+/**
+ * Curte ou descurte um post.
+ *
+ * A curtida é uma linha em `post_likes` com PK (post_id, teacher_id): o banco
+ * garante que ninguém curta duas vezes, e um trigger mantém `posts.likes`.
+ */
+export async function toggleLike(postId: string) {
   const supabase = await createClient()
 
   const {
@@ -100,23 +104,28 @@ export async function likePost(postId: string) {
     return { success: false, message: "Você precisa estar logado" }
   }
 
-  const { data: post } = await supabase.from("posts").select("likes").eq("id", postId).single()
+  const { data: existing } = await supabase
+    .from("post_likes")
+    .select("post_id")
+    .eq("post_id", postId)
+    .eq("teacher_id", user.id)
+    .maybeSingle()
 
-  if (!post) {
-    return { success: false, message: "Post não encontrado" }
+  if (existing) {
+    const { error } = await supabase.from("post_likes").delete().eq("post_id", postId).eq("teacher_id", user.id)
+
+    if (error) {
+      return { success: false, message: "Erro ao remover curtida" }
+    }
+    return { success: true, liked: false }
   }
 
-  const { error } = await supabase
-    .from("posts")
-    .update({ likes: post.likes + 1 })
-    .eq("id", postId)
+  const { error } = await supabase.from("post_likes").insert({ post_id: postId, teacher_id: user.id })
 
   if (error) {
     return { success: false, message: "Erro ao curtir post" }
   }
-
-  revalidatePath("/contribuir")
-  return { success: true }
+  return { success: true, liked: true }
 }
 
 export async function addComment(postId: string, commentText: string) {
@@ -147,7 +156,6 @@ export async function addComment(postId: string, commentText: string) {
     return { success: false, message: "Erro ao adicionar comentário" }
   }
 
-  revalidatePath("/contribuir")
   return { success: true, message: "Comentário adicionado!" }
 }
 
@@ -162,27 +170,23 @@ export async function deletePost(postId: string) {
     return { success: false, message: "Você precisa estar logado" }
   }
 
-  // Check if the post belongs to the user
-  const { data: post } = await supabase.from("posts").select("teacher_id").eq("id", postId).single()
-
-  if (!post) {
-    return { success: false, message: "Post não encontrado" }
-  }
-
-  if (post.teacher_id !== user.id) {
-    return { success: false, message: "Você só pode deletar seus próprios posts" }
-  }
-
-  // Delete comments first (foreign key constraint)
-  await supabase.from("comments").delete().eq("post_id", postId)
-
-  // Delete the post
-  const { error } = await supabase.from("posts").delete().eq("id", postId)
+  // Comentários e curtidas somem junto pelo ON DELETE CASCADE.
+  // O `.eq("teacher_id", user.id)` — reforçado pela policy de RLS — garante
+  // que ninguém apague post de outra pessoa.
+  const { data, error } = await supabase
+    .from("posts")
+    .delete()
+    .eq("id", postId)
+    .eq("teacher_id", user.id)
+    .select("id")
 
   if (error) {
     return { success: false, message: "Erro ao deletar post: " + error.message }
   }
 
-  revalidatePath("/contribuir")
+  if (!data || data.length === 0) {
+    return { success: false, message: "Você só pode deletar seus próprios posts" }
+  }
+
   return { success: true, message: "Post deletado com sucesso!" }
 }

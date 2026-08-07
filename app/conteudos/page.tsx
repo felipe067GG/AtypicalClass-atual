@@ -1,15 +1,16 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useMemo } from "react"
 import { motion } from "framer-motion"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
-import { Search, BookOpen, FileText } from "lucide-react"
+import { Search, BookOpen, FileText, AlertCircle } from "lucide-react"
 import Header from "../components/header"
 import { createClient } from "@/lib/supabase/client"
-import { useLanguage } from "@/hooks/useLanguage"
+import { useLanguage } from "@/lib/language-context"
+import { localizedField } from "@/lib/localized"
 
 interface Content {
   id: string
@@ -19,22 +20,29 @@ interface Content {
   content_type: string
   description: string
   content_text: string
+  content_text_en: string | null
+  content_text_es: string | null
   tags: string[]
   source: string
   created_at: string
 }
 
-const SUBJECTS = [
-  { value: "all", label: "Todas as Matérias", icon: "📚" },
-  { value: "Português", label: "Português", icon: "📖" },
-  { value: "Matemática", label: "Matemática", icon: "🔢" },
-  { value: "História", label: "História", icon: "🏛️" },
-  { value: "Geografia", label: "Geografia", icon: "🌍" },
-  { value: "Biologia", label: "Biologia", icon: "🧬" },
-  { value: "Física", label: "Física", icon: "⚡" },
-  { value: "Química", label: "Química", icon: "⚗️" },
-  { value: "Inglês", label: "Inglês", icon: "🇬🇧" },
-]
+/**
+ * Só um enfeite: a lista de matérias vem dos dados, o emoji é opcional.
+ * A lista fixa que existia aqui não incluía "Ciências", então esses conteúdos
+ * ficavam inalcançáveis pelo filtro.
+ */
+const SUBJECT_ICONS: Record<string, string> = {
+  Português: "📖",
+  Matemática: "🔢",
+  História: "🏛️",
+  Geografia: "🌍",
+  Ciências: "🔬",
+  Biologia: "🧬",
+  Física: "⚡",
+  Química: "⚗️",
+  Inglês: "🇬🇧",
+}
 
 export default function ConteudosPage() {
   const [searchTerm, setSearchTerm] = useState("")
@@ -42,7 +50,14 @@ export default function ConteudosPage() {
   const [selectedContent, setSelectedContent] = useState<Content | null>(null)
   const [contents, setContents] = useState<Content[]>([])
   const [loading, setLoading] = useState(true)
-  const { t } = useLanguage()
+  const [loadError, setLoadError] = useState(false)
+
+  const subjects = useMemo(
+    () =>
+      Array.from(new Set(contents.map((c) => c.subject).filter(Boolean))).sort((a, b) => a.localeCompare(b, "pt-BR")),
+    [contents],
+  )
+  const { t, language } = useLanguage()
 
   useEffect(() => {
     const loadContents = async () => {
@@ -51,6 +66,7 @@ export default function ConteudosPage() {
 
       if (error) {
         console.error("Error loading contents:", error)
+        setLoadError(true)
       } else if (data) {
         setContents(data)
       }
@@ -77,7 +93,7 @@ export default function ConteudosPage() {
         <div className="flex items-center justify-center min-h-[60vh]">
           <div className="text-center">
             <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-            <p className="text-slate-300">Carregando conteúdos...</p>
+            <p className="text-slate-300">{t("loadingContent")}</p>
           </div>
         </div>
       </div>
@@ -125,22 +141,31 @@ export default function ConteudosPage() {
           </div>
 
           <div className="flex flex-wrap gap-2">
-            {SUBJECTS.map((subject) => (
+            {["all", ...subjects].map((subject) => (
               <Button
-                key={subject.value}
-                variant={selectedSubject === subject.value ? "default" : "outline"}
-                onClick={() => setSelectedSubject(subject.value)}
+                key={subject}
+                variant={selectedSubject === subject ? "default" : "outline"}
+                onClick={() => setSelectedSubject(subject)}
                 className={
-                  selectedSubject === subject.value
+                  selectedSubject === subject
                     ? "bg-blue-600 hover:bg-blue-700"
                     : "border-gray-600 text-gray-300 hover:bg-gray-800"
                 }
               >
-                {subject.icon} {subject.label}
+                {subject === "all" ? `📚 ${t("all")}` : `${SUBJECT_ICONS[subject] ?? "📘"} ${subject}`}
               </Button>
             ))}
           </div>
         </motion.div>
+
+        {loadError && (
+          <Card className="bg-red-950/30 border-red-500/40 mb-8">
+            <CardContent className="py-6 flex items-center gap-3">
+              <AlertCircle className="w-5 h-5 text-red-400 shrink-0" />
+              <p className="text-red-200">{t("loadError")}</p>
+            </CardContent>
+          </Card>
+        )}
 
         {/* Results */}
         <motion.div
@@ -188,7 +213,9 @@ export default function ConteudosPage() {
               <CardContent className="space-y-6">
                 <div className="bg-gray-800/50 p-6 rounded-lg">
                   <div className="prose prose-invert max-w-none">
-                    <div className="text-white leading-relaxed whitespace-pre-wrap">{selectedContent.content_text}</div>
+                    <div className="text-white leading-relaxed whitespace-pre-wrap">
+                      {localizedField(selectedContent, "content_text", language)}
+                    </div>
                   </div>
                 </div>
 
@@ -228,8 +255,6 @@ export default function ConteudosPage() {
           /* Content Grid */
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredContents.map((content, index) => {
-              const subjectData = SUBJECTS.find((s) => s.value === content.subject)
-
               return (
                 <motion.div
                   key={content.id}
@@ -245,7 +270,7 @@ export default function ConteudosPage() {
                     <CardHeader>
                       <div className="flex gap-2 flex-wrap mb-3">
                         <Badge className="bg-blue-600 hover:bg-blue-700">
-                          {subjectData?.icon} {content.subject}
+                          {SUBJECT_ICONS[content.subject] ?? "📘"} {content.subject}
                         </Badge>
                         <Badge className="bg-purple-600">{content.specialty}</Badge>
                       </div>

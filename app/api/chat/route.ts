@@ -4,65 +4,7 @@ import { google } from "@ai-sdk/google"
 export const runtime = "nodejs"
 export const maxDuration = 30
 
-export async function POST(req: Request) {
-  try {
-    // Verificar se a chave da API está configurada
-    const apiKey = process.env.GOOGLE_GENERATIVE_AI_API_KEY
-    
-    if (!apiKey) {
-      console.error("GOOGLE_GENERATIVE_AI_API_KEY não está configurada")
-      // Retornar erro simples - o useChat vai capturar via onError
-      return new Response(
-        JSON.stringify({
-          error: "GOOGLE_GENERATIVE_AI_API_KEY não está configurada. Por favor, adicione sua chave do Gemini no arquivo .env.local",
-        }),
-        {
-          status: 500,
-          headers: { "Content-Type": "application/json" },
-        }
-      )
-    }
-
-    const body = await req.json()
-    
-    // O useChat envia { messages: [...] }
-    const messages: UIMessage[] = body?.messages || []
-
-    if (!Array.isArray(messages) || messages.length === 0) {
-      return new Response(
-        JSON.stringify({ error: "Nenhuma mensagem fornecida" }),
-        {
-          status: 400,
-          headers: { "Content-Type": "application/json" },
-        }
-      )
-    }
-
-    // Converter mensagens para o formato esperado
-    const modelMessages = messages.map((msg: any) => {
-      if (msg.role === "user") {
-        return {
-          role: "user" as const,
-          content: msg.content || "",
-        }
-      } else if (msg.role === "assistant") {
-        return {
-          role: "assistant" as const,
-          content: msg.content || "",
-        }
-      } else if (msg.role === "system") {
-        return {
-          role: "system" as const,
-          content: msg.content || "",
-        }
-      }
-      return {
-        role: "user" as const,
-        content: String(msg.content || ""),
-      }
-    })
-
-    const systemPrompt = `Você é a Ravena, uma assistente virtual inteligente e amigável do AtypicalClass, uma plataforma educacional dedicada a apoiar professores no trabalho com alunos atípicos (autismo, TDAH, síndrome de Down, deficiências visuais e auditivas).
+const SYSTEM_PROMPT = `Você é a Ravena, uma assistente virtual inteligente e amigável do AtypicalClass, uma plataforma educacional dedicada a apoiar professores no trabalho com alunos atípicos (autismo, TDAH, síndrome de Down, deficiências visuais e auditivas).
 
 Seu papel é:
 - Ajudar os usuários a navegar no site
@@ -101,32 +43,41 @@ Estrutura do site:
 
 Sempre responda de forma clara, objetiva e útil. Seja específica sobre onde encontrar cada funcionalidade. Se não souber algo, seja honesta e ofereça ajuda alternativa.`
 
+function errorResponse(message: string, status: number) {
+  return new Response(JSON.stringify({ error: message }), {
+    status,
+    headers: { "Content-Type": "application/json" },
+  })
+}
+
+export async function POST(req: Request) {
+  try {
+    if (!process.env.GOOGLE_GENERATIVE_AI_API_KEY) {
+      return errorResponse(
+        "GOOGLE_GENERATIVE_AI_API_KEY não está configurada. Adicione sua chave do Gemini no arquivo .env.local",
+        500,
+      )
+    }
+
+    const body = await req.json()
+    const messages: UIMessage[] = body?.messages ?? []
+
+    if (!Array.isArray(messages) || messages.length === 0) {
+      return errorResponse("Nenhuma mensagem fornecida", 400)
+    }
+
     const result = streamText({
       model: google("gemini-2.5-flash"),
-      system: systemPrompt,
-      messages: modelMessages,
+      system: SYSTEM_PROMPT,
+      messages: await convertToModelMessages(messages),
       temperature: 0.7,
-      maxTokens: 800,
+      maxOutputTokens: 800,
     })
 
-    // Log para debug
-    console.log("StreamText criado, retornando resposta...")
-    
-    const response = result.toUIMessageStreamResponse()
-    console.log("Resposta criada, tipo:", response.constructor.name)
-    
-    return response
-  } catch (error: any) {
+    return result.toUIMessageStreamResponse()
+  } catch (error) {
     console.error("Erro na API do chat:", error)
-    return new Response(
-      JSON.stringify({
-        error: error.message || "Erro ao processar a mensagem. Verifique se a chave do Gemini está configurada corretamente.",
-        details: process.env.NODE_ENV === "development" ? error.stack : undefined,
-      }),
-      {
-        status: 500,
-        headers: { "Content-Type": "application/json" },
-      }
-    )
+    const message = error instanceof Error ? error.message : "Erro ao processar a mensagem."
+    return errorResponse(message, 500)
   }
 }

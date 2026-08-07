@@ -9,7 +9,7 @@ import ActivityDetailsModal from "./activity-details-modal"
 import { useState } from "react"
 import { DownloadButton } from "@/components/download-button"
 import { motion } from "framer-motion"
-import { useLanguage } from "@/hooks/useLanguage"
+import { useLanguage } from "@/lib/language-context"
 
 export default function DownSyndromeSection() {
   const { t } = useLanguage()

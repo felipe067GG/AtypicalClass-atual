@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Eye, BookOpen, Download, Clock, ExternalLink, Target, Star } from "lucide-react"
 import ActivityDetailsModal from "./activity-details-modal"
 import { useState } from "react"
-import { useLanguage } from "@/hooks/useLanguage"
+import { useLanguage } from "@/lib/language-context"
 
 export default function VisualImpairmentSection() {
   const { t } = useLanguage()

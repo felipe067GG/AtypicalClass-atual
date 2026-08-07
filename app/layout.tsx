@@ -15,13 +15,22 @@ export const metadata: Metadata = {
   },
 }
 
+/**
+ * Aplica o tema salvo antes da primeira pintura, evitando o flash de tema
+ * escuro para quem escolheu o claro. Roda antes do React hidratar.
+ */
+const THEME_SCRIPT = `try{if(document.cookie.split('; ').find(c=>c.startsWith('theme='))?.split('=')[1]==='light'){document.documentElement.classList.add('light')}}catch(e){}`
+
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode
 }>) {
   return (
-    <html lang="pt">
+    <html lang="pt" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
+      </head>
       <body>
         <ThemeProvider>
           <LanguageProvider>

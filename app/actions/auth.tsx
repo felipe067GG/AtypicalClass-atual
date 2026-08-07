@@ -31,6 +31,15 @@ export async function signUp(formData: FormData) {
     return { success: false, message: "Erro ao criar usuário" }
   }
 
+  // O perfil em `teachers` é criado pelo trigger `on_auth_user_created`
+  // (scripts/07-fix-rls-and-likes.sql), a partir dos metadados acima.
+  //
+  // A tentativa de insert abaixo é a rede de segurança para o caso de o script
+  // 07 ainda não ter sido aplicado: nesse cenário a policy antiga permite
+  // gravar e o cadastro segue funcionando. Depois do script, a policy recusa o
+  // insert — e tudo bem, porque o trigger já criou o perfil. Por isso o erro
+  // não interrompe o cadastro: os dois cenários ficam cobertos e a ordem entre
+  // rodar o script e publicar o site deixa de importar.
   const { error: profileError } = await supabase.from("teachers").insert({
     id: authData.user.id,
     email,
@@ -39,7 +48,7 @@ export async function signUp(formData: FormData) {
   })
 
   if (profileError) {
-    return { success: false, message: "Erro ao criar perfil: " + profileError.message }
+    console.info("Perfil não inserido pelo client (esperado com o trigger ativo):", profileError.message)
   }
 
   return {

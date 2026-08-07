@@ -9,7 +9,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Brain, BookOpen, Download, Clock, ExternalLink, Target, Star } from "lucide-react"
 import ActivityDetailsModal from "./activity-details-modal"
 import { DownloadButton } from "@/components/download-button"
-import { useLanguage } from "@/hooks/useLanguage"
+import { useLanguage } from "@/lib/language-context"
 
 export default function AutismSection() {
   const [selectedActivity, setSelectedActivity] = useState<any>(null)

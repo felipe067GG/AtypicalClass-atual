@@ -2,15 +2,16 @@
 
 import type React from "react"
 
-import { useState, useRef, useEffect } from "react"
+import { useState, useRef, useEffect, useMemo } from "react"
 import { useChat } from "@ai-sdk/react"
+import { DefaultChatTransport, type UIMessage } from "ai"
 import { motion, AnimatePresence } from "framer-motion"
 import { X, Send, MessageCircle, Sparkles } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { useLanguage } from "@/hooks/useLanguage"
+import { useLanguage } from "@/lib/language-context"
 
 const FAQ_QUESTIONS = {
   pt: [
@@ -36,73 +37,43 @@ const FAQ_QUESTIONS = {
   ],
 }
 
+/** Concatena as partes de texto de uma mensagem — o formato atual do AI SDK. */
+function messageText(message: UIMessage): string {
+  return message.parts.map((part) => (part.type === "text" ? part.text : "")).join("")
+}
+
 export function RavenaChat() {
   const [isOpen, setIsOpen] = useState(false)
   const [inputValue, setInputValue] = useState("")
   const { language, t } = useLanguage()
-  const scrollRef = useRef<HTMLDivElement>(null)
+  const bottomRef = useRef<HTMLDivElement>(null)
 
-  const { messages = [], status = "idle", error = null, append, sendMessage } = useChat({
-    api: "/api/chat",
+  const transport = useMemo(() => new DefaultChatTransport({ api: "/api/chat" }), [])
+
+  const { messages, sendMessage, status, error } = useChat({
+    transport,
     onError: (error) => {
       console.error("Erro no chat:", error)
     },
-    onFinish: (message) => {
-      console.log("Mensagem finalizada:", message)
-    },
   })
 
-  // Debug: verificar mensagens
-  useEffect(() => {
-    console.log("Mensagens atualizadas:", messages.length, messages)
-    console.log("Status:", status)
-  }, [messages, status])
+  const isBusy = status === "submitted" || status === "streaming"
 
   useEffect(() => {
-    if (scrollRef.current) {
-      scrollRef.current.scrollTop = scrollRef.current.scrollHeight
-    }
+    bottomRef.current?.scrollIntoView({ behavior: "smooth" })
   }, [messages])
 
-  const handleFAQClick = (question: string) => {
-    if (append) {
-      append({
-        role: "user",
-        content: question,
-      })
-    } else if (sendMessage) {
-      // sendMessage pode ter assinatura diferente
-      sendMessage({
-        role: "user",
-        content: question,
-      } as any)
-    } else {
-      console.error("Nenhuma função de envio disponível")
-      alert("Erro: A função de envio de mensagens não está disponível.")
-    }
+  const handleSend = (text: string) => {
+    const trimmed = text.trim()
+    if (!trimmed || isBusy) return
+    sendMessage({ text: trimmed })
   }
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     if (!inputValue.trim()) return
-    
-    if (append) {
-      append({
-        role: "user",
-        content: inputValue,
-      })
-      setInputValue("")
-    } else if (sendMessage) {
-      // sendMessage pode ter assinatura diferente
-      sendMessage({
-        role: "user",
-        content: inputValue,
-      } as any)
-      setInputValue("")
-    } else {
-      console.error("Nenhuma função de envio disponível")
-      alert("Erro: A função de envio de mensagens não está disponível.")
-    }
+    handleSend(inputValue)
+    setInputValue("")
   }
 
   return (
@@ -119,6 +90,7 @@ export function RavenaChat() {
             <Button
               onClick={() => setIsOpen(true)}
               size="lg"
+              aria-label="Abrir chat com a Ravena"
               className="h-16 w-16 rounded-full bg-gradient-to-br from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 shadow-lg hover:shadow-xl transition-all"
             >
               <MessageCircle className="h-6 w-6" />
@@ -150,6 +122,7 @@ export function RavenaChat() {
                   variant="ghost"
                   size="icon"
                   onClick={() => setIsOpen(false)}
+                  aria-label="Fechar chat"
                   className="text-white hover:bg-white/20"
                 >
                   <X className="h-5 w-5" />
@@ -157,7 +130,7 @@ export function RavenaChat() {
               </div>
 
               {/* Messages */}
-              <ScrollArea className="flex-1 p-4 bg-gray-50 dark:bg-gray-900" ref={scrollRef}>
+              <ScrollArea className="flex-1 p-4 bg-gray-50 dark:bg-gray-900">
                 {messages.length === 0 && (
                   <div className="space-y-4">
                     <div className="bg-white dark:bg-gray-800 p-4 rounded-lg border-2 border-blue-200 dark:border-blue-800 shadow-sm">
@@ -168,8 +141,9 @@ export function RavenaChat() {
                         {FAQ_QUESTIONS[language].map((question, idx) => (
                           <button
                             key={idx}
-                            onClick={() => handleFAQClick(question)}
-                            className="w-full text-left text-sm p-3 rounded-lg bg-blue-50 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-blue-900/70 transition-colors font-medium text-gray-800 dark:text-gray-100 border border-blue-100 dark:border-gray-600"
+                            onClick={() => handleSend(question)}
+                            disabled={isBusy}
+                            className="w-full text-left text-sm p-3 rounded-lg bg-blue-50 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-blue-900/70 transition-colors font-medium text-gray-800 dark:text-gray-100 border border-blue-100 dark:border-gray-600 disabled:opacity-50"
                           >
                             {question}
                           </button>
@@ -191,12 +165,12 @@ export function RavenaChat() {
                           : "bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 border border-gray-200 dark:border-gray-700"
                       }`}
                     >
-                      <p className="text-sm whitespace-pre-wrap">{message.content}</p>
+                      <p className="text-sm whitespace-pre-wrap">{messageText(message)}</p>
                     </div>
                   </div>
                 ))}
 
-                {status === "in_progress" && (
+                {status === "submitted" && (
                   <div className="flex justify-start mb-4">
                     <div className="bg-gray-100 dark:bg-gray-800 rounded-lg p-3">
                       <div className="flex gap-1">
@@ -212,11 +186,13 @@ export function RavenaChat() {
                   <div className="flex justify-start mb-4">
                     <div className="bg-red-100 dark:bg-red-900/30 border border-red-300 dark:border-red-800 rounded-lg p-3 max-w-[80%]">
                       <p className="text-sm text-red-800 dark:text-red-200">
-                        {error.message || "Erro ao conectar com a assistente. Verifique se a chave do Gemini está configurada."}
+                        {error.message || "Erro ao conectar com a assistente. Tente novamente em instantes."}
                       </p>
                     </div>
                   </div>
                 )}
+
+                <div ref={bottomRef} />
               </ScrollArea>
 
               {/* Input */}
@@ -226,9 +202,10 @@ export function RavenaChat() {
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
                     placeholder={t("assistantPlaceholder")}
+                    aria-label={t("assistantPlaceholder")}
                     className="flex-1"
                   />
-                  <Button type="submit" size="icon" disabled={status === "in_progress" || !inputValue.trim()}>
+                  <Button type="submit" size="icon" aria-label="Enviar" disabled={isBusy || !inputValue.trim()}>
                     <Send className="h-4 w-4" />
                   </Button>
                 </div>

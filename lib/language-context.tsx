@@ -13,11 +13,11 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined)
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
+  // Começa em "pt" no servidor e no primeiro render do cliente (senão haveria
+  // divergência de hidratação); o idioma salvo é aplicado logo após montar.
   const [language, setLanguageState] = useState<Language>("pt")
-  const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
-    setMounted(true)
     const savedLang = Cookies.get("language") as Language
     if (savedLang && translations[savedLang]) {
       setLanguageState(savedLang)
@@ -82,10 +82,6 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
       return key
     }
   }, [language])
-
-  if (!mounted) {
-    return null
-  }
 
   return <LanguageContext.Provider value={{ language, setLanguage, t }}>{children}</LanguageContext.Provider>
 }

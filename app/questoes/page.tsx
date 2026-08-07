@@ -1,28 +1,17 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useMemo } from "react"
 import { motion } from "framer-motion"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Input } from "@/components/ui/input"
-import {
-  BookOpen,
-  Search,
-  Filter,
-  CheckCircle,
-  XCircle,
-  Lightbulb,
-  Brain,
-  Heart,
-  Eye,
-  Ear,
-  Sparkles,
-} from "lucide-react"
+import { BookOpen, Search, Filter, CheckCircle, XCircle, Lightbulb, AlertCircle } from "lucide-react"
 import Header from "../components/header"
 import { createClient } from "@/lib/supabase/client"
 import { useLanguage } from "@/lib/language-context"
+import { localizedField } from "@/lib/localized"
 
 interface Question {
   id: string
@@ -31,43 +20,32 @@ interface Question {
   specialty: string
   difficulty: string
   question_text: string
+  question_text_en: string | null
+  question_text_es: string | null
   options: string[]
   correct_answer: string
   explanation: string
+  explanation_en: string | null
+  explanation_es: string | null
   source: string
 }
 
-const SUBJECTS = [
-  { value: "all", label: "Todas as Matérias" },
-  { value: "Português", label: "Português" },
-  { value: "Matemática", label: "Matemática" },
-  { value: "História", label: "História" },
-  { value: "Geografia", label: "Geografia" },
-  { value: "Biologia", label: "Biologia" },
-  { value: "Física", label: "Física" },
-  { value: "Química", label: "Química" },
-  { value: "Inglês", label: "Inglês" },
-]
-
-const SPECIALTIES = [
-  { value: "all", label: "Todas as Especialidades", icon: Sparkles },
-  { value: "Álgebra", label: "Álgebra", icon: Brain },
-  { value: "Geometria", label: "Geometria", icon: Brain },
-  { value: "Gramática", label: "Gramática", icon: BookOpen },
-  { value: "Literatura", label: "Literatura", icon: BookOpen },
-  { value: "História do Brasil", label: "História do Brasil", icon: Heart },
-  { value: "História Geral", label: "História Geral", icon: Heart },
-  { value: "Geografia Física", label: "Geografia Física", icon: Eye },
-  { value: "Geografia Humana", label: "Geografia Humana", icon: Eye },
-  { value: "Mecânica", label: "Mecânica (Física)", icon: Lightbulb },
-  { value: "Química Geral", label: "Química Geral", icon: Lightbulb },
-  { value: "Citologia", label: "Citologia (Biologia)", icon: Ear },
-  { value: "Ecologia", label: "Ecologia", icon: Ear },
-  { value: "Vocabulário", label: "Vocabulário (Inglês)", icon: BookOpen },
-]
+/**
+ * As opções dos filtros saem dos próprios dados carregados.
+ *
+ * Antes eram listas fixas no código, e elas tinham ficado defasadas: nenhuma
+ * das especialidades listadas existia mais no banco (o script 04 substituiu os
+ * tópicos por condições atípicas), então qualquer filtro devolvia zero
+ * resultados. Derivando dos dados, isso não volta a acontecer.
+ */
+function distinctValues(rows: Question[], field: "subject" | "specialty"): string[] {
+  return Array.from(new Set(rows.map((row) => row[field]).filter(Boolean))).sort((a, b) =>
+    a.localeCompare(b, "pt-BR"),
+  )
+}
 
 export default function QuestoesPage() {
-  const { t } = useLanguage()
+  const { t, language } = useLanguage()
 
   const [selectedSubject, setSelectedSubject] = useState("all")
   const [selectedSpecialty, setSelectedSpecialty] = useState("all")
@@ -78,6 +56,10 @@ export default function QuestoesPage() {
   const [showResult, setShowResult] = useState(false)
   const [questions, setQuestions] = useState<Question[]>([])
   const [loading, setLoading] = useState(true)
+  const [loadError, setLoadError] = useState(false)
+
+  const subjects = useMemo(() => distinctValues(questions, "subject"), [questions])
+  const specialties = useMemo(() => distinctValues(questions, "specialty"), [questions])
 
   useEffect(() => {
     const loadQuestions = async () => {
@@ -86,6 +68,7 @@ export default function QuestoesPage() {
 
       if (error) {
         console.error("Error loading questions:", error)
+        setLoadError(true)
       } else if (data) {
         setQuestions(data)
       }
@@ -99,10 +82,11 @@ export default function QuestoesPage() {
     const matchesSubject = selectedSubject === "all" || q.subject === selectedSubject
     const matchesSpecialty = selectedSpecialty === "all" || q.specialty === selectedSpecialty
     const matchesDifficulty = selectedDifficulty === "all" || q.difficulty === selectedDifficulty
+    const search = searchQuery.toLowerCase()
     const matchesSearch =
-      q.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      q.specialty.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      q.question_text.toLowerCase().includes(searchQuery.toLowerCase())
+      q.title.toLowerCase().includes(search) ||
+      q.specialty.toLowerCase().includes(search) ||
+      localizedField(q, "question_text", language).toLowerCase().includes(search)
 
     return matchesSubject && matchesSpecialty && matchesDifficulty && matchesSearch
   })
@@ -179,9 +163,10 @@ export default function QuestoesPage() {
                       <SelectValue />
                     </SelectTrigger>
                     <SelectContent className="bg-gray-800 border-gray-700">
-                      {SUBJECTS.map((subject) => (
-                        <SelectItem key={subject.value} value={subject.value}>
-                          {subject.label}
+                      <SelectItem value="all">{t("all")}</SelectItem>
+                      {subjects.map((subject) => (
+                        <SelectItem key={subject} value={subject}>
+                          {subject}
                         </SelectItem>
                       ))}
                     </SelectContent>
@@ -195,9 +180,10 @@ export default function QuestoesPage() {
                       <SelectValue />
                     </SelectTrigger>
                     <SelectContent className="bg-gray-800 border-gray-700">
-                      {SPECIALTIES.map((specialty) => (
-                        <SelectItem key={specialty.value} value={specialty.value}>
-                          {specialty.label}
+                      <SelectItem value="all">{t("all")}</SelectItem>
+                      {specialties.map((specialty) => (
+                        <SelectItem key={specialty} value={specialty}>
+                          {specialty}
                         </SelectItem>
                       ))}
                     </SelectContent>
@@ -233,6 +219,15 @@ export default function QuestoesPage() {
             </CardContent>
           </Card>
 
+          {loadError && (
+            <Card className="bg-red-950/30 border-red-500/40 mb-8">
+              <CardContent className="py-6 flex items-center gap-3">
+                <AlertCircle className="w-5 h-5 text-red-400 shrink-0" />
+                <p className="text-red-200">{t("loadError")}</p>
+              </CardContent>
+            </Card>
+          )}
+
           {/* Results */}
           <div className="mb-4 text-slate-400">
             {t("found")} <span className="text-blue-400 font-semibold">{filteredQuestions.length}</span>{" "}
@@ -266,7 +261,7 @@ export default function QuestoesPage() {
                 <CardContent className="space-y-6">
                   <div className="bg-gray-800/50 p-6 rounded-lg">
                     <p className="text-lg text-white leading-relaxed whitespace-pre-wrap">
-                      {selectedQuestion.question_text}
+                      {localizedField(selectedQuestion, "question_text", language)}
                     </p>
                   </div>
 
@@ -315,8 +310,10 @@ export default function QuestoesPage() {
                       <div className="flex items-start space-x-3">
                         <Lightbulb className="w-5 h-5 mt-1 text-yellow-400" />
                         <div>
-                          <h4 className="font-semibold text-white mb-2">Explicação:</h4>
-                          <p className="text-slate-300 whitespace-pre-wrap">{selectedQuestion.explanation}</p>
+                          <h4 className="font-semibold text-white mb-2">{t("explanation")}:</h4>
+                          <p className="text-slate-300 whitespace-pre-wrap">
+                            {localizedField(selectedQuestion, "explanation", language)}
+                          </p>
                         </div>
                       </div>
                     </motion.div>

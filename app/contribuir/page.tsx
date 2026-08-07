@@ -2,7 +2,7 @@
 
 import type React from "react"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useCallback } from "react"
 import { motion } from "framer-motion"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
@@ -27,7 +27,7 @@ import {
 import Header from "../components/header"
 import { useRouter } from "next/navigation"
 import { createClient } from "@/lib/supabase/client"
-import { createPost, likePost, addComment, deletePost } from "../actions/posts"
+import { createPost, toggleLike, addComment, deletePost } from "../actions/posts"
 import { useLanguage } from "@/lib/language-context"
 
 const subjects = [
@@ -35,6 +35,7 @@ const subjects = [
   "Matemática",
   "História",
   "Geografia",
+  "Ciências",
   "Biologia",
   "Física",
   "Química",
@@ -42,20 +43,23 @@ const subjects = [
   "Educação Especial",
 ]
 
+/**
+ * Condições atípicas — é isso que a coluna `specialty` guarda hoje e é por isso
+ * que o filtro de /questoes filtra. A lista antiga aqui era de tópicos
+ * (Álgebra, Citologia), então tudo que fosse contribuído nascia com um valor
+ * que nenhuma tela conseguia filtrar.
+ *
+ * As quatro primeiras já têm conteúdo no banco; as três seguintes aparecem na
+ * home e estão aqui para que a comunidade possa começar a cobri-las.
+ */
 const specialties = [
-  "Álgebra",
-  "Geometria",
-  "Gramática",
-  "Literatura",
-  "História do Brasil",
-  "História Geral",
-  "Geografia Física",
-  "Geografia Humana",
-  "Mecânica",
-  "Química Geral",
-  "Citologia",
-  "Ecologia",
-  "Vocabulário",
+  "Autismo",
+  "TDAH",
+  "Dislexia",
+  "Discalculia",
+  "Síndrome de Down",
+  "Deficiência Visual",
+  "Deficiência Auditiva",
   "Outro",
 ]
 
@@ -82,12 +86,14 @@ interface Comment {
 
 export default function ContribuirPage() {
   const router = useRouter()
-  const { t } = useLanguage() // Added translation hook
+  const { t, language } = useLanguage()
+  const dateLocale = language === "en" ? "en-US" : language === "es" ? "es-ES" : "pt-BR"
   const [user, setUser] = useState<any>(null)
   const [loading, setLoading] = useState(false)
   const [message, setMessage] = useState("")
   const [messageType, setMessageType] = useState<"success" | "error">("success")
   const [posts, setPosts] = useState<Post[]>([])
+  const [likedPosts, setLikedPosts] = useState<Set<string>>(new Set())
   const [loadingPosts, setLoadingPosts] = useState(true)
   const [selectedPost, setSelectedPost] = useState<Post | null>(null)
   const [commentText, setCommentText] = useState("")
@@ -119,32 +125,52 @@ export default function ContribuirPage() {
     checkUser()
   }, [router])
 
-  useEffect(() => {
-    const loadPosts = async () => {
-      const supabase = createClient()
-      const { data, error } = await supabase.from("posts").select("*").order("created_at", { ascending: false })
+  const loadPosts = useCallback(async () => {
+    const supabase = createClient()
 
-      if (error) {
-        console.error("Error loading posts:", error)
-      } else if (data) {
-        // Load comments for each post
-        const postsWithComments = await Promise.all(
-          data.map(async (post) => {
-            const { data: comments } = await supabase
-              .from("comments")
-              .select("*")
-              .eq("post_id", post.id)
-              .order("created_at", { ascending: true })
-            return { ...post, comments: comments || [] }
-          }),
-        )
-        setPosts(postsWithComments)
-      }
+    const { data: postsData, error } = await supabase
+      .from("posts")
+      .select("*")
+      .order("created_at", { ascending: false })
+
+    if (error) {
+      console.error("Error loading posts:", error)
       setLoadingPosts(false)
+      return
     }
 
+    const postRows: Post[] = postsData ?? []
+    const postIds = postRows.map((p) => p.id)
+
+    if (postIds.length === 0) {
+      setPosts([])
+      setLikedPosts(new Set())
+      setLoadingPosts(false)
+      return
+    }
+
+    // Comentários e curtidas em duas queries, não uma por post.
+    const [{ data: comments }, { data: likes }] = await Promise.all([
+      supabase.from("comments").select("*").in("post_id", postIds).order("created_at", { ascending: true }),
+      supabase.from("post_likes").select("post_id, teacher_id").in("post_id", postIds),
+    ])
+
+    const commentsByPost = new Map<string, Comment[]>()
+    for (const comment of comments ?? []) {
+      const list = commentsByPost.get(comment.post_id) ?? []
+      list.push(comment)
+      commentsByPost.set(comment.post_id, list)
+    }
+
+    setPosts(postRows.map((post) => ({ ...post, comments: commentsByPost.get(post.id) ?? [] })))
+    const likeRows = (likes ?? []) as { post_id: string; teacher_id: string }[]
+    setLikedPosts(new Set(likeRows.filter((like) => like.teacher_id === user?.id).map((like) => like.post_id)))
+    setLoadingPosts(false)
+  }, [user?.id])
+
+  useEffect(() => {
     loadPosts()
-  }, [])
+  }, [loadPosts])
 
   const addOption = () => {
     if (options.length < 6) {
@@ -169,7 +195,8 @@ export default function ContribuirPage() {
     setLoading(true)
     setMessage("")
 
-    const formData = new FormData(e.currentTarget)
+    const form = e.currentTarget
+    const formData = new FormData(form)
     formData.append("post_type", "message")
 
     const result = await createPost(formData)
@@ -179,9 +206,8 @@ export default function ContribuirPage() {
     setMessageType(result.success ? "success" : "error")
 
     if (result.success) {
-      e.currentTarget.reset()
-      // Reload posts
-      window.location.reload()
+      form.reset()
+      await loadPosts()
     }
   }
 
@@ -190,7 +216,8 @@ export default function ContribuirPage() {
     setLoading(true)
     setMessage("")
 
-    const formData = new FormData(e.currentTarget)
+    const form = e.currentTarget
+    const formData = new FormData(form)
     formData.append("post_type", "tip")
     formData.append("tags", JSON.stringify([formData.get("subject"), formData.get("specialty")]))
 
@@ -201,8 +228,8 @@ export default function ContribuirPage() {
     setMessageType(result.success ? "success" : "error")
 
     if (result.success) {
-      e.currentTarget.reset()
-      window.location.reload()
+      form.reset()
+      await loadPosts()
     }
   }
 
@@ -211,7 +238,8 @@ export default function ContribuirPage() {
     setLoading(true)
     setMessage("")
 
-    const formData = new FormData(e.currentTarget)
+    const form = e.currentTarget
+    const formData = new FormData(form)
     formData.append("post_type", "question")
     formData.append("options", JSON.stringify(options.filter((o) => o.trim() !== "")))
     formData.append("correct_answer", options[Number.parseInt(correctAnswer)])
@@ -223,17 +251,41 @@ export default function ContribuirPage() {
     setMessageType(result.success ? "success" : "error")
 
     if (result.success) {
-      e.currentTarget.reset()
+      form.reset()
       setOptions(["", "", "", ""])
       setCorrectAnswer("0")
-      window.location.reload()
+      await loadPosts()
     }
   }
 
   const handleLike = async (postId: string) => {
-    await likePost(postId)
-    // Update local state
-    setPosts(posts.map((p) => (p.id === postId ? { ...p, likes: p.likes + 1 } : p)))
+    const wasLiked = likedPosts.has(postId)
+
+    // Atualiza na hora e desfaz se o servidor recusar.
+    setLikedPosts((prev) => {
+      const next = new Set(prev)
+      wasLiked ? next.delete(postId) : next.add(postId)
+      return next
+    })
+    setPosts((prev) =>
+      prev.map((p) => (p.id === postId ? { ...p, likes: Math.max(p.likes + (wasLiked ? -1 : 1), 0) } : p)),
+    )
+
+    const result = await toggleLike(postId)
+
+    if (!result.success) {
+      setLikedPosts((prev) => {
+        const next = new Set(prev)
+        wasLiked ? next.add(postId) : next.delete(postId)
+        return next
+      })
+      setPosts((prev) =>
+        prev.map((p) => (p.id === postId ? { ...p, likes: Math.max(p.likes + (wasLiked ? 1 : -1), 0) } : p)),
+      )
+      setMessage(result.message ?? "Erro ao curtir post")
+      setMessageType("error")
+      setTimeout(() => setMessage(""), 3000)
+    }
   }
 
   const handleComment = async (postId: string) => {
@@ -242,12 +294,16 @@ export default function ContribuirPage() {
     const result = await addComment(postId, commentText)
     if (result.success) {
       setCommentText("")
-      window.location.reload()
+      await loadPosts()
+    } else {
+      setMessage(result.message ?? "Erro ao comentar")
+      setMessageType("error")
+      setTimeout(() => setMessage(""), 3000)
     }
   }
 
   const handleDeletePost = async (postId: string) => {
-    if (!confirm("Tem certeza que deseja deletar esta publicação?")) {
+    if (!confirm(t("confirmDelete"))) {
       return
     }
 
@@ -283,11 +339,11 @@ export default function ContribuirPage() {
   const getPostTypeLabel = (type: string) => {
     switch (type) {
       case "message":
-        return "Mensagem"
+        return t("message")
       case "tip":
-        return "Dica"
+        return t("tip")
       case "question":
-        return "Questão"
+        return t("question")
       default:
         return type
     }
@@ -658,8 +714,8 @@ export default function ContribuirPage() {
                               <div>
                                 <p className="text-white font-semibold">{post.teacher_name}</p>
                                 <p className="text-xs text-gray-400">
-                                  {new Date(post.created_at).toLocaleDateString("pt-BR")} às{" "}
-                                  {new Date(post.created_at).toLocaleTimeString("pt-BR", {
+                                  {new Date(post.created_at).toLocaleDateString(dateLocale)}{" "}
+                                  {new Date(post.created_at).toLocaleTimeString(dateLocale, {
                                     hour: "2-digit",
                                     minute: "2-digit",
                                   })}
@@ -704,9 +760,16 @@ export default function ContribuirPage() {
                               variant="ghost"
                               size="sm"
                               onClick={() => handleLike(post.id)}
-                              className="text-gray-400 hover:text-red-400"
+                              aria-pressed={likedPosts.has(post.id)}
+                              className={
+                                likedPosts.has(post.id)
+                                  ? "text-red-400 hover:text-red-300"
+                                  : "text-gray-400 hover:text-red-400"
+                              }
                             >
-                              <Heart className="w-4 h-4 mr-1" />
+                              <Heart
+                                className={`w-4 h-4 mr-1 ${likedPosts.has(post.id) ? "fill-current" : ""}`}
+                              />
                               {post.likes} {t("likes")}
                             </Button>
                             <Button
@@ -729,7 +792,7 @@ export default function ContribuirPage() {
                                       <p className="text-sm font-semibold text-blue-400">{comment.teacher_name}</p>
                                       <p className="text-sm text-gray-300 mt-1">{comment.comment_text}</p>
                                       <p className="text-xs text-gray-500 mt-1">
-                                        {new Date(comment.created_at).toLocaleDateString("pt-BR")}
+                                        {new Date(comment.created_at).toLocaleDateString(dateLocale)}
                                       </p>
                                     </div>
                                   ))}

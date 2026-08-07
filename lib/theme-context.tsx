@@ -14,12 +14,12 @@ const ThemeContext = createContext<ThemeContextType | undefined>(undefined)
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
   const [theme, setThemeState] = useState<Theme>("dark")
-  const [mounted, setMounted] = useState(false)
 
+  // A classe `light` já foi aplicada no <html> pelo script inline do layout,
+  // antes da primeira pintura. Aqui só sincronizamos o estado do React.
   useEffect(() => {
-    setMounted(true)
-    const savedTheme = Cookies.get("theme") as Theme
-    if (savedTheme) {
+    const savedTheme = Cookies.get("theme") as Theme | undefined
+    if (savedTheme === "light" || savedTheme === "dark") {
       setThemeState(savedTheme)
       document.documentElement.classList.toggle("light", savedTheme === "light")
     }
@@ -29,10 +29,6 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     setThemeState(newTheme)
     Cookies.set("theme", newTheme, { expires: 365 })
     document.documentElement.classList.toggle("light", newTheme === "light")
-  }
-
-  if (!mounted) {
-    return null
   }
 
   return <ThemeContext.Provider value={{ theme, setTheme }}>{children}</ThemeContext.Provider>
