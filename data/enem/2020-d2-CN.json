@@ -873,9 +873,7 @@
       "faixa": "Médio"
     },
     "habilidade": 21,
-    "imagens": [
-      "https://enem.dev/2020/questions/112/3a5d84b5-cdc6-4ede-b856-91cf1b9bd52d.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {

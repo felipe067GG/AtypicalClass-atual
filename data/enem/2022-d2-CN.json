@@ -181,7 +181,9 @@
       "faixa": "Médio"
     },
     "habilidade": 2,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1308,9 +1310,7 @@
       "faixa": "Médio"
     },
     "habilidade": 26,
-    "imagens": [
-      "https://enem.dev/2022/questions/120/b54f40a5-6770-42c7-8756-63acaa5dcbd1.jpg"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1359,7 +1359,9 @@
       "faixa": "Médio"
     },
     "habilidade": 29,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2022/questions/121/e95c1ba6-6673-4d72-b19e-9f022900d737.jpg"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1657,9 +1659,7 @@
       "faixa": "Médio"
     },
     "habilidade": 12,
-    "imagens": [
-      "https://enem.dev/2022/questions/129/dceda47e-3511-452d-b376-b192e2b975f6.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {

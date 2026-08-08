@@ -217,6 +217,15 @@ export function conferir(item) {
   if (!item.enunciado) problemas.push("enunciado vazio")
   if (item.enunciado && !pareacePortugues(item.enunciado)) problemas.push("texto ilegível (fonte sem mapa de caracteres)")
 
+  // As alternativas precisam da mesma checagem, e não só o enunciado.
+  // Cinco questões de 2021 atravessaram tudo com enunciado aceitável e
+  // alternativas cifradas — a de número 131 oferecia "UHGXomR" no lugar de
+  // "redução". Enunciado legível com opções ilegíveis é pior que questão
+  // rejeitada: parece utilizável até o aluno tentar responder.
+  if (item.alternativas.some((a) => a.texto && temLetraTrocada(a.texto))) {
+    problemas.push("alternativa ilegível (fonte sem mapa de caracteres)")
+  }
+
   return problemas
 }
 

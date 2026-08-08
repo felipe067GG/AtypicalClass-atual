@@ -179,7 +179,9 @@
       "faixa": "Médio"
     },
     "habilidade": 4,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -914,9 +916,7 @@
       "faixa": "Médio"
     },
     "habilidade": 16,
-    "imagens": [
-      "https://enem.dev/2023/questions/109/e083688b-cc00-4c8b-9de6-01f07a7a6a5c.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -965,10 +965,7 @@
       "faixa": "Médio"
     },
     "habilidade": 25,
-    "imagens": [
-      "https://enem.dev/2023/questions/110/9874e4c1-d246-4697-8798-52f1577c2542.png",
-      "https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1017,9 +1014,7 @@
       "faixa": "Médio"
     },
     "habilidade": 8,
-    "imagens": [
-      "https://enem.dev/2023/questions/111/9ae85aec-1b17-4ee7-afd9-e9cf17101aca.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1217,7 +1212,9 @@
       "faixa": "Médio"
     },
     "habilidade": 10,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/116/aab4b4fe-505c-4eda-a772-42a363f6ba8a.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1315,7 +1312,9 @@
       "faixa": "Fácil"
     },
     "habilidade": 18,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/118/5d656ef9-cabd-499e-bd98-51993ccb6c1c.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1364,7 +1363,9 @@
       "faixa": "Médio"
     },
     "habilidade": 13,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/120/80ceec42-52be-4ea5-8cf1-c75004d0f166.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -2050,9 +2051,7 @@
       "faixa": "Médio"
     },
     "habilidade": 20,
-    "imagens": [
-      "https://enem.dev/2023/questions/135/11f4c343-9f23-4f60-a61f-10d4dbc2eb6c.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
