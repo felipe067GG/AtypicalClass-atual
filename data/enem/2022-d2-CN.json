@@ -1,0 +1,1924 @@
+[
+  {
+    "numero": 91,
+    "enunciado": "Diversas substâncias são empregadas com a intenção\nde incrementar o desempenho esportivo de atletas de\nalto nível. O chamado doping sanguíneo, por exemplo,\npela utilização da eritropoietina, é proibido pelas principais\nfederações de esportes no mundo. A eritropoietina é um\nhormônio produzido pelos rins e fígado e sua principal ação\né regular o processo de eritropoiese. Seu uso administrado\nintravenosamente em quantidades superiores àquelas\npresentes naturalmente no organismo permite que o\nindivíduo aumente a sua capacidade de realização de\nexercícios físicos.\nEsse tipo de doping está diretamente relacionado ao\naumento da",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "frequência cardíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "capacidade pulmonar."
+      },
+      {
+        "letra": "C",
+        "texto": "massa muscular do indivíduo."
+      },
+      {
+        "letra": "D",
+        "texto": "atividade anaeróbica da musculatura."
+      },
+      {
+        "letra": "E",
+        "texto": "taxa de transporte de oxigênio pelo sangue."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.00991,
+      "escala": 601,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [
+      "https://enem.dev/2022/questions/91/0c8a2451-b60e-4a4f-9eb8-4cac8fe9536d.png"
+    ],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 91,
+      "pagina": 2,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "Em um autódromo, os carros podem derrapar em\numa curva e bater na parede de proteção. Para diminuir\no impacto de uma batida, pode-se colocar na parede\numa barreira de pneus, isso faz com que a colisão\nseja mais demorada e o carro retorne com velocidade\nreduzida. Outra opção é colocar uma barreira de blocos\nde um material que se deforma, tornando-a tão demorada\nquanto a colisão com os pneus, mas que não permite a\nvolta do carro após a colisão.\nComparando as duas situações, como ficam a força média\nexercida sobre o carro e a energia mecânica dissipada?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos."
+      },
+      {
+        "letra": "B",
+        "texto": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus."
+      },
+      {
+        "letra": "C",
+        "texto": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações."
+      },
+      {
+        "letra": "D",
+        "texto": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus."
+      },
+      {
+        "letra": "E",
+        "texto": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.41874,
+      "escala": 642,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 92,
+      "pagina": 2,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "A penicilamina é um medicamento de uso oral\nutilizado no tratamento de várias doenças. Esse\ncomposto é excretado na urina, cujo pH se situa entre\n5 e 7. A penicilamina, cuja fórmula estrutural plana está\napresentada, possui três grupos funcionais que podem\nser ionizados:\n• carboxila: —COOH, cujo pKa é igual a 1,8;\n• amino: amínio —NH2, (—NH3+, que pode ser cujo pKa é igual a convertido 7,9); em\n• tiol: —SH, cujo pKa é igual a 10,5.\nSabe-se que pKa = −log Ka.\nCH3 H\nHS C C COOH\nCH3 NH2\nPenicilamina\nQual estrutura derivada da penicilamina é\npredominantemente encontrada na urina?\nCH3 H",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "−S C C COO−"
+      },
+      {
+        "letra": "B",
+        "texto": "−S C C COOH"
+      },
+      {
+        "letra": "C",
+        "texto": "HS C C COO− CH3 NH3+"
+      },
+      {
+        "letra": "D",
+        "texto": "−S C C COOH CH3 NH3+"
+      },
+      {
+        "letra": "E",
+        "texto": "HS C C COOH CH3 NH3+"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.76588,
+      "escala": 777,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 93,
+      "pagina": 2,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "O protozoário Trypanosoma cruzi, causador da\ndoença de Chagas, pode ser a nova arma da medicina\ncontra o câncer. Pesquisadores brasileiros conseguiram\ncriar uma vacina contra a doença usando uma variação\ndo protozoário incapaz de desencadear a patologia (não\npatogênico). Para isso, realizaram uma modificação\ngenética criando um T. cruzi capaz de produzir também\nmoléculas fabricadas pelas células tumorais. Quando\no organismo inicia o combate ao protozoário, entra em\ncontato também com a molécula tumoral, que passa a ser\nvista também pelo sistema imune como um indicador de\ncélulas do protozoário. Depois de induzidas as defesas,\nestas passam a destruir todas as células com a molécula\ntumoral, como se lutassem apenas contra o protozoário.\nDisponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).\nQual o mecanismo utilizado no experimento para enganar\nas células de defesa, fazendo com que ataquem o tumor?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autoimunidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipersensibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Ativação da resposta inata."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação de antígeno específico."
+      },
+      {
+        "letra": "E",
+        "texto": "Desencadeamento de processo anti-inflamatório."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.42364,
+      "escala": 642,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png"
+    ],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 94,
+      "pagina": 3,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 96,
+    "enunciado": "Em 2002, um mecânico da cidade mineira de\nUberaba (MG) teve uma ideia para economizar o\nconsumo de energia elétrica e iluminar a própria casa\nnum dia de sol. Para isso, ele utilizou garrafas plásticas\nPET com água e cloro, conforme ilustram as figuras.\nCada garrafa foi fixada ao telhado de sua casa em um\nburaco com diâmetro igual ao da garrafa, muito maior\nque o comprimento de onda da luz. Nos últimos dois\nanos, sua ideia já alcançou diversas partes do mundo\ne deve atingir a marca de 1 milhão de casas utilizando\na “luz engarrafada”.\nZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo.\nDisponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).\nQue fenômeno óptico explica o funcionamento da “luz\nengarrafada”?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difração."
+      },
+      {
+        "letra": "B",
+        "texto": "Absorção."
+      },
+      {
+        "letra": "C",
+        "texto": "Polarização."
+      },
+      {
+        "letra": "D",
+        "texto": "Reflexão."
+      },
+      {
+        "letra": "E",
+        "texto": "Refração."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.03388,
+      "escala": 603,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2022/questions/96/970c1d36-8b55-4012-b912-db3efb32fbe4.png"
+    ],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 96,
+      "pagina": 3,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 97,
+    "enunciado": "A água bruta coletada de mananciais apresenta\nalto índice de sólidos suspensos, o que a deixa com\num aspecto turvo. Para se obter uma água límpida e\npotável, ela deve passar por um processo de purificação\nnuma estação de tratamento de água. Nesse processo,\nas principais etapas são, nesta ordem: coagulação,\ndecantação, filtração, desinfecção e fluoretação.\nQual é a etapa de retirada de grande parte desses\nsólidos?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coagulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Decantação."
+      },
+      {
+        "letra": "C",
+        "texto": "Filtração."
+      },
+      {
+        "letra": "D",
+        "texto": "Desinfecção."
+      },
+      {
+        "letra": "E",
+        "texto": "Fluoretação."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.51676,
+      "escala": 752,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 97,
+      "pagina": 4,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 98,
+    "enunciado": "Os ursos, por não apresentarem uma hibernação\nverdadeira, acordam por causa da presença de\ntermogenina, uma proteína mitocondrial que impede a\nchegada dos prótons até a ATP sintetase, gerando calor.\nEsse calor é importante para aquecer o organismo,\npermitindo seu despertar.\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).\nEm qual etapa do metabolismo energético celular a\ntermogenina interfere?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicólise."
+      },
+      {
+        "letra": "B",
+        "texto": "Fermentação lática."
+      },
+      {
+        "letra": "C",
+        "texto": "Ciclo do ácido cítrico."
+      },
+      {
+        "letra": "D",
+        "texto": "Oxidação do piruvato."
+      },
+      {
+        "letra": "E",
+        "texto": "Fosforilação oxidativa."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.70426,
+      "escala": 670,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 98,
+      "pagina": 4,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 99,
+    "enunciado": "A fim de classificar as melhores rotas em um aplicativo\nde trânsito, um pesquisador propõe um modelo com\nbase em circuitos elétricos. Nesse modelo, a corrente\nrepresenta o número de carros que passam por um ponto\nda pista no intervalo de 1 s. A diferença de potencial (d.d.p.)\ncorresponde à quantidade de energia por carro necessária\npara o deslocamento de 1 m. De forma análoga à lei de\nOhm, cada via é classificada pela sua resistência, sendo\na de maior resistência a mais congestionada. O aplicativo\nmostra as rotas em ordem crescente, ou seja, da rota de\nmenor para a de maior resistência.\nComo teste para o sistema, são utilizadas três\npossíveis vias para uma viagem de A até B, com os\nvalores de d.d.p. e corrente conforme a tabela.\nRota d.d.p. § J · ¨ ¸ © carrom ¹ Corrente § carro · ¨© s ¸¹\n1            510                         4\n2            608                         4\n3            575                         3\n4                                     CN - 2° dia | Caderno 5\nNesse teste, a ordenação das rotas indicadas pelo\naplicativo será:",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, 2, 3."
+      },
+      {
+        "letra": "B",
+        "texto": "1, 3, 2."
+      },
+      {
+        "letra": "C",
+        "texto": "2, 1, 3."
+      },
+      {
+        "letra": "D",
+        "texto": "3, 1, 2."
+      },
+      {
+        "letra": "E",
+        "texto": "3, 2, 1."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.20513,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 99,
+      "pagina": 4,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 100,
+    "enunciado": "O esquema representa o ciclo do nitrogênio:\nPlantas Assimilação                                                                                      Bactérias        desnitri-ficantes\nBactérias fixa- doras de N2 nos nódulos de raízes de leguminosas Decompositores (fungos e bactérias aeróbicas e anaeróbicas)  Nitratos (NO3−)Bactérias\nAmonificação    Nitrificação                                                                                            nitrificantes\nBactérias fixadoras de N2 no solo Amônia (NH3) e Amônio (NH4+) Nitritos (NO2−) Bactérias nitrificantes\nA chuva ácida interfere no ciclo do nitrogênio,\nprincipalmente, por proporcionar uma diminuição do pH\ndo solo e da atmosfera, alterando a concentração dos\ncompostos presentes nesse ciclo.\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).\nEm um solo de menor pH, será favorecida a formação de:",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "N2"
+      },
+      {
+        "letra": "B",
+        "texto": "NH3"
+      },
+      {
+        "letra": "C",
+        "texto": "NH + 4"
+      },
+      {
+        "letra": "D",
+        "texto": "NO − 2"
+      },
+      {
+        "letra": "E",
+        "texto": "NO − 3"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.78678,
+      "escala": 679,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2022/questions/100/109f2a39-f073-4841-9cec-bed51e1c1f12.png"
+    ],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 100,
+      "pagina": 4,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 101,
+    "enunciado": "No processo de captação da luz pelo olho para a\nformação de imagens estão envolvidas duas estruturas\ncelulares: os cones e os bastonetes. Os cones são sensíveis\nà energia dos fótons, e os bastonetes, à quantidade de\nfótons incidentes. A energia dos fótons que compõem\nos raios luminosos está associada à sua frequência, e a\nintensidade, ao número de fótons incidentes.\nUm animal que tem bastonetes mais sensíveis irá",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apresentar daltonismo."
+      },
+      {
+        "letra": "B",
+        "texto": "perceber cores fora do espectro do visível."
+      },
+      {
+        "letra": "C",
+        "texto": "enxergar bem em ambientes mal iluminados."
+      },
+      {
+        "letra": "D",
+        "texto": "necessitar de mais luminosidade para enxergar."
+      },
+      {
+        "letra": "E",
+        "texto": "fazer uma pequena iluminados. distinção de cores em ambientes"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.78824,
+      "escala": 579,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2022/questions/101/afa4fc86-8d89-4713-a690-8306324d23ed.png",
+      "https://enem.dev/2022/questions/101/d492e2a3-b988-4c38-802d-20d5f73c3b72.png"
+    ],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 101,
+      "pagina": 4,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 102,
+    "enunciado": "De modo geral, a palavra “aromático” invoca associaçõe\ncanela. Associações similares ocorriam no passado da históri\napresentavam um odor agradável e foram isolados de óleos\nelucidadas, foi se descobrindo que vários deles continham\nque continham essa unidade estrutural tornaram-se parte de\neletrônicas do que nos seus cheiros, como as substâncias a\nO     H                            O\nOH\nBenzaldeído               Salicilato de m\n(no óleo de amêndoas)         (no óleo de gau\nO      H\nHO\nOOH CH3        H3C O\nVanilina                      Eugenol\n(no óleo de baunilha)        (no óleo de cra\nS",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "característica estrutural dessa família de compostos é a"
+      },
+      {
+        "letra": "B",
+        "texto": "insaturações."
+      },
+      {
+        "letra": "C",
+        "texto": "anel benzênico."
+      },
+      {
+        "letra": "D",
+        "texto": "átomos de oxigênio."
+      },
+      {
+        "letra": "E",
+        "texto": "carbonos assimétricos."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.4948,
+      "escala": 549,
+      "faixa": "Fácil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 102,
+      "pagina": 5,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 103,
+    "enunciado": "Os resultados de um ensaio clínico randomizado na\ndengue nas áreas que receberam o mosquito Aedes aegy\ntécnica utilizada no Brasil pelo Método Wolbachia, iniciativ\nbactéria induz a redução da carga viral no mosquito e, c\nsendo repassada por meio do cruzamento entre os inseto\ntambém precisa entrar nas células para se reproduzir, am\nCOSTA, G. Agência Fiocruz de Notícias. Estudo confirma eficácia do Método Wol\nEssa tecnologia utilizada no combate à dengue consiste n",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "predação do vírus pela bactéria."
+      },
+      {
+        "letra": "B",
+        "texto": "esterilização de mosquitos infectados."
+      },
+      {
+        "letra": "C",
+        "texto": "alteração no genótipo do mosquito pela bactéria."
+      },
+      {
+        "letra": "D",
+        "texto": "competição do vírus e da bactéria no hospedeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "inserção de material genético do vírus na bactéria."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.85524,
+      "escala": 586,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 103,
+      "pagina": 5,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 104,
+    "enunciado": "A extinção de espécies é uma ameaça real que\nafeta diversas regiões do país. A introdução de espécies\nexóticas pode ser considerada um fator maximizador\ndesse processo. A jaqueira (Artocarpus heterophyllus),\npor exemplo, é uma árvore originária da Índia e de\nregiões do Sudeste Asiático que foi introduzida ainda na\nera colonial e se aclimatou muito bem em praticamente\ntodo o território nacional.\nCasos como o dessa árvore podem provocar a redução\nda biodiversidade, pois elas",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original."
+      },
+      {
+        "letra": "B",
+        "texto": "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras."
+      },
+      {
+        "letra": "C",
+        "texto": "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente."
+      },
+      {
+        "letra": "D",
+        "texto": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente."
+      },
+      {
+        "letra": "E",
+        "texto": "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.97602,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 104,
+      "pagina": 6,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 105,
+    "enunciado": "Em um dia de calor intenso, dois colegas estão\na brincar com a água da mangueira. Um deles quer\nsaber até que altura o jato de água alcança, a partir da\nsaída de água, quando a mangueira está posicionada\ntotalmente na direção vertical. O outro colega propõe\nentão o seguinte experimento: eles posicionarem a saída\nde água da mangueira na direção horizontal, a 1 m de\naltura em relação ao chão, e então medirem a distância\nhorizontal entre a mangueira e o local onde a água\natinge o chão. A medida dessa distância foi de 3 m,\ne a partir disso eles calcularam o alcance vertical do\njato de água. Considere a aceleração da gravidade de\n10 m s-2.\nO resultado que eles obtiveram foi de",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,50 m."
+      },
+      {
+        "letra": "B",
+        "texto": "2,25 m."
+      },
+      {
+        "letra": "C",
+        "texto": "4,00 m."
+      },
+      {
+        "letra": "D",
+        "texto": "4,50 m."
+      },
+      {
+        "letra": "E",
+        "texto": "5,00 m."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.08841,
+      "escala": 709,
+      "faixa": "Difícil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 105,
+      "pagina": 6,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 106,
+    "enunciado": "O etanol é um combustível produzido a partir da\nfermentação da sacarose presente no caldo de cana-\n-de-açúcar. Um dos fatores que afeta a produção desse\nálcool é o grau de deterioração da sacarose, que se inicia\napós o corte, por causa da ação de microrganismos. Foram\nanalisadas cinco amostras de diferentes tipos de cana-de-\n-açúcar e cada uma recebeu um código de identificação.\nNo quadro são apresentados os dados de concentração de\nsacarose e de microrganismos presentes nessas amostras.\nAmostra de cana-de-açúcar\nRB72 RB84 RB92 SP79 SP80\nConcentração inicial de sacarose (g L-1) 13,0 18,0 16,0 14,0 17,0\nConcentração de microrganismos (mg L-1) 0,7 0,8 0,6 0,5 0,9\nPretende-se escolher o tipo de cana-de-açúcar que\nconterá o maior teor de sacarose 10 horas após o corte\ne que, consequentemente, produzirá a maior quantidade\nde etanol por fermentação. Considere que existe uma\nredução de aproximadamente 50% da concentração\nde sacarose nesse tempo, para cada 1,0 mg L−1 de\nmicrorganismos presentes na cana-de-açúcar.\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\nQual tipo de cana-de-açúcar deve ser escolhido?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "RB72"
+      },
+      {
+        "letra": "B",
+        "texto": "RB84"
+      },
+      {
+        "letra": "C",
+        "texto": "RB92"
+      },
+      {
+        "letra": "D",
+        "texto": "SP79"
+      },
+      {
+        "letra": "E",
+        "texto": "SP80"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.52509,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 106,
+      "pagina": 6,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 107,
+    "enunciado": "Entre as diversas técnicas para diagnóstico da\ncovid-19, destaca-se o teste genético. Considerando as\ndiferentes variantes e cargas virais, um exemplo é a PCR,\nreação efetuada por uma enzima do tipo polimerase.\nEssa técnica permite identificar, com confiabilidade, o\nmaterial genético do SARS-CoV-2, um vírus de RNA.\nPara comprovação da infecção por esse coronavírus, são\ncoletadas amostras de secreções do indivíduo. Uma etapa\nque antecede a reação de PCR precisa ser realizada para\npermitir a amplificação do material genético do vírus.\nEssa etapa deve ser realizada para",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concentrar o RNA viral para otimizar a técnica."
+      },
+      {
+        "letra": "B",
+        "texto": "identificar nas amostras anticorpos anti-SARS-CoV-2."
+      },
+      {
+        "letra": "C",
+        "texto": "proliferar o vírus em culturas, aumentando a carga viral."
+      },
+      {
+        "letra": "D",
+        "texto": "purificar ácidos nucleicos virais, facilitando a ação da enzima."
+      },
+      {
+        "letra": "E",
+        "texto": "obter moléculas de cDNA viral por meio da transcrição reversa."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 3.19204,
+      "escala": 819,
+      "faixa": "Difícil"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 107,
+      "pagina": 6,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 108,
+    "enunciado": "Tribologia é o estudo da interação entre duas\nsuperfícies em contato, como desgaste e atrito, sendo\nde extrema importância na avaliação de diferentes\nprodutos e de bens de consumo em geral. Para testar\na conformidade de uma muleta, realiza-se um ensaio\ntribológico, pressionando-a  com uma força F, conforme verticalmente contra o piso ilustra a imagem, em que CM\nrepresenta o centro de massa da muleta.\n\nF\nCM\nMantendo-se a força F paralela à muleta, varia-se\nlentamente o ângulo entre a muleta e a vertical, até o máximo\nângulo imediatamente anterior ao de escorregamento,\ndenominado ângulo crítico. Esse ângulo também pode ser\ncalculado a partir da identificação dos pontos de aplicação,\nda direção e do sentido  das forças peso \u000bP\f, normal \u000bN\f e\nde atrito estático \u000bge \f.\nO esquema que representa corretamente todas as forças\nque atuam sobre a muleta quando ela atinge o ângulo\ncrítico é:\n\nF",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CM"
+      },
+      {
+        "letra": "B",
+        "texto": "NCM P  fe"
+      },
+      {
+        "letra": "C",
+        "texto": "CM"
+      },
+      {
+        "letra": "D",
+        "texto": "NCM P  fe"
+      },
+      {
+        "letra": "E",
+        "texto": "N CM P fe"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.4048,
+      "escala": 640,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 108,
+      "pagina": 7,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 109,
+    "enunciado": "A biomassa celulósica pode ser utilizada para a produ\nque os polissacarídeos sejam convertidos em mono e d\nácido, conforme mostra o esquema: H+\nO       OHO HO O\nHO             OH              OH\nO\nHO\nOHO   OH   O +                HOHOOHH O H\nOH\nOHO        O           H+OOHH\nNessa conversão de polissacarídeos, a função do íon H+",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dissolver os reagentes."
+      },
+      {
+        "letra": "B",
+        "texto": "deslocar o equilíbrio químico."
+      },
+      {
+        "letra": "C",
+        "texto": "aumentar a velocidade da reação."
+      },
+      {
+        "letra": "D",
+        "texto": "mudar a constante de equilíbrio da reação."
+      },
+      {
+        "letra": "E",
+        "texto": "formar ligações de hidrogênio com o polissacarídeo."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.04288,
+      "escala": 704,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 109,
+      "pagina": 8,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 110,
+    "enunciado": "O ácido tartárico é o principal ácido do vinho e está d\num vinho branco em produção, uma analista neutralizou u\nconsumindo um volume igual a 8,0 mL dessa base. A re\nequação química: O    OH\nHO                  OH  2 NaOH\nOH O\nÁcido tartárico\n(massa molar: 150 g mol1)",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concentração de ácido tartárico no vinho analisado é m"
+      },
+      {
+        "letra": "B",
+        "texto": "2,4 g L−1"
+      },
+      {
+        "letra": "C",
+        "texto": "3,6 g L−1"
+      },
+      {
+        "letra": "D",
+        "texto": "4,8 g L−1"
+      },
+      {
+        "letra": "E",
+        "texto": "9,6 g L−1"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.89127,
+      "escala": 689,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 110,
+      "pagina": 8,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 111,
+    "enunciado": "O manual de uma ducha elétrica informa que seus três\nníveis de aquecimento (morno, quente e superquente)\napresentam as seguintes variações de temperatura da\nágua em função de sua vazão:\nVazão § L · ¨ ¸ © min ¹ Morno 'T (qC)Quente Superquente\n3              10          20         30\n6              5           10         15\nUtiliza-se um disjuntor para proteger o circuito dessa\nducha contra sobrecargas elétricas em qualquer nível de\naquecimento. Por padrão, o disjuntor é especificado pela\ncorrente nominal igual ao múltiplo de 5 A imediatamente\nsuperior à corrente máxima do circuito. Considere que a\nducha deve ser ligada em 220 V e que toda a energia é\ndissipada através da resistência do chuveiro e convertida\nem energia térmica transferida para a água, que apresenta\ncalor específico de 4,2 J g qC e densidade de 1 000 gL .\nO disjuntor adequado para a proteção dessa ducha é\nespecificado por:",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 A"
+      },
+      {
+        "letra": "B",
+        "texto": "30 A"
+      },
+      {
+        "letra": "C",
+        "texto": "20 A"
+      },
+      {
+        "letra": "D",
+        "texto": "10 A"
+      },
+      {
+        "letra": "E",
+        "texto": "5A"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.40137,
+      "escala": 740,
+      "faixa": "Difícil"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 111,
+      "pagina": 9,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 112,
+    "enunciado": "Um grupo de alunos realizou um experimento para\nobservar algumas propriedades dos ácidos, adicionando\num pedaço de mármore (CaCO3) a uma solução aquosa\nde ácido clorídrico (HCl), observando a liberação de um\ngás e o aumento da temperatura.\nGás\nÁcido\nMármore\nO gás obtido no experimento é o:",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "H2"
+      },
+      {
+        "letra": "B",
+        "texto": "O2"
+      },
+      {
+        "letra": "C",
+        "texto": "CO2"
+      },
+      {
+        "letra": "D",
+        "texto": "CO"
+      },
+      {
+        "letra": "E",
+        "texto": "Cl2"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.01697,
+      "escala": 602,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 112,
+      "pagina": 9,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 113,
+    "enunciado": "Em 2002, foi publicado um artigo científico que\nrelacionava alterações na produção de hormônios sexuais\nde sapos machos expostos à atrazina, um herbicida, com\no desenvolvimento anômalo de seus caracteres sexuais\nprimários e secundários. Entre os animais sujeitos à\ncontaminação, observaram-se casos de hermafroditismo\ne desmasculinização da laringe. O estudo em questão\ncomparou a concentração de um hormônio específico\nno sangue de machos expostos ao agrotóxico com a de\noutros machos e fêmeas que não o foram (controles).\nOs resultados podem ser vistos na figura.\n6\n5\n4\n3\n2\n1\n0 Machos Machos Fêmeas\ncontrole expostos controle\nà atrazina\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to\nthe Herbicide Atrazine at Low Ecologically Relevant Doses. Proceedings of\nthe National Academy of Sciences, n. 8, 2002 (adaptado).\nCom base nas informações do texto, qual é o hormônio\ncujas concentrações estão representadas na figura?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estrogênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Feromônio."
+      },
+      {
+        "letra": "C",
+        "texto": "Testosterona."
+      },
+      {
+        "letra": "D",
+        "texto": "Somatotrofina."
+      },
+      {
+        "letra": "E",
+        "texto": "Hormônio folículo estimulante."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.56741,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 113,
+      "pagina": 9,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 114,
+    "enunciado": "O veneno da cascavel pode causar hemorragia com\nrisco de morte a quem é picado pela serpente. No entanto,\npesquisadores do Brasil e da Bélgica desenvolveram uma\nmolécula de interesse farmacêutico, a PEG-collineína-1,\na partir de uma proteína encontrada no veneno dessa\ncobra, capaz de modular a coagulação sanguínea.\nEmbora a técnica não seja nova, foi a primeira vez que\no método foi usado a partir de uma toxina animal na sua\nforma recombinante, ou seja, produzida em laboratório\npor um fungo geneticamente modificado.\nJULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite\ncriar fármaco que modula a coagulação sanguínea. Disponível em:\nhttps://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).\nEsse novo medicamento apresenta potencial aplicação para",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral."
+      },
+      {
+        "letra": "B",
+        "texto": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue."
+      },
+      {
+        "letra": "C",
+        "texto": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos."
+      },
+      {
+        "letra": "D",
+        "texto": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções."
+      },
+      {
+        "letra": "E",
+        "texto": "regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.10708,
+      "escala": 611,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 114,
+      "pagina": 10,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 115,
+    "enunciado": "Um Buraco Negro é um corpo celeste que possui uma\ngrande quantidade de matéria concentrada em uma pequena\nregião do espaço, de modo que sua força gravitacional é\ntão grande que qualquer partícula fica aprisionada em sua\nsuperfície, inclusive a luz. O raio dessa região caracteriza\numa superfície-limite, chamada de horizonte de eventos,\nda qual nada consegue escapar. Considere que o Sol foi\ninstantaneamente substituído por um Buraco Negro com\na mesma massa solar, de modo que o seu horizonte de\neventos seja de aproximadamente 3,0 km.\nSCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to\nEinstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).\nApós a substituição descrita, o que aconteceria aos\nplanetas do Sistema Solar?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro."
+      },
+      {
+        "letra": "B",
+        "texto": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais."
+      },
+      {
+        "letra": "C",
+        "texto": "Eles se moveriam em direção ao centro do Buraco Negro."
+      },
+      {
+        "letra": "D",
+        "texto": "Eles passariam a precessionar mais rapidamente."
+      },
+      {
+        "letra": "E",
+        "texto": "Eles manteriam suas órbitas inalteradas."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.77912,
+      "escala": 678,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 115,
+      "pagina": 10,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 116,
+    "enunciado": "Durante o ano de 2020, impulsionado pela necessidade\nde respostas rápidas e eficientes para desinfectar ambientes\nde possíveis contaminações com o SARS-CoV-2, causador\nda covid-19, diversas alternativas foram buscadas para\nos procedimentos de descontaminação de materiais e\nambientes. Entre elas, o uso de ozônio em meio aquoso\ncomo agente sanitizante para pulverização em humanos\ne equipamentos de proteção em câmaras ou túneis,\nhigienização de automóveis e de ambientes fechados e\ndescontaminação de trajes. No entanto, pouca atenção foi\ndada à toxicidade do ozônio, à formação de subprodutos, ao\nnível de concentração segura e às precauções necessárias.\nLIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na\nindústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).\nO grande risco envolvido no emprego indiscriminado\ndessa substância deve-se à sua ação química como",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "catalisador."
+      },
+      {
+        "letra": "B",
+        "texto": "oxidante."
+      },
+      {
+        "letra": "C",
+        "texto": "redutor."
+      },
+      {
+        "letra": "D",
+        "texto": "ácido."
+      },
+      {
+        "letra": "E",
+        "texto": "base."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.4644,
+      "escala": 646,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 116,
+      "pagina": 10,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 117,
+    "enunciado": "Na figura está representado o mosaicismo em função\nda inativação aleatória de um dos cromossomos X, que\nocorre em todas as mulheres sem alterações patológicas.\nGametamasculino   Amostras de células corporais\n(22+X)\nZigoto (44+XX)\nGameta\nfeminino\n(22+X)\nBlástula (44+XX)\nCélulas com cromossomo X paterno inativado\nCélulas com cromossomo X materno inativado\nEntre mulheres heterozigotas para doenças determinadas\npor genes recessivos ligados ao sexo, essa inativação\ntem como consequência a ocorrência de",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pleiotropia."
+      },
+      {
+        "letra": "B",
+        "texto": "mutação gênica."
+      },
+      {
+        "letra": "C",
+        "texto": "interação gênica."
+      },
+      {
+        "letra": "D",
+        "texto": "penetrância incompleta."
+      },
+      {
+        "letra": "E",
+        "texto": "expressividade variável."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.46748,
+      "escala": 647,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 117,
+      "pagina": 10,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 120,
+    "enunciado": "O urânio é empregado como fonte de energia em\nreatores nucleares. Para tanto, o seu mineral deve\nser refinado, convertido a hexafluoreto de urânio e\nposteriormente enriquecido, para aumentar de 0,7% a 3%\na abundância de um isótopo específico — o urânio-235.\nUma das formas de enriquecimento utiliza a pequena\ndiferença de massa entre os hexafluoretos de urânio-235 e\nde urânio-238 para separá-los por efusão, precedida pela\nvaporização. Esses vapores devem efundir repetidamente\nmilhares de vezes através de barreiras porosas formadas por\ntelas com grande número de pequenos orifícios. No entanto,\ndevido à complexidade e à grande quantidade de energia\nenvolvida, cientistas e engenheiros continuam a pesquisar\nprocedimentos alternativos de enriquecimento.\nATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e\no meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).\nConsiderando a diferença de massa mencionada entre os\ndois isótopos, que tipo de procedimento alternativo ao da\nefusão pode ser empregado para tal finalidade?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peneiração."
+      },
+      {
+        "letra": "B",
+        "texto": "Centrifugação."
+      },
+      {
+        "letra": "C",
+        "texto": "Extração por solvente."
+      },
+      {
+        "letra": "D",
+        "texto": "Destilação fracionada."
+      },
+      {
+        "letra": "E",
+        "texto": "Separação magnética."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.60964,
+      "escala": 661,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 120,
+      "pagina": 12,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 121,
+    "enunciado": "A Agência Nacional de Vigilância Sanitária (Anvisa)\naprovou um produto de terapia gênica no país, indicado\npara o tratamento da distrofia hereditária da retina. O\nprocedimento é recomendado para crianças acima de\n12 meses e adultos com perda de visão causada pela\nmutação do gene humano RPE65. O produto, elaborado\npor engenharia genética, é composto por um vírus, no qual\nfoi inserida uma cópia do gene normal humano RPE65\npara corrigir o funcionamento das células da retina.\nANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).\nO sucesso dessa terapia advém do fato de que o produto\nfavorecerá a",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "correção do código genético para a tradução da proteína."
+      },
+      {
+        "letra": "B",
+        "texto": "alteração do RNA ribossômico ligado à síntese da proteína."
+      },
+      {
+        "letra": "C",
+        "texto": "produção de mutações benéficas para a correção do problema."
+      },
+      {
+        "letra": "D",
+        "texto": "liberação imediata da proteína normal na região ocular humana."
+      },
+      {
+        "letra": "E",
+        "texto": "expressão do gene responsável pela produção da enzima normal."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.93167,
+      "escala": 693,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 121,
+      "pagina": 12,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 122,
+    "enunciado": "A figura ilustra esquematicamente um processo de\nremediação de solos contaminados com tricloroeteno\n(TCE), um agente desengraxante. Em razão de\nvazamentos de tanques de estocagem ou de manejo\ninapropriado de resíduos industriais, ele se encontra\npresente em águas subterrâneas, nas quais forma\numa fase líquida densa não aquosa (DNAPL) que se\ndeposita no fundo do aquífero. Essa tecnologia de\ndescontaminação emprega o íon persulfato (S2O 2− 8 ), que\né convertido no radical •SO4− por minerais que contêm\nFe(III). O esquema representa de forma simplificada o\nmecanismo de ação química sobre o TCE e a formação\ndos produtos de degradação.\nAAAA             S2O82−         MONITORAMENTO\nSOLO\nS2O82 Fe(III ) ⋅SO4                    O\nTCE                                                                              H C OH\nCl        ClCl       O             OClOHHOOH\nTCE            Cl             O\nDNAPL SOLUBILIZAÇÃO                                                     ÁGUA SUBTERRÂNEA\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:\nremediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).\nEsse procedimento de remediação de águas subterrâneas\nbaseia-se em reações de",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "oxirredução."
+      },
+      {
+        "letra": "B",
+        "texto": "substituição."
+      },
+      {
+        "letra": "C",
+        "texto": "precipitação."
+      },
+      {
+        "letra": "D",
+        "texto": "desidratação."
+      },
+      {
+        "letra": "E",
+        "texto": "neutralização."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.45358,
+      "escala": 645,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 122,
+      "pagina": 13,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 123,
+    "enunciado": "De acordo com a Organização Mundial da Saúde,\na filariose e a leishmaniose são consideradas doenças\ntropicais infecciosas e constituem uma preocupação para\na saúde pública por ser alto o índice de mortalidade a\nelas associado.\nUma medida profilática comum a essas duas doenças é o(a)",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "incineração do lixo orgânico."
+      },
+      {
+        "letra": "B",
+        "texto": "construção de rede de esgoto."
+      },
+      {
+        "letra": "C",
+        "texto": "uso de vermífugo pela população."
+      },
+      {
+        "letra": "D",
+        "texto": "controle das populações dos vetores."
+      },
+      {
+        "letra": "E",
+        "texto": "consumo de carnes vermelhas bem cozidas."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.46498,
+      "escala": 646,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 123,
+      "pagina": 13,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 124,
+    "enunciado": "Em 2017, foi inaugurado, no estado da Bahia, o\nParque Solar Lapa, composto por duas usinas (Bom Jesus\nda Lapa e Lapa) e capaz de gerar cerca de 300 GWh de\nenergia por ano. Considere que cada usina apresente\npotência igual a 75 MW, com o parque totalizando uma\npotência instalada de 150 MW. Considere ainda que a\nirradiância solar média é de 1 500 W2 e que a eficiência\ndos painéis é de 20%.            m\nParque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br.\nAcesso em: 9 jun. 2022 (adaptado).\nNessas condições, a área total dos painéis solares que\ncompõem o Parque Solar Lapa é mais próxima de:",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 000 000 m2"
+      },
+      {
+        "letra": "B",
+        "texto": "500 000 m2"
+      },
+      {
+        "letra": "C",
+        "texto": "250 000 m2"
+      },
+      {
+        "letra": "D",
+        "texto": "100 000 m2"
+      },
+      {
+        "letra": "E",
+        "texto": "20 000 m2"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.87763,
+      "escala": 688,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 124,
+      "pagina": 13,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 125,
+    "enunciado": "Os riscos apresentados pelos produtos dependem de\nsuas propriedades e da reatividade quando em contato\ncom outras substâncias. Para prevenir os riscos devido\nà natureza química dos produtos, devemos conhecer\na lista de substâncias incompatíveis e de uso cotidiano\nem fábricas, hospitais e laboratórios, a fim de observar\ncuidados na estocagem, manipulação e descarte.\nO quadro elenca algumas dessas incompatibilidades, que\npodem levar à ocorrência de acidentes.\nSubstância Incompatibilidade Riscos associados\nÁcidos minerais fortes concentrados Bases fortes Cianetos Hipoclorito de sódio Reação enérgica, explosão, produção de oxidante forte e produto tóxico\nÁcido nítrico concentrado Reação enérgica, Matéria orgânica explosão e produto tóxico\nConsidere que houve o descarte indevido de dois\nconjuntos de substâncias:\n(1) ácido clorídrico concentrado com cianeto de potássio;\n(2) ácido nítrico concentrado com sacarose.\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).\nO descarte dos conjuntos (1) e (2) resultará,\nrespectivamente, em",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "liberação de gás tóxico e reação oxidativa forte."
+      },
+      {
+        "letra": "B",
+        "texto": "reação oxidativa forte e liberação de gás tóxico."
+      },
+      {
+        "letra": "C",
+        "texto": "formação de sais tóxicos e reação oxidativa forte."
+      },
+      {
+        "letra": "D",
+        "texto": "liberação de gás tóxico e liberação de gás oxidante."
+      },
+      {
+        "letra": "E",
+        "texto": "formação de sais tóxicos e liberação de gás oxidante."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.23408,
+      "escala": 723,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 125,
+      "pagina": 13,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 128,
+    "enunciado": "As células da epiderme da folha da Tradescantia\npallida purpurea, uma herbácea popularmente conhecida\ncomo trapoeraba-roxa, contém um vacúolo onde se\nencontra um pigmento que dá a coloração arroxeada a\nesse tecido. Em um experimento, um corte da epiderme\nde uma folha da trapoeraba-roxa foi imerso em ambiente\nhipotônico e, logo em seguida, foi colocado em uma\nlâmina e observado em microscópio óptico.\nDurante a observação desse corte, foi possível identificar o(a)",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acúmulo do solvente com fragmentação da organela."
+      },
+      {
+        "letra": "B",
+        "texto": "rompimento da membrana celular com liberação do citosol."
+      },
+      {
+        "letra": "C",
+        "texto": "aumento do vacúolo com diluição do pigmento no seu interior."
+      },
+      {
+        "letra": "D",
+        "texto": "quebra da parede celular com extravasamento do pigmento."
+      },
+      {
+        "letra": "E",
+        "texto": "murchamento da célula com expulsão do pigmento do vacúolo."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.49398,
+      "escala": 649,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 128,
+      "pagina": 14,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 129,
+    "enunciado": "A variação da incidência de radiação solar sobre\na superfície da Terra resulta em uma variação de\ntemperatura ao longo de um dia denominada amplitude\ntérmica. Edificações e pavimentações realizadas nas\náreas urbanas contribuem para alterar as amplitudes\ntérmicas dessas regiões, em comparação com regiões que\nmantêm suas características naturais, com presença de\nvegetação e água, já que o calor específico do concreto é\ninferior ao da água. Assim, parte da avaliação do impacto\nambiental que a presença de concreto proporciona às\náreas urbanas consiste em considerar a substituição\nda área concretada por um mesmo volume de água e\ncomparar as variações de temperatura devido à absorção\nda radiação solar nas duas situações (concretada e\nalagada). Desprezando os efeitos da evaporação e\nconsiderando que toda a radiação é absorvida, essa\navaliação pode ser realizada com os seguintes dados:\nDensidade §¨© kg m3 ·¸¹ Calor específico §¨© g JqC ·¸¹\nÁgua        1 000                 4,2\nConcreto      2 500                 0,8\nROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas.\nBrasília: UnB; ETB, 2019 (adaptado).",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de"
+      },
+      {
+        "letra": "B",
+        "texto": "2,1."
+      },
+      {
+        "letra": "C",
+        "texto": "2,5."
+      },
+      {
+        "letra": "D",
+        "texto": "5,3."
+      },
+      {
+        "letra": "E",
+        "texto": "13,1."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.44802,
+      "escala": 645,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 129,
+      "pagina": 14,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 130,
+    "enunciado": "O elemento iodo (I) tem função biológica e é acumulado\nna tireoide. Nos acidentes nucleares de Chernobyl e\nFukushima, ocorreu a liberação para a atmosfera do\nradioisótopo 131I, responsável por enfermidades nas\npessoas que foram expostas a ele. O decaimento de uma\nmassa de 12 microgramas do isótopo 131I foi monitorado\npor 14 dias, conforme o quadro.\nTempo (dia) Massa residual de 131I (µg)\n0                    12,0\n2                    10,1\n4                    8,5\n5                    7,8\n6                    7,2\n8                    6,0\n14                    3,6\nApós o período de 40 dias, a massa residual desse\nisótopo é mais próxima de",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,4 µg."
+      },
+      {
+        "letra": "B",
+        "texto": "1,5 µg."
+      },
+      {
+        "letra": "C",
+        "texto": "0,8 µg."
+      },
+      {
+        "letra": "D",
+        "texto": "0,4 µg."
+      },
+      {
+        "letra": "E",
+        "texto": "0,2 µg."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.20769,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 130,
+      "pagina": 15,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 131,
+    "enunciado": "Desde a proposição da teoria de seleção natural\npor Darwin, os seres vivos nunca mais foram olhados\nda mesma forma. No que diz respeito à reprodução de\nanfíbios anuros, os cientistas já descreveram diferentes\npadrões reprodutivos, como os exemplificados a seguir:\nEspécie 1 – As fêmeas produzem cerca de\n5 000 gametas, que são fecundados na água, em\nlagoas temporárias de estação chuvosa. Todo o\ndesenvolvimento embrionário, do ovo à metamorfose,\nocorre, nesse ambiente, independente dos pais.\nEspécie 2 – As fêmeas produzem aproximadamente\n200 gametas, que são depositados em poças próximas a\ncorpos-d’água. Os embriões são vigiados pelos machos\ndurante boa parte do seu desenvolvimento.\nEspécie 3 – As fêmeas produzem por volta de\n20 gametas, que são fecundados sobre a superfície das\nfolhas de plantas cujos galhos estão dispostos acima da\nsuperfície de corpos-d’água e aí se desenvolvem até\na eclosão.\nEspécie 4 – As fêmeas produzem poucos gametas\nque, quando fecundados, são “abocanhados” pelos\nmachos. Os embriões se desenvolvem no interior do\nsaco vocal do macho até a metamorfose, quando saem\natravés da boca do pai.\nCN - 2° dia | Caderno 5\n*020125AM15*\nOs padrões descritos evidenciam que",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as fêmeas influenciam o comportamento dos machos."
+      },
+      {
+        "letra": "B",
+        "texto": "o cuidado parental é necessário para o desenvolvimento."
+      },
+      {
+        "letra": "C",
+        "texto": "o grau de reprodutivo. evolução determina o comportamento"
+      },
+      {
+        "letra": "D",
+        "texto": "o sucesso reprodutivo estratégias diferentes. pode ser garantido por"
+      },
+      {
+        "letra": "E",
+        "texto": "o ambiente induz modificação na produção do número de gametas femininos."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.91052,
+      "escala": 591,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 131,
+      "pagina": 15,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 132,
+    "enunciado": "O eixo de rotação da Terra apresenta uma inclinação\nem relação ao plano de sua órbita em torno do Sol,\ninterferindo na duração do dia e da noite ao longo do ano.\nIncidência diretaao meio-diaT C râ ón pico c de er Equador DIA Tróp Capricórico de nio Polo Norte Ártic Círcuo lo Polar NOITE\nPolo Sul      Antá Círcur lt oic P o olar\nTerra em 21 de dezembro\nUma pessoa instala em sua residência uma placa\nfotovoltaica, que transforma energia solar em elétrica.\nEla monitora a energia total produzida por essa placa\nem 4 dias do ano, ensolarados e sem nuvens, e lança os\nresultados no gráfico.\nEnergia\n10/01 10/04 10/07 10/10                                 Dia\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado).\nPróximo a que região se situa a residência onde as placas\nforam instaladas?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trópico de Capricórnio."
+      },
+      {
+        "letra": "B",
+        "texto": "Trópico de Câncer."
+      },
+      {
+        "letra": "C",
+        "texto": "Polo Norte."
+      },
+      {
+        "letra": "D",
+        "texto": "Polo Sul."
+      },
+      {
+        "letra": "E",
+        "texto": "Equador."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.96735,
+      "escala": 597,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 132,
+      "pagina": 15,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 134,
+    "enunciado": "Em uma aula prática de bioquímica, para medir a ati\nensaios independentes, nas mesmas condições, variando\nde hidrogênio (H2O2), produzindo água e oxigênio. Os res\nEnsaio Temperatura (°C)\n1               10\n2               15\n3               20\n4               25\n5               30\n6               35\nOs diferentes resultados dos ensaios justificam-se pelo(a",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "variação do pH do meio."
+      },
+      {
+        "letra": "B",
+        "texto": "aumento da energia de ativação."
+      },
+      {
+        "letra": "C",
+        "texto": "consumo da enzima durante o ensaio."
+      },
+      {
+        "letra": "D",
+        "texto": "diminuição da concentração do substrato."
+      },
+      {
+        "letra": "E",
+        "texto": "modificação da estrutura tridimensional da enzima."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.52791,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 134,
+      "pagina": 16,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 135,
+    "enunciado": "Antimicrobianos são substâncias naturais ou sintética\nmicrorganismos. A tabela apresenta uma lista de antimic\no metabolismo microbiano.\nAntimicrobiano                     Ação\n1                 Une-se aos ribossomos\n2                Une-se aos microtúbulos\n3       Une-se aos fosfolipídeos da membrana pl\n4                Interfere na síntese de timina\n5                Interfere na síntese de uracila\nQual dos antimicrobianos deve ser utilizado para curar u\nda microbiota normal do organismo?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1"
+      },
+      {
+        "letra": "B",
+        "texto": "2"
+      },
+      {
+        "letra": "C",
+        "texto": "3"
+      },
+      {
+        "letra": "D",
+        "texto": "4"
+      },
+      {
+        "letra": "E",
+        "texto": "5"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.50062,
+      "escala": 750,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "materiaOficial": false,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "CN",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 135,
+      "pagina": 16,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  }
+]

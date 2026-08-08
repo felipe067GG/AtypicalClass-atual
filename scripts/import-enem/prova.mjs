@@ -86,7 +86,7 @@ export async function lerColunas(pdf, { maxPaginas = 60 } = {}) {
     vazias = 0
 
     for (const coluna of [esquerda, direita]) {
-      for (const texto of desindentar(coluna)) {
+      for (const texto of desindentar(repararCifra(coluna))) {
         linhas.push({ pagina, texto })
       }
     }
@@ -112,7 +112,7 @@ export async function lerColunas(pdf, { maxPaginas = 60 } = {}) {
  * em vez do "A Verde e Preto" do impresso.
  */
 export async function lerAcessivel(pdf) {
-  const texto = await extrairTexto(pdf)
+  const texto = repararCifra(await extrairTexto(pdf))
   return texto.split(/\r?\n/).map((linha, i) => ({ pagina: null, texto: linha.trimEnd(), ordem: i }))
 }
 
@@ -153,7 +153,7 @@ function casarAlternativa(texto, formato) {
 export function segmentar(linhas, { formato = "impressa" } = {}) {
   const marcadores = []
   for (let i = 0; i < linhas.length; i += 1) {
-    const match = linhas[i].texto.match(/^\s*QUESTÃO\s+(\d+)/)
+    const match = linhas[i].texto.match(/^\s*QUESTÃO\s+(\d+)/i)
     if (match) marcadores.push({ indice: i, numero: Number(match[1]), pagina: linhas[i].pagina })
   }
 
@@ -179,7 +179,7 @@ export function segmentar(linhas, { formato = "impressa" } = {}) {
       const continuacao = []
       for (let j = i + 1; j < corpo.length; j += 1) {
         const proxima = corpo[j].texto
-        if (casarAlternativa(proxima, formato) || /^\s*QUESTÃO\s+\d+/.test(proxima)) break
+        if (casarAlternativa(proxima, formato) || /^\s*QUESTÃO\s+\d+/i.test(proxima)) break
         if (!proxima.trim()) break
         continuacao.push(proxima.trim())
       }
@@ -215,8 +215,85 @@ export function conferir(item) {
   }
   if (item.alternativas.some((a) => !a.texto)) problemas.push("alternativa vazia")
   if (!item.enunciado) problemas.push("enunciado vazio")
+  if (item.enunciado && !pareacePortugues(item.enunciado)) problemas.push("texto ilegível (fonte sem mapa de caracteres)")
 
   return problemas
+}
+
+/**
+ * Desfaz a cifra de fonte, quando ela existe.
+ *
+ * Alguns cadernos — 2021 é o pior — trazem parte do texto numa fonte sem mapa
+ * de caracteres, e o extrator devolve cada letra deslocada 29 posições no
+ * código: "DOFRRO{PHWUR" no lugar de "alcoolímetro". O deslocamento é fixo,
+ * mas atinge só alguns trechos: dentro da mesma questão, uma linha sai cifrada
+ * e a seguinte sai limpa. Decodificar o documento inteiro estragaria as linhas
+ * boas.
+ *
+ * Por isso a decisão é por linha e por comparação: decodifica-se, e fica a
+ * versão que mais se parece com português. Nenhuma tabela de acentos precisa
+ * estar completa para isso funcionar — se o resultado não melhorar, a linha
+ * original é mantida como estava.
+ */
+const PALAVRAS_COMUNS = [" de ", " que ", " para ", " com ", " uma ", " em ", " os ", " as ", " do ", " da "]
+
+const DESLOCAMENTO = 29
+
+function decodificar(linha) {
+  return linha.replace(/[!-z]/g, (c) => String.fromCharCode(c.charCodeAt(0) + DESLOCAMENTO))
+}
+
+/** Quanto uma linha se parece com português: conta partículas frequentes. */
+function pontuarPortugues(linha) {
+  const alvo = ` ${linha.toLowerCase()} `
+  return PALAVRAS_COMUNS.filter((p) => alvo.includes(p)).length
+}
+
+export function repararCifra(texto) {
+  return texto
+    .split("\n")
+    .map((linha) => {
+      if (linha.trim().length < 12) return linha
+      const decodificada = decodificar(linha)
+      if (pontuarPortugues(decodificada) <= pontuarPortugues(linha)) return linha
+
+      // A decifragem devolve as letras, mas não os acentos: "deficiência" volta
+      // como "de¿cincia" e "doença" como "doena", porque os caracteres
+      // acentuados vivem fora da faixa deslocada e se perdem na extração.
+      //
+      // O resultado é pior do que parece. Texto meio consertado passa na
+      // checagem de legibilidade — tem "de", tem "que" — e entra no banco com
+      // palavras mutiladas, enquanto o texto cifrado seria rejeitado na hora.
+      // Consertar pela metade transforma um erro barulhento em um silencioso,
+      // então a linha decifrada só vale se tiver sobrevivido inteira.
+      return perdeuAcentos(decodificada) ? linha : decodificada
+    })
+    .join("\n")
+}
+
+/** Português sem nenhum acento em texto longo é sinal de caractere perdido. */
+function perdeuAcentos(linha) {
+  return linha.length > 60 && !/[áàâãéêíóôõúüç]/i.test(linha)
+}
+
+/**
+ * Verifica se o texto extraído é português legível.
+ *
+ * Alguns cadernos — 2021 é um deles — usam fonte sem mapa de caracteres, e o
+ * extrator devolve o texto cifrado: "DOFRRO{PHWUR *D\ /XVVDF" no lugar de
+ * "alcoolímetro Gay-Lussac", cada letra deslocada três posições. O engano é
+ * traiçoeiro porque é parcial: dentro da mesma questão um trecho sai legível e
+ * o outro não, então a importação parece ter dado certo e a questão chega
+ * ilegível ao professor.
+ *
+ * A checagem é grosseira de propósito. Texto em português tem palavras curtas
+ * e frequentes — "de", "que", "para" —, e nenhuma sobrevive à cifra. Bastam
+ * algumas delas para distinguir texto de ruído, sem tentar adivinhar idioma.
+ */
+function pareacePortugues(texto) {
+  const alvo = ` ${texto.toLowerCase()} `
+  const encontradas = PALAVRAS_COMUNS.filter((palavra) => alvo.includes(palavra)).length
+  return encontradas >= 3
 }
 
 /**
