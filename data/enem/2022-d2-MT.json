@@ -1,0 +1,1849 @@
+[
+  {
+    "numero": 136,
+    "enunciado": "Em uma universidade, atuam professores que estão\nenquadrados funcionalmente pela sua maior titulação:\nmestre ou doutor. Nela há, atualmente, 60 mestres e\n40 doutores. Os salários mensais dos professores mestres\ne dos doutores são, respectivamente, R$ 8 000,00 e\nR$ 12 000,00.\nA diretoria da instituição pretende proporcionar um\naumento salarial diferenciado para o ano seguinte, de tal\nforma que o salário médio mensal dos professores dessa\ninstituição não ultrapasse R$ 12 240,00. A universidade já\nestabeleceu que o aumento salarial será de 25% para os\nmestres e precisa ainda definir o percentual de reajuste\npara os doutores.\nMantido o número atual de professores com suas atuais\ntitulações, o aumento salarial, em porcentagem, a ser\nconcedido aos doutores deverá ser de, no máximo,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14,4."
+      },
+      {
+        "letra": "B",
+        "texto": "20,7."
+      },
+      {
+        "letra": "C",
+        "texto": "22,0."
+      },
+      {
+        "letra": "D",
+        "texto": "30,0."
+      },
+      {
+        "letra": "E",
+        "texto": "37,5."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.40384,
+      "escala": 740,
+      "faixa": "Difícil"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2022/questions/136/44fff3b7-9ad8-4f02-8262-5b4c015a8228.png"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 136,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 137,
+    "enunciado": "Um borrifador de atuação automática libera, a cada\nacionamento, uma mesma quantidade de inseticida.\nO recipiente desse produto, quando cheio, contém 360 mL\nde inseticida, que duram 60 dias se o borrifador permanecer\nligado ininterruptamente e for acionado a cada 48 minutos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é"
+      },
+      {
+        "letra": "B",
+        "texto": "0,200."
+      },
+      {
+        "letra": "C",
+        "texto": "4,800."
+      },
+      {
+        "letra": "D",
+        "texto": "6,000."
+      },
+      {
+        "letra": "E",
+        "texto": "12,000."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.6446,
+      "escala": 664,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2022/questions/137/091aafba-f2dd-4f19-9655-73e6bd1599b6.png"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 137,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 138,
+    "enunciado": "Definem-se o dia e o ano de um planeta de um sistema solar\ncomo sendo, respectivamente, o tempo que o planeta leva para\ndar 1 volta completa em torno de seu próprio eixo de rotação e o\ntempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema\nsolar, onde um dia corresponda a 73 dias terrestres e\nque 2 de seus anos correspondam a 1 ano terrestre.\nConsidere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus\ndias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,5"
+      },
+      {
+        "letra": "B",
+        "texto": "10,0"
+      },
+      {
+        "letra": "C",
+        "texto": "730,0"
+      },
+      {
+        "letra": "D",
+        "texto": "13 322,5"
+      },
+      {
+        "letra": "E",
+        "texto": "53 290,0"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.301,
+      "escala": 730,
+      "faixa": "Difícil"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2022/questions/138/d738a15a-a083-4720-af91-80d2b3259c9f.png"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 138,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 139,
+    "enunciado": "Em uma competição de velocidade, diz-se que há uma\nultrapassagem quando um veículo que está atrás de outro\npassa à sua frente, com ambos se deslocando no mesmo\nsentido. Considere uma competição automobilística entre\ncinco carros em uma pista com 100 m de comprimento,\nonde todos largam no mesmo instante e da mesma linha.\nO gráfico mostra a variação da distância percorrida por cada\nveículo, em função do tempo, durante toda a competição.\n100\n0            0        Tempo (s)                    15\nQual o número de ultrapassagens, após o início da\ncompetição, efetuadas pelo veículo que chegou em\núltimo lugar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0"
+      },
+      {
+        "letra": "B",
+        "texto": "1"
+      },
+      {
+        "letra": "C",
+        "texto": "2"
+      },
+      {
+        "letra": "D",
+        "texto": "3"
+      },
+      {
+        "letra": "E",
+        "texto": "4"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.77699,
+      "escala": 678,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 139,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 140,
+    "enunciado": "Em uma loja, o preço promocional de uma geladeira\né de R$ 1 000,00 para pagamento somente em dinheiro.\nSeu preço normal, fora da promoção, é 10% maior. Para\npagamento feito com o cartão de crédito da loja, é dado\num desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando\npelo pagamento com o cartão de crédito da loja. Ela\ncalculou que o valor a ser pago seria o preço promocional\nacrescido de 8%. Ao ser informada pela loja do valor a\npagar, segundo sua opção, percebeu uma diferença entre\nseu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor\ncalculado pela cliente, foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 2,00 menor."
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 100,00 menor."
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 200,00 menor."
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 42,00 maior."
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 80,00 maior."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.58603,
+      "escala": 659,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 140,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 141,
+    "enunciado": "Uma pessoa precisa se deslocar de automóvel do\nponto P para o ponto Q, indicados na figura, na qual as\nlinhas verticais e horizontais simbolizam ruas.\nQ\nP\nPor causa do sentido de tráfego nessas ruas, o\ncaminho poligonal destacado é a possibilidade mais\ncurta de efetuar esse deslocamento. Para descrevê-lo,\ndeve-se especificar qual o sentido a ser tomado em cada\ncruzamento de ruas, em relação à direção de deslocamento\ndo automóvel, que se movimentará continuamente.\nPara isso, empregam-se as letras E, F e D para indicar\n“vire à esquerda”, “siga em frente” e “vire à direita”,\nrespectivamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sequência de letras que descreve o caminho poligonal destacado é"
+      },
+      {
+        "letra": "B",
+        "texto": "DFEFDDDEFFD."
+      },
+      {
+        "letra": "C",
+        "texto": "DFEFDDEEFFD."
+      },
+      {
+        "letra": "D",
+        "texto": "EFDFEEDDFFE."
+      },
+      {
+        "letra": "E",
+        "texto": "EFDFEEEDFFE."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.94716,
+      "escala": 595,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2022/questions/141/e8e788ea-4e28-4ceb-b928-494d2ca68033.png",
+      "https://enem.dev/2022/questions/141/1e77b1bf-38e6-4145-b78b-91be4088bc11.png"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 141,
+      "pagina": 18,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 142,
+    "enunciado": "Uma loja comercializa cinco modelos de\ncaixas-d’água (I, II, III, IV e V), todos em formato\nde cilindro reto de base circular. Os modelos II, III, IV e V\ntêm as especificações de suas dimensões dadas em\nrelação às dimensões do modelo I, cuja profundidade é P\ne área da base é Ab, como segue:\n• modelo II: o dobro da profundidade e a metade da\nárea da base do modelo I;\n• modelo III: o dobro da profundidade e a metade do\nraio da base do modelo I;\n• modelo IV: a metade da profundidade e o dobro da\nárea da base do modelo I;\n• modelo V: a metade da profundidade e o dobro do\nraio da base do modelo I.\n18                                  MT - 2° dia | Caderno 5\n(milhar de R$) Valor de mercado do imóvel Valor mensal do aluguel (R$)\nUma pessoa pretende comprar nessa loja o modelo\nde caixa-d’água que ofereça a maior capacidade\nvolumétrica.\nO modelo escolhido deve ser o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.88956,
+      "escala": 689,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 142,
+      "pagina": 18,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 143,
+    "enunciado": "No período de 2005 a 2013, o valor de venda dos\nimóveis em uma cidade apresentou alta, o que resultou\nno aumento dos aluguéis. Os gráficos apresentam a\nevolução desses valores, para um mesmo imóvel, no\nmercado imobiliário dessa cidade.\n3 240\n1 800\n1 350\n630   960\n2005 2007 2009 2011 2013\nAno\n540\n450\n270\n90 120\n2005 2007 2009 2011 2013\nAno\nA rentabilidade do aluguel de um imóvel é calculada\npela razão entre o valor mensal de aluguel e o valor de\nmercado desse imóvel.\nCom base nos dados fornecidos, em que ano a\nrentabilidade do aluguel foi maior?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2005"
+      },
+      {
+        "letra": "B",
+        "texto": "2007"
+      },
+      {
+        "letra": "C",
+        "texto": "2009"
+      },
+      {
+        "letra": "D",
+        "texto": "2011"
+      },
+      {
+        "letra": "E",
+        "texto": "2013"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.32978,
+      "escala": 633,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [
+      "https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg",
+      "https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 143,
+      "pagina": 18,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 144,
+    "enunciado": "Ao escutar a notícia de que um filme recém-lançado\narrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão\nem bilheteria, um estudante escreveu corretamente o\nnúmero que representa essa quantia, com todos os seus\nalgarismos.\nO número escrito pelo estudante foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "135 000,00."
+      },
+      {
+        "letra": "B",
+        "texto": "1 350 000,00."
+      },
+      {
+        "letra": "C",
+        "texto": "13 500 000,00."
+      },
+      {
+        "letra": "D",
+        "texto": "135 000 000,00."
+      },
+      {
+        "letra": "E",
+        "texto": "1 350 000 000,00."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.02398,
+      "escala": 498,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2022/questions/144/2c8c344f-3729-4f6b-bbb9-24097d77f58a.jpg",
+      "https://enem.dev/2022/questions/144/6af5740b-feed-4fd4-bde9-486ad2f96240.jpg",
+      "https://enem.dev/2022/questions/144/4af33750-a0d5-4acc-abe1-c004f5d8451e.jpg",
+      "https://enem.dev/2022/questions/144/ea762333-b644-495d-bd01-3c0bf752599a.jpg",
+      "https://enem.dev/2022/questions/144/f4712f57-56ec-4a65-9e2e-f7c34f4b775f.jpg",
+      "https://enem.dev/2022/questions/144/f88bc2d5-7b64-49cf-bd9d-28ddde048358.jpg",
+      "https://enem.dev/2022/questions/144/981157e8-d269-4be5-8aba-f496109d3f31.jpg",
+      "https://enem.dev/2022/questions/144/89772d85-6273-49c5-95e4-569b4014ca22.jpg",
+      "https://enem.dev/2022/questions/144/164c2b6f-8be5-4ca3-88f7-12fe5a5e872c.jpg",
+      "https://enem.dev/2022/questions/144/ad29c509-a515-4ae6-9d86-451780d68e14.jpg"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 144,
+      "pagina": 19,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 145,
+    "enunciado": "O governo de um estado pretende realizar uma\nobra de infraestrutura para auxiliar na integração e\nno processo de escoamento da produção agrícola\nde duas cidades. O projeto consiste na interligação\ndireta das cidades A e B com a Rodovia 003, pela\nconstrução das Rodovias 001 e 002. As duas rodovias\nserão construídas em linha reta e deverão se conectar\nà Rodovia 003 em um mesmo ponto, conforme\nesboço apresentado na figura, na qual estão também\nindicadas as posições das cidades A e B, considerando\no eixo x posicionado sobre a Rodovia 003, e cinco\nlocalizações sugeridas para o ponto de conexão entre\nas três rodovias.\ny (km)40    Cidade A                      Rodovia 001Rodovia 002\n30\n20                                     Cidade B\n10\nRodovia 003 I     II III IV       V\n0 5 10 15 20 25 30 35 40 45 50 55 x (km)\nPretende-se que a distância percorrida entre as duas\ncidades, pelas Rodovias 001 e 002, passando pelo ponto\nde conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações\nsugeridas deve ser a escolhida para o ponto de conexão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "III"
+      },
+      {
+        "letra": "D",
+        "texto": "IV"
+      },
+      {
+        "letra": "E",
+        "texto": "V"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 6.27505,
+      "escala": 1128,
+      "faixa": "Difícil"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 145,
+      "pagina": 19,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 146,
+    "enunciado": "Uma pessoa precisa contratar um operário para\nfazer um serviço em sua casa. Para isso, ela postou um\nanúncio em uma rede social.\nCinco pessoas responderam informando preços por\nhora trabalhada, gasto diário com transporte e tempo\nnecessário para conclusão do serviço, conforme valores\napresentados no quadro.\nPreço por Preço do Tempo até\nOperário           hora   transporte conclusão\n(real)    (real)     (hora)\nI              120       0,00          8\nII             180       0,00          6\nIII            170       20,00         6\nIV             110       10,00         9\nV              110       0,00         10\nSe a pessoa pretende gastar o mínimo possível com essa\ncontratação, irá contratar o operário",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.64802,
+      "escala": 565,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 146,
+      "pagina": 19,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 147,
+    "enunciado": "Uma cozinheira produz docinhos especiais por\nencomenda. Usando uma receita-base de massa, ela\nprepara uma porção, com a qual produz 50 docinhos\nmaciços de formato esférico, com 2 cm de diâmetro.\nUm cliente encomenda 150 desses docinhos, mas pede\nque cada um tenha formato esférico com 4 cm de diâmetro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?"
+      },
+      {
+        "letra": "B",
+        "texto": "3"
+      },
+      {
+        "letra": "C",
+        "texto": "6"
+      },
+      {
+        "letra": "D",
+        "texto": "12"
+      },
+      {
+        "letra": "E",
+        "texto": "24"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.56697,
+      "escala": 757,
+      "faixa": "Difícil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 147,
+      "pagina": 19,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 148,
+    "enunciado": "Uma empresa produz e vende um tipo de chocolate,\nmaciço, em formato de cone circular reto com as medidas\ndo diâmetro da base e da altura iguais a 8 cm e 10 cm,\nrespectivamente, como apresenta a figura.\n8 cm\n10 cm\nDevido a um aumento de preço dos ingredientes\nutilizados na produção desse chocolate, a empresa\ndecide produzir esse mesmo tipo de chocolate com um\nvolume 19% menor, no mesmo formato de cone circular\nreto com altura de 10 cm.\nPara isso, a empresa produzirá esses novos chocolates\ncom medida do raio da base, em centímetro, igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,52."
+      },
+      {
+        "letra": "B",
+        "texto": "3,24."
+      },
+      {
+        "letra": "C",
+        "texto": "3,60."
+      },
+      {
+        "letra": "D",
+        "texto": "6,48."
+      },
+      {
+        "letra": "E",
+        "texto": "7,20."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.44795,
+      "escala": 745,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 148,
+      "pagina": 20,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 149,
+    "enunciado": "Em janeiro de 2013, foram declaradas 1 794 272\nadmissões e 1 765 372 desligamentos no Brasil, ou seja,\nforam criadas 28 900 vagas de emprego, segundo dados\ndo Cadastro Geral de Empregados e Desempregados\n(Caged), divulgados pelo Ministério do Trabalho e\nEmprego (MTE). Segundo o Caged, o número de vagas\ncriadas em janeiro de 2013 sofreu uma queda de 75%,\nquando comparado com o mesmo período de 2012.\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nDe acordo com as informações dadas, o número de\nvagas criadas em janeiro de 2012 foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16 514."
+      },
+      {
+        "letra": "B",
+        "texto": "86 700."
+      },
+      {
+        "letra": "C",
+        "texto": "115 600."
+      },
+      {
+        "letra": "D",
+        "texto": "441 343."
+      },
+      {
+        "letra": "E",
+        "texto": "448 568."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.56693,
+      "escala": 657,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 149,
+      "pagina": 20,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 150,
+    "enunciado": "Um prédio, com 9 andares e 8 apartamentos de\n2 quartos por andar, está com todos os seus apartamentos\nà venda. Os apartamentos são identificados por números\nformados por dois algarismos, sendo que a dezena indica\no andar onde se encontra o apartamento, e a unidade,\num algarismo de 1 a 8, que diferencia os apartamentos\nde um mesmo andar. Quanto à incidência de sol\nnos quartos desses apartamentos, constatam-se as\nseguintes características, em função de seus números de\nidentificação:\n• naqueles que finalizam em 1 ou 2, ambos os quartos\nrecebem sol apenas na parte da manhã;\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um\ndos quartos recebe sol na parte da manhã;\n• naqueles que finalizam em 7 ou 8, ambos os quartos\nrecebem sol apenas na parte da tarde.\nUma pessoa pretende comprar 2 desses\napartamentos em um mesmo andar, mas quer que, em\nambos, pelo menos um dos quartos receba sol na parte\nda manhã.\nDe quantas maneiras diferentes essa pessoa poderá\nescolher 2 desses apartamentos para compra nas\ncondições desejadas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9u 6! \u000b6 \u0010 2\f!"
+      },
+      {
+        "letra": "B",
+        "texto": "9u 6! \u000b6 \u0010 2\f!u2!"
+      },
+      {
+        "letra": "C",
+        "texto": "9u 4! \u000b4 \u0010 2\f!u2!"
+      },
+      {
+        "letra": "D",
+        "texto": "9u 2! \u000b2 \u0010 2\f!u2!"
+      },
+      {
+        "letra": "E",
+        "texto": "§ 8! · 9u¨¨ \u00101¸ © \u000b8 \u0010 2\f!u2! ¸¹"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.16924,
+      "escala": 717,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 150,
+      "pagina": 20,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 151,
+    "enunciado": "Uma máquina em operação tem sua temperatura\nT monitorada por meio de um registro gráfico, ao longo do\ntempo t. Essa máquina possui um pistão cuja velocidade\nV varia com a temperatura T da máquina, de acordo\ncom a expressão V = T 2 − 4. Após a máquina funcionar\ndurante o intervalo de tempo de 10 horas, o seu operador\nanalisa o registro gráfico, apresentado na figura, para\navaliar a necessidade de eventuais ajustes, sabendo que\na máquina apresenta falhas de funcionamento quando a\nvelocidade do pistão se anula.\nT (ºC)\n4\n2\n0                                            10 t (h)\n−2\nQuantas vezes a velocidade do pistão se anulou durante\nas 10 horas de funcionamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1"
+      },
+      {
+        "letra": "B",
+        "texto": "2"
+      },
+      {
+        "letra": "C",
+        "texto": "3"
+      },
+      {
+        "letra": "D",
+        "texto": "4"
+      },
+      {
+        "letra": "E",
+        "texto": "5"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.40899,
+      "escala": 741,
+      "faixa": "Difícil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 151,
+      "pagina": 21,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 152,
+    "enunciado": "A World Series é a decisão do campeonato\nnorte-americano de beisebol. Os dois times que chegam\na essa fase jogam, entre si, até sete partidas. O primeiro\ndesses times que completar quatro vitórias é declarado\ncampeão.\nConsidere que, em todas as partidas, a probabilidade\nde qualquer um dos dois times vencer é sempre 1 . 2 Qual é a probabilidade de o time campeão ser aquele que\nvenceu a primeira partida da World Series?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "35 64"
+      },
+      {
+        "letra": "B",
+        "texto": "40 64"
+      },
+      {
+        "letra": "C",
+        "texto": "42 64"
+      },
+      {
+        "letra": "D",
+        "texto": "44 64"
+      },
+      {
+        "letra": "E",
+        "texto": "52 64"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 4.65334,
+      "escala": 965,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 152,
+      "pagina": 21,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 153,
+    "enunciado": "O gráfico apresenta os totais de receitas e despesas\nde uma empresa, expressos em milhão de reais, no\ndecorrer dos meses de um determinado ano. A empresa\nobtém lucro quando a diferença entre receita e despesa é\npositiva e tem prejuízo quando essa diferença é negativa.\n9\n8\n7\n6\n5\n4\n3\n2\n1\n0 Jan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez.\nReceitas        Despesas\nQual é a mediana, em milhão de reais, dos valores dos\nlucros apurados pela empresa nesse ano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,5"
+      },
+      {
+        "letra": "B",
+        "texto": "2,0"
+      },
+      {
+        "letra": "C",
+        "texto": "2,9"
+      },
+      {
+        "letra": "D",
+        "texto": "3,0"
+      },
+      {
+        "letra": "E",
+        "texto": "5,5"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.27556,
+      "escala": 728,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 153,
+      "pagina": 21,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 154,
+    "enunciado": "O pacote básico de um jogo para smartphone, que\né vendido a R$ 50,00, contém 2 000 gemas e 100 000\nmoedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar\num pacote especial que será vendido a R$ 100,00 e que\nse diferenciará do pacote básico por apresentar maiores\nquantidades de gemas e moedas de ouro. Para estimular\nas vendas desse novo pacote, a empresa decidiu inserir\nnele 6 000 gemas a mais, em relação ao que o cliente\nteria caso optasse por comprar, com a mesma quantia,\ndois pacotes básicos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é"
+      },
+      {
+        "letra": "B",
+        "texto": "100 000."
+      },
+      {
+        "letra": "C",
+        "texto": "200 000."
+      },
+      {
+        "letra": "D",
+        "texto": "300 000."
+      },
+      {
+        "letra": "E",
+        "texto": "400 000."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.58401,
+      "escala": 758,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 154,
+      "pagina": 22,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 155,
+    "enunciado": "Um parque tem dois circuitos de tamanhos\ndiferentes para corridas. Um corredor treina nesse\nparque e, no primeiro dia, inicia seu treino percorrendo\n3 voltas em torno do circuito maior e 2 voltas em torno\ndo menor, perfazendo um total de 1 800 m. Em seguida,\ndando continuidade a seu treino, corre mais 2 voltas\nem torno do circuito maior e 1 volta em torno do menor,\npercorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos\ncircuitos do parque, fazendo um número inteiro de voltas\nem torno deles e de modo que o número de voltas seja o\nmaior possível.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "soma do número de voltas em torno dos dois circuitos, no segundo dia, será"
+      },
+      {
+        "letra": "B",
+        "texto": "13."
+      },
+      {
+        "letra": "C",
+        "texto": "14."
+      },
+      {
+        "letra": "D",
+        "texto": "15."
+      },
+      {
+        "letra": "E",
+        "texto": "16."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.41531,
+      "escala": 742,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 155,
+      "pagina": 22,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 156,
+    "enunciado": "Uma equipe de marketing digital foi contratada para\naumentar as vendas de um produto ofertado em um site\nde comércio eletrônico. Para isso, elaborou um anúncio\nque, quando o cliente clica sobre ele, é direcionado\npara a página de vendas do produto. Esse anúncio foi\ndivulgado em duas redes sociais, A e B, e foram obtidos\nos seguintes resultados:\n• rede social A: o anúncio foi visualizado por\n3 000 pessoas; 10% delas clicaram sobre o anúncio\ne foram redirecionadas para o site; 3% das que\nclicaram sobre o anúncio compraram o produto.\nO investimento feito para a publicação do anúncio\nnessa rede foi de R$ 100,00;\n• rede social B: o anúncio foi visualizado por\n1 000 pessoas; 30% delas clicaram sobre o anúncio\ne foram redirecionadas para o site; 2% das que\nclicaram sobre o anúncio compraram o produto.\nO investimento feito para a publicação do anúncio\nnessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing\nconsidera que a quantidade de novas pessoas que verão\no anúncio é diretamente proporcional ao investimento\nrealizado, e que a quantidade de pessoas que comprarão\no produto também se manterá proporcional à quantidade\nde pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir\nmais R$ 300,00 em cada uma das duas redes sociais\npara a divulgação desse anúncio e obteve, de fato, o\naumento proporcional esperado na quantidade de clientes\nque compraram esse produto. Para classificar o aumento\nobtido na quantidade (Q) de compradores desse produto,\nem consequência dessa segunda divulgação, em relação\naos resultados observados na primeira divulgação, o\nresponsável pelo produto adotou o seguinte critério:\n• Q ≤ 60%: não satisfatório;\n• 60% < Q ≤ 100%: regular;\n• 100% < Q ≤ 150%: bom;\n• 150% < Q ≤ 190%: muito bom;\n• 190% < Q ≤ 200%: excelente.\nO aumento na quantidade de compradores, em\nconsequência dessa segunda divulgação, em relação\nao que foi registrado com a primeira divulgação, foi\nclassificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não satisfatório."
+      },
+      {
+        "letra": "B",
+        "texto": "regular."
+      },
+      {
+        "letra": "C",
+        "texto": "bom."
+      },
+      {
+        "letra": "D",
+        "texto": "muito bom."
+      },
+      {
+        "letra": "E",
+        "texto": "excelente."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 4.48651,
+      "escala": 949,
+      "faixa": "Difícil"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 156,
+      "pagina": 22,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 157,
+    "enunciado": "Uma montadora de automóveis divulgou que oferta a\nseus clientes mais de 1 000 configurações diferentes de\ncarro, variando o modelo, a motorização, os opcionais e\na cor do veículo. Atualmente, ela oferece 7 modelos de\ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação\naos opcionais, existem 3 escolhas possíveis: central\nmultimídia, rodas de liga leve e bancos de couro, podendo\no cliente optar por incluir um, dois, três ou nenhum dos\nopcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima\nde cores que a montadora deverá disponibilizar a seus\nclientes é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8."
+      },
+      {
+        "letra": "B",
+        "texto": "9."
+      },
+      {
+        "letra": "C",
+        "texto": "11."
+      },
+      {
+        "letra": "D",
+        "texto": "18."
+      },
+      {
+        "letra": "E",
+        "texto": "24."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.33565,
+      "escala": 834,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 157,
+      "pagina": 23,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 159,
+    "enunciado": "Cada número que identifica uma agência bancária tem\nquatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5.\nN1 N2 N3 N4 N5\nTodos esses dígitos são números naturais\npertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.\nPara a determinação de N5, primeiramente multiplica-se\nordenadamente os quatro primeiros dígitos do número\nda agência por 5, 4, 3 e 2, respectivamente, somam-se\nos resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4.\nPosteriormente, encontra-se o resto da divisão de\nSa por 11, denotando diferença 11 − R. por R esse resto. Dessa forma, N5 é\nConsidere o número de uma agência bancária cujos\nquatro primeiros dígitos são 0100.\nQual é o dígito verificador N5 dessa agência bancária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0"
+      },
+      {
+        "letra": "B",
+        "texto": "6"
+      },
+      {
+        "letra": "C",
+        "texto": "7"
+      },
+      {
+        "letra": "D",
+        "texto": "8"
+      },
+      {
+        "letra": "E",
+        "texto": "9"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.92189,
+      "escala": 692,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 159,
+      "pagina": 23,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 160,
+    "enunciado": "Um casal está reformando a cozinha de casa e\ndecidiu comprar um refrigerador novo. Observando a\nplanta da nova cozinha, desenhada na escala de 1 : 50,\nnotaram que o espaço destinado ao refrigerador tinha\n3,8 cm de altura e 1,6 cm de largura. Eles sabem que\nos fabricantes de refrigeradores indicam que, para um\nbom funcionamento e fácil manejo na limpeza, esses\neletrodomésticos devem ser colocados em espaços que\npermitam uma distância de, pelo menos, 10 cm de outros\nmóveis ou paredes, tanto na parte superior quanto nas\nlaterais. O casal comprou um refrigerador que caberia\nno local a ele destinado na nova cozinha, seguindo as\ninstruções do fabricante.\nEsse refrigerador tem altura e largura máximas, em\nmetro, respectivamente, iguais a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,80 e 0,60."
+      },
+      {
+        "letra": "B",
+        "texto": "1,80 e 0,70."
+      },
+      {
+        "letra": "C",
+        "texto": "1,90 e 0,80."
+      },
+      {
+        "letra": "D",
+        "texto": "2,00 e 0,90."
+      },
+      {
+        "letra": "E",
+        "texto": "2,00 e 1,00."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.86025,
+      "escala": 786,
+      "faixa": "Difícil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 160,
+      "pagina": 24,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 161,
+    "enunciado": "Foram convidadas 32 equipes para um torneio de\nfutebol, que foram divididas em 8 grupos com 4 equipes,\nsendo que, dentro de um grupo, cada equipe disputa uma\núnica partida contra cada uma das demais equipes de\nseu grupo. A primeira e a segunda colocadas de cada\ngrupo seguem para realizar as 8 partidas da próxima\nfase do torneio, chamada oitavas de final. Os vencedores\ndas partidas das oitavas de final seguem para jogar\nas 4 partidas das quartas de final. Os vencedores das\nquartas de final disputam as 2 partidas das semifinais, e\nos vencedores avançam para a grande final, que define a\ncampeã do torneio.\nPelas regras do torneio, cada equipe deve ter um\nperíodo de descanso de, no mínimo, 3 dias entre dois\njogos por ela disputados, ou seja, se um time disputar\numa partida, por exemplo, num domingo, só poderá\ndisputar a partida seguinte a partir da quinta-feira da\nmesma semana.\nO número mínimo de dias necessários para a realização\ndesse torneio é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22."
+      },
+      {
+        "letra": "B",
+        "texto": "25."
+      },
+      {
+        "letra": "C",
+        "texto": "28."
+      },
+      {
+        "letra": "D",
+        "texto": "48."
+      },
+      {
+        "letra": "E",
+        "texto": "64."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.30111,
+      "escala": 830,
+      "faixa": "Difícil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 161,
+      "pagina": 24,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 164,
+    "enunciado": "A esperança de vida ao nascer é o número médio\nde anos que um indivíduo tende a viver a partir de seu\nnascimento, considerando dados da população. No Brasil,\nesse número vem aumentando consideravelmente, como\nmostra o gráfico.\nEsperança de vida ao nascer\n75\n74,23\n74                                         73,95\n73,67\n73,4\n73                73,09\n72,78\n72 2008 2009 2010 2011 2012 2013\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\nPode-se observar que a esperança de vida ao nascer\nem 2012 foi exatamente a média das registradas nos\nanos de 2011 e 2013. Suponha que esse fato também\nocorreu com a esperança de vida ao nascer em 2013, em\nrelação às esperanças de vida de 2012 e de 2014.\nCaso a suposição feita tenha sido confirmada, a\nesperança de vida ao nascer no Brasil no ano de 2014\nterá sido, em ano, igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "74,23."
+      },
+      {
+        "letra": "B",
+        "texto": "74,51."
+      },
+      {
+        "letra": "C",
+        "texto": "75,07."
+      },
+      {
+        "letra": "D",
+        "texto": "75,23."
+      },
+      {
+        "letra": "E",
+        "texto": "78,49."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.46698,
+      "escala": 547,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 164,
+      "pagina": 26,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 166,
+    "enunciado": "Nos cinco jogos finais da última temporada, com\numa média de 18 pontos por jogo, um jogador foi eleito o\nmelhor do campeonato de basquete. Na atual temporada,\ncinco jogadores têm a chance de igualar ou melhorar\nessa média. No quadro estão registradas as pontuações\ndesses cinco jogadores nos quatro primeiros jogos das\nfinais deste ano.\nJogadores Jogo 1 Jogo 2 Jogo 3 Jogo 4\nI           12       25           20      20\nII          12       12           27      20\nIII          14       14           17      26\nIV           15       18           21      21\nV            22       15           23      15\nO quinto e último jogo será realizado para decidir a\nequipe campeã e qual o melhor jogador da temporada.\nO jogador que precisa fazer a menor quantidade de\npontos no quinto jogo, para igualar a média de pontos do\nmelhor jogador da temporada passada, é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.87454,
+      "escala": 587,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 166,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 167,
+    "enunciado": "Um casal planeja construir em sua chácara uma\npiscina com o formato de um paralelepípedo reto\nretângulo com capacidade para 90 000 L de água.\nO casal contratou uma empresa de construções que\napresentou cinco projetos com diferentes combinações\nnas dimensões internas de profundidade, largura\ne comprimento. A piscina a ser construída terá\nrevestimento interno em suas paredes e fundo com uma\nmesma cerâmica, e o casal irá escolher o projeto que\nexija a menor área de revestimento.\nAs dimensões internas de profundidade, largura\ne comprimento, respectivamente, para cada um dos\nprojetos, são:\n• projeto I: 1,8 m, 2,0 m e 25,0 m;\n• projeto II: 2,0 m, 5,0 m e 9,0 m;\n• projeto III: 1,0 m, 6,0 m e 15,0 m;\n• projeto IV: 1,5 m, 15,0 m e 4,0 m;\n• projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.58862,
+      "escala": 759,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 167,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 168,
+    "enunciado": "Uma instituição de ensino superior ofereceu vagas\nem um processo seletivo de acesso a seus cursos.\nFinalizadas as inscrições, foi divulgada a relação do\nnúmero de candidatos por vaga em cada um dos cursos\noferecidos. Esses dados são apresentados no quadro.\nNúmero         Número\nCurso             de vagas de candidatos\noferecidas      por vaga\nAdministração              30               6\nCiências Contábeis         40               6\nEngenharia Elétrica        50               7\nHistória                   30               8\nLetras                     25               4\nPedagogia                  25               5\nQual foi o número total de candidatos inscritos nesse\nprocesso seletivo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "200"
+      },
+      {
+        "letra": "B",
+        "texto": "400"
+      },
+      {
+        "letra": "C",
+        "texto": "1 200"
+      },
+      {
+        "letra": "D",
+        "texto": "1 235"
+      },
+      {
+        "letra": "E",
+        "texto": "7 200"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.63977,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 168,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 169,
+    "enunciado": "Peças metálicas de aeronaves abandonadas em\naeroportos serão recicladas. Uma dessas peças é\nmaciça e tem o formato cilíndrico, com a medida do raio\nda base igual a 4 cm e a da altura igual a 50 cm. Ela será\nderretida, e o volume de metal resultante será utilizado\npara a fabricação de esferas maciças com diâmetro de\n1 cm, a serem usadas para confeccionar rolamentos.\nPara estimar a quantidade de esferas que poderão ser\nproduzidas a partir de cada uma das peças cilíndricas,\nadmite-se que não ocorre perda de material durante o\nprocesso de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de\ncada peça cilíndrica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "800"
+      },
+      {
+        "letra": "B",
+        "texto": "1 200"
+      },
+      {
+        "letra": "C",
+        "texto": "2 400"
+      },
+      {
+        "letra": "D",
+        "texto": "4 800"
+      },
+      {
+        "letra": "E",
+        "texto": "6 400"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.57768,
+      "escala": 758,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 169,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 170,
+    "enunciado": "Um médico faz o acompanhamento clínico de um gru\nEle observou que a perda média de massa dessas pessoa\nque a massa de 1 L de água é de 1 kg, ele recomendou\natividade, uma quantidade total de água correspondente\npara evitar desidratação.\nSeguindo a recomendação médica, uma dessas pe\nterminar seus exercícios físicos.\nPara que a recomendação médica tenha efetivamente sido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 minutos ou menos."
+      },
+      {
+        "letra": "B",
+        "texto": "mais de 35 e menos de 45 minutos."
+      },
+      {
+        "letra": "C",
+        "texto": "mais de 45 e menos de 55 minutos."
+      },
+      {
+        "letra": "D",
+        "texto": "mais de 60 e menos de 70 minutos."
+      },
+      {
+        "letra": "E",
+        "texto": "70 minutos ou mais."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.02109,
+      "escala": 702,
+      "faixa": "Difícil"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 170,
+      "pagina": 28,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 171,
+    "enunciado": "Em uma sala de cinema, para garantir que os especta\ndas poltronas deve obedecer à norma técnica da Assoc\nseguintes indicações:\n• Distância mínima (Dmín) menos, 60% da largura entre (L) da a tela tela. de projeção e\n• Distância máxima largura (L) da tela,(Dmáx) entre a tela de sendo aceitável uma projeção distância ed\nPara o espaçamento entre as fileiras de poltronas, é\npoltronas em duas fileiras consecutivas.\nUma sala de cinema, cuja largura da tela mede 12 m,\ntem suas dimensões especificadas na figura.\nÁrea de instalação\nde novas poltronas\nD = aceitável 2,9L\nDmáx = 2L\nDmín= 0,6L       Tela\nL\nPretende-se ampliar essa sala, mantendo-se na m\nampliando-se ao máximo a sala para os fundos (área d\naceitável da norma da ABNT. A intenção é aumentar, ao\nnovas unidades, iguais às já instaladas.\nQuantas fileiras de poltronas a sala comportará após ess",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "26"
+      },
+      {
+        "letra": "B",
+        "texto": "27"
+      },
+      {
+        "letra": "C",
+        "texto": "28"
+      },
+      {
+        "letra": "D",
+        "texto": "29"
+      },
+      {
+        "letra": "E",
+        "texto": "35"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 3.73781,
+      "escala": 874,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 171,
+      "pagina": 28,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 172,
+    "enunciado": "A luminosidade L de uma estrela está relacionada com\no raio R e com a temperatura T dessa estrela segundo a\nLei de Stefan-Boltzmann: L = c ⋅ R 2 ⋅ T 4, em que c é uma\nconstante igual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrela E\ntem metade do raio da estrela F e o dobro da temperatura\nde F.\nIndique por LE e LF suas respectivas luminosidades.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relação entre as luminosidades dessas duas estrelas é dada por"
+      },
+      {
+        "letra": "B",
+        "texto": "LE = LF 4"
+      },
+      {
+        "letra": "C",
+        "texto": "LE = LF"
+      },
+      {
+        "letra": "D",
+        "texto": "LE = 4LF"
+      },
+      {
+        "letra": "E",
+        "texto": "LE = 8LF"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.2515,
+      "escala": 725,
+      "faixa": "Difícil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 172,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 173,
+    "enunciado": "Uma das informações que pode auxiliar no\ndimensionamento do número de pediatras que devem\natender em uma Unidade Básica de Saúde (UBS) é\no número que representa a mediana da quantidade\nde crianças por família existente na região sob sua\nresponsabilidade. O quadro mostra a distribuição das\nfrequências do número de crianças por família na região\nde responsabilidade de uma UBS.\nNúmero de criançaspor família     Frequência\n0                           100\n1                           400\n2                           200\n3                           150\n4                           100\n5                            50\nO número que representa a mediana da quantidade de\ncrianças por família nessa região é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,0."
+      },
+      {
+        "letra": "B",
+        "texto": "1,5."
+      },
+      {
+        "letra": "C",
+        "texto": "1,9."
+      },
+      {
+        "letra": "D",
+        "texto": "2,1."
+      },
+      {
+        "letra": "E",
+        "texto": "2,5."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.2135,
+      "escala": 721,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 173,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 174,
+    "enunciado": "Em jogos de voleibol, um saque é invalidado se a bola\natingir o teto do ginásio onde ocorre o jogo. Um jogador de\numa equipe tem um saque que atinge uma grande altura.\nSeu recorde foi quando a batida do saque se iniciou a\numa altura de 1,5 m do piso da quadra, e a trajetória da\nbola foi descrita pela parábola y \u0010 x2 6 \u0010 7x3 \u000e12 , em\nque y representa a altura da bola em relação ao eixo\nx (das abscissas) que está localizado a 1,5 m do piso\nda quadra, como representado na figura. Suponha que\nem todas as partidas algum saque desse jogador atinja a\nmesma altura do seu recorde.\ny\n1,5 m           1,5 m 1,5 m                x\nA equipe desse jogador participou de um torneio de\nvoleibol no qual jogou cinco partidas, cada uma delas\nem um ginásio diferente. As alturas dos tetos desses\nginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.\nO saque desse atleta foi invalidado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas no ginásio I."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas nos ginásios I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "apenas nos ginásios I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "apenas nos ginásios I, II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "em todos os ginásios."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 3.22198,
+      "escala": 822,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 174,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 176,
+    "enunciado": "Ao analisar os dados de uma epidemia em uma cidad\npessoas infectadas a cada mês, ao longo de um ano. O m\nnatural, variando de 1 a 12, que representa os meses do\nano. Para tentar diminuir o número de infectados no próxim\na propaganda oficial sobre os cuidados com a epidemi\ncom diferentes períodos de intensificação das propagand\n• I: 1 ≤ t ≤ 2;\n• II: 3 ≤ t ≤ 4;\n• III: 5 ≤ t ≤ 6;\n• IV: 7 ≤ t ≤ 9;\n• V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a propos\nmês em que, segundo o modelo, há a maior quantidade d",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "proposta escolhida foi a"
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.3731,
+      "escala": 737,
+      "faixa": "Difícil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 176,
+      "pagina": 30,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 177,
+    "enunciado": "Um atleta iniciou seu treinamento visando as competiç\ndiferentes de treinos: treino T1, treino T2, treino T3, treino T4 e tre\nA letra R significa repouso. Após completar a sequência\npartir do treino T1 e segue a ordem descrita. Após 24 semana",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sequência de treinamentos que o atleta realizará na 24"
+      },
+      {
+        "letra": "B",
+        "texto": "R T3 R T4 R R T5."
+      },
+      {
+        "letra": "C",
+        "texto": "R T4 R R T5 R T1."
+      },
+      {
+        "letra": "D",
+        "texto": "R R T5 R T1 R R."
+      },
+      {
+        "letra": "E",
+        "texto": "R T5 R T1 R R T2."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.5423,
+      "escala": 754,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 177,
+      "pagina": 30,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 180,
+    "enunciado": "Uma loja de roupas fixou uma meta de vendas de\n77 000 reais para um determinado mês de 30 dias.\nO gráfico mostra o volume de vendas dessa loja, em real,\nnos dez primeiros dias do mês e entre o dia dez e o dia\nvinte desse mês, nos seus dois únicos setores (infantil e\nadulto). Suponha que a variação no volume de vendas,\npara o período registrado, tenha se dado de forma linear,\ncomo mostrado no gráfico, e que essa tendência se\nmantenha a mesma para os próximos dez dias.\n18 000\nAdulto\n15 000\n8 000\n7 000\nInfantil\n10                                                      20                               30\nDias\nAo final do trigésimo dia, quanto faltará no volume de vendas,\nem real, para que a meta fixada para o mês seja alcançada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5 000"
+      },
+      {
+        "letra": "B",
+        "texto": "7 000"
+      },
+      {
+        "letra": "C",
+        "texto": "11 000"
+      },
+      {
+        "letra": "D",
+        "texto": "18 000"
+      },
+      {
+        "letra": "E",
+        "texto": "29 000"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.38103,
+      "escala": 638,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 180,
+      "pagina": 31,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+    }
+  }
+]

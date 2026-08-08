@@ -1,0 +1,1922 @@
+[
+  {
+    "numero": 136,
+    "enunciado": "Uma empresa produz mochilas escolares sob\nencomenda. Essa empresa tem um custo total de produção,\ncomposto por um custo fixo, que não depende do número\nde mochilas, mais um custo variável, que é proporcional\nao número de mochilas produzidas. O custo total cresce\nde forma linear, e a tabela apresenta esse custo para três\nquantidades de mochilas produzidas.\nQuantidade demochilas30         50      100\nCusto total (R$) 1 050,00 1 650,00 3 150,00\nO custo total, em real, para a produção de 80 mochilas será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 400,00."
+      },
+      {
+        "letra": "B",
+        "texto": "2 520,00."
+      },
+      {
+        "letra": "C",
+        "texto": "2 550,00."
+      },
+      {
+        "letra": "D",
+        "texto": "2 700,00."
+      },
+      {
+        "letra": "E",
+        "texto": "2 800,00."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.73917,
+      "escala": 674,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 136,
+      "pagina": 16,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 137,
+    "enunciado": "A umidade relativa do ar é um dos indicadores utilizados\nna meteorologia para fazer previsões sobre o clima.\nO quadro apresenta as médias mensais, em porcentagem,\nda umidade relativa do ar em um período de seis meses\nconsecutivos em uma cidade.\nMeses      Maio Jun. Jul. Ago. Set. Out.\nMédia mensal da\numidade relativa 66 64 54 46 60 64\ndo ar (%)\nNessa cidade, a mediana desses dados, em porcentagem,\nda umidade relativa do ar no período considerado foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "56."
+      },
+      {
+        "letra": "B",
+        "texto": "58."
+      },
+      {
+        "letra": "C",
+        "texto": "59."
+      },
+      {
+        "letra": "D",
+        "texto": "60."
+      },
+      {
+        "letra": "E",
+        "texto": "62."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.73478,
+      "escala": 573,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 137,
+      "pagina": 16,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 138,
+    "enunciado": "Uma empresa de engenharia foi contratada para\nrealizar um serviço no valor de R$ 71 250,00. Os sócios da\nempresa decidiram que 40% desse valor seria destinado ao\npagamento de três engenheiros que gerenciaram o serviço.\nO pagamento para cada um deles será feito de forma\ndiretamente proporcional ao total de horas trabalhadas.\nO número de dias e o número de horas diárias\ntrabalhadas pelos engenheiros foram, respectivamente:\n• engenheiro I: 4 dias, numa jornada de 5 horas e\nmeia por dia;\n• engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n• engenheiro III: 6 dias, numa jornada de 2 horas e\nmeia por dia.\nQual a maior diferença, em real, entre os valores recebidos\npor esse serviço entre dois desses engenheiros?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 000"
+      },
+      {
+        "letra": "B",
+        "texto": "1 500"
+      },
+      {
+        "letra": "C",
+        "texto": "3 500"
+      },
+      {
+        "letra": "D",
+        "texto": "3 800"
+      },
+      {
+        "letra": "E",
+        "texto": "5 250"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.06903,
+      "escala": 707,
+      "faixa": "Difícil"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 138,
+      "pagina": 16,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 139,
+    "enunciado": "Um hospital tem 7 médicos cardiologistas e 6 médicos\nneurologistas em seu quadro de funcionários. Para\nexecutar determinada atividade, a direção desse hospital\nformará uma equipe com 5 médicos, sendo, pelo menos,\n3 cardiologistas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é"
+      },
+      {
+        "letra": "B",
+        "texto": "7! 3! × 4! × 6! 2! × 4!"
+      },
+      {
+        "letra": "C",
+        "texto": "7! 3! u 4! \u000e 6! 2! u 4! \u000e 1! 5!u 4!"
+      },
+      {
+        "letra": "D",
+        "texto": "§¨© 7! 3! u 4! \u000e 6! 2! u 4! ·¸¹ u §¨© 7! 4! u 3! \u000e 1! 6!u 5! ·¸¹ u §¨© 7! 5! u 2! \u000e 6! 0! u 6! ·¸¹"
+      },
+      {
+        "letra": "E",
+        "texto": "§¨© 7! 3! u 4! u 6! 2! u 4! ·¸¹ \u000e §¨© 7! 4! u 3! u 1! 6!u 5! ·¸¹ \u000e §¨© 7! 5! u 2! u 6! 0! u 6! ·¸¹"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.42519,
+      "escala": 743,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 139,
+      "pagina": 16,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 140,
+    "enunciado": "Para melhorar o fluxo de ônibus em uma avenida que\ntem dois semáforos, a prefeitura reduzirá o tempo em\nque cada sinal ficará vermelho, que atualmente é de 15\nsegundos a cada 60 segundos. Admita que o instante de\nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a\nprobabilidade de um ônibus encontrar cada um deles\nvermelho, obtendo 15 60 . A partir daí, estabeleceu uma\nmesma redução na quantidade do tempo, em segundo,\nem que cada sinal ficará vermelho, de maneira que\na probabilidade de um ônibus encontrar ambos os\nsinais vermelhos numa mesma viagem seja considerando os eventos independentes. igual a 4 100 ,\nPara isso, a redução do tempo em que o sinal ficará\nvermelho, em segundo, estabelecida pelo engenheiro foi de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,35."
+      },
+      {
+        "letra": "B",
+        "texto": "3,00."
+      },
+      {
+        "letra": "C",
+        "texto": "9,00."
+      },
+      {
+        "letra": "D",
+        "texto": "12,60."
+      },
+      {
+        "letra": "E",
+        "texto": "13,80."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.86851,
+      "escala": 787,
+      "faixa": "Difícil"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 140,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 141,
+    "enunciado": "A densidade demográfica de uma região é definida\ncomo sendo a razão entre o número de habitantes dessa\nregião e sua área, expressa na unidade habitantes por\nquilômetro quadrado.\nUma região R é subdividida em várias outras, sendo\numa delas a região Q. A área de Q é igual a três quartos da\nárea de R, e o número de habitantes de Q é igual à metade\ndo número de habitantes de R. As densidades demográficas\ncorrespondentes a essas regiões são denotadas por d(Q)\ne d(R).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "expressão que relaciona d(Q) e d(R) é"
+      },
+      {
+        "letra": "B",
+        "texto": "d \u000bQ\f 12 d \u000bR"
+      },
+      {
+        "letra": "C",
+        "texto": "d \u000bQ\f 34 d \u000bR"
+      },
+      {
+        "letra": "D",
+        "texto": "d \u000bQ\f 32 d \u000bR"
+      },
+      {
+        "letra": "E",
+        "texto": "d \u000bQ\f 23 d \u000bR"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.73585,
+      "escala": 674,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 141,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 142,
+    "enunciado": "Atualmente, há telefones celulares com telas de\ndiversos tamanhos e em formatos retangulares. Alguns\ndeles apresentam telas medindo 3 1 polegadas, com\n2\ndeterminadas especificações técnicas. Além disso, em\nmuitos modelos, com a inclusão de novas funções no\ncelular, suas telas ficaram maiores, sendo muito comum\nencontrarmos atualmente telas medindo conforme a figura. 4 56 polegadas,\nDisponível em: www.tecmundo.com.br.\nAcesso em: 5 nov. 2014 (adaptado).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é"
+      },
+      {
+        "letra": "B",
+        "texto": "0,5."
+      },
+      {
+        "letra": "C",
+        "texto": "1,0."
+      },
+      {
+        "letra": "D",
+        "texto": "1,3."
+      },
+      {
+        "letra": "E",
+        "texto": "1,8."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.01873,
+      "escala": 702,
+      "faixa": "Difícil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 142,
+      "pagina": 17,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 143,
+    "enunciado": "Uma imobiliária iniciou uma campanha de divulgação\npara promover a venda de apartamentos que podem ser\npagos em 100 parcelas mensais. O valor da primeira delas\né fixado no momento da compra, com o pagamento dessa\nprimeira parcela. A partir da segunda parcela, o valor é\ndeterminado pela aplicação de um acréscimo percentual\nfixo ao valor da parcela anterior. Como atrativo, a imobiliária\nfará o pagamento de todas as parcelas correspondentes\nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio,\ndecidiu comprar um desses apartamentos por meio do\nfinanciamento oferecido pela imobiliária, e pretende escolher\no mês mais adequado para realizar essa compra, de modo\nque o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para\nrealizar a compra do apartamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fevereiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Abril."
+      },
+      {
+        "letra": "C",
+        "texto": "Maio."
+      },
+      {
+        "letra": "D",
+        "texto": "Junho."
+      },
+      {
+        "letra": "E",
+        "texto": "Agosto."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.60757,
+      "escala": 761,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 143,
+      "pagina": 18,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 144,
+    "enunciado": "Um sistema de polias circulares e correias é um dos\nmecanismos responsáveis pela transmissão de movimento\nem máquinas rotativas. O manual de um motor traz uma\nfigura representando um sistema composto por duas polias\ne uma correia de transmissão, tensionada e perfeitamente\najustada sobre as polias, de modo a não apresentar folgas\nnos contatos com as polias. Considere que as partes\ndessa correia que não ficam em contato com as polias são\nrepresentadas por segmentos de reta tangentes às polias.\nPara substituição dessa correia, é necessária a\nespecificação de seu comprimento.\nConsidere 3 como valor aproximado para π.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "medida do comprimento dessa correia, em centímetro, é"
+      },
+      {
+        "letra": "B",
+        "texto": "60."
+      },
+      {
+        "letra": "C",
+        "texto": "66."
+      },
+      {
+        "letra": "D",
+        "texto": "68."
+      },
+      {
+        "letra": "E",
+        "texto": "72. ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.29841,
+      "escala": 730,
+      "faixa": "Difícil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 144,
+      "pagina": 18,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 145,
+    "enunciado": "A prefeitura de uma cidade planeja construir três postos\nde saúde. Esses postos devem ser construídos em locais\nequidistantes entre si e de forma que as distâncias desses\ntrês postos ao hospital dessa cidade sejam iguais. Foram\nconseguidos três locais para a construção dos postos de\nsaúde que apresentam as características desejadas, e\nque distam 10 km entre si, conforme o esquema, no qual o\nponto H representa o local onde está construído o hospital;\nos pontos P1, pontos estão P2 e P3, os postos de saúde; em um mesmo plano. e esses quatro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre"
+      },
+      {
+        "letra": "B",
+        "texto": "4 e 5."
+      },
+      {
+        "letra": "C",
+        "texto": "5 e 6."
+      },
+      {
+        "letra": "D",
+        "texto": "7 e 8."
+      },
+      {
+        "letra": "E",
+        "texto": "8 e 9."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.12389,
+      "escala": 712,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 145,
+      "pagina": 18,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 147,
+    "enunciado": "Um jardineiro dispõe de k metros lineares de cerca b\npor essa cerca, deve ter a forma de um triângulo equilát\npela forma que resulte na maior área.\nO jardineiro escolherá a forma de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hexágono regular, pois a área do jardim, em metro qua"
+      },
+      {
+        "letra": "B",
+        "texto": "hexágono regular, pois a área do jardim, em metro qua"
+      },
+      {
+        "letra": "C",
+        "texto": "quadrado, pois a área do jardim, em metro quadrado, s"
+      },
+      {
+        "letra": "D",
+        "texto": "triângulo equilátero, pois a área do jardim, em metro q"
+      },
+      {
+        "letra": "E",
+        "texto": "triângulo equilátero, pois a área do jardim, em metro q"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.872,
+      "escala": 787,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 147,
+      "pagina": 20,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 148,
+    "enunciado": "Um aeroporto disponibiliza o serviço de transporte grat\npartem simultaneamente, de hora em hora, de terminais\ne o percurso total dos ônibus, de um terminal ao outro, é\ndiferentes partes do trecho, conforme o esquema.\nO alcance de cada uma das cinco câmeras é:\n• câmera I: 15 do percurso;\n• câmera II: 310 do percurso;\n• câmera III: 110 do percurso;\n• câmera IV: 110 do percurso;\n• câmera V: 310 do percurso.\nEm determinado horário, o ônibus A parte do termina\n250 m/min; enquanto o ônibus B, que parte do terminal 2, re\nQual câmera registra o momento em que os ônibus A e B",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "III"
+      },
+      {
+        "letra": "D",
+        "texto": "IV"
+      },
+      {
+        "letra": "E",
+        "texto": "V"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.73496,
+      "escala": 673,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 148,
+      "pagina": 20,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 149,
+    "enunciado": "A criptografia refere-se à construção e análise de proto\nJúlio César, imperador romano, utilizava um código para\nse a mensagem caísse em mãos inimigas, a informação n\nalfabeto era substituída pela letra três posições à frente,\npelo “F”, e assim sucessivamente.\nABCDE FGH I J K LMNOPQR\nABCDE FGH I J K LMNO\nQualquer código que tenha um padrão de substituição\nou um Código de César. Note que, para decifrar uma Cifra\npois isso define todas as demais substituições a serem fe\nUma mensagem, em um alfabeto de 26 letras, foi codifi\nde se descobrir, aleatoriamente, o padrão utilizado nessa co\nnas tentativas seguintes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "probabilidade de se descobrir o padrão dessa Cifra de C"
+      },
+      {
+        "letra": "B",
+        "texto": "24 25 + 23 24 + 123"
+      },
+      {
+        "letra": "C",
+        "texto": "125 × 124 × 123"
+      },
+      {
+        "letra": "D",
+        "texto": "24 25 × 23 25 × 125"
+      },
+      {
+        "letra": "E",
+        "texto": "24 25 × 23 24 × 123"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.72688,
+      "escala": 773,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 149,
+      "pagina": 21,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 150,
+    "enunciado": "Em uma região com grande incidência de terremotos\nmagnitudes M1 e os estudiosos do M2, medidos segundo assunto, é conhecida a escala Richter, e uma expressão al\nM2 \u0010 M1\nEstudos mais abrangentes observaram que o primei\nliberada foi um décimo da observada no segundo terremo\nO valor aproximado da magnitude M2 do segundo terremo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5,4."
+      },
+      {
+        "letra": "B",
+        "texto": "6,2."
+      },
+      {
+        "letra": "C",
+        "texto": "7,6."
+      },
+      {
+        "letra": "D",
+        "texto": "8,2."
+      },
+      {
+        "letra": "E",
+        "texto": "8,4. ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.29438,
+      "escala": 729,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 150,
+      "pagina": 21,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 151,
+    "enunciado": "Uma indústria faz uma parceria com uma distribuidora\nde sucos para lançar no mercado dois tipos de\nembalagens. Para a fabricação dessas embalagens,\na indústria dispõe de folhas de alumínio retangulares,\nde dimensões 10 cm por 20 cm. Cada uma dessas\nfolhas é utilizada para formar a superfície lateral da\nembalagem, em formato de cilindro circular reto, que\nposteriormente recebe fundo e tampa circulares. A figura\nilustra, dependendo de qual das duas extensões será\nutilizada como altura, as duas opções para formar a\npossível embalagem.\nDentre essas duas embalagens, a de maior capacidade\napresentará volume, em centímetro cúbico, igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 000 π"
+      },
+      {
+        "letra": "B",
+        "texto": "2 000 π"
+      },
+      {
+        "letra": "C",
+        "texto": "4 000 π"
+      },
+      {
+        "letra": "D",
+        "texto": "1000 π"
+      },
+      {
+        "letra": "E",
+        "texto": "500 π"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.93864,
+      "escala": 694,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 151,
+      "pagina": 22,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 152,
+    "enunciado": "As receitas anuais obtidas por uma indústria no período\nde 2014 a 2021, em milhão de reais, foram registradas, por\npontos, em um gráfico. Nele, também está representada a\nreta que descreve a tendência de evolução das receitas.\nEssa reta pode ser utilizada para estimar as receitas dos\nanos seguintes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estimativa da receita, em milhão de reais, dessa indústria, para o ano de 2026, obtida a partir dessa reta de tendência, é"
+      },
+      {
+        "letra": "B",
+        "texto": "8."
+      },
+      {
+        "letra": "C",
+        "texto": "9."
+      },
+      {
+        "letra": "D",
+        "texto": "10."
+      },
+      {
+        "letra": "E",
+        "texto": "11."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.45126,
+      "escala": 645,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 152,
+      "pagina": 22,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 154,
+    "enunciado": "Contratos de vários serviços disponíveis na internet\napresentam uma quantidade excessiva de informações.\nIsso faz com que o tempo necessário para a leitura desses\ncontratos possa ser longo.\nO quadro apresenta uma amostra do tempo considerado\nnecessário para a leitura completa do contrato de alguns\nserviços digitais.\nTipo de        Tempo necessário para a leitura\nserviço completa do contrato (em minuto)\nA                         36\nB                         17\nC                         27\nD                         13\nE                         13\nF                         13\nROMERO, L. Não li e concordo. Superinteressante,\nn. 307, ago. 2012 (adaptado).\nO tempo médio, em minuto, necessário para a leitura\ncompleta de um contrato de serviço dentre os listados\nno quadro é, com uma casa decimal, aproximadamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "13,0."
+      },
+      {
+        "letra": "B",
+        "texto": "15,0."
+      },
+      {
+        "letra": "C",
+        "texto": "19,8."
+      },
+      {
+        "letra": "D",
+        "texto": "20,0."
+      },
+      {
+        "letra": "E",
+        "texto": "23,3."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.6447,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 154,
+      "pagina": 24,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 155,
+    "enunciado": "Um proprietário pretende instalar um sensor de\npresença para a proteção de seu imóvel. O sensor\ndeverá detectar movimentos de objetos e pessoas numa\ndeterminada região plana. A figura ilustra a vista superior\nda área de cobertura (setor circular em azul) de um sensor\ncolocado no ponto S. Essa área depende da medida do\nângulo α, em grau, e do raio R, em metro.\nAo aumentar o ângulo α ou o raio R aumenta-se a\nárea de cobertura do sensor. Entretanto, quanto maior\nessa área, maior o preço do sensor.\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM\n24                                    MATEMÁTICA E SUA\n2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nPara esse fim, há cinco tipos de sensores disponíveis\nno mercado, cada um com as seguintes características:\n• tipo I: α = 15° e R = 20 m;\n• tipo II: α = 30° e R = 22 m;\n• tipo III: α = 40° e R = 12 m;\n• tipo IV: α = 60° e R = 16 m;\n• tipo V: α = 90° e R = 10 m.\nEsse proprietário pretende adquirir um desses sensores\nque seja capaz de cobrir, no mínimo, uma área de medida\n70 m2, com o menor preço possível.\nUse 3 como valor aproximado para π.\nO proprietário do imóvel deverá adquirir o sensor do tipo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.23749,
+      "escala": 724,
+      "faixa": "Difícil"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 155,
+      "pagina": 24,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 156,
+    "enunciado": "O uso de aplicativos de transporte tem sido uma\nalternativa à população que busca preços mais competitivos\npara se locomover, principalmente nas grandes cidades.\nAs formas usadas para determinar o valor cobrado por\ncada viagem variam de um aplicativo para outro, mas, em\ngeral, o valor V a ser pago, em real, varia em função de:\n• tarifa base F: valor fixo, em real, cobrado no início\nda viagem;\n• tempo T: tempo, em minuto, de duração da viagem;\n• distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo,\nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40\npor quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a\nser pago por uma viagem desse aplicativo é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,00F + 0,26T + 1,40D"
+      },
+      {
+        "letra": "B",
+        "texto": "2,00 + 0,26T + 1,40D"
+      },
+      {
+        "letra": "C",
+        "texto": "2,00 + 0,26T + D"
+      },
+      {
+        "letra": "D",
+        "texto": "0,26T + 1,40D"
+      },
+      {
+        "letra": "E",
+        "texto": "F + T + D"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.91232,
+      "escala": 591,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 156,
+      "pagina": 24,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 157,
+    "enunciado": "Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter\numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado\npara ter uma vazão, também constante, capaz de enchê-la\nem um tempo 20% maior que o gasto para encher\na primeira piscina.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é"
+      },
+      {
+        "letra": "B",
+        "texto": "7 920."
+      },
+      {
+        "letra": "C",
+        "texto": "6 545."
+      },
+      {
+        "letra": "D",
+        "texto": "5 500."
+      },
+      {
+        "letra": "E",
+        "texto": "5 280."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.84456,
+      "escala": 684,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 157,
+      "pagina": 25,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 158,
+    "enunciado": "Uma tubulação despeja sempre o mesmo volume de\nágua por unidade de tempo em uma caixa-d’água, o que\nsignifica dizer que a vazão de água nessa tubulação é\nconstante. Na junção dessa tubulação com a caixa-d’água,\nestá instalada uma membrana de filtragem cujo objetivo é\nfiltrar eventuais impurezas presentes na água, combinado\na um bom fluxo de água. O fluxo (φ) de água através\nda superfície da membrana é diretamente proporcional\nà vazão de água na tubulação, medida em mililitro por\nsegundo, e inversamente proporcional à área da superfície\nda membrana, medida em centímetro quadrado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "unidade de medida adequada para descrever o fluxo (φ) de água que atravessa a superfície da membrana é"
+      },
+      {
+        "letra": "B",
+        "texto": "mLs ⋅ cm2"
+      },
+      {
+        "letra": "C",
+        "texto": "mL cm2 ⋅ s"
+      },
+      {
+        "letra": "D",
+        "texto": "cm2 ⋅ s mL"
+      },
+      {
+        "letra": "E",
+        "texto": "cm2 mL ⋅ s"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.78408,
+      "escala": 678,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 158,
+      "pagina": 25,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 159,
+    "enunciado": "Em uma loja de defensivos agrícolas, os preços de\nalguns produtos foram divulgados em um cartaz.\nSabe-se que 1 litro de defensivo do Tipo A é suficiente\npara aplicação em 0,5 hectare (ha), enquanto que 1 litro de\ndefensivo do Tipo B é suficiente para aplicação em 0,4 ha.\nUm agricultor precisa comprar, nessa loja, uma quantidade\nde litros de defensivo suficiente para aplicar em uma área\nde 20 ha, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "147,00."
+      },
+      {
+        "letra": "B",
+        "texto": "150,00."
+      },
+      {
+        "letra": "C",
+        "texto": "162,50."
+      },
+      {
+        "letra": "D",
+        "texto": "165,75."
+      },
+      {
+        "letra": "E",
+        "texto": "168,00."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.43583,
+      "escala": 644,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 159,
+      "pagina": 25,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 160,
+    "enunciado": "Uma doceira vende e entrega, em seu bairro, porções\nde 100 g de docinhos de aniversário. Atualmente, a taxa\núnica de entrega é R$ 10,00, e o valor cobrado por uma\nporção é R$ 25,00. Por uma estratégia de vendas, a partir\nda próxima semana, a taxa única de entrega será R$ 15,00,\ne um novo valor será cobrado por uma porção, de maneira\nque o valor total a ser pago por um cliente na compra de\n5 porções permaneça o mesmo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção?"
+      },
+      {
+        "letra": "B",
+        "texto": "20,00"
+      },
+      {
+        "letra": "C",
+        "texto": "24,00"
+      },
+      {
+        "letra": "D",
+        "texto": "30,00"
+      },
+      {
+        "letra": "E",
+        "texto": "37,50"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.11704,
+      "escala": 612,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 160,
+      "pagina": 25,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 161,
+    "enunciado": "Uma empresa tem 400 funcionários, distribuídos em\ntrês setores: administrativo, logística e produção. O gráfico\napresenta a distribuição quantitativa desses funcionários,\npor setor e por faixa etária.\nUma viagem de férias será sorteada entre esses\nfuncionários, de forma que todos terão igual probabilidade\nde serem sorteados.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maior probabilidade é que o funcionário sorteado esteja na faixa etária"
+      },
+      {
+        "letra": "B",
+        "texto": "entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor."
+      },
+      {
+        "letra": "C",
+        "texto": "até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor."
+      },
+      {
+        "letra": "D",
+        "texto": "até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa."
+      },
+      {
+        "letra": "E",
+        "texto": "a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.47104,
+      "escala": 647,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 161,
+      "pagina": 26,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 163,
+    "enunciado": "O tamanho mínimo que a visão humana é capaz de\nvisualizar sem o uso de equipamento auxiliar é equivalente\na 100 micrômetros (1 micrômetro = 10-3 milímetros).\nUma estudante pretende visualizar e analisar hemácias\ndo sangue humano, que medem 0,007 mm de diâmetro.\nEla adquiriu um microscópio óptico que tem uma lente\nocular que amplia em 10 vezes a imagem do objeto em\nobservação, e um conjunto de lentes objetivas com estas\ncapacidades de ampliação:\n• lente I: 2 vezes;\n• lente II: 10 vezes;\n• lente III: 15 vezes;\n• lente IV: 1,1 vez;\n• lente V: 1,4 vez.\nO funcionamento desse microscópio permite o uso da\nlente ocular sozinha ou a combinação dela com uma\nde suas lentes objetivas, proporcionando, nesse caso,\num aumento de sua capacidade de ampliação final, que é\ndada pelo produto entre as capacidades de ampliação da\nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de\nmenor capacidade de ampliação que permita, na combinação\ncom a ocular, visualizar hemácias do sangue humano.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lente objetiva a ser selecionada pela estudante é a"
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.55251,
+      "escala": 755,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 163,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 164,
+    "enunciado": "Ao calcular a média de suas notas em 4 provas, um\nestudante dividiu, por engano, a soma das notas por 5.\nCom isso, a média obtida foi 1 unidade menor do que\ndeveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4."
+      },
+      {
+        "letra": "B",
+        "texto": "5."
+      },
+      {
+        "letra": "C",
+        "texto": "6."
+      },
+      {
+        "letra": "D",
+        "texto": "19."
+      },
+      {
+        "letra": "E",
+        "texto": "21."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.62276,
+      "escala": 662,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 164,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 165,
+    "enunciado": "Para abrir a porta de uma empresa, cada funcionário\ndeve cadastrar uma senha utilizando um teclado\nalfanumérico como o representado na figura.\nPor exemplo: a tecla que contém o número 2 traz as\nletras correlacionadas A, B e C. Cada toque nessa tecla\nmostra, sequencialmente, os seguintes caracteres: 2, A, B\ne C. Para os próximos toques, essa sequência se repete.\nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários\ndevem conter 5 caracteres, sendo 2 algarismos distintos\nseguidos de 3 letras diferentes, nessa ordem. Um funcionário\nirá cadastrar a sua primeira senha, podendo escolher entre\nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as\nrespectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse\nfuncionário tem para cadastrar sua senha é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "11 520."
+      },
+      {
+        "letra": "B",
+        "texto": "14 400."
+      },
+      {
+        "letra": "C",
+        "texto": "18 000."
+      },
+      {
+        "letra": "D",
+        "texto": "312 000."
+      },
+      {
+        "letra": "E",
+        "texto": "390 000."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.04988,
+      "escala": 705,
+      "faixa": "Difícil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 165,
+      "pagina": 27,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 166,
+    "enunciado": "Um artesão utiliza dois tipos de componentes, X e\nY, nos enfeites que produz. Ele sempre compra todos os\ncomponentes em uma mesma loja. O quadro apresenta\nos preços dos dois tipos de componentes nas lojas I e II.\nLojas        Preços dos componentes (R$)XY\nI            3,00                    1,00\nII           2,00                    4,00\nEle confeccionará enfeites formados por duas unidades\ndo componente X e uma unidade do componente Y e\nefetuará a compra na loja que oferecer o menor valor total\npara a confecção de um enfeite.\nO artesão efetuará a compra na loja",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, pois o valor é R$ 7,00."
+      },
+      {
+        "letra": "B",
+        "texto": "I, pois o valor é R$ 4,00."
+      },
+      {
+        "letra": "C",
+        "texto": "II, pois o valor é R$ 6,00."
+      },
+      {
+        "letra": "D",
+        "texto": "I, pois anuncia o componente com o menor preço."
+      },
+      {
+        "letra": "E",
+        "texto": "II, pois o componente X, que é o mais utilizado, tem menor preço."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.50185,
+      "escala": 550,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 166,
+      "pagina": 28,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 167,
+    "enunciado": "João e Felipe participaram, na escola, de uma maratona\nde matemática na qual, durante uma semana, resolveram\n200 questões cada. Nessa maratona, a porcentagem P de\nacertos de cada participante é convertida em um conceito:\n• insatisfatório: se 0 ≤ P < 50;\n• regular: se 50 ≤ P < 60;\n• bom: se 60 ≤ P < 75;\n• muito bom: se 75 ≤ P < 90;\n• excelente: se 90 ≤ P ≤ 100.\nJoão acertou 75% das questões da maratona e Felipe\nacertou 30% a menos que a quantidade de questões que\nJoão acertou.\nOs conceitos de João e Felipe foram, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "muito bom e bom."
+      },
+      {
+        "letra": "B",
+        "texto": "muito bom e regular."
+      },
+      {
+        "letra": "C",
+        "texto": "muito bom e insatisfatório."
+      },
+      {
+        "letra": "D",
+        "texto": "bom e regular."
+      },
+      {
+        "letra": "E",
+        "texto": "bom e insatisfatório."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.60614,
+      "escala": 661,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 167,
+      "pagina": 28,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 168,
+    "enunciado": "Três grandezas (I, II e III) se relacionam entre si.\nOs gráficos a seguir, formados por segmentos de reta,\ndescrevem as relações de dependência existentes entre\nas grandezas I e II, e entre as grandezas II e III.\nO valor máximo assumido pela grandeza III, quando a\ngrandeza I varia de 1 a 3, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,0."
+      },
+      {
+        "letra": "B",
+        "texto": "2,5."
+      },
+      {
+        "letra": "C",
+        "texto": "3,0."
+      },
+      {
+        "letra": "D",
+        "texto": "3,5."
+      },
+      {
+        "letra": "E",
+        "texto": "4,0."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.01893,
+      "escala": 702,
+      "faixa": "Difícil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 168,
+      "pagina": 28,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 169,
+    "enunciado": "Uma criança, utilizando um aplicativo, escreveu uma\nmensagem para enviar a um amigo. Essa mensagem foi\nescrita seguindo estas etapas:\nEtapas                                      Visor de escrita\n1ª etapa: do tipo inseriu três figuras no visor de\nescrita da mensagem;\n2ª etapa: copiou o que havia\ninserido anteriormente e\ncolou (inseriu o que havia\ncopiado) ao lado;\n3ª etapa: copiou o que tinha\nno visor na 2ª etapa e colou\nao lado.\nA criança seguiu copiando e colando, em cada etapa,\no que tinha no visor na etapa imediatamente anterior, até\nconcluir a 20ª etapa. Em seguida, enviou a mensagem.\nQual foi o total de figuras contidas na mensagem enviada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 × 219"
+      },
+      {
+        "letra": "B",
+        "texto": "3 × 220"
+      },
+      {
+        "letra": "C",
+        "texto": "3 × 221"
+      },
+      {
+        "letra": "D",
+        "texto": "3 × 220 − 1"
+      },
+      {
+        "letra": "E",
+        "texto": "3 × 220 − 3"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.61749,
+      "escala": 662,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 169,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 170,
+    "enunciado": "Uma casa de shows terá um evento cujo custo total\nde produção é de R$ 34 350,00, sendo que comporta\n500 pessoas. O preço do ingresso será de R$ 130,00 e,\nnormalmente, 60% das pessoas adquirem meia-entrada,\npagando R$ 65,00 pelo ingresso. Além do faturamento\nproveniente da venda de ingressos, a casa de shows\nvende, com 60% de lucro, bebidas e petiscos ao público\nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se\nque a quantidade de meias-entradas vendidas superou\nem 50% o que estava previsto, impactando o faturamento\nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual\nde 60% de lucro sobre as bebidas e petiscos, pois todo\no público que comprou ingresso compareceu ao\nshow. Com isso, espera-se ter lucro de R$ 17 000,00\nnesse evento.\nPara que se alcance o lucro esperado, o gasto médio por\npessoa com bebidas e petiscos, em real, deverá ser de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "19,50."
+      },
+      {
+        "letra": "B",
+        "texto": "28,80."
+      },
+      {
+        "letra": "C",
+        "texto": "34,00."
+      },
+      {
+        "letra": "D",
+        "texto": "52,00."
+      },
+      {
+        "letra": "E",
+        "texto": "68,70."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.91962,
+      "escala": 792,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 170,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 171,
+    "enunciado": "Para obter um sólido de revolução (rotação de 360°\nem torno de um eixo fixo), uma professora realizou as\nseguintes etapas:\n• recortou o trapézio retângulo PQRS de um\nmaterial rígido;\n• afixou o lado PS do trapézio em uma vareta fixa\nretilínea (eixo de rotação);\n• girou o trapézio 360° em torno da vareta e obteve\num sólido de revolução.\nObserve a figura que apresenta o trapézio afixado na\nvareta e o sentido de giro.\nO sólido obtido foi um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cone."
+      },
+      {
+        "letra": "B",
+        "texto": "cilindro."
+      },
+      {
+        "letra": "C",
+        "texto": "pirâmide."
+      },
+      {
+        "letra": "D",
+        "texto": "tronco de cone."
+      },
+      {
+        "letra": "E",
+        "texto": "tronco de pirâmide."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.36529,
+      "escala": 637,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 171,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 172,
+    "enunciado": "O estádio do Maracanã passou por algumas\nmodificações estruturais para a realização da Copa do\nMundo de 2014, como, por exemplo, as dimensões do\ncampo retangular. Para se adaptar aos padrões da Fifa,\nas dimensões do campo foram reduzidas de 110 m × 75 m\npara 105 m × 68 m.\nDisponível em: http://virgula.uol.com.br.\nAcesso em: 14 ago. 2013 (adaptado).\nEm quantos metros quadrados a área do campo do\nMaracanã foi reduzida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24"
+      },
+      {
+        "letra": "B",
+        "texto": "35"
+      },
+      {
+        "letra": "C",
+        "texto": "555"
+      },
+      {
+        "letra": "D",
+        "texto": "1 110"
+      },
+      {
+        "letra": "E",
+        "texto": "1 145"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.13019,
+      "escala": 613,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 172,
+      "pagina": 29,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 173,
+    "enunciado": "Uma sala com piso no formato retangular, com lados\nde medidas 3 m e 6 m, será dividida em dois ambientes.\nPara isso, serão utilizadas colunas em formato cilíndrico,\ndispostas perpendicularmente ao piso e representadas na\nfigura pelos círculos de cor azul. Os centros desses círculos\nestarão sobre uma reta paralela aos lados de menor medida\ndo piso da sala. Os vãos entre duas colunas e entre uma\ncoluna e a parede não poderão ser superiores a 15 cm.\nPara efetuar a compra dessas colunas, foram feitos\norçamentos com base em dados fornecidos por cinco lojas.\nLoja           Raio (cm)       Preço porunidade (R$)\nI             5                   60\nII            10                  70\nIII            12                  75\nIV             15                  90\nV             20                 120\nA compra será realizada na loja cujo orçamento resulte\nno menor valor total possível.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "compra será realizada na loja"
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 3.36222,
+      "escala": 836,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 173,
+      "pagina": 30,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 174,
+    "enunciado": "O arquiteto Renzo Piano exibiu a maquete da nova\nsede do Museu Whitney de Arte Americana, um prédio\nassimétrico que tem um vão aberto para a galeria principal,\ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\nÉpoca, n. 682, jun. 2011 (adaptado).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "medida da área do vão aberto nessa maquete, em centímetro quadrado, é"
+      },
+      {
+        "letra": "B",
+        "texto": "8,36."
+      },
+      {
+        "letra": "C",
+        "texto": "41,80."
+      },
+      {
+        "letra": "D",
+        "texto": "83,60."
+      },
+      {
+        "letra": "E",
+        "texto": "418,00. ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.50442,
+      "escala": 750,
+      "faixa": "Difícil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 174,
+      "pagina": 30,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 175,
+    "enunciado": "O gráfico apresenta o valor total de exportações e o\nvalor total de importações, ao longo de um período, em\nbilhão de dólares. O saldo da balança comercial brasileira\né dado pelo valor total de exportações menos o valor total\nde importações num mesmo período.\nValor total de exportações e importações\nDisponível em: http://blogs.estadao.com.br.\nAcesso em: 20 fev. 2013 (adaptado).\nConsidere que os saldos da balança comercial\nbrasileira, nos três meses destacados no gráfico, sejam\nrepresentados por:\n• S1: saldo em junho de 2009;\n• S2: saldo em janeiro de 2010;\n• S3: saldo em junho de 2010.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ordenação dos saldos S1, S2 e S3, do maior para o menor, é"
+      },
+      {
+        "letra": "B",
+        "texto": "S2, S1 e S3."
+      },
+      {
+        "letra": "C",
+        "texto": "S2, S3 e S1."
+      },
+      {
+        "letra": "D",
+        "texto": "S3, S1 e S2."
+      },
+      {
+        "letra": "E",
+        "texto": "S3, S2 e S1."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.04041,
+      "escala": 604,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 175,
+      "pagina": 30,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 176,
+    "enunciado": "Um instituto de pesquisa constatou que, nos últimos\ndez anos, o crescimento populacional de uma cidade foi\nde 135,25%.\nQual é a representação decimal da taxa percentual desse\ncrescimento populacional?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "13 525,0"
+      },
+      {
+        "letra": "B",
+        "texto": "135,25"
+      },
+      {
+        "letra": "C",
+        "texto": "13,525"
+      },
+      {
+        "letra": "D",
+        "texto": "1,3525"
+      },
+      {
+        "letra": "E",
+        "texto": "0,13525 2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.22835,
+      "escala": 623,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 176,
+      "pagina": 30,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 177,
+    "enunciado": "Um fazendeiro pretende construir um galinheiro\nocupando uma região plana de formato retangular, com\nlados de comprimentos L metro e C metro. Os lados serão\ncercados por telas de tipos diferentes. Nos lados de\ncomprimento L metro, será utilizada uma tela cujo metro\nlinear custa R$ 20,00, enquanto, nos outros dois lados,\numa que custa R$ 15,00. O fazendeiro quer gastar, no\nmáximo, R$ 6 000,00 na compra de toda a tela necessária\npara o galinheiro, e deseja que o galinheiro tenha a maior\nárea possível.\nQual será a medida, em metro, do maior lado do galinheiro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "85"
+      },
+      {
+        "letra": "B",
+        "texto": "100"
+      },
+      {
+        "letra": "C",
+        "texto": "175"
+      },
+      {
+        "letra": "D",
+        "texto": "200"
+      },
+      {
+        "letra": "E",
+        "texto": "350"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.09917,
+      "escala": 810,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 177,
+      "pagina": 31,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  },
+  {
+    "numero": 178,
+    "enunciado": "Uma professora de matemática utiliza em suas\naulas uma “máquina caça-números” para verificar os\nconhecimentos de seus estudantes sobre representações\nde números racionais. Essa máquina tem um visor dividido\nem seis compartimentos e, na lateral, uma alavanca. Cada\nestudante puxa a alavanca e espera que os compartimentos\nparem de girar. A partir daí, precisa responder para a\nprofessora em quais posições se encontram os números\nque representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os\ncompartimentos parassem de girar e observou os números\napresentados no visor. A configuração da máquina naquele\ninstante está apresentada na imagem.\nEsse estudante respondeu corretamente à pergunta\nda professora.\nAs posições indicadas pelo estudante foram",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II, IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "III, V e VI."
+      },
+      {
+        "letra": "E",
+        "texto": "III, IV e VI."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.01771,
+      "escala": 602,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2024,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 5,
+      "cor": "AMARELA",
+      "numero": 178,
+      "pagina": 31,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+    }
+  }
+]

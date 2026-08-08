@@ -44,9 +44,6 @@ const MATERIA_OFICIAL = { MT: "Matemática" }
 
 const BASE_PDF = "https://download.inep.gov.br/enem/provas_e_gabaritos"
 
-/** Tamanho do ZIP de microdados, necessário para ler o índice por faixa. */
-const TAMANHO_ZIP = { 2023: 549511687, 2024: 526073856 }
-
 async function imagensDaApi(ano, numero) {
   try {
     const resposta = await fetch(`https://api.enem.dev/v1/exams/${ano}/questions/${numero}`, {
@@ -77,7 +74,7 @@ export async function importar({ ano, dia, area, caderno }) {
     throw new Error(`Gabarito não cobre as questões ${semResposta.join(", ")}`)
   }
 
-  const itensMicrodados = lerItens(await obterItens(ano, TAMANHO_ZIP[ano]))
+  const itensMicrodados = lerItens(await obterItens(ano))
   const escolhida = identificarProva(itensMicrodados, respostas, { area, cor })
   if (!escolhida) {
     throw new Error(

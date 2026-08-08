@@ -76,15 +76,30 @@ export async function extrairDoZipRemoto(url, tamanhoTotal, padrao) {
   return inflateRawSync(bloco.subarray(inicio, inicio + alvo.comprimido))
 }
 
+/**
+ * Descobre o tamanho do ZIP, que é onde a leitura por faixa começa.
+ *
+ * Vem do servidor e não de uma tabela no código: cada ano tem um tamanho
+ * diferente, e uma constante desatualizada faria a busca pelo índice cair no
+ * lugar errado do arquivo — falha obscura, longe da causa.
+ */
+async function tamanhoRemoto(url) {
+  const { stdout } = await exec("curl", ["-sI", "--retry", "3", "--max-time", "120", "-A", UA, url])
+  const tamanho = stdout.match(/content-length:\s*(\d+)/i)?.[1]
+  if (!tamanho) throw new Error(`Servidor não informou o tamanho de ${url}`)
+  return Number(tamanho)
+}
+
 /** Baixa e guarda o CSV de itens de um ano. */
-export async function obterItens(ano, tamanhoZip) {
+export async function obterItens(ano) {
   const destino = join(CACHE, `ITENS_PROVA_${ano}.csv`)
   try {
     return await readFile(destino, "utf8")
   } catch {
+    const url = `https://download.inep.gov.br/microdados/microdados_enem_${ano}.zip`
     const csv = await extrairDoZipRemoto(
-      `https://download.inep.gov.br/microdados/microdados_enem_${ano}.zip`,
-      tamanhoZip,
+      url,
+      await tamanhoRemoto(url),
       new RegExp(`ITENS_PROVA_${ano}\\.csv$`),
     )
     await writeFile(destino, csv)
