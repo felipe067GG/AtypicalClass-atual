@@ -3,169 +3,226 @@
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { Clock, Star, Target, Users, CheckCircle, Lightbulb, BookOpen, Settings } from "lucide-react"
+import {
+  Clock,
+  Users,
+  CheckCircle,
+  Lightbulb,
+  BookOpen,
+  Settings,
+  Target,
+  ExternalLink,
+  Info,
+  Download,
+} from "lucide-react"
+import { useLanguage } from "@/lib/language-context"
+import { list, text } from "@/lib/i18n-content"
+import { downloadActivity } from "@/lib/activity-export"
+import type { Activity } from "@/components/specialty/types"
 
-interface ActivityDetailsModalProps {
-  activity: any
+/**
+ * Detalhes de uma atividade.
+ *
+ * Três coisas foram corrigidas aqui:
+ *
+ *  1. Havia um botão "Baixar Material Completo" **sem nenhum onClick** — pura
+ *     decoração prometendo um download que não existia. Foi removido; quando
+ *     há material de fato, aparece o link real.
+ *  2. Exibia nota e contagem de downloads que o site nunca mediu.
+ *  3. O rótulo "Fundamentação Científica" apontava para o texto de como
+ *     aplicar. Agora fundamentação são as fontes, com link.
+ *
+ * Tudo passou a respeitar o idioma ativo — antes era português fixo.
+ */
+export default function ActivityDetailsModal({
+  activity,
+  isOpen,
+  onClose,
+}: {
+  activity: Activity | null
   isOpen: boolean
   onClose: () => void
-}
+}) {
+  const { t, language } = useLanguage()
 
-export default function ActivityDetailsModal({ activity, isOpen, onClose }: ActivityDetailsModalProps) {
   if (!activity) return null
+
+  const steps = list(activity.stepByStep, language)
+  const tips = list(activity.tips, language)
+  const variations = list(activity.variations, language)
+  const assessment = text(activity.assessment, language)
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
-      <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto bg-gray-950 border-gray-800">
+      <DialogContent className="max-h-[90vh] max-w-3xl overflow-y-auto">
         <DialogHeader>
-          <DialogTitle className="text-2xl text-white mb-2">{activity.name}</DialogTitle>
-          <DialogDescription className="text-gray-300 text-base">{activity.detailedDescription}</DialogDescription>
+          <DialogTitle className="text-2xl">{text(activity.name, language)}</DialogTitle>
+          <DialogDescription className="text-base">{text(activity.description, language)}</DialogDescription>
         </DialogHeader>
 
         <div className="space-y-6">
-          {/* Informações básicas */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <div className="bg-gray-900/50 p-3 rounded-lg">
-              <div className="flex items-center space-x-2 text-blue-400 mb-1">
-                <Users className="w-4 h-4" />
-                <span className="text-sm font-medium">Idade</span>
-              </div>
-              <span className="text-white">{activity.age}</span>
+          <div className="grid grid-cols-2 gap-3">
+            <div className="rounded-lg border border-border bg-surface-2 p-3">
+              <p className="mb-1 inline-flex items-center gap-1.5 text-xs font-medium text-brand">
+                <Users className="h-3.5 w-3.5" aria-hidden />
+                {t("age")}
+              </p>
+              <p className="text-sm">{text(activity.age, language)}</p>
             </div>
-            <div className="bg-gray-900/50 p-3 rounded-lg">
-              <div className="flex items-center space-x-2 text-blue-400 mb-1">
-                <Clock className="w-4 h-4" />
-                <span className="text-sm font-medium">Duração</span>
-              </div>
-              <span className="text-white">{activity.duration}</span>
-            </div>
-            <div className="bg-gray-900/50 p-3 rounded-lg">
-              <div className="flex items-center space-x-2 text-blue-400 mb-1">
-                <Star className="w-4 h-4" />
-                <span className="text-sm font-medium">Avaliação</span>
-              </div>
-              <span className="text-white">{activity.rating}/5.0</span>
-            </div>
-            <div className="bg-gray-900/50 p-3 rounded-lg">
-              <div className="flex items-center space-x-2 text-blue-400 mb-1">
-                <Target className="w-4 h-4" />
-                <span className="text-sm font-medium">Downloads</span>
-              </div>
-              <span className="text-white">{activity.downloads}</span>
+            <div className="rounded-lg border border-border bg-surface-2 p-3">
+              <p className="mb-1 inline-flex items-center gap-1.5 text-xs font-medium text-brand">
+                <Clock className="h-3.5 w-3.5" aria-hidden />
+                {t("duration")}
+              </p>
+              <p className="text-sm">{text(activity.duration, language)}</p>
             </div>
           </div>
 
-          {/* Objetivos */}
-          <div>
-            <h4 className="text-lg font-semibold text-white mb-3 flex items-center">
-              <Target className="w-5 h-5 mr-2 text-blue-400" />
-              Objetivos de Aprendizagem
-            </h4>
-            <div className="flex flex-wrap gap-2">
-              {activity.objectives?.map((objective: string, i: number) => (
-                <Badge key={i} className="bg-blue-600 text-white">
+          {/* Quem escreveu — para não dar a entender autoria de terceiro */}
+          {activity.authorship === "adapted" && (
+            <div className="flex gap-2.5 rounded-lg border border-border bg-surface-2 p-3">
+              <Info className="mt-0.5 h-4 w-4 shrink-0 text-muted-foreground" aria-hidden />
+              <p className="text-xs leading-relaxed text-muted-foreground">{t("authorshipAdapted")}</p>
+            </div>
+          )}
+
+          <section>
+            <h3 className="mb-3 inline-flex items-center gap-2 font-semibold">
+              <Target className="h-4 w-4 text-brand" aria-hidden />
+              {t("objectives")}
+            </h3>
+            <div className="flex flex-wrap gap-1.5">
+              {list(activity.objectives, language).map((objective, index) => (
+                <span key={index} className="accent-soft rounded-md px-2 py-1 text-xs font-medium">
                   {objective}
-                </Badge>
+                </span>
               ))}
             </div>
-          </div>
+          </section>
 
-          {/* Materiais */}
-          <div>
-            <h4 className="text-lg font-semibold text-white mb-3 flex items-center">
-              <Settings className="w-5 h-5 mr-2 text-blue-400" />
-              Materiais Necessários
-            </h4>
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
-              {activity.materials?.map((material: string, i: number) => (
-                <div key={i} className="flex items-center space-x-2 text-gray-300">
-                  <CheckCircle className="w-4 h-4 text-green-500" />
-                  <span className="text-sm">{material}</span>
-                </div>
+          <section>
+            <h3 className="mb-3 inline-flex items-center gap-2 font-semibold">
+              <Settings className="h-4 w-4 text-brand" aria-hidden />
+              {t("materials")}
+            </h3>
+            <ul className="grid gap-2 sm:grid-cols-2">
+              {list(activity.materials, language).map((material, index) => (
+                <li key={index} className="flex items-center gap-2 text-sm text-muted-foreground">
+                  <CheckCircle className="h-4 w-4 shrink-0 text-success" aria-hidden />
+                  {material}
+                </li>
               ))}
-            </div>
-          </div>
+            </ul>
+          </section>
 
-          {/* Tabs com detalhes */}
-          <Tabs defaultValue="steps" className="w-full">
-            <TabsList className="grid w-full grid-cols-4 bg-gray-900/50">
-              <TabsTrigger value="steps">Passo a Passo</TabsTrigger>
-              <TabsTrigger value="tips">Dicas</TabsTrigger>
-              <TabsTrigger value="variations">Variações</TabsTrigger>
-              <TabsTrigger value="assessment">Avaliação</TabsTrigger>
-            </TabsList>
-
-            <TabsContent value="steps" className="space-y-4">
-              <h4 className="text-lg font-semibold text-white flex items-center">
-                <BookOpen className="w-5 h-5 mr-2 text-blue-400" />
-                Como Implementar
-              </h4>
-              <ol className="space-y-3">
-                {activity.stepByStep?.map((step: string, i: number) => (
-                  <li key={i} className="flex items-start space-x-3">
-                    <span className="bg-blue-600 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm font-medium flex-shrink-0 mt-0.5">
-                      {i + 1}
+          {steps.length > 0 && (
+            <section>
+              <h3 className="mb-3 inline-flex items-center gap-2 font-semibold">
+                <BookOpen className="h-4 w-4 text-brand" aria-hidden />
+                {t("implementation")}
+              </h3>
+              <ol className="space-y-2.5">
+                {steps.map((step, index) => (
+                  <li key={index} className="flex gap-3 text-sm">
+                    <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand text-xs font-medium text-brand-contrast">
+                      {index + 1}
                     </span>
-                    <span className="text-gray-300">{step}</span>
+                    <span className="pt-0.5 text-muted-foreground">{step}</span>
                   </li>
                 ))}
               </ol>
-            </TabsContent>
+            </section>
+          )}
 
-            <TabsContent value="tips" className="space-y-4">
-              <h4 className="text-lg font-semibold text-white flex items-center">
-                <Lightbulb className="w-5 h-5 mr-2 text-blue-400" />
-                Dicas Importantes
-              </h4>
-              <ul className="space-y-3">
-                {activity.tips?.map((tip: string, i: number) => (
-                  <li key={i} className="flex items-start space-x-3">
-                    <Lightbulb className="w-4 h-4 text-yellow-500 flex-shrink-0 mt-1" />
-                    <span className="text-gray-300">{tip}</span>
+          {tips.length > 0 && (
+            <section>
+              <h3 className="mb-3 inline-flex items-center gap-2 font-semibold">
+                <Lightbulb className="h-4 w-4 text-brand" aria-hidden />
+                {t("tips")}
+              </h3>
+              <ul className="space-y-2">
+                {tips.map((tip, index) => (
+                  <li key={index} className="flex gap-2.5 text-sm text-muted-foreground">
+                    <span className="mt-[7px] h-1.5 w-1.5 shrink-0 rounded-full bg-brand" aria-hidden />
+                    {tip}
                   </li>
                 ))}
               </ul>
-            </TabsContent>
+            </section>
+          )}
 
-            <TabsContent value="variations" className="space-y-4">
-              <h4 className="text-lg font-semibold text-white flex items-center">
-                <Settings className="w-5 h-5 mr-2 text-blue-400" />
-                Variações e Adaptações
-              </h4>
-              <ul className="space-y-3">
-                {activity.variations?.map((variation: string, i: number) => (
-                  <li key={i} className="flex items-start space-x-3">
-                    <div className="w-2 h-2 bg-blue-500 rounded-full flex-shrink-0 mt-2"></div>
-                    <span className="text-gray-300">{variation}</span>
+          {variations.length > 0 && (
+            <section>
+              <h3 className="mb-3 font-semibold">{t("variations")}</h3>
+              <ul className="space-y-2">
+                {variations.map((variation, index) => (
+                  <li key={index} className="flex gap-2.5 text-sm text-muted-foreground">
+                    <span className="mt-[7px] h-1.5 w-1.5 shrink-0 rounded-full bg-brand" aria-hidden />
+                    {variation}
                   </li>
                 ))}
               </ul>
-            </TabsContent>
+            </section>
+          )}
 
-            <TabsContent value="assessment" className="space-y-4">
-              <h4 className="text-lg font-semibold text-white flex items-center">
-                <Target className="w-5 h-5 mr-2 text-blue-400" />
-                Como Avaliar o Progresso
-              </h4>
-              <div className="bg-gray-900/50 p-4 rounded-lg">
-                <p className="text-gray-300">{activity.assessment}</p>
-              </div>
-            </TabsContent>
-          </Tabs>
+          {assessment && (
+            <section>
+              <h3 className="mb-3 font-semibold">{t("howToAssess")}</h3>
+              <p className="rounded-lg border border-border bg-surface-2 p-4 text-sm leading-relaxed text-muted-foreground">
+                {assessment}
+              </p>
+            </section>
+          )}
 
-          {/* Fundamentação */}
-          <div className="bg-blue-900/20 p-4 rounded-lg border border-blue-500/30">
-            <h4 className="text-lg font-semibold text-white mb-2">Fundamentação Científica</h4>
-            <p className="text-gray-300">{activity.implementation}</p>
-          </div>
+          {activity.citations?.length ? (
+            <section className="border-t border-border pt-4">
+              <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                {t("sources")}
+              </h3>
+              <ul className="space-y-1">
+                {activity.citations.map((citation, index) => (
+                  <li key={index}>
+                    <a
+                      href={citation.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-start gap-1 text-xs text-muted-foreground underline underline-offset-2 hover:text-brand"
+                    >
+                      {citation.label}
+                      <ExternalLink className="mt-0.5 h-3 w-3 shrink-0" aria-hidden />
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ) : null}
         </div>
 
-        <div className="flex justify-end space-x-3 pt-4 border-t border-gray-800">
-          <Button variant="outline" onClick={onClose} className="border-gray-600 text-gray-300">
-            Fechar
+        <div className="flex justify-end gap-3 border-t border-border pt-4">
+          <Button variant="outline" onClick={onClose}>
+            {t("close")}
           </Button>
-          <Button className="bg-blue-600 hover:bg-blue-700">Baixar Material Completo</Button>
+          {/* Gera o roteiro completo a partir dos dados reais da atividade.
+              O rótulo diz .txt porque é exatamente o que baixa. */}
+          <Button
+            onClick={() =>
+              downloadActivity(activity, language, {
+                age: t("age"),
+                duration: t("duration"),
+                objectives: t("objectives"),
+                materials: t("materials"),
+                implementation: t("implementation"),
+                tips: t("tips"),
+                variations: t("variations"),
+                assessment: t("howToAssess"),
+                sources: t("sources"),
+                authorshipNote: activity.authorship === "adapted" ? t("authorshipAdapted") : undefined,
+              })
+            }
+          >
+            <Download className="mr-2 h-4 w-4" />
+            {t("downloadActivity")}
+          </Button>
         </div>
       </DialogContent>
     </Dialog>

@@ -2,20 +2,43 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
-import { Button } from "@/components/ui/button"
-import { Menu, X, BookMarked, BookOpen, Pencil, LogIn, LogOut, User, Languages, Sun, Moon } from "lucide-react"
-import { motion, AnimatePresence } from "framer-motion"
+import { usePathname } from "next/navigation"
 import { useRouter } from "next/navigation"
+import { motion, AnimatePresence } from "framer-motion"
+import {
+  Menu,
+  X,
+  BookMarked,
+  BookOpen,
+  Pencil,
+  LogIn,
+  LogOut,
+  User,
+  Languages,
+  Sun,
+  Moon,
+  ChevronDown,
+  Check,
+} from "lucide-react"
+import { Button } from "@/components/ui/button"
+import { LogoWordmark } from "@/components/brand/logo"
 import { createClient } from "@/lib/supabase/client"
 import { signOut } from "../actions/auth"
 import { useLanguage } from "@/lib/language-context"
 import { useTheme } from "@/lib/theme-context"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
+import { SPECIALTIES } from "@/lib/specialties"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu"
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [user, setUser] = useState<{ name: string; email: string; specialty: string } | null>(null)
   const router = useRouter()
+  const pathname = usePathname()
   const { language, setLanguage, t } = useLanguage()
   const { theme, setTheme } = useTheme()
 
@@ -29,9 +52,7 @@ export default function Header() {
 
       if (authUser) {
         const { data: teacher } = await supabase.from("teachers").select("*").eq("id", authUser.id).single()
-        if (teacher) {
-          setUser(teacher)
-        }
+        setUser(teacher ?? null)
       } else {
         setUser(null)
       }
@@ -45,270 +66,264 @@ export default function Header() {
       checkUser()
     })
 
-    return () => {
-      subscription.unsubscribe()
-    }
+    return () => subscription.unsubscribe()
   }, [])
+
+  // Fecha o menu móvel ao navegar — antes ele ficava aberto sobre a página nova
+  useEffect(() => {
+    setIsMenuOpen(false)
+  }, [pathname])
 
   const handleLogout = async () => {
     await signOut()
     setUser(null)
-    setIsMenuOpen(false)
     router.push("/")
     router.refresh()
   }
 
+  const navLinks = [
+    { href: "/questoes", label: t("questions"), icon: BookMarked },
+    { href: "/conteudos", label: t("content"), icon: BookOpen },
+    ...(user ? [{ href: "/contribuir", label: t("contribute"), icon: Pencil }] : []),
+  ]
+
+  const isActive = (href: string) => pathname === href
+  const isSpecialtyActive = SPECIALTIES.some((s) => pathname === `/${s.slug}`)
+
+  const languages = [
+    { code: "pt" as const, label: "Português" },
+    { code: "en" as const, label: "English" },
+    { code: "es" as const, label: "Español" },
+  ]
+
   return (
-    <motion.header
-      initial={{ y: -100 }}
-      animate={{ y: 0 }}
-      transition={{ duration: 0.5 }}
-      className="bg-gray-950/90 backdrop-blur-sm border-b border-gray-800 sticky top-0 z-50 light:bg-white/90 light:border-gray-200"
-    >
-      <div className="container mx-auto px-4 py-4">
-        <div className="flex items-center justify-between">
-          <Link href="/" className="flex items-center space-x-2">
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent"
-            >
-              AtypicalClass
-            </motion.div>
-          </Link>
+    <header className="sticky top-0 z-50 border-b border-border bg-background/85 backdrop-blur-md">
+      <div className="container flex h-16 items-center justify-between gap-4">
+        <Link href="/" aria-label="AtypicalClass — início" className="shrink-0">
+          <LogoWordmark />
+        </Link>
 
-          {/* Desktop Navigation */}
-          <nav className="hidden md:flex items-center space-x-6">
-            <Link href="/">
-              <motion.div
-                whileHover={{ scale: 1.05 }}
-                className="text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700 light:hover:text-blue-600"
+        {/* ------------------------------------------------ Navegação (desktop) */}
+        <nav className="hidden items-center gap-1 lg:flex">
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button
+                variant="ghost"
+                size="sm"
+                className={isSpecialtyActive ? "text-foreground" : "text-muted-foreground"}
               >
-                {t("home")}
-              </motion.div>
-            </Link>
-            <Link href="/questoes">
-              <motion.div
-                whileHover={{ scale: 1.05 }}
-                className="flex items-center space-x-1 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700 light:hover:text-blue-600"
-              >
-                <BookMarked className="w-4 h-4" />
-                <span>{t("questions")}</span>
-              </motion.div>
-            </Link>
-            <Link href="/conteudos">
-              <motion.div
-                whileHover={{ scale: 1.05 }}
-                className="flex items-center space-x-1 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700 light:hover:text-blue-600"
-              >
-                <BookOpen className="w-4 h-4" />
-                <span>{t("content")}</span>
-              </motion.div>
-            </Link>
-            {user && (
-              <Link href="/contribuir">
-                <motion.div
-                  whileHover={{ scale: 1.05 }}
-                  className="flex items-center space-x-1 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700 light:hover:text-blue-600"
-                >
-                  <Pencil className="w-4 h-4" />
-                  <span>{t("contribute")}</span>
-                </motion.div>
-              </Link>
-            )}
-          </nav>
+                {t("specialties")}
+                <ChevronDown className="ml-1 h-4 w-4" />
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="start" className="w-60">
+              {SPECIALTIES.map((specialty) => {
+                const Icon = specialty.icon
+                return (
+                  <DropdownMenuItem key={specialty.slug} asChild>
+                    <Link href={`/${specialty.slug}`} data-specialty={specialty.accent} className="gap-2.5">
+                      <span className="accent-soft flex h-7 w-7 items-center justify-center rounded-md">
+                        <Icon className="h-4 w-4" />
+                      </span>
+                      {t(specialty.nameKey)}
+                    </Link>
+                  </DropdownMenuItem>
+                )
+              })}
+            </DropdownMenuContent>
+          </DropdownMenu>
 
-          <div className="hidden md:flex items-center space-x-3">
-            {/* Language Selector */}
-            <DropdownMenu>
-              <DropdownMenuTrigger asChild>
-                <Button variant="ghost" size="sm" className="text-slate-300 hover:text-blue-400 light:text-slate-700">
-                  <Languages className="w-4 h-4 mr-2" />
-                  {language.toUpperCase()}
-                </Button>
-              </DropdownMenuTrigger>
-              <DropdownMenuContent className="bg-gray-900 border-gray-700 light:bg-white light:border-gray-200">
-                <DropdownMenuItem
-                  onClick={() => setLanguage("pt")}
-                  className="text-white hover:bg-gray-800 light:text-slate-900 light:hover:bg-gray-100"
-                >
-                  Português
-                </DropdownMenuItem>
-                <DropdownMenuItem
-                  onClick={() => setLanguage("en")}
-                  className="text-white hover:bg-gray-800 light:text-slate-900 light:hover:bg-gray-100"
-                >
-                  English
-                </DropdownMenuItem>
-                <DropdownMenuItem
-                  onClick={() => setLanguage("es")}
-                  className="text-white hover:bg-gray-800 light:text-slate-900 light:hover:bg-gray-100"
-                >
-                  Español
-                </DropdownMenuItem>
-              </DropdownMenuContent>
-            </DropdownMenu>
-
-            {/* Theme Toggle */}
+          {navLinks.map((link) => (
             <Button
+              key={link.href}
+              asChild
               variant="ghost"
               size="sm"
-              onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-              className="text-slate-300 hover:text-blue-400 light:text-slate-700"
+              className={isActive(link.href) ? "text-foreground" : "text-muted-foreground"}
             >
-              {theme === "dark" ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
+              <Link href={link.href}>{link.label}</Link>
             </Button>
+          ))}
 
-            {user ? (
-              <div className="flex items-center space-x-3">
-                <div className="flex items-center space-x-2 px-3 py-2 bg-gray-900/50 rounded-lg border border-gray-700 light:bg-gray-100 light:border-gray-300">
-                  <User className="w-4 h-4 text-blue-400 light:text-blue-600" />
-                  <div className="flex flex-col">
-                    <span className="text-sm text-white font-medium light:text-slate-900">{user.name}</span>
-                    <span className="text-xs text-blue-400 light:text-blue-600">{user.specialty}</span>
-                  </div>
-                </div>
-                <Button
-                  onClick={handleLogout}
-                  variant="outline"
-                  size="sm"
-                  className="border-red-500/50 text-red-400 hover:bg-red-950/50 hover:text-red-300 bg-transparent light:border-red-400 light:text-red-600 light:hover:bg-red-50"
-                >
-                  <LogOut className="w-4 h-4 mr-2" />
-                  {t("logout")}
-                </Button>
-              </div>
-            ) : (
-              <Link href="/auth">
-                <Button className="bg-blue-600 hover:bg-blue-700">
-                  <LogIn className="w-4 h-4 mr-2" />
-                  {t("login")}
-                </Button>
-              </Link>
-            )}
-          </div>
-
-          {/* Mobile Menu Button */}
-          <button
-            className="md:hidden text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700"
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-            aria-label="Menu"
+          <Button
+            asChild
+            variant="ghost"
+            size="sm"
+            className={isActive("/recursos") ? "text-foreground" : "text-muted-foreground"}
           >
-            {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-          </button>
+            <Link href="/recursos">{t("resourcesLabel")}</Link>
+          </Button>
+          <Button
+            asChild
+            variant="ghost"
+            size="sm"
+            className={isActive("/sobre") ? "text-foreground" : "text-muted-foreground"}
+          >
+            <Link href="/sobre">{t("about")}</Link>
+          </Button>
+        </nav>
+
+        {/* ----------------------------------------------------- Ações (desktop) */}
+        <div className="hidden items-center gap-2 lg:flex">
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button variant="ghost" size="sm" className="text-muted-foreground">
+                <Languages className="mr-1.5 h-4 w-4" />
+                {language.toUpperCase()}
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="end">
+              {languages.map((lang) => (
+                <DropdownMenuItem key={lang.code} onClick={() => setLanguage(lang.code)} className="gap-2">
+                  <Check className={`h-4 w-4 ${language === lang.code ? "opacity-100" : "opacity-0"}`} />
+                  {lang.label}
+                </DropdownMenuItem>
+              ))}
+            </DropdownMenuContent>
+          </DropdownMenu>
+
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+            aria-label={theme === "dark" ? "Ativar tema claro" : "Ativar tema escuro"}
+            className="text-muted-foreground"
+          >
+            {theme === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
+          </Button>
+
+          {user ? (
+            <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2 rounded-lg border border-border bg-surface-2 px-3 py-1.5">
+                <User className="h-4 w-4 text-primary" aria-hidden />
+                <div className="leading-tight">
+                  <p className="text-sm font-medium">{user.name}</p>
+                  <p className="text-xs text-muted-foreground">{user.specialty}</p>
+                </div>
+              </div>
+              <Button variant="ghost" size="icon" onClick={handleLogout} aria-label={t("logout")}>
+                <LogOut className="h-4 w-4" />
+              </Button>
+            </div>
+          ) : (
+            <Button asChild size="sm">
+              <Link href="/auth">
+                <LogIn className="mr-1.5 h-4 w-4" />
+                {t("login")}
+              </Link>
+            </Button>
+          )}
         </div>
 
-        {/* Mobile Navigation */}
-        <AnimatePresence>
-          {isMenuOpen && (
-            <motion.nav
-              initial={{ opacity: 0, height: 0 }}
-              animate={{ opacity: 1, height: "auto" }}
-              exit={{ opacity: 0, height: 0 }}
-              className="md:hidden mt-4 space-y-3 pb-4 border-t border-gray-800 pt-4 light:border-gray-200"
-            >
-              <Link href="/" onClick={() => setIsMenuOpen(false)}>
-                <div className="block py-2 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700">
-                  {t("home")}
-                </div>
-              </Link>
-              <Link href="/questoes" onClick={() => setIsMenuOpen(false)}>
-                <div className="flex items-center space-x-2 py-2 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700">
-                  <BookMarked className="w-4 h-4" />
-                  <span>{t("questions")}</span>
-                </div>
-              </Link>
-              <Link href="/conteudos" onClick={() => setIsMenuOpen(false)}>
-                <div className="flex items-center space-x-2 py-2 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700">
-                  <BookOpen className="w-4 h-4" />
-                  <span>{t("content")}</span>
-                </div>
-              </Link>
-              {user && (
-                <Link href="/contribuir" onClick={() => setIsMenuOpen(false)}>
-                  <div className="flex items-center space-x-2 py-2 text-slate-300 hover:text-blue-400 transition-colors light:text-slate-700">
-                    <Pencil className="w-4 h-4" />
-                    <span>{t("contribute")}</span>
-                  </div>
-                </Link>
-              )}
+        {/* -------------------------------------------------------- Botão móvel */}
+        <button
+          className="rounded-lg p-2 text-muted-foreground hover:text-foreground lg:hidden"
+          onClick={() => setIsMenuOpen(!isMenuOpen)}
+          aria-label="Menu"
+          aria-expanded={isMenuOpen}
+        >
+          {isMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+        </button>
+      </div>
 
-              <div className="pt-3 border-t border-gray-800 space-y-2 light:border-gray-200">
-                <div className="flex items-center justify-between">
-                  <span className="text-sm text-slate-400 light:text-slate-600">Idioma:</span>
-                  <div className="flex space-x-2">
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={() => setLanguage("pt")}
-                      className={language === "pt" ? "text-blue-400" : "text-slate-400"}
-                    >
-                      PT
-                    </Button>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={() => setLanguage("en")}
-                      className={language === "en" ? "text-blue-400" : "text-slate-400"}
-                    >
-                      EN
-                    </Button>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={() => setLanguage("es")}
-                      className={language === "es" ? "text-blue-400" : "text-slate-400"}
-                    >
-                      ES
-                    </Button>
-                  </div>
-                </div>
-                <div className="flex items-center justify-between">
-                  <span className="text-sm text-slate-400 light:text-slate-600">Tema:</span>
-                  <Button
-                    variant="ghost"
-                    size="sm"
-                    onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-                    className="text-slate-300 hover:text-blue-400 light:text-slate-700"
-                  >
-                    {theme === "dark" ? <Sun className="w-4 h-4 mr-2" /> : <Moon className="w-4 h-4 mr-2" />}
-                    {theme === "dark" ? "Claro" : "Escuro"}
-                  </Button>
+      {/* ------------------------------------------------------ Navegação móvel */}
+      <AnimatePresence>
+        {isMenuOpen && (
+          <motion.nav
+            initial={{ opacity: 0, height: 0 }}
+            animate={{ opacity: 1, height: "auto" }}
+            exit={{ opacity: 0, height: 0 }}
+            transition={{ duration: 0.2 }}
+            className="overflow-hidden border-t border-border bg-surface lg:hidden"
+          >
+            <div className="container space-y-6 py-5">
+              <div>
+                <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                  {t("specialties")}
+                </p>
+                <div className="grid gap-1">
+                  {SPECIALTIES.map((specialty) => {
+                    const Icon = specialty.icon
+                    return (
+                      <Link
+                        key={specialty.slug}
+                        href={`/${specialty.slug}`}
+                        data-specialty={specialty.accent}
+                        className="flex items-center gap-2.5 rounded-lg px-2 py-2 text-sm hover:bg-surface-2"
+                      >
+                        <span className="accent-soft flex h-7 w-7 items-center justify-center rounded-md">
+                          <Icon className="h-4 w-4" />
+                        </span>
+                        {t(specialty.nameKey)}
+                      </Link>
+                    )
+                  })}
                 </div>
               </div>
 
-              <div className="pt-3 border-t border-gray-800 light:border-gray-200">
+              <div className="grid gap-1 border-t border-border pt-4">
+                {[...navLinks, { href: "/recursos", label: t("resourcesLabel"), icon: BookOpen },
+                  { href: "/sobre", label: t("about"), icon: User }].map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="flex items-center gap-2.5 rounded-lg px-2 py-2 text-sm hover:bg-surface-2"
+                  >
+                    <link.icon className="h-4 w-4 text-muted-foreground" aria-hidden />
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
+
+              <div className="flex items-center justify-between border-t border-border pt-4">
+                <div className="flex gap-1">
+                  {languages.map((lang) => (
+                    <Button
+                      key={lang.code}
+                      variant={language === lang.code ? "secondary" : "ghost"}
+                      size="sm"
+                      onClick={() => setLanguage(lang.code)}
+                    >
+                      {lang.code.toUpperCase()}
+                    </Button>
+                  ))}
+                </div>
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                  className="text-muted-foreground"
+                >
+                  {theme === "dark" ? <Sun className="mr-2 h-4 w-4" /> : <Moon className="mr-2 h-4 w-4" />}
+                  {theme === "dark" ? t("lightTheme") : t("darkTheme")}
+                </Button>
+              </div>
+
+              <div className="border-t border-border pt-4">
                 {user ? (
                   <div className="space-y-3">
-                    <div className="bg-gray-900/50 p-3 rounded-lg border border-gray-700 light:bg-gray-100 light:border-gray-300">
-                      <div className="flex items-center space-x-2 text-white mb-1 light:text-slate-900">
-                        <User className="w-4 h-4 text-blue-400 light:text-blue-600" />
-                        <span className="font-medium">{user.name}</span>
-                      </div>
-                      <div className="text-xs text-blue-400 ml-6 light:text-blue-600">{user.specialty}</div>
+                    <div className="rounded-lg border border-border bg-surface-2 p-3">
+                      <p className="font-medium">{user.name}</p>
+                      <p className="text-xs text-muted-foreground">{user.specialty}</p>
                     </div>
-                    <Button
-                      onClick={handleLogout}
-                      variant="outline"
-                      size="sm"
-                      className="w-full border-red-500/50 text-red-400 hover:bg-red-950/50 hover:text-red-300 bg-transparent light:border-red-400 light:text-red-600"
-                    >
-                      <LogOut className="w-4 h-4 mr-2" />
+                    <Button variant="outline" size="sm" className="w-full" onClick={handleLogout}>
+                      <LogOut className="mr-2 h-4 w-4" />
                       {t("logout")}
                     </Button>
                   </div>
                 ) : (
-                  <Link href="/auth" onClick={() => setIsMenuOpen(false)}>
-                    <Button className="w-full bg-blue-600 hover:bg-blue-700">
-                      <LogIn className="w-4 h-4 mr-2" />
+                  <Button asChild className="w-full">
+                    <Link href="/auth">
+                      <LogIn className="mr-2 h-4 w-4" />
                       {t("login")}
-                    </Button>
-                  </Link>
+                    </Link>
+                  </Button>
                 )}
               </div>
-            </motion.nav>
-          )}
-        </AnimatePresence>
-      </div>
-    </motion.header>
+            </div>
+          </motion.nav>
+        )}
+      </AnimatePresence>
+    </header>
   )
 }

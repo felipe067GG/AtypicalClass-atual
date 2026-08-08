@@ -811,14 +811,14 @@ AVALIAÇÃO DAS ATIVIDADES:
   return (
     <div className="space-y-8">
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8 relative">
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-blue-800/20 rounded-3xl blur-3xl"></div>
+        <div className="absolute inset-0 accent-soft rounded-3xl blur-3xl"></div>
         <div className="relative z-10 p-8">
-          <h2 className="text-4xl font-bold text-white mb-4">
+          <h2 className="text-4xl font-bold text-foreground mb-4">
             {language === "pt" && "Recursos e Materiais"}
             {language === "en" && "Resources and Materials"}
             {language === "es" && "Recursos y Materiales"}
           </h2>
-          <p className="text-xl text-slate-300 max-w-3xl mx-auto">
+          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             {language === "pt" && "Downloads gratuitos, organizações parceiras e materiais de apoio para educadores"}
             {language === "en" && "Free downloads, partner organizations and support materials for educators"}
             {language === "es" && "Descargas gratuitas, organizaciones asociadas y materiales de apoyo para educadores"}
@@ -827,7 +827,7 @@ AVALIAÇÃO DAS ATIVIDADES:
       </motion.div>
 
       <div>
-        <h3 className="text-2xl font-bold text-white mb-6">
+        <h3 className="text-2xl font-bold text-foreground mb-6">
           {language === "pt" && "Materiais Educativos"}
           {language === "en" && "Educational Materials"}
           {language === "es" && "Materiales Educativos"}
@@ -843,29 +843,29 @@ AVALIAÇÃO DAS ATIVIDADES:
                 transition={{ delay: index * 0.1 }}
                 whileHover={{ scale: 1.03 }}
               >
-                <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300">
+                <Card className="bg-surface-2 border-border hover:bg-surface-2 transition-all duration-300">
                   <CardHeader>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <IconComponent className="w-8 h-8 text-white" />
+                    <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
+                      <IconComponent className="w-8 h-8 text-foreground" />
                     </div>
-                    <CardTitle className="text-white text-center">
+                    <CardTitle className="text-foreground text-center">
                       {typeof material.title === "object" ? material.title[language] : material.title}
                     </CardTitle>
                     <div className="flex justify-center space-x-4 text-sm">
-                      <Badge className="bg-blue-600">
+                      <Badge className="bg-primary">
                         {typeof material.type === "object" ? material.type[language] : material.type}
                       </Badge>
-                      <Badge variant="outline" className="border-slate-600 text-slate-300">
+                      <Badge variant="outline" className="border-border text-muted-foreground">
                         {typeof material.size === "object" ? material.size[language] : material.size}
                       </Badge>
                     </div>
-                    <CardDescription className="text-slate-300 text-center">
+                    <CardDescription className="text-muted-foreground text-center">
                       {typeof material.description === "object" ? material.description[language] : material.description}
                     </CardDescription>
                   </CardHeader>
                   <CardContent>
                     <Button
-                      className="w-full bg-gradient-to-r from-blue-600 to-blue-800 hover:from-blue-700 hover:to-blue-900"
+                      className="w-full bg-primary hover:bg-primary/90"
                       onClick={() =>
                         handleDownload(
                           typeof material.title === "object" ? material.title.pt : material.title,
@@ -887,7 +887,7 @@ AVALIAÇÃO DAS ATIVIDADES:
       </div>
 
       <div>
-        <h3 className="text-2xl font-bold text-white mb-6">
+        <h3 className="text-2xl font-bold text-foreground mb-6">
           {language === "pt" && "Organizações Parceiras"}
           {language === "en" && "Partner Organizations"}
           {language === "es" && "Organizaciones Asociadas"}
@@ -901,20 +901,20 @@ AVALIAÇÃO DAS ATIVIDADES:
               transition={{ delay: index * 0.1 }}
               whileHover={{ scale: 1.02 }}
             >
-              <Card className="bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300">
+              <Card className="bg-surface-2 border-border hover:bg-surface-2 transition-all duration-300">
                 <CardHeader>
-                  <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-3">
-                    <Users className="w-6 h-6 text-white" />
+                  <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mx-auto mb-3">
+                    <Users className="w-6 h-6 text-foreground" />
                   </div>
-                  <CardTitle className="text-white text-center text-lg">{org.name}</CardTitle>
-                  <CardDescription className="text-slate-300 text-center">{org.description[language]}</CardDescription>
+                  <CardTitle className="text-foreground text-center text-lg">{org.name}</CardTitle>
+                  <CardDescription className="text-muted-foreground text-center">{org.description[language]}</CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-2">
-                  <div className="flex items-center justify-center space-x-2 text-sm text-slate-400">
+                  <div className="flex items-center justify-center space-x-2 text-sm text-muted-foreground">
                     <Phone className="w-4 h-4" />
                     <span>{org.contact}</span>
                   </div>
-                  <div className="flex items-center justify-center space-x-2 text-sm text-blue-400">
+                  <div className="flex items-center justify-center space-x-2 text-sm text-brand">
                     <Mail className="w-4 h-4" />
                     <span>{org.email}</span>
                   </div>

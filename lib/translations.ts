@@ -59,6 +59,132 @@ export const translations = {
     noQuestionsFound: "Nenhuma questão encontrada com os filtros selecionados.",
     noContentFound: "Nenhum conteúdo encontrado com os filtros selecionados.",
     loadError: "Não foi possível carregar os dados. Verifique sua conexão e recarregue a página.",
+
+    // Evidência e materiais
+    sources: "Fontes",
+    // Áreas novas
+    deafblindness: "Surdocegueira",
+    deafblindnessDesc: "Rotina previsível, símbolos tangíveis e mediação pelo tato.",
+    deafblindnessTitle: "Surdocegueira e Deficiência Múltipla",
+    deafblindnessIntro:
+      "Surdocegueira não é surdez somada a cegueira: é uma condição própria, porque cada sentido costuma compensar o outro. Com os dois comprometidos, o acesso à informação precisa ser construído deliberadamente — pelo tato e pela rotina.",
+    languageDisorder: "Transtorno de Linguagem",
+    languageDisorderDesc: "Tempo de processamento, vocabulário explícito e compreensão leitora.",
+    languageDisorderTitle: "Transtorno do Desenvolvimento da Linguagem",
+    languageDisorderIntro:
+      "Afeta cerca de 1 em cada 14 alunos — mais que autismo e dislexia — e quase nunca é identificado. A criança costuma ser lida como desatenta ou desinteressada, quando na verdade não teve tempo de processar o que foi dito.",
+    dysgraphia: "Disgrafia",
+    dysgraphiaDesc: "Fluência no traçado, separar escrever de compor e avaliar conteúdo, não letra.",
+    dysgraphiaTitle: "Disgrafia",
+    dysgraphiaIntro:
+      "Enquanto formar a letra consome atenção, não sobra nada para o que escrever. Automatizar o traçado é a primeira recomendação do guia de escrita do What Works Clearinghouse — e separar o gesto da composição é o que devolve o texto ao aluno.",
+    dyscalculia: "Discalculia",
+    dyscalculiaDesc: "Instrução explícita, sequência concreto-abstrato e construção do senso numérico.",
+    dyscalculiaTitle: "Discalculia",
+    dyscalculiaIntro:
+      "A base aqui é o guia prático do What Works Clearinghouse, que gradua cada recomendação pela força da evidência. Muito do que circula sobre discalculia vem de site comercial vendendo método — nada disso entrou.",
+    physicalDisability: "Deficiência Física",
+    physicalDesc: "Acessibilidade da sala, posicionamento, comunicação alternativa e participação real.",
+    physicalTitle: "Deficiência Física e Motora",
+    physicalIntro:
+      "Quase nenhuma barreira aqui é do aluno: é do ambiente, do material e do tempo. A intervenção acontece na sala, não na criança — e quem não fala não é quem não tem o que dizer.",
+    mentalHealth: "Saúde Mental",
+    mentalHealthDesc: "Reconhecer sinais, ajustar o ambiente de sala e encaminhar — com limites claros.",
+    mentalHealthTitle: "Saúde Mental na Escola",
+    mentalHealthIntro:
+      "Nada aqui é diagnóstico nem tratamento. O papel do professor é reconhecer sinais, ajustar o ambiente e encaminhar para a rede — o que não cabe a ele está dito de forma explícita em cada estratégia.",
+    intellectualDisability: "Deficiência Intelectual",
+    intellectualDesc: "Instrução sistemática e explícita, com apoio planejado e retirada gradual.",
+    intellectualTitle: "Deficiência Intelectual",
+    intellectualIntro:
+      "A maioria das intervenções com evidência nesta área cai sob um mesmo princípio: instrução sistemática. Ensinar em passos planejados, com apoio previsível, e decidir pelo dado — não pela impressão.",
+    dyslexia: "Dislexia",
+    dyslexiaDesc: "Structured Literacy: ensino explícito, sistemático e cumulativo da estrutura da língua.",
+    dyslexiaTitle: "Dislexia",
+    dyslexiaIntro:
+      "A abordagem com melhor respaldo é o Structured Literacy — e a literatura indica que ela funciona melhor para todos os leitores, não só para quem tem dislexia. Não é adaptação para um aluno: é melhoria para a turma.",
+    giftedness: "Altas Habilidades",
+    giftednessDesc: "Compactação curricular, aceleração e enriquecimento a partir do interesse do aluno.",
+    giftednessTitle: "Altas Habilidades / Superdotação",
+    giftednessIntro:
+      "Integra legalmente o público-alvo da Educação Especial no Brasil. Sem compactação e enriquecimento, o aluno passa o ano repetindo o que já sabe — e nota baixa não descarta alta habilidade: às vezes é sintoma.",
+    howToAssess: "Como avaliar o progresso",
+    downloadActivity: "Baixar roteiro (.txt)",
+    authorshipAdapted:
+      "Roteiro elaborado pelo AtypicalClass como aplicação em sala da prática citada abaixo. A fonte fundamenta a prática, não este roteiro específico.",
+    openMaterial: "Abrir material",
+    publishedBy: "Publicado por",
+    evidenceEstablished: "Prática com evidência",
+    evidenceEmerging: "Evidência emergente",
+    evidenceInsufficient: "Evidência insuficiente",
+    // Home
+    heroHeadline: "Ensinar para todos, sem improviso",
+    whyTitle: "Por que o AtypicalClass",
+    insideSpecialty: "O que você encontra em cada especialidade",
+    insideSpecialtyDesc:
+      "Toda especialidade segue a mesma estrutura, para você saber exatamente onde procurar.",
+    insideStrategiesDesc: "Métodos com fonte científica, nível de dificuldade e eficácia estimada.",
+    insideActivitiesDesc: "Exercícios prontos, com faixa etária, duração, materiais e objetivos.",
+    insideCoursesDesc: "Formações gratuitas e pagas, com carga horária e certificação.",
+    insideMaterialsDesc: "Guias e kits para baixar, disponíveis em português, inglês e espanhol.",
+
+    statQuestions: "Questões adaptadas",
+    statContents: "Conteúdos pedagógicos",
+    statSpecialties: "Especialidades",
+    statLanguages: "Idiomas",
+
+    faqTitle: "Perguntas frequentes",
+    faq1Q: "Preciso pagar para usar a plataforma?",
+    faq1A:
+      "Não. Consultar questões, conteúdos e materiais é gratuito e não exige cadastro. A conta só é necessária para publicar na área de contribuição.",
+    faq2Q: "Quem pode criar uma conta?",
+    faq2A:
+      "Professores e profissionais da educação. Após o cadastro é preciso confirmar o e-mail antes do primeiro acesso.",
+    faq3Q: "De onde vêm as estratégias sugeridas?",
+    faq3A:
+      "Cada estratégia traz a fonte que a fundamenta junto ao próprio card, para que você possa consultar a referência original.",
+    faq4Q: "Posso usar os materiais na minha escola?",
+    faq4A:
+      "Sim. Os materiais são de download gratuito e feitos para uso em sala de aula, disponíveis em português, inglês e espanhol.",
+
+    footerDescription:
+      "Recursos e estratégias para professores que trabalham com alunos atípicos, reunidos em um lugar só.",
+    footerNote: "Feito para professores, por quem acredita em educação inclusiva.",
+
+    // Navegação e home
+    specialties: "Especialidades",
+    accessNow: "Acessar",
+    lightTheme: "Tema claro",
+    darkTheme: "Tema escuro",
+
+    // Área de contribuição e seções de especialidade
+    title: "Título",
+    message: "Mensagem",
+    tip: "Dica",
+    question: "Questão",
+    select: "Selecione",
+    add: "Adicionar",
+    alt: "Alt",
+    alternative: "Alternativa",
+    alternatives: "Alternativas",
+    correctAnswer: "Resposta correta",
+    description: "Descrição",
+    enunciation: "Enunciado",
+    writeEnunciation: "Escreva o enunciado da questão",
+    explainAnswer: "Explique por que essa é a resposta correta",
+    questionTitle: "Ex.: Soma com material dourado",
+    tipTitle: "Ex.: Rotina visual para transições",
+    tipDescription: "Resuma a dica em uma frase",
+    messageTitle: "Sobre o que você quer falar?",
+    shareIdeas: "Compartilhe ideias, dúvidas ou experiências com a comunidade",
+    sharePedagogicalTip: "Descreva a estratégia e como aplicá-la em sala",
+    loadingPosts: "Carregando publicações...",
+    noPosts: "Nenhuma publicação ainda. Seja o primeiro a compartilhar!",
+    authenticating: "Autenticando...",
+    downloadFree: "Download gratuito",
+    efficacious: "de eficácia",
+    effective: "de eficácia",
+    highlight: "Destaque",
     answer: "Responder",
     previous: "Anterior",
     next: "Próxima",
@@ -572,7 +698,6 @@ export const translations = {
         priceFree: "Gratuito",
         level: "Intermediário",
         levelBasic: "Básico",
-        url: "https://example.com/curso",
       },
       cursosEspecial: {
         title: "Curso Especializado em Síndrome de Down",
@@ -580,7 +705,6 @@ export const translations = {
         duration: "60 horas",
         price: "R$ 399,00",
         level: "Avançado",
-        url: "https://example.com/curso-especial",
       },
       inclusaoCrianca: {
         title: "Inclusão da Criança com Síndrome de Down",
@@ -588,7 +712,6 @@ export const translations = {
         duration: "30 horas",
         price: "R$ 199,00",
         level: "Básico",
-        url: "https://example.com/inclusao",
       },
     },
 
@@ -1352,6 +1475,130 @@ export const translations = {
     noQuestionsFound: "No questions found with the selected filters.",
     noContentFound: "No content found with the selected filters.",
     loadError: "Could not load the data. Check your connection and reload the page.",
+
+    // Evidence and materials
+    sources: "Sources",
+    // New areas
+    deafblindness: "Deafblindness",
+    deafblindnessDesc: "Predictable routine, tangible symbols and mediation through touch.",
+    deafblindnessTitle: "Deafblindness and Multiple Disabilities",
+    deafblindnessIntro:
+      "Deafblindness is not deafness plus blindness: it is a condition of its own, because each sense usually compensates for the other. With both affected, access to information must be built deliberately — through touch and routine.",
+    languageDisorder: "Language Disorder",
+    languageDisorderDesc: "Processing time, explicit vocabulary and reading comprehension.",
+    languageDisorderTitle: "Developmental Language Disorder",
+    languageDisorderIntro:
+      "It affects around 1 in 14 students — more than autism and dyslexia — and is almost never identified. The child is usually read as inattentive or disengaged, when in fact they did not have time to process what was said.",
+    dysgraphia: "Dysgraphia",
+    dysgraphiaDesc: "Handwriting fluency, separating writing from composing, assessing content not letters.",
+    dysgraphiaTitle: "Dysgraphia",
+    dysgraphiaIntro:
+      "While forming letters consumes attention, nothing is left for what to write. Automating handwriting is the first recommendation of the What Works Clearinghouse writing guide — and separating the act from the composition is what gives the text back to the student.",
+    dyscalculia: "Dyscalculia",
+    dyscalculiaDesc: "Explicit instruction, concrete-to-abstract sequence and building number sense.",
+    dyscalculiaTitle: "Dyscalculia",
+    dyscalculiaIntro:
+      "The basis here is the What Works Clearinghouse practice guide, which grades each recommendation by strength of evidence. Much of what circulates about dyscalculia comes from commercial sites selling a method — none of that made it in.",
+    physicalDisability: "Physical Disability",
+    physicalDesc: "Classroom accessibility, positioning, alternative communication and real participation.",
+    physicalTitle: "Physical and Motor Disability",
+    physicalIntro:
+      "Almost no barrier here belongs to the student: it belongs to the environment, the materials and the time allowed. The intervention happens in the classroom, not in the child — and someone who does not speak is not someone with nothing to say.",
+    mentalHealth: "Mental Health",
+    mentalHealthDesc: "Recognise signs, adjust the classroom environment and refer — with clear limits.",
+    mentalHealthTitle: "Mental Health at School",
+    mentalHealthIntro:
+      "Nothing here is diagnosis or treatment. The teacher's role is to recognise signs, adjust the environment and refer to the network — what falls outside that role is stated explicitly in each strategy.",
+    intellectualDisability: "Intellectual Disability",
+    intellectualDesc: "Systematic, explicit instruction with planned support and gradual fading.",
+    intellectualTitle: "Intellectual Disability",
+    intellectualIntro:
+      "Most evidence-based interventions in this field fall under one principle: systematic instruction. Teach in planned steps, with predictable support, and decide from data — not from impressions.",
+    dyslexia: "Dyslexia",
+    dyslexiaDesc: "Structured Literacy: explicit, systematic and cumulative teaching of language structure.",
+    dyslexiaTitle: "Dyslexia",
+    dyslexiaIntro:
+      "The best-supported approach is Structured Literacy — and the literature indicates it works better for all readers, not only those with dyslexia. It is not an adaptation for one student: it is an improvement for the class.",
+    giftedness: "Giftedness",
+    giftednessDesc: "Curriculum compacting, acceleration and enrichment built on the student's interests.",
+    giftednessTitle: "Giftedness / High Ability",
+    giftednessIntro:
+      "Legally part of the Special Education target group in Brazil. Without compacting and enrichment, the student spends the year repeating what they already know — and a low grade does not rule out high ability: sometimes it is a symptom.",
+    howToAssess: "How to assess progress",
+    downloadActivity: "Download script (.txt)",
+    authorshipAdapted:
+      "Written by AtypicalClass as a classroom application of the practice cited below. The source backs the practice, not this specific script.",
+    openMaterial: "Open material",
+    publishedBy: "Published by",
+    evidenceEstablished: "Evidence-based practice",
+    evidenceEmerging: "Emerging evidence",
+    evidenceInsufficient: "Insufficient evidence",
+    // Home
+    heroHeadline: "Teaching everyone, without improvising",
+    whyTitle: "Why AtypicalClass",
+    insideSpecialty: "What you find in every specialty",
+    insideSpecialtyDesc: "Every specialty follows the same structure, so you always know where to look.",
+    insideStrategiesDesc: "Methods with a cited source, difficulty level and estimated effectiveness.",
+    insideActivitiesDesc: "Ready-made exercises with age range, duration, materials and objectives.",
+    insideCoursesDesc: "Free and paid training, with workload and certification.",
+    insideMaterialsDesc: "Guides and kits to download, available in Portuguese, English and Spanish.",
+
+    statQuestions: "Adapted questions",
+    statContents: "Pedagogical content",
+    statSpecialties: "Specialties",
+    statLanguages: "Languages",
+
+    faqTitle: "Frequently asked questions",
+    faq1Q: "Do I have to pay to use the platform?",
+    faq1A:
+      "No. Browsing questions, content and materials is free and requires no account. You only need one to publish in the contribution area.",
+    faq2Q: "Who can create an account?",
+    faq2A: "Teachers and education professionals. After signing up you must confirm your email before the first login.",
+    faq3Q: "Where do the strategies come from?",
+    faq3A:
+      "Every strategy shows the source that backs it right on the card, so you can check the original reference.",
+    faq4Q: "Can I use the materials in my school?",
+    faq4A:
+      "Yes. Materials are free to download and made for classroom use, available in Portuguese, English and Spanish.",
+
+    footerDescription:
+      "Resources and strategies for teachers working with atypical students, gathered in one place.",
+    footerNote: "Built for teachers, by people who believe in inclusive education.",
+
+    // Navigation and home
+    specialties: "Specialties",
+    accessNow: "Open",
+    lightTheme: "Light theme",
+    darkTheme: "Dark theme",
+
+    // Contribution area and specialty sections
+    title: "Title",
+    message: "Message",
+    tip: "Tip",
+    question: "Question",
+    select: "Select",
+    add: "Add",
+    alt: "Opt",
+    alternative: "Option",
+    alternatives: "Options",
+    correctAnswer: "Correct answer",
+    description: "Description",
+    enunciation: "Question text",
+    writeEnunciation: "Write the question text",
+    explainAnswer: "Explain why this is the correct answer",
+    questionTitle: "E.g.: Addition with base ten blocks",
+    tipTitle: "E.g.: Visual routine for transitions",
+    tipDescription: "Sum up the tip in one sentence",
+    messageTitle: "What would you like to talk about?",
+    shareIdeas: "Share ideas, questions or experiences with the community",
+    sharePedagogicalTip: "Describe the strategy and how to apply it in class",
+    loadingPosts: "Loading posts...",
+    noPosts: "No posts yet. Be the first to share!",
+    authenticating: "Authenticating...",
+    downloadFree: "Free download",
+    efficacious: "effective",
+    effective: "effective",
+    highlight: "Featured",
     answer: "Answer",
     previous: "Previous",
     next: "Next",
@@ -1997,7 +2244,6 @@ export const translations = {
         priceFree: "Free",
         level: "Intermediate",
         levelBasic: "Basic",
-        url: "https://example.com/curso",
       },
       cursosEspecial: {
         title: "Specialized Course in Down Syndrome",
@@ -2005,7 +2251,6 @@ export const translations = {
         duration: "60 hours",
         price: "$399.00",
         level: "Advanced",
-        url: "https://example.com/curso-especial",
       },
       inclusaoCrianca: {
         title: "Inclusion of Child with Down Syndrome",
@@ -2013,7 +2258,6 @@ export const translations = {
         duration: "30 hours",
         price: "$199.00",
         level: "Basic",
-        url: "https://example.com/inclusao",
       },
     },
 
@@ -2644,6 +2888,131 @@ export const translations = {
     noQuestionsFound: "No se encontraron preguntas con los filtros seleccionados.",
     noContentFound: "No se encontró contenido con los filtros seleccionados.",
     loadError: "No se pudieron cargar los datos. Verifique su conexión y recargue la página.",
+
+    // Evidencia y materiales
+    sources: "Fuentes",
+    // Áreas nuevas
+    deafblindness: "Sordoceguera",
+    deafblindnessDesc: "Rutina previsible, símbolos tangibles y mediación por el tacto.",
+    deafblindnessTitle: "Sordoceguera y Discapacidad Múltiple",
+    deafblindnessIntro:
+      "La sordoceguera no es sordera sumada a ceguera: es una condición propia, porque cada sentido suele compensar al otro. Con ambos comprometidos, el acceso a la información debe construirse deliberadamente — por el tacto y la rutina.",
+    languageDisorder: "Trastorno del Lenguaje",
+    languageDisorderDesc: "Tiempo de procesamiento, vocabulario explícito y comprensión lectora.",
+    languageDisorderTitle: "Trastorno del Desarrollo del Lenguaje",
+    languageDisorderIntro:
+      "Afecta a cerca de 1 de cada 14 alumnos — más que el autismo y la dislexia — y casi nunca se identifica. El niño suele ser leído como desatento o desinteresado, cuando en realidad no tuvo tiempo de procesar lo dicho.",
+    dysgraphia: "Disgrafía",
+    dysgraphiaDesc: "Fluidez en el trazo, separar escribir de componer y evaluar contenido, no letra.",
+    dysgraphiaTitle: "Disgrafía",
+    dysgraphiaIntro:
+      "Mientras formar la letra consume atención, no queda nada para qué escribir. Automatizar el trazo es la primera recomendación de la guía de escritura del What Works Clearinghouse — y separar el gesto de la composición es lo que devuelve el texto al alumno.",
+    dyscalculia: "Discalculia",
+    dyscalculiaDesc: "Instrucción explícita, secuencia concreto-abstracto y construcción del sentido numérico.",
+    dyscalculiaTitle: "Discalculia",
+    dyscalculiaIntro:
+      "La base aquí es la guía práctica del What Works Clearinghouse, que gradúa cada recomendación por la fuerza de la evidencia. Mucho de lo que circula sobre discalculia viene de sitios comerciales vendiendo método — nada de eso entró.",
+    physicalDisability: "Discapacidad Física",
+    physicalDesc: "Accesibilidad del aula, posicionamiento, comunicación alternativa y participación real.",
+    physicalTitle: "Discapacidad Física y Motora",
+    physicalIntro:
+      "Casi ninguna barrera aquí es del alumno: es del ambiente, del material y del tiempo. La intervención ocurre en el aula, no en el niño — y quien no habla no es quien no tiene qué decir.",
+    mentalHealth: "Salud Mental",
+    mentalHealthDesc: "Reconocer señales, ajustar el ambiente del aula y derivar — con límites claros.",
+    mentalHealthTitle: "Salud Mental en la Escuela",
+    mentalHealthIntro:
+      "Nada aquí es diagnóstico ni tratamiento. El papel del docente es reconocer señales, ajustar el ambiente y derivar a la red — lo que no le corresponde está dicho de forma explícita en cada estrategia.",
+    intellectualDisability: "Discapacidad Intelectual",
+    intellectualDesc: "Instrucción sistemática y explícita, con apoyo planificado y retirada gradual.",
+    intellectualTitle: "Discapacidad Intelectual",
+    intellectualIntro:
+      "La mayoría de las intervenciones con evidencia en esta área cae bajo un mismo principio: instrucción sistemática. Enseñar en pasos planificados, con apoyo previsible, y decidir por el dato — no por la impresión.",
+    dyslexia: "Dislexia",
+    dyslexiaDesc: "Structured Literacy: enseñanza explícita, sistemática y acumulativa de la estructura de la lengua.",
+    dyslexiaTitle: "Dislexia",
+    dyslexiaIntro:
+      "El enfoque con mejor respaldo es el Structured Literacy — y la literatura indica que funciona mejor para todos los lectores, no solo para quien tiene dislexia. No es adaptación para un alumno: es mejora para el grupo.",
+    giftedness: "Altas Capacidades",
+    giftednessDesc: "Compactación curricular, aceleración y enriquecimiento a partir del interés del alumno.",
+    giftednessTitle: "Altas Capacidades / Superdotación",
+    giftednessIntro:
+      "Integra legalmente el público objetivo de la Educación Especial en Brasil. Sin compactación y enriquecimiento, el alumno pasa el año repitiendo lo que ya sabe — y una nota baja no descarta alta capacidad: a veces es síntoma.",
+    howToAssess: "Cómo evaluar el progreso",
+    downloadActivity: "Descargar guion (.txt)",
+    authorshipAdapted:
+      "Guion elaborado por AtypicalClass como aplicación en aula de la práctica citada abajo. La fuente respalda la práctica, no este guion específico.",
+    openMaterial: "Abrir material",
+    publishedBy: "Publicado por",
+    evidenceEstablished: "Práctica con evidencia",
+    evidenceEmerging: "Evidencia emergente",
+    evidenceInsufficient: "Evidencia insuficiente",
+    // Inicio
+    heroHeadline: "Enseñar a todos, sin improvisar",
+    whyTitle: "Por qué AtypicalClass",
+    insideSpecialty: "Qué encuentra en cada especialidad",
+    insideSpecialtyDesc: "Todas las especialidades siguen la misma estructura, para que sepa dónde buscar.",
+    insideStrategiesDesc: "Métodos con fuente científica, nivel de dificultad y eficacia estimada.",
+    insideActivitiesDesc: "Ejercicios listos, con edad, duración, materiales y objetivos.",
+    insideCoursesDesc: "Formaciones gratuitas y de pago, con carga horaria y certificación.",
+    insideMaterialsDesc: "Guías y kits para descargar, disponibles en portugués, inglés y español.",
+
+    statQuestions: "Preguntas adaptadas",
+    statContents: "Contenidos pedagógicos",
+    statSpecialties: "Especialidades",
+    statLanguages: "Idiomas",
+
+    faqTitle: "Preguntas frecuentes",
+    faq1Q: "¿Hay que pagar para usar la plataforma?",
+    faq1A:
+      "No. Consultar preguntas, contenidos y materiales es gratuito y no requiere registro. La cuenta solo hace falta para publicar en el área de contribución.",
+    faq2Q: "¿Quién puede crear una cuenta?",
+    faq2A:
+      "Docentes y profesionales de la educación. Tras el registro es necesario confirmar el correo antes del primer acceso.",
+    faq3Q: "¿De dónde vienen las estrategias?",
+    faq3A:
+      "Cada estrategia indica la fuente que la respalda en la propia tarjeta, para que pueda consultar la referencia original.",
+    faq4Q: "¿Puedo usar los materiales en mi escuela?",
+    faq4A:
+      "Sí. Los materiales son de descarga gratuita y están pensados para el aula, disponibles en portugués, inglés y español.",
+
+    footerDescription:
+      "Recursos y estrategias para docentes que trabajan con alumnos atípicos, reunidos en un solo lugar.",
+    footerNote: "Hecho para docentes, por quienes creen en la educación inclusiva.",
+
+    // Navegación e inicio
+    specialties: "Especialidades",
+    accessNow: "Acceder",
+    lightTheme: "Tema claro",
+    darkTheme: "Tema oscuro",
+
+    // Área de contribución y secciones de especialidad
+    title: "Título",
+    message: "Mensaje",
+    tip: "Consejo",
+    question: "Pregunta",
+    select: "Seleccione",
+    add: "Añadir",
+    alt: "Alt",
+    alternative: "Alternativa",
+    alternatives: "Alternativas",
+    correctAnswer: "Respuesta correcta",
+    description: "Descripción",
+    enunciation: "Enunciado",
+    writeEnunciation: "Escriba el enunciado de la pregunta",
+    explainAnswer: "Explique por qué esta es la respuesta correcta",
+    questionTitle: "Ej.: Suma con material multibase",
+    tipTitle: "Ej.: Rutina visual para transiciones",
+    tipDescription: "Resuma el consejo en una frase",
+    messageTitle: "¿De qué quiere hablar?",
+    shareIdeas: "Comparta ideas, dudas o experiencias con la comunidad",
+    sharePedagogicalTip: "Describa la estrategia y cómo aplicarla en clase",
+    loadingPosts: "Cargando publicaciones...",
+    noPosts: "Aún no hay publicaciones. ¡Sea el primero en compartir!",
+    authenticating: "Autenticando...",
+    downloadFree: "Descarga gratuita",
+    efficacious: "de eficacia",
+    effective: "de eficacia",
+    highlight: "Destacado",
     answer: "Responder",
     previous: "Anterior",
     next: "Siguiente",
@@ -3290,7 +3659,6 @@ export const translations = {
         priceFree: "Gratuito",
         level: "Intermedio",
         levelBasic: "Básico",
-        url: "https://example.com/curso",
       },
       cursosEspecial: {
         title: "Curso Especializado en Síndrome de Down",
@@ -3298,7 +3666,6 @@ export const translations = {
         duration: "60 horas",
         price: "$399,00",
         level: "Avanzado",
-        url: "https://example.com/curso-especial",
       },
       inclusaoCrianca: {
         title: "Inclusión del Niño con Síndrome de Down",
@@ -3306,7 +3673,6 @@ export const translations = {
         duration: "30 horas",
         price: "$199,00",
         level: "Básico",
-        url: "https://example.com/inclusao",
       },
     },
 

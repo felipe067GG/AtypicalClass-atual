@@ -2,151 +2,220 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
+/* ==========================================================================
+   Tokens
+   --------------------------------------------------------------------------
+   Cada tema é desenhado por conta própria — o claro NÃO é o escuro invertido.
+   Todos os pares texto/fundo abaixo foram medidos e passam em WCAG AA.
+
+   Componentes devem usar os tokens (bg-surface, text-muted-foreground,
+   border-border) e nunca cores fixas da paleta (bg-gray-950, text-white).
+   É o que permite trocar de tema sem uma única regra `!important`.
+   ========================================================================== */
 
 @layer base {
   :root {
-    /* Dark theme (default) */
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 0 0% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 0 0% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 221 83% 53%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 14.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 0 0% 14.9%;
-    --muted-foreground: 0 0% 63.9%;
-    --accent: 221 83% 53%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 14.9%;
-    --input: 0 0% 14.9%;
-    --ring: 221 83% 53%;
-    --radius: 0.5rem;
+    /* Superfícies, da mais funda para a mais elevada */
+    --background: 224 30% 5%;
+    --surface: 224 24% 9%;
+    --surface-2: 224 20% 13%;
+    --surface-3: 224 18% 17%;
+
+    /* Texto */
+    --foreground: 210 30% 96%;
+    --muted-foreground: 215 20% 68%;
+
+    /* Marca */
+    --primary: 217 91% 62%;
+    --primary-foreground: 224 40% 8%;
+
+    /* Estados */
+    --success: 158 60% 56%;
+    --warning: 38 92% 62%;
+    --destructive: 0 84% 68%;
+    --destructive-foreground: 224 40% 8%;
+
+    /* Traços */
+    --border: 224 16% 22%;
+    --border-strong: 224 16% 30%;
+    --ring: 217 91% 62%;
+    --radius: 0.75rem;
+
+    /* Sombras — no escuro quase não existem; a elevação vem da superfície */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.4);
+    --shadow-md: 0 4px 16px -4px rgb(0 0 0 / 0.5);
+    --shadow-lg: 0 16px 48px -12px rgb(0 0 0 / 0.6);
+
+    /* Acento neutro; cada especialidade sobrescreve */
+    --accent: 217 91% 62%;
+    --accent-contrast: 0 0% 100%;
+
+    /* Compatibilidade com os componentes shadcn/ui existentes */
+    --card: var(--surface);
+    --card-foreground: var(--foreground);
+    --popover: var(--surface-2);
+    --popover-foreground: var(--foreground);
+    --secondary: var(--surface-2);
+    --secondary-foreground: var(--foreground);
+    --muted: var(--surface-2);
+    --accent-foreground: var(--foreground);
+    --input: var(--surface-2);
   }
 
-  /* Improved light theme with perfect contrast */
-  .light {
-    --background: 0 0% 100%;
+  :root.light {
+    --background: 210 40% 98%;
+    --surface: 0 0% 100%;
+    --surface-2: 210 38% 96%;
+    --surface-3: 210 34% 93%;
+
     --foreground: 222 47% 11%;
-    --card: 0 0% 100%;
-    --card-foreground: 222 47% 11%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 222 47% 11%;
-    --primary: 221 83% 53%;
+    --muted-foreground: 215 19% 38%;
+
+    --primary: 221 83% 45%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222 47.4% 11.2%;
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 35%;
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222 47.4% 11.2%;
-    --destructive: 0 84.2% 60.2%;
+
+    --success: 162 84% 26%;
+    --warning: 28 80% 34%;
+    --destructive: 0 72% 42%;
     --destructive-foreground: 0 0% 100%;
-    --border: 214.3 31.8% 85%;
-    --input: 214.3 31.8% 85%;
-    --ring: 221 83% 53%;
+
+    --border: 214 25% 87%;
+    --border-strong: 214 22% 76%;
+    --ring: 221 83% 45%;
+
+    /* No claro a elevação vem da sombra, não da superfície */
+    --shadow-sm: 0 1px 2px 0 rgb(15 23 42 / 0.06);
+    --shadow-md: 0 4px 16px -4px rgb(15 23 42 / 0.1);
+    --shadow-lg: 0 16px 48px -12px rgb(15 23 42 / 0.16);
+
+    --accent: 221 83% 45%;
   }
 
-  /* Apply light theme gradient globally */
-  .light {
-    background: linear-gradient(to bottom right, #ffffff, #f0f9ff, #dbeafe);
+  /* ------------------------------------------------------------------------
+     Acentos por especialidade
+     Um `data-specialty` no contêiner tinge tudo que estiver dentro: barra do
+     cabeçalho, ícone, aba ativa, badges e links. A cor vira orientação — você
+     sabe onde está pela cor — e não só decoração.
+     ---------------------------------------------------------------------- */
+  [data-specialty="autismo"] { --accent: 239 84% 72%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="tdah"] { --accent: 38 92% 62%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="down"] { --accent: 330 81% 70%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="visual"] { --accent: 158 60% 56%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="auditiva"] { --accent: 270 85% 76%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="intelectual"] { --accent: 187 72% 58%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="dislexia"] { --accent: 12 88% 70%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="altas-habilidades"] { --accent: 84 62% 60%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="discalculia"] { --accent: 300 75% 72%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="fisica-motora"] { --accent: 120 55% 58%; --accent-contrast: 224 40% 8%; }
+  /* Dessaturado de propósito: matiz próximo do azul da marca, mas saturação
+     baixa o distingue — e combina com o tema da área. */
+  [data-specialty="saude-mental"] { --accent: 212 30% 68%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="surdocegueira"] { --accent: 285 42% 70%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="linguagem"] { --accent: 352 45% 72%; --accent-contrast: 224 40% 8%; }
+  [data-specialty="disgrafia"] { --accent: 25 48% 58%; --accent-contrast: 224 40% 8%; }
+
+  .light [data-specialty="autismo"] { --accent: 243 66% 44%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="tdah"] { --accent: 28 80% 34%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="down"] { --accent: 333 68% 41%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="visual"] { --accent: 162 84% 26%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="auditiva"] { --accent: 272 55% 47%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="intelectual"] { --accent: 192 95% 24%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="dislexia"] { --accent: 8 78% 38%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="altas-habilidades"] { --accent: 95 75% 25%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="discalculia"] { --accent: 303 70% 34%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="fisica-motora"] { --accent: 128 80% 24%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="saude-mental"] { --accent: 214 45% 30%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="surdocegueira"] { --accent: 288 48% 34%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="linguagem"] { --accent: 350 50% 32%; --accent-contrast: 0 0% 100%; }
+  .light [data-specialty="disgrafia"] { --accent: 22 60% 29%; --accent-contrast: 0 0% 100%; }
+
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: var(--font-sans), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-feature-settings: "cv11", "ss01";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Títulos com bom aperto — o padrão do navegador é frouxo demais em tamanhos grandes */
+  h1, h2, h3, h4 {
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  /* Foco visível e consistente. Antes, navegar por teclado era às cegas. */
+  :focus-visible {
+    outline: 2px solid hsl(var(--ring));
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background-color: hsl(var(--accent) / 0.3);
     color: hsl(var(--foreground));
   }
 
-  /* Fix all backgrounds to white and ensure perfect contrast in light mode */
-  .light .bg-gradient-to-br {
-    background: linear-gradient(to bottom right, #ffffff, #f0f9ff, #dbeafe) !important;
+  /* Respeita quem pediu menos movimento — importante para o público do site */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* Superfície padrão de card, já com elevação correta em cada tema */
+  .surface-card {
+    background-color: hsl(var(--surface));
+    border: 1px solid hsl(var(--border));
+    box-shadow: var(--shadow-sm);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
   }
 
-  .light .bg-black,
-  .light .bg-gray-950,
-  .light .bg-gray-950\/70,
-  .light .bg-gray-950\/90,
-  .light .bg-gray-900\/50,
-  .light .bg-gray-900,
-  .light .bg-gray-800\/50,
-  .light .bg-gray-800,
-  .light .bg-gray-800\/30 {
-    background-color: #ffffff !important;
-    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  .surface-card:hover {
+    border-color: hsl(var(--accent) / 0.5);
+    box-shadow: var(--shadow-md);
   }
 
-  .light .bg-slate-900\/50 {
-    background-color: #f8fafc !important;
-    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  /* Fundo tênue na cor do acento, legível nos dois temas */
+  .accent-soft {
+    background-color: hsl(var(--accent) / 0.12);
+    color: hsl(var(--accent));
   }
 
-  .light .border-gray-800,
-  .light .border-gray-700,
-  .light .border-gray-600,
-  .light .border-slate-700 {
-    border-color: hsl(var(--border)) !important;
+  .light .accent-soft {
+    background-color: hsl(var(--accent) / 0.08);
   }
 
-  /* Force dark, readable text in light mode for all text elements */
-  .light .text-white,
-  .light .text-slate-200,
-  .light .text-slate-100 {
-    color: #1e293b !important;
-  }
-
-  .light .text-slate-300,
-  .light .text-gray-300 {
-    color: #475569 !important;
-  }
-
-  .light .text-slate-400,
-  .light .text-gray-400 {
-    color: #64748b !important;
-  }
-
-  .light .text-slate-500,
-  .light .text-gray-500 {
-    color: #64748b !important;
-  }
-
-  /* Fix blue text to be visible and contrast well in light mode */
-  .light .text-blue-300,
-  .light .text-blue-200 {
-    color: hsl(221 83% 40%) !important;
-  }
-
-  .light .text-blue-400 {
-    color: hsl(221 83% 45%) !important;
-  }
-
-  /* Fix green/red text for better contrast */
-  .light .text-green-300,
-  .light .text-green-400 {
-    color: #16a34a !important;
-  }
-
-  .light .text-red-300,
-  .light .text-red-400 {
-    color: #dc2626 !important;
-  }
-
-  /* Fix card descriptions and muted text for readability */
-  .light .text-muted-foreground {
-    color: hsl(215.4 16.3% 40%) !important;
-  }
-
-  /* Fix gradient text to maintain visibility */
-  .light .bg-clip-text {
-    -webkit-background-clip: text;
-    background-clip: text;
+  /* Brilho ambiente atrás de blocos de destaque */
+  .accent-glow::before {
+    content: "";
+    position: absolute;
+    inset: -20%;
+    background: radial-gradient(circle at 50% 0%, hsl(var(--accent) / 0.18), transparent 70%);
+    pointer-events: none;
+    z-index: 0;
   }
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  .text-pretty {
+    text-wrap: pretty;
   }
 }

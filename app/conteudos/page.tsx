@@ -88,12 +88,12 @@ export default function ConteudosPage() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white">
+      <div className="min-h-screen bg-background text-foreground">
         <Header />
         <div className="flex items-center justify-center min-h-[60vh]">
           <div className="text-center">
-            <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-            <p className="text-slate-300">{t("loadingContent")}</p>
+            <div className="w-16 h-16 border-4 border-brand border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+            <p className="text-muted-foreground">{t("loadingContent")}</p>
           </div>
         </div>
       </div>
@@ -101,7 +101,7 @@ export default function ConteudosPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white">
+    <div className="min-h-screen bg-background text-foreground">
       <Header />
 
       <main className="container mx-auto px-4 py-8">
@@ -112,14 +112,14 @@ export default function ConteudosPage() {
           transition={{ duration: 0.6 }}
           className="text-center mb-12"
         >
-          <div className="inline-flex items-center bg-gradient-to-r from-blue-600/20 to-blue-800/20 border border-blue-500/30 rounded-full px-6 py-2 mb-4">
-            <BookOpen className="w-5 h-5 mr-2 text-blue-400" />
-            <span className="text-blue-300">{t("contentLibrary")}</span>
+          <div className="inline-flex items-center accent-soft rounded-full px-6 py-2 mb-4">
+            <BookOpen className="w-5 h-5 mr-2 text-brand" />
+            <span className="text-brand">{t("contentLibrary")}</span>
           </div>
-          <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
+          <h1 className="text-5xl font-bold mb-4">
             {t("educationalContent")}
           </h1>
-          <p className="text-xl text-slate-300 max-w-3xl mx-auto">{t("contentDesc")}</p>
+          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">{t("contentDesc")}</p>
         </motion.div>
 
         {/* Search and Filters */}
@@ -130,13 +130,13 @@ export default function ConteudosPage() {
           className="mb-8 space-y-4"
         >
           <div className="relative">
-            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-5 h-5" />
             <Input
               type="text"
               placeholder={t("searchContent")}
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 bg-gray-900/50 border-gray-700 text-white placeholder:text-gray-400"
+              className="pl-10 bg-surface border-border text-foreground placeholder:text-muted-foreground"
             />
           </div>
 
@@ -148,8 +148,8 @@ export default function ConteudosPage() {
                 onClick={() => setSelectedSubject(subject)}
                 className={
                   selectedSubject === subject
-                    ? "bg-blue-600 hover:bg-blue-700"
-                    : "border-gray-600 text-gray-300 hover:bg-gray-800"
+                    ? "bg-primary hover:bg-primary/90"
+                    : "border-border text-muted-foreground hover:bg-surface-2"
                 }
               >
                 {subject === "all" ? `📚 ${t("all")}` : `${SUBJECT_ICONS[subject] ?? "📘"} ${subject}`}
@@ -159,10 +159,10 @@ export default function ConteudosPage() {
         </motion.div>
 
         {loadError && (
-          <Card className="bg-red-950/30 border-red-500/40 mb-8">
+          <Card className="bg-destructive/10 border-destructive/40 mb-8">
             <CardContent className="py-6 flex items-center gap-3">
-              <AlertCircle className="w-5 h-5 text-red-400 shrink-0" />
-              <p className="text-red-200">{t("loadError")}</p>
+              <AlertCircle className="w-5 h-5 text-destructive shrink-0" />
+              <p className="text-destructive">{t("loadError")}</p>
             </CardContent>
           </Card>
         )}
@@ -174,8 +174,8 @@ export default function ConteudosPage() {
           transition={{ delay: 0.4, duration: 0.6 }}
           className="mb-4"
         >
-          <p className="text-gray-400">
-            {t("showing")} <span className="text-blue-400 font-semibold">{filteredContents.length}</span>{" "}
+          <p className="text-muted-foreground">
+            {t("showing")} <span className="text-brand font-semibold">{filteredContents.length}</span>{" "}
             {t("contents")}
           </p>
         </motion.div>
@@ -188,38 +188,38 @@ export default function ConteudosPage() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.3 }}
           >
-            <Card className="bg-gray-950/70 border-gray-800">
+            <Card className="bg-surface border-border">
               <CardHeader>
                 <div className="flex items-start justify-between mb-4">
                   <div className="flex-1">
-                    <CardTitle className="text-3xl text-white mb-2">{selectedContent.title}</CardTitle>
-                    <CardDescription className="text-slate-400 text-lg">{selectedContent.description}</CardDescription>
+                    <CardTitle className="text-3xl text-foreground mb-2">{selectedContent.title}</CardTitle>
+                    <CardDescription className="text-muted-foreground text-lg">{selectedContent.description}</CardDescription>
                   </div>
-                  <Button variant="ghost" onClick={() => setSelectedContent(null)} className="text-slate-400">
+                  <Button variant="ghost" onClick={() => setSelectedContent(null)} className="text-muted-foreground">
                     ✕
                   </Button>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                  <Badge className="bg-blue-600">{selectedContent.subject}</Badge>
-                  <Badge className="bg-purple-600">{selectedContent.specialty}</Badge>
-                  <Badge className="bg-green-600">{selectedContent.content_type}</Badge>
+                  <Badge className="bg-primary">{selectedContent.subject}</Badge>
+                  <Badge className="bg-brand">{selectedContent.specialty}</Badge>
+                  <Badge className="bg-success">{selectedContent.content_type}</Badge>
                   {selectedContent.tags.map((tag, idx) => (
-                    <Badge key={idx} variant="outline" className="border-gray-600 text-gray-300">
+                    <Badge key={idx} variant="outline" className="border-border text-muted-foreground">
                       {tag}
                     </Badge>
                   ))}
                 </div>
               </CardHeader>
               <CardContent className="space-y-6">
-                <div className="bg-gray-800/50 p-6 rounded-lg">
+                <div className="bg-surface-2 p-6 rounded-lg">
                   <div className="prose prose-invert max-w-none">
-                    <div className="text-white leading-relaxed whitespace-pre-wrap">
+                    <div className="text-foreground leading-relaxed whitespace-pre-wrap">
                       {localizedField(selectedContent, "content_text", language)}
                     </div>
                   </div>
                 </div>
 
-                <div className="flex justify-between pt-4 border-t border-gray-700">
+                <div className="flex justify-between pt-4 border-t border-border">
                   <Button
                     onClick={() => {
                       const currentIndex = filteredContents.findIndex((c) => c.id === selectedContent.id)
@@ -229,7 +229,7 @@ export default function ConteudosPage() {
                     }}
                     disabled={filteredContents.findIndex((c) => c.id === selectedContent.id) === 0}
                     variant="outline"
-                    className="border-gray-700"
+                    className="border-border"
                   >
                     ← {t("previous")}
                   </Button>
@@ -243,7 +243,7 @@ export default function ConteudosPage() {
                     disabled={
                       filteredContents.findIndex((c) => c.id === selectedContent.id) === filteredContents.length - 1
                     }
-                    className="bg-blue-600 hover:bg-blue-700"
+                    className="bg-primary hover:bg-primary/90"
                   >
                     {t("next")} →
                   </Button>
@@ -264,35 +264,35 @@ export default function ConteudosPage() {
                   whileHover={{ scale: 1.03 }}
                 >
                   <Card
-                    className="bg-gray-950/70 border-gray-800 hover:border-blue-500/50 transition-all cursor-pointer h-full"
+                    className="bg-surface border-border hover:border-brand/50 transition-all cursor-pointer h-full"
                     onClick={() => setSelectedContent(content)}
                   >
                     <CardHeader>
                       <div className="flex gap-2 flex-wrap mb-3">
-                        <Badge className="bg-blue-600 hover:bg-blue-700">
+                        <Badge className="bg-primary hover:bg-primary/90">
                           {SUBJECT_ICONS[content.subject] ?? "📘"} {content.subject}
                         </Badge>
-                        <Badge className="bg-purple-600">{content.specialty}</Badge>
+                        <Badge className="bg-brand">{content.specialty}</Badge>
                       </div>
-                      <CardTitle className="text-white text-xl line-clamp-2">{content.title}</CardTitle>
-                      <CardDescription className="text-gray-300 text-sm mt-2 line-clamp-3">
+                      <CardTitle className="text-foreground text-xl line-clamp-2">{content.title}</CardTitle>
+                      <CardDescription className="text-muted-foreground text-sm mt-2 line-clamp-3">
                         {content.description}
                       </CardDescription>
                     </CardHeader>
                     <CardContent>
                       <div className="flex flex-wrap gap-1 mb-4">
                         {content.tags.slice(0, 3).map((tag, idx) => (
-                          <Badge key={idx} variant="outline" className="border-gray-600 text-gray-400 text-xs">
+                          <Badge key={idx} variant="outline" className="border-border text-muted-foreground text-xs">
                             {tag}
                           </Badge>
                         ))}
                         {content.tags.length > 3 && (
-                          <Badge variant="outline" className="border-gray-600 text-gray-400 text-xs">
+                          <Badge variant="outline" className="border-border text-muted-foreground text-xs">
                             +{content.tags.length - 3}
                           </Badge>
                         )}
                       </div>
-                      <Button className="w-full bg-blue-600 hover:bg-blue-700">
+                      <Button className="w-full bg-primary hover:bg-primary/90">
                         <FileText className="w-4 h-4 mr-2" />
                         {t("readContent")}
                       </Button>
@@ -306,9 +306,9 @@ export default function ConteudosPage() {
 
         {filteredContents.length === 0 && !loading && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="text-center py-12">
-            <Card className="bg-gray-900/50 border-gray-800">
+            <Card className="bg-surface border-border">
               <CardContent className="py-12">
-                <p className="text-gray-400 text-lg">{t("noContentFound")}</p>
+                <p className="text-muted-foreground text-lg">{t("noContentFound")}</p>
               </CardContent>
             </Card>
           </motion.div>

@@ -91,7 +91,7 @@ export function RavenaChat() {
               onClick={() => setIsOpen(true)}
               size="lg"
               aria-label="Abrir chat com a Ravena"
-              className="h-16 w-16 rounded-full bg-gradient-to-br from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 shadow-lg hover:shadow-xl transition-all"
+              className="h-16 w-16 rounded-full bg-primary hover:bg-primary/90 shadow-lg hover:shadow-xl transition-all"
             >
               <MessageCircle className="h-6 w-6" />
             </Button>
@@ -110,7 +110,7 @@ export function RavenaChat() {
           >
             <Card className="flex flex-col h-[600px] max-h-[80vh] shadow-2xl border-2">
               {/* Header */}
-              <div className="flex items-center justify-between p-4 border-b bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-t-lg">
+              <div className="flex items-center justify-between p-4 border-b bg-primary text-primary-foreground rounded-t-lg">
                 <div className="flex items-center gap-2">
                   <Sparkles className="h-5 w-5" />
                   <div>
@@ -123,18 +123,18 @@ export function RavenaChat() {
                   size="icon"
                   onClick={() => setIsOpen(false)}
                   aria-label="Fechar chat"
-                  className="text-white hover:bg-white/20"
+                  className="text-primary-foreground hover:bg-black/10"
                 >
                   <X className="h-5 w-5" />
                 </Button>
               </div>
 
               {/* Messages */}
-              <ScrollArea className="flex-1 p-4 bg-gray-50 dark:bg-gray-900">
+              <ScrollArea className="flex-1 p-4 bg-surface-2">
                 {messages.length === 0 && (
                   <div className="space-y-4">
-                    <div className="bg-white dark:bg-gray-800 p-4 rounded-lg border-2 border-blue-200 dark:border-blue-800 shadow-sm">
-                      <p className="text-sm font-semibold text-gray-900 dark:text-gray-100 mb-3">
+                    <div className="bg-surface p-4 rounded-lg border-2 border-border shadow-sm">
+                      <p className="text-sm font-semibold text-foreground mb-3">
                         {t("assistantWelcome")}
                       </p>
                       <div className="space-y-2">
@@ -143,7 +143,7 @@ export function RavenaChat() {
                             key={idx}
                             onClick={() => handleSend(question)}
                             disabled={isBusy}
-                            className="w-full text-left text-sm p-3 rounded-lg bg-blue-50 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-blue-900/70 transition-colors font-medium text-gray-800 dark:text-gray-100 border border-blue-100 dark:border-gray-600 disabled:opacity-50"
+                            className="w-full text-left text-sm p-3 rounded-lg bg-surface-2 hover:bg-surface-3 transition-colors font-medium text-foreground border border-border disabled:opacity-50"
                           >
                             {question}
                           </button>
@@ -161,8 +161,8 @@ export function RavenaChat() {
                     <div
                       className={`max-w-[80%] rounded-lg p-3 shadow-sm ${
                         message.role === "user"
-                          ? "bg-blue-600 text-white"
-                          : "bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 border border-gray-200 dark:border-gray-700"
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-surface text-foreground border border-border"
                       }`}
                     >
                       <p className="text-sm whitespace-pre-wrap">{messageText(message)}</p>
@@ -172,11 +172,11 @@ export function RavenaChat() {
 
                 {status === "submitted" && (
                   <div className="flex justify-start mb-4">
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg p-3">
+                    <div className="bg-surface-2 rounded-lg p-3">
                       <div className="flex gap-1">
-                        <span className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" />
-                        <span className="w-2 h-2 bg-gray-400 rounded-full animate-bounce [animation-delay:0.2s]" />
-                        <span className="w-2 h-2 bg-gray-400 rounded-full animate-bounce [animation-delay:0.4s]" />
+                        <span className="w-2 h-2 bg-muted-foreground rounded-full animate-bounce" />
+                        <span className="w-2 h-2 bg-muted-foreground rounded-full animate-bounce [animation-delay:0.2s]" />
+                        <span className="w-2 h-2 bg-muted-foreground rounded-full animate-bounce [animation-delay:0.4s]" />
                       </div>
                     </div>
                   </div>
@@ -184,8 +184,8 @@ export function RavenaChat() {
 
                 {error && (
                   <div className="flex justify-start mb-4">
-                    <div className="bg-red-100 dark:bg-red-900/30 border border-red-300 dark:border-red-800 rounded-lg p-3 max-w-[80%]">
-                      <p className="text-sm text-red-800 dark:text-red-200">
+                    <div className="bg-destructive/10 border border-destructive/40 rounded-lg p-3 max-w-[80%]">
+                      <p className="text-sm text-destructive">
                         {error.message || "Erro ao conectar com a assistente. Tente novamente em instantes."}
                       </p>
                     </div>

@@ -46,30 +46,30 @@ export function DownloadButton({ fileBaseName, label, size = "sm", className = "
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <Button size={size} className={`bg-blue-600 hover:bg-blue-700 ${className}`}>
+        <Button size={size} className={`bg-primary hover:bg-primary/90 ${className}`}>
           <Download className="w-4 h-4 mr-2" />
           {label || t("download")}
           <Globe className="w-3 h-3 ml-2" />
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="bg-gray-900 border-gray-700">
-        <DropdownMenuLabel className="text-gray-400">{t("selectLanguage")}</DropdownMenuLabel>
-        <DropdownMenuSeparator className="bg-gray-700" />
+      <DropdownMenuContent className="bg-surface border-border">
+        <DropdownMenuLabel className="text-muted-foreground">{t("selectLanguage")}</DropdownMenuLabel>
+        <DropdownMenuSeparator className="bg-surface-3" />
         <DropdownMenuItem
           onClick={() => handleDownload("pt")}
-          className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
+          className="text-foreground hover:bg-surface-2 cursor-pointer focus:bg-surface-2"
         >
           🇧🇷 {languageNames.pt}
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleDownload("en")}
-          className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
+          className="text-foreground hover:bg-surface-2 cursor-pointer focus:bg-surface-2"
         >
           🇺🇸 {languageNames.en}
         </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => handleDownload("es")}
-          className="text-white hover:bg-gray-800 cursor-pointer focus:bg-gray-800"
+          className="text-foreground hover:bg-surface-2 cursor-pointer focus:bg-surface-2"
         >
           🇪🇸 {languageNames.es}
         </DropdownMenuItem>

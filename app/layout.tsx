@@ -1,17 +1,34 @@
 import type React from "react"
 import type { Metadata } from "next"
+import { Inter } from "next/font/google"
 import "./globals.css"
 import { LanguageProvider } from "@/lib/language-context"
 import { ThemeProvider } from "@/lib/theme-context"
 import { CookieConsent } from "@/components/cookie-consent"
 import { RavenaChat } from "@/components/ravena-chat"
+import { SiteFooter } from "@/components/site-footer"
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  display: "swap",
+})
 
 export const metadata: Metadata = {
-  title: "AtypicalClass",
-  description: "Plataforma dedicada a apoiar professores com recursos e estratégias inclusivas.",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"),
+  title: {
+    default: "AtypicalClass — Educação inclusiva na prática",
+    template: "%s · AtypicalClass",
+  },
+  description:
+    "Estratégias, atividades e questões adaptadas para professores que trabalham com alunos atípicos: autismo, TDAH, síndrome de Down, deficiência visual e auditiva.",
   generator: "AtypicalClass",
-  icons: {
-    icon: "/favicon.jpg",
+  // O ícone vem de app/icon.svg — a marca própria, não mais o logo padrão do v0.
+  openGraph: {
+    type: "website",
+    siteName: "AtypicalClass",
+    title: "AtypicalClass — Educação inclusiva na prática",
+    description: "Recursos e estratégias inclusivas para professores de alunos atípicos.",
   },
 }
 
@@ -27,14 +44,21 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="pt" suppressHydrationWarning>
+    <html lang="pt" className={inter.variable} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
       </head>
-      <body>
+      <body className="min-h-screen bg-background text-foreground antialiased">
         <ThemeProvider>
           <LanguageProvider>
+            <a
+              href="#conteudo"
+              className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-lg focus:bg-primary focus:px-4 focus:py-2 focus:text-primary-foreground"
+            >
+              Pular para o conteúdo
+            </a>
             {children}
+            <SiteFooter />
             <CookieConsent />
             <RavenaChat />
           </LanguageProvider>

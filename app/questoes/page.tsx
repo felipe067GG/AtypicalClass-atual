@@ -116,12 +116,12 @@ export default function QuestoesPage() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white">
+      <div className="min-h-screen bg-background text-foreground">
         <Header />
         <div className="flex items-center justify-center min-h-[60vh]">
           <div className="text-center">
-            <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-            <p className="text-slate-300">{t("loadingQuestions")}</p>
+            <div className="w-16 h-16 border-4 border-brand border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+            <p className="text-muted-foreground">{t("loadingQuestions")}</p>
           </div>
         </div>
       </div>
@@ -129,7 +129,7 @@ export default function QuestoesPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white">
+    <div className="min-h-screen bg-background text-foreground">
       <Header />
 
       <main className="container mx-auto px-4 py-24">
@@ -140,16 +140,16 @@ export default function QuestoesPage() {
           className="mb-12"
         >
           <div className="text-center mb-8">
-            <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
+            <h1 className="text-5xl font-bold mb-4">
               {t("questionsBank")}
             </h1>
-            <p className="text-xl text-slate-300 max-w-3xl mx-auto">{t("questionsBankDesc")}</p>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">{t("questionsBankDesc")}</p>
           </div>
 
           {/* Filters */}
-          <Card className="bg-gray-900/50 border-gray-800 mb-8">
+          <Card className="bg-surface border-border mb-8">
             <CardHeader>
-              <CardTitle className="flex items-center text-blue-400">
+              <CardTitle className="flex items-center text-brand">
                 <Filter className="w-5 h-5 mr-2" />
                 {t("filters")}
               </CardTitle>
@@ -157,12 +157,12 @@ export default function QuestoesPage() {
             <CardContent className="space-y-4">
               <div className="grid md:grid-cols-3 gap-4">
                 <div>
-                  <label className="text-sm text-slate-400 mb-2 block">{t("subject")}</label>
+                  <label className="text-sm text-muted-foreground mb-2 block">{t("subject")}</label>
                   <Select value={selectedSubject} onValueChange={setSelectedSubject}>
-                    <SelectTrigger className="bg-gray-800/50 border-gray-700">
+                    <SelectTrigger className="bg-surface-2 border-border">
                       <SelectValue />
                     </SelectTrigger>
-                    <SelectContent className="bg-gray-800 border-gray-700">
+                    <SelectContent className="bg-surface-2 border-border">
                       <SelectItem value="all">{t("all")}</SelectItem>
                       {subjects.map((subject) => (
                         <SelectItem key={subject} value={subject}>
@@ -174,12 +174,12 @@ export default function QuestoesPage() {
                 </div>
 
                 <div>
-                  <label className="text-sm text-slate-400 mb-2 block">{t("specialty")}</label>
+                  <label className="text-sm text-muted-foreground mb-2 block">{t("specialty")}</label>
                   <Select value={selectedSpecialty} onValueChange={setSelectedSpecialty}>
-                    <SelectTrigger className="bg-gray-800/50 border-gray-700">
+                    <SelectTrigger className="bg-surface-2 border-border">
                       <SelectValue />
                     </SelectTrigger>
-                    <SelectContent className="bg-gray-800 border-gray-700">
+                    <SelectContent className="bg-surface-2 border-border">
                       <SelectItem value="all">{t("all")}</SelectItem>
                       {specialties.map((specialty) => (
                         <SelectItem key={specialty} value={specialty}>
@@ -191,12 +191,12 @@ export default function QuestoesPage() {
                 </div>
 
                 <div>
-                  <label className="text-sm text-slate-400 mb-2 block">{t("difficulty")}</label>
+                  <label className="text-sm text-muted-foreground mb-2 block">{t("difficulty")}</label>
                   <Select value={selectedDifficulty} onValueChange={setSelectedDifficulty}>
-                    <SelectTrigger className="bg-gray-800/50 border-gray-700">
+                    <SelectTrigger className="bg-surface-2 border-border">
                       <SelectValue placeholder={t("all")} />
                     </SelectTrigger>
-                    <SelectContent className="bg-gray-800 border-gray-700">
+                    <SelectContent className="bg-surface-2 border-border">
                       <SelectItem value="all">{t("all")}</SelectItem>
                       <SelectItem value="Fácil">{t("easy")}</SelectItem>
                       <SelectItem value="Médio">{t("medium")}</SelectItem>
@@ -207,30 +207,30 @@ export default function QuestoesPage() {
               </div>
 
               <div className="relative">
-                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-slate-500" />
+                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-muted-foreground" />
                 <Input
                   type="text"
                   placeholder={t("searchPlaceholder")}
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
-                  className="pl-10 bg-gray-800/50 border-gray-700"
+                  className="pl-10 bg-surface-2 border-border"
                 />
               </div>
             </CardContent>
           </Card>
 
           {loadError && (
-            <Card className="bg-red-950/30 border-red-500/40 mb-8">
+            <Card className="bg-destructive/10 border-destructive/40 mb-8">
               <CardContent className="py-6 flex items-center gap-3">
-                <AlertCircle className="w-5 h-5 text-red-400 shrink-0" />
-                <p className="text-red-200">{t("loadError")}</p>
+                <AlertCircle className="w-5 h-5 text-destructive shrink-0" />
+                <p className="text-destructive">{t("loadError")}</p>
               </CardContent>
             </Card>
           )}
 
           {/* Results */}
-          <div className="mb-4 text-slate-400">
-            {t("found")} <span className="text-blue-400 font-semibold">{filteredQuestions.length}</span>{" "}
+          <div className="mb-4 text-muted-foreground">
+            {t("found")} <span className="text-brand font-semibold">{filteredQuestions.length}</span>{" "}
             {t("questionsLabel")}
           </div>
 
@@ -241,26 +241,26 @@ export default function QuestoesPage() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.3 }}
             >
-              <Card className="bg-gray-900/50 border-gray-800">
+              <Card className="bg-surface border-border">
                 <CardHeader>
                   <div className="flex items-start justify-between mb-4">
                     <div className="flex-1">
-                      <CardTitle className="text-2xl text-white mb-2">{selectedQuestion.title}</CardTitle>
-                      <CardDescription className="text-slate-400">{selectedQuestion.specialty}</CardDescription>
+                      <CardTitle className="text-2xl text-foreground mb-2">{selectedQuestion.title}</CardTitle>
+                      <CardDescription className="text-muted-foreground">{selectedQuestion.specialty}</CardDescription>
                     </div>
-                    <Button variant="ghost" onClick={() => setSelectedQuestion(null)} className="text-slate-400">
+                    <Button variant="ghost" onClick={() => setSelectedQuestion(null)} className="text-muted-foreground">
                       ✕
                     </Button>
                   </div>
                   <div className="flex flex-wrap gap-2">
-                    <Badge className="bg-blue-600">{selectedQuestion.subject}</Badge>
-                    <Badge className="bg-purple-600">{selectedQuestion.specialty}</Badge>
-                    <Badge className="bg-green-600">{selectedQuestion.difficulty}</Badge>
+                    <Badge className="bg-primary">{selectedQuestion.subject}</Badge>
+                    <Badge className="bg-brand">{selectedQuestion.specialty}</Badge>
+                    <Badge className="bg-success">{selectedQuestion.difficulty}</Badge>
                   </div>
                 </CardHeader>
                 <CardContent className="space-y-6">
-                  <div className="bg-gray-800/50 p-6 rounded-lg">
-                    <p className="text-lg text-white leading-relaxed whitespace-pre-wrap">
+                  <div className="bg-surface-2 p-6 rounded-lg">
+                    <p className="text-lg text-foreground leading-relaxed whitespace-pre-wrap">
                       {localizedField(selectedQuestion, "question_text", language)}
                     </p>
                   </div>
@@ -279,18 +279,18 @@ export default function QuestoesPage() {
                           disabled={showResult}
                           className={`w-full p-4 rounded-lg border-2 text-left transition-all ${
                             showCorrectAnswer
-                              ? "border-green-500 bg-green-900/20"
+                              ? "border-success/40 bg-success/10"
                               : showIncorrectAnswer
-                                ? "border-red-500 bg-red-900/20"
+                                ? "border-destructive/40 bg-destructive/10"
                                 : isSelected
-                                  ? "border-blue-500 bg-blue-900/20"
-                                  : "border-gray-700 bg-gray-800/30 hover:border-gray-600"
+                                  ? "border-brand bg-primary/10"
+                                  : "border-border bg-surface-2 hover:border-border"
                           }`}
                         >
                           <div className="flex items-center justify-between">
-                            <span className="text-white">{option}</span>
-                            {showCorrectAnswer && <CheckCircle className="w-5 h-5 text-green-500" />}
-                            {showIncorrectAnswer && <XCircle className="w-5 h-5 text-red-500" />}
+                            <span className="text-foreground">{option}</span>
+                            {showCorrectAnswer && <CheckCircle className="w-5 h-5 text-success" />}
+                            {showIncorrectAnswer && <XCircle className="w-5 h-5 text-destructive" />}
                           </div>
                         </button>
                       )
@@ -303,15 +303,15 @@ export default function QuestoesPage() {
                       animate={{ opacity: 1, y: 0 }}
                       className={`p-4 rounded-lg border-2 ${
                         userAnswer === selectedQuestion.correct_answer
-                          ? "border-green-500 bg-green-900/20"
-                          : "border-red-500 bg-red-900/20"
+                          ? "border-success/40 bg-success/10"
+                          : "border-destructive/40 bg-destructive/10"
                       }`}
                     >
                       <div className="flex items-start space-x-3">
-                        <Lightbulb className="w-5 h-5 mt-1 text-yellow-400" />
+                        <Lightbulb className="w-5 h-5 mt-1 text-warning" />
                         <div>
-                          <h4 className="font-semibold text-white mb-2">{t("explanation")}:</h4>
-                          <p className="text-slate-300 whitespace-pre-wrap">
+                          <h4 className="font-semibold text-foreground mb-2">{t("explanation")}:</h4>
+                          <p className="text-muted-foreground whitespace-pre-wrap">
                             {localizedField(selectedQuestion, "explanation", language)}
                           </p>
                         </div>
@@ -324,7 +324,7 @@ export default function QuestoesPage() {
                       onClick={handlePreviousQuestion}
                       disabled={filteredQuestions.findIndex((q) => q.id === selectedQuestion.id) === 0}
                       variant="outline"
-                      className="border-gray-700"
+                      className="border-border"
                     >
                       ← {t("previous")}
                     </Button>
@@ -334,7 +334,7 @@ export default function QuestoesPage() {
                         filteredQuestions.findIndex((q) => q.id === selectedQuestion.id) ===
                         filteredQuestions.length - 1
                       }
-                      className="bg-blue-600 hover:bg-blue-700"
+                      className="bg-primary hover:bg-primary/90"
                     >
                       {t("next")} →
                     </Button>
@@ -353,20 +353,20 @@ export default function QuestoesPage() {
                   whileHover={{ scale: 1.03 }}
                 >
                   <Card
-                    className="bg-gray-900/50 border-gray-800 hover:border-blue-500/50 transition-all cursor-pointer h-full"
+                    className="bg-surface border-border hover:border-brand/50 transition-all cursor-pointer h-full"
                     onClick={() => setSelectedQuestion(question)}
                   >
                     <CardHeader>
-                      <CardTitle className="text-lg text-white line-clamp-2">{question.title}</CardTitle>
-                      <CardDescription className="text-slate-400">{question.specialty}</CardDescription>
+                      <CardTitle className="text-lg text-foreground line-clamp-2">{question.title}</CardTitle>
+                      <CardDescription className="text-muted-foreground">{question.specialty}</CardDescription>
                       <div className="flex flex-wrap gap-2 mt-3">
-                        <Badge className="bg-blue-600 text-xs">{question.subject}</Badge>
-                        <Badge className="bg-purple-600 text-xs">{question.specialty}</Badge>
-                        <Badge className="bg-green-600 text-xs">{question.difficulty}</Badge>
+                        <Badge className="bg-primary text-xs">{question.subject}</Badge>
+                        <Badge className="bg-brand text-xs">{question.specialty}</Badge>
+                        <Badge className="bg-success text-xs">{question.difficulty}</Badge>
                       </div>
                     </CardHeader>
                     <CardContent>
-                      <Button className="w-full bg-blue-600 hover:bg-blue-700">
+                      <Button className="w-full bg-primary hover:bg-primary/90">
                         <BookOpen className="w-4 h-4 mr-2" />
                         {t("answer")}
                       </Button>
@@ -378,9 +378,9 @@ export default function QuestoesPage() {
           )}
 
           {filteredQuestions.length === 0 && !loading && (
-            <Card className="bg-gray-900/50 border-gray-800">
+            <Card className="bg-surface border-border">
               <CardContent className="py-12 text-center">
-                <p className="text-slate-400 text-lg">{t("noQuestionsFound")}</p>
+                <p className="text-muted-foreground text-lg">{t("noQuestionsFound")}</p>
               </CardContent>
             </Card>
           )}

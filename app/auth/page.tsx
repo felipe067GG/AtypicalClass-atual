@@ -75,7 +75,7 @@ export default function AuthPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white light:bg-gradient-to-br light:from-gray-50 light:via-white light:to-gray-50 light:text-slate-900">
+    <div className="min-h-screen bg-background text-foreground">
       <Header />
       <div className="container mx-auto px-4 py-16">
         <motion.div
@@ -85,18 +85,18 @@ export default function AuthPage() {
           className="max-w-md mx-auto"
         >
           <div className="text-center mb-8">
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
+            <h1 className="text-4xl font-bold mb-4">
               {t("teacherArea")}
             </h1>
-            <p className="text-slate-300 light:text-slate-600">{t("authSubtitle")}</p>
+            <p className="text-muted-foreground">{t("authSubtitle")}</p>
           </div>
 
           {showEmailVerification && (
             <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} className="mb-6">
-              <Alert className="bg-blue-950/50 border-blue-500/50 light:bg-blue-50 light:border-blue-200">
-                <Mail className="w-5 h-5 text-blue-400 light:text-blue-600" />
-                <AlertTitle className="text-blue-300 light:text-blue-900">{t("emailVerificationTitle")}</AlertTitle>
-                <AlertDescription className="text-blue-200 light:text-blue-800 mt-2">
+              <Alert className="bg-primary/10 border-brand/50">
+                <Mail className="w-5 h-5 text-brand" />
+                <AlertTitle className="text-brand">{t("emailVerificationTitle")}</AlertTitle>
+                <AlertDescription className="text-brand mt-2">
                   {t("emailVerificationMessage")}
                   <br />
                   <span className="text-xs mt-1 inline-block">{t("emailVerificationNote")}</span>
@@ -110,21 +110,21 @@ export default function AuthPage() {
               <Alert
                 className={`${
                   message.type === "success"
-                    ? "bg-green-950/50 border-green-500/50 light:bg-green-50 light:border-green-200"
-                    : "bg-red-950/50 border-red-500/50 light:bg-red-50 light:border-red-200"
+                    ? "bg-success/10 border-success/40"
+                    : "bg-destructive/10 border-destructive/40"
                 }`}
               >
                 <div className="flex items-center space-x-2">
                   {message.type === "success" ? (
-                    <CheckCircle2 className="w-5 h-5 text-green-400 light:text-green-600" />
+                    <CheckCircle2 className="w-5 h-5 text-success" />
                   ) : (
-                    <AlertCircle className="w-5 h-5 text-red-400 light:text-red-600" />
+                    <AlertCircle className="w-5 h-5 text-destructive" />
                   )}
                   <AlertDescription
                     className={
                       message.type === "success"
-                        ? "text-green-300 light:text-green-800"
-                        : "text-red-300 light:text-red-800"
+                        ? "text-success"
+                        : "text-destructive"
                     }
                   >
                     {message.text}
@@ -134,23 +134,23 @@ export default function AuthPage() {
             </motion.div>
           )}
 
-          <Card className="bg-gray-950/70 border-gray-800 backdrop-blur-sm light:bg-white light:border-gray-200">
+          <Card className="bg-surface border-border backdrop-blur-sm">
             <CardHeader>
-              <CardTitle className="text-2xl text-white light:text-slate-900">{t("authentication")}</CardTitle>
-              <CardDescription className="text-slate-400 light:text-slate-600">{t("exclusiveAccess")}</CardDescription>
+              <CardTitle className="text-2xl text-foreground">{t("authentication")}</CardTitle>
+              <CardDescription className="text-muted-foreground">{t("exclusiveAccess")}</CardDescription>
             </CardHeader>
             <CardContent>
               <Tabs defaultValue="login" className="w-full">
-                <TabsList className="grid w-full grid-cols-2 bg-gray-900 light:bg-gray-100">
+                <TabsList className="grid w-full grid-cols-2 bg-surface">
                   <TabsTrigger
                     value="login"
-                    className="data-[state=active]:bg-blue-600 data-[state=active]:text-white light:data-[state=active]:bg-blue-600"
+                    className="data-[state=active]:bg-primary data-[state=active]:text-foreground=active]:bg-primary"
                   >
                     {t("login")}
                   </TabsTrigger>
                   <TabsTrigger
                     value="register"
-                    className="data-[state=active]:bg-blue-600 data-[state=active]:text-white light:data-[state=active]:bg-blue-600"
+                    className="data-[state=active]:bg-primary data-[state=active]:text-foreground=active]:bg-primary"
                   >
                     {t("register")}
                   </TabsTrigger>
@@ -159,7 +159,7 @@ export default function AuthPage() {
                 <TabsContent value="login">
                   <form onSubmit={handleLogin} className="space-y-4">
                     <div className="space-y-2">
-                      <Label htmlFor="login-email" className="text-slate-300 light:text-slate-700">
+                      <Label htmlFor="login-email" className="text-muted-foreground">
                         {t("email")}
                       </Label>
                       <Input
@@ -168,12 +168,12 @@ export default function AuthPage() {
                         type="email"
                         placeholder="seu@email.com"
                         required
-                        className="bg-gray-900 border-gray-700 text-white placeholder:text-gray-500 light:bg-white light:border-gray-300 light:text-slate-900"
+                        className="bg-surface border-border text-foreground placeholder:text-muted-foreground"
                         disabled={isLoading}
                       />
                     </div>
                     <div className="space-y-2">
-                      <Label htmlFor="login-password" className="text-slate-300 light:text-slate-700">
+                      <Label htmlFor="login-password" className="text-muted-foreground">
                         {t("password")}
                       </Label>
                       <Input
@@ -182,13 +182,13 @@ export default function AuthPage() {
                         type="password"
                         placeholder="••••••••"
                         required
-                        className="bg-gray-900 border-gray-700 text-white placeholder:text-gray-500 light:bg-white light:border-gray-300 light:text-slate-900"
+                        className="bg-surface border-border text-foreground placeholder:text-muted-foreground"
                         disabled={isLoading}
                       />
                     </div>
                     <Button
                       type="submit"
-                      className="w-full bg-blue-600 hover:bg-blue-700 text-white"
+                      className="w-full bg-primary hover:bg-primary/90 text-foreground"
                       disabled={isLoading}
                     >
                       {isLoading ? (
@@ -209,7 +209,7 @@ export default function AuthPage() {
                 <TabsContent value="register">
                   <form onSubmit={handleRegister} className="space-y-4">
                     <div className="space-y-2">
-                      <Label htmlFor="register-name" className="text-slate-300 light:text-slate-700">
+                      <Label htmlFor="register-name" className="text-muted-foreground">
                         {t("fullName")}
                       </Label>
                       <Input
@@ -218,12 +218,12 @@ export default function AuthPage() {
                         type="text"
                         placeholder={t("fullName")}
                         required
-                        className="bg-gray-900 border-gray-700 text-white placeholder:text-gray-500 light:bg-white light:border-gray-300 light:text-slate-900"
+                        className="bg-surface border-border text-foreground placeholder:text-muted-foreground"
                         disabled={isLoading}
                       />
                     </div>
                     <div className="space-y-2">
-                      <Label htmlFor="register-email" className="text-slate-300 light:text-slate-700">
+                      <Label htmlFor="register-email" className="text-muted-foreground">
                         {t("email")}
                       </Label>
                       <Input
@@ -232,12 +232,12 @@ export default function AuthPage() {
                         type="email"
                         placeholder="seu@email.com"
                         required
-                        className="bg-gray-900 border-gray-700 text-white placeholder:text-gray-500 light:bg-white light:border-gray-300 light:text-slate-900"
+                        className="bg-surface border-border text-foreground placeholder:text-muted-foreground"
                         disabled={isLoading}
                       />
                     </div>
                     <div className="space-y-2">
-                      <Label htmlFor="register-password" className="text-slate-300 light:text-slate-700">
+                      <Label htmlFor="register-password" className="text-muted-foreground">
                         {t("password")}
                       </Label>
                       <Input
@@ -247,24 +247,24 @@ export default function AuthPage() {
                         placeholder={t("minChars")}
                         required
                         minLength={6}
-                        className="bg-gray-900 border-gray-700 text-white placeholder:text-gray-500 light:bg-white light:border-gray-300 light:text-slate-900"
+                        className="bg-surface border-border text-foreground placeholder:text-muted-foreground"
                         disabled={isLoading}
                       />
                     </div>
                     <div className="space-y-2">
-                      <Label htmlFor="specialty" className="text-slate-300 light:text-slate-700">
+                      <Label htmlFor="specialty" className="text-muted-foreground">
                         {t("specialty")}
                       </Label>
                       <Select name="specialty" required disabled={isLoading}>
-                        <SelectTrigger className="bg-gray-900 border-gray-700 text-white light:bg-white light:border-gray-300 light:text-slate-900">
+                        <SelectTrigger className="bg-surface border-border text-foreground">
                           <SelectValue placeholder={t("selectSpecialty")} />
                         </SelectTrigger>
-                        <SelectContent className="bg-gray-900 border-gray-700 text-white max-h-[300px] light:bg-white light:border-gray-300 light:text-slate-900">
-                          {specialties.map((specialty) => (
+                        <SelectContent className="bg-surface border-border text-foreground max-h-[300px]">
+                          {specialties.map((specialty, index) => (
                             <SelectItem
-                              key={specialty}
+                              key={index}
                               value={specialty}
-                              className="text-white hover:bg-gray-800 focus:bg-gray-800 focus:text-white light:text-slate-900 light:hover:bg-gray-100 light:focus:bg-gray-100"
+                              className="text-foreground hover:bg-surface-2 focus:bg-surface-2 focus:text-foreground"
                             >
                               {specialty}
                             </SelectItem>
@@ -274,7 +274,7 @@ export default function AuthPage() {
                     </div>
                     <Button
                       type="submit"
-                      className="w-full bg-blue-600 hover:bg-blue-700 text-white"
+                      className="w-full bg-primary hover:bg-primary/90 text-foreground"
                       disabled={isLoading}
                     >
                       {isLoading ? (

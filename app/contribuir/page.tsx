@@ -351,28 +351,28 @@ export default function ContribuirPage() {
 
   if (!user) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white flex items-center justify-center">
+      <div className="min-h-screen bg-background text-foreground flex items-center justify-center">
         <div className="text-center">
-          <div className="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-          <p className="text-slate-300">{t("authenticating")}</p>
+          <div className="w-16 h-16 border-4 border-brand border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+          <p className="text-muted-foreground">{t("authenticating")}</p>
         </div>
       </div>
     )
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-black text-white">
+    <div className="min-h-screen bg-background text-foreground">
       <Header />
 
       <main className="container mx-auto px-4 py-8">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8">
-          <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-4">
+          <h1 className="text-4xl font-bold mb-4">
             {t("contribute")} - {t("teacherCommunity")}
           </h1>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto">{t("shareWithCommunity")}</p>
-          <div className="mt-4 inline-flex items-center gap-2 px-4 py-2 bg-green-950/30 border border-green-500/30 rounded-lg">
-            <CheckCircle2 className="w-5 h-5 text-green-400" />
-            <span className="text-green-300">
+          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">{t("shareWithCommunity")}</p>
+          <div className="mt-4 inline-flex items-center gap-2 px-4 py-2 bg-success/10 border border-success/40 rounded-lg">
+            <CheckCircle2 className="w-5 h-5 text-success" />
+            <span className="text-success">
               {t("loggedAs")}: {user.name}
             </span>
           </div>
@@ -382,14 +382,14 @@ export default function ContribuirPage() {
           {/* Create Post Section */}
           <div className="lg:col-span-1">
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2 }}>
-              <Card className="bg-gray-950/70 border-gray-800 sticky top-24">
+              <Card className="bg-surface border-border sticky top-24">
                 <CardHeader>
-                  <CardTitle className="text-white">{t("createPost")}</CardTitle>
-                  <CardDescription className="text-slate-400">{t("shareWithCommunity")}</CardDescription>
+                  <CardTitle className="text-foreground">{t("createPost")}</CardTitle>
+                  <CardDescription className="text-muted-foreground">{t("shareWithCommunity")}</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <Tabs defaultValue="message" className="w-full">
-                    <TabsList className="grid w-full grid-cols-3 bg-gray-900">
+                    <TabsList className="grid w-full grid-cols-3 bg-surface">
                       <TabsTrigger value="message" className="text-xs">
                         <MessageSquare className="w-3 h-3 mr-1" />
                         {t("message")}
@@ -407,30 +407,30 @@ export default function ContribuirPage() {
                     <TabsContent value="message">
                       <form onSubmit={handleSubmitMessage} className="space-y-4 mt-4">
                         <div className="space-y-2">
-                          <Label htmlFor="message-title" className="text-gray-300">
+                          <Label htmlFor="message-title" className="text-muted-foreground">
                             {t("title")}
                           </Label>
                           <Input
                             id="message-title"
                             name="title"
                             placeholder={t("messageTitle")}
-                            className="bg-gray-900 border-gray-700 text-white"
+                            className="bg-surface border-border text-foreground"
                             required
                           />
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="message-content" className="text-gray-300">
+                          <Label htmlFor="message-content" className="text-muted-foreground">
                             {t("message")}
                           </Label>
                           <Textarea
                             id="message-content"
                             name="content"
                             placeholder={t("shareIdeas")}
-                            className="bg-gray-900 border-gray-700 text-white min-h-[120px]"
+                            className="bg-surface border-border text-foreground min-h-[120px]"
                             required
                           />
                         </div>
-                        <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={loading}>
+                        <Button type="submit" className="w-full bg-primary hover:bg-primary/90" disabled={loading}>
                           {loading ? t("publishing") : t("publishMessage")}
                         </Button>
                       </form>
@@ -440,9 +440,9 @@ export default function ContribuirPage() {
                       <form onSubmit={handleSubmitTip} className="space-y-4 mt-4">
                         <div className="grid grid-cols-2 gap-2">
                           <div className="space-y-2">
-                            <Label className="text-gray-300">{t("subject")}</Label>
+                            <Label className="text-muted-foreground">{t("subject")}</Label>
                             <Select name="subject" required>
-                              <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
+                              <SelectTrigger className="bg-surface border-border text-foreground">
                                 <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
@@ -455,9 +455,9 @@ export default function ContribuirPage() {
                             </Select>
                           </div>
                           <div className="space-y-2">
-                            <Label className="text-gray-300">{t("specialty")}</Label>
+                            <Label className="text-muted-foreground">{t("specialty")}</Label>
                             <Select name="specialty" required>
-                              <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
+                              <SelectTrigger className="bg-surface border-border text-foreground">
                                 <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
@@ -471,42 +471,42 @@ export default function ContribuirPage() {
                           </div>
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="tip-title" className="text-gray-300">
+                          <Label htmlFor="tip-title" className="text-muted-foreground">
                             {t("tipTitle")}
                           </Label>
                           <Input
                             id="tip-title"
                             name="title"
                             placeholder="Ex: Como ensinar frações"
-                            className="bg-gray-900 border-gray-700 text-white"
+                            className="bg-surface border-border text-foreground"
                             required
                           />
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="tip-description" className="text-gray-300">
+                          <Label htmlFor="tip-description" className="text-muted-foreground">
                             {t("description")}
                           </Label>
                           <Input
                             id="tip-description"
                             name="description"
                             placeholder={t("tipDescription")}
-                            className="bg-gray-900 border-gray-700 text-white"
+                            className="bg-surface border-border text-foreground"
                             required
                           />
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="tip-content" className="text-gray-300">
+                          <Label htmlFor="tip-content" className="text-muted-foreground">
                             {t("content")}
                           </Label>
                           <Textarea
                             id="tip-content"
                             name="content"
                             placeholder={t("sharePedagogicalTip")}
-                            className="bg-gray-900 border-gray-700 text-white min-h-[120px]"
+                            className="bg-surface border-border text-foreground min-h-[120px]"
                             required
                           />
                         </div>
-                        <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={loading}>
+                        <Button type="submit" className="w-full bg-primary hover:bg-primary/90" disabled={loading}>
                           {loading ? t("publishing") : t("publishTip")}
                         </Button>
                       </form>
@@ -516,9 +516,9 @@ export default function ContribuirPage() {
                       <form onSubmit={handleSubmitQuestion} className="space-y-4 mt-4">
                         <div className="grid grid-cols-2 gap-2">
                           <div className="space-y-2">
-                            <Label className="text-gray-300">{t("subject")}</Label>
+                            <Label className="text-muted-foreground">{t("subject")}</Label>
                             <Select name="subject" required>
-                              <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
+                              <SelectTrigger className="bg-surface border-border text-foreground">
                                 <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
@@ -531,9 +531,9 @@ export default function ContribuirPage() {
                             </Select>
                           </div>
                           <div className="space-y-2">
-                            <Label className="text-gray-300">{t("specialty")}</Label>
+                            <Label className="text-muted-foreground">{t("specialty")}</Label>
                             <Select name="specialty" required>
-                              <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
+                              <SelectTrigger className="bg-surface border-border text-foreground">
                                 <SelectValue placeholder={t("select")} />
                               </SelectTrigger>
                               <SelectContent>
@@ -547,38 +547,38 @@ export default function ContribuirPage() {
                           </div>
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="question-title" className="text-gray-300">
+                          <Label htmlFor="question-title" className="text-muted-foreground">
                             {t("title")}
                           </Label>
                           <Input
                             id="question-title"
                             name="title"
                             placeholder={t("questionTitle")}
-                            className="bg-gray-900 border-gray-700 text-white"
+                            className="bg-surface border-border text-foreground"
                             required
                           />
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="question-text" className="text-gray-300">
+                          <Label htmlFor="question-text" className="text-muted-foreground">
                             {t("enunciation")}
                           </Label>
                           <Textarea
                             id="question-text"
                             name="question_text"
                             placeholder={t("writeEnunciation")}
-                            className="bg-gray-900 border-gray-700 text-white min-h-[80px]"
+                            className="bg-surface border-border text-foreground min-h-[80px]"
                             required
                           />
                         </div>
                         <div className="space-y-2">
                           <div className="flex items-center justify-between">
-                            <Label className="text-gray-300">{t("alternatives")}</Label>
+                            <Label className="text-muted-foreground">{t("alternatives")}</Label>
                             <Button
                               type="button"
                               onClick={addOption}
                               size="sm"
                               variant="outline"
-                              className="border-blue-500 text-blue-400 bg-transparent h-7"
+                              className="border-brand text-brand bg-transparent h-7"
                               disabled={options.length >= 6}
                             >
                               <Plus className="w-3 h-3 mr-1" />
@@ -591,7 +591,7 @@ export default function ContribuirPage() {
                                 value={option}
                                 onChange={(e) => updateOption(index, e.target.value)}
                                 placeholder={`${t("alternative")} ${index + 1}`}
-                                className="bg-gray-900 border-gray-700 text-white text-sm"
+                                className="bg-surface border-border text-foreground text-sm"
                                 required
                               />
                               {options.length > 2 && (
@@ -600,7 +600,8 @@ export default function ContribuirPage() {
                                   onClick={() => removeOption(index)}
                                   size="icon"
                                   variant="ghost"
-                                  className="text-red-400 h-9 w-9"
+                                  aria-label={`${t("delete")} ${t("alternative")} ${index + 1}`}
+                                  className="text-destructive h-9 w-9"
                                 >
                                   <X className="w-4 h-4" />
                                 </Button>
@@ -609,9 +610,9 @@ export default function ContribuirPage() {
                           ))}
                         </div>
                         <div className="space-y-2">
-                          <Label className="text-gray-300">{t("correctAnswer")}</Label>
+                          <Label className="text-muted-foreground">{t("correctAnswer")}</Label>
                           <Select value={correctAnswer} onValueChange={setCorrectAnswer} required>
-                            <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
+                            <SelectTrigger className="bg-surface border-border text-foreground">
                               <SelectValue />
                             </SelectTrigger>
                             <SelectContent>
@@ -627,23 +628,23 @@ export default function ContribuirPage() {
                           </Select>
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="explanation" className="text-gray-300">
+                          <Label htmlFor="explanation" className="text-muted-foreground">
                             {t("explanation")}
                           </Label>
                           <Textarea
                             id="explanation"
                             name="explanation"
                             placeholder={t("explainAnswer")}
-                            className="bg-gray-900 border-gray-700 text-white min-h-[60px]"
+                            className="bg-surface border-border text-foreground min-h-[60px]"
                             required
                           />
                         </div>
                         <div className="space-y-2">
-                          <Label htmlFor="difficulty" className="text-gray-300">
+                          <Label htmlFor="difficulty" className="text-muted-foreground">
                             {t("difficulty")}
                           </Label>
                           <Select name="difficulty" required>
-                            <SelectTrigger className="bg-gray-900 border-gray-700 text-white">
+                            <SelectTrigger className="bg-surface border-border text-foreground">
                               <SelectValue placeholder={t("select")} />
                             </SelectTrigger>
                             <SelectContent>
@@ -653,7 +654,7 @@ export default function ContribuirPage() {
                             </SelectContent>
                           </Select>
                         </div>
-                        <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={loading}>
+                        <Button type="submit" className="w-full bg-primary hover:bg-primary/90" disabled={loading}>
                           {loading ? t("publishing") : t("publishQuestion")}
                         </Button>
                       </form>
@@ -666,8 +667,8 @@ export default function ContribuirPage() {
                       animate={{ opacity: 1, y: 0 }}
                       className={`mt-4 p-3 rounded-lg text-sm ${
                         messageType === "success"
-                          ? "bg-green-950/50 border border-green-500/30 text-green-300"
-                          : "bg-red-950/50 border border-red-500/30 text-red-300"
+                          ? "bg-success/10 border border-success/40 text-success"
+                          : "bg-destructive/10 border border-destructive/40 text-destructive"
                       }`}
                     >
                       {message}
@@ -681,18 +682,18 @@ export default function ContribuirPage() {
           {/* Posts Feed */}
           <div className="lg:col-span-2">
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}>
-              <h2 className="text-2xl font-bold text-white mb-4">{t("communityFeed")}</h2>
+              <h2 className="text-2xl font-bold text-foreground mb-4">{t("communityFeed")}</h2>
 
               {loadingPosts ? (
                 <div className="text-center py-12">
-                  <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-                  <p className="text-slate-300">{t("loadingPosts")}</p>
+                  <div className="w-12 h-12 border-4 border-brand border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+                  <p className="text-muted-foreground">{t("loadingPosts")}</p>
                 </div>
               ) : posts.length === 0 ? (
-                <Card className="bg-gray-950/70 border-gray-800">
+                <Card className="bg-surface border-border">
                   <CardContent className="py-12 text-center">
-                    <MessageSquare className="w-16 h-16 text-gray-600 mx-auto mb-4" />
-                    <p className="text-gray-400">{t("noPosts")}</p>
+                    <MessageSquare className="w-16 h-16 text-muted-foreground mx-auto mb-4" />
+                    <p className="text-muted-foreground">{t("noPosts")}</p>
                   </CardContent>
                 </Card>
               ) : (
@@ -704,16 +705,16 @@ export default function ContribuirPage() {
                       animate={{ opacity: 1, y: 0 }}
                       transition={{ delay: index * 0.05 }}
                     >
-                      <Card className="bg-gray-950/70 border-gray-800 hover:border-gray-700 transition-colors">
+                      <Card className="bg-surface border-border hover:border-border transition-colors">
                         <CardHeader>
                           <div className="flex items-start justify-between">
                             <div className="flex items-center gap-3">
-                              <div className="w-10 h-10 rounded-full bg-gradient-to-br from-blue-500 to-blue-700 flex items-center justify-center">
-                                <span className="text-white font-semibold">{post.teacher_name[0]}</span>
+                              <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
+                                <span className="text-foreground font-semibold">{post.teacher_name[0]}</span>
                               </div>
                               <div>
-                                <p className="text-white font-semibold">{post.teacher_name}</p>
-                                <p className="text-xs text-gray-400">
+                                <p className="text-foreground font-semibold">{post.teacher_name}</p>
+                                <p className="text-xs text-muted-foreground">
                                   {new Date(post.created_at).toLocaleDateString(dateLocale)}{" "}
                                   {new Date(post.created_at).toLocaleTimeString(dateLocale, {
                                     hour: "2-digit",
@@ -723,7 +724,7 @@ export default function ContribuirPage() {
                               </div>
                             </div>
                             <div className="flex items-center gap-2">
-                              <Badge className="bg-blue-600 flex items-center gap-1">
+                              <Badge className="bg-primary flex items-center gap-1">
                                 {getPostIcon(post.post_type)}
                                 {getPostTypeLabel(post.post_type)}
                               </Badge>
@@ -732,7 +733,8 @@ export default function ContribuirPage() {
                                   variant="ghost"
                                   size="icon"
                                   onClick={() => handleDeletePost(post.id)}
-                                  className="text-red-400 hover:text-red-300 hover:bg-red-950/30 h-8 w-8"
+                                  className="text-destructive hover:text-destructive hover:bg-destructive/10 h-8 w-8"
+                                  aria-label={t("delete")}
                                   title={t("delete")}
                                 >
                                   <Trash2 className="w-4 h-4" />
@@ -742,20 +744,20 @@ export default function ContribuirPage() {
                           </div>
                         </CardHeader>
                         <CardContent className="space-y-4">
-                          {post.title && <h3 className="text-xl font-semibold text-white">{post.title}</h3>}
+                          {post.title && <h3 className="text-xl font-semibold text-foreground">{post.title}</h3>}
                           {post.subject && post.specialty && (
                             <div className="flex gap-2">
-                              <Badge variant="outline" className="border-gray-600 text-gray-300">
+                              <Badge variant="outline" className="border-border text-muted-foreground">
                                 {post.subject}
                               </Badge>
-                              <Badge variant="outline" className="border-gray-600 text-gray-300">
+                              <Badge variant="outline" className="border-border text-muted-foreground">
                                 {post.specialty}
                               </Badge>
                             </div>
                           )}
-                          <p className="text-gray-300 whitespace-pre-wrap">{post.content}</p>
+                          <p className="text-muted-foreground whitespace-pre-wrap">{post.content}</p>
 
-                          <div className="flex items-center gap-4 pt-4 border-t border-gray-700">
+                          <div className="flex items-center gap-4 pt-4 border-t border-border">
                             <Button
                               variant="ghost"
                               size="sm"
@@ -763,8 +765,8 @@ export default function ContribuirPage() {
                               aria-pressed={likedPosts.has(post.id)}
                               className={
                                 likedPosts.has(post.id)
-                                  ? "text-red-400 hover:text-red-300"
-                                  : "text-gray-400 hover:text-red-400"
+                                  ? "text-destructive hover:text-destructive"
+                                  : "text-muted-foreground hover:text-destructive"
                               }
                             >
                               <Heart
@@ -776,7 +778,7 @@ export default function ContribuirPage() {
                               variant="ghost"
                               size="sm"
                               onClick={() => setShowComments(showComments === post.id ? null : post.id)}
-                              className="text-gray-400 hover:text-blue-400"
+                              className="text-muted-foreground hover:text-brand"
                             >
                               <MessageCircle className="w-4 h-4 mr-1" />
                               {post.comments?.length || 0} {t("comments")}
@@ -784,14 +786,14 @@ export default function ContribuirPage() {
                           </div>
 
                           {showComments === post.id && (
-                            <div className="space-y-3 pt-4 border-t border-gray-700">
+                            <div className="space-y-3 pt-4 border-t border-border">
                               {post.comments && post.comments.length > 0 && (
                                 <div className="space-y-2 mb-3">
                                   {post.comments.map((comment) => (
-                                    <div key={comment.id} className="bg-gray-800/50 p-3 rounded-lg">
-                                      <p className="text-sm font-semibold text-blue-400">{comment.teacher_name}</p>
-                                      <p className="text-sm text-gray-300 mt-1">{comment.comment_text}</p>
-                                      <p className="text-xs text-gray-500 mt-1">
+                                    <div key={comment.id} className="bg-surface-2 p-3 rounded-lg">
+                                      <p className="text-sm font-semibold text-brand">{comment.teacher_name}</p>
+                                      <p className="text-sm text-muted-foreground mt-1">{comment.comment_text}</p>
+                                      <p className="text-xs text-muted-foreground mt-1">
                                         {new Date(comment.created_at).toLocaleDateString(dateLocale)}
                                       </p>
                                     </div>
@@ -803,12 +805,13 @@ export default function ContribuirPage() {
                                   placeholder={t("writeComment")}
                                   value={commentText}
                                   onChange={(e) => setCommentText(e.target.value)}
-                                  className="bg-gray-800 border-gray-700 text-white"
+                                  className="bg-surface-2 border-border text-foreground"
                                 />
                                 <Button
                                   onClick={() => handleComment(post.id)}
                                   size="icon"
-                                  className="bg-blue-600 hover:bg-blue-700"
+                                  className="bg-primary hover:bg-primary/90"
+                                  aria-label={t("send")}
                                   title={t("send")}
                                 >
                                   <Send className="w-4 h-4" />

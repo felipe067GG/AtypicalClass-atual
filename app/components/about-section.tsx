@@ -185,13 +185,13 @@ export default function AboutSection() {
     <div className="space-y-16">
       {/* Mission Section */}
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center">
-        <h2 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent mb-6">
+        <h2 className="text-4xl font-bold mb-6">
           {language === "pt" && "Sobre o AtypicalClass"}
           {language === "en" && "About AtypicalClass"}
           {language === "es" && "Acerca de AtypicalClass"}
         </h2>
         <div className="max-w-4xl mx-auto">
-          <p className="text-xl text-slate-300 mb-8">
+          <p className="text-xl text-muted-foreground mb-8">
             {language === "pt" &&
               "O AtypicalClass é uma plataforma dedicada a apoiar educadores no desenvolvimento de práticas inclusivas eficazes. Nosso trabalho combina pesquisa fundamentada, experiência prática e vivência real em neurodiversidade para criar recursos que fazem a diferença na vida de alunos atípicos."}
             {language === "en" &&
@@ -208,15 +208,15 @@ export default function AboutSection() {
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: index * 0.1 }}
-                  className="bg-slate-900/50 border-slate-700"
+                  className="bg-surface-2 border-border"
                 >
                   <Card>
                     <CardHeader className="text-center">
-                      <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-4">
-                        <IconComponent className="w-8 h-8 text-white" />
+                      <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
+                        <IconComponent className="w-8 h-8 text-foreground" />
                       </div>
-                      <CardTitle className="text-xl text-white">{item.title[language]}</CardTitle>
-                      <CardDescription className="text-slate-400">{item.description[language]}</CardDescription>
+                      <CardTitle className="text-xl text-foreground">{item.title[language]}</CardTitle>
+                      <CardDescription className="text-muted-foreground">{item.description[language]}</CardDescription>
                     </CardHeader>
                   </Card>
                 </motion.div>
@@ -228,12 +228,12 @@ export default function AboutSection() {
 
       {/* Team Section */}
       <div>
-        <h3 className="text-3xl font-bold text-center text-white mb-4">
+        <h3 className="text-3xl font-bold text-center text-foreground mb-4">
           {language === "pt" && "Nossa Equipe"}
           {language === "en" && "Our Team"}
           {language === "es" && "Nuestro Equipo"}
         </h3>
-        <p className="text-center text-slate-400 mb-12 max-w-2xl mx-auto">
+        <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
           {language === "pt" &&
             "Uma equipe multidisciplinar que combina conhecimento acadêmico com experiência real em neurodiversidade, garantindo autenticidade e eficácia em nossos recursos."}
           {language === "en" &&
@@ -253,7 +253,7 @@ export default function AboutSection() {
                 whileHover={{ scale: 1.03 }}
               >
                 <Card
-                  className={`bg-slate-900/50 border-slate-700 hover:bg-slate-900/70 transition-all duration-300 ${
+                  className={`bg-surface-2 border-border hover:bg-surface-2 transition-all duration-300 ${
                     member.special ? "ring-2 ring-blue-500/50" : ""
                   }`}
                 >
@@ -263,21 +263,21 @@ export default function AboutSection() {
                         member.special ? "ring-2 ring-blue-400/50" : ""
                       }`}
                     >
-                      <IconComponent className="w-10 h-10 text-white" />
+                      <IconComponent className="w-10 h-10 text-foreground" />
                     </div>
-                    <CardTitle className="text-xl text-white">{member.name}</CardTitle>
-                    <CardDescription className="text-blue-400 mb-2">{member.role[language]}</CardDescription>
-                    <Badge className={`bg-blue-600 text-white mb-3 ${member.special ? "bg-blue-500" : ""}`}>
+                    <CardTitle className="text-xl text-foreground">{member.name}</CardTitle>
+                    <CardDescription className="text-brand mb-2">{member.role[language]}</CardDescription>
+                    <Badge className={`bg-primary text-foreground mb-3 ${member.special ? "bg-primary" : ""}`}>
                       {member.specialization[language]}
                     </Badge>
                     {member.special && (
-                      <Badge className="bg-gradient-to-r from-blue-500 to-blue-700 text-white mb-2">
+                      <Badge className="bg-primary text-foreground mb-2">
                         {language === "pt" && "Perspectiva Neurodiversa"}
                         {language === "en" && "Neurodiverse Perspective"}
                         {language === "es" && "Perspectiva Neurodiversa"}
                       </Badge>
                     )}
-                    <p className="text-sm text-slate-400">{member.description[language]}</p>
+                    <p className="text-sm text-muted-foreground">{member.description[language]}</p>
                   </CardHeader>
                 </Card>
               </motion.div>
@@ -287,9 +287,9 @@ export default function AboutSection() {
       </div>
 
       {/* Process */}
-      <Card className="bg-slate-900/50 border-slate-700">
+      <Card className="bg-surface-2 border-border">
         <CardHeader>
-          <CardTitle className="text-2xl text-white text-center mb-6">
+          <CardTitle className="text-2xl text-foreground text-center mb-6">
             {language === "pt" && "Nosso Processo"}
             {language === "en" && "Our Process"}
             {language === "es" && "Nuestro Proceso"}
@@ -301,11 +301,11 @@ export default function AboutSection() {
               const IconComponent = step.icon
               return (
                 <div key={index} className="text-center">
-                  <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <IconComponent className="w-8 h-8 text-white" />
+                  <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
+                    <IconComponent className="w-8 h-8 text-foreground" />
                   </div>
-                  <h4 className="text-lg font-semibold text-white mb-2">{step.title[language]}</h4>
-                  <p className="text-sm text-slate-400">{step.description[language]}</p>
+                  <h4 className="text-lg font-semibold text-foreground mb-2">{step.title[language]}</h4>
+                  <p className="text-sm text-muted-foreground">{step.description[language]}</p>
                 </div>
               )
             })}
@@ -315,46 +315,46 @@ export default function AboutSection() {
 
       {/* Values and Principles */}
       <div className="text-center">
-        <h3 className="text-3xl font-bold text-white mb-8">
+        <h3 className="text-3xl font-bold text-foreground mb-8">
           {language === "pt" && "Nossos Valores"}
           {language === "en" && "Our Values"}
           {language === "es" && "Nuestros Valores"}
         </h3>
         <div className="grid md:grid-cols-3 gap-6">
-          <div className="bg-slate-900/50 border border-slate-700 rounded-lg p-6">
-            <div className="text-2xl font-bold text-blue-400 mb-2">📚</div>
-            <div className="text-lg font-semibold text-white mb-2">
+          <div className="bg-surface-2 border border-border rounded-lg p-6">
+            <div className="text-2xl font-bold text-brand mb-2">📚</div>
+            <div className="text-lg font-semibold text-foreground mb-2">
               {language === "pt" && "Fundamentação Científica"}
               {language === "en" && "Scientific Foundation"}
               {language === "es" && "Fundamentación Científica"}
             </div>
-            <div className="text-sm text-slate-400">
+            <div className="text-sm text-muted-foreground">
               {language === "pt" && "Todos os recursos são baseados em pesquisas atuais e práticas comprovadas"}
               {language === "en" && "All resources are based on current and proven research practices"}
               {language === "es" && "Todos los recursos están basados en investigaciones actuales y prácticas probadas"}
             </div>
           </div>
-          <div className="bg-slate-900/50 border border-slate-700 rounded-lg p-6">
-            <div className="text-2xl font-bold text-blue-400 mb-2">🌟</div>
-            <div className="text-lg font-semibold text-white mb-2">
+          <div className="bg-surface-2 border border-border rounded-lg p-6">
+            <div className="text-2xl font-bold text-brand mb-2">🌟</div>
+            <div className="text-lg font-semibold text-foreground mb-2">
               {language === "pt" && "Experiência Autêntica"}
               {language === "en" && "Authentic Experience"}
               {language === "es" && "Experiencia Auténtica"}
             </div>
-            <div className="text-sm text-slate-400">
+            <div className="text-sm text-muted-foreground">
               {language === "pt" && "Validação real através da perspectiva de pessoa neurodiversa"}
               {language === "en" && "Real validation through the perspective of a neurodiverse person"}
               {language === "es" && "Validación real a través de la perspectiva de una persona neurodiversa"}
             </div>
           </div>
-          <div className="bg-slate-900/50 border border-slate-700 rounded-lg p-6">
-            <div className="text-2xl font-bold text-blue-400 mb-2">🎯</div>
-            <div className="text-lg font-semibold text-white mb-2">
+          <div className="bg-surface-2 border border-border rounded-lg p-6">
+            <div className="text-2xl font-bold text-brand mb-2">🎯</div>
+            <div className="text-lg font-semibold text-foreground mb-2">
               {language === "pt" && "Praticidade"}
               {language === "en" && "Practicality"}
               {language === "es" && "Practicidad"}
             </div>
-            <div className="text-sm text-slate-400">
+            <div className="text-sm text-muted-foreground">
               {language === "pt" && "Recursos prontos para aplicação imediata em sala de aula"}
               {language === "en" && "Resources ready for immediate application in the classroom"}
               {language === "es" && "Recursos listos para aplicación inmediata en el aula"}
@@ -364,14 +364,14 @@ export default function AboutSection() {
       </div>
 
       {/* Contact Information */}
-      <Card className="bg-slate-900/80 border-blue-500/50">
+      <Card className="bg-surface-2/80 border-brand/50">
         <CardHeader className="text-center">
-          <CardTitle className="text-2xl text-white mb-4">
+          <CardTitle className="text-2xl text-foreground mb-4">
             {language === "pt" && "Entre em Contato"}
             {language === "en" && "Contact Us"}
             {language === "es" && "Contáctenos"}
           </CardTitle>
-          <CardDescription className="text-slate-200 mb-6">
+          <CardDescription className="text-foreground mb-6">
             {language === "pt" &&
               "Tem sugestões, dúvidas ou gostaria de colaborar? Estamos sempre abertos ao diálogo com educadores e especialistas."}
             {language === "en" &&
@@ -379,18 +379,19 @@ export default function AboutSection() {
             {language === "es" &&
               "¿Tiene sugerencias, preguntas o desea colaborar? Siempre estamos abiertos al diálogo con educadores y especialistas."}
           </CardDescription>
-          <div className="space-y-4 text-white">
-            <p className="bg-blue-600/20 p-3 rounded-lg">
-              {language === "pt" && "📧 Email: contato@atypicalclass.com.br"}
-              {language === "en" && "📧 Email: contact@atypicalclass.com"}
-              {language === "es" && "📧 Email: contacto@atypicalclass.com"}
+          <div className="space-y-4 text-foreground">
+            <p className="bg-primary/20 p-3 rounded-lg">
+              📧 Email:{" "}
+              <a href="mailto:classatypical@gmail.com" className="underline underline-offset-2 hover:text-brand">
+                classatypical@gmail.com
+              </a>
             </p>
-            <p className="bg-blue-600/20 p-3 rounded-lg">
+            <p className="bg-primary/20 p-3 rounded-lg">
               {language === "pt" && "💬 Feedback e sugestões são sempre bem-vindos"}
               {language === "en" && "💬 Feedback and suggestions are always welcome"}
               {language === "es" && "💬 Retroalimentación y sugerencias siempre son bienvenidas"}
             </p>
-            <p className="bg-blue-600/20 p-3 rounded-lg">
+            <p className="bg-primary/20 p-3 rounded-lg">
               {language === "pt" && "🤝 Abertos a parcerias e colaborações"}
               {language === "en" && "🤝 Open to partnerships and collaborations"}
               {language === "es" && "🤝 Abiertos a asociaciones y colaboraciones"}
