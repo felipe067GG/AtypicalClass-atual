@@ -1,241 +1,222 @@
 /**
- * Monta o acervo de questões de uma área do ENEM.
+ * Monta o acervo de questões do ENEM.
  *
- * Junta as quatro fontes, cada uma respondendo pelo que só ela sabe:
+ * O texto vem da API pública `enem.dev`; a resposta certa, a dificuldade e a
+ * área vêm dos microdados do INEP. Nenhum PDF é aberto.
  *
- *  - a prova em PDF dá o enunciado e as alternativas;
- *  - o gabarito em PDF dá a resposta certa;
- *  - os microdados dão a dificuldade oficial (parâmetro `b` da TRI);
- *  - a API pública dá as imagens da questão.
+ * A primeira versão disto lia as provas em PDF, por achar que só assim a
+ * procedência estaria garantida. Custou caro e entregou pouco: coluna dupla
+ * embaralhando dois textos por linha, fonte sem mapa de caracteres devolvendo
+ * "DOFRRO{PHWUR" no lugar de "alcoolímetro", três convenções de nome de
+ * arquivo convivendo, cores de caderno que não se deduzem do número e uma
+ * prova digital que se disfarça de impressa. Cada ano antigo virava uma
+ * escavação própria.
  *
- * Nenhuma delas é confiada cegamente. O gabarito do PDF e o dos microdados
- * são independentes, e a prova certa dentro dos microdados é justamente a que
- * bate 100% com o PDF — o que, de quebra, prova que o parser de PDF leu certo.
- * Se esse casamento não for perfeito, a importação para: um gabarito trocado
- * não se denuncia sozinho, a questão continua bonita na tela com a resposta
- * errada.
+ * A procedência não piora aqui — muda de guardião. A resposta que a API dá
+ * para cada questão é conferida contra o `TX_GABARITO` publicado pelo INEP, e
+ * questão que divergir não entra. Como as duas fontes são independentes,
+ * concordarem é evidência de que ambas leram certo; era exatamente o papel
+ * que o gabarito em PDF cumpria antes.
  *
- * Uso:  node scripts/import-enem/importar.mjs 2023 2 MT
+ * Uso:  node scripts/import-enem/importar.mjs 2022 CN
  */
-import { mkdir, writeFile } from "node:fs/promises"
+import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 
-import { baixar, listarPdfs, classificar } from "./inep.mjs"
-import { lerGabarito, conferirCobertura, lerCor } from "./gabarito.mjs"
-import { lerColunas, lerAcessivel, segmentar, conferir, separarDescricoes } from "./prova.mjs"
-import { lerItens, identificarProva, classificarDificuldade, obterItens } from "./microdados.mjs"
+import { lerItens, classificarDificuldade, obterItens } from "./microdados.mjs"
+import { proporMateria, materiaCabeNaArea } from "./materia.mjs"
 
-/** Onde cada área começa e termina, igual em todas as cores de caderno. */
-const FAIXAS = {
-  LC: [1, 45],
-  CH: [46, 90],
-  CN: [91, 135],
-  MT: [136, 180],
+const API = "https://api.enem.dev/v1/exams"
+
+/**
+ * A API limita requisições, e o limite não se anuncia: ela simplesmente para
+ * de responder. Numa primeira tentativa sem pausa, 12 das 45 questões vieram
+ * vazias — e vazio aqui parece questão inexistente, não recusa. O intervalo é
+ * o preço de não confundir uma coisa com a outra.
+ */
+const PAUSA_MS = 350
+const TENTATIVAS = 4
+
+const espera = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+
+async function buscarQuestao(ano, numero) {
+  for (let tentativa = 1; tentativa <= TENTATIVAS; tentativa += 1) {
+    try {
+      const resposta = await fetch(`${API}/${ano}/questions/${numero}`, {
+        headers: { "User-Agent": "AtypicalClass-Importador/1.0" },
+      })
+      if (resposta.ok) return resposta.json()
+      if (resposta.status === 404) return null
+    } catch {
+      // rede oscilando; a espera abaixo cobre
+    }
+    await espera(PAUSA_MS * tentativa * 2)
+  }
+  return null
 }
 
 /**
- * Área e matéria coincidem só em Matemática.
+ * Descobre qual caderno a API segue.
  *
- * Nas outras três, o ENEM não classifica por matéria — a matriz para na área,
- * porque a prova é interdisciplinar de propósito. Qualquer rótulo mais fino é
- * interpretação, e por isso entra marcado como tal, nunca como oficial.
+ * As cores embaralham a ordem das questões dentro de cada área, então a
+ * questão 91 do caderno azul não é a 91 do amarelo. Comparar com o caderno
+ * errado produz divergência em quase tudo — foi o que me fez concluir, cedo
+ * demais, que a API estava errada. Ela seguia o azul, e eu conferia contra o
+ * amarelo.
+ *
+ * A identificação é por concordância total: o caderno certo bate 100% das
+ * respostas, os outros ficam perto de 20%, que é o acaso de cinco
+ * alternativas.
  */
-const MATERIA_OFICIAL = { MT: "Matemática" }
+function identificarCaderno(itens, respostasDaApi) {
+  const candidatos = new Map()
 
-/**
- * Encontra prova e gabarito de um dia, perguntando à página do ano.
- *
- * Montar a URL por padrão de nome não funciona: o mesmo arquivo
- * `2016_PV_impresso_D2_CD5.pdf` mora em `educacao_basica/enem/provas/2016/`,
- * enquanto o de 2023 mora em `enem/provas_e_gabaritos/`. O nome é estável, o
- * caminho não — e adivinhar dava 404 em tudo antes de 2019, o que parecia
- * ausência de prova e era só endereço errado.
- *
- * Fica de fora o que não é a aplicação regular impressa: reaplicação e PPL são
- * outra prova, versões ampliadas repetem o conteúdo em outro formato, e a
- * acessível entra por outro caminho, quando pedida.
- */
-async function localizarPdfs(ano, dia) {
-  const catalogo = (await listarPdfs(ano)).map(classificar)
+  for (const item of itens) {
+    const chave = `${item.cor}|${item.prova}`
+    if (!candidatos.has(chave)) candidatos.set(chave, { acertos: 0, total: 0, comDificuldade: 0 })
+    const placar = candidatos.get(chave)
 
-  // "digital" precisa sair junto com reaplicação e PPL: o Enem Digital é outra
-  // aplicação, com outras questões, e o arquivo se chama
-  // `2020_PV_digital_D2_CD5.pdf` — mesmo dia, mesmo caderno, prova diferente.
-  // Ao trocar a URL fixa pela busca, foi ele que passou a ser escolhido em
-  // 2020, e o ano inteiro rendeu zero questões sem erro nenhum: o importador
-  // leu direitinho uma prova que não tinha as questões procuradas.
-  const regular = (item) =>
-    item.dia === dia &&
-    !item.reaplicacao &&
-    !item.acessivel &&
-    !/ampliada|libras|ledor|braile|digital/i.test(item.nome)
-
-  const provas = catalogo.filter((i) => i.tipo === "prova" && regular(i) && i.caderno)
-  const gabaritos = catalogo.filter((i) => i.tipo === "gabarito" && regular(i) && i.caderno)
-
-  // O par tem que ser do mesmo caderno: gabarito de outro caderno responde
-  // outra ordem de questões, e o erro só apareceria como divergência lá na
-  // frente, se aparecesse.
-  for (const prova of provas.sort((a, b) => a.caderno - b.caderno)) {
-    const gabarito = gabaritos.find((g) => g.caderno === prova.caderno)
-    if (gabarito) return { prova: prova.url, gabarito: gabarito.url, caderno: prova.caderno }
+    const daApi = respostasDaApi.get(item.posicao)
+    if (!daApi) continue
+    placar.total += 1
+    if (daApi === item.gabarito) placar.acertos += 1
+    if (item.dificuldadeB !== null) placar.comDificuldade += 1
   }
 
-  throw new Error(`Não achei par prova+gabarito do dia ${dia} em ${ano}`)
+  const perfeitos = [...candidatos.entries()]
+    .filter(([, p]) => p.total >= 20 && p.acertos === p.total)
+    // Havendo empate, fica o que tem dificuldade para mais itens: cadernos
+    // diferentes podem repetir o gabarito, mas o que interessa é o que traz
+    // os parâmetros da TRI completos.
+    .sort((a, b) => b[1].comDificuldade - a[1].comDificuldade)
+
+  if (!perfeitos.length) return null
+  const [chave, placar] = perfeitos[0]
+  const [cor, prova] = chave.split("|")
+  return { cor, prova, ...placar }
 }
 
-async function imagensDaApi(ano, numero) {
-  try {
-    const resposta = await fetch(`https://api.enem.dev/v1/exams/${ano}/questions/${numero}`, {
-      headers: { "User-Agent": "AtypicalClass-Importador/1.0" },
-    })
-    if (!resposta.ok) return []
-    const dados = await resposta.json()
-    return Array.isArray(dados.files) ? dados.files : []
-  } catch {
-    // A API é conveniência, não fonte de verdade: se cair, a questão entra
-    // sem imagem em vez de a importação inteira parar.
-    return []
-  }
-}
+export async function importar({ ano, area, lidas = {} }) {
+  const todos = lerItens(await obterItens(ano)).filter((i) => i.area === area && i.lingua !== 1)
+  if (!todos.length) throw new Error(`Microdados de ${ano} não trazem itens da área ${area}`)
 
-export async function importar({ ano, dia, area, urlAcessivel = null }) {
-  const [primeira, ultima] = FAIXAS[area]
+  const posicoes = [...new Set(todos.map((i) => i.posicao))].sort((a, b) => a - b)
 
-  const encontrados = await localizarPdfs(ano, dia)
-  const caderno = encontrados.caderno
-
-  const prova = await baixar(encontrados.prova)
-  const gabaritoPdf = await baixar(encontrados.gabarito)
-  const acessivel = urlAcessivel ? await baixar(urlAcessivel) : null
-
-  const cor = await lerCor(gabaritoPdf)
-  if (!cor) throw new Error(`Não achei a cor do caderno ${caderno} no cabeçalho do gabarito`)
-
-  const respostas = await lerGabarito(gabaritoPdf)
-  const semResposta = conferirCobertura(respostas, primeira, ultima)
-  if (semResposta.length) {
-    throw new Error(`Gabarito não cobre as questões ${semResposta.join(", ")}`)
+  // Uma passada só na API: as questões são reaproveitadas tanto para
+  // identificar o caderno quanto para montar o acervo.
+  const daApi = new Map()
+  for (const posicao of posicoes) {
+    const questao = await buscarQuestao(ano, posicao)
+    if (questao) daApi.set(posicao, questao)
+    await espera(PAUSA_MS)
   }
 
-  const itensMicrodados = lerItens(await obterItens(ano))
-  const escolhida = identificarProva(itensMicrodados, respostas, { area, cor })
-  if (!escolhida) {
+  const respostas = new Map([...daApi].map(([n, q]) => [n, q.correctAlternative]))
+  const caderno = identificarCaderno(todos, respostas)
+  if (!caderno) {
     throw new Error(
-      `Nenhum CO_PROVA de ${area}/${cor} bate 100% com o gabarito do caderno ${caderno}. ` +
-        "Sem essa identificação a dificuldade viria de outra prova.",
+      `Nenhum caderno de ${area}/${ano} bate 100% com as respostas da API. ` +
+        "Sem essa identificação, dificuldade e gabarito viriam de outra prova.",
     )
   }
 
-  const porPosicao = new Map(
-    itensMicrodados
-      .filter((i) => i.prova === escolhida.prova && i.cor === cor && i.lingua !== 1)
-      .map((i) => [i.posicao, i]),
+  const oficiais = new Map(
+    todos.filter((i) => i.cor === caderno.cor && i.prova === caderno.prova).map((i) => [i.posicao, i]),
   )
-
-  /**
-   * A versão acessível é preferida quando existe.
-   *
-   * Ela é de coluna única e traz a notação matemática verbalizada, o que
-   * recupera as questões que o caderno impresso perde — e, de quebra, carrega
-   * a audiodescrição de cada figura. As imagens continuam vindo da API, então
-   * a página pode mostrar a figura para quem enxerga e a descrição para quem
-   * usa leitor de tela, sem escolher entre os dois públicos.
-   */
-  const formato = acessivel ? "acessivel" : "impressa"
-  const linhas = acessivel ? await lerAcessivel(acessivel) : await lerColunas(prova, { maxPaginas: 80 })
-  const doPdf = segmentar(linhas, { formato }).filter((i) => i.numero >= primeira && i.numero <= ultima)
 
   const questoes = []
   const rejeitadas = []
 
-  for (const item of doPdf) {
-    const problemas = conferir(item)
-    if (problemas.length) {
-      rejeitadas.push({ numero: item.numero, problemas })
+  for (const [posicao, questao] of daApi) {
+    const oficial = oficiais.get(posicao)
+    const motivos = []
+
+    if (!oficial) motivos.push("sem item correspondente nos microdados")
+    else if (oficial.anulado) motivos.push("anulada pelo INEP")
+    else if (questao.correctAlternative !== oficial.gabarito) motivos.push("resposta diverge do gabarito oficial")
+
+    const alternativas = (questao.alternatives ?? []).map((a) => ({
+      letra: a.letter,
+      texto: (a.text ?? "").trim(),
+      imagem: a.file ?? null,
+    }))
+    if (alternativas.length !== 5) motivos.push(`${alternativas.length} alternativas`)
+
+    const enunciado = [questao.context, questao.alternativesIntroduction]
+      .filter(Boolean)
+      .join("\n\n")
+      .trim()
+    if (enunciado.length < 40) motivos.push("enunciado ausente ou curto demais")
+
+    if (motivos.length) {
+      rejeitadas.push({ numero: posicao, motivos })
       continue
     }
 
-    const oficial = porPosicao.get(item.numero)
-    const doGabarito = respostas.get(item.numero)
-    const resposta = doGabarito?.resposta
+    const automatica = proporMateria({ enunciado, alternativas, descricoesDeFiguras: [] }, area)
+    // A chave carrega a cor do caderno de propósito. As cores embaralham a
+    // ordem dentro da área, então a questão 97 do amarelo não é a 97 do azul —
+    // uma leitura feita num caderno aplicada a outro rotularia a questão
+    // errada, e em silêncio, que é o pior modo de errar aqui.
+    const lida = lidas[`${ano}-${caderno.cor}-${posicao}`] ?? null
+    const materia = automatica.materia ?? lida
 
-    // Questão anulada sai fora: não tem resposta certa, e oferecê-la ao
-    // professor como se tivesse seria pior do que não tê-la.
-    if (doGabarito?.anulado) {
-      rejeitadas.push({ numero: item.numero, problemas: ["anulada no gabarito oficial"] })
+    if (materia && !materiaCabeNaArea(materia, area)) {
+      rejeitadas.push({ numero: posicao, motivos: [`matéria "${materia}" não pertence à área ${area}`] })
       continue
     }
-
-    if (oficial && oficial.gabarito !== resposta) {
-      rejeitadas.push({ numero: item.numero, problemas: ["gabarito do PDF diverge dos microdados"] })
-      continue
-    }
-    if (oficial?.anulado) {
-      rejeitadas.push({ numero: item.numero, problemas: ["item anulado pelo INEP"] })
-      continue
-    }
-
-    const limpo = separarDescricoes(item.enunciado)
 
     questoes.push({
-      numero: item.numero,
-      enunciado: limpo.enunciado,
-      descricoesDeFiguras: limpo.descricoes,
-      alternativas: item.alternativas,
-      resposta,
-      dificuldade: classificarDificuldade(oficial?.dificuldadeB ?? null),
-      habilidade: oficial?.habilidade ?? null,
-      imagens: await imagensDaApi(ano, item.numero),
-      materia: MATERIA_OFICIAL[area] ?? null,
-      materiaOficial: Boolean(MATERIA_OFICIAL[area]),
+      numero: posicao,
+      enunciado,
+      alternativas,
+      resposta: oficial.gabarito,
+      dificuldade: classificarDificuldade(oficial.dificuldadeB),
+      habilidade: oficial.habilidade,
+      imagens: questao.files ?? [],
+      materia,
+      // De onde veio o rótulo de matéria. "oficial" só existe onde a própria
+      // banca separou a prova por disciplina, o que o ENEM não faz.
+      origemDaMateria: automatica.materia ? "vocabulário" : lida ? "leitura" : null,
       fonte: {
         exame: "ENEM",
         ano,
-        dia,
         area,
-        caderno,
-        cor,
-        numero: item.numero,
-        pagina: item.pagina,
-        prova: encontrados.prova,
-        gabarito: encontrados.gabarito,
+        cor: caderno.cor,
+        numero: posicao,
+        provaMicrodados: caderno.prova,
+        questaoApi: `${API}/${ano}/questions/${posicao}`,
+        microdados: `https://download.inep.gov.br/microdados/microdados_enem_${ano}.zip`,
       },
     })
   }
 
-  return { questoes, rejeitadas, provaMicrodados: escolhida }
+  return { questoes, rejeitadas, caderno }
 }
 
-const [ano, dia, area, urlAcessivel = null] = process.argv.slice(2)
+const [ano, area] = process.argv.slice(2)
 
-if (ano) {
-  const resultado = await importar({
-    ano: Number(ano),
-    dia: Number(dia),
-    area,
-    urlAcessivel,
-  })
+if (ano && area) {
+  const caminhoLidas = join(process.cwd(), "data", "enem", "materias-lidas.json")
+  const lidas = await readFile(caminhoLidas, "utf8").then(JSON.parse).catch(() => ({}))
+
+  const resultado = await importar({ ano: Number(ano), area, lidas })
+
   const destino = join(process.cwd(), "data", "enem")
   await mkdir(destino, { recursive: true })
-  const arquivo = join(destino, `${ano}-d${dia}-${area}.json`)
+  const arquivo = join(destino, `${ano}-${area}.json`)
   await writeFile(arquivo, `${JSON.stringify(resultado.questoes, null, 2)}\n`)
 
-  const comImagem = resultado.questoes.filter((q) => q.imagens.length).length
-  const faixas = {}
-  for (const q of resultado.questoes) {
-    const nome = q.dificuldade?.faixa ?? "sem dificuldade"
-    faixas[nome] = (faixas[nome] ?? 0) + 1
-  }
+  const materias = {}
+  for (const q of resultado.questoes) materias[q.materia ?? "(indefinida)"] = (materias[q.materia ?? "(indefinida)"] ?? 0) + 1
 
-  console.log(`CO_PROVA identificado: ${resultado.provaMicrodados.prova} (${resultado.provaMicrodados.acertos}/${resultado.provaMicrodados.total})`)
-  console.log(`Questões importadas:   ${resultado.questoes.length}`)
-  console.log(`Com imagem:            ${comImagem}`)
-  console.log(`Com audiodescrição:    ${resultado.questoes.filter((q) => q.descricoesDeFiguras.length).length}`)
-  console.log(`Dificuldade:           ${JSON.stringify(faixas)}`)
+  console.log(`Caderno identificado: ${resultado.caderno.cor} / prova ${resultado.caderno.prova} (${resultado.caderno.acertos}/${resultado.caderno.total})`)
+  console.log(`Questões importadas:  ${resultado.questoes.length}`)
+  console.log(`Com imagem:           ${resultado.questoes.filter((q) => q.imagens.length).length}`)
+  console.log(`Matérias:             ${JSON.stringify(materias)}`)
   if (resultado.rejeitadas.length) {
-    console.log(`\nRejeitadas (${resultado.rejeitadas.length}):`)
-    for (const r of resultado.rejeitadas) console.log(`  q${r.numero}: ${r.problemas.join("; ")}`)
+    console.log(`Rejeitadas:           ${resultado.rejeitadas.length}`)
+    for (const r of resultado.rejeitadas.slice(0, 6)) console.log(`  q${r.numero}: ${r.motivos.join("; ")}`)
   }
   console.log(`\nGravado em ${arquivo}`)
 }
