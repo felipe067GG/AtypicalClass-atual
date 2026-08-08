@@ -168,10 +168,30 @@ export function segmentar(linhas) {
  */
 export function conferir(item) {
   const problemas = []
-  if (item.alternativas.length !== 5) problemas.push(`${item.alternativas.length} alternativas`)
+
+  if (item.alternativas.length !== 5) {
+    problemas.push(alternativasSaoImagem(item) ? "alternativas são figuras, não texto" : `${item.alternativas.length} alternativas`)
+  }
   if (item.alternativas.some((a) => !a.texto)) problemas.push("alternativa vazia")
   if (!item.enunciado) problemas.push("enunciado vazio")
+
   return problemas
+}
+
+/**
+ * Distingue "não consegui ler" de "não há o que ler".
+ *
+ * Quando as cinco alternativas são gráficos — comum em Matemática e em
+ * Ciências da Natureza —, a letra aparece sozinha na linha e o desenho vem
+ * embaixo, invisível para o extrator de texto. Sem esta distinção, o relatório
+ * diz "0 alternativas" e parece defeito do parser, quando na verdade a questão
+ * é irrecuperável por texto e precisa da imagem ou de um link para a prova.
+ */
+function alternativasSaoImagem(item) {
+  const letrasSozinhas = LETRAS.filter((letra) =>
+    item.enunciado.split("\n").some((linha) => linha.trim() === letra),
+  )
+  return letrasSozinhas.length >= 4
 }
 
 /**

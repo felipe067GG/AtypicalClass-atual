@@ -31,6 +31,16 @@ export async function lerGabarito(pdf) {
   const respostas = new Map()
 
   for (const linha of stdout.split("\n")) {
+    // Questão anulada não tem letra: o gabarito imprime "177  Anulado". Sem
+    // reconhecer isso, a conferência de cobertura acusa buraco e a importação
+    // para — foi o que aconteceu com a 177 de 2023.
+    for (const match of linha.matchAll(/\b(\d{1,3})\s+Anulad[oa]/gi)) {
+      const numero = Number(match[1])
+      if (numero >= 1 && numero <= 180 && !respostas.has(numero)) {
+        respostas.set(numero, { anulado: true })
+      }
+    }
+
     // Cada ocorrência de "<número> <letras>" na linha é uma questão. Uma linha
     // pode conter duas, porque o gabarito é impresso em duas colunas.
     for (const match of linha.matchAll(/\b(\d{1,3})\b((?:\s+[A-E]\b)+)/g)) {
@@ -47,6 +57,39 @@ export async function lerGabarito(pdf) {
   }
 
   return respostas
+}
+
+/**
+ * Descobre a cor do caderno lendo o cabeçalho do gabarito.
+ *
+ * A cor é o que liga o PDF aos microdados, e ela não é dedutível do número do
+ * caderno: o caderno 1 do primeiro dia é azul, o 5 do segundo é amarelo, e a
+ * correspondência muda a cada ano. Passar a cor à mão é o tipo de parâmetro
+ * que alguém erra uma vez e ninguém percebe, porque o importador simplesmente
+ * não encontra prova nenhuma — ou, pior, encontra a errada.
+ *
+ * O gabarito imprime a cor no masculino ("Amarelo") e os microdados guardam no
+ * feminino ("AMARELA"), daí a tradução.
+ */
+const CORES = {
+  AZUL: "AZUL",
+  AMARELO: "AMARELA",
+  BRANCO: "BRANCA",
+  ROSA: "ROSA",
+  LARANJA: "LARANJA",
+  VERDE: "VERDE",
+  CINZA: "CINZA",
+}
+
+export async function lerCor(pdf) {
+  const { stdout } = await exec("pdftotext", ["-layout", "-enc", "UTF-8", "-f", "1", "-l", "1", pdf, "-"], {
+    maxBuffer: 8 * 1024 * 1024,
+  })
+
+  for (const [impressa, microdados] of Object.entries(CORES)) {
+    if (new RegExp(`\\b${impressa}\\b`, "i").test(stdout)) return microdados
+  }
+  return null
 }
 
 /**

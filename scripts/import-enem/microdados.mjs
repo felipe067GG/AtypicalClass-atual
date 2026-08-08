@@ -155,7 +155,7 @@ export function identificarProva(itens, respostasDoPdf, { area, cor = "AZUL" }) 
       if (item.area !== area || item.cor !== cor || item.prova !== prova) continue
       if (item.lingua === 1) continue // espanhol tem gabarito próprio
       const oficial = respostasDoPdf.get(item.posicao)
-      if (!oficial) continue
+      if (!oficial || oficial.anulado) continue
       total += 1
       if (oficial.resposta === item.gabarito) acertos += 1
     }
