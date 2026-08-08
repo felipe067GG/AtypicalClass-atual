@@ -20,7 +20,7 @@
 import { mkdir, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 
-import { baixar } from "./inep.mjs"
+import { baixar, listarPdfs, classificar } from "./inep.mjs"
 import { lerGabarito, conferirCobertura, lerCor } from "./gabarito.mjs"
 import { lerColunas, lerAcessivel, segmentar, conferir, separarDescricoes } from "./prova.mjs"
 import { lerItens, identificarProva, classificarDificuldade, obterItens } from "./microdados.mjs"
@@ -42,7 +42,41 @@ const FAIXAS = {
  */
 const MATERIA_OFICIAL = { MT: "Matemática" }
 
-const BASE_PDF = "https://download.inep.gov.br/enem/provas_e_gabaritos"
+/**
+ * Encontra prova e gabarito de um dia, perguntando à página do ano.
+ *
+ * Montar a URL por padrão de nome não funciona: o mesmo arquivo
+ * `2016_PV_impresso_D2_CD5.pdf` mora em `educacao_basica/enem/provas/2016/`,
+ * enquanto o de 2023 mora em `enem/provas_e_gabaritos/`. O nome é estável, o
+ * caminho não — e adivinhar dava 404 em tudo antes de 2019, o que parecia
+ * ausência de prova e era só endereço errado.
+ *
+ * Fica de fora o que não é a aplicação regular impressa: reaplicação e PPL são
+ * outra prova, versões ampliadas repetem o conteúdo em outro formato, e a
+ * acessível entra por outro caminho, quando pedida.
+ */
+async function localizarPdfs(ano, dia) {
+  const catalogo = (await listarPdfs(ano)).map(classificar)
+
+  const regular = (item) =>
+    item.dia === dia &&
+    !item.reaplicacao &&
+    !item.acessivel &&
+    !/ampliada|libras|ledor|braile/i.test(item.nome)
+
+  const provas = catalogo.filter((i) => i.tipo === "prova" && regular(i) && i.caderno)
+  const gabaritos = catalogo.filter((i) => i.tipo === "gabarito" && regular(i) && i.caderno)
+
+  // O par tem que ser do mesmo caderno: gabarito de outro caderno responde
+  // outra ordem de questões, e o erro só apareceria como divergência lá na
+  // frente, se aparecesse.
+  for (const prova of provas.sort((a, b) => a.caderno - b.caderno)) {
+    const gabarito = gabaritos.find((g) => g.caderno === prova.caderno)
+    if (gabarito) return { prova: prova.url, gabarito: gabarito.url, caderno: prova.caderno }
+  }
+
+  throw new Error(`Não achei par prova+gabarito do dia ${dia} em ${ano}`)
+}
 
 async function imagensDaApi(ano, numero) {
   try {
@@ -59,11 +93,14 @@ async function imagensDaApi(ano, numero) {
   }
 }
 
-export async function importar({ ano, dia, area, caderno, urlAcessivel = null }) {
+export async function importar({ ano, dia, area, urlAcessivel = null }) {
   const [primeira, ultima] = FAIXAS[area]
 
-  const prova = await baixar(`${BASE_PDF}/${ano}_PV_impresso_D${dia}_CD${caderno}.pdf`)
-  const gabaritoPdf = await baixar(`${BASE_PDF}/${ano}_GB_impresso_D${dia}_CD${caderno}.pdf`)
+  const encontrados = await localizarPdfs(ano, dia)
+  const caderno = encontrados.caderno
+
+  const prova = await baixar(encontrados.prova)
+  const gabaritoPdf = await baixar(encontrados.gabarito)
   const acessivel = urlAcessivel ? await baixar(urlAcessivel) : null
 
   const cor = await lerCor(gabaritoPdf)
@@ -155,8 +192,8 @@ export async function importar({ ano, dia, area, caderno, urlAcessivel = null })
         cor,
         numero: item.numero,
         pagina: item.pagina,
-        prova: `${BASE_PDF}/${ano}_PV_impresso_D${dia}_CD${caderno}.pdf`,
-        gabarito: `${BASE_PDF}/${ano}_GB_impresso_D${dia}_CD${caderno}.pdf`,
+        prova: encontrados.prova,
+        gabarito: encontrados.gabarito,
       },
     })
   }
@@ -164,14 +201,13 @@ export async function importar({ ano, dia, area, caderno, urlAcessivel = null })
   return { questoes, rejeitadas, provaMicrodados: escolhida }
 }
 
-const [ano, dia, area, caderno = dia === "1" ? "1" : "5", urlAcessivel = null] = process.argv.slice(2)
+const [ano, dia, area, urlAcessivel = null] = process.argv.slice(2)
 
 if (ano) {
   const resultado = await importar({
     ano: Number(ano),
     dia: Number(dia),
     area,
-    caderno: Number(caderno),
     urlAcessivel,
   })
   const destino = join(process.cwd(), "data", "enem")

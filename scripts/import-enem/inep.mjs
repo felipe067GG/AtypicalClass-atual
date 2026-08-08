@@ -55,19 +55,33 @@ export async function listarPdfs(ano) {
  */
 export function classificar(url) {
   const nome = url.split("/").pop() ?? ""
-  const ano = Number(nome.match(/^(\d{4})/)?.[1])
-  const dia = Number(nome.match(/(?:Dia_|D)(\d)/)?.[1])
-  const caderno = Number(nome.match(/(?:Caderno_|CD)(\d+)/)?.[1])
+
+  // A convenção de nome mudou ao longo dos anos, e não só o diretório. Em 2023
+  // o gabarito é "2023_GB_impresso_D2_CD5.pdf"; em 2016, o mesmo documento é
+  // "GAB_ENEM_2016_DIA_1_01_AZUL.pdf". Reconhecer só o formato novo fazia todo
+  // arquivo antigo ser tomado por prova, e a busca pelo par prova+gabarito
+  // falhava dizendo que não havia gabarito nenhum.
+  const ano = Number(nome.match(/(?:^|_)(20\d{2})(?:_|\b)/)?.[1])
+  // Três convenções convivem: "D2", "DIA_2" e "2_dia" (2019 inverte a ordem).
+  // Sem `\b` no fim: em "D2_CD5" não há fronteira de palavra entre o "2" e o
+  // "_", porque o underscore conta como caractere de palavra.
+  const dia = Number(
+    nome.match(/(?:dia[_\s]?|_D)(\d)(?!\d)/i)?.[1] ?? nome.match(/(\d)[_\s]?dia/i)?.[1],
+  )
+  const caderno = Number(
+    nome.match(/(?:caderno[_\s]?|CD)(\d+)/i)?.[1] ??
+      nome.match(/_(\d{2})_(?:AZUL|AMARELO|BRANCO|ROSA|CINZA|VERDE|LARANJA)/i)?.[1],
+  )
   const area = nome.match(/_(LC|CH|CN|MT)_/)?.[1] ?? null
 
   return {
     url,
     nome,
-    ano,
+    ano: Number.isNaN(ano) ? null : ano,
     dia: Number.isNaN(dia) ? null : dia,
     caderno: Number.isNaN(caderno) ? null : caderno,
     area,
-    tipo: /_GB_/.test(nome) ? "gabarito" : "prova",
+    tipo: /_GB_|^GAB[_\b]|gabarito/i.test(nome) ? "gabarito" : "prova",
     acessivel: /NVDA/i.test(nome),
     reaplicacao: /reaplicacao|PPL/i.test(nome),
   }

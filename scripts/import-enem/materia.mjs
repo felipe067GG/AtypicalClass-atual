@@ -34,19 +34,19 @@ export const MATERIAS_POR_AREA = {
  */
 const LEXICO = {
   Física: {
-    3: ["newton", "joule", "watt", "aceleração", "velocidade média", "energia cinética", "circuito elétrico", "resistor", "campo magnético", "onda sonora", "refração", "atrito"],
-    2: ["força", "movimento", "massa específica", "trabalho realizado", "potência", "corrente elétrica", "tensão", "espelho", "lente", "frequência", "comprimento de onda", "pressão"],
-    1: ["velocidade", "aceleração da gravidade", "energia", "calor", "temperatura"],
+    3: ["newton", "joule", "watt", "ampère", "volt", "ohm", "hertz", "decibel", "quilowatt", "kwh", "energia cinética", "energia potencial", "circuito elétrico", "resistor", "resistência elétrica", "campo magnético", "campo elétrico", "onda sonora", "refração", "reflexão da luz", "atrito", "empuxo", "aceleração", "efeito fotoelétrico", "meia-vida", "termodinâmica", "entropia", "velocidade média", "queda livre", "movimento uniforme", "espelho côncavo", "lente convergente", "índice de refração", "capacitor", "transformador", "corrente contínua", "corrente alternada"],
+    2: ["força resultante", "trabalho realizado", "potência", "corrente elétrica", "tensão elétrica", "espelho", "lente", "frequência", "comprimento de onda", "pressão", "densidade", "calor específico", "dilatação", "condução térmica", "irradiação", "colisão", "gravitacional", "fóton", "radiação", "espectro", "usina", "turbina", "motor", "aceleração da gravidade", "massa específica", "vetor", "inércia"],
+    1: ["velocidade", "força", "movimento", "calor", "temperatura", "luz", "som"],
   },
   Química: {
-    3: ["mol", "tabela periódica", "ligação covalente", "ligação iônica", "número atômico", "massa molar", "reação química", "ácido", "base", "ph", "oxidação", "hidrocarboneto", "isômero"],
-    2: ["átomo", "molécula", "íon", "solução aquosa", "concentração", "catalisador", "combustão", "eletrólise", "polímero", "solubilidade"],
-    1: ["substância", "composto", "elemento químico"],
+    3: ["mol", "tabela periódica", "ligação covalente", "ligação iônica", "ligação metálica", "número atômico", "massa molar", "massa atômica", "estequiometria", "hidrocarboneto", "isômero", "eletronegatividade", "eletrólise", "entalpia", "exotérmica", "endotérmica", "equilíbrio químico", "cátion", "ânion", "oxirredução", "número de oxidação", "molaridade", "concentração molar", "grupo funcional", "química orgânica", "alcano", "alceno", "éster", "cetona", "aldeído", "ácido carboxílico", "solução aquosa", "titulação"],
+    2: ["reação química", "ácido", "base", "sal", "óxido", "átomo", "molécula", "íon", "concentração", "catalisador", "combustão", "polímero", "solubilidade", "soluto", "solvente", "oxidação", "redução", "pilha", "corrosão", "ph", "acidez", "alcalino", "gás carbônico", "precipitado"],
+    1: ["substância", "composto", "elemento químico", "mistura", "fórmula"],
   },
   Biologia: {
-    3: ["célula", "dna", "rna", "gene", "cromossomo", "fotossíntese", "ecossistema", "espécie", "evolução", "seleção natural", "bactéria", "vírus", "enzima", "hormônio", "cadeia alimentar"],
-    2: ["organismo", "tecido", "membrana", "reprodução", "metabolismo", "população", "biodiversidade", "vacina", "imunidade", "proteína"],
-    1: ["ambiente", "planta", "animal"],
+    3: ["célula", "dna", "rna", "gene", "cromossomo", "fotossíntese", "respiração celular", "mitose", "meiose", "ecossistema", "bioma", "seleção natural", "cadeia alimentar", "teia alimentar", "enzima", "hormônio", "anticorpo", "antígeno", "mitocôndria", "cloroplasto", "ribossomo", "membrana plasmática", "genótipo", "fenótipo", "alelo", "hereditariedade", "mutação", "sistema nervoso", "sistema imunológico", "atp", "aminoácido", "clorofila", "fungo", "protozoário", "parasita", "hospedeiro"],
+    2: ["organismo", "tecido", "membrana", "reprodução", "metabolismo", "população", "biodiversidade", "vacina", "imunidade", "proteína", "espécie", "evolução", "bactéria", "vírus", "predador", "cadeia trófica", "polinização", "germinação", "hábitat", "nutriente", "digestão", "sangue", "neurônio"],
+    1: ["ambiente", "planta", "animal", "vida", "saúde"],
   },
 }
 
