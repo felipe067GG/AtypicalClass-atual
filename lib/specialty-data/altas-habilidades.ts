@@ -13,8 +13,10 @@ import { withCommonCourses, withCommonResources } from "./shared"
  * respaldo empírico mais forte, sobretudo em matemática — por isso ela e o
  * enriquecimento aparecem com níveis de evidência diferentes aqui.
  *
- * Nota de verificação: as páginas da NAGC respondem 403 ao verificador, então
- * não entraram.
+ * Nota de verificação: a NAGC responde 403 a requisição automatizada. O
+ * mantenedor abriu a página no navegador e confirmou em 08/08/2026, então ela
+ * entra com exceção registrada em `scripts/check-links.mjs` — só o endereço
+ * confirmado, não o site inteiro.
  */
 
 const RENZULLI_ART: Citation = {
@@ -631,6 +633,24 @@ export function altasHabilidadesData(_t: Translate): SpecialtyData {
       featured: false,
       url: "https://udlguidelines.cast.org/",
       publisher: "CAST",
+      language: "en" as const,
+      format: "Site" as const,
+    },
+    {
+      title: ml(
+        "National Association for Gifted Children",
+        "National Association for Gifted Children",
+        "National Association for Gifted Children",
+      ),
+      type: ml("Referência", "Reference", "Referencia"),
+      description: ml(
+        "Entidade de referência em altas habilidades, com posicionamentos, padrões de programação e material sobre identificação equitativa.",
+        "The reference body on giftedness, with position statements, programming standards and material on equitable identification.",
+        "Entidad de referencia en altas capacidades, con posicionamientos, estándares de programación y material sobre identificación equitativa.",
+      ),
+      featured: false,
+      url: "https://www.nagc.org/",
+      publisher: "National Association for Gifted Children",
       language: "en" as const,
       format: "Site" as const,
     },

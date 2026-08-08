@@ -11,10 +11,12 @@ import { withCommonCourses, withCommonResources } from "./shared"
  * informação precisa ser construído deliberadamente, pelo tato e pela rotina.
  *
  * Nota de verificação: Perkins School for the Blind e o site principal do
- * National Center on Deafblindness respondem 403 ao verificador. Em vez de
- * incluir link que não pude checar, busquei alternativas — o Moodle do próprio
- * NCDB, onde ficam os módulos OHOA, o programa de interventores da Utah State
- * e o California Deafblind Services respondem normalmente.
+ * National Center on Deafblindness respondem 403 ao verificador — bloqueio de
+ * robô. O mantenedor confirmou as duas no navegador em 08/08/2026 e elas
+ * entram com exceção registrada em `scripts/check-links.mjs`, cada uma só no
+ * endereço confirmado. As alternativas que já respondiam sozinhas continuam
+ * aqui: o Moodle do próprio NCDB, onde ficam os módulos OHOA, o programa de
+ * interventores da Utah State e o California Deafblind Services.
  */
 
 const OHOA: Citation = {
@@ -592,6 +594,38 @@ export function surdocegueiraData(_t: Translate): SpecialtyData {
       featured: false,
       url: "https://www.pathstoliteracy.org/multiple-disabilities/",
       publisher: "Perkins School for the Blind / TSBVI",
+      language: "en" as const,
+      format: "Site" as const,
+    },
+    {
+      title: ml(
+        "NCDB — serviços de apoio às redes estaduais",
+        "NCDB — services supporting state networks",
+        "NCDB — servicios de apoyo a las redes estatales",
+      ),
+      type: ml("Referência", "Reference", "Referencia"),
+      description: ml(
+        "O que o centro nacional oferece a escolas e famílias: assistência técnica, formação e apoio à identificação de alunos surdocegos.",
+        "What the national centre offers schools and families: technical assistance, training and support for identifying deafblind students.",
+        "Lo que el centro nacional ofrece a escuelas y familias: asistencia técnica, formación y apoyo a la identificación de alumnos sordociegos.",
+      ),
+      featured: false,
+      url: "https://www.nationaldb.org/about-us/ncdb-services/",
+      publisher: "National Center on Deafblindness",
+      language: "en" as const,
+      format: "Site" as const,
+    },
+    {
+      title: ml("Perkins School for the Blind", "Perkins School for the Blind", "Perkins School for the Blind"),
+      type: ml("Referência", "Reference", "Referencia"),
+      description: ml(
+        "Instituição onde nasceu boa parte da prática em surdocegueira, com formação docente e material sobre comunicação e rotina.",
+        "The institution where much of deafblindness practice originated, with teacher training and material on communication and routine.",
+        "Institución donde nació buena parte de la práctica en sordoceguera, con formación docente y material sobre comunicación y rutina.",
+      ),
+      featured: false,
+      url: "https://www.perkins.org/",
+      publisher: "Perkins School for the Blind",
       language: "en" as const,
       format: "Site" as const,
     },

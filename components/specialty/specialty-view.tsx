@@ -199,8 +199,23 @@ export function SpecialtyView({
             ))}
           </TabsList>
 
+          {/*
+            `forceMount` nas quatro abas: sem ele o Radix monta só o painel
+            ativo, e três quartos do conteúdo verificado — atividades, cursos e
+            materiais — não existiam no HTML entregue pelo servidor. Quem
+            indexa o site via apenas as estratégias; o resto só aparecia depois
+            de um clique que robô nenhum dá.
+
+            Montado, o painel inativo continua com o atributo `hidden`, então
+            leitor de tela e navegação por teclado seguem enxergando uma aba de
+            cada vez. O que muda é só o que está presente no documento.
+
+            Isto não vale para as abas de formulário (login/cadastro em /auth,
+            e /contribuir): ali montar tudo duplicaria campos no DOM.
+          */}
+
           {/* ------------------------------------------------------ Estratégias */}
-          <TabsContent value="strategies">
+          <TabsContent value="strategies" forceMount>
             <motion.div
               variants={stagger}
               {...inView}
@@ -269,7 +284,7 @@ export function SpecialtyView({
           </TabsContent>
 
           {/* ------------------------------------------------------- Atividades */}
-          <TabsContent value="activities">
+          <TabsContent value="activities" forceMount>
             <motion.div variants={stagger} {...inView} className="grid gap-6 md:grid-cols-2">
               {data.activities.map((activity, index) => (
                 <motion.div key={index} variants={fadeUp}>
@@ -351,7 +366,7 @@ export function SpecialtyView({
           </TabsContent>
 
           {/* ----------------------------------------------------------- Cursos */}
-          <TabsContent value="courses">
+          <TabsContent value="courses" forceMount>
             <motion.div variants={stagger} {...inView} className="grid gap-6 md:grid-cols-2">
               {data.courses.map((course, index) => (
                 <motion.div key={index} variants={fadeUp}>
@@ -416,7 +431,7 @@ export function SpecialtyView({
           </TabsContent>
 
           {/* -------------------------------------------------------- Materiais */}
-          <TabsContent value="resources">
+          <TabsContent value="resources" forceMount>
             <motion.div variants={staggerFast} {...inView} className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               {data.resources.map((resource, index) => (
                 <motion.div key={index} variants={fadeUp}>

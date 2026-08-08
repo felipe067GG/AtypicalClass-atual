@@ -9,10 +9,10 @@ import { withCommonCourses, withCommonResources } from "./shared"
  * mantida com a Perkins School for the Blind e o TSBVI) e a American Printing
  * House for the Blind, além dos fascículos do MEC.
  *
- * Nota sobre verificação: as páginas da perkins.org respondem 403 ao
- * verificador automático (bloqueio de bot). Como não consegui confirmá-las por
- * outro caminho, elas ficaram de fora — só entram links que o
- * `npm run check:links` consegue validar.
+ * Nota sobre verificação: a perkins.org responde 403 ao verificador automático
+ * (bloqueio de robô). O mantenedor abriu a página no navegador e confirmou em
+ * 08/08/2026, então ela entra com exceção registrada em
+ * `scripts/check-links.mjs` — só o endereço confirmado, não o site inteiro.
  */
 
 const PATHS: Citation = {
@@ -680,6 +680,20 @@ export function deficienciaVisualData(_t: Translate): SpecialtyData {
       featured: false,
       url: "https://udlguidelines.cast.org/",
       publisher: "CAST",
+      language: "en" as const,
+      format: "Site" as const,
+    },
+    {
+      title: ml("Perkins School for the Blind", "Perkins School for the Blind", "Perkins School for the Blind"),
+      type: ml("Referência", "Reference", "Referencia"),
+      description: ml(
+        "Instituição de referência mundial em cegueira e baixa visão, com formação docente e material sobre acesso à leitura e vida autônoma.",
+        "A world reference institution in blindness and low vision, with teacher training and material on literacy access and independent living.",
+        "Institución de referencia mundial en ceguera y baja visión, con formación docente y material sobre acceso a la lectura y vida autónoma.",
+      ),
+      featured: false,
+      url: "https://www.perkins.org/",
+      publisher: "Perkins School for the Blind",
       language: "en" as const,
       format: "Site" as const,
     },

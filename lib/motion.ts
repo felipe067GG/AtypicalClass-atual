@@ -45,6 +45,19 @@ export const inView = {
   viewport: { once: true, margin: "-64px" },
 } as const
 
+/**
+ * Atraso em cascata para listas longas, com teto.
+ *
+ * Multiplicar o índice pelo atraso funciona em uma lista de seis cards e
+ * quebra em uma de quatrocentos: o último item só apareceria vinte segundos
+ * depois, e como o HTML das listas agora já vem pronto do servidor, isso
+ * seria conteúdo presente na página e invisível na tela. O teto mantém a
+ * sensação de cascata no que se vê de primeira e entrega o resto de imediato.
+ */
+export function staggerDelay(index: number, step = 0.05, maxSteps = 8): number {
+  return Math.min(index, maxSteps) * step
+}
+
 /** Realce discreto de card sob o cursor. */
 export const hoverLift = {
   whileHover: { y: -4, transition: { duration: 0.2, ease: EASE_OUT } },

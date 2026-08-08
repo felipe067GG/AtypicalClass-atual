@@ -9,6 +9,12 @@ import { withCommonCourses, withCommonResources } from "./shared"
  * alunos — é mais comum que autismo e que dislexia — e mesmo assim quase
  * nunca é identificado na escola. A criança costuma ser lida como desatenta,
  * desinteressada ou "que não presta atenção".
+ *
+ * Nota de verificação: a ASHA, entidade das fonoaudiólogas e terapeutas da
+ * fala nos EUA, responde 403 a requisição automatizada. O mantenedor abriu a
+ * página no navegador e confirmou em 08/08/2026, então ela entra com exceção
+ * registrada em `scripts/check-links.mjs` — só o endereço confirmado, não o
+ * site inteiro.
  */
 
 const RADLD: Citation = {
@@ -547,6 +553,24 @@ export function transtornoDeLinguagemData(_t: Translate): SpecialtyData {
       featured: false,
       url: "https://thedldproject.com/dld-training/",
       publisher: "The DLD Project",
+      language: "en" as const,
+      format: "Site" as const,
+    },
+    {
+      title: ml(
+        "American Speech-Language-Hearing Association",
+        "American Speech-Language-Hearing Association",
+        "American Speech-Language-Hearing Association",
+      ),
+      type: ml("Referência", "Reference", "Referencia"),
+      description: ml(
+        "Entidade das fonoaudiólogas e terapeutas da fala nos EUA: referência técnica sobre desenvolvimento da linguagem, avaliação e intervenção.",
+        "The US body for speech-language pathologists: the technical reference on language development, assessment and intervention.",
+        "Entidad de las fonoaudiólogas y terapeutas del habla en EE. UU.: referencia técnica sobre desarrollo del lenguaje, evaluación e intervención.",
+      ),
+      featured: false,
+      url: "https://www.asha.org/",
+      publisher: "American Speech-Language-Hearing Association",
       language: "en" as const,
       format: "Site" as const,
     },

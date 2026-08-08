@@ -10,8 +10,10 @@ import { withCommonCourses, withCommonResources } from "./shared"
  * alunos com dislexia, mas para todos os leitores — o que muda o argumento na
  * escola: não é adaptação para um, é melhoria para a turma.
  *
- * Nota de verificação: as páginas da International Dyslexia Association
- * respondem 403 ao verificador e a qualquer leitura minha, então não entraram.
+ * Nota de verificação: a International Dyslexia Association responde 403 a
+ * requisição automatizada. O mantenedor abriu a página no navegador e
+ * confirmou em 08/08/2026, então ela entra com exceção registrada em
+ * `scripts/check-links.mjs` — só o endereço confirmado, não o site inteiro.
  */
 
 const READING_ROCKETS: Citation = {
@@ -684,6 +686,24 @@ export function dislexiaData(_t: Translate): SpecialtyData {
       featured: false,
       url: "https://intensiveintervention.org/",
       publisher: "NCII — American Institutes for Research",
+      language: "en" as const,
+      format: "Site" as const,
+    },
+    {
+      title: ml(
+        "International Dyslexia Association",
+        "International Dyslexia Association",
+        "International Dyslexia Association",
+      ),
+      type: ml("Referência", "Reference", "Referencia"),
+      description: ml(
+        "Entidade de referência internacional em dislexia, com fact sheets, padrões de formação docente e material para famílias.",
+        "The international reference body on dyslexia, with fact sheets, teacher preparation standards and family material.",
+        "Entidad de referencia internacional en dislexia, con fact sheets, estándares de formación docente y material para familias.",
+      ),
+      featured: false,
+      url: "https://dyslexiaida.org/",
+      publisher: "International Dyslexia Association",
       language: "en" as const,
       format: "Site" as const,
     },

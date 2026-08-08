@@ -45,6 +45,19 @@ const TabsContent = React.forwardRef<
     ref={ref}
     className={cn(
       "mt-2 ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2",
+      // Esconde o painel inativo pelo `data-state`, e não pelo atributo
+      // `hidden` do Radix.
+      //
+      // O Radix escreve `hidden={!present}`, e com `forceMount` o `present` é
+      // sempre verdadeiro — ou seja, quem força a montagem fica responsável
+      // por esconder o que não está ativo. Sem esta regra, as abas montadas
+      // aparecem todas empilhadas na página.
+      //
+      // `display:none` também tira o painel da árvore de acessibilidade, então
+      // leitor de tela continua enxergando uma aba por vez, como antes. Quem
+      // não usa `forceMount` não é afetado: ali o painel inativo nem chega a
+      // ser renderizado.
+      "data-[state=inactive]:hidden",
       className
     )}
     {...props}

@@ -15,6 +15,33 @@ const DIRS = ["lib/specialty-data", "lib"]
 const TIMEOUT_MS = 20000
 const CONCURRENCY = 10
 
+/**
+ * Fontes que bloqueiam o verificador, confirmadas à mão.
+ *
+ * Estes endereços respondem 403 a qualquer requisição automatizada — é
+ * bloqueio de robô, não link quebrado. Cada um foi aberto no navegador pelo
+ * mantenedor em 08/08/2026 e confirmado como existente.
+ *
+ * Duas restrições mantêm a exceção honesta:
+ *
+ *  1. Vale por URL exata, não por domínio. Qualquer outra página do mesmo site
+ *     continua precisando passar pela verificação normal — a confirmação foi
+ *     destas páginas, não de tudo que a instituição publica.
+ *  2. Só o 403 é perdoado. Se um destes endereços passar a responder 404, erro
+ *     de DNS ou timeout, volta a ser falha — porque aí não é mais bloqueio de
+ *     robô, é link morto.
+ */
+const CONFIRMED_BLOCKED = new Map([
+  ["https://dyslexiaida.org/", "International Dyslexia Association"],
+  ["https://www.perkins.org/", "Perkins School for the Blind"],
+  // A NAGC respondeu 206 normalmente na verificação de 08/08/2026. Fica na
+  // lista porque bloqueio de robô costuma variar com o ponto de saída e com o
+  // horário: se voltar a 403, a fonte confirmada não derruba o build.
+  ["https://www.nagc.org/", "National Association for Gifted Children"],
+  ["https://www.asha.org/", "American Speech-Language-Hearing Association"],
+  ["https://www.nationaldb.org/about-us/ncdb-services/", "National Center on Deafblindness"],
+])
+
 async function collectUrls() {
   const found = new Map() // url -> Set(arquivo)
 
@@ -66,6 +93,12 @@ async function check(url) {
       return { ok: false, status: response.status, type, error: `esperado PDF, veio ${type.split(";")[0]}` }
     }
 
+    // Bloqueio de robô em fonte já confirmada no navegador: passa, mas o
+    // relatório diz que passou por exceção, não por ter respondido.
+    if (response.status === 403 && CONFIRMED_BLOCKED.has(url)) {
+      return { ok: true, status: 403, type, confirmed: true }
+    }
+
     return { ok: response.ok, status: response.status, type }
   } catch (error) {
     return { ok: false, status: 0, type: "", error: error.name === "AbortError" ? "timeout" : error.message }
@@ -88,10 +121,18 @@ for (let i = 0; i < entries.length; i += CONCURRENCY) {
 
   for (const { url, files, result } of results) {
     const mark = result.ok ? "  ok  " : " FALHA"
-    const detail = result.ok ? String(result.status) : `${result.status || result.error}`
+    const detail = result.confirmed ? "403 conf" : result.ok ? String(result.status) : `${result.status || result.error}`
     console.log(`${mark} ${detail.padEnd(8)} ${url}`)
     if (!result.ok) failures.push({ url, files: [...files], detail })
   }
+}
+
+// Exceção que não corresponde a nenhum link em uso é exceção esquecida —
+// avisa para que a lista não vire um depósito de permissões sem dono.
+const orphans = [...CONFIRMED_BLOCKED.keys()].filter((url) => !urls.has(url))
+if (orphans.length) {
+  console.log(`\nExceções sem link correspondente (remova de CONFIRMED_BLOCKED):`)
+  for (const url of orphans) console.log(`  ${url}`)
 }
 
 if (failures.length) {
