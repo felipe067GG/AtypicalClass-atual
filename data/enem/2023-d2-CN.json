@@ -473,9 +473,7 @@
       "faixa": "Médio"
     },
     "habilidade": 29,
-    "imagens": [
-      "https://enem.dev/2023/questions/100/92848aa5-da82-4c66-9945-7051120a42c9.jpg"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -916,7 +914,9 @@
       "faixa": "Médio"
     },
     "habilidade": 16,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/109/e083688b-cc00-4c8b-9de6-01f07a7a6a5c.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -965,7 +965,10 @@
       "faixa": "Médio"
     },
     "habilidade": 25,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/110/9874e4c1-d246-4697-8798-52f1577c2542.png",
+      "https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1014,7 +1017,9 @@
       "faixa": "Médio"
     },
     "habilidade": 8,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/111/9ae85aec-1b17-4ee7-afd9-e9cf17101aca.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1161,7 +1166,9 @@
       "faixa": "Médio"
     },
     "habilidade": 19,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/114/e245e16d-8a95-4b2e-ab33-6dd299ff9474.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -2043,7 +2050,9 @@
       "faixa": "Médio"
     },
     "habilidade": 20,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2023/questions/135/11f4c343-9f23-4f60-a61f-10d4dbc2eb6c.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {

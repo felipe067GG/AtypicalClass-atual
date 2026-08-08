@@ -58,11 +58,17 @@ const MATERIA_OFICIAL = { MT: "Matemática" }
 async function localizarPdfs(ano, dia) {
   const catalogo = (await listarPdfs(ano)).map(classificar)
 
+  // "digital" precisa sair junto com reaplicação e PPL: o Enem Digital é outra
+  // aplicação, com outras questões, e o arquivo se chama
+  // `2020_PV_digital_D2_CD5.pdf` — mesmo dia, mesmo caderno, prova diferente.
+  // Ao trocar a URL fixa pela busca, foi ele que passou a ser escolhido em
+  // 2020, e o ano inteiro rendeu zero questões sem erro nenhum: o importador
+  // leu direitinho uma prova que não tinha as questões procuradas.
   const regular = (item) =>
     item.dia === dia &&
     !item.reaplicacao &&
     !item.acessivel &&
-    !/ampliada|libras|ledor|braile/i.test(item.nome)
+    !/ampliada|libras|ledor|braile|digital/i.test(item.nome)
 
   const provas = catalogo.filter((i) => i.tipo === "prova" && regular(i) && i.caderno)
   const gabaritos = catalogo.filter((i) => i.tipo === "gabarito" && regular(i) && i.caderno)

@@ -181,9 +181,7 @@
       "faixa": "Médio"
     },
     "habilidade": 2,
-    "imagens": [
-      "https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -232,9 +230,7 @@
       "faixa": "Médio"
     },
     "habilidade": 1,
-    "imagens": [
-      "https://enem.dev/2022/questions/96/970c1d36-8b55-4012-b912-db3efb32fbe4.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -430,9 +426,7 @@
       "faixa": "Médio"
     },
     "habilidade": 9,
-    "imagens": [
-      "https://enem.dev/2022/questions/100/109f2a39-f073-4841-9cec-bed51e1c1f12.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -481,10 +475,7 @@
       "faixa": "Médio"
     },
     "habilidade": 22,
-    "imagens": [
-      "https://enem.dev/2022/questions/101/afa4fc86-8d89-4713-a690-8306324d23ed.png",
-      "https://enem.dev/2022/questions/101/d492e2a3-b988-4c38-802d-20d5f73c3b72.png"
-    ],
+    "imagens": [],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1139,7 +1130,7 @@
   },
   {
     "numero": 115,
-    "enunciado": "Um Buraco Negro é um corpo celeste que possui uma\ngrande quantidade de matéria concentrada em uma pequena\nregião do espaço, de modo que sua força gravitacional é\ntão grande que qualquer partícula fica aprisionada em sua\nsuperfície, inclusive a luz. O raio dessa região caracteriza\numa superfície-limite, chamada de horizonte de eventos,\nda qual nada consegue escapar. Considere que o Sol foi\ninstantaneamente substituído por um Buraco Negro com\na mesma massa solar, de modo que o seu horizonte de\neventos seja de aproximadamente 3,0 km.\nSCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to\nEinstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).\nApós a substituição descrita, o que aconteceria aos\nplanetas do Sistema Solar?",
+    "enunciado": "Um Buraco Negro é um corpo celeste que possui uma\ngrande quantidade de matéria concentrada em uma pequena\nregião do espaço, de modo que sua força gravitacional é\ntão grande que qualquer partícula fica aprisionada em sua\nsuperfície, inclusive a luz. O raio dessa região caracteriza\numa superfície-limite, chamada de horizonte de eventos,\nda qual nada consegue escapar. Considere que o Sol foi\ninstantaneamente substituído por um Buraco Negro com\na mesma massa solar, de modo que o seu horizonte de\neventos seja de aproximadamente 3,0 km.\nSCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to\nb’ qK aí W ~KK ^ W OS ~ OMOO E~~~FK\nApós a substituição descrita, o que aconteceria aos\nplanetas do Sistema Solar?",
     "descricoesDeFiguras": [],
     "alternativas": [
       {
@@ -1317,7 +1308,9 @@
       "faixa": "Médio"
     },
     "habilidade": 26,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2022/questions/120/b54f40a5-6770-42c7-8756-63acaa5dcbd1.jpg"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1562,7 +1555,9 @@
       "faixa": "Difícil"
     },
     "habilidade": 27,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2022/questions/125/310a2901-c53f-4fd3-86bd-17c5a2aa0b83.jpg"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1611,7 +1606,9 @@
       "faixa": "Médio"
     },
     "habilidade": 15,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2022/questions/128/3e38e718-2857-4d65-849c-ddc36f19f455.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {
@@ -1660,7 +1657,9 @@
       "faixa": "Médio"
     },
     "habilidade": 12,
-    "imagens": [],
+    "imagens": [
+      "https://enem.dev/2022/questions/129/dceda47e-3511-452d-b376-b192e2b975f6.png"
+    ],
     "materia": null,
     "materiaOficial": false,
     "fonte": {

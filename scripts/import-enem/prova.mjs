@@ -293,7 +293,37 @@ function perdeuAcentos(linha) {
 function pareacePortugues(texto) {
   const alvo = ` ${texto.toLowerCase()} `
   const encontradas = PALAVRAS_COMUNS.filter((palavra) => alvo.includes(palavra)).length
-  return encontradas >= 3
+  return encontradas >= 3 && !temLetraTrocada(texto)
+}
+
+/**
+ * Detecta caractere estranho no meio de palavra.
+ *
+ * A checagem por palavras comuns não basta. Quando a fonte quebrada atinge só
+ * parte da questão, sobra um texto que tem "de" e "que" — e passa — mas traz
+ * "semiequa}es" no lugar de "semiequações", "hidrxido de sdio" no lugar de
+ * "hidróxido de sódio" e "Àavorizante" no lugar de "flavorizante". É legível
+ * o bastante para enganar o teste e ilegível demais para um aluno.
+ *
+ * O sinal é o símbolo cercado de letras: `}`, `{`, `¿`, `|` e `À` não aparecem
+ * dentro de palavra em português nenhuma.
+ */
+function temLetraTrocada(texto) {
+  // Símbolo entre letras: "semiequa}es", "lisoss{mica", "identi¿car".
+  if (/[a-zà-ú][{}¿À½][a-zà-ú]/i.test(texto)) return true
+
+  // Símbolo abrindo palavra: "Àavorizante" por "flavorizante".
+  if (/(^|\s)[{}¿À][a-zà-ú]{2,}/.test(texto)) return true
+
+  // Texto longo sem um único acento. Em português isso não acontece: é sinal
+  // de que os caracteres acentuados se perderam na extração e sobraram
+  // "clulas tm" por "células têm", "hidrxido de sdio" por "hidróxido de sódio".
+  // O corte é alto de propósito, para não confundir com enunciado curto ou
+  // fórmula.
+  const letras = texto.replace(/[^a-zà-ú]/gi, "").length
+  if (letras > 200 && !/[áàâãéêíóôõúüç]/i.test(texto)) return true
+
+  return false
 }
 
 /**
