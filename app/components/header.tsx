@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import Link from "next/link"
+import { LocaleLink as Link } from "@/components/locale-link"
 import { usePathname } from "next/navigation"
 import { useRouter } from "next/navigation"
 import { motion, AnimatePresence } from "framer-motion"
@@ -27,6 +27,7 @@ import { signOut } from "../actions/auth"
 import { useLanguage } from "@/lib/language-context"
 import { useTheme } from "@/lib/theme-context"
 import { SPECIALTIES } from "@/lib/specialties"
+import { localizedHref, splitLocale } from "@/lib/i18n-routing"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -83,9 +84,10 @@ export default function Header() {
   const handleLogout = async () => {
     await signOut()
     setUser(null)
-    // Sair também navega, então o menu móvel fecha junto.
+    // Sair também navega, então o menu móvel fecha junto. A ida para a home
+    // respeita o idioma: quem estava em espanhol continua em espanhol.
     setIsMenuOpen(false)
-    router.push("/")
+    router.push(localizedHref("/", language))
     router.refresh()
   }
 
@@ -95,8 +97,12 @@ export default function Header() {
     ...(user ? [{ href: "/contribuir", label: t("contribute"), icon: Pencil }] : []),
   ]
 
-  const isActive = (href: string) => pathname === href
-  const isSpecialtyActive = SPECIALTIES.some((s) => pathname === `/${s.slug}`)
+  // O idioma sai do caminho antes da comparação: em `/es/questoes` o link
+  // ativo continua sendo `/questoes`. Sem isto, nenhum link apareceria
+  // marcado como ativo fora do português.
+  const { path } = splitLocale(pathname)
+  const isActive = (href: string) => path === href
+  const isSpecialtyActive = SPECIALTIES.some((s) => path === `/${s.slug}`)
 
   const languages = [
     { code: "pt" as const, label: "Português" },

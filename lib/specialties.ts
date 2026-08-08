@@ -49,6 +49,17 @@ export interface Specialty {
   /** Chaves de tradução já existentes em lib/translations.ts */
   nameKey: string
   descriptionKey: string
+  /**
+   * Título e texto de abertura da página, nas três línguas.
+   *
+   * Ficavam escritos à mão dentro de cada `page.tsx`. Vieram para cá quando o
+   * idioma entrou na rota: a metadata das páginas (`<title>` e `description`)
+   * precisa das mesmas chaves, e mantê-las em dois lugares garantiria que um
+   * dia divergissem. Os nomes não seguem um padrão único porque são anteriores
+   * a este registro — daí serem declarados, e não deduzidos do slug.
+   */
+  titleKey: string
+  introKey: string
   icon: LucideIcon
   /** Quantos recursos a seção oferece hoje */
   resourceCount: number
@@ -60,6 +71,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "autismo",
     nameKey: "autism",
     descriptionKey: "autismDesc",
+    titleKey: "autismTitle",
+    introKey: "autismIntro",
     icon: Brain,
     resourceCount: 12,
   },
@@ -68,6 +81,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "tdah",
     nameKey: "adhd",
     descriptionKey: "adhdDesc",
+    titleKey: "adhdTitle",
+    introKey: "adhdDescription",
     icon: Lightbulb,
     resourceCount: 8,
   },
@@ -76,6 +91,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "down",
     nameKey: "downSyndrome",
     descriptionKey: "downDesc",
+    titleKey: "downSyndromeTitle",
+    introKey: "downSyndromeDescription",
     icon: Heart,
     resourceCount: 10,
   },
@@ -84,6 +101,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "visual",
     nameKey: "visualImpairment",
     descriptionKey: "visualDesc",
+    titleKey: "visualTitle",
+    introKey: "visualDescription",
     icon: Eye,
     resourceCount: 6,
   },
@@ -92,6 +111,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "auditiva",
     nameKey: "hearingImpairment",
     descriptionKey: "hearingDesc",
+    titleKey: "hearing_impairment_section_title",
+    introKey: "hearing_impairment_section_description",
     icon: Ear,
     resourceCount: 7,
   },
@@ -100,6 +121,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "intelectual",
     nameKey: "intellectualDisability",
     descriptionKey: "intellectualDesc",
+    titleKey: "intellectualTitle",
+    introKey: "intellectualIntro",
     icon: Puzzle,
     resourceCount: 13,
   },
@@ -108,6 +131,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "dislexia",
     nameKey: "dyslexia",
     descriptionKey: "dyslexiaDesc",
+    titleKey: "dyslexiaTitle",
+    introKey: "dyslexiaIntro",
     icon: BookA,
     resourceCount: 13,
   },
@@ -116,6 +141,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "altas-habilidades",
     nameKey: "giftedness",
     descriptionKey: "giftednessDesc",
+    titleKey: "giftednessTitle",
+    introKey: "giftednessIntro",
     icon: Sparkles,
     resourceCount: 12,
   },
@@ -124,6 +151,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "discalculia",
     nameKey: "dyscalculia",
     descriptionKey: "dyscalculiaDesc",
+    titleKey: "dyscalculiaTitle",
+    introKey: "dyscalculiaIntro",
     icon: Calculator,
     resourceCount: 13,
   },
@@ -132,6 +161,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "fisica-motora",
     nameKey: "physicalDisability",
     descriptionKey: "physicalDesc",
+    titleKey: "physicalTitle",
+    introKey: "physicalIntro",
     icon: Accessibility,
     resourceCount: 13,
   },
@@ -140,6 +171,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "saude-mental",
     nameKey: "mentalHealth",
     descriptionKey: "mentalHealthDesc",
+    titleKey: "mentalHealthTitle",
+    introKey: "mentalHealthIntro",
     icon: HeartPulse,
     resourceCount: 12,
   },
@@ -148,6 +181,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "surdocegueira",
     nameKey: "deafblindness",
     descriptionKey: "deafblindnessDesc",
+    titleKey: "deafblindnessTitle",
+    introKey: "deafblindnessIntro",
     icon: Hand,
     resourceCount: 12,
   },
@@ -156,6 +191,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "linguagem",
     nameKey: "languageDisorder",
     descriptionKey: "languageDisorderDesc",
+    titleKey: "languageDisorderTitle",
+    introKey: "languageDisorderIntro",
     icon: MessagesSquare,
     resourceCount: 12,
   },
@@ -164,6 +201,8 @@ export const SPECIALTIES: Specialty[] = [
     accent: "disgrafia",
     nameKey: "dysgraphia",
     descriptionKey: "dysgraphiaDesc",
+    titleKey: "dysgraphiaTitle",
+    introKey: "dysgraphiaIntro",
     icon: PenLine,
     resourceCount: 12,
   },
