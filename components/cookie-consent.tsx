@@ -9,9 +9,13 @@ import Cookies from "js-cookie"
 export function CookieConsent() {
   const [showBanner, setShowBanner] = useState(false)
 
+  // O banner só pode ser decidido depois de montar: o servidor não sabe se
+  // este visitante já respondeu. Mostrá-lo no HTML e escondê-lo em seguida
+  // faria o aviso piscar para quem já aceitou.
   useEffect(() => {
     const consent = Cookies.get("cookie-consent")
     if (!consent) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setShowBanner(true)
     }
   }, [])

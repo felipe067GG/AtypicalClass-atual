@@ -168,7 +168,10 @@ export default function ContribuirPage() {
     setLoadingPosts(false)
   }, [user?.id])
 
+  // Busca dos posts ao montar e a cada troca de usuário. O setState acontece
+  // depois do await, dentro de `loadPosts` — não é render em cascata.
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     loadPosts()
   }, [loadPosts])
 

@@ -17,9 +17,13 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   // divergência de hidratação); o idioma salvo é aplicado logo após montar.
   const [language, setLanguageState] = useState<Language>("pt")
 
+  // O setState em efeito é o preço de não divergir na hidratação: o idioma
+  // salvo só pode ser aplicado depois que servidor e cliente já concordaram no
+  // primeiro render.
   useEffect(() => {
     const savedLang = Cookies.get("language") as Language
     if (savedLang && translations[savedLang]) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setLanguageState(savedLang)
     }
   }, [])

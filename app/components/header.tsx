@@ -69,8 +69,11 @@ export default function Header() {
     return () => subscription.unsubscribe()
   }, [])
 
-  // Fecha o menu móvel ao navegar — antes ele ficava aberto sobre a página nova
+  // Fecha o menu móvel ao navegar — antes ele ficava aberto sobre a página nova.
+  // A regra reclama de setState em efeito, mas é exatamente disto que se trata:
+  // reagir à mudança de rota, que vem de fora deste componente.
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setIsMenuOpen(false)
   }, [pathname])
 

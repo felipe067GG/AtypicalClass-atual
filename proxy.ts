@@ -11,8 +11,12 @@ import type { NextRequest } from "next/server"
  * Não há headers de CORS aqui: `/api/chat` só é chamado pelo próprio site
  * (mesma origem), e o par `Allow-Origin: *` + `Allow-Credentials: true` que
  * existia antes é inválido e desnecessariamente permissivo.
+ *
+ * Chamava-se `middleware.ts` até o Next 16, que renomeou a convenção para
+ * `proxy`. Mesmo comportamento, nome novo — o antigo ainda funciona, mas
+ * emite aviso de depreciação a cada build.
  */
-export async function middleware(request: NextRequest) {
+export async function proxy(request: NextRequest) {
   let response = NextResponse.next({ request })
 
   const supabase = createServerClient(

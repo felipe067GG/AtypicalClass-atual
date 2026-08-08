@@ -16,10 +16,12 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
   const [theme, setThemeState] = useState<Theme>("dark")
 
   // A classe `light` já foi aplicada no <html> pelo script inline do layout,
-  // antes da primeira pintura. Aqui só sincronizamos o estado do React.
+  // antes da primeira pintura. Aqui só sincronizamos o estado do React — que é
+  // por que o setState em efeito, que a regra proíbe, é o certo neste ponto.
   useEffect(() => {
     const savedTheme = Cookies.get("theme") as Theme | undefined
     if (savedTheme === "light" || savedTheme === "dark") {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setThemeState(savedTheme)
       document.documentElement.classList.toggle("light", savedTheme === "light")
     }
