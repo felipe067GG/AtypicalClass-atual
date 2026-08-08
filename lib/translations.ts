@@ -1,5 +1,8 @@
 export const translations = {
   pt: {
+    // Acessibilidade
+    skipToContent: "Pular para o conteúdo",
+
     // Header
     home: "Início",
     questions: "Questões",
@@ -1416,6 +1419,9 @@ export const translations = {
     },
   },
   en: {
+    // Acessibilidade
+    skipToContent: "Skip to content",
+
     // Header
     home: "Home",
     questions: "Questions",
@@ -2829,6 +2835,9 @@ export const translations = {
     },
   },
   es: {
+    // Acessibilidade
+    skipToContent: "Saltar al contenido",
+
     // Header
     home: "Inicio",
     questions: "Preguntas",

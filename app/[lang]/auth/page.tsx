@@ -11,9 +11,9 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { LogIn, UserPlus, Loader2, CheckCircle2, AlertCircle, Mail } from "lucide-react"
-import { signUp, signIn } from "../actions/auth"
+import { signUp, signIn } from "@/app/actions/auth"
 import { useRouter } from "next/navigation"
-import Header from "../components/header"
+import Header from "@/app/components/header"
 import { useLanguage } from "@/lib/language-context"
 
 export default function AuthPage() {

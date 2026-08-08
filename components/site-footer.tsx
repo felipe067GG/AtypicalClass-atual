@@ -1,6 +1,6 @@
 "use client"
 
-import Link from "next/link"
+import { LocaleLink as Link } from "@/components/locale-link"
 import { Mail } from "lucide-react"
 import { LogoWordmark } from "@/components/brand/logo"
 import { useLanguage } from "@/lib/language-context"

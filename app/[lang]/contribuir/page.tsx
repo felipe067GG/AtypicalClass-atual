@@ -24,10 +24,10 @@ import {
   CheckCircle2,
   Trash2,
 } from "lucide-react"
-import Header from "../components/header"
+import Header from "@/app/components/header"
 import { useRouter } from "next/navigation"
 import { createClient } from "@/lib/supabase/client"
-import { createPost, toggleLike, addComment, deletePost } from "../actions/posts"
+import { createPost, toggleLike, addComment, deletePost } from "@/app/actions/posts"
 import { useLanguage } from "@/lib/language-context"
 
 const subjects = [

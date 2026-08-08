@@ -1,6 +1,6 @@
 "use client"
 
-import Link from "next/link"
+import { LocaleLink as Link } from "@/components/locale-link"
 import { motion } from "framer-motion"
 import {
   ArrowRight,
@@ -15,7 +15,7 @@ import {
   Users,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import Header from "./components/header"
+import Header from "@/app/components/header"
 import { HeroVisual } from "@/components/brand/hero-visual"
 import { LogoMark } from "@/components/brand/logo"
 import { LiveStats } from "@/components/home/live-stats"
