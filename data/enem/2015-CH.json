@@ -1,0 +1,2311 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "No mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desertificação das áreas afetadas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Poluição dos rios temporários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Queimadas dos remanescentes vegetais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desmatamento das matas ciliares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contaminação das águas subterrâneas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.0434,
+      "escala": 604,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2015/questions/1/5fd3c732-a4f4-4efc-b03e-a7971724d87f.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 1,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/1",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "Dominar a luz implica tanto um avanço tecnológico quanto uma certa liberação dos ritmos cíclicos da natureza, com a passagem das estações e as alternâncias de dia e noite. Com a iluminação noturna, a escuridão vai cedendo lugar à claridade, e a percepção temporal começa a se pautar pela marcação do relógio. Se a luz invade a noite, perde sentido a separação tradicional entre trabalho e descanso – todas as partes do dia podem ser aproveitadas produtivamente.\n\nSILVA FILHO. A. L. M. **Fortaleza: imagens da cidade**. Fortaleza: Museu do Ceará: Secult-CE. 2001 (adaptado).\n\nEm relação ao mundo do trabalho, a transformação apontada no texto teve como consequência a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Melhoria da qualidade da produção industrial.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Redução da oferta de emprego nas zonas rurais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Permissão ao trabalhador para controlar seus próprios horários.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuição das exigências de esforço no trabalho com máquinas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ampliação do período disponível para a jornada de trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.64189,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 2,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/2",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "Apesar de seu disfarce de iniciativa e otimismo, o homem moderno está esmagado por um profundo sentimento de impotência que o faz olhar fixamente e, como que paralisado, para as catástrofes que se avizinham. Por isso, desde já, saliente-se a necessidade de uma permanente atitude crítica, o único modo pelo qual o homem realizará sua vocação natural de integrar-se, superando a atitude do simples ajustamento ou acomodação, apreendendo temas e tarefas de sua época.\n\nFREIRE, P. **Educação como prática da liberdade**. Rio de Janeiro: Paz e Terra, 2011.\n\nPaulo Freire defende que a superação das dificuldades e a apreensão da realidade atual será obtida pelo(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desenvolvimento do pensamento autônomo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Obtenção de qualificação profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Resgate de valores tradicionais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Realização de desejos pessoais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento da renda familiar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.16631,
+      "escala": 617,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 3,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/3",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "Na charge há uma crítica ao processo produtivo agrícola brasileiro relacionada ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elevado preço das mercadorias no comércio.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da demanda por produtos naturais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Crescimento da produção de alimentos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Hábito de adquirir derivados industriais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Uso de agrotóxicos nas plantações.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.60943,
+      "escala": 561,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [
+      "https://enem.dev/2015/questions/4/bfee8dd7-2b58-4850-9c3a-59ea67faa73c.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 4,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/4",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto… Assim a lei pode triunfar e o mundo gozar da paz.\n\nALDALBERON DE LAON, In: SPINOSA, F. **Antologia de textos históricos medievais**. Lisboa: Sá da Costa, 1981.\n\nA ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Justificar a dominação estamental / revoltas camponestas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Subverter a hierarquia social / centralização monárquica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Impedir a igualdade jurídica / revoluções burguesas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Controlar a exploração econômica / unificação monetária.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Questionar a ordem divina / Reforma Católica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.43814,
+      "escala": 644,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 5,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/5",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 6,
+    "enunciado": "A língua de que usam, por toda a costa, carece de três letras; convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei, e dessa maneira vivem desordenadamente, sem terem além disto conta, nem peso, nem medida.\n\nGÂNGAVO, P M. **A primeira história do Brasil**: história da província de Santa Cruz a que vulgarmente chamamos Brasil. Rio de Janeiro: Zahar, 2004 (adaptado)\n\nA observação do cronista português Pero de Magalhães de Gândavo, em 1576, sobre a ausência das letras F, L e R na língua mencionada, demonstra a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Simplicidade da organização social das tribos brasileiras.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dominação portuguesa imposta aos índios no início da colonização.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Superioridade da sociedade europeia em relação à sociedade indígena.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Incompreensão dos valores socioculturais indígenas pelos portugueses.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dificuldade experimentada pelos portugueses no aprendizado da língua nativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.19238,
+      "escala": 619,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 6,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/6",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 7,
+    "enunciado": "O principal articulador do atual modelo econômico chinês argumenta que o mercado é só um instrumento econômico, que se emprega de forma indistinta tanto no capitalismo como no socialismo. Porém os próprios chineses já estão sentindo, na sua sociedade, o seu real significado: o mercado não é algo neutro, ou um instrumental técnico que possibilita à sociedade utilizá-lo para a construção e edificação do socialismo. Ele é, ao contrário do que diz o articulador, um instrumento do capitalismo e é inerente à sua estrutura como modo de produção. A sua utilização está levando a uma polarização da sociedade chinesa.\n\nOLIVEIRA, A. A Revolução Chinesa. **Caros Amigos**, 31 jan. 2011 (adaptado).\n\nNo texto, as reformas econômicas ocorridas na China são colocadas como antagônicas à construção de um país socialista. Nesse contexto, a característica fundamental do socialismo, à qual o modelo econômico chinês atual se contrapõe é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desestatização da economia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Instauração de um partido único.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Manutenção da livre concorrência.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Formação de sindicatos trabalhistas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Extinção gradual das classes sociais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.56767,
+      "escala": 657,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 7,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/7",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 8,
+    "enunciado": "Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.\n\nHARVEY, D. **O enigma do capital**. São Paulo: Boitempo, 2011.\n\nInicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Superprodução de bens de consumo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Colapso industrial de países asiáticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Interdependência do sistema econômico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Isolamento político dos países desenvolvidos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Austeridade fiscal dos países em desenvolvimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.1553,
+      "escala": 616,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 8,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/8",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 9,
+    "enunciado": "**Voz do sangue**\n\nPalpitam-me\nos sons do batuque\ne os ritmos melancólicos do blue.\n\nÓ negro esfarrapado\ndo Harlem\nó dançarino de Chicago\nó negro servidor do South\n\nÓ negro da África\nnegros de todo o mundo\n\nEu junto\nao vosso magnifico canto\na minha pobre voz\nos meus humildes ritmos.\n\nEu vos acompanho\npelas emaranhadas Áfricas\ndo nosso Rumo.\n\nEu vos sinto\nnegros de todo o mundo\neu vivo a nossa história\nmeus irmãos.\n\nDisponível em: www.agostinhoneto.org. Acesso em: 30 jun. 2015.\n\nNesse poema, o líder angolano Agostinho Neto, na década de 1940, evoca o pan-africanismo com o objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incitar a luta por políticas de ações afirmativas na América e na África.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Descrever o quadro de pobreza após os processos de independência no continente africano.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.03534,
+      "escala": 504,
+      "faixa": "Fácil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 9,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/9",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 10,
+    "enunciado": "Iniciou-se em 1903 a introdução de obras de arte com representações de bandeirantes no acervo do Museu Paulista, mediante a aquisição de uma tela que homenageava o sertanista que comandara a destruição do Quilombo de Palmares. Essa aquisição, viabilizada por verba estadual, foi simultânea à emergência de uma interpretação histórica que apontava o fenômeno do sertanismo paulista como o elo decisivo entre a trajetória territorial do Brasil e de São Paulo, concepção essa que se consolidaria entre os historiadores ligados ao Instituto Histórico e Geográfico de São Paulo ao longo das três primeiras décadas do século XX.\n\nMARINS, P. c. G. Nas matas com pose de reis: a representação de bandeirantes e a tradição da retratística monárquica européia. **Revista do LEB**, n. 44, tev. 2007.\n\nA prática governamental descrita no texto, com a escolha dos temas das obras, tinha como propósito a construção de uma memória que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Afirmava a centralidade de um estado na política do país.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Resgatava a importância da resistência escrava na história brasileira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Evidenciava a importância da produção artística no contexto regional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Valorizava a saga histórica do povo na afirmação de uma memória social.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Destacava a presença do indígena no desbravamento do território colonial.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.02381,
+      "escala": 702,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 10,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/10",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 11,
+    "enunciado": "Os calendários são fontes históricas importantes, na medida em que expressam a concepção de tempo das sociedades. Essas imagens compõem um calendário medieval (1460-1475) e cada uma delas representa um mês, de janeiro a dezembro.\n\nCom base na análise do calendário, apreende-se uma concepção de tempo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cíclica, marcada pelo mito arcaico do eterno retorno.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Humanista, identificada pelo controle das horas de atividade por parte do trabalhador.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Escatológica, associada a uma visão religiosa sobre o trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Natural, expressa pelo trabalho realizado de acordo com as estações do ano.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Romântica, definida por uma visão bucólica da sociedade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.36748,
+      "escala": 537,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2015/questions/11/c5532328-dec0-4e18-81a8-dbf37e1dddcc.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 11,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/11",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 12,
+    "enunciado": "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos.\n\nBAENINGER, R. **Cidades e metrópoles**: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado).\n\nUma causa para o processo socioespacial mencionado no texto é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carência de matérias-primas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Degradação da rede rodoviária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento do crescimento vegetativo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Centralização do poder político.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Realocação da atividade industrial.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.89411,
+      "escala": 589,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 12,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/12",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 13,
+    "enunciado": "Trasímaco estava impaciente porque Sócrates e os seus amigos presumiam que a justiça era algo real e importante. Trasímaco negava isso. Em seu entender, as pessoas acreditavam no certo e no errado apenas por terem sido ensinadas a obedecer às regras da sua sociedade. No entanto, essas regras não passavam de invenções humanas.\n\nRACHELS, J. **Problemas da Filosofia**. Lisboa: Gradiva, 2009.\n\nO sofista Trasímaco, personagem imortalizado no diálogo A República, de Platão, sustentava que a correlação entre justiça e ética é resultado de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determinações biológicas impregnadas na natureza humana.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Verdades objetivas com fundamento anterior aos interesses sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mandamentos divinos inquestionáveis legados das tradições antigas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Convenções sociais resultantes de interesses humanos contingentes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sentimentos experimentados diante de determinadas atitudes humanas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.05194,
+      "escala": 605,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 13,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/13",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 14,
+    "enunciado": "Em sociedade de origens tão nitidamente personalistas como a nossa, é compreensível que os simples vínculos de pessoa a pessoa, independentes e até exclusivos de qualquer tendência para a cooperação autêntica entre os indivíduos, tenham sido quase sempre os mais decisivos. As agregações e relações pessoais, embora por vezes precárias, e, de outro lado, as lutas entre facções, entre famílias, entre regionalismos, faziam dela um todo incoerente e amorfo. O peculiar da vida brasileira parece ter sido por essa época, uma acentuação singularmente enérgica do afetivo, do irracional, do passional e uma estagnação ou antes uma atrofia correspondente das qualidades ordenadoras, disciplinadoras, racionalizadoras.\n\nHOLANDA, S. B. **Raízes do Brasil**. São Paulo: Cia das Letras, 1995.\n\nUm traço formador da vida pública brasileira expressa-se, segundo a análise do historiador, na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rigidez das normas jurídicas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Prevalência dos interesses privados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Solidez da organização institucional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Legitimidade das ações burocráticas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estabilidade das estruturas políticas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.0009,
+      "escala": 600,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 14,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/14",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 15,
+    "enunciado": "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.\n\nLOPES, R. J. O novo mapa da floresta. **Folha de S. Paulo**, 7 maio 2011 (adaptado).\n\nA existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expansão da fronteira agrícola.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Remoção de populações nativas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Superação da condição de pobreza.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Valorização de identidades coletivas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Implantação de modernos projetos agroindustriais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.11385,
+      "escala": 611,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 15,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/15",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 16,
+    "enunciado": "Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimento, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.\n\nHUME, D. **Investigação sobre o entendimento humano**. São Paulo: Abril Cultural, 1995.\n\nHume estabelece um vínculo entre pensamento e impressão ao considerar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os conteúdos das ideias no intelecto têm origem na sensação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O espírito é capaz de classificar os dados da percepção sensível.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "As ideias fracas resultam de experiências sensoriais determinadas pelo acaso.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os sentimentos ordenam como os pensamentos devem ser processados na memória.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "As ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.13138,
+      "escala": 713,
+      "faixa": "Difícil"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 16,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/16",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 17,
+    "enunciado": "Ora, em todas as coisas ordenadas a algum fim, é preciso haver algum dirigente, pelo qual se atinja diretamente o devido fim. Com efeito, um navio, que se move para diversos lados pelo impulso dos ventos contrários, não chegaria ao fim de destino, se por indústria do piloto não fosse dirigido ao porto; ora, tem o homem um fim, para o qual se ordenam toda a sua vida e ação. Acontece, porém, agirem os homens de modos diversos em vista do fim, o que a própria diversidade dos esforços e ações humanas comprova. Portanto, precisa o homem de um dirigente para o fim.\n\nAQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. **Escritos políticos de São Tomás de Aquino**. Petrópolis: Vozes, 1995 (adaptado).\n\nNo trecho citado, Tomás de Aquino justifica a monarquia como o regime de governo capaz de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Refrear os movimentos religiosos contestatórios.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Promover a atuação da sociedade civil na vida política.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Unir a sociedade tendo em vista a realização do bem comum.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reformar a religião por meio do retorno à tradição helenística.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dissociar a relação política entre os poderes temporal e espiritual.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.21258,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 17,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/17",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 18,
+    "enunciado": "A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.\n\nTAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. **Reforma política no Brasil**. Belo Horizonte: UFMG, 2006 (adaptado).\n\nEm relação ao regime democrático no país, a instituição analisada teve o seguinte papel:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Implementou o voto direto para presidente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Combateu as fraudes sistemáticas nas apurações.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Alterou as regras para as candidaturas na ditadura.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Impulsionou as denúncias de corrupção administrativa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expandiu a participação com o fim do critério censitário.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.24001,
+      "escala": 624,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 18,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/18",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 19,
+    "enunciado": "ZIRALDO. 20 anos de prontidão. In: LEMOS, R. (Org.). **Uma história do Brasil através da caricatura (1840-2001)**. Rio de Janeiro: Letras & Expressões, 2001.\n\nNo período de 1964 a 1985, a estratégia do Regime Militar abordada na charge foi caracterizada pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Priorização da segurança nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Captação de financiamentos estrangeiros.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Execução de cortes nos gastos públicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Nacionalização de empresas multinacionais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Promoção de políticas de distribuição de renda.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.89353,
+      "escala": 589,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2015/questions/19/a709cdad-853e-4687-bebd-a7bb63752225.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 19,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/19",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 20,
+    "enunciado": "Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividi-lo!\n\nDiscurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937. Apud OLIVEN, G. R. **A parte e o todo**: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.\n\nO discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Supressão das diferenças socioeconomicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.15381,
+      "escala": 715,
+      "faixa": "Difícil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 20,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/20",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 21,
+    "enunciado": "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.\n\nSCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).\n\nAs ações tomadas pelos países contra a espionagem revelam preocupação com o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Subsídio industrial.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Hegemonia cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Protecionismo dos mercados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desemprego tecnológico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Segurança dos dados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.01092,
+      "escala": 499,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 21,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/21",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 22,
+    "enunciado": "**TEXTO I**\n\nCanudos não se rendeu. Exemplo único em toda a história, resistiu até o esgotamento completo. Vencido palmo a palmo, na precisão integral do termo, caiu no dia 5, ao entardecer, quando caíram os seus últimos defensores, que todos morreram. Eram quatro apenas: um velho, dois homens feitos e uma criança, na frente dos quais rugiam raivosamente cinco mil soldados.\n\nCUNHA, E. **Os sertões**. Rio de Janeiro: Francisco Alves, 1987.\n\n**TEXTO II**\n\nNa trincheira, no centro do reduto, permaneciam quatro fanáticos sobreviventes do extermínio. Era um velho, coxo por ferimento e usando uniforme da Guarda Católica, um rapaz de 16 a 18 anos, um preto alto e magro, e um caboclo. Ao serem intimados para deporem as armas, investiram com enorme fúria. Assim estava terminada e de maneira tão trágica a sanguinosa guerra, que o banditismo e o fanatismo traziam acesa por longos meses, naquele recanto do território nacional.\n\nSOARES, H. M. **A Guerra de Canudos**. Rio de Janeiro: Altina, 1902.\n\nOs relatos do último ato da Guerra de Canudos fazem uso de representações que se perpetuariam na memória construída sobre o conflito.\n\nNesse sentido, cada autor caracterizou a atitude dos sertanejos, respectivamente, como fruto da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manipulação e incompetência.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ignorância e solidariedade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Hesitação e obstinação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Esperança e valentia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Bravura e loucura.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.3582,
+      "escala": 636,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 22,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/22",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 23,
+    "enunciado": "**TEXTO I**\n\nEm todo o país a lei de 13 de maio de 1888 libertou poucos negros em relação à população de cor. A maioria já havia conquistado a alforria antes de 1888, por meio de estratégias possíveis. No entanto, a importância histórica da lei de 1888 não pode ser mensurada apenas em termos numéricos. O impacto que a extinção da escravidão causou numa sociedade constituída a partir da legitimidade da propriedade sobre a pessoa não cabe em cifras.\n\nALBUQUERQUE. W. **O jogo da dissimulação**: Abolição e cidadania negra no Brasil. São Paulo: Cia. das Letras, 2009 (adaptado).\n\n**TEXTO II**\n\nNos anos imediatamente anteriores à Abolição, a população livre do Rio de Janeiro se tornou mais numerosa e diversificada. Os escravos, bem menos numerosos que antes, e com os africanos mais aculturados, certamente não se distinguiam muito facilmente dos libertos e dos pretos e pardos livres habitantes da cidade. Também já não é razoável presumir que uma pessoa de cor seja provavelmente cativa, pois os negros libertos e livres poderiam ser encontrados em toda parte.\n\nCHALHOUB, S. **Visões da liberdade**: uma história das últimas décadas da escravidão na Corte. São Paulo: Cia. das Letras, 1990 (adaptado).\n\nSobre o fim da escravidão no Brasil, o elemento destacado no Texto I que complementa os argumentos apresentados no Texto II é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Variedade das estratégias de resistência dos cativos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Controle jurídico exercido pelos proprietários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inovação social representada pela lei.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ineficácia prática da libertação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Significado político da Abolição.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.67352,
+      "escala": 767,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 23,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/23",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 24,
+    "enunciado": "A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.\n\nMAZRUI, A. “Procurai primeiramente o reino do político …” In: MAZRUI, A., WONDJI, C. (Org.). **História geral da África**: África desde 1925. Brasília: Unesco, 2010.\n\nPara o autor, a “forma de hegemonia” e uma de suas características que explicam o engajamento dos africanos no processo analisado foram:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comunismo / rejeição da democracia liberal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Capitalismo / devastação do ambiente natural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fascismo / adoção do determinismo biológico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Socialismo / planificação da economia nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Colonialismo / imposição da missão civilizatória.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.44856,
+      "escala": 645,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 24,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/24",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 25,
+    "enunciado": "Não nos resta a menor dúvida de que a principal contribuição dos diferentes tipos de movimentos sociais brasileiros nos últimos vinte anos foi no plano da reconstrução do processo de democratização do país. E não se trata apenas da reconstrução do regime político, da retomada da democracia e do fim do Regime Militar. Trata-se da reconstrução ou construção de novos rumos para a cultura do país, do preenchimento de vazios na condução da luta pela redemocratização, constituindo-se como agentes interlocutores que dialogam diretamente com a população e com o Estado.\n\nGOHN, M. G. M. **Os sem-terras, ONGs e cidadania**. São Paulo: Cortez, 2003 (adaptado).\n\nNo processo da redemocratização brasileira, os novos movimentos sociais contribuíram para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuir a legitimidade dos novos partidos políticos então criados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tornar a democracia um valor social que ultrapassa os momentos eleitorais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Difundir a democracia representativa como objetivo fundamental da luta política.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fragmentar as lutas políticas dos diversos atores sociais frente ao Estado.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.83888,
+      "escala": 584,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 25,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/25",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 26,
+    "enunciado": "A natureza fez os homens tão iguais, quanto às faculdades do corpo e do espírito, que, embora por vezes se encontre um homem manifestamente mais forte de corpo, ou de espírito mais vivo do que outro, mesmo assim, quando se considera tudo isto em conjunto, a diferença entre um e outro homem não é suficientemente considerável para que um deles possa com base nela reclamar algum benefício a que outro não possa igualmente aspirar.\n\nHOBBES, T. **Leviatã**. São Paulo: Martins Fontes, 2003.\n\nPara Hobbes, antes da constituição da sociedade civil, quando dois homens desejavam o mesmo objeto, eles",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entravam em conflito.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Recorriam aos clérigos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Consultavam os anciãos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apelavam aos governantes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exerciam a solidariedade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.45228,
+      "escala": 645,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 26,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/26",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 27,
+    "enunciado": "De acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tropical.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Litorâneo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Equatorial.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Semiárido.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Subtropical.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.88565,
+      "escala": 589,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2015/questions/27/af64ab57-929e-4de7-9a89-f628c99a5a85.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 27,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/27",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 28,
+    "enunciado": "O que implica o sistema da _pólis_ é uma extraordinária preeminência da palavra sobre todos os outros instrumentos do poder. A palavra constitui o debate contraditório, a discussão, a argumentação e a polêmica. Torna-se a regra do jogo intelectual, assim como do jogo político.\n\nVERNANT, J. P. **As origens do pensamento grego**. Rio de Janeiro: Bertrand, 1992 (adaptado).\n\nNa configuração política da democracia grega, em especial a ateniense, a ágora tinha por função",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agregar os cidadãos em torno de reis que governavam em prol da cidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.30384,
+      "escala": 630,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 28,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 29,
+    "enunciado": "No final do século XX e em razão dos avanços da ciência, produziu-se um sistema presidido pelas técnicas da informação, que passaram a exercer um papel de elo entre as demais, unindo-as e assegurando ao novo sistema uma presença planetária. Um mercado que utiliza esse sistema de técnicas avançadas resulta nessa globalização perversa.\n\nSANTOS, M. **Por uma outra globalização**. Rio de Janeiro: Record, 2008 (adaptado).\n\nUma consequência para o setor produtivo e outra para o mundo do trabalho advindas das transformações citadas no texto estão presentes, respectivamente, em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eliminação das vantagens locacionais e ampliação da legislação laboral.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Limitação dos fluxos logísticos e fortalecimento de associações sindicais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição dos investimentos industriais e desvalorização dos postos qualificados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Concentração das áreas manufatureiras e redução da jornada semanal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Automatização dos processos fabris e aumento dos níveis de desemprego.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.66199,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 29,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/29",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 30,
+    "enunciado": "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.\n\nBIGARELLA, J. J. **Estrutura e origem das paisagens tropicais e subtropicais**. Florianópolis: UFSC, 2003 (adaptado).\n\nEm relação ao processo descrito, sua ocorrência é minimizada em locais onde há",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exposição do solo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Drenagem eficiente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Rocha matriz resistente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Agricultura mecanizada.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Média pluviométrica elevada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.75392,
+      "escala": 675,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 30,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/30",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 31,
+    "enunciado": "A imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, que decorre do processo natural de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fraturamento geológico, derivado da força dos agentes internos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Solapamento de camadas de argilas, transportadas pela correnteza.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Movimento circular de seixos e areias, arrastados por águas turbilhonares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Decomposição das camadas sedimentares, resultante da alteração química.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.4133,
+      "escala": 641,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2015/questions/31/7bd21c12-998c-427f-9b47-e7a06c817ac0.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 31,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/31",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 32,
+    "enunciado": "Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d’água do grande sertão de Minas.\n\nVIEIRA, C. **Degradação do solo causa perda de fontes de água de famílias de MG**. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014\n\nAs veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colaboram para a formação de vegetação xerófila.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Formam os leques aluviais nas planícies das bacias.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fornecem sumidouro para as águas de recarga da bacia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contribuem para o aprofundamento dos talvegues à jusante.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Constituem um sistema represador da água na chapada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.39311,
+      "escala": 639,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 32,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/32",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 33,
+    "enunciado": "Tanto potencial poderia ter ficado pelo caminho, se não fosse o reforço em tecnologia que um gaúcho buscou. Há pouco mais de oito anos, ele usava o bico da botina para cavoucar a terra e descobrir o nível de umidade do solo, na tentativa de saber o momento ideal para acionar os pivôs de irrigação. Até que conheceu uma estação meteorológica que, instalada na propriedade, ajuda a determinar a quantidade de água de que a planta necessita. Assim, quando inicia um plantio, o agricultor já entra no _site_ do sistema e cadastra a área, o pivô, a cultura, o sistema de plantio, o espaçamento entre linhas e o número de plantas, para então receber recomendações diretamente dos técnicos da universidade.\n\nCAETANO, M. O valor de cada gota. **Globo Rural**, n. 312, out. 2011.\n\nA implementação das tecnologias mencionadas no texto garante o avanço do processo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Monitoramento da produção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Valorização do preço da terra.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Correção dos fatores climáticos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Divisão de tarefas na propriedade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estabilização da fertilidade do solo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.77395,
+      "escala": 677,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 33,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/33",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 34,
+    "enunciado": "A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e, enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: _Tudo é um_.\n\nNIETZSCHE, F. Crítica moderna. In: **Os pré-socráticos**. São Paulo: Nova Cultural, 1999.\n\nO que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O desejo de explicar, usando metáforas, a origem dos seres e das coisas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A ambição de expor, de maneira metódica, as diferenças entre as coisas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A tentativa de justificar, a partir de elementos empíricos, o que existe no real.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.4933,
+      "escala": 649,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 34,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/34",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 35,
+    "enunciado": "Quanto ao “choque de civilizações”, é bom lembrar a carta de uma menina americana de sete anos cujo pai era piloto na Guerra do Afeganistão: ela escreveu que — embora amasse muito seu pai — estava pronta a deixá-lo morrer, a sacrificá-lo por seu país. Quando o presidente Bush citou suas palavras, elas foram entendidas como manifestação “normal” de patriotismo americano; vamos conduzir uma experiência mental simples e imaginar uma menina árabe maometana pateticamente lendo para as câmeras as mesmas palavras a respeito do pai que lutava pelo Talibã — não é necessário pensar muito sobre qual teria sido a nossa reação.\n\nZIZEK, S. **Bem-vindo ao deserto do real**. São Paulo: Bom Tempo, 2003.\n\nA situação imaginária proposta pelo autor explicita o desafio cultual do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prática da diplomacia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Exercício da alteridade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expansão da democracia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Universalização do progresso.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Conquista da autodeterminação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.60742,
+      "escala": 661,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 35,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/35",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 36,
+    "enunciado": "SCHWARCZ, L. M. **As barbas do imperador**. D. Pedro II, um monarca nos trópicos. São Paulo: Cia. Das Letras, 1998 (adaptado).\n\nEssas imagens de D. Pedro II foram feitas no início dos anos de 1850, pouco mais de uma década após o Golpe da Maioridade. Considerando o contexto histórico em que foram produzidas e os elementos simbólicos destacados, essas imagens representavam um",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Jovem maduro que agiria de forma irresponsável.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Imperador adulto que governaria segundo as leis.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Líder guerreiro que comandaria as vitórias militares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Soberano religioso que acataria a autoridade papal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Monarca absolutista que exerceria seu autoritarismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.74819,
+      "escala": 675,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2015/questions/36/c58775d8-65ba-4443-90d1-f95cc163488b.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 36,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/36",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 37,
+    "enunciado": "No início foram as cidades. O intelectual da Idade Média – no Ocidente – nasceu com elas. Foi com o desenvolvimento urbano ligado às funções comercial e industrial – digamos modestamente artesanal – que ele apareceu, como um desses homens de ofício que se instalavam nas cidades nas quais se impôs a divisão do trabalho. Um homem cujo ofício é escrever ou ensinar, e de preferência as duas coisas a um só tempo, um homem que, profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual – esse homem só aparecerá com as cidades.\n\nLE GOFF, J. **Os intelectuais da Idade Média**. Rio de Janeiro: José Olympio, 2010.\n\nO surgimento da categoria mencionada no período em destaque no texto evidencia o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apoio dado pela Igreja ao trabalho abstrato.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Relação entre desenvolvimento urbano e divisão de trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Importância organizacional das corporações de ofício.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Progressiva expansão da educação escolar.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Acúmulo de trabalho dos professores e eruditos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.00435,
+      "escala": 600,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 37,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 38,
+    "enunciado": "Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.\n\nREICH, R. **O trabalho das nações**: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).\n\nA viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linhas de montagem e formação de estoques.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Empresas burocráticas e mão de obra barata.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Controle estatal e infraestrutura consolidada.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Organização em rede e tecnologia de informação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Gestão centralizada e protecionismo econômico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.2222,
+      "escala": 622,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 38,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/38",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 39,
+    "enunciado": "Na sociedade contemporânea, onde as relações sociais tendem a reger-se por imagens midiáticas, a imagem de um indivíduo, principalmente na indústria do espetáculo, pode agregar valor econômico na medida de seu incremento técnico: amplitude do espelhamento e da atenção pública. Aparecer é então mais do que ser; o sujeito é famoso porque é falado. Nesse âmbito, a lógica circulatória do mercado, ao mesmo tempo que acena democraticamente para as massas com supostos “ganhos distributivos” (a informação ilimitada, a quebra das supostas hierarquias culturais), afeta a velha cultura disseminada na esfera pública. A participação nas redes sociais, a obsessão dos _selfies_, tanto falar e ser falado quanto ser visto são índices do desejo de “espelhamento”.\n\nSODRÉ, M. Disponível em: http://alias.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).\n\nA crítica contida no texto sobre a sociedade contemporânea enfatiza",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prática identitária autorreferente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A dinâmica política democratizante.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A produção instantânea de notícias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os processos difusores de informações.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os mecanismos de convergência tecnológica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.01952,
+      "escala": 602,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 39,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/39",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 40,
+    "enunciado": "A crescente intelectualização e racionalização _não_ indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, _poderíamos_ ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.\n\nWEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). **Max Weber**: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).\n\nTal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Progresso civilizatório como decorrência da expansão do industrialismo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Extinção do pensamento mítico como um desdobramento do capitalismo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Emancipação como consequência do processo de racionalização da vida.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Afastamento de crenças tradicionais como uma característica da modernidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fim do monoteísmo como condição para a consolidação da ciência.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.53802,
+      "escala": 754,
+      "faixa": "Difícil"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 40,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/40",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 41,
+    "enunciado": "Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.\n\nSEVCENKO, N. **A corrida para o século XXI**: no _loop_ da montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado).\n\nO texto expõe uma tendência representativa do pensamento social contemporâneo, na qual o desenvolvimento de mecanismos de acautelamento ou administração de riscos tem como objetivo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Priorizar os interesses econômicos em relação aos seres humanos e à natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Instituir o diálogo público sobre mudanças tecnológicas e suas consequências.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Combater a introdução de tecnologias para travar o curso das mudanças sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.54535,
+      "escala": 655,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 41,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/41",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 42,
+    "enunciado": "Ninguém nasce mulher: torna-se mulher. Nenhum destino biológico, psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora esse produto intermediário entre o macho e o castrado que qualificam o feminino.\n\nBEAUVOIR, S. **O segundo sexo**. Rio de Janeiro: Nova Fronteira, 1980\n\nNa década de 1960, a proposição de Simone de Beauvoir contribuiu para estruturar um movimento social que teve como marca o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ação do Poder Judiciário para criminalizar a violência sexual.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão do Poder Legislativo para impedir a dupla jornada de trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Organização de protestos púbicos para garantir a igualdade de gênero.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Oposição de grupos religiosos para impedir os casamento homoafetivos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelecimento de políticas governamentais para promover ações afirmativas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.30658,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 42,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/42",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 43,
+    "enunciado": "Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.\n\nMANNHEIM, K. **Ideologia e utopia**. Porto Alegre: Globo 1950 (adaptado)\n\nIlustrando uma proposição básica da sociologia do conhecimento, o argumento de Karl Mannheim defende que o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conhecimento sobre a realidade é condicionado socialmente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Submissão ao grupo manipula o conhecimento do mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Divergência é um privilégio de indivíduos excepcionais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Educação formal determina o conhecimento do idioma.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Domínio das línguas universaliza o conhecimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.23952,
+      "escala": 624,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 43,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/43",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 44,
+    "enunciado": "A Unesco condenou a destruição da antiga capital assíria de Nimrod, no Iraque, pelo Estado Islâmico, com a agência da ONU considerando o ato como um crime de guerra. O grupo iniciou um processo de demolição em vários sítios arqueológicos em uma área reconhecida como um dos berços da civilização.\n\n**Unesco e especialistas condenam destruição de cidade assíria pelo Estado Islâmico**. Disponivel em: http://oglobo.globo.com. Acesso em: 30 mar. 2015 (adaptado).\n\nO tipo de atentado descrito no texto tem como consequência para as populações de países como o Iraque a desestruturação do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homogeneidade cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Patrimônio histórico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Controle ocidental.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Unidade étnica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Religião oficial.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.56914,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 44,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/44",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 45,
+    "enunciado": "A questão ambiental, uma das principais pautas contemporâneas, possibilitou o surgimento de concepções políticas diversas, dentre as quais se destaca a preservação ambiental, que sugere uma ideia de intocabilidade da natureza e impede o seu aproveitamento econômico sob qualquer justificativa.\n\nPORTO-GONÇALVES, C. W. **A globalização da natureza e a natureza da globalização**. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).\n\nConsiderando as atuais concepções políticas sobre a questão ambiental, a dinâmica caracterizada no texto quanto à proteção do meio ambiente está baseada na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prática econômica sustentável.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Contenção de impactos ambientais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Utilização progressiva dos recursos naturais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proibição permanente da exploração da natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Definição de áreas prioritárias para a exploração econômica",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.33455,
+      "escala": 633,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 45,
+      "provaMicrodados": "231",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/45",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  }
+]

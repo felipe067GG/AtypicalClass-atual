@@ -1,7 +1,7 @@
 [
   {
     "numero": 1,
-    "enunciado": "![](https://enem.dev/2010/questions/1/ac150e2b-3bf9-48b5-8d9e-aa52c2461af6.jpg)\n\nO gráfico representa a relação entre o tamanho e a totalidade dos imóveis rurais no Brasil. Que característica da estrutura fundiária brasileira está evidenciada no gráfico apresentado?",
+    "enunciado": "O gráfico representa a relação entre o tamanho e a totalidade dos imóveis rurais no Brasil. Que característica da estrutura fundiária brasileira está evidenciada no gráfico apresentado?",
     "alternativas": [
       {
         "letra": "A",
@@ -207,7 +207,7 @@
   },
   {
     "numero": 5,
-    "enunciado": "![](https://enem.dev/2010/questions/5/0507e0cd-2002-4267-8a14-b1061254b765.jpg)\n\nTEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.\n\nO esquema representa um processo de erosão em encosta. Que prática realizada por um agricultor pode resultar em aceleração desse processo?",
+    "enunciado": "TEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.\n\nO esquema representa um processo de erosão em encosta. Que prática realizada por um agricultor pode resultar em aceleração desse processo?",
     "alternativas": [
       {
         "letra": "A",
@@ -260,7 +260,7 @@
   },
   {
     "numero": 6,
-    "enunciado": "![](https://enem.dev/2010/questions/6/aa83a948-e33c-4b98-b195-2e781566a1f4.jpg)\n\nTEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.\n\nMuitos processos erosivos se concentram nas encostas, principalmente aqueles motivados pela água e pelo vento. No entanto, os reflexos também são sentidos nas áreas de baixada, onde geralmente há ocupação urbana. Um exemplo desses reflexos na vida cotidiana de muitas cidades brasileiras é",
+    "enunciado": "TEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.\n\nMuitos processos erosivos se concentram nas encostas, principalmente aqueles motivados pela água e pelo vento. No entanto, os reflexos também são sentidos nas áreas de baixada, onde geralmente há ocupação urbana. Um exemplo desses reflexos na vida cotidiana de muitas cidades brasileiras é",
     "alternativas": [
       {
         "letra": "A",
@@ -364,7 +364,7 @@
   },
   {
     "numero": 8,
-    "enunciado": "![](https://enem.dev/2010/questions/8/a4c1596f-3cc7-4a97-966e-ccc2d1b0db88.jpg)\n\nO esquema mostra depósitos em que aparecem fósseis de animais do Período Jurássico. As rochas em que se encontram esses fósseis são",
+    "enunciado": "O esquema mostra depósitos em que aparecem fósseis de animais do Período Jurássico. As rochas em que se encontram esses fósseis são",
     "alternativas": [
       {
         "letra": "A",
@@ -514,57 +514,6 @@
       "numero": 10,
       "provaMicrodados": "85",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/10",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
-    }
-  },
-  {
-    "numero": 11,
-    "enunciado": "A evolução do processo de transformação de matérias-primas em produtos acabados ocorreu em três estágios: artesanato, manufatura e maquinofatura.\n\nUm desses estágios foi o artesanato, em que se",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Trabalhava conforme o ritmo das máquinas e de maneira padronizada.",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "Trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série.",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "Empregavam fontes de energia abundantes para o funcionamento das máquinas.",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "Realizava parte da produção por cada operário, com uso de máquinas e trabalho assalariado.",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "Faziam interferência do processo produtivo por técnicos e gerentes com vistas a determinar o ritmo de produção.",
-        "imagem": null
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": -0.28047,
-      "escala": 472,
-      "faixa": "Fácil"
-    },
-    "habilidade": 18,
-    "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2010,
-      "area": "CH",
-      "cor": "Azul",
-      "numero": 11,
-      "provaMicrodados": "85",
-      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/11",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
     }
   },
@@ -2100,7 +2049,7 @@
   },
   {
     "numero": 45,
-    "enunciado": "![](https://enem.dev/2010/questions/45/a703a5c4-df7b-46c0-9a46-17f2771dbf24.jpg)\n\nDemocracia: “regime político no qual a soberania é  \nexercida pelo povo, pertence ao conjunto dos cidadãos.”\n\nJAPIASSÚ, H.; MARCONDES, D. Dicionário Básico de Filosofia. Rio de Janeiro: Zahar, 2006.\n\nUma suposta “vacina” contra o despotismo, em um contexto democrático, tem por objetivo",
+    "enunciado": "Democracia: “regime político no qual a soberania é\nexercida pelo povo, pertence ao conjunto dos cidadãos.”\n\nJAPIASSÚ, H.; MARCONDES, D. Dicionário Básico de Filosofia. Rio de Janeiro: Zahar, 2006.\n\nUma suposta “vacina” contra o despotismo, em um contexto democrático, tem por objetivo",
     "alternativas": [
       {
         "letra": "A",

@@ -1,7 +1,7 @@
 [
   {
     "numero": 91,
-    "enunciado": "A figura ilustra esquematicamente um processo de  \nremediação de solos contaminados com tricloroeteno  \n(TCE), um agente desengraxante. Em razão de  \nvazamentos de tanques de estocagem ou de manejo  \ninapropriado de resíduos industriais, ele se encontra  \npresente em águas subterrâneas, nas quais forma  \numa fase líquida densa não aquosa (DNAPL) que se  \ndeposita no fundo do aquífero. Essa tecnologia de  \ndescontaminação emprega o íon persulfato (S2  \nO8  \n2−), que  \né convertido no radical •SO4  \n− por minerais que contêm  \nFe(III). O esquema representa de forma simplificada o  \nmecanismo de ação química sobre o TCE e a formação  \ndos produtos de degradação.\n\n![](https://enem.dev/2022/questions/91/0c8a2451-b60e-4a4f-9eb8-4cac8fe9536d.png)\n\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:  \nremediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado)\n\nEsse procedimento de remediação de águas subterrâneas\nbaseia-se em reações de",
+    "enunciado": "A figura ilustra esquematicamente um processo de\nremediação de solos contaminados com tricloroeteno\n(TCE), um agente desengraxante. Em razão de\nvazamentos de tanques de estocagem ou de manejo\ninapropriado de resíduos industriais, ele se encontra\npresente em águas subterrâneas, nas quais forma\numa fase líquida densa não aquosa (DNAPL) que se\ndeposita no fundo do aquífero. Essa tecnologia de\ndescontaminação emprega o íon persulfato (S2\nO8\n2−), que\né convertido no radical •SO4\n− por minerais que contêm\nFe(III). O esquema representa de forma simplificada o\nmecanismo de ação química sobre o TCE e a formação\ndos produtos de degradação.\n\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:\nremediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado)\n\nEsse procedimento de remediação de águas subterrâneas\nbaseia-se em reações de",
     "alternativas": [
       {
         "letra": "A",
@@ -156,7 +156,7 @@
   },
   {
     "numero": 94,
-    "enunciado": "![](https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png)\n\nOs riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:  \n(1) ácido clorídrico concentrado com cianeto de potássio;  \n(2) ácido nítrico concentrado com sacarose.\n\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).\n\nO descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "enunciado": "Os riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:\n(1) ácido clorídrico concentrado com cianeto de potássio;\n(2) ácido nítrico concentrado com sacarose.\n\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).\n\nO descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
     "alternativas": [
       {
         "letra": "A",
@@ -209,7 +209,7 @@
   },
   {
     "numero": 95,
-    "enunciado": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença  \ndo campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica.  \nA figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C  \nestão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\n![](https://enem.dev/2022/questions/95/2a216ed1-eeab-4213-bcac-34e5166e97dd.png)\n\nConsiderando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
+    "enunciado": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença\ndo campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica.\nA figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C\nestão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\nConsiderando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
     "alternativas": [
       {
         "letra": "A",
@@ -262,7 +262,7 @@
   },
   {
     "numero": 96,
-    "enunciado": "![](https://enem.dev/2022/questions/96/970c1d36-8b55-4012-b912-db3efb32fbe4.png)\n\nO quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.\n\nA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência  \nelétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.  \nApesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.\n\nDURAN, J. E. R. **Biofísica: fundamentos e aplicações**. São Paulo: Pearson Prentice Hall, 2003 (adaptado).\n\nQual associação de baterias foi responsável pelo acidente?",
+    "enunciado": "O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.\n\nA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência\nelétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.\nApesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.\n\nDURAN, J. E. R. **Biofísica: fundamentos e aplicações**. São Paulo: Pearson Prentice Hall, 2003 (adaptado).\n\nQual associação de baterias foi responsável pelo acidente?",
     "alternativas": [
       {
         "letra": "A",
@@ -468,7 +468,7 @@
   },
   {
     "numero": 100,
-    "enunciado": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m ![](https://enem.dev/2022/questions/100/109f2a39-f073-4841-9cec-bed51e1c1f12.png)\n\nO resultado que eles obtiveram foi de",
+    "enunciado": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m \n\nO resultado que eles obtiveram foi de",
     "alternativas": [
       {
         "letra": "A",
@@ -521,7 +521,7 @@
   },
   {
     "numero": 101,
-    "enunciado": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação.\n\nNo quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\n![](https://enem.dev/2022/questions/101/afa4fc86-8d89-4713-a690-8306324d23ed.png)\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg ![](https://enem.dev/2022/questions/101/d492e2a3-b988-4c38-802d-20d5f73c3b72.png) de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\n\nQual tipo de cana-de-açúcar deve ser escolhido?",
+    "enunciado": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação.\n\nNo quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg  de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\n\nQual tipo de cana-de-açúcar deve ser escolhido?",
     "alternativas": [
       {
         "letra": "A",
@@ -626,7 +626,7 @@
   },
   {
     "numero": 103,
-    "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes  \nprodutos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força ![](https://enem.dev/2022/questions/103/731a52b0-b8d4-4a15-8a7c-aabc67d6dcde.jpg), conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n\nMantendo-se a força ![](https://enem.dev/2022/questions/103/04cf32d8-f517-483e-b0d5-189de111bc7a.jpg) paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso ![](https://enem.dev/2022/questions/103/9027d4f1-c0a1-4b18-ac9f-2639e6b4360b.jpg), normal ![](https://enem.dev/2022/questions/103/e11f6a77-dda3-4525-a045-894baf71d307.jpg) e de atrito estático ![](https://enem.dev/2022/questions/103/d65b67dc-a285-43d4-a72b-a9c1b521c3b5.jpg).\n\n![](https://enem.dev/2022/questions/103/7cfea492-83f7-4ea1-bf6a-a3dc29d4edb9.jpg)\n\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+    "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes\nprodutos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força , conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n\nMantendo-se a força  paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso , normal  e de atrito estático .\n\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
     "alternativas": [
       {
         "letra": "A",
@@ -786,7 +786,7 @@
   },
   {
     "numero": 106,
-    "enunciado": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n\n![](https://enem.dev/2022/questions/106/836c6396-bd57-477b-b379-b509c4b99242.png)\n\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+    "enunciado": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
     "alternativas": [
       {
         "letra": "A",
@@ -839,7 +839,7 @@
   },
   {
     "numero": 107,
-    "enunciado": "A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio ácido, conforme mostra o esquema:\n\n![](https://enem.dev/2022/questions/107/d19f3bc6-e4ed-4f93-9a0b-55f98ab20380.jpg)\n\nOGEDA, T. L.; PETRI, D. F. S. \\[…\\] **Química Nova**, n. 7, 2010 (adaptado).\n\nNessa conversão de polissacarídeos, a função do íon H+ é",
+    "enunciado": "A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio ácido, conforme mostra o esquema:\n\nOGEDA, T. L.; PETRI, D. F. S. \\[…\\] **Química Nova**, n. 7, 2010 (adaptado).\n\nNessa conversão de polissacarídeos, a função do íon H+ é",
     "alternativas": [
       {
         "letra": "A",
@@ -892,7 +892,7 @@
   },
   {
     "numero": 108,
-    "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\n![](https://enem.dev/2022/questions/108/9210b1e4-7666-4817-9757-f1642ea64a91.jpg)\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:",
+    "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:",
     "alternativas": [
       {
         "letra": "A",
@@ -945,7 +945,7 @@
   },
   {
     "numero": 109,
-    "enunciado": "Oelementoiodo(I)temfunçãobiológicaeéacumulado  \nna tireoide. Nos acidentes nucleares de Chernobyl e  \nFukushima, ocorreu a liberação para a atmosfera do  \nradioisótopo 131I, responsável por enfermidades nas  \npessoas que foram expostas a ele. O decaimento de uma  \nmassa de 12 microgramas do isótopo 131I foi monitorado  \npor 14 dias, conforme o quadro.\n\n![](https://enem.dev/2022/questions/109/354aeb9d-9351-404a-b131-174ac378eaaf.png)\n\nApós o período de 40 dias, a massa residual desse\nisótopo é mais próxima de",
+    "enunciado": "Oelementoiodo(I)temfunçãobiológicaeéacumulado\nna tireoide. Nos acidentes nucleares de Chernobyl e\nFukushima, ocorreu a liberação para a atmosfera do\nradioisótopo 131I, responsável por enfermidades nas\npessoas que foram expostas a ele. O decaimento de uma\nmassa de 12 microgramas do isótopo 131I foi monitorado\npor 14 dias, conforme o quadro.\n\nApós o período de 40 dias, a massa residual desse\nisótopo é mais próxima de",
     "alternativas": [
       {
         "letra": "A",
@@ -1049,7 +1049,7 @@
   },
   {
     "numero": 111,
-    "enunciado": "O eixo de rotação da Terra apresenta uma inclinação  \nem relação ao plano de sua órbita em torno do Sol,  \ninterferindo na duração do dia e da noite ao longo do ano.\n\n![](https://enem.dev/2022/questions/111/12bd97ef-3334-4258-aec9-17981bd0b299.png)\n\nUma pessoa instala em sua residência uma placa  \nfotovoltaica, que transforma energia solar em elétrica.  \nEla monitora a energia total produzida por essa placa  \nem 4 dias do ano, ensolarados e sem nuvens, e lança os  \nresultados no gráfico.\n\n![](https://enem.dev/2022/questions/111/b90aa72c-e072-4867-955a-bb795396fd8e.png)\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado)\n\nPróximo a que região se situa a residência onde as placas\nforam instaladas?",
+    "enunciado": "O eixo de rotação da Terra apresenta uma inclinação\nem relação ao plano de sua órbita em torno do Sol,\ninterferindo na duração do dia e da noite ao longo do ano.\n\nUma pessoa instala em sua residência uma placa\nfotovoltaica, que transforma energia solar em elétrica.\nEla monitora a energia total produzida por essa placa\nem 4 dias do ano, ensolarados e sem nuvens, e lança os\nresultados no gráfico.\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado)\n\nPróximo a que região se situa a residência onde as placas\nforam instaladas?",
     "alternativas": [
       {
         "letra": "A",
@@ -1154,7 +1154,7 @@
   },
   {
     "numero": 115,
-    "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados\n\n![](https://enem.dev/2022/questions/115/f65d0159-593c-4da2-84b5-1a0f297f96f9.png)\n\nROMERO, M. A. B. et al. **Mudanças climáticas e ilhas de calor urbanas**. Brasília: UnB; ETB, 2019 (adaptado)\n\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+    "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados\n\nROMERO, M. A. B. et al. **Mudanças climáticas e ilhas de calor urbanas**. Brasília: UnB; ETB, 2019 (adaptado)\n\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
     "alternativas": [
       {
         "letra": "A",
@@ -1207,7 +1207,7 @@
   },
   {
     "numero": 116,
-    "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\n![](https://enem.dev/2022/questions/116/f941cbba-7b0c-4b5d-98db-2616e2001f8c.png)\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 e J/gº C densidade de 1 000 g/L\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+    "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 e J/gº C densidade de 1 000 g/L\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
     "alternativas": [
       {
         "letra": "A",
@@ -1260,7 +1260,7 @@
   },
   {
     "numero": 117,
-    "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3 ) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\n![](https://enem.dev/2022/questions/117/d1b41872-c2bd-4e00-8425-9dc4e5436395.png)\n\nO gás obtido no experimento é o:",
+    "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3 ) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\nO gás obtido no experimento é o:",
     "alternativas": [
       {
         "letra": "A",
@@ -1313,7 +1313,7 @@
   },
   {
     "numero": 118,
-    "enunciado": "Em 2002, foi publicado um artigo científico que  \nrelacionava alterações na produção de hormônios sexuais  \nde sapos machos expostos à atrazina, um herbicida, com  \no desenvolvimento anômalo de seus caracteres sexuais  \nprimários e secundários. Entre os animais sujeitos à  \ncontaminação, observaram-se casos de hermafroditismo  \ne desmasculinização da laringe. O estudo em questão  \ncomparou a concentração de um hormônio específico  \nno sangue de machos expostos ao agrotóxico com a de  \noutros machos e fêmeas que não o foram (controles).  \nOs resultados podem ser vistos na figura.\n\n![](https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png)\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to  \nthe Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of**  \n**the National Academy of Sciences**, n. 8, 2002 (adaptado).\n\nCom base nas informações do texto, qual é o hormônio\ncujas concentrações estão representadas na figura?",
+    "enunciado": "Em 2002, foi publicado um artigo científico que\nrelacionava alterações na produção de hormônios sexuais\nde sapos machos expostos à atrazina, um herbicida, com\no desenvolvimento anômalo de seus caracteres sexuais\nprimários e secundários. Entre os animais sujeitos à\ncontaminação, observaram-se casos de hermafroditismo\ne desmasculinização da laringe. O estudo em questão\ncomparou a concentração de um hormônio específico\nno sangue de machos expostos ao agrotóxico com a de\noutros machos e fêmeas que não o foram (controles).\nOs resultados podem ser vistos na figura.\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to\nthe Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of**\n**the National Academy of Sciences**, n. 8, 2002 (adaptado).\n\nCom base nas informações do texto, qual é o hormônio\ncujas concentrações estão representadas na figura?",
     "alternativas": [
       {
         "letra": "A",
@@ -1366,7 +1366,7 @@
   },
   {
     "numero": 120,
-    "enunciado": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n\n![](https://enem.dev/2022/questions/120/b54f40a5-6770-42c7-8756-63acaa5dcbd1.jpg)\n\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
+    "enunciado": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
     "alternativas": [
       {
         "letra": "A",
@@ -1419,7 +1419,7 @@
   },
   {
     "numero": 121,
-    "enunciado": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.\n\n![](https://enem.dev/2022/questions/121/e95c1ba6-6673-4d72-b19e-9f022900d737.jpg)\n\nQual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+    "enunciado": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.\n\nQual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
     "alternativas": [
       {
         "letra": "A",
@@ -1625,7 +1625,7 @@
   },
   {
     "numero": 125,
-    "enunciado": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações  patológicas.\n\n![](https://enem.dev/2022/questions/125/310a2901-c53f-4fd3-86bd-17c5a2aa0b83.jpg)\n\nEntre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+    "enunciado": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações  patológicas.\n\nEntre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
     "alternativas": [
       {
         "letra": "A",
@@ -1780,7 +1780,7 @@
   },
   {
     "numero": 128,
-    "enunciado": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.  \nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n\n![](https://enem.dev/2022/questions/128/3e38e718-2857-4d65-849c-ddc36f19f455.png)\n\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+    "enunciado": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.\nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
     "alternativas": [
       {
         "letra": "A",
@@ -1833,7 +1833,7 @@
   },
   {
     "numero": 129,
-    "enunciado": "O esquema representa o ciclo do nitrogênio:\n\n![](https://enem.dev/2022/questions/129/dceda47e-3511-452d-b376-b192e2b975f6.png)\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).\n\nEm um solo de menor pH, será favorecida a formação de:",
+    "enunciado": "O esquema representa o ciclo do nitrogênio:\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).\n\nEm um solo de menor pH, será favorecida a formação de:",
     "alternativas": [
       {
         "letra": "A",
@@ -1937,7 +1937,7 @@
   },
   {
     "numero": 131,
-    "enunciado": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela.Associações similares ocorriam no passadoda história da químicaorgânica, quando os compostosditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\n![](https://enem.dev/2022/questions/131/ffcbcff6-5bd4-4fa3-a11b-17bd34a48ade.png)\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).\n\nA característica estrutural dessa família de compostos é a presença de",
+    "enunciado": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela.Associações similares ocorriam no passadoda história da químicaorgânica, quando os compostosditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).\n\nA característica estrutural dessa família de compostos é a presença de",
     "alternativas": [
       {
         "letra": "A",
@@ -2092,7 +2092,7 @@
   },
   {
     "numero": 135,
-    "enunciado": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.\n\n![](https://enem.dev/2022/questions/135/c20e9e98-446f-4342-bf88-a8069abe0fb9.png)\n\nZOBEL, G. Brasileiro inventor de “Iuz engarrafada” tem ideia espalhada pelo mundo.  \nDisponível em: www.bbc.com. Acesso em 23 jun. 2022 (adaptado)\n\nQue fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+    "enunciado": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.\n\nZOBEL, G. Brasileiro inventor de “Iuz engarrafada” tem ideia espalhada pelo mundo.\nDisponível em: www.bbc.com. Acesso em 23 jun. 2022 (adaptado)\n\nQue fenômeno óptico explica o funcionamento da “luz engarrafada”?",
     "alternativas": [
       {
         "letra": "A",

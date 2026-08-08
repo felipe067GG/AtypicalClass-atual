@@ -1,7 +1,7 @@
 [
   {
     "numero": 1,
-    "enunciado": "![](https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png)\n\nA charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta:",
+    "enunciado": "A charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta:",
     "alternativas": [
       {
         "letra": "A",
@@ -207,7 +207,7 @@
   },
   {
     "numero": 5,
-    "enunciado": "![](https://enem.dev/2014/questions/5/90211721-9e1a-406f-b2d0-e1c736d43334.jpg)\n\nNEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.\n\nConsiderando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à",
+    "enunciado": "NEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.\n\nConsiderando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à",
     "alternativas": [
       {
         "letra": "A",
@@ -413,7 +413,7 @@
   },
   {
     "numero": 9,
-    "enunciado": "![](https://enem.dev/2014/questions/9/de4e7360-b8c8-4652-a4a9-b54cfd9a7683.jpg)\n\n**TEXTO II**\n\nA Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de crédito ou telefones celulares ou cobrar contas em atraso.\n\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).\n\nAo relacionar os textos, a explicação para o processo de territorialização descrito está no(a)",
+    "enunciado": "**TEXTO II**\n\nA Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de crédito ou telefones celulares ou cobrar contas em atraso.\n\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).\n\nAo relacionar os textos, a explicação para o processo de territorialização descrito está no(a)",
     "alternativas": [
       {
         "letra": "A",
@@ -823,7 +823,7 @@
   },
   {
     "numero": 17,
-    "enunciado": "![](https://enem.dev/2014/questions/17/ba0d4ad6-8315-45aa-929a-783040398f38.png)\n\nPAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014\n\nA discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:",
+    "enunciado": "PAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014\n\nA discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:",
     "alternativas": [
       {
         "letra": "A",
@@ -1233,7 +1233,7 @@
   },
   {
     "numero": 25,
-    "enunciado": "![](https://enem.dev/2014/questions/25/1428c6bc-bcd0-452d-8bd6-6600b3f7bd77.png)\n\nNo centro da imagem, o filósofo Platão é retratado apontando para o alto. Esse gesto significa que o conhecimento se encontra em uma instância na qual o homem descobre a:",
+    "enunciado": "No centro da imagem, o filósofo Platão é retratado apontando para o alto. Esse gesto significa que o conhecimento se encontra em uma instância na qual o homem descobre a:",
     "alternativas": [
       {
         "letra": "A",
@@ -1286,7 +1286,7 @@
   },
   {
     "numero": 26,
-    "enunciado": "![](https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png)\n\nO fluxo migratório representado está associado ao processo de:",
+    "enunciado": "O fluxo migratório representado está associado ao processo de:",
     "alternativas": [
       {
         "letra": "A",
@@ -1436,6 +1436,57 @@
       "numero": 28,
       "provaMicrodados": "195",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 29,
+    "enunciado": "A filosofia encontra-se escrita neste grande livro que continuamente se abre perante nossos olhos (isto é, o universo), que não se pode compreender antes de entender a língua e conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática, os caracteres são triângulos, circunferências e outras figuras geométricas, sem cujos meios é impossível entender humanamente as palavras; sem eles, vagamos perdidos dentro de um obscuro labirinto.\n\n_GALILEI, G. O ensaiador. Os pensadores. São Paulo: Abril Cultural, 1978._\n\nNo contexto da Revolução Científica do século XVII, assumir a posição de Galileu significava defender a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Continuidade do vínculo entre ciência e fé dominante na Idade Média.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Necessidade de o estudo linguístico ser acompanhado do exame matemático.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Oposição da nova física quantitativa aos pressupostos da filosofia escolástica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Importância da independência da investigação científica pretendida pela Igreja.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Inadequação da matemática para elaborar uma explicação racional da natureza.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.27327,
+      "escala": 727,
+      "faixa": "Difícil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 29,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/29",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
     }
   },
@@ -1645,7 +1696,7 @@
   },
   {
     "numero": 34,
-    "enunciado": "![](https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg)\n\nA imagem indica pontos com ativo uso de tecnologia, correspondentes a que processo de intervenção no espaço?",
+    "enunciado": "A imagem indica pontos com ativo uso de tecnologia, correspondentes a que processo de intervenção no espaço?",
     "alternativas": [
       {
         "letra": "A",
@@ -1697,8 +1748,59 @@
     }
   },
   {
+    "numero": 35,
+    "enunciado": "A convecção na Região Amazônica é um importante mecanismo da atmosfera tropical e sua variação, em termos de intensidade e posição, tem um papel importante na determinação do tempo e do clima dessa região. A nebulosidade e o regime de precipitação determinam o clima amazônico.\n\nFISCH, G.; MARENGO, J. A.; NOBRE, C. A. Uma revisão geral sobre o clima da Amazônia. **Acta Amazônica**, v. 28, n. 2, 1998 (adaptado).\n\nO mecanismo climático regional descrito está associado à característica do espaço físico de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resfriamento da umidade da superfície.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Variação da amplitude de temperatura.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dispersão dos ventos contra-alísios.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Existência de barreiras de relevo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Convergência de fluxos de ar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.96008,
+      "escala": 696,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 35,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/35",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
     "numero": 36,
-    "enunciado": "![](https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png)\n\nA partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
+    "enunciado": "A partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
     "alternativas": [
       {
         "letra": "A",
@@ -1751,7 +1853,7 @@
   },
   {
     "numero": 37,
-    "enunciado": "![](https://enem.dev/2014/questions/37/cfd6e28d-e697-4b50-8f2c-81c4c3a7e2b9.png)\n\nNa imagem, é ressaltado, em tom mais escuro, um grupo de países que na atualidade possuem características político-econômicas comuns, no sentido de:",
+    "enunciado": "Na imagem, é ressaltado, em tom mais escuro, um grupo de países que na atualidade possuem características político-econômicas comuns, no sentido de:",
     "alternativas": [
       {
         "letra": "A",
@@ -1804,7 +1906,7 @@
   },
   {
     "numero": 38,
-    "enunciado": "![](https://enem.dev/2014/questions/38/a69a5ffe-389c-47f5-b421-96ced350c7ac.png)\n\nA preservação da sustentabilidade do recurso natural exposto pressupõe:",
+    "enunciado": "A preservação da sustentabilidade do recurso natural exposto pressupõe:",
     "alternativas": [
       {
         "letra": "A",
@@ -2163,7 +2265,7 @@
   },
   {
     "numero": 45,
-    "enunciado": "![](https://enem.dev/2014/questions/45/ff3d9660-9de4-424a-88d2-bffb60c90d9d.png)\n\n**De volta do Paraguai**\n\nCheio de glória, coberto de louros, depois de ter derramado seu sangue em defesa da pátria e libertado um povo da escravidão, o voluntário volta ao seu país natal para ver sua mãe amarrada a um tronco horrível de realidade!…\n\nAGOSTINI. A vida fluminense, ano 3, n. 128, 11 jun. 1870. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001 (adaptado).\n\nNa charge, identifica-se uma contradição no retorno de parte dos “Voluntários da Pátria” que lutaram na Guerra do Paraguai (1864-1870), evidenciada na",
+    "enunciado": "**De volta do Paraguai**\n\nCheio de glória, coberto de louros, depois de ter derramado seu sangue em defesa da pátria e libertado um povo da escravidão, o voluntário volta ao seu país natal para ver sua mãe amarrada a um tronco horrível de realidade!…\n\nAGOSTINI. A vida fluminense, ano 3, n. 128, 11 jun. 1870. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001 (adaptado).\n\nNa charge, identifica-se uma contradição no retorno de parte dos “Voluntários da Pátria” que lutaram na Guerra do Paraguai (1864-1870), evidenciada na",
     "alternativas": [
       {
         "letra": "A",

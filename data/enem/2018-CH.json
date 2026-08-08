@@ -205,7 +205,7 @@
   },
   {
     "numero": 50,
-    "enunciado": "![](https://enem.dev/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png)\n\n![](https://enem.dev/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png)\n\nEsse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)",
+    "enunciado": "Esse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)",
     "alternativas": [
       {
         "letra": "A",
@@ -820,7 +820,7 @@
   },
   {
     "numero": 63,
-    "enunciado": "![](https://enem.dev/2018/questions/63/888e599a-8ed5-4860-8751-5dd9a2be81ab.png)\n\nQual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?",
+    "enunciado": "Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?",
     "alternativas": [
       {
         "letra": "A",
@@ -1026,7 +1026,7 @@
   },
   {
     "numero": 67,
-    "enunciado": "![](https://enem.dev/2018/questions/67/cac2696c-8f19-4f55-8af9-6e4b75e686a6.png)\n\nA dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a",
+    "enunciado": "A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a",
     "alternativas": [
       {
         "letra": "A",
@@ -1385,7 +1385,7 @@
   },
   {
     "numero": 74,
-    "enunciado": "![](https://enem.dev/2018/questions/74/78468bb0-fdfb-4b4f-abf8-fe5a5f7fef15.png)\n\nEssa imagem foi impressa em cartilha escolar durante a vigência do Estado Novo com o intuito de",
+    "enunciado": "Essa imagem foi impressa em cartilha escolar durante a vigência do Estado Novo com o intuito de",
     "alternativas": [
       {
         "letra": "A",
@@ -1590,57 +1590,6 @@
     }
   },
   {
-    "numero": 79,
-    "enunciado": "A quem não basta pouco, nada basta.\n\nEPICURO. **Os pensadores.** São Paulo: Abril Cultural, 1985.\n\nRemanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Esperança, tida como confiança no porvir.",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "Justiça, interpretada como retidão de caráter.",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "Temperança, marcada pelo domínio da vontade.",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "Coragem, definida como fortitude na dificuldade.",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "Prudência, caracterizada pelo correto uso da razão.",
-        "imagem": null
-      }
-    ],
-    "resposta": "C",
-    "dificuldade": {
-      "b": 1.6304,
-      "escala": 663,
-      "faixa": "Médio"
-    },
-    "habilidade": 23,
-    "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2018,
-      "area": "CH",
-      "cor": "Azul",
-      "numero": 79,
-      "provaMicrodados": "451",
-      "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/79",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip"
-    }
-  },
-  {
     "numero": 80,
     "enunciado": "Em algumas línguas de Moçambique não existe a palavra “pobre”. O indivíduo é pobre quando não tem parentes. A pobreza é a solidão, a ruptura das relações familiares que, na sociedade rural, servem de apoio à sobrevivência. Os consultores internacionais, especialistas em elaborar relatórios sobre a miséria, talvez não tenham em conta o impacto dramático da destruição dos laços familiares e das relações de entreajuda. Nações inteiras estão tornando-se “órfãs”, e a mendicidade parece ser a única via de uma agonizante sobrevivência.\n\nCOUTO, M. **E se Obama fosse africano?** & outras intervenções. Portugal: Caminho, 2009 (adaptado).\n\nEm uma leitura que extrapola a esfera econômica, o autor associa o acirramento da pobreza à",
     "alternativas": [
@@ -1744,7 +1693,7 @@
   },
   {
     "numero": 82,
-    "enunciado": "**TEXTO I**  \nHá mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa realidade em função da seca.\n\n**TEXTO II**  \n                                 **Dinâmicas atmosféricas no Brasil**\n\nElementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A ” representa o centro da anomalia de alta pressão atmosférica.\n\n![](https://enem.dev/2018/questions/82/8f0a6084-2a84-4eaf-8026-cb0ac48d1a65.png)\n\nDe acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)",
+    "enunciado": "**TEXTO I**\nHá mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa realidade em função da seca.\n\n**TEXTO II**\n                                 **Dinâmicas atmosféricas no Brasil**\n\nElementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A ” representa o centro da anomalia de alta pressão atmosférica.\n\nDe acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)",
     "alternativas": [
       {
         "letra": "A",
@@ -2001,7 +1950,7 @@
   },
   {
     "numero": 87,
-    "enunciado": "![](https://enem.dev/2018/questions/87/fbfb9aae-0a4f-4e62-9f06-80e6c51664bb.png)\n\nO anúncio publicitário da década de 1940 reforça os seguintes estereótipos atribuídos historicamente a uma suposta natureza feminina:",
+    "enunciado": "O anúncio publicitário da década de 1940 reforça os seguintes estereótipos atribuídos historicamente a uma suposta natureza feminina:",
     "alternativas": [
       {
         "letra": "A",
@@ -2054,7 +2003,7 @@
   },
   {
     "numero": 88,
-    "enunciado": "![](https://enem.dev/2018/questions/88/7f3cead2-0224-45e5-89bf-cb7b399307cb.png)\n\nConsiderando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada pela tendência de",
+    "enunciado": "Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada pela tendência de",
     "alternativas": [
       {
         "letra": "A",

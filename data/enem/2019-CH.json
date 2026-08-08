@@ -52,7 +52,7 @@
   },
   {
     "numero": 47,
-    "enunciado": "![](https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).\n\nA geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
+    "enunciado": "Disponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).\n\nA geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
     "alternativas": [
       {
         "letra": "A",
@@ -105,7 +105,7 @@
   },
   {
     "numero": 49,
-    "enunciado": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) está investigando o extermínio de abelhas por intoxicação por agrotóxicos em colmeias de São Paulo e Minas Gerais. Os estudos com inseticidas do tipo neonicotinoides devem estar concluídos no primeiro semestre de 2015. Trata-se de um problema de escala mundial, presente, inclusive, em países do chamado primeiro mundo, e que traz, como consequência, grave ameaça aos seres vivos do planeta, inclusive ao homem.\n\nIBAMA. Polinizadores em risco de extinção são ameaça  \nà vida do ser humano. Disponível em: www.mma.gov.br.  \nAcesso em: 10 mar. 2014.\n\nQual solução para o problema apresentado garante a produtividade da agricultura moderna?",
+    "enunciado": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) está investigando o extermínio de abelhas por intoxicação por agrotóxicos em colmeias de São Paulo e Minas Gerais. Os estudos com inseticidas do tipo neonicotinoides devem estar concluídos no primeiro semestre de 2015. Trata-se de um problema de escala mundial, presente, inclusive, em países do chamado primeiro mundo, e que traz, como consequência, grave ameaça aos seres vivos do planeta, inclusive ao homem.\n\nIBAMA. Polinizadores em risco de extinção são ameaça\nà vida do ser humano. Disponível em: www.mma.gov.br.\nAcesso em: 10 mar. 2014.\n\nQual solução para o problema apresentado garante a produtividade da agricultura moderna?",
     "alternativas": [
       {
         "letra": "A",
@@ -258,7 +258,7 @@
   },
   {
     "numero": 52,
-    "enunciado": "O processamento da mandioca era uma atividade já realizada pelos nativos que viviam no Brasil antes da chegada de portugueses e africanos. Entretanto, ao longo do processo de colonização portuguesa, a produção da farinha foi aperfeiçoada e ampliada, tornando-se lugar comum em todo o território da colônia portuguesa na América. Com a consolidação do comércio atlântico em suas diferentes conexões, a farinha atravessou os mares e chegou aos mercados africanos.\nBEZERRA, N. R. Escravidão, farinha e tráfico atlântico: um novo olhar sobre as relações entre o Rio de Janeiro e Benguela (1790-1830). Disponível em: www.bn.br. Acesso em: 20 ago. 2014 (adaptado)\n\n\n\n\nConsiderando a formação do espaço atlântico, esse produto exemplifica historicamente a",
+    "enunciado": "O processamento da mandioca era uma atividade já realizada pelos nativos que viviam no Brasil antes da chegada de portugueses e africanos. Entretanto, ao longo do processo de colonização portuguesa, a produção da farinha foi aperfeiçoada e ampliada, tornando-se lugar comum em todo o território da colônia portuguesa na América. Com a consolidação do comércio atlântico em suas diferentes conexões, a farinha atravessou os mares e chegou aos mercados africanos.\nBEZERRA, N. R. Escravidão, farinha e tráfico atlântico: um novo olhar sobre as relações entre o Rio de Janeiro e Benguela (1790-1830). Disponível em: www.bn.br. Acesso em: 20 ago. 2014 (adaptado)\n\nConsiderando a formação do espaço atlântico, esse produto exemplifica historicamente a",
     "alternativas": [
       {
         "letra": "A",
@@ -355,6 +355,57 @@
       "numero": 53,
       "provaMicrodados": "507",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/53",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 54,
+    "enunciado": "Dificilmente passa-se uma noite sem que algum sitiante tenha seu celeiro ou sua pilha de cereais destruídos pelo fogo. Vários trabalhadores não diretamente envolvidos nos ataques pareciam apoiá-los, como se vê neste depoimento ao The Times: “deixa queimar, pena que não foi a casa”; “podemos nos aquecer agora”; “nós só queríamos algumas batatas; há um fogo ótimo para cozinhá-las”.\n\n**HOBSBAWM, E.**; RUDÉ, G. Capitão Swing. Rio de Janeiro: Francisco Alves, 1982 (adaptado).\n\nA revolta descrita no texto, ocorrida na Inglaterra no século XIX, foi uma reação ao seguinte processo socioespacial:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Restrição da propriedade privada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Expropriação das terras comunais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Imposição da estatização fundiária.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da produção monocultora.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Proibição das atividades artesanais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.45829,
+      "escala": 646,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 54,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/54",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
     }
   },
@@ -462,7 +513,7 @@
   },
   {
     "numero": 57,
-    "enunciado": "![](https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).\n\nNo Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
+    "enunciado": "SALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).\n\nNo Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
     "alternativas": [
       {
         "letra": "A",
@@ -566,7 +617,7 @@
   },
   {
     "numero": 59,
-    "enunciado": "![](https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png)\n\nA divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
+    "enunciado": "A divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
     "alternativas": [
       {
         "letra": "A",
@@ -618,8 +669,59 @@
     }
   },
   {
+    "numero": 60,
+    "enunciado": "A cidade medieval é, antes de mais uma sociedade da abundância, concentrada num pequeno espaço em meio a vastas regiões pouco povoadas. Em seguida, é um lugar de produção e de trocas, onde se articulam o artesanato e o comércio, sustentados por uma economia monetária. É também centro de um sistema de valores particular, do qual emerge a prática laboriosa e criativa do trabalho, o gosto pelo negócio e pelo dinheiro, a inclinação para o luxo, o senso da beleza. E ainda um sistema de orga – nização de um espaço fechado com muralhas, onde se penetra por portas e se caminha por ruas e praças e que é guarnecido por torres.\n\nLE GOFF, J.; SCHMITT, J.-C. **Dicionário temático do Ocidente Medieval**. Bauru: Edusc, 2006.\n\nNo texto, o espaço descrito se caracteriza pela associação entre a ampliação das atividades urbanas e a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Emancipação do poder hegemônico da realeza.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aceitação das práticas usurárias dos religiosos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Independência da produção alimentar dos campos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Superação do ordenamento corporativo dos ofícios.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Permanência dos elementos arquitetônicos de proteção.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.01836,
+      "escala": 602,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 60,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/60",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
     "numero": 61,
-    "enunciado": "**TEXTO I**\n\nOuve o barulho do rio, meu filho  \nDeixa esse som te embalar  \nAs folhas que caem no rio, meu filho  \nTerminam nas águas do mar  \nQuando amanhã por acaso faltar  \nUma alegria no seu coração  \nLembra do som dessas águas de lá  \nFaz desse rio a sua oração.\n\n**MONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: Sony: Universal Music, 2006 (fragmento).**\n\n**TEXTO II**\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\n**SANTANA, P. V. Ecoturismo: uma indústria sem chaminé? São Paulo: Labur Edições, 2008.**\n\nSão identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:",
+    "enunciado": "**TEXTO I**\n\nOuve o barulho do rio, meu filho\nDeixa esse som te embalar\nAs folhas que caem no rio, meu filho\nTerminam nas águas do mar\nQuando amanhã por acaso faltar\nUma alegria no seu coração\nLembra do som dessas águas de lá\nFaz desse rio a sua oração.\n\n**MONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: Sony: Universal Music, 2006 (fragmento).**\n\n**TEXTO II**\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\n**SANTANA, P. V. Ecoturismo: uma indústria sem chaminé? São Paulo: Labur Edições, 2008.**\n\nSão identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:",
     "alternativas": [
       {
         "letra": "A",
@@ -1332,6 +1434,57 @@
     }
   },
   {
+    "numero": 75,
+    "enunciado": "**TEXTO I**\n\nOs segredos da natureza se revelam mais sob a tortura dos experimentos do que no seu curso natural.\n\n**BACON, F. Novum Organum, 1620. In: HADOT, P. O véu de Ísis: ensaio sobre a história da ideia de natureza. São Paulo: Loyola, 2006.**\n\n**TEXTO II**\n\nO ser humano, totalmente desintegrado do todo, não percebe mais as relações de equilíbrio da natureza. Age de forma totalmente desarmônica sobre o ambiente, causando grandes desequilíbrios ambientais.\n\n**GUIMARÃES, M. A dimensão ambiental na educação. Campinas: Papirus, 1995.**\n\nOs textos indicam uma relação da sociedade diante da natureza caracterizada pela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Objetificação do espaço físico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Retomada do modelo criacionista.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Recuperação do legado ancestral.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Infalibilidade do método científico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Formação da cosmovisão holística.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.34452,
+      "escala": 534,
+      "faixa": "Fácil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 75,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/75",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
     "numero": 76,
     "enunciado": "Essa atmosfera de loucura e irrealidade, criada pela aparente ausência de propósitos, é a verdadeira cortina de ferro que esconde dos olhos do mundo todas as formas de campos de concentração. Vistos de fora, os campos e o que neles acontece só podem ser descritos com imagens extraterrenas, como se a vida fosse neles separada das finalidades deste mundo. Mais que o arame farpado, é a irrealidade dos detentos que ele confina que provoca uma crueldade tão incrível que termina levando à aceitação do extermínio como solução perfeitamente normal.\n\n**ARENDT, H. Origens do totalitarismo. São Paulo: Cia. das Letras, 1989 (adaptado).**\n\nA partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a):",
     "alternativas": [
@@ -1384,7 +1537,7 @@
   },
   {
     "numero": 77,
-    "enunciado": "![](https://enem.dev/2019/questions/77/8a228abe-5656-40e1-94bf-8be1b85e8ab2.jpg)\n\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\n**VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).**\n\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de:",
+    "enunciado": "Fala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\n**VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).**\n\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de:",
     "alternativas": [
       {
         "letra": "A",
@@ -1437,7 +1590,7 @@
   },
   {
     "numero": 78,
-    "enunciado": "**TEXTO I  \n**\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\n**KANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).**\n\n**TEXTO II**\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\n**FONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.**\n\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+    "enunciado": "**TEXTO I\n**\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\n**KANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).**\n\n**TEXTO II**\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\n**FONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.**\n\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
     "alternativas": [
       {
         "letra": "A",
@@ -1534,6 +1687,57 @@
       "numero": 79,
       "provaMicrodados": "507",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/79",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 80,
+    "enunciado": "A Revolta da Vacina (1904) mostrou claramente o aspecto defensivo, desorganizado, fragmentado da ação popular. Não se negava o Estado, não se reivindicava participação nas decisões políticas; defendiam-se valores e direitos considerados acima da intervenção do Estado.\n\n**CARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República que não foi. São Paulo: Cia. das Letras, 1987 (adaptado).**\n\nA mobilização analisada representou um alerta, na medida em que a ação popular questionava:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A alta de preços.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A política clientelista.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "As reformas urbanas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O arbítrio governamental.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "As práticas eleitorais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.975,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 80,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/80",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
     }
   },
@@ -1743,7 +1947,7 @@
   },
   {
     "numero": 85,
-    "enunciado": "![](https://enem.dev/2019/questions/85/fb718e6d-3e97-4d5a-9d80-0ffecdd14d2c.png)\n\n“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**\n\nProduzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da:",
+    "enunciado": "“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**\n\nProduzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da:",
     "alternativas": [
       {
         "letra": "A",
@@ -1944,6 +2148,57 @@
       "numero": 88,
       "provaMicrodados": "507",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/88",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 89,
+    "enunciado": "**Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão**\n\nOs habitantes desta pequena cidade no Alasca – o estado dos Estados Unidos mais ao norte – já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13h04 min (horário local).\n\n**Disponível em: [www.bbc.com](http://www.bbc.com/). Acesso em: 16 maio 2019 (adaptado).**\n\nO fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Continentalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Maritimidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Longitude.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Latitude.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Altitude.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.02573,
+      "escala": 603,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 89,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/89",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
     }
   }

@@ -1,7 +1,7 @@
 [
   {
     "numero": 46,
-    "enunciado": "Hipoxia ou mal das alturas consiste na diminuição de oxigênio (O2) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO2) em equilíbrio no sangue, conforme a relação:\n\n![](https://enem.dev/2015/questions/46/be0a7ac3-da20-4e80-afe9-52a7f0062bcc.png)\n\n**Mal da montanha**. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado).\n\nA alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)",
+    "enunciado": "Hipoxia ou mal das alturas consiste na diminuição de oxigênio (O2) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO2) em equilíbrio no sangue, conforme a relação:\n\n**Mal da montanha**. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado).\n\nA alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)",
     "alternativas": [
       {
         "letra": "A",
@@ -49,57 +49,6 @@
       "numero": 46,
       "provaMicrodados": "235",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/46",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
-    }
-  },
-  {
-    "numero": 47,
-    "enunciado": "Considerando esse escurecimento das águas, o impacto negativo inicial que ocorre é o(a)",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Eutrofização.",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "Proliferação de algas.",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "Inibição da fotossíntese.",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "Fotodegradação da matéria orgânica.",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "Aumento da quantidade de gases dissolvidos.",
-        "imagem": null
-      }
-    ],
-    "resposta": "C",
-    "dificuldade": {
-      "b": 0.72457,
-      "escala": 572,
-      "faixa": "Médio"
-    },
-    "habilidade": 12,
-    "imagens": [],
-    "materia": "Biologia",
-    "origemDaMateria": "vocabulário",
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2015,
-      "area": "CN",
-      "cor": "Azul",
-      "numero": 47,
-      "provaMicrodados": "235",
-      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/47",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
     }
   },
@@ -156,7 +105,7 @@
   },
   {
     "numero": 49,
-    "enunciado": "![](https://enem.dev/2015/questions/49/8e90f92f-f8c7-4383-a642-b48dfef28550.png)\n\nConsidere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m² , que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.\n\nDesprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
+    "enunciado": "Considere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m² , que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.\n\nDesprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
     "alternativas": [
       {
         "letra": "A",
@@ -209,7 +158,7 @@
   },
   {
     "numero": 50,
-    "enunciado": "![](https://enem.dev/2015/questions/50/8fe7b2bf-2b9e-45ce-b602-02f97af15325.png)\n\nPara selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\n![](https://enem.dev/2015/questions/50/e0f1ee0e-3b76-4274-b048-49cd8c8fc7ca.png)\n\nConsidere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10\\-9 m.\n\nO filtro solar que a pessoa deve selecionar é o",
+    "enunciado": "Para selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\nConsidere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10\\-9 m.\n\nO filtro solar que a pessoa deve selecionar é o",
     "alternativas": [
       {
         "letra": "A",
@@ -314,7 +263,7 @@
   },
   {
     "numero": 53,
-    "enunciado": "![](https://enem.dev/2015/questions/53/f6577ff9-b0f3-41b3-9e2a-43ab4aa243a7.png)\n\nExpressa em termos do comprimento de onda (λ), a espessura mínima é igual a",
+    "enunciado": "Expressa em termos do comprimento de onda (λ), a espessura mínima é igual a",
     "alternativas": [
       {
         "letra": "A",
@@ -413,57 +362,6 @@
       "numero": 54,
       "provaMicrodados": "235",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/54",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
-    }
-  },
-  {
-    "numero": 55,
-    "enunciado": "Qual o valor mais próximo do volume da solução nutritiva, em litros, que o produtor deve adicionar ao tanque?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "26",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "41",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "45",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "51",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "82",
-        "imagem": null
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 3.10608,
-      "escala": 811,
-      "faixa": "Difícil"
-    },
-    "habilidade": 27,
-    "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2015,
-      "area": "CN",
-      "cor": "Azul",
-      "numero": 55,
-      "provaMicrodados": "235",
-      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/55",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
     }
   },
@@ -622,7 +520,7 @@
   },
   {
     "numero": 59,
-    "enunciado": "![](https://enem.dev/2015/questions/59/8782c1ff-fc00-4401-a984-cac653c6c3a2.png)\n\nAs funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,",
+    "enunciado": "As funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,",
     "alternativas": [
       {
         "letra": "A",
@@ -675,7 +573,7 @@
   },
   {
     "numero": 60,
-    "enunciado": "![](https://enem.dev/2015/questions/60/93af8634-f0ad-42f2-950c-77604c549440.png)\n\nOs produtos obtidos na oxidação do alceno representado, em solução aquosa de KMnO4, são:",
+    "enunciado": "Os produtos obtidos na oxidação do alceno representado, em solução aquosa de KMnO4, são:",
     "alternativas": [
       {
         "letra": "A",
@@ -932,7 +830,7 @@
   },
   {
     "numero": 65,
-    "enunciado": "![](https://enem.dev/2015/questions/65/55ff38f3-4de4-4f06-9fe0-224c35d485f0.png)\n\nPara atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10°C e outra a 40°C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16°C.\n\nQual selo deveria ser posto na garrafa térmica testada?",
+    "enunciado": "Para atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10°C e outra a 40°C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16°C.\n\nQual selo deveria ser posto na garrafa térmica testada?",
     "alternativas": [
       {
         "letra": "A",
@@ -1087,7 +985,7 @@
   },
   {
     "numero": 68,
-    "enunciado": "“O circuito deve ser tal que as tomadas e a lâmpada devem estar submetidas à tensão nominal da rede elétrica e a lâmpada deve poder ser ligada ou desligada por um interruptor sem afetar os outros dispositivos” – pensou.\n\nSímbolos adotados:\n\n![](https://enem.dev/2015/questions/68/4f4ca8f0-ec3a-4332-9567-1633095f1fe6.png)\n\nQual dos circuitos esboçados atende às exigências?",
+    "enunciado": "“O circuito deve ser tal que as tomadas e a lâmpada devem estar submetidas à tensão nominal da rede elétrica e a lâmpada deve poder ser ligada ou desligada por um interruptor sem afetar os outros dispositivos” – pensou.\n\nSímbolos adotados:\n\nQual dos circuitos esboçados atende às exigências?",
     "alternativas": [
       {
         "letra": "A",
@@ -1140,7 +1038,7 @@
   },
   {
     "numero": 69,
-    "enunciado": "![](https://enem.dev/2015/questions/69/7e6fd44a-5d31-4cbb-a8be-7be6ac68fa7c.png)\n\nQual curva representa o perfil de consumo de glicose, para manutenção da homeostase de uma célula que inicialmente está em uma condição anaeróbica e é submetida a um aumento gradual da concentração de oxigênio?",
+    "enunciado": "Qual curva representa o perfil de consumo de glicose, para manutenção da homeostase de uma célula que inicialmente está em uma condição anaeróbica e é submetida a um aumento gradual da concentração de oxigênio?",
     "alternativas": [
       {
         "letra": "A",
@@ -1244,7 +1142,7 @@
   },
   {
     "numero": 71,
-    "enunciado": "![](https://enem.dev/2015/questions/71/92259437-a0d4-4aef-89fb-239bfdf8d060.png)\n\nCom base nos valores das constantes de equilíbrio das reações II, III e IV a 25 oC, qual é o valor numérico da constante de equilíbrio da reação I?",
+    "enunciado": "Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25 oC, qual é o valor numérico da constante de equilíbrio da reação I?",
     "alternativas": [
       {
         "letra": "A",
@@ -1552,7 +1450,7 @@
   },
   {
     "numero": 77,
-    "enunciado": "![](https://enem.dev/2015/questions/77/2fec988d-d23e-404a-bcb4-f887791f9436.png)\n\nCom base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o",
+    "enunciado": "Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o",
     "alternativas": [
       {
         "letra": "A",
@@ -1758,7 +1656,7 @@
   },
   {
     "numero": 81,
-    "enunciado": "![](https://enem.dev/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png)\n\nA equação química que representa a reação de formação da mancha avermelhada é:",
+    "enunciado": "A equação química que representa a reação de formação da mancha avermelhada é:",
     "alternativas": [
       {
         "letra": "A",
@@ -1811,7 +1709,7 @@
   },
   {
     "numero": 82,
-    "enunciado": "![](https://enem.dev/2015/questions/82/2770dcce-7280-4fcb-8da9-0ef2e43f53b7.png)\n\nNessa situação, qual foi a massa da barra obtida pelos alunos?",
+    "enunciado": "Nessa situação, qual foi a massa da barra obtida pelos alunos?",
     "alternativas": [
       {
         "letra": "A",
@@ -1915,7 +1813,7 @@
   },
   {
     "numero": 84,
-    "enunciado": "![](https://enem.dev/2015/questions/84/f01c8f0e-3be3-4688-9b93-b14f6e4abd76.png)\n\nA variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:",
+    "enunciado": "A variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:",
     "alternativas": [
       {
         "letra": "A",
@@ -1968,7 +1866,7 @@
   },
   {
     "numero": 85,
-    "enunciado": "![](https://enem.dev/2015/questions/85/13f729c5-e019-4d2e-84aa-3d1e97532799.png)\n\nSe fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)",
+    "enunciado": "Se fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)",
     "alternativas": [
       {
         "letra": "A",
@@ -2016,57 +1914,6 @@
       "numero": 85,
       "provaMicrodados": "235",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/85",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
-    }
-  },
-  {
-    "numero": 86,
-    "enunciado": "Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.\n\nEssa diferenciação se deve principalmente ao(à)",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Intensidade sonora do som de cada instrumento musical.",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "Potência sonora do som emitido pelos diferentes instrumentos musicais.",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "Diferente velocidade de propagação do som emitido por cada instrumento musical.",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "Timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "Altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",
-        "imagem": null
-      }
-    ],
-    "resposta": "D",
-    "dificuldade": {
-      "b": 0.17176,
-      "escala": 517,
-      "faixa": "Fácil"
-    },
-    "habilidade": 1,
-    "imagens": [],
-    "materia": "Física",
-    "origemDaMateria": "vocabulário",
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2015,
-      "area": "CN",
-      "cor": "Azul",
-      "numero": 86,
-      "provaMicrodados": "235",
-      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/86",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
     }
   },
@@ -2123,7 +1970,7 @@
   },
   {
     "numero": 88,
-    "enunciado": "Para obter a posição de um telefone celular, a polícia baseia-se em informações do tempo de resposta do aparelho em relação às torres de celular da região de onde se originou a ligação. Em uma região, um aparelho está na área de cobertura de cinco torres, conforme o esquema\n\n![](https://enem.dev/2015/questions/88/41de70f3-3c43-42f4-970f-c323104c18f5.png)\n\nConsiderando que as torres e o celular são puntiformes e que estão sobre um mesmo plano, qual o número mínimo de torres necessárias para se localizar a posição do do telefone celular que originou a ligação?",
+    "enunciado": "Para obter a posição de um telefone celular, a polícia baseia-se em informações do tempo de resposta do aparelho em relação às torres de celular da região de onde se originou a ligação. Em uma região, um aparelho está na área de cobertura de cinco torres, conforme o esquema\n\nConsiderando que as torres e o celular são puntiformes e que estão sobre um mesmo plano, qual o número mínimo de torres necessárias para se localizar a posição do do telefone celular que originou a ligação?",
     "alternativas": [
       {
         "letra": "A",
@@ -2227,7 +2074,7 @@
   },
   {
     "numero": 90,
-    "enunciado": "![](https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png)\n\nQue fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?",
+    "enunciado": "Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?",
     "alternativas": [
       {
         "letra": "A",

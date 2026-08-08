@@ -1,0 +1,2277 @@
+[
+  {
+    "numero": 91,
+    "enunciado": "Going to university seems to reduce the risk of dying from coronary heart disease. An American study that involved 10 000 patients from around the world has found that people who leave school before the age of 16 are five times more likely to suffer a heart attack and die than university graduates.\n\nWorld Report News. **Magazine Speak Up**. Ano XIV, n° 170. Editora Camelot, 2001.\n\nEm relação às pesquisas, a utilização da expressão university graduates evidencia a intenção de informar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As doenças do coração atacam dez mil pacientes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "As doenças do coração ocorrem na faixa dos dezesseis anos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "As pesquisas sobre doenças são divulgadas no meio acadêmico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Jovens americanos são alertados dos riscos de doenças do coração.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Maior nível de estudo reduz riscos de ataques do coração.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.70119,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 91,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/91",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "GLASBERGEN, R. **Today’s cartoon**. Disponível em: http://www.glasbergen.com. Acesso em: 23 jul. 2010.\n\nNa fase escolar, é prática comum que os professores passem atividades extraclasse e marquem uma data para que as mesmas sejam entregues para correção. No caso da cena da charge, a professora ouve uma estudante apresentando argumentos para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Discutir sobre o conteúdo do seu trabalho já entregue.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Elogiar o tema proposto para o relatório solicitado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Sugerir temas para novas pesquisas e relatórios.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reclamar do curto prazo para entrega do trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Convencer de que fez o relatório solicitado.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.61748,
+      "escala": 562,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2011/questions/92/cf4e6e0a-1f86-4e8f-a89b-a1cc1a445703.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/92",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "**How’s your mood?**\n\nFor an interesting attempt to measure cause and effect try Mappiness, a project run by the London School of Economics, which offers a phone app that prompts you to record your mood and situation.\n\nThe Mappiness website says: “We’re particularly interested in how people’s happiness is affected by their local environment — air pollution, noise, green spaces, and so on — which the data from Mappiness will be absolutely great for investigating.”\n\nWill it work? With enough people, it might. But there are other problems. We’ve been using happiness and well-being interchangeably. Is that ok? The difference comes out in a sentiment like: “We were happier during the war.” But was our well-being also greater then?\n\nDisponível em: http://www.bbc.co.uk. Acesso em: 27 jun. 2011 (adaptado).\n\nO projeto Mappiness, idealizado pela London School of Economics, ocupa-se do tema relacionado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao nível de felicidade das pessoas em tempos de guerra.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "À dificuldade de medir o nível de felicidade das pessoas a partir de seu humor.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ao nível de felicidade das pessoas enquanto falam ao celular com seus familiares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "À relação entre o nível de felicidade das pessoas e o ambiente no qual se encontram.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "À influência das imagens grafitadas pelas ruas no aumento do nível de felicidade das pessoas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.39162,
+      "escala": 539,
+      "faixa": "Fácil"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2011/questions/93/148fb6fd-27c9-409e-a187-3038678c5e33.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 93,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/93",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "**War**\n\nUntil the philosophy which holds one race superior  \nAnd another inferior  \nIs finally and permanently discredited and abandoned,  \nEverywhere is war — Me say war.\n\nThat until there is no longer  \nFirst class and second class citizens of any nation,  \nUntil the color of a man’s skin  \nIs of no more significance than the color of his eyes —  \nMe say war.  \n\\[…\\]\n\nAnd until the ignoble and unhappy regimes  \nthat hold our brothers in Angola, in Mozambique,  \nSouth Africa, sub-human bondage have been toppled,  \nUtterly destroyed —  \nWell, everywhere is war — Me say war.\n\nWar in the east, war in the west,  \nWar up north, war down south —  \nWar — war — Rumors of war.  \nAnd until that day, the African continent will not know peace.  \nWe, Africans, will fight — we find it necessary —  \nAnd we know we shall win  \nAs we are confident in the victory.  \n\\[…\\]\n\nMARLEY, B. Disponível em: http://www.sing365.com. Acesso em: 30 jun. 2011 (fragmento).\n\nBob Marley foi um artista popular e atraiu muitos fãs com suas canções. Ciente de sua influência social, na música War, o cantor se utiliza de sua arte para alertar sobre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A inércia do continente africano diante das injustiças sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A persistência da guerra enquanto houver diferenças raciais e sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "As acentuadas diferenças culturais entre os países africanos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "As discrepâncias sociais entre moçambicanos e angolanos como causa de conflitos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A fragilidade das diferenças raciais e sociais como justificativas para o início de uma guerra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.70373,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/94",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 96,
+    "enunciado": "Na modernidade, o corpo foi descoberto, despido e modelado pelos exercícios físicos da moda. Novos espaços e práticas esportivas e de ginástica passaram a convocar as pessoas a modelarem seus corpos. Multiplicaram-se as academias de ginástica, as salas de musculação e o número de pessoas correndo pelas ruas.\n\nSECRETARIA DA EDUCAÇÃO. **Caderno do professor**: educação física. São Paulo, 2008.\n\nDiante do exposto, é possível perceber que houve um aumento da procura por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exercícios físicos aquáticos (natação/hidroginástica), que são exercícios de baixo impacto, evitando o atrito (não prejudicando as articulações), e que previnem o envelhecimento precoce e melhoram a qualidade de vida.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mecanismos que permitem combinar alimentação e exercício físico, que permitem a aquisição e manutenção de níveis adequados de saúde, sem a preocupação com padrões de beleza instituídos socialmente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Programas saudáveis de emagrecimento, que evitam os prejuízos causados na regulação metabólica, função imunológica, integridade óssea e manutenção da capacidade funcional ao longo do envelhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Exercícios de relaxamento, reeducação postural e alongamentos, que permitem um melhor funcionamento do organismo como um todo, bem como uma dieta alimentar e hábitos saudáveis com base em produtos naturais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dietas que preconizam a ingestão excessiva ou restrita de um ou mais macronutrientes (carboidratos, gorduras ou proteínas), bem como exercícios que permitem um aumento de massa muscular e/ou modelar o corpo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.51813,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 96,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/96",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 97,
+    "enunciado": "COSTA, C. **Superinteressante**. Fev. 2011 (adaptado).\n\nOs amigos são um dos principais indicadores de bem-estar na vida social das pessoas. Da mesma forma que em outras áreas, a internet também inovou as maneiras de vivenciar a amizade. Da leitura do infográfico, depreendem-se dois tipos de amizade virtual, a simétrica e a assimétrica, ambas com seus prós e contras. Enquanto a primeira se baseia na relação de reciprocidade, a segunda",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reduz o número de amigos virtuais, ao limitar o acesso à rede.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Parte do anonimato obrigatório para se difundir.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Reforça a configuração de laços mais profundos de amizade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Facilita a interação entre pessoas em virtude de interesses comuns.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tem a responsabilidade de promover a proximidade física.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.50613,
+      "escala": 551,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2011/questions/97/bd1b0936-b39f-42aa-a4ea-0744b73dc320.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 97,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/97",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 98,
+    "enunciado": "O hipertexto refere-se à escritura eletrônica não sequencial e não linear, que se bifurca e permite ao leitor o acesso a um número praticamente ilimitado de outros textos a partir de escolhas locais e sucessivas, em tempo real. Assim, o leitor tem condições de definir interativamente o fluxo de sua leitura a partir de assuntos tratados no texto sem se prender a uma sequência fixa ou a tópicos estabelecidos por um autor. Trata-se de uma forma de estruturação textual que faz do leitor simultaneamente coautor do texto final. O hipertexto se caracteriza, pois, como um processo de escritura/leitura eletrônica multilinearizado, multisequencial e indeterminado, realizado em um novo espaço de escrita. Assim, ao permitir vários níveis de tratamento de um tema, o hipertexto oferece a possibilidade de múltiplos graus de profundidade simultaneamente, já que não tem sequência definida, mas liga textos não necessariamente correlacionados.\n\nMARCUSCHI, L. A. Disponível em: http://www.pucsp.br. Acesso em: 29 jun. 2011.\n\nO computador mudou nossa maneira de ler e escrever, e o hipertexto pode ser considerado como um novo espaço de escrita e leitura. Definido como um conjunto de blocos autônomos de texto, apresentado em meio eletrônico computadorizado e no qual há remissões associando entre si diversos elementos, o hipertexto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma estratégia que, ao possibilitar caminhos totalmente abertos, desfavorece o leitor, ao confundir os conceitos cristalizados tradicionalmente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "É uma forma artificial de produção da escrita, que, ao desviar o foco da leitura, pode ter como consequência o menosprezo pela escrita tradicional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Exige do leitor um maior grau de conhecimentos prévios, por isso deve ser evitado pelos estudantes nas suas pesquisas escolares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Facilita a pesquisa, pois proporciona uma informação específica, segura e verdadeira, em qualquer site de busca ou blog oferecidos na internet.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Possibilita ao leitor escolher seu próprio percurso de leitura, sem seguir sequência predeterminada, constituindo-se em atividade mais coletiva e colaborativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.32133,
+      "escala": 532,
+      "faixa": "Fácil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 98,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/98",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 99,
+    "enunciado": "**TEXTO I**\n\nO meu nome é Severino,  \nnão tenho outro de pia.  \nComo há muitos Severinos,  \nque é santo de romaria,  \nderam então de me chamar  \nSeverino de Maria;  \ncomo há muitos Severinos  \ncom mães chamadas Maria,  \nfiquei sendo o da Maria  \ndo finado Zacarias,  \nmas isso ainda diz pouco:  \nhá muitos na freguesia,  \npor causa de um coronel  \nque se chamou Zacarias  \ne que foi o mais antigo  \nsenhor desta sesmaria.  \nComo então dizer quem fala  \nora a Vossas Senhorias?\n\nMELO NETO, J. C. **Obra completa**. Rio de Janeiro: Aguilar, 1994 (fragmento).\n\n**TEXTO II**\n\nJoão Cabral, que já emprestara sua voz ao rio, transfere-a, aqui, ao retirante Severino, que, como o Capibaribe, também segue no caminho do Recife. A autoapresentação do personagem, na fala inicial do texto, nos mostra um Severino que, quanto mais se define, menos se individualiza, pois seus traços biográficos são sempre partilhados por outros homens.\n\nSECCHIN, A. C. **João Cabral**: a poesia do menos. Rio de Janeiro: Topbooks, 1999 (fragmento).\n\nCom base no trecho de Morte e Vida Severina (Texto I) e na análise crítica (Texto II), observa-se que a relação entre o texto poético e o contexto social a que ele faz referência aponta para um problema social expresso literariamente pela pergunta “Como então dizer quem fala / ora a Vossas Senhorias?”. A resposta à pergunta expressa no poema é dada por meio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descrição minuciosa dos traços biográficos do personagem-narrador.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Construção da figura do retirante nordestino como um homem resignado com a sua situação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Representação, na figura do personagem-narrador, de outros Severinos que compartilham sua condição.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação do personagem-narrador como uma projeção do próprio poeta, em sua crise existencial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Descrição de Severino, que, apesar de humilde, orgulha-se de ser descendente do coronel Zacarias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.15475,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 99,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/99",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 100,
+    "enunciado": "Disponível em: www.ccsp.com.br. Acesso em: 26 jul. 2010 (adaptado).\n\nO anúncio publicitário está intimamente ligado ao ideário de consumo quando sua função é vender um produto. No texto apresentado, utilizam-se elementos linguísticos e extralinguísticos para divulgar a atração “Noites do Terror”, de um parque de diversões. O entendimento da propaganda requer do leitor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A identificação com o público-alvo a que se destina o anúncio.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A avaliação da imagem como uma sátira às atrações de terror.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A atenção para a imagem da parte do corpo humano selecionada aleatoriamente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O reconhecimento do intertexto entre a publicidade e um dito popular.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A percepção do sentido literal da expressão “noites do terror”, equivalente à expressão “noites de terror”.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.96487,
+      "escala": 596,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2011/questions/100/c13c970e-9da9-430f-8c86-ed5dba7b2082.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 100,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/100",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 101,
+    "enunciado": "**TEXTO I**  \n**Onde está a honestidade?**\n\nVocê tem palacete reluzente  \nTem joias e criados à vontade  \nSem ter nenhuma herança ou parente  \nSó anda de automóvel na cidade…\n\nE o povo pergunta com maldade:  \nOnde está a honestidade?  \nOnde está a honestidade?\n\nO seu dinheiro nasce de repente  \nE embora não se saiba se é verdade  \nVocê acha nas ruas diariamente  \nAnéis, dinheiro e felicidade…\n\nVassoura dos salões da sociedade  \nQue varre o que encontrar em sua frente  \nPromove festivais de caridade  \nEm nome de qualquer defunto ausente…\n\nROSA, N. Disponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\n**TEXTO II**\n\nUm vulto da história da música popular brasileira, reconhecido nacionalmente, é Noel Rosa. Ele nasceu em 1910, no Rio de Janeiro; portanto, se estivesse vivo, estaria completando 100 anos. Mas faleceu aos 26 anos de idade, vítima de tuberculose, deixando um acervo de grande valor para o patrimônio cultural brasileiro. Muitas de suas letras representam a sociedade contemporânea, como se tivessem sido escritas no século XXI.\n\nDisponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\nUm texto pertencente ao patrimônio literário-cultural brasileiro é atualizável, na medida em que ele se refere a valores e situações de um povo. A atualidade da canção Onde está a honestidade?, de Noel Rosa, evidencia-se por meio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da ironia, ao se referir ao enriquecimento de origem duvidosa de alguns.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Da crítica aos ricos que possuem joias, mas não têm herança.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Da maldade do povo a perguntar sobre a honestidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Do privilégio de alguns em clamar pela honestidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Da insistência em promover eventos beneficentes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.28099,
+      "escala": 472,
+      "faixa": "Fácil"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 101,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/101",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 102,
+    "enunciado": "Quem é pobre, pouco se apega, é um giro-o-giro no vago dos gerais, que nem os pássaros de rios e lagoas. O senhor vê: o Zé-Zim, o melhor meeiro meu aqui, risonho e habilidoso. Pergunto: — Zé-Zim, por que é que você não cria galinhas-d’angola, como todo o mundo faz? — Quero criar nada não… — me deu resposta: — Eu gosto muito de mudar… \\[…\\] Belo um dia, ele tora. Ninguém discrepa. Eu, tantas, mesmo digo. Eu dou proteção. \\[…\\] Essa não faltou também à minha mãe, quando eu era menino, no sertãozinho de minha terra. \\[…\\] Gente melhor do lugar eram todos dessa família Guedes, Jidião Guedes; quando saíram de lá, nos trouxeram junto, minha mãe e eu. Ficamos existindo em território baixio da Sirga, da outra banda, ali onde o de-Janeiro vai no São Francisco, o senhor sabe.\n\nROSA, J. G. **Grande Sertão**: Veredas. Rio de Janeiro: José Olympio (fragmento).\n\nNa passagem citada, Riobaldo expõe uma situação decorrente de uma desigualdade social típica das áreas rurais brasileiras marcadas pela concentração de terras e pela relação de dependência entre agregados e fazendeiros. No texto, destaca-se essa relação porque o personagem-narrador",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Relata a seu interlocutor a história de Zé-Zim, demonstrando sua pouca disposição em ajudar seus agregados, uma vez que superou essa condição graças à sua força de trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descreve o processo de transformação de um meeiro — espécie de agregado — em proprietário de terra.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Denuncia a falta de compromisso e a desocupação dos moradores, que pouco se envolvem no trabalho da terra.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mostra como a condição material da vida do sertanejo é dificultada pela sua dupla condição de homem livre e, ao mesmo tempo, dependente.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mantém o distanciamento narrativo condizente com sua posição social, de proprietário de terras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.74516,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 102,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/102",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 103,
+    "enunciado": "A discussão sobre “o fim do livro de papel” com a chegada da mídia eletrônica me lembra a discussão idêntica sobre a obsolescência do folheto de cordel. Os folhetos talvez não existam mais daqui a 100 ou 200 anos, mas, mesmo que isso aconteça, os poemas de Leandro Gomes de Barros ou Manuel Camilo dos Santos continuarão sendo publicados e lidos — em CD-ROM, em livro eletrônico, em “chips quânticos”, sei lá o quê. O texto é uma espécie de alma imortal, capaz de reencarnar em corpos variados: página impressa, livro em Braille, folheto, “_coffee-table book_”, cópia manuscrita, arquivo PDF… Qualquer texto pode se reencarnar nesses (e em outros) formatos, não importa se é _Moby Dick_ ou _Viagem a São Saruê_, se é _Macbeth_ ou _O livro de piadas de Casseta & Planeta_.\n\nTAVARES, B. Disponível em: http://jornaldaparaiba.globo.com.\n\nAo refletir sobre a possível extinção do livro impresso e o surgimento de outros suportes em via eletrônica, o cronista manifesta seu ponto de vista, defendendo que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cordel é um dos gêneros textuais, por exemplo, que será extinto com o avanço da tecnologia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O livro impresso permanecerá como objeto cultural veiculador de impressões e de valores culturais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O surgimento da mídia eletrônica decretou o fim do prazer de se ler textos em livros e suportes impressos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os textos continuarão vivos e passíveis de reprodução em novas tecnologias, mesmo que os livros desapareçam.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os livros impressos desaparecerão e, com eles, a possibilidade de se ler obras literárias dos mais diversos gêneros.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.11571,
+      "escala": 488,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 103,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/103",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 104,
+    "enunciado": "**Não tem tradução**\n\n\\[…\\]  \nLá no morro, se eu fizer uma falseta  \nA Risoleta desiste logo do francês e do inglês  \nA gíria que o nosso morro criou  \nBem cedo a cidade aceitou e usou  \n\\[…\\]  \nEssa gente hoje em dia que tem mania de exibição  \nNão entende que o samba não tem tradução no idioma francês  \nTudo aquilo que o malandro pronuncia  \nCom voz macia é brasileiro, já passou de português  \nAmor lá no morro é amor pra chuchu  \nAs rimas do samba não são _I love you_  \nE esse negócio de _alô, alô boy e alô Johnny_  \nSó pode ser conversa de telefone\n\nROSA, N. In: SOBRAL, João J. V. A tradução dos bambas. **Revista Língua Portuguesa**. Ano 4, n° 54. São Paulo: Segmento, abr. 2010 (fragmento).\n\nAs canções de Noel Rosa, compositor brasileiro de Vila Isabel, apesar de revelarem uma aguçada preocupação do artista com seu tempo e com as mudanças político-culturais no Brasil, no início dos anos 1920, ainda são modernas. Nesse fragmento do samba Não tem tradução, por meio do recurso da metalinguagem, o poeta propõe",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incorporar novos costumes de origem francesa e americana, juntamente com vocábulos estrangeiros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Respeitar e preservar o português padrão como forma de fortalecimento do idioma do Brasil.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Valorizar a fala popular brasileira como patrimônio linguístico e forma legítima de identidade nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mudar os valores sociais vigentes à época, com o advento do novo e quente ritmo da música popular brasileira.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ironizar a malandragem carioca, aculturada pela invasão de valores étnicos de sociedades mais desenvolvidas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.17269,
+      "escala": 517,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 104,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/104",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 105,
+    "enunciado": "A dança é um importante componente cultural da humanidade. O folclore brasileiro é rico em danças que representam as tradições e a cultura de várias regiões do país. Estão ligadas aos aspectos religiosos, festas, lendas, fatos históricos, acontecimentos do cotidiano e brincadeiras e caracterizam-se pelas músicas animadas (com letras simples e populares), figurinos e cenários representativos.\n\nSECRETARIA DA EDUCAÇÃO. **Proposta Curricular do Estado de São Paulo**: Educação Física. São Paulo: 2009 (adaptado).\n\nA dança, como manifestação e representação da cultura rítmica, envolve a expressão corporal própria de um povo. Considerando-a como elemento folclórico, a dança revela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manifestações afetivas, históricas, ideológicas, intelectuais e espirituais de um povo, refletindo seu modo de expressar-se no mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aspectos eminentemente afetivos, espirituais e de entretenimento de um povo, desconsiderando fatos históricos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Acontecimentos do cotidiano, sob influência mitológica e religiosa de cada região, sobrepondo aspectos políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tradições culturais de cada região, cujas manifestações rítmicas são classificadas em um ranking das mais originais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Lendas, que se sustentam em inverdades históricas, uma vez que são inventadas, e servem apenas para a vivência lúdica de um povo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.34813,
+      "escala": 535,
+      "faixa": "Fácil"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 105,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/105",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 106,
+    "enunciado": "Cultivar um estilo de vida saudável é extremamente importante para diminuir o risco de infarto, mas também de problemas como morte súbita e derrame. Significa que manter uma alimentação saudável e praticar atividade física regularmente já reduz, por si só, as chances de desenvolver vários problemas. Além disso, é importante para o controle da pressão arterial, dos níveis de colesterol e de glicose no sangue. Também ajuda a diminuir o estresse e aumentar a capacidade física, fatores que, somados, reduzem as chances de infarto. Exercitar-se, nesses casos, com acompanhamento médico e moderação, é altamente recomendável.\n\nATALIA, M. Nossa vida. **Época**. 23 mar. 2009.\n\nAs idéias veiculadas no texto se organizam estabelecendo relações que atuam na construção do sentido. A esse respeito, identifica-se, no fragmento, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A expressão “Além disso” marca uma sequenciação de idéias.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O conectivo “mas também” inicia oração que exprime ideia de contraste.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O termo “como”, em “como morte súbita e derrame”, introduz uma generalização.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O termo “Também” exprime uma justificativa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O termo “fatores” retoma coesivamente “níveis de colesterol e de glicose no sangue”.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.31152,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 106,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/106",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 107,
+    "enunciado": "**Brasília 50 anos**. **Veja**. N° 2 138, nov. 2009.\n\nUtilizadas desde a Antiguidade, as colunas, elementos verticais de sustentação, foram sofrendo modificações e incorporando novos materiais com ampliação de possibilidades. Ainda que as clássicas colunas gregas sejam retomadas, notáveis inovações são percebidas, por exemplo, nas obras de Oscar Niemeyer, arquiteto brasileiro nascido no Rio de Janeiro em 1907. No desenho de Niemeyer, das colunas do Palácio da Alvorada, observa-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de um capitel muito simples, reforçando a sustentação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O traçado simples de amplas linhas curvas opostas, resultando em formas marcantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A disposição simétrica das curvas, conferindo saliência e distorção à base.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A oposição de curvas em concreto, configurando certo peso e rebuscamento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O excesso de linhas curvas, levando a um exagero na ornamentação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.13252,
+      "escala": 513,
+      "faixa": "Fácil"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2011/questions/107/4d2319f1-f48b-49f6-a323-920558a74811.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 107,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/107",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 108,
+    "enunciado": "**Conceitos e importância das lutas**\n\nAntes de se tornarem esporte, as lutas ou as artes marciais tiveram duas conotações principais: eram praticadas com o objetivo guerreiro ou tinham um apelo filosófico como concepção de vida bastante significativo.\n\nAtualmente, nos deparamos com a grande expansão das artes marciais em nível mundial. As raízes orientais foram se disseminando, ora pela necessidade de luta pela sobrevivência ou para a “defesa pessoal”, ora pela possibilidade de ter as artes marciais como própria filosofia de vida.\n\nCARREIRO, E. A. **Educação Física na escola**: Implicações para a prática pedagógica. Rio de Janeiro: Guanabara Koogan, 2008 (fragmento).\n\nUm dos problemas da violência que está presente principalmente nos grandes centros urbanos são as brigas e os enfrentamentos de torcidas organizadas, além da formação de gangues, que se apropriam de gestos das lutas, resultando, muitas vezes, em fatalidades. Portanto, o verdadeiro objetivo da aprendizagem desses movimentos foi mal compreendido, afinal as lutas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se tornaram um esporte, mas eram praticadas com o objetivo guerreiro a fim de garantir a sobrevivência.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentam a possibilidade de desenvolver o autocontrole, o respeito ao outro e a formação do caráter.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Possuem como objetivo principal a “defesa pessoal” por meio de golpes agressivos sobre o adversário.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sofreram transformações em seus princípios filosóficos em razão de sua disseminação pelo mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Se disseminaram pela necessidade de luta pela sobrevivência ou como filosofia pessoal de vida.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.42415,
+      "escala": 642,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 108,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/108",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 109,
+    "enunciado": "O tema da velhice foi objeto de estudo de brilhantes filósofos ao longo dos tempos. Um dos melhores livros sobre o assunto foi escrito pelo pensador e orador romano Cícero: _A Arte do Envelhecimento_. Cícero nota, primeiramente, que todas as idades têm seus encantos e suas dificuldades. E depois aponta para um paradoxo da humanidade. Todos sonhamos ter uma vida longa, o que significa viver muitos anos. Quando realizamos a meta, em vez de celebrar o feito, nos atiramos a um estado de melancolia e amargura. Ler as palavras de Cícero sobre envelhecimento pode ajudar a aceitar melhor a passagem do tempo.\n\nNOGUEIRA, P. Saúde & Bem-Estar Antienvelhecimento. **Época**. 28 abr. 2008.\n\nO autor discute problemas relacionados ao envelhecimento, apresentando argumentos que levam a inferir que seu objetivo é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esclarecer que a velhice é inevitável.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Contar fatos sobre a arte de envelhecer.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Defender a ideia de que a velhice é desagradável.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Influenciar o leitor para que lute contra o envelhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mostrar às pessoas que é possível aceitar, sem angústia, o envelhecimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.46437,
+      "escala": 454,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 109,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/109",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 110,
+    "enunciado": "LEIRNER, N. Tronco com cadeira (detalhe), 1964.\nDisponível em: http://www.itaucultural.org.br. Acesso em: 27 jul. 2010.\n\nNessa estranha dignidade e nesse abandono, o objeto foi exaltado de maneira ilimitada e ganhou um significado que se pode considerar mágico. Daí sua “vida inquietante e absurda”. Tornou-se ídolo e, ao mesmo tempo, objeto de zombaria. Sua realidade intrínseca foi anulada.\n\nJAFFÉ, A. O simbolismo nas artes plásticas. In: JUNG, C.G. (org.). **O homem e os seus símbolos**. Rio de Janeiro: Nova Fronteira, 2008.\n\nA relação observada entre a imagem e o texto apresentados permite o entendimento da intenção de um artista contemporâneo. Neste caso, a obra apresenta características",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Funcionais e de sofisticação decorativa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Futuristas e do abstrato geométrico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Construtivistas e de estruturas modulares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Abstracionistas e de releitura do objeto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Figurativas e de representação do cotidiano.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.15121,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2011/questions/110/1fa1d245-9cd8-45d7-a8e9-21cb188c46da.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 110,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/110",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 111,
+    "enunciado": "**No capricho**\n\nO Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: “Que tal? Gosta desse quadro?”\n\nE o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: “Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro.”\n\nAo que o delegado não teve como deixar de confessar, um pouco secamente: “É a minha mãe.” E o cabôco, em cima da bucha, não perde a linha: “Mais dotô, inté que é uma feiura caprichada.”\n\nBOLDRIN, R. **Almanaque Brasil de Cultura Popular**. São Paulo: Andreato Comunicação e Cultura, n° 62, 2004 (adaptado).\n\nPor suas características formais, por sua função e uso, o texto pertence ao gênero",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anedota, pelo enredo e humor característicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Crônica, pela abordagem literária de fatos do cotidiano.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Depoimento, pela apresentação de experiências pessoais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Relato, pela descrição minuciosa de fatos verídicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reportagem, pelo registro impessoal de situações reais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.27696,
+      "escala": 528,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 111,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/111",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 112,
+    "enunciado": "**TEXTO I**\n\nToca do Salitre – Piauí\nDisponível em: http://www.fumdham.org.br. Acesso em: 27 jul. 2010.\n\n**TEXTO II**\n\nArte Urbana. Foto: Diego Singh\nDisponível em: http://www.diaadia.pr.gov.br. Acesso em: 27 jul. 2010.\n\nO grafite contemporâneo, considerado em alguns momentos como uma arte marginal, tem sido comparado às pinturas murais de várias épocas e às escritas pré-históricas. Observando as imagens apresentadas, é possível reconhecer elementos comuns entre os tipos de pinturas murais, tais como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A preferência por tintas naturais, em razão de seu efeito estético.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A inovação na técnica de pintura, rompendo com modelos estabelecidos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O registro do pensamento e das crenças das sociedades em várias épocas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A repetição dos temas e a restrição de uso pelas classes dominantes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O uso exclusivista da arte para atender aos interesses da elite.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.49594,
+      "escala": 550,
+      "faixa": "Fácil"
+    },
+    "habilidade": 14,
+    "imagens": [
+      "https://enem.dev/2011/questions/112/0c0d18b7-d2f7-473a-b14a-84793118256f.png",
+      "https://enem.dev/2011/questions/112/afb1243e-488a-4092-a586-01e503a45818.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 112,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/112",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 113,
+    "enunciado": "**Estrada**\n\nEsta estrada onde moro, entre duas voltas do caminho,  \nInteressa mais que uma avenida urbana.  \nNas cidades todas as pessoas se parecem.  \nTodo mundo é igual. Todo mundo é toda a gente.  \nAqui, não: sente-se bem que cada um traz a sua alma.  \nCada criatura é única.  \nAté os cães.  \nEstes cães da roça parecem homens de negócios:  \nAndam sempre preocupados.  \nE quanta gente vem e vai!  \nE tudo tem aquele caráter impressivo que faz meditar:  \nEnterro a pé ou a carrocinha de leite puxada por um bodezinho manhoso.  \nNem falta o murmúrio da água, para sugerir, pela voz dos símbolos,  \nQue a vida passa! que a vida passa!  \nE que a mocidade vai acabar.\n\nBANDEIRA, M. **O ritmo dissoluto**. Rio de Janeiro: Aguilar, 1967.\n\nA lírica de Manuel Bandeira é pautada na apreensão de significados profundos a partir de elementos do cotidiano. No poema Estrada, o lirismo presente no contraste entre campo e cidade aponta para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O desejo do eu lírico de resgatar a movimentação dos centros urbanos, o que revela sua nostalgia com relação à cidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A percepção do caráter efêmero da vida, possibilitada pela observação da aparente inércia da vida rural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A opção do eu lírico pelo espaço bucólico como possibilidade de meditação sobre a sua juventude.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A visão negativa da passagem do tempo, visto que esta gera insegurança.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A profunda sensação de medo gerada pela reflexão acerca da morte.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.09347,
+      "escala": 609,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 113,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/113",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 114,
+    "enunciado": "PICASSO, P. **Guernica**. Óleo sobre tela. 349 X 777 cm. Museu Reina Sofia, Espanha, 1937.\nDisponível em: http://www.fddreis.files.wordpress.com. Acesso em: 26 jul. 2010.\n\nO pintor espanhol Pablo Picasso (1881-1973), um dos mais valorizados no mundo artístico, tanto em termos financeiros quanto históricos, criou a obra Guernica em protesto ao ataque aéreo à pequena cidade basca de mesmo nome. A obra, feita para integrar o Salão Internacional de Artes Plásticas de Paris, percorreu toda a Europa, chegando aos EUA e instalando-se no MoMA, de onde sairia apenas em 1981. Essa obra cubista apresenta elementos plásticos identificados pelo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Painel ideográfico, monocromático, que enfoca várias dimensões de um evento, renunciando à realidade, colocando-se em plano frontal ao espectador.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Horror da guerra de forma fotográfica, com o uso da perspectiva clássica, envolvendo o espectador nesse exemplo brutal de crueldade do ser humano.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Uso das formas geométricas no mesmo plano, sem emoção e expressão, despreocupado com o volume, a perspectiva e a sensação escultórica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Esfacelamento dos objetos abordados na mesma narrativa, minimizando a dor humana a serviço da objetividade, observada pelo uso do claro-escuro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Uso de vários ícones que representam personagens fragmentados bidimensionalmente, de forma fotográfica livre de sentimentalismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.57019,
+      "escala": 657,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2011/questions/114/f1377ead-441b-47bf-a1f3-25e20beac813.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 114,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/114",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 115,
+    "enunciado": "No Brasil, a condição cidadã, embora dependa da leitura e da escrita, não se basta pela enunciação do direito, nem pelo domínio desses instrumentos, o que, sem dúvida, viabiliza melhor participação social. A condição cidadã depende, seguramente, da ruptura com o ciclo da pobreza, que penaliza um largo contingente populacional.\n\n**Formação de leitores e construção da cidadania, memória e presença do PROLER**. Rio de Janeiro: FBN, 2008.\n\nAo argumentar que a aquisição das habilidades de leitura e escrita não são suficientes para garantir o exercício da cidadania, o autor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Critica os processos de aquisição da leitura e da escrita.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fala sobre o domínio da leitura e da escrita no Brasil.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incentiva a participação efetiva na vida da comunidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Faz uma avaliação crítica a respeito da condição cidadã do brasileiro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Define instrumentos eficazes para elevar a condição social da população do Brasil.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.03088,
+      "escala": 497,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 115,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/115",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 116,
+    "enunciado": "**Lépida e leve**\n\nLíngua do meu Amor velosa e doce,  \nque me convences de que sou frase,  \nque me contornas, que me vestes quase,  \ncomo se o corpo meu de ti vindo me fosse.  \nLíngua que me cativas, que me enleias  \nos surtos de ave estranha,  \nem linhas longas de invisíveis teias,  \nde que és, há tanto, habilidosa aranha…  \n\\[…\\]  \nAmo-te as sugestões gloriosas e funestas,  \namo-te como todas as mulheres  \nte amam, ó língua-lama, ó língua-resplendor,  \npela carne de som que à ideia emprestas  \ne pelas frases mudas que proferes  \nnos silêncios de Amor!…\n\nMACHADO, G. In: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001 (fragmento).\n\nA poesia de Gilka Machado identifica-se com as concepções artísticas simbolistas. Entretanto, o texto selecionado incorpora referências temáticas e formais modernistas, já que, nele, a poeta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Procura desconstruir a visão metafórica do amor e abandona o cuidado formal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Concebe a mulher como um ser sem linguagem e questiona o poder da palavra.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Questiona o trabalho intelectual da mulher e antecipa a construção do verso livre.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Propõe um modelo novo de erotização na lírica amorosa e propõe a simplificação verbal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Explora a construção da essência feminina, a partir da polissemia de “língua”, e inova o léxico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.10667,
+      "escala": 611,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 116,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/116",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 117,
+    "enunciado": "Abatidos pelo fadinho harmonioso e nostálgico dos desterrados, iam todos, até mesmo os brasileiros, se concentrando e caindo em tristeza; mas, de repente, o cavaquinho de Porfiro, acompanhado pelo violão do Firmo, romperam vibrantemente com um chorado baiano. Nada mais que os primeiros acordes da música crioula para que o sangue de toda aquela gente despertasse logo, como se alguém lhe fustigasse o corpo com urtigas bravas. E seguiram-se outras notas, e outras, cada vez mais ardentes e mais delirantes. Já não eram dois instrumentos que soavam, eram lúbricos gemidos e suspiros soltos em torrente, a correrem serpenteando, como cobras numa floresta incendiada; eram ais convulsos, chorados em frenesi de amor: música feita de beijos e soluços gostosos; carícia de fera, carícia de doer, fazendo estalar de gozo.\n\nAZEVEDO, A. **O Cortiço**. São Paulo: Ática, 1983 (fragmento).\n\nNo romance O Cortiço (1890), de Aluízio Azevedo, as personagens são observadas como elementos coletivos caracterizados por condicionantes de origem social, sexo e etnia. Na passagem transcrita, o confronto entre brasileiros e portugueses revela prevalência do elemento brasileiro, pois",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Destaca o nome de personagens brasileiras e omite o de personagens portuguesas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Exalta a força do cenário natural brasileiro e considera o do português inexpressivo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mostra o poder envolvente da música brasileira, que cala o fado português.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Destaca o sentimentalismo brasileiro, contrário à tristeza dos portugueses.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Atribui aos brasileiros uma habilidade maior com instrumentos musicais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.5509,
+      "escala": 555,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 117,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/117",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 118,
+    "enunciado": "**Guardar**\n\nGuardar uma coisa não é escondê-la ou trancá-la.  \nEm cofre não se guarda coisa alguma.  \nEm cofre perde-se a coisa à vista.  \nGuardar uma coisa é olhá-la, fitá-la, mirá-la por  \nadmirá-la, isto é, iluminá-la ou ser por ela iluminado.  \nGuardar uma coisa é vigiá-la, isto é, fazer vigília por  \nela, isto é, velar por ela, isto é, estar acordado por ela,  \nisto é, estar por ela ou ser por ela.  \nPor isso melhor se guarda o voo de um pássaro  \nDo que um pássaro sem voos.  \nPor isso se escreve, por isso se diz, por isso se publica,  \npor isso se declara e declama um poema:  \nPara guardá-lo:  \nPara que ele, por sua vez, guarde o que guarda:  \nGuarde o que quer que guarda um poema:  \nPor isso o lance do poema:  \nPor guardar-se o que se quer guardar.\n\nMACHADO, G. In: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001.\n\nA memória é um importante recurso do patrimônio cultural de uma nação. Ela está presente nas lembranças do passado e no acervo cultural de um povo. Ao tratar o fazer poético como uma das maneiras de se guardar o que se quer, o texto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ressalta a importância dos estudos históricos para a construção da memória social de um povo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Valoriza as lembranças individuais em detrimento das narrativas populares ou coletivas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Reforça a capacidade da literatura em promover a subjetividade e os valores humanos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Destaca a importância de reservar o texto literário àqueles que possuem maior repertório cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Revela a superioridade da escrita poética como forma ideal de preservação da memória cultural.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.75732,
+      "escala": 676,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 118,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/118",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 119,
+    "enunciado": "Quando os portugueses se instalaram no Brasil, o país era povoado de índios. Importaram, depois, da África, grande número de escravos. O Português, o Índio e o Negro constituem, durante o período colonial, as três bases da população brasileira. Mas no que se refere à cultura, a contribuição do Português foi de longe a mais notada.\n\nDurante muito tempo o português e o tupi viveram lado a lado como línguas de comunicação. Era o tupi que utilizavam os bandeirantes nas suas expedições. Em 1694, dizia o Padre Antônio Vieira que “as famílias dos portugueses e índios em São Paulo estão tão ligadas hoje umas com as outras, que as mulheres e os filhos se criam mística e domesticamente, e a língua que nas ditas famílias se fala é a dos Índios, e a portuguesa a vão os meninos aprender à escola.”\n\nTEYSSIER, P. **História da língua portuguesa**. Lisboa: Livraria Sá da Costa, 1984 (adaptado).\n\nA identidade de uma nação está diretamente ligada à cultura de seu povo. O texto mostra que, no período colonial brasileiro, o Português, o Índio e o Negro formaram a base da população e que o patrimônio linguístico brasileiro é resultado da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contribuição dos índios na escolarização dos brasileiros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diferença entre as línguas dos colonizadores e as dos indígenas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Importância do padre Antônio Vieira para a literatura de língua portuguesa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Origem das diferenças entre a língua portuguesa e as línguas tupi.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Interação pacífica no uso da língua portuguesa e da língua tupi.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.49423,
+      "escala": 549,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 119,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/119",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 120,
+    "enunciado": "**Pequeno concerto que virou canção**\n\nNão, não há por que mentir ou esconder  \nA dor que foi maior do que é capaz meu coração  \nNão, nem há por que seguir cantando só para explicar  \nNão vai nunca entender de amor quem nunca soube amar  \nAh, eu vou voltar pra mim  \nSeguir sozinho assim  \nAté me consumir ou consumir toda essa dor  \nAté sentir de novo o coração capaz de amor\n\nVANDRÉ, G. Disponível em: http://www.letras.terra.com.br. Acesso em: 29 jun. 2011.\n\nNa canção de Geraldo Vandré, tem-se a manifestação da função poética da linguagem, que é percebida na elaboração artística e criativa da mensagem, por meio de combinações sonoras e rítmicas. Pela análise do texto, entretanto, percebe-se, também, a presença marcante da função emotiva ou expressiva, por meio da qual o emissor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imprime à canção as marcas de sua atitude pessoal, seus sentimentos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transmite informações objetivas sobre o tema de que trata a canção.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Busca persuadir o receptor da canção a adotar um certo comportamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Procura explicar a própria linguagem que utiliza para construir a canção.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Objetiva verificar ou fortalecer a eficiência da mensagem veiculada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.2211,
+      "escala": 522,
+      "faixa": "Fácil"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 120,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/120",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 121,
+    "enunciado": "**É água que não acaba mais**\n\nDados preliminares divulgados por pesquisadores da Universidade Federal do Pará (UFPA) apontaram o Aquífero Alter do Chão como o maior depósito de água potável do planeta. Com volume estimado em 86 000 quilômetros cúbicos de água doce, a reserva subterrânea está localizada sob os estados do Amazonas, Pará e Amapá. “Essa quantidade de água seria suficiente para abastecer a população mundial durante 500 anos”, diz Milton Matta, geólogo da UFPA. Em termos comparativos, Alter do Chão tem quase o dobro do volume de água do Aquífero Guarani (com 45 000 quilômetros cúbicos). Até então, Guarani era a maior reserva subterrânea do mundo, distribuída por Brasil, Argentina, Paraguai e Uruguai.\n\n**Época**. N° 623, 26 abr. 2010.\n\nEssa notícia, publicada em uma revista de grande circulação, apresenta resultados de uma pesquisa científica realizada por uma universidade brasileira. Nessa situação específica de comunicação, a função referencial da linguagem predomina, porque o autor do texto prioriza",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As suas opiniões, baseadas em fatos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os aspectos objetivos e precisos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Os elementos de persuasão do leitor.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os elementos estéticos na construção do texto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os aspectos subjetivos da mencionada pesquisa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.75472,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 121,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/121",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 122,
+    "enunciado": "Nós adoraríamos dizer que somos perfeitos. Que somos infalíveis. Que não cometemos nem mesmo o menor deslize. E só não falamos isso por um pequeno detalhe: seria uma mentira. Aliás, em vez de usar a palavra “mentira”, como acabamos de fazer, poderíamos optar por um eufemismo. “Meia-verdade”, por exemplo, seria um termo muito menos agressivo. Mas nós não usamos esta palavra simplesmente porque não acreditamos que exista uma “Meia-verdade”. Para o Conar, Conselho Nacional de Autorregulamentação Publicitária, existem a verdade e a mentira. Existem a honestidade e a desonestidade. Absolutamente nada no meio. O Conar nasceu há 29 anos (viu só? não arredondamos para 30) com a missão de zelar pela ética na publicidade. Não fazemos isso porque somos bonzinhos (gostaríamos de dizer isso, mas, mais uma vez, seria mentira). Fazemos isso porque é a única forma da propaganda ter o máximo de credibilidade. E, cá entre nós, para que serviria a propaganda se o consumidor não acreditasse nela?\nQualquer pessoa que se sinta enganada por uma peça publicitária pode fazer uma reclamação ao Conar. Ele analisa cuidadosamente todas as denúncias e, quando é o caso, aplica a punição.\n\nAnúncio veiculado na Revista **Veja**. São Paulo: Abril. Ed. 2120, ano 42, n° 27, 8 jul. 2009.\n\nO recurso gráfico utilizado no anúncio publicitário — de destacar a potencial supressão de trecho do texto — reforça a eficácia pretendida, revelada na estratégia de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ressaltar a informação no título, em detrimento do restante do conteúdo associado.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Incluir o leitor por meio do uso da 1a pessoa do plural no discurso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contar a história da criação do órgão como argumento de autoridade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Subverter o fazer publicitário pelo uso de sua metalinguagem.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Impressionar o leitor pelo jogo de palavras no texto.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.03674,
+      "escala": 704,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2011/questions/122/d8295ea3-6df2-42a5-8fe7-37e71cd0850d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 122,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/122",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 123,
+    "enunciado": "Nós adoraríamos dizer que somos perfeitos. Que somos infalíveis. Que não cometemos nem mesmo o menor deslize. E só não falamos isso por um pequeno detalhe: seria uma mentira. Aliás, em vez de usar a palavra “mentira”, como acabamos de fazer, poderíamos optar por um eufemismo. “Meia-verdade”, por exemplo, seria um termo muito menos agressivo. Mas nós não usamos esta palavra simplesmente porque não acreditamos que exista uma “Meia-verdade”. Para o Conar, Conselho Nacional de Autorregulamentação Publicitária, existem a verdade e a mentira. Existem a honestidade e a desonestidade. Absolutamente nada no meio. O Conar nasceu há 29 anos (viu só? não arredondamos para 30) com a missão de zelar pela ética na publicidade. Não fazemos isso porque somos bonzinhos (gostaríamos de dizer isso, mas, mais uma vez, seria mentira). Fazemos isso porque é a única forma da propaganda ter o máximo de credibilidade. E, cá entre nós, para que serviria a propaganda se o consumidor não acreditasse nela?\nQualquer pessoa que se sinta enganada por uma peça publicitária pode fazer uma reclamação ao Conar. Ele analisa cuidadosamente todas as denúncias e, quando é o caso, aplica a punição.\n\nAnúncio veiculado na Revista **Veja**. São Paulo: Abril. Ed. 2120, ano 42, n° 27, 8 jul. 2009.\n\nConsiderando a autoria e a seleção lexical desse texto, bem como os argumentos nele mobilizados, constata-se que o objetivo do autor do texto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Informar os consumidores em geral sobre a atuação do Conar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Conscientizar publicitários do compromisso ético ao elaborar suas peças publicitárias.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Alertar chefes de família, para que eles fiscalizem o conteúdo das propagandas veiculadas pela mídia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Chamar a atenção de empresários e anunciantes em geral para suas responsabilidades ao contratarem publicitários sem ética.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Chamar a atenção de empresas para os efeitos nocivos que elas podem causar à sociedade, se compactuarem com propagandas enganosas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.52277,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [
+      "https://enem.dev/2011/questions/123/d8350fd2-dd7d-42b4-8be8-3b2892dcf629.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 123,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/123",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 124,
+    "enunciado": "**Veja**. 05 set. 1999 (adaptado).\n\nO produtor de anúncios publicitários utiliza-se de estratégias persuasivas para influenciar o comportamento de seu leitor. Entre os recursos argumentativos mobilizados pelo autor para obter a adesão do público à campanha, destaca-se nesse texto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A oposição entre individual e coletivo, trazendo um ideário populista para o anúncio.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A utilização de tratamento informal com o leitor, o que suaviza a seriedade do problema.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O emprego de linguagem figurada, o que desvia a atenção da população do apelo financeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O uso dos numerais “milhares” e “milhões”, responsável pela supervalorização das condições dos necessitados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O jogo de palavras entre “acordar” e “dormir”, o que relativiza o problema do leitor em relação ao dos necessitados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.03793,
+      "escala": 604,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2011/questions/124/d9afe727-bf11-4034-b3e4-3121d99dc482.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 124,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/124",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 125,
+    "enunciado": "**Entre ideia e tecnologia**\n\nO grande conceito por trás do Museu da Língua é apresentar o idioma como algo vivo e fundamental para o entendimento do que é ser brasileiro. Se nada nos define com clareza, a forma como falamos o português nas mais diversas situações cotidianas é talvez a melhor expressão da brasilidade.\n\nSCARDOVELI, E. **Revista Língua Portuguesa**. São Paulo: Segmento, Ano II, n° 6, 2006.\n\nO texto propõe uma reflexão acerca da língua portuguesa, ressaltando para o leitor a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inauguração do museu e o grande investimento em cultura no país.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Importância da língua para a construção da identidade nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Afetividade tão comum ao brasileiro, retratada através da língua.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Relação entre o idioma e as políticas públicas na área de cultura.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Diversidade étnica e linguística existente no território nacional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.1451,
+      "escala": 515,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 125,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/125",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 126,
+    "enunciado": "**TEXTO I**\n\nO Brasil sempre deu respostas rápidas através da solidariedade do seu povo. Mas a mesma força que nos motiva a ajudar o próximo deveria também nos motivar a ter atitudes cidadãs. Não podemos mais transferir a culpa para quem é vítima ou até mesmo para a própria natureza, como se essa seguisse a lógica humana. Sobram desculpas esfarrapadas e falta competência da classe política.\n\nCartas. **Istoé**. 28 abr. 2010.\n\n**TEXTO II**\n\nNão podemos negar ao povo sofrido todas as hipóteses de previsão dos desastres. Demagogos culpam os moradores; o governo e a prefeitura apelam para as pessoas saírem das áreas de risco e agora dizem que será compulsória a realocação. Então temos a realocar o Brasil inteiro! Criemos um serviço, similar ao SUS, com alocação obrigatória de recursos orçamentários com rede de atendimento preventivo, onde participariam arquitetos, engenheiros, geólogos. Bem ou mal, esse “SUS” organizaria brigadas nos locais. Nos casos da dengue, por exemplo, poderia verificar as condições de acontecer epidemias. Seriam boas ações preventivas.\n\nCarta do Leitor. **Carta Capital**. 28 abr. 2010 (adaptado).\n\nOs textos apresentados expressam opiniões de leitores acerca de relevante assunto para a sociedade brasileira. Os autores dos dois textos apontam para a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necessidade de trabalho voluntário contínuo para a resolução das mazelas sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Importância de ações preventivas para evitar catástrofes, indevidamente atribuídas aos políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incapacidade política para agir de forma diligente na resolução das mazelas sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Urgência de se criarem novos órgãos públicos com as mesmas características do SUS.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Impossibilidade de o homem agir de forma eficaz ou preventiva diante das ações da natureza.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.92225,
+      "escala": 592,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 126,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/126",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 127,
+    "enunciado": "Disponível em: http://www.ccsp.com.br. Acesso em: 27 jul. 2010 (adaptado).\n\nO texto é uma propaganda de um adoçante que tem o seguinte mote: “Mude sua embalagem”. A estratégia que o autor utiliza para o convencimento do leitor baseia-se no emprego de recursos expressivos, verbais e não verbais, com vistas a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ridicularizar a forma física do possível cliente do produto anunciado, aconselhando-o a uma busca de mudanças estéticas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Enfatizar a tendência da sociedade contemporânea de buscar hábitos alimentares saudáveis, reforçando tal postura.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Criticar o consumo excessivo de produtos industrializados por parte da população, propondo a redução desse consumo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Associar o vocábulo “açúcar” à imagem do corpo fora de forma, sugerindo a substituição desse produto pelo adoçante.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Relacionar a imagem do saco de açúcar a um corpo humano que não desenvolve atividades físicas, incentivando a prática esportiva.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.13314,
+      "escala": 513,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2011/questions/127/093a87ad-75f3-4853-9dd7-1c51c7b2fc90.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 127,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/127",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 128,
+    "enunciado": "Motivadas ou não historicamente, normas prestigiadas ou estigmatizadas pela comunidade sobrepõem-se ao longo do território, seja numa relação de oposição, seja de complementaridade, sem, contudo, anular a interseção de usos que configuram uma norma nacional distinta da do português europeu. Ao focalizar essa questão, que opõe não só as normas do português de Portugal às normas do português brasileiro, mas também as chamadas normas cultas locais às populares ou vernáculas, deve-se insistir na ideia de que essas normas se consolidaram em diferentes momentos da nossa história e que só a partir do século XVIII se pode começar a pensar na bifurcação das variantes continentais, ora em consequência de mudanças ocorridas no Brasil, ora em Portugal, ora, ainda, em ambos os territórios.\n\nCALLOU, D. Gramática, variação e normas. In: VIEIRA, S. R.; BRANDÃO, S. (orgs). **Ensino de gramática**: descrição e uso. São Paulo: Contexto, 2007 (adaptado).\n\nO português do Brasil não é uma língua uniforme. A variação linguística é um fenômeno natural, ao qual todas as línguas estão sujeitas. Ao considerar as variedades linguísticas, o texto mostra que as normas podem ser aprovadas ou condenadas socialmente, chamando a atenção do leitor para a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desconsideração da existência das normas populares pelos falantes da norma culta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Difusão do português de Portugal em todas as regiões do Brasil só a partir do século XVIII.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Existência de usos da língua que caracterizam uma norma nacional do Brasil, distinta da de Portugal.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Inexistência de normas cultas locais e populares ou vernáculas em um determinado país.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Necessidade de se rejeitar a ideia de que os usos frequentes de uma língua devem ser aceitos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.85151,
+      "escala": 585,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 128,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/128",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 129,
+    "enunciado": "VERÍSSIMO, L. F. **As cobras em: Se Deus existe que eu seja atingido por um raio**. Porto Alegre: L&PM, 1997.\n\nO humor da tira decorre da reação de uma das cobras com relação ao uso de pronome pessoal reto, em vez de pronome oblíquo. De acordo com a norma padrão da língua, esse uso é inadequado, pois",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contraria o uso previsto para o registro oral da língua.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Contraria a marcação das funções sintáticas de sujeito e objeto.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Gera inadequação na concordância com o verbo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Gera ambiguidade na leitura do texto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta dupla marcação de sujeito.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.89997,
+      "escala": 690,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [
+      "https://enem.dev/2011/questions/129/5e1eed51-8dca-463c-8587-c0578dda1639.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 129,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/129",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 130,
+    "enunciado": "**MANDIOCA — mais um presente da Amazônia**\n\n_Aipim_, _castelinha_, _macaxeira_, _maniva_, _maniveira_. As designações da _Manihot utilissima_ podem variar de região, no Brasil, mas uma delas deve ser levada em conta em todo o território nacional: pão-de-pobre — e por motivos óbvios.\n\nRica em fécula, a mandioca — uma planta rústica e nativa da Amazônia disseminada no mundo inteiro, especialmente pelos colonizadores portugueses — é a base de sustento de muitos brasileiros e o único alimento disponível para mais de 600 milhões de pessoas em vários pontos do planeta, e em particular em algumas regiões da África.\n\n**O melhor do Globo Rural**. Fev. 2005 (fragmento).\n\nDe acordo com o texto, há no Brasil uma variedade de nomes para a Manihot utilissima, nome científico da mandioca. Esse fenômeno revela que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Existem variedades regionais para nomear uma mesma espécie de planta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mandioca é nome específico para a espécie existente na região amazônica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "“pão-de-pobre” é designação específica para a planta da região amazônica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os nomes designam espécies diferentes da planta, conforme a região.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A planta é nomeada conforme as particularidades que apresenta.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.14981,
+      "escala": 515,
+      "faixa": "Fácil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 130,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/130",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 131,
+    "enunciado": "Há certos usos consagrados na fala, e até mesmo na escrita, que, a depender do estrato social e do nível de escolaridade do falante, são, sem dúvida, previsíveis. Ocorrem até mesmo em falantes que dominam a variedade padrão, pois, na verdade, revelam tendências existentes na língua em seu processo de mudança que não podem ser bloqueadas em nome de um “ideal linguístico” que estaria representado pelas regras da gramática normativa. Usos como _ter_ por _haver_ em construções existenciais (_tem_ muitos livros na estante), o do pronome objeto na posição de sujeito (para _mim_ fazer o trabalho), a não-concordância das passivas com _se_ (_aluga-se_ casas) são indícios da existência, não de uma norma única, mas de uma pluralidade de normas, entendida, mais uma vez, norma como conjunto de hábitos linguísticos, sem implicar juízo de valor.\n\nCALLOU, D. Gramática, variação e normas. In: VIEIRA, S. R.; BRANDÃO, S. (orgs). **Ensino de gramática**: descrição e uso. São Paulo: Contexto, 2007 (fragmento).\n\nConsiderando a reflexão trazida no texto a respeito da multiplicidade do discurso, verifica-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudantes que não conhecem as diferenças entre língua escrita e língua falada empregam, indistintamente, usos aceitos na conversa com amigos quando vão elaborar um texto escrito.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Falantes que dominam a variedade padrão do português do Brasil demonstram usos que confirmam a diferença entre a norma idealizada e a efetivamente praticada, mesmo por falantes mais escolarizados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Moradores de diversas regiões do país que enfrentam dificuldades ao se expressar na escrita revelam a constante modificação das regras de emprego de pronomes e os casos especiais de concordância.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pessoas que se julgam no direito de contrariar a gramática ensinada na escola gostam de apresentar usos não aceitos socialmente para esconderem seu desconhecimento da norma padrão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Usuários que desvendam os mistérios e sutilezas da língua portuguesa empregam formas do verbo ter quando, na verdade, deveriam usar formas do verbo haver, contrariando as regras gramaticais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.79926,
+      "escala": 580,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 131,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/131",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 132,
+    "enunciado": "**Palavra indígena**\n\n_A história da tribo Sapucaí, que traduziu para o idioma guarani os artefatos da era da computação que ganharam importância em sua vida, como mouse (que eles chamam de angojhá) e windows (oventã)_\n\nQuando a internet chegou àquela comunidade, que abriga em torno de 400 guaranis, há quatro anos, por meio de um projeto do Comitê para Democratização da Informática (CDI), em parceria com a ONG Rede Povos da Floresta e com antena cedida pela _Star One_ (da Embratel), Potty e sua aldeia logo vislumbraram as possibilidades de comunicação que a _web_ traz.\n\nEle conta que usam a rede, por enquanto, somente para preparação e envio de documentos, mas perceberam que ela pode ajudar na preservação da cultura indígena.\n\nA apropriação da rede se deu de forma gradual, mas os guaranis já incorporaram a novidade tecnológica ao seu estilo de vida. A importância da internet e da computação para eles está expressa num caso de rara incorporação: a do vocabulário.\n\n— Um dia, o cacique da aldeia Sapucaí me ligou. “A gente não está querendo chamar computador de “computador”. Sugeri a eles que criassem uma palavra em guarani. E criaram _aiú irú rive_, “caixa pra acumular a língua”. Nós, brancos, usamos _mouse_, w_indows_ e outros termos, que eles começaram a adaptar para o idioma deles, como _angojhá_ (rato) e _oventã_ (janela) — conta Rodrigo Baggio, diretor do CDI.\n\nDisponível em: http://www.revistalingua.uol.com.br. Acesso em: 22 jul. 2010.\n\nO uso das novas tecnologias de informação e comunicação fez surgir uma série de novos termos que foram acolhidos na sociedade brasileira em sua forma original, como: mouse, windows, download, site, homepage, entre outros. O texto trata da adaptação de termos da informática à língua indígena como uma reação da tribo Sapucaí, o que revela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A possibilidade que o índio Potty vislumbrou em relação à comunicação que a web pode trazer a seu povo e à facilidade no envio de documentos e na conversação em tempo real.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O uso da internet para preparação e envio de documentos, bem como a contribuição para as atividades relacionadas aos trabalhos da cultura indígena.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A preservação da identidade, demonstrada pela conservação do idioma, mesmo com a utilização de novas tecnologias características da cultura de outros grupos sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Adesão ao projeto do Comitê para Democratização da Informática (CDI), que, em parceria com a ONG Rede Povos da Floresta, possibilitou o acesso à web, mesmo em ambiente inóspito.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A apropriação da nova tecnologia de forma gradual, evidente quando os guaranis incorporaram a novidade tecnológica ao seu estilo de vida com a possibilidade de acesso à internet.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.53074,
+      "escala": 553,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 132,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/132",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 133,
+    "enunciado": "Disponível em: http://www.wordinfo.info. Acesso em: 27 abr. 2010.\n\nO homem evoluiu. Independentemente de teoria, essa evolução ocorreu de várias formas. No que concerne à evolução digital, o homem percorreu longo trajeto da pedra lascada ao mundo virtual. Tal fato culminou em um problema físico habitual, ilustrado na imagem, que propicia uma piora na qualidade de vida do usuário, uma vez que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A evolução ocorreu e com ela evoluíram as dores de cabeça, o estresse e a falta de atenção à família.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A vida sem o computador tornou-se quase inviável, mas se tem diminuído problemas de visão cansada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A utilização demasiada do computador tem proporcionado o surgimento de cientistas que apresentam lesão por esforço repetitivo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O homem criou o computador, que evoluiu, e hoje opera várias ações antes feitas pelas pessoas, tornando-as sedentárias ou obesas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O uso contínuo do computador de forma inadequada tem ocasionado má postura corporal.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.01261,
+      "escala": 499,
+      "faixa": "Fácil"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2011/questions/133/168ef904-86aa-483b-bd25-2895db4b6dd6.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 133,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/133",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 134,
+    "enunciado": "Disponível em: http://www.wordinfo.info. Acesso em: 27 abr. 2010.\n\nO argumento presente na charge consiste em uma metáfora relativa à teoria evolucionista e ao desenvolvimento tecnológico. Considerando o contexto apresentado, verifica-se que o impacto tecnológico pode ocasionar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O surgimento de um homem dependente de um novo modelo tecnológico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A mudança do homem em razão dos novos inventos que destroem sua realidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A problemática social de grande exclusão digital a partir da interferência da máquina.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A invenção de equipamentos que dificultam o trabalho do homem, em sua esfera social.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O retrocesso do desenvolvimento do homem em face da criação de ferramentas como lança, máquina e computador.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.43957,
+      "escala": 544,
+      "faixa": "Fácil"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2011/questions/134/53cd2eeb-a4e4-4101-aab7-f57834e1d5c1.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 134,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/134",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  },
+  {
+    "numero": 135,
+    "enunciado": "**O que é possível dizer em 140 caracteres?**\n\n_Sucesso do Twitter no Brasil é oportunidade única de compreender a importância da concisão nos gêneros de escrita_\n\nA máxima “menos é mais” nunca fez tanto sentido como no caso do _microblog_ Twitter, cuja premissa é dizer algo — não importa o quê — em 140 caracteres. Desde que o serviço foi criado, em 2006, o número de usuários da ferramenta é cada vez maior, assim como a diversidade de usos que se faz dela. Do estilo “querido diário” à literatura concisa, passando por aforismos, citações, jornalismo, fofoca, humor etc., tudo ganha o espaço de um _tweet_ (“pio” em inglês), e entender seu sucesso pode indicar um caminho para o aprimoramento de um recurso vital à escrita: a concisão.\n\nDisponível em: http://www.revistalingua.com.br. Acesso em: 28 abr. 2010 (adaptado).\n\nO Twitter se presta a diversas finalidades, entre elas, à comunicação concisa, por isso essa rede social",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um recurso elitizado, cujo público precisa dominar a língua padrão.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Constitui recurso próprio para a aquisição da modalidade escrita da língua.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "É restrita à divulgação de textos curtos e pouco significativos e, portanto, é pouco útil.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Interfere negativamente no processo de escrita e acaba por revelar uma cultura pouco reflexiva.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estimula a produção de frases com clareza e objetividade, fatores que potencializam a comunicação interativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.65913,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2011,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 135,
+      "provaMicrodados": "127",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/135",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
+    }
+  }
+]

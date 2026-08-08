@@ -29,6 +29,35 @@ import { proporMateria, materiaCabeNaArea } from "./materia.mjs"
 const API = "https://api.enem.dev/v1/exams"
 
 /**
+ * Tira as imagens de dentro do texto do enunciado.
+ *
+ * A API embute cada figura no corpo da questão em markdown — uma linha
+ * `![](https://.../figura.png)` no meio da frase. Guardado assim, o professor
+ * lê a marcação crua na tela, porque a página mostra o enunciado como texto
+ * puro. E a mesma imagem costuma aparecer também no campo `files`, então o
+ * texto carrega ruído sem nem acrescentar informação.
+ *
+ * As URLs vão para o campo de imagens, o texto fica limpo e a decisão de como
+ * exibir passa a ser da página. Se um dia ela renderizar markdown, a escolha
+ * continua possível; o contrário — recuperar a imagem de um texto que já foi
+ * exibido cru — não seria.
+ */
+function separarImagensDoTexto(texto) {
+  const imagens = []
+  const limpo = texto
+    .replace(/!\[[^\]]*\]\((https?:\/\/[^)]+)\)/g, (_, url) => {
+      imagens.push(url)
+      return ""
+    })
+    // A remoção deixa linhas em branco onde a imagem estava.
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim()
+
+  return { texto: limpo, imagens }
+}
+
+/**
  * A API limita requisições, e o limite não se anuncia: ela simplesmente para
  * de responder. Numa primeira tentativa sem pausa, 12 das 45 questões vieram
  * vazias — e vazio aqui parece questão inexistente, não recusa. O intervalo é
@@ -157,11 +186,36 @@ export async function importar({ ano, area, lidas = {} }) {
     }))
     if (alternativas.length !== 5) motivos.push(`${alternativas.length} alternativas`)
 
-    const enunciado = [questao.context, questao.alternativesIntroduction]
-      .filter(Boolean)
-      .join("\n\n")
-      .trim()
-    if (enunciado.length < 40) motivos.push("enunciado ausente ou curto demais")
+    // Alternativa pode ser figura em vez de texto, mas não pode ser nada. Em
+    // 2023 a questão 132 chegou com quatro das cinco em branco — só a última
+    // trouxe imagem. Cinco letras numa lista, quatro sem conteúdo: o professor
+    // abre e não tem o que ler nem no que clicar.
+    const vazias = alternativas.filter((a) => !a.texto && !a.imagem)
+    if (vazias.length) motivos.push(`${vazias.length} alternativa(s) sem texto nem imagem`)
+
+    const bruto = [questao.context, questao.alternativesIntroduction].filter(Boolean).join("\n\n").trim()
+    const { texto: enunciado, imagens: doTexto } = separarImagensDoTexto(bruto)
+    // A mesma figura costuma vir nos dois lugares; o `Set` evita duplicá-la.
+    const imagens = [...new Set([...(questao.files ?? []), ...doTexto])]
+    const temFigura = imagens.length > 0 || (questao.alternatives ?? []).some((a) => a.file)
+
+    /**
+     * Enunciado curto só é aceitável quando há figura.
+     *
+     * A API não tem o campo `context` de algumas questões — vem nulo — e sobra
+     * apenas a pergunta final. O piso anterior, de 40 caracteres, deixava
+     * passar coisas como "A fórmula que se enquadra nas características da
+     * molécula investigada é": setenta caracteres, cinco alternativas, e
+     * nenhuma molécula descrita em lugar nenhum. É pior que questão faltando,
+     * porque parece completa na listagem e só decepciona quem abre.
+     *
+     * Com figura o critério muda de sentido: aí o enunciado pode ser curto
+     * porque o conteúdo está na imagem, e cortar por tamanho descartaria
+     * questão boa.
+     */
+    if (enunciado.length < (temFigura ? 40 : 200)) {
+      motivos.push(`enunciado incompleto (${enunciado.length} caracteres, sem figura que o justifique)`)
+    }
 
     if (motivos.length) {
       rejeitadas.push({ numero: posicao, motivos })
@@ -188,7 +242,7 @@ export async function importar({ ano, area, lidas = {} }) {
       resposta: oficial.gabarito,
       dificuldade: classificarDificuldade(oficial.dificuldadeB),
       habilidade: oficial.habilidade,
-      imagens: questao.files ?? [],
+      imagens,
       materia,
       // De onde veio o rótulo de matéria. "oficial" só existe onde a própria
       // banca separou a prova por disciplina, o que o ENEM não faz.
