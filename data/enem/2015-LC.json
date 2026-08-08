@@ -31,22 +31,399 @@
     ],
     "resposta": "D",
     "dificuldade": {
-      "b": 0.91913,
-      "escala": 592,
-      "faixa": "Médio"
+      "b": 0.449,
+      "escala": 545,
+      "faixa": "Fácil"
     },
-    "habilidade": 8,
+    "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2015,
       "area": "LC",
       "cor": "Azul",
       "numero": 91,
+      "idioma": "espanhol",
       "provaMicrodados": "241",
-      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/91",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/91?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 91,
+    "enunciado": "My brother the star, my mother the earth\n\nmy father the sun, my sister the moon,\n\nto my life give beauty, to my\n\nbody give strength, to my corn give\n\ngoodness, to my house give peace, to\n\nmy spirit give truth, to my elders give\n\nwisdom.\n\nDisponível em: www.blackhawkproductions.com. Acesso em: 8 ago. 2012.\n\nProduções artístico-culturais revelam visões de mundo próprias de um grupo social. Esse poema demonstra a estreita relação entre a tradição oral da cultura indígena norte-americana e a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transmissão de hábitos alimentares entre gerações.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dependência da sabedoria de seus ancestrais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Representação do corpo em seus rituais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Importância dos elementos da natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Preservação da estrutura familiar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.91913,
+      "escala": 592,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 91,
+      "idioma": "ingles",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/91?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**En el día del amor, ¡no a la violencia contra la mujer!**\n\nHoy es el día de la amistad y del amor. Pero, parece que este día es puro floro, porque en nustre país aún existen muchos casos de maltrato entre las parejas, sobre todo hacia las mujeres. Por eso, el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP) lanza la segunda etapa de la campaña “Si te quieren, que te quieran bien”.\n\nEsta campaña busca detener de una vez el maltrato contra la mujer y para eso, concientizar sobre la importancia de denunciar estos casos. Y es que las cifras son preocupantes. Cada hora se denuncian 17 casos de violencia contra la mujer y en total los Centros de Emergencia de la Mujer (CEM) y el MIMP atendieron en un año a más de 36 mil denuncias de las cuales 7 mil eran de niñas y adolescentes menores de 17 años. Un abuso.\n\nSi eres testigo o víctima de algún tipo de violencia ya sea física, psicológica o sexual debes llamar gratuitamente a la línea 100 desde teléfono fijo o celular.\n\nDisponível em: http://napa.com.pe. Acesso em: 14 fev. 2012 (adaptado).\n\nPela expressão puro floro, infere-se que o autor considera a comemoração pelo dia do amor e da amizade, no Peru, como uma oportunidade para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Proteger as populações mais vulneráveis.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Evidenciar as eficazes ações do governo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Camuflar a violência de gênero existente no país.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Atenuar os maus-tratos cometidos por alguns homens.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Enaltecer o sucesso das campanhas de conscientização feminina.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.18682,
+      "escala": 619,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "idioma": "espanhol",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/92?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "RIDGWAY, L. Disponível em: http://fborfw.com. Acesso em: 23 fev. 2012.\n\nNa tira da série For better or for worse, a comunicação entre as personagens fica comprometida em um determinado momento porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As duas amigas divergem de opinião sobre futebol.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Uma das amigas desconsidera as preferências da outra.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Uma das amigas ignora que o outono é temporada de futebol.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Uma das amigas desconhece a razão pela qual a outra a maltrata.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "As duas amigas atribuem sentidos diferentes à palavra season.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.41763,
+      "escala": 542,
+      "faixa": "Fácil"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2015/questions/92-ingles/2b92ee42-e2f1-4c77-8590-77d029f00d3b.jpg"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "idioma": "ingles",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/92?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "Disponível em: www.lacronicadeleon.es. Acesso em: 12 mar. 2012 (adaptado).\n\nA acessibilidade é um tema de relevância tanto na esfera pública quanto na esfera privada. No cartaz, a exploração desse tema destaca a importância de se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estimular os cadeirantes na superação de barreiras.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Respeitar o estacionamento destinado a cadeirantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Identificar as vagas reservadas aos cadeirantes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminar os obstáculos para o trânsito de cadeirantes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Facilitar a locomoção de cadeirantes em estacionamentos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.74479,
+      "escala": 574,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg"
+    ],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 93,
+      "idioma": "espanhol",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/93?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "Why am I compelled to write? Because the writing saves me from this complacency I fear. Because I have no choice. Because I must keep the spirit of my revolt and myself alive. Because the world I create in the writing compensates for what the real world does not give me. By writing I put order in the world, give it a handle so I can grasp it.\n\nANZALDÚA, G. E. Speaking in tongues: a letter to third world women writers. In: HERNANDEZ, J. B. (Ed.). **Women writing resistance**: essays on Latin America and the Caribbean**.** Boston: South End, 2003.\n\nGloria Evangelina Anzaldúa, falecida em 2004, foi uma escritora americana de origem mexicana que escreveu sobre questões culturais e raciais. Na citação, o intuito da autora é evidenciar as:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Razões pelas quais ela escreve.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Compensações advindas da escrita.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Possibilidades de mudar o mundo real.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Maneiras de ela lidar com seus medos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Escolhas que ela faz para ordenar o mundo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.665,
+      "escala": 567,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 93,
+      "idioma": "ingles",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/93?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "**Atitlán**\n\nEl lago Atitlán está situado en el centro de América, en Guatemala. Su belleza es extraordinaria y tiene un gran interés social. En sus márgenes conviven tres culturas: la indígena, la española y la mestiza. Presididos por tres majestuosos volcanes (el Atitlán, el Tolimán y el San Pedro), trece pueblos bordean el lago. Los habitantes del lago son en su mayoría indígenas, aunque crece el porcentaje de ladinos (mestizos). Un buen número de extranjeros – misioneros o investigadores – comparte en los pueblitos la forma de vida de los nativos. A partir de los años setenta, numerosas colonias de hippies se asientan en Atitlán. Jóvenes de todo el mundo, atraídos por el paisaje, el clima semitropical y la sencillez de la vida de los indios, acampan cerca del lago. Además, muchos comerciantes guatemaltecos y extranjeros se han instalado en el pueblo de Panajachel para establecer diversos negocios hoteleros, deportivos y artesanales. A cada día el lago Atitlán atrae a sus costas a más turistas y científicos. Unos llegan buscando sossiego ante el espejismo del lago; otros van a mezclarse con los orgullosos y apacibles indígenas en iglesias y mercados; muchos atraviesan el lago para recorrer los diferentes pueblos y para recrearse en la variada indumentaria de sus habitantes; otros estudian las diferentes lenguas y dialectos que se hablan en la zona y muchos investigan con pasión la rica fauna del lago y de las tierras volcánicas. Realmente, es impresionante la convivencia de tantas etnías y culturas. En el corazón de América hay un lago y unos volcanes que son símbolo y reflejo de lo que es Hispanoamérica: un mosaico de culturas y un ejemplo de convivencia.\n\nSUÁREZ, M.; PICO DE COAÑA, M. **Sobre iberoamérica**. Madrid: Ediciones SM, 1998.\n\nDe acordo com o texto, a região do entorno do Lago Atitlán, na Guatemala, é de grande relevância social por representar o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Patrimônio histórico-geográfico que a área abriga.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diversidade turística que atrai estrangeiros.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Prosperidade econômica que advém de diferentes segmentos comerciais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Multiculturalidade característica da identidade hispano-americana.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização da cultura indígena observada entre as comunidades locais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.67871,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "idioma": "espanhol",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/94?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "**How fake images change our memory and behaviour**\n\nFor decades, researchers have been exploring just how unreliable our own memories are. Not only is memory fickle when we access it, but it’s also quite easily with subverted and rewritten. Combine this susceptibility with modern image-editing software at our fingertips like Photoshop, and it’s a recipe for disaster. In a world where we can witness news and world events as they unfold, fake images surround us, and our minds accept these pictures as real, and remember them later. These fake memories don’t just distort how we see our past, they affect our current and future behaviour too – from what we eat, to how we protest and vote. The problem is there’s virtually nothing we can do to stop it.\n\nOld memories seem to be the easiest to manipulate. In one study, subjects were showed images from their childhood. Along with real images, researchers snuck in manipulated photographs of the subject taking a hotair balloon ride with his or her family. After seeing those images, 50% of subjects recalled some part of that hot-air balloon ride – though the event was entirely made up.\n\nEVELETH, R. Disponível em: www.bbc.com. Acesso em: 16 jan. 2013 (adaptado).\n\nA reportagem apresenta consequências do uso de novas tecnologias para a mente humana. Nesse contexto, a memória das pessoas é influenciada pelo(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alteração de imagens.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Exposição ao mundo virtual.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Acesso a novas informações.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fascínio por softwares inovadores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Interferência dos meios de comunicação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.3865,
+      "escala": 539,
+      "faixa": "Fácil"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "idioma": "ingles",
+      "provaMicrodados": "241",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/94?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
     }
   },
@@ -90,16 +467,18 @@
     "imagens": [
       "https://enem.dev/2015/questions/95/2e3724ac-f078-47d1-a283-79f20a0c641c.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2015,
       "area": "LC",
       "cor": "Azul",
       "numero": 95,
+      "idioma": "ingles",
       "provaMicrodados": "241",
-      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/95?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
     }
   },
@@ -144,6 +523,7 @@
       "https://enem.dev/2015/questions/96/a5dd9636-55a3-4a26-a4be-2eba2ca0c437.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -151,6 +531,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 96,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/96",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -195,6 +576,7 @@
     "habilidade": 9,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -202,6 +584,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 97,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/97",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -246,6 +629,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -253,6 +637,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 98,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/98",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -297,6 +682,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -304,6 +690,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 99,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/99",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -348,6 +735,7 @@
     "habilidade": 25,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -355,6 +743,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 100,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/100",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -399,6 +788,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -406,6 +796,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 101,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/101",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -450,6 +841,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -457,6 +849,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 102,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/102",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -501,6 +894,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -508,6 +902,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 103,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/103",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -552,6 +947,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -559,6 +955,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 104,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/104",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -603,6 +1000,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -610,6 +1008,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 105,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/105",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -654,6 +1053,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -661,6 +1061,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 106,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/106",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -705,6 +1106,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -712,6 +1114,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 107,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/107",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -758,6 +1161,7 @@
       "https://enem.dev/2015/questions/108/a5767756-3955-4d61-84c0-c1366a95eebf.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -765,6 +1169,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 108,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/108",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -809,6 +1214,7 @@
     "habilidade": 14,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -816,6 +1222,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 109,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/109",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -862,6 +1269,7 @@
       "https://enem.dev/2015/questions/110/6af2efde-090f-48a8-9837-8c09cf6f3a49.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -869,6 +1277,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 110,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/110",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -913,6 +1322,7 @@
     "habilidade": 12,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -920,6 +1330,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 111,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/111",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -964,6 +1375,7 @@
     "habilidade": 12,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -971,6 +1383,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 112,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/112",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1015,6 +1428,7 @@
     "habilidade": 22,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1022,6 +1436,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 113,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/113",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1066,6 +1481,7 @@
     "habilidade": 30,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1073,6 +1489,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 114,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/114",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1117,6 +1534,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1124,6 +1542,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 115,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/115",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1168,6 +1587,7 @@
     "habilidade": 25,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1175,6 +1595,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 116,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/116",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1219,6 +1640,7 @@
     "habilidade": 27,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1226,6 +1648,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 117,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/117",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1272,6 +1695,7 @@
       "https://enem.dev/2015/questions/118/4ac7c389-b876-405d-bb19-7af7092899c1.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1279,6 +1703,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 118,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/118",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1323,6 +1748,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1330,6 +1756,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 119,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/119",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1374,6 +1801,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1381,6 +1809,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 120,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/120",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1425,6 +1854,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1432,6 +1862,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 121,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/121",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1476,6 +1907,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1483,6 +1915,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 122,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/122",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1527,6 +1960,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1534,6 +1968,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 123,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/123",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1578,6 +2013,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1585,6 +2021,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 124,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/124",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1629,6 +2066,7 @@
     "habilidade": 2,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1636,6 +2074,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 125,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/125",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1680,6 +2119,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1687,6 +2127,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 126,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/126",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1731,6 +2172,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1738,6 +2180,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 127,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/127",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1782,6 +2225,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1789,6 +2233,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 128,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/128",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1833,6 +2278,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1840,6 +2286,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 129,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/129",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1884,6 +2331,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1891,6 +2339,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 130,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/130",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1937,6 +2386,7 @@
       "https://enem.dev/2015/questions/131/0aef8dd3-3d60-4f4f-8923-703821fae1a8.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1944,6 +2394,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 131,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/131",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -1990,6 +2441,7 @@
       "https://enem.dev/2015/questions/132/f752e297-25de-418f-83dd-500f299f5219.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1997,6 +2449,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 132,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/132",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -2041,6 +2494,7 @@
     "habilidade": 11,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2048,6 +2502,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 133,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/133",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -2092,6 +2547,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2099,6 +2555,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 134,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/134",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
@@ -2143,6 +2600,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2150,6 +2608,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 135,
+      "idioma": null,
       "provaMicrodados": "241",
       "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/135",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"

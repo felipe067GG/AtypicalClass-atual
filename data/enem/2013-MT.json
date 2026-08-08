@@ -1,0 +1,2233 @@
+[
+  {
+    "numero": 136,
+    "enunciado": "Utilizando 0,26 como valor aproximado para a tangente de 15° e duas casas decimais nas operações, descobre-se que a área da base desse prédio ocupa na avenida um espaço",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menor que 100 m²",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 100 m² e 300 m²",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 300 m² e 500 m²",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Entre 500 m² e 700 m²",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Maior que 700 m²",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.195,
+      "escala": 720,
+      "faixa": "Difícil"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2013/questions/136/2b7178ab-7991-4b9d-9232-a6f9dadd475c.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 136,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/136",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 137,
+    "enunciado": "Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor. A nova média, em relação à média anterior, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,25 ponto maior.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,00 ponto maior.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,00 ponto menor.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,25 ponto maior.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,00 pontos menor.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.86319,
+      "escala": 686,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [
+      "https://enem.dev/2013/questions/137/53209063-0069-498a-9bb1-2a6e28fcbaec.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 137,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/137",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 138,
+    "enunciado": "O coeficiente de melhora da alteração recomendada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/138/5d194d75-3537-44ca-a717-a3a797eab3be.bmp"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/138/a67a68da-6453-497a-8e78-0c33a1c20fb5.bmp"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/138/2854e931-9b7c-441c-9652-567df9eee479.bmp"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/138/aaa5d51e-8cdf-479e-bc3e-a1d2332e4d55.bmp"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/138/e3ac6ce3-9ba0-4cf0-b0d7-bdc11bca203c.bmp"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.05864,
+      "escala": 706,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 138,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/138",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 140,
+    "enunciado": "Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, A, A, A.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A, B, A, B.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A, B, B, A.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "B, A, A, B.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "B, B, B, B.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.39085,
+      "escala": 639,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 140,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/140",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 141,
+    "enunciado": "Utilize 1,7 como aproximação para √3\nO valor de R, em centímetros, é igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "64,0",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "65,5",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "74,0",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "81,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "91,0",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.67777,
+      "escala": 668,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2013/questions/141/3cf638d1-7d15-4696-b092-de676c4e6701.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 141,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/141",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 142,
+    "enunciado": "Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Malhada",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mamona",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Maravilha",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mateira",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mimosa",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.70479,
+      "escala": 770,
+      "faixa": "Difícil"
+    },
+    "habilidade": 26,
+    "imagens": [
+      "https://enem.dev/2013/questions/142/504c21b5-da46-4660-bd8d-bc6e547bf243.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 142,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/142",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 143,
+    "enunciado": "Quantos quilômetros esse aluno percorreu na fase de implantação do programa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "16",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "40",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.604,
+      "escala": 660,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2013/questions/143/99ee084f-6759-467b-b6fc-c898787ae9c4.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 143,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/143",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 144,
+    "enunciado": "Analisando os dados percentuais do gráfico, qual a diferença entre o maior e o menor centro em crescimento no polo das indústrias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "75,28",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "64,09",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "56,95",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "45,76",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "30,07",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.18327,
+      "escala": 482,
+      "faixa": "Fácil"
+    },
+    "habilidade": 25,
+    "imagens": [
+      "https://enem.dev/2013/questions/144/f2d1f08e-1240-4175-ab48-38b49a301a01.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 144,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/144",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 145,
+    "enunciado": "A razão que representa a quantidade de cadeiras reservadas do setor 3 em relação ao total de cadeiras desse mesmo setor é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17/10",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "17/53",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "53/70",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "53/17",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "70/17",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.30828,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2013/questions/145/e171ead9-f89c-4f21-9cf2-198bc5f20f4f.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 145,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/145",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 146,
+    "enunciado": "A loja sorteará um brinde entre os compradores do produto A e outro brinde entre os compradores do produto B.\nQual a probabilidade de que os dois sorteados tenham feito suas compras em fevereiro de 2012?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/20",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3/242",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5/22",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "6/25",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "7/15",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.0082,
+      "escala": 701,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [
+      "https://enem.dev/2013/questions/146/573a432a-fdf5-4f17-8e42-d8337154d0aa.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 146,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/146",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 147,
+    "enunciado": "A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "11",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "12",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.98993,
+      "escala": 599,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [
+      "https://enem.dev/2013/questions/147/3167f5c3-7c37-42fc-9abf-e5b01abc1bea.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 147,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/147",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 148,
+    "enunciado": "Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem\ne no funcionamento da suspensão do veículo, causas frequentes de acidentes.\n\nCiente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1 500 telhas ou 1 200 tijolos.\n\nConsiderando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300 tijolos",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "360 tijolos",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "400 tijolos",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "480 tijolos",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "600 tijolos",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.3,
+      "escala": 630,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 148,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/148",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 149,
+    "enunciado": "A quantidade total de arroz, em toneladas, que deverá ser produzida no período de 2012 a 2021 será de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "497,25.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "500,85.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "502,87.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "558,75.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "563,25.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.69759,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2013/questions/149/8fe1bcbf-df0c-4081-b00d-efa0564e5fd6.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 149,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/149",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 150,
+    "enunciado": "Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.\n\nNessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.\n\nEscolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "5/8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1/4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5/6",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5/14",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.693,
+      "escala": 769,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 150,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/150",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 151,
+    "enunciado": "Durante uma aula de Matemática, o professor sugere aos alunos que seja fixado um sistema de coordenadas cartesianas (x, y) e representa na lousa a descrição de cinco conjuntos algébricos, I, II, III, IV e V, como se segue:\n\nI — é a circunferência de equação x2 + y2 = 9;\nII — é a parábola de equação y = − x2 − 1, com x variando de −1 a 1;\nIII — é o quadrado formado pelos vértices (−2, 1), (−1, 1), (−1, 2) e (−2, 2);\nIV — é o quadrado formado pelos vértices (1, 1), (2, 1), (2, 2) e (1, 2);\nV — é o ponto (0, 0).\n\nA seguir, o professor representa corretamente os cinco conjuntos sobre uma mesma malha quadriculada, composta de quadrados com lados medindo uma unidade de comprimento, cada, obtendo uma figura.\n\nQual destas figuras foi desenhada pelo professor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/151/f9eb65fe-85e3-44ee-8a08-76815609cfaf.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/151/e55374e0-5345-4883-b02b-0501bb462716.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/151/e0329894-ff51-4113-9a03-73a775fec7e7.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/151/7ffe259a-2172-4ab1-b921-c91fd35989fa.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/151/d362f4ac-dda0-4c50-9c5b-8cd7582bfe09.png"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.8758,
+      "escala": 688,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 151,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/151",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 152,
+    "enunciado": "A função real que expressa a parábola, no plano cartesiano da figura, é dada pela lei  onde C é a medida da altura do líquido contido na taça,  em centímetros. Sabe-se que o ponto V, na figura, representa o vértice da parábola, localizado sobre o eixo x.\n\nNessas condições, a altura do líquido contido na taça, em centímetros, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.6845,
+      "escala": 768,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2013/questions/152/71519410-35b4-4dde-b1af-d908a8fa58cf.png",
+      "https://enem.dev/2013/questions/152/85174ec3-b696-45a5-afb4-1ad4fe440d34.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 152,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/152",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 153,
+    "enunciado": "Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.\n\nHUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).\n\nIsso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/153/34ca8439-c1eb-4c1b-85fa-47f889e16848.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/153/ad127eb1-01b2-4805-84d0-1e76fd73f986.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/153/6329c3a6-1980-48c6-9ba7-e67ae5bfe240.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/153/5c98fa2b-6a4a-4bef-bf66-7b418f8b0431.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/153/26be7b7d-a85f-4cc8-99c6-2ac12524ba80.png"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.6,
+      "escala": 660,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 153,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/153",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 154,
+    "enunciado": "onde m1 e m2 correspondem às massas dos corpos, _d_ à distância entre eles, _G_ à constante universal da gravitação e _F_ à força que um corpo exerce sobre o outro.\n\nO esquema representa as trajetórias circulares de cinco satélites, de mesma massa, orbitando a Terra.\n\nQual gráfico expressa as intensidades das forças que a Terra exerce sobre cada satélite em função do tempo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/154/f711d5a2-7042-4918-86ec-97bcff750472.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/154/5e803db9-7db7-41b2-acdc-549a1dd0b2dd.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/154/88dc6559-bbfa-41fd-bc11-973ddfc7d4e3.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/154/d404d377-17c5-4e8f-a946-965528114b43.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/154/4c8643e0-20cf-4d31-ae07-25365020362b.png"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.44395,
+      "escala": 644,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [
+      "https://enem.dev/2013/questions/154/38290d8c-ee46-47f1-aaed-8518bc60fe1a.png",
+      "https://enem.dev/2013/questions/154/e34b89e1-90df-47ef-bc5d-2eea3ebb4e65.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 154,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/154",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 155,
+    "enunciado": "Uma indústria tem um reservatório de água com capacidade para 900 m³. Quando há necessidade de limpeza do reservatório, toda a água precisa ser escoada. O escoamento da água é feito por seis ralos, e dura 6 horas quando o reservatório está cheio. Esta indústria construirá um novo reservatório, com capacidade de 500 m³, cujo escoamento da água deverá ser realizado em 4 horas, quando o reservatório estiver cheio. Os ralos utilizados no novo reservatório deverão ser idênticos aos do já existente.\n\nA quantidade de ralos do novo reservatório deverá ser igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "9",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.721,
+      "escala": 672,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 155,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/155",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 156,
+    "enunciado": "Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a _y_  centímetros. Essas placas são vendidas em caixas com _N_ unidades e, na caixa, é\nespecificada a área máxima _S_ que pode ser coberta pelas _N_ placas.\n\nDevido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta _S_ não fosse alterada.\n\nA quantidade X, de placas do novo modelo, em cada nova caixa será igual a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "N/9",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "N/6",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "N/3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3N",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "9N",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.7685,
+      "escala": 677,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 156,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/156",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 157,
+    "enunciado": "Considere 3 como valor aproximado para π\n\nPara satisfazer as condições dadas, o raio máximo da ilha de lazer r, em metros, estará mais próximo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,6",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,7",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,0",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,8",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.94868,
+      "escala": 695,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [
+      "https://enem.dev/2013/questions/157/05b2dd08-a2a1-45ea-a618-540da89c4bd3.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 157,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/157",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 158,
+    "enunciado": "O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).\n\nUm contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 900,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 1 200,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 2 100,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 3 900,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 5 100,00.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.01952,
+      "escala": 602,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 158,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/158",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 159,
+    "enunciado": "Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de\nareia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m³ de concreto.\n\nQual é o volume de cimento, em m³, na carga de concreto trazido pela betoneira?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,75",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,00",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,33",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,00",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8,00",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.15101,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 159,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/159",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 161,
+    "enunciado": "Disponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado).\n\nO valor total gasto, em reais, para postar essas cartas é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8,35",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "12,50",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "14,40",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "15,35",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "18,05",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.53915,
+      "escala": 554,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [
+      "https://enem.dev/2013/questions/161/71e7f83b-c1a9-4a5f-af6f-5060240c73b6.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 161,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/161",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 162,
+    "enunciado": "O valor mediano da diária, em reais, para o quarto padrão de casal nessa cidade, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "345,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "350,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "375,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "400,00.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 4.27919,
+      "escala": 928,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [
+      "https://enem.dev/2013/questions/162/7abe2076-bc00-4223-af44-4a621459fc52.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 162,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/162",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 163,
+    "enunciado": "Para aumentar as vendas no início do ano, uma loja de departamentos remarcou os preços de seus produtos 20% abaixo do preço original. Quando chegam ao caixa, os clientes que possuem o cartão fidelidade da loja têm direito a um desconto adicional de 10% sobre o valor total de suas compras.\n\nUm cliente deseja comprar um produto que custava R$ 50,00 antes da remarcação de preços. Ele não possui o cartão fidelidade da loja.\n\nCaso esse cliente possuísse o cartão fidelidade da loja, a economia adicional que obteria ao efetuar a compra, em reais, seria de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15,00",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "14,00",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "10,00",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,00",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,00",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.61513,
+      "escala": 662,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 163,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/163",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 164,
+    "enunciado": "A imagem que representa a nova figura é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/164/b5085673-e1d4-4a75-814a-b152fc1a4d1f.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/164/2a001806-1238-495f-a0eb-249c4a6268be.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/164/2859b7a7-e785-4510-8915-4d9bf93c5794.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/164/264bc2c7-61bc-4194-bf03-fc3aa8a2caec.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/164/c419ee0c-1323-40b2-9161-666cae5345d2.png"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.5857,
+      "escala": 759,
+      "faixa": "Difícil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2013/questions/164/b06811f8-91ea-46e6-8a0f-048141c9045b.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 164,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/164",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 165,
+    "enunciado": "Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "36",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 17.62443,
+      "escala": 2262,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 165,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/165",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 167,
+    "enunciado": "Disponível em: www.arq.ufsc.br. Acesso em: 3 mar. 2012.\n\nSuponha que uma peça, quando moldada em argila, possuía uma base retangular cujos lados mediam 30 cm e 15 cm. Após o cozimento, esses lados foram reduzidos em 20%.\n\nEm relação à área original, a área da base dessa peça, após o cozimento, ficou reduzida em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "36%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "64%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "96%",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.52253,
+      "escala": 752,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 167,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/167",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 168,
+    "enunciado": "O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Excelente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Bom.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Regular.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ruim.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Péssimo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.68435,
+      "escala": 868,
+      "faixa": "Difícil"
+    },
+    "habilidade": 29,
+    "imagens": [
+      "https://enem.dev/2013/questions/168/a837d05f-4fe2-4d97-8542-fbcea6679fe9.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 168,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/168",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 169,
+    "enunciado": "Cinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:\n\nArthur: 250 cartelas com 6 números escolhidos;\n\nBruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;\n\nCaio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;\n\nDouglas: 4 cartelas com 9 números escolhidos;\n\nEduardo: 2 cartelas com 10 números escolhidos.\n\nOs dois apostadores com maiores probabilidades de serem premiados são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caio e Eduardo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Arthur e Eduardo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Bruno e Caio.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Arthur e Bruno.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Douglas e Eduardo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.14272,
+      "escala": 714,
+      "faixa": "Difícil"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 169,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/169",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 170,
+    "enunciado": "Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).\n\nSabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.\n\nAssim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,83",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,20",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "12,03",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "104,73",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "120,34",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.92982,
+      "escala": 693,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 170,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/170",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 172,
+    "enunciado": "A temperatura T de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento (t = 0) e varia de acordo com a expressão com t em minutos. Por motivos de segurança, a trava do forno só é liberada para\nabertura quando o forno atinge a temperatura de 39 ºC.\n\nQual o tempo mínimo de espera, em minutos, após se desligar o forno, para que a porta possa ser aberta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "19,0",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "19,8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20,0",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "38,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "39,0",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.93996,
+      "escala": 694,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [
+      "https://enem.dev/2013/questions/172/d05feb96-582b-4f24-8173-87c59a15ee16.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 172,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/172",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 173,
+    "enunciado": "O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.\n\nDisponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.\n\nNo ano de 2101, o Sol estará no ciclo de atividade magnética de número",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "32",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "34",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "33",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "35",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "31",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.74384,
+      "escala": 774,
+      "faixa": "Difícil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 173,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/173",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 174,
+    "enunciado": "Há interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.\n\nEsse número é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menor que 10.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Maior que 10 e menor que 20.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Maior que 20 e menor que 30.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Maior que 30 e menor que 40.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Maior que 40.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.32509,
+      "escala": 633,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2013/questions/174/058b1a19-673e-41e2-864f-585fb4405de3.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 174,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/174",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 175,
+    "enunciado": "A torre deve estar situada em um local equidistante das três antenas.\n\nO local adequado para a construção dessa torre corresponde ao ponto de coordenadas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(65 ; 35).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "(53 ; 30).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "(45 ; 35).",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "(50 ; 20).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "(50 ; 30).",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.94476,
+      "escala": 594,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2013/questions/175/eb855bec-d0a6-4b05-b8d8-fcff4deae0a7.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 175,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/175",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 176,
+    "enunciado": "Nela identifica-se a representação de duas figuras geométricas tridimensionais.\n\nEssas figuras são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um tronco de cone e um cilindro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Um cone e um cilindro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Um tronco de pirâmide e um cilindro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dois troncos de cone.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dois cilindros.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.03256,
+      "escala": 497,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2013/questions/176/38cb8424-5409-40d1-bed1-ccff111fb5ea.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 176,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/176",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 177,
+    "enunciado": "Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Finlândia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Holanda.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Israel.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "México.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Rússia.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 14.23385,
+      "escala": 1923,
+      "faixa": "Difícil"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 177,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/177",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 178,
+    "enunciado": "Considere que AC = 7/5 BD e que l é a medida de um dos lados da base da bandeja.\nQual deve ser o menor valor da razão lBD para que uma bandeja tenha capacidade de portar exatamente quatro copos de uma só vez?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "14/5",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "24/5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "28/5",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.406,
+      "escala": 741,
+      "faixa": "Difícil"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2013/questions/178/402e3690-ae8e-4967-a6fb-169619428b3a.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 178,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/178",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 179,
+    "enunciado": "Qual deve ser o valor do comprimento da haste EF?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 m",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 m",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,4 m",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3 m",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2√6 m",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.87014,
+      "escala": 787,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2013/questions/179/b89b41c4-9cdd-4858-8d4d-69e4efbcf1cc.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 179,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/179",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 180,
+    "enunciado": "A projeção ortogonal da trajetória dos pontos A e B, sobre o plano do chão da gangorra, quando esta se encontra em movimento, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/180/5f055a9a-02d4-407f-902e-2cd84cc48d79.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/180/9bfc7c28-1185-4e30-9ffc-69d21face5be.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/180/6ef2ba9b-8d80-4410-bd58-f099aa5028b0.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/180/3588a09e-40a9-4788-9112-be037a50227c.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2013/questions/180/fc9505d9-3e46-403f-9665-1650f7767ec6.png"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.12914,
+      "escala": 713,
+      "faixa": "Difícil"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2013/questions/180/a6d3cee1-2e6e-4bdd-974c-c780c2c728fe.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "MT",
+      "cor": "AZUL",
+      "numero": 180,
+      "idioma": null,
+      "provaMicrodados": "181",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/180",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  }
+]

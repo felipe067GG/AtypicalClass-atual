@@ -68,10 +68,12 @@ const TENTATIVAS = 4
 
 const espera = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
-async function buscarQuestao(ano, numero) {
+async function buscarQuestao(ano, numero, idioma = null) {
+  const url = idioma ? `${API}/${ano}/questions/${numero}?language=${idioma}` : `${API}/${ano}/questions/${numero}`
+
   for (let tentativa = 1; tentativa <= TENTATIVAS; tentativa += 1) {
     try {
-      const resposta = await fetch(`${API}/${ano}/questions/${numero}`, {
+      const resposta = await fetch(url, {
         headers: { "User-Agent": "AtypicalClass-Importador/1.0" },
       })
       if (resposta.ok) return resposta.json()
@@ -93,21 +95,31 @@ async function buscarQuestao(ano, numero) {
  * demais, que a API estava errada. Ela seguia o azul, e eu conferia contra o
  * amarelo.
  *
- * A identificação é por dominância, não por perfeição. O caderno certo fica
- * perto de 100% e os outros perto de 20%, que é o acaso de cinco alternativas
- * — a distância entre eles é enorme e não precisa de unanimidade para ser
- * lida.
+ * A identificação é por dominância: nove décimos de concordância bastam. O
+ * caderno certo fica perto de 100% e os errados perto de 20%, que é o acaso de
+ * cinco alternativas — a distância é enorme e não precisa de unanimidade para
+ * ser lida.
  *
- * Exigir 100% aqui custou caro: em 2020 o caderno azul batia 40 de 41 contra
- * 34% do segundo colocado, e o ano inteiro era descartado por uma única
- * divergência. Era confundir duas perguntas diferentes — "qual caderno é
- * este?" e "esta questão está certa?". A segunda continua sendo respondida
- * questão por questão, e a divergente é rejeitada sozinha, sem levar as outras
- * quarenta junto.
+ * Duas regras mais duras foram tentadas aqui, e as duas rejeitaram dado bom.
+ *
+ * A primeira exigia 100%. Em 2020 o caderno azul batia 40 de 41 contra 34% do
+ * segundo colocado, e o ano era descartado por uma divergência — confundindo
+ * duas perguntas diferentes: "qual caderno é este?" e "esta questão está
+ * certa?". A segunda continua sendo respondida questão por questão, e a
+ * divergente é rejeitada sozinha.
+ *
+ * A segunda exigia que o primeiro tivesse 2,5 vezes a taxa do segundo, e era
+ * impossível de satisfazer: taxa vai no máximo a 1,0, então qualquer segundo
+ * acima de 40% tornava a exigência inalcançável. Em 2010, Linguagens tinha um
+ * caderno com 44 de 45 contra outro com 32 e era descartado porque 98% não
+ * chega a 178%. Também não protegia de nada — acertar 44 de 45 entre cinco
+ * opções não acontece por acaso, e quando dois cadernos empatam no topo é
+ * porque são a mesma prova sob `CO_PROVA` diferentes, caso em que o desempate
+ * por dificuldade mais completa resolve.
  */
 const CONCORDANCIA_MINIMA = 0.9
-const VANTAGEM_MINIMA = 2.5
-function identificarCaderno(itens, respostasDaApi) {
+
+function identificarCaderno(itens, daApi) {
   const candidatos = new Map()
 
   for (const item of itens) {
@@ -115,10 +127,12 @@ function identificarCaderno(itens, respostasDaApi) {
     if (!candidatos.has(chave)) candidatos.set(chave, { acertos: 0, total: 0, comDificuldade: 0 })
     const placar = candidatos.get(chave)
 
-    const daApi = respostasDaApi.get(item.posicao)
-    if (!daApi) continue
+    const questao = daApi.get(item.posicao)
+    // Item de idioma diferente do que a API devolveu nao entra na conta: a
+    // versao em ingles nunca vai bater com o gabarito da versao em espanhol.
+    if (!questao || !mesmoIdioma(item, questao)) continue
     placar.total += 1
-    if (daApi === item.gabarito) placar.acertos += 1
+    if (questao.correctAlternative === item.gabarito) placar.acertos += 1
     if (item.dificuldadeB !== null) placar.comDificuldade += 1
   }
 
@@ -127,52 +141,106 @@ function identificarCaderno(itens, respostasDaApi) {
     .map(([chave, p]) => ({ chave, ...p, taxa: p.acertos / p.total }))
     .sort((a, b) => b.taxa - a.taxa || b.comDificuldade - a.comDificuldade)
 
-  const [melhor, segundo] = ranking
+  const [melhor] = ranking
   if (!melhor || melhor.taxa < CONCORDANCIA_MINIMA) return null
-
-  // A vantagem sobre o segundo é o que separa identificação de coincidência.
-  // Sem ela, um caderno que batesse 90% por acaso passaria — e a dificuldade
-  // de todas as questões viria da prova errada.
-  if (segundo && melhor.taxa < segundo.taxa * VANTAGEM_MINIMA) return null
 
   const [cor, prova] = melhor.chave.split("|")
   return { cor, prova, acertos: melhor.acertos, total: melhor.total }
 }
 
+/**
+ * Casa o item dos microdados com o idioma que a API devolveu.
+ *
+ * As cinco primeiras questões de Linguagens são de língua estrangeira, e cada
+ * uma existe em duas versões — inglês e espanhol — com gabaritos diferentes.
+ * Nos microdados isso aparece como dois itens na mesma posição, distinguidos
+ * por `TP_LINGUA`.
+ *
+ * Descartar o espanhol de saída parecia razoável e estava errado: a API devolve
+ * justamente a versão em espanhol. As cinco divergiam, a concordância caía de
+ * 100% para 89% e todo ano de Linguagens era rejeitado por raspar no piso de
+ * 90%. O erro não era de prova, era de idioma.
+ */
+const IDIOMA = { 0: "ingles", 1: "espanhol" }
+
+/** Nome da matéria, que aqui é oficial: a prova separa as duas versões. */
+const MATERIA_DO_IDIOMA = { ingles: "Inglês", espanhol: "Espanhol" }
+
+function mesmoIdioma(item, questaoDaApi) {
+  if (item.lingua === null) return true
+  return IDIOMA[item.lingua] === questaoDaApi?.language
+}
+
 export async function importar({ ano, area, lidas = {} }) {
-  const todos = lerItens(await obterItens(ano)).filter((i) => i.area === area && i.lingua !== 1)
+  const todos = lerItens(await obterItens(ano)).filter((i) => i.area === area)
   if (!todos.length) throw new Error(`Microdados de ${ano} não trazem itens da área ${area}`)
 
   const posicoes = [...new Set(todos.map((i) => i.posicao))].sort((a, b) => a - b)
 
+  /**
+   * As cinco questões de língua estrangeira existem em duas versões.
+   *
+   * A API devolve o espanhol por padrão e guarda o inglês atrás do parâmetro
+   * `?language=ingles`. Buscar as duas rende dez questões por ano no lugar de
+   * cinco — e, melhor, faz Inglês e Espanhol existirem como matérias, com
+   * rótulo oficial: aqui não é interpretação nossa, é a própria prova que
+   * separa as versões.
+   */
+  const posicoesComIdioma = new Set(todos.filter((i) => i.lingua !== null).map((i) => i.posicao))
+
   // Uma passada só na API: as questões são reaproveitadas tanto para
   // identificar o caderno quanto para montar o acervo.
   const daApi = new Map()
+  const porIdioma = new Map()
+
   for (const posicao of posicoes) {
     const questao = await buscarQuestao(ano, posicao)
     if (questao) daApi.set(posicao, questao)
     await espera(PAUSA_MS)
+
+    if (!posicoesComIdioma.has(posicao)) continue
+
+    for (const idioma of ["ingles", "espanhol"]) {
+      const variante = await buscarQuestao(ano, posicao, idioma)
+      if (variante) porIdioma.set(`${posicao}|${idioma}`, variante)
+      await espera(PAUSA_MS)
+    }
   }
 
-  const respostas = new Map([...daApi].map(([n, q]) => [n, q.correctAlternative]))
-  const caderno = identificarCaderno(todos, respostas)
+  const caderno = identificarCaderno(todos, daApi)
   if (!caderno) {
     throw new Error(
       `Nenhum caderno de ${area}/${ano} concorda o bastante com as respostas da API ` +
-        `(mínimo ${Math.round(CONCORDANCIA_MINIMA * 100)}% e ${VANTAGEM_MINIMA}x o segundo colocado). ` +
+        `(mínimo ${Math.round(CONCORDANCIA_MINIMA * 100)}% de concordância). ` +
         "Sem identificar o caderno, dificuldade e gabarito viriam de outra prova.",
     )
   }
 
+  // A chave leva o idioma porque uma posição de língua estrangeira tem dois
+  // itens oficiais, com gabaritos diferentes. Sem isso, um deles sobrescreve o
+  // outro e metade das questões recebe a resposta da versão errada.
   const oficiais = new Map(
-    todos.filter((i) => i.cor === caderno.cor && i.prova === caderno.prova).map((i) => [i.posicao, i]),
+    todos
+      .filter((i) => i.cor === caderno.cor && i.prova === caderno.prova)
+      .map((i) => [`${i.posicao}|${i.lingua === null ? "" : IDIOMA[i.lingua]}`, i]),
   )
+
+  /** Uma entrada por questão a importar — duas nas posições bilíngues. */
+  const aProcessar = []
+  for (const [posicao, questao] of daApi) {
+    if (!posicoesComIdioma.has(posicao)) aProcessar.push({ posicao, questao, idioma: null })
+  }
+  for (const [chave, questao] of porIdioma) {
+    const [posicao, idioma] = chave.split("|")
+    aProcessar.push({ posicao: Number(posicao), questao, idioma })
+  }
+  aProcessar.sort((a, b) => a.posicao - b.posicao || (a.idioma ?? "").localeCompare(b.idioma ?? ""))
 
   const questoes = []
   const rejeitadas = []
 
-  for (const [posicao, questao] of daApi) {
-    const oficial = oficiais.get(posicao)
+  for (const { posicao, questao, idioma } of aProcessar) {
+    const oficial = oficiais.get(`${posicao}|${idioma ?? ""}`)
     const motivos = []
 
     if (!oficial) motivos.push("sem item correspondente nos microdados")
@@ -222,13 +290,18 @@ export async function importar({ ano, area, lidas = {} }) {
       continue
     }
 
-    const automatica = proporMateria({ enunciado, alternativas, descricoesDeFiguras: [] }, area)
+    // Em língua estrangeira a matéria é oficial: a própria prova separa as
+    // versões, então não há o que interpretar nem o que auditar.
+    const oficialDoIdioma = idioma ? MATERIA_DO_IDIOMA[idioma] : null
+    const automatica = oficialDoIdioma
+      ? { materia: null }
+      : proporMateria({ enunciado, alternativas, descricoesDeFiguras: [] }, area)
     // A chave carrega a cor do caderno de propósito. As cores embaralham a
     // ordem dentro da área, então a questão 97 do amarelo não é a 97 do azul —
     // uma leitura feita num caderno aplicada a outro rotularia a questão
     // errada, e em silêncio, que é o pior modo de errar aqui.
     const lida = lidas[`${ano}-${caderno.cor}-${posicao}`] ?? null
-    const materia = automatica.materia ?? lida
+    const materia = oficialDoIdioma ?? automatica.materia ?? lida
 
     if (materia && !materiaCabeNaArea(materia, area)) {
       rejeitadas.push({ numero: posicao, motivos: [`matéria "${materia}" não pertence à área ${area}`] })
@@ -246,15 +319,17 @@ export async function importar({ ano, area, lidas = {} }) {
       materia,
       // De onde veio o rótulo de matéria. "oficial" só existe onde a própria
       // banca separou a prova por disciplina, o que o ENEM não faz.
-      origemDaMateria: automatica.materia ? "vocabulário" : lida ? "leitura" : null,
+      idioma,
+      origemDaMateria: oficialDoIdioma ? "oficial" : automatica.materia ? "vocabulário" : lida ? "leitura" : null,
       fonte: {
         exame: "ENEM",
         ano,
         area,
         cor: caderno.cor,
         numero: posicao,
+        idioma,
         provaMicrodados: caderno.prova,
-        questaoApi: `${API}/${ano}/questions/${posicao}`,
+        questaoApi: idioma ? `${API}/${ano}/questions/${posicao}?language=${idioma}` : `${API}/${ano}/questions/${posicao}`,
         microdados: `https://download.inep.gov.br/microdados/microdados_enem_${ano}.zip`,
       },
     })

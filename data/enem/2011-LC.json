@@ -1,109 +1,5 @@
 [
   {
-    "numero": 91,
-    "enunciado": "Going to university seems to reduce the risk of dying from coronary heart disease. An American study that involved 10 000 patients from around the world has found that people who leave school before the age of 16 are five times more likely to suffer a heart attack and die than university graduates.\n\nWorld Report News. **Magazine Speak Up**. Ano XIV, n° 170. Editora Camelot, 2001.\n\nEm relação às pesquisas, a utilização da expressão university graduates evidencia a intenção de informar que",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "As doenças do coração atacam dez mil pacientes.",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "As doenças do coração ocorrem na faixa dos dezesseis anos.",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "As pesquisas sobre doenças são divulgadas no meio acadêmico.",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "Jovens americanos são alertados dos riscos de doenças do coração.",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "Maior nível de estudo reduz riscos de ataques do coração.",
-        "imagem": null
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 0.70119,
-      "escala": 570,
-      "faixa": "Médio"
-    },
-    "habilidade": 5,
-    "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2011,
-      "area": "LC",
-      "cor": "Azul",
-      "numero": 91,
-      "provaMicrodados": "127",
-      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/91",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
-    }
-  },
-  {
-    "numero": 92,
-    "enunciado": "GLASBERGEN, R. **Today’s cartoon**. Disponível em: http://www.glasbergen.com. Acesso em: 23 jul. 2010.\n\nNa fase escolar, é prática comum que os professores passem atividades extraclasse e marquem uma data para que as mesmas sejam entregues para correção. No caso da cena da charge, a professora ouve uma estudante apresentando argumentos para",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Discutir sobre o conteúdo do seu trabalho já entregue.",
-        "imagem": null
-      },
-      {
-        "letra": "B",
-        "texto": "Elogiar o tema proposto para o relatório solicitado.",
-        "imagem": null
-      },
-      {
-        "letra": "C",
-        "texto": "Sugerir temas para novas pesquisas e relatórios.",
-        "imagem": null
-      },
-      {
-        "letra": "D",
-        "texto": "Reclamar do curto prazo para entrega do trabalho.",
-        "imagem": null
-      },
-      {
-        "letra": "E",
-        "texto": "Convencer de que fez o relatório solicitado.",
-        "imagem": null
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 0.61748,
-      "escala": 562,
-      "faixa": "Médio"
-    },
-    "habilidade": 6,
-    "imagens": [
-      "https://enem.dev/2011/questions/92/cf4e6e0a-1f86-4e8f-a89b-a1cc1a445703.png"
-    ],
-    "materia": null,
-    "origemDaMateria": null,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2011,
-      "area": "LC",
-      "cor": "Azul",
-      "numero": 92,
-      "provaMicrodados": "127",
-      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/92",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
-    }
-  },
-  {
     "numero": 93,
     "enunciado": "**How’s your mood?**\n\nFor an interesting attempt to measure cause and effect try Mappiness, a project run by the London School of Economics, which offers a phone app that prompts you to record your mood and situation.\n\nThe Mappiness website says: “We’re particularly interested in how people’s happiness is affected by their local environment — air pollution, noise, green spaces, and so on — which the data from Mappiness will be absolutely great for investigating.”\n\nWill it work? With enough people, it might. But there are other problems. We’ve been using happiness and well-being interchangeably. Is that ok? The difference comes out in a sentiment like: “We were happier during the war.” But was our well-being also greater then?\n\nDisponível em: http://www.bbc.co.uk. Acesso em: 27 jun. 2011 (adaptado).\n\nO projeto Mappiness, idealizado pela London School of Economics, ocupa-se do tema relacionado",
     "alternativas": [
@@ -135,75 +31,79 @@
     ],
     "resposta": "D",
     "dificuldade": {
-      "b": 0.39162,
-      "escala": 539,
+      "b": 0.34683,
+      "escala": 535,
       "faixa": "Fácil"
     },
-    "habilidade": 5,
+    "habilidade": 6,
     "imagens": [
       "https://enem.dev/2011/questions/93/148fb6fd-27c9-409e-a187-3038678c5e33.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
       "area": "LC",
       "cor": "Azul",
       "numero": 93,
+      "idioma": "espanhol",
       "provaMicrodados": "127",
-      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/93",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/93?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
     }
   },
   {
-    "numero": 94,
-    "enunciado": "**War**\n\nUntil the philosophy which holds one race superior  \nAnd another inferior  \nIs finally and permanently discredited and abandoned,  \nEverywhere is war — Me say war.\n\nThat until there is no longer  \nFirst class and second class citizens of any nation,  \nUntil the color of a man’s skin  \nIs of no more significance than the color of his eyes —  \nMe say war.  \n\\[…\\]\n\nAnd until the ignoble and unhappy regimes  \nthat hold our brothers in Angola, in Mozambique,  \nSouth Africa, sub-human bondage have been toppled,  \nUtterly destroyed —  \nWell, everywhere is war — Me say war.\n\nWar in the east, war in the west,  \nWar up north, war down south —  \nWar — war — Rumors of war.  \nAnd until that day, the African continent will not know peace.  \nWe, Africans, will fight — we find it necessary —  \nAnd we know we shall win  \nAs we are confident in the victory.  \n\\[…\\]\n\nMARLEY, B. Disponível em: http://www.sing365.com. Acesso em: 30 jun. 2011 (fragmento).\n\nBob Marley foi um artista popular e atraiu muitos fãs com suas canções. Ciente de sua influência social, na música War, o cantor se utiliza de sua arte para alertar sobre",
+    "numero": 95,
+    "enunciado": "**Es posible reducir la basura**\n\nEn México se producen más de 10 millones de m3 de basura mensualmente, depositados en más de 50 mil tiraderos de basura legales y clandestinos, que afectan de manera directa nuestra calidad de vida, pues nuestros recursos naturales son utilizados desproporcionalmente, como materias primas que luego desechamos y tiramos convirtiéndolos en materiales inútiles y focos de infección.\n\nTodo aquello que compramos y consumimos tiene una relación directa con lo que tiramos. Consumiendo racionalmente, evitando el derroche y usando sólo lo indispensable, directamente colaboramos con el cuidado del ambiente.\n\nSi la basura se compone de varios desperdicios y si como desperdicios no fueron basura, si los separamos adecuadamente, podremos controlarlos y evitar posteriores problemas. Reciclar se traduce en importantes ahorros de energía, ahorro de agua potable, ahorro de materias primas, menor impacto en los ecosistemas y sus recursos naturales y ahorro de tiempo, dinero y esfuerzo.\n\nEs necesario saber para empezar a actuar…\n\nDisponível em: http://www.tododecarton.com. Acesso em: 27 abr. 2010 (adaptado).\n\nA partir do que se afirma no último parágrafo: “Es necesario saber para empezar a actuar…”, pode-se constatar que o texto foi escrito com a intenção de",
     "alternativas": [
       {
         "letra": "A",
-        "texto": "A inércia do continente africano diante das injustiças sociais.",
+        "texto": "Informar o leitor a respeito da importância da reciclagem para a conservação do meio ambiente.",
         "imagem": null
       },
       {
         "letra": "B",
-        "texto": "A persistência da guerra enquanto houver diferenças raciais e sociais.",
+        "texto": "Indicar os cuidados que se deve ter para não consumir alimentos que podem ser focos de infecção.",
         "imagem": null
       },
       {
         "letra": "C",
-        "texto": "As acentuadas diferenças culturais entre os países africanos.",
+        "texto": "Denunciar o quanto o consumismo é nocivo, pois é o gerador dos dejetos produzidos no México.",
         "imagem": null
       },
       {
         "letra": "D",
-        "texto": "As discrepâncias sociais entre moçambicanos e angolanos como causa de conflitos.",
+        "texto": "Ensinar como economizar tempo, dinheiro e esforço a partir dos 50 mil depósitos de lixo legalizados.",
         "imagem": null
       },
       {
         "letra": "E",
-        "texto": "A fragilidade das diferenças raciais e sociais como justificativas para o início de uma guerra.",
+        "texto": "Alertar a população mexicana para os perigos causados pelos consumidores de matéria-prima reciclável.",
         "imagem": null
       }
     ],
-    "resposta": "B",
+    "resposta": "A",
     "dificuldade": {
-      "b": 0.70373,
-      "escala": 570,
-      "faixa": "Médio"
+      "b": 0.12125,
+      "escala": 512,
+      "faixa": "Fácil"
     },
-    "habilidade": 8,
+    "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
       "area": "LC",
       "cor": "Azul",
-      "numero": 94,
+      "numero": 95,
+      "idioma": "espanhol",
       "provaMicrodados": "127",
-      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/94",
+      "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/95?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
     }
   },
@@ -246,6 +146,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -253,6 +154,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 96,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/96",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -299,6 +201,7 @@
       "https://enem.dev/2011/questions/97/bd1b0936-b39f-42aa-a4ea-0744b73dc320.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -306,6 +209,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 97,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/97",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -350,6 +254,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -357,6 +262,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 98,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/98",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -364,7 +270,7 @@
   },
   {
     "numero": 99,
-    "enunciado": "**TEXTO I**\n\nO meu nome é Severino,  \nnão tenho outro de pia.  \nComo há muitos Severinos,  \nque é santo de romaria,  \nderam então de me chamar  \nSeverino de Maria;  \ncomo há muitos Severinos  \ncom mães chamadas Maria,  \nfiquei sendo o da Maria  \ndo finado Zacarias,  \nmas isso ainda diz pouco:  \nhá muitos na freguesia,  \npor causa de um coronel  \nque se chamou Zacarias  \ne que foi o mais antigo  \nsenhor desta sesmaria.  \nComo então dizer quem fala  \nora a Vossas Senhorias?\n\nMELO NETO, J. C. **Obra completa**. Rio de Janeiro: Aguilar, 1994 (fragmento).\n\n**TEXTO II**\n\nJoão Cabral, que já emprestara sua voz ao rio, transfere-a, aqui, ao retirante Severino, que, como o Capibaribe, também segue no caminho do Recife. A autoapresentação do personagem, na fala inicial do texto, nos mostra um Severino que, quanto mais se define, menos se individualiza, pois seus traços biográficos são sempre partilhados por outros homens.\n\nSECCHIN, A. C. **João Cabral**: a poesia do menos. Rio de Janeiro: Topbooks, 1999 (fragmento).\n\nCom base no trecho de Morte e Vida Severina (Texto I) e na análise crítica (Texto II), observa-se que a relação entre o texto poético e o contexto social a que ele faz referência aponta para um problema social expresso literariamente pela pergunta “Como então dizer quem fala / ora a Vossas Senhorias?”. A resposta à pergunta expressa no poema é dada por meio da",
+    "enunciado": "**TEXTO I**\n\nO meu nome é Severino,\nnão tenho outro de pia.\nComo há muitos Severinos,\nque é santo de romaria,\nderam então de me chamar\nSeverino de Maria;\ncomo há muitos Severinos\ncom mães chamadas Maria,\nfiquei sendo o da Maria\ndo finado Zacarias,\nmas isso ainda diz pouco:\nhá muitos na freguesia,\npor causa de um coronel\nque se chamou Zacarias\ne que foi o mais antigo\nsenhor desta sesmaria.\nComo então dizer quem fala\nora a Vossas Senhorias?\n\nMELO NETO, J. C. **Obra completa**. Rio de Janeiro: Aguilar, 1994 (fragmento).\n\n**TEXTO II**\n\nJoão Cabral, que já emprestara sua voz ao rio, transfere-a, aqui, ao retirante Severino, que, como o Capibaribe, também segue no caminho do Recife. A autoapresentação do personagem, na fala inicial do texto, nos mostra um Severino que, quanto mais se define, menos se individualiza, pois seus traços biográficos são sempre partilhados por outros homens.\n\nSECCHIN, A. C. **João Cabral**: a poesia do menos. Rio de Janeiro: Topbooks, 1999 (fragmento).\n\nCom base no trecho de Morte e Vida Severina (Texto I) e na análise crítica (Texto II), observa-se que a relação entre o texto poético e o contexto social a que ele faz referência aponta para um problema social expresso literariamente pela pergunta “Como então dizer quem fala / ora a Vossas Senhorias?”. A resposta à pergunta expressa no poema é dada por meio da",
     "alternativas": [
       {
         "letra": "A",
@@ -401,6 +307,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -408,6 +315,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 99,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/99",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -454,6 +362,7 @@
       "https://enem.dev/2011/questions/100/c13c970e-9da9-430f-8c86-ed5dba7b2082.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -461,6 +370,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 100,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/100",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -468,7 +378,7 @@
   },
   {
     "numero": 101,
-    "enunciado": "**TEXTO I**  \n**Onde está a honestidade?**\n\nVocê tem palacete reluzente  \nTem joias e criados à vontade  \nSem ter nenhuma herança ou parente  \nSó anda de automóvel na cidade…\n\nE o povo pergunta com maldade:  \nOnde está a honestidade?  \nOnde está a honestidade?\n\nO seu dinheiro nasce de repente  \nE embora não se saiba se é verdade  \nVocê acha nas ruas diariamente  \nAnéis, dinheiro e felicidade…\n\nVassoura dos salões da sociedade  \nQue varre o que encontrar em sua frente  \nPromove festivais de caridade  \nEm nome de qualquer defunto ausente…\n\nROSA, N. Disponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\n**TEXTO II**\n\nUm vulto da história da música popular brasileira, reconhecido nacionalmente, é Noel Rosa. Ele nasceu em 1910, no Rio de Janeiro; portanto, se estivesse vivo, estaria completando 100 anos. Mas faleceu aos 26 anos de idade, vítima de tuberculose, deixando um acervo de grande valor para o patrimônio cultural brasileiro. Muitas de suas letras representam a sociedade contemporânea, como se tivessem sido escritas no século XXI.\n\nDisponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\nUm texto pertencente ao patrimônio literário-cultural brasileiro é atualizável, na medida em que ele se refere a valores e situações de um povo. A atualidade da canção Onde está a honestidade?, de Noel Rosa, evidencia-se por meio",
+    "enunciado": "**TEXTO I**\n**Onde está a honestidade?**\n\nVocê tem palacete reluzente\nTem joias e criados à vontade\nSem ter nenhuma herança ou parente\nSó anda de automóvel na cidade…\n\nE o povo pergunta com maldade:\nOnde está a honestidade?\nOnde está a honestidade?\n\nO seu dinheiro nasce de repente\nE embora não se saiba se é verdade\nVocê acha nas ruas diariamente\nAnéis, dinheiro e felicidade…\n\nVassoura dos salões da sociedade\nQue varre o que encontrar em sua frente\nPromove festivais de caridade\nEm nome de qualquer defunto ausente…\n\nROSA, N. Disponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\n**TEXTO II**\n\nUm vulto da história da música popular brasileira, reconhecido nacionalmente, é Noel Rosa. Ele nasceu em 1910, no Rio de Janeiro; portanto, se estivesse vivo, estaria completando 100 anos. Mas faleceu aos 26 anos de idade, vítima de tuberculose, deixando um acervo de grande valor para o patrimônio cultural brasileiro. Muitas de suas letras representam a sociedade contemporânea, como se tivessem sido escritas no século XXI.\n\nDisponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\nUm texto pertencente ao patrimônio literário-cultural brasileiro é atualizável, na medida em que ele se refere a valores e situações de um povo. A atualidade da canção Onde está a honestidade?, de Noel Rosa, evidencia-se por meio",
     "alternativas": [
       {
         "letra": "A",
@@ -505,6 +415,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -512,6 +423,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 101,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/101",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -556,6 +468,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -563,6 +476,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 102,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/102",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -607,6 +521,7 @@
     "habilidade": 4,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -614,6 +529,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 103,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/103",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -621,7 +537,7 @@
   },
   {
     "numero": 104,
-    "enunciado": "**Não tem tradução**\n\n\\[…\\]  \nLá no morro, se eu fizer uma falseta  \nA Risoleta desiste logo do francês e do inglês  \nA gíria que o nosso morro criou  \nBem cedo a cidade aceitou e usou  \n\\[…\\]  \nEssa gente hoje em dia que tem mania de exibição  \nNão entende que o samba não tem tradução no idioma francês  \nTudo aquilo que o malandro pronuncia  \nCom voz macia é brasileiro, já passou de português  \nAmor lá no morro é amor pra chuchu  \nAs rimas do samba não são _I love you_  \nE esse negócio de _alô, alô boy e alô Johnny_  \nSó pode ser conversa de telefone\n\nROSA, N. In: SOBRAL, João J. V. A tradução dos bambas. **Revista Língua Portuguesa**. Ano 4, n° 54. São Paulo: Segmento, abr. 2010 (fragmento).\n\nAs canções de Noel Rosa, compositor brasileiro de Vila Isabel, apesar de revelarem uma aguçada preocupação do artista com seu tempo e com as mudanças político-culturais no Brasil, no início dos anos 1920, ainda são modernas. Nesse fragmento do samba Não tem tradução, por meio do recurso da metalinguagem, o poeta propõe",
+    "enunciado": "**Não tem tradução**\n\n\\[…\\]\nLá no morro, se eu fizer uma falseta\nA Risoleta desiste logo do francês e do inglês\nA gíria que o nosso morro criou\nBem cedo a cidade aceitou e usou\n\\[…\\]\nEssa gente hoje em dia que tem mania de exibição\nNão entende que o samba não tem tradução no idioma francês\nTudo aquilo que o malandro pronuncia\nCom voz macia é brasileiro, já passou de português\nAmor lá no morro é amor pra chuchu\nAs rimas do samba não são _I love you_\nE esse negócio de _alô, alô boy e alô Johnny_\nSó pode ser conversa de telefone\n\nROSA, N. In: SOBRAL, João J. V. A tradução dos bambas. **Revista Língua Portuguesa**. Ano 4, n° 54. São Paulo: Segmento, abr. 2010 (fragmento).\n\nAs canções de Noel Rosa, compositor brasileiro de Vila Isabel, apesar de revelarem uma aguçada preocupação do artista com seu tempo e com as mudanças político-culturais no Brasil, no início dos anos 1920, ainda são modernas. Nesse fragmento do samba Não tem tradução, por meio do recurso da metalinguagem, o poeta propõe",
     "alternativas": [
       {
         "letra": "A",
@@ -658,6 +574,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -665,6 +582,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 104,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/104",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -709,6 +627,7 @@
     "habilidade": 9,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -716,6 +635,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 105,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/105",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -760,6 +680,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -767,6 +688,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 106,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/106",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -813,6 +735,7 @@
       "https://enem.dev/2011/questions/107/4d2319f1-f48b-49f6-a323-920558a74811.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -820,6 +743,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 107,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/107",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -864,6 +788,7 @@
     "habilidade": 11,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -871,6 +796,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 108,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/108",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -915,6 +841,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -922,6 +849,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 109,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/109",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -968,6 +896,7 @@
       "https://enem.dev/2011/questions/110/1fa1d245-9cd8-45d7-a8e9-21cb188c46da.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -975,6 +904,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 110,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/110",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1019,6 +949,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1026,6 +957,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 111,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/111",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1073,6 +1005,7 @@
       "https://enem.dev/2011/questions/112/afb1243e-488a-4092-a586-01e503a45818.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1080,6 +1013,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 112,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/112",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1087,7 +1021,7 @@
   },
   {
     "numero": 113,
-    "enunciado": "**Estrada**\n\nEsta estrada onde moro, entre duas voltas do caminho,  \nInteressa mais que uma avenida urbana.  \nNas cidades todas as pessoas se parecem.  \nTodo mundo é igual. Todo mundo é toda a gente.  \nAqui, não: sente-se bem que cada um traz a sua alma.  \nCada criatura é única.  \nAté os cães.  \nEstes cães da roça parecem homens de negócios:  \nAndam sempre preocupados.  \nE quanta gente vem e vai!  \nE tudo tem aquele caráter impressivo que faz meditar:  \nEnterro a pé ou a carrocinha de leite puxada por um bodezinho manhoso.  \nNem falta o murmúrio da água, para sugerir, pela voz dos símbolos,  \nQue a vida passa! que a vida passa!  \nE que a mocidade vai acabar.\n\nBANDEIRA, M. **O ritmo dissoluto**. Rio de Janeiro: Aguilar, 1967.\n\nA lírica de Manuel Bandeira é pautada na apreensão de significados profundos a partir de elementos do cotidiano. No poema Estrada, o lirismo presente no contraste entre campo e cidade aponta para",
+    "enunciado": "**Estrada**\n\nEsta estrada onde moro, entre duas voltas do caminho,\nInteressa mais que uma avenida urbana.\nNas cidades todas as pessoas se parecem.\nTodo mundo é igual. Todo mundo é toda a gente.\nAqui, não: sente-se bem que cada um traz a sua alma.\nCada criatura é única.\nAté os cães.\nEstes cães da roça parecem homens de negócios:\nAndam sempre preocupados.\nE quanta gente vem e vai!\nE tudo tem aquele caráter impressivo que faz meditar:\nEnterro a pé ou a carrocinha de leite puxada por um bodezinho manhoso.\nNem falta o murmúrio da água, para sugerir, pela voz dos símbolos,\nQue a vida passa! que a vida passa!\nE que a mocidade vai acabar.\n\nBANDEIRA, M. **O ritmo dissoluto**. Rio de Janeiro: Aguilar, 1967.\n\nA lírica de Manuel Bandeira é pautada na apreensão de significados profundos a partir de elementos do cotidiano. No poema Estrada, o lirismo presente no contraste entre campo e cidade aponta para",
     "alternativas": [
       {
         "letra": "A",
@@ -1124,6 +1058,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1131,6 +1066,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 113,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/113",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1177,6 +1113,7 @@
       "https://enem.dev/2011/questions/114/f1377ead-441b-47bf-a1f3-25e20beac813.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1184,6 +1121,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 114,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/114",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1228,6 +1166,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1235,6 +1174,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 115,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/115",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1242,7 +1182,7 @@
   },
   {
     "numero": 116,
-    "enunciado": "**Lépida e leve**\n\nLíngua do meu Amor velosa e doce,  \nque me convences de que sou frase,  \nque me contornas, que me vestes quase,  \ncomo se o corpo meu de ti vindo me fosse.  \nLíngua que me cativas, que me enleias  \nos surtos de ave estranha,  \nem linhas longas de invisíveis teias,  \nde que és, há tanto, habilidosa aranha…  \n\\[…\\]  \nAmo-te as sugestões gloriosas e funestas,  \namo-te como todas as mulheres  \nte amam, ó língua-lama, ó língua-resplendor,  \npela carne de som que à ideia emprestas  \ne pelas frases mudas que proferes  \nnos silêncios de Amor!…\n\nMACHADO, G. In: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001 (fragmento).\n\nA poesia de Gilka Machado identifica-se com as concepções artísticas simbolistas. Entretanto, o texto selecionado incorpora referências temáticas e formais modernistas, já que, nele, a poeta",
+    "enunciado": "**Lépida e leve**\n\nLíngua do meu Amor velosa e doce,\nque me convences de que sou frase,\nque me contornas, que me vestes quase,\ncomo se o corpo meu de ti vindo me fosse.\nLíngua que me cativas, que me enleias\nos surtos de ave estranha,\nem linhas longas de invisíveis teias,\nde que és, há tanto, habilidosa aranha…\n\\[…\\]\nAmo-te as sugestões gloriosas e funestas,\namo-te como todas as mulheres\nte amam, ó língua-lama, ó língua-resplendor,\npela carne de som que à ideia emprestas\ne pelas frases mudas que proferes\nnos silêncios de Amor!…\n\nMACHADO, G. In: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001 (fragmento).\n\nA poesia de Gilka Machado identifica-se com as concepções artísticas simbolistas. Entretanto, o texto selecionado incorpora referências temáticas e formais modernistas, já que, nele, a poeta",
     "alternativas": [
       {
         "letra": "A",
@@ -1279,6 +1219,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1286,6 +1227,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 116,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/116",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1330,6 +1272,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1337,6 +1280,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 117,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/117",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1344,7 +1288,7 @@
   },
   {
     "numero": 118,
-    "enunciado": "**Guardar**\n\nGuardar uma coisa não é escondê-la ou trancá-la.  \nEm cofre não se guarda coisa alguma.  \nEm cofre perde-se a coisa à vista.  \nGuardar uma coisa é olhá-la, fitá-la, mirá-la por  \nadmirá-la, isto é, iluminá-la ou ser por ela iluminado.  \nGuardar uma coisa é vigiá-la, isto é, fazer vigília por  \nela, isto é, velar por ela, isto é, estar acordado por ela,  \nisto é, estar por ela ou ser por ela.  \nPor isso melhor se guarda o voo de um pássaro  \nDo que um pássaro sem voos.  \nPor isso se escreve, por isso se diz, por isso se publica,  \npor isso se declara e declama um poema:  \nPara guardá-lo:  \nPara que ele, por sua vez, guarde o que guarda:  \nGuarde o que quer que guarda um poema:  \nPor isso o lance do poema:  \nPor guardar-se o que se quer guardar.\n\nMACHADO, G. In: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001.\n\nA memória é um importante recurso do patrimônio cultural de uma nação. Ela está presente nas lembranças do passado e no acervo cultural de um povo. Ao tratar o fazer poético como uma das maneiras de se guardar o que se quer, o texto",
+    "enunciado": "**Guardar**\n\nGuardar uma coisa não é escondê-la ou trancá-la.\nEm cofre não se guarda coisa alguma.\nEm cofre perde-se a coisa à vista.\nGuardar uma coisa é olhá-la, fitá-la, mirá-la por\nadmirá-la, isto é, iluminá-la ou ser por ela iluminado.\nGuardar uma coisa é vigiá-la, isto é, fazer vigília por\nela, isto é, velar por ela, isto é, estar acordado por ela,\nisto é, estar por ela ou ser por ela.\nPor isso melhor se guarda o voo de um pássaro\nDo que um pássaro sem voos.\nPor isso se escreve, por isso se diz, por isso se publica,\npor isso se declara e declama um poema:\nPara guardá-lo:\nPara que ele, por sua vez, guarde o que guarda:\nGuarde o que quer que guarda um poema:\nPor isso o lance do poema:\nPor guardar-se o que se quer guardar.\n\nMACHADO, G. In: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001.\n\nA memória é um importante recurso do patrimônio cultural de uma nação. Ela está presente nas lembranças do passado e no acervo cultural de um povo. Ao tratar o fazer poético como uma das maneiras de se guardar o que se quer, o texto",
     "alternativas": [
       {
         "letra": "A",
@@ -1381,6 +1325,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1388,6 +1333,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 118,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/118",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1432,6 +1378,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1439,6 +1386,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 119,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/119",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1446,7 +1394,7 @@
   },
   {
     "numero": 120,
-    "enunciado": "**Pequeno concerto que virou canção**\n\nNão, não há por que mentir ou esconder  \nA dor que foi maior do que é capaz meu coração  \nNão, nem há por que seguir cantando só para explicar  \nNão vai nunca entender de amor quem nunca soube amar  \nAh, eu vou voltar pra mim  \nSeguir sozinho assim  \nAté me consumir ou consumir toda essa dor  \nAté sentir de novo o coração capaz de amor\n\nVANDRÉ, G. Disponível em: http://www.letras.terra.com.br. Acesso em: 29 jun. 2011.\n\nNa canção de Geraldo Vandré, tem-se a manifestação da função poética da linguagem, que é percebida na elaboração artística e criativa da mensagem, por meio de combinações sonoras e rítmicas. Pela análise do texto, entretanto, percebe-se, também, a presença marcante da função emotiva ou expressiva, por meio da qual o emissor",
+    "enunciado": "**Pequeno concerto que virou canção**\n\nNão, não há por que mentir ou esconder\nA dor que foi maior do que é capaz meu coração\nNão, nem há por que seguir cantando só para explicar\nNão vai nunca entender de amor quem nunca soube amar\nAh, eu vou voltar pra mim\nSeguir sozinho assim\nAté me consumir ou consumir toda essa dor\nAté sentir de novo o coração capaz de amor\n\nVANDRÉ, G. Disponível em: http://www.letras.terra.com.br. Acesso em: 29 jun. 2011.\n\nNa canção de Geraldo Vandré, tem-se a manifestação da função poética da linguagem, que é percebida na elaboração artística e criativa da mensagem, por meio de combinações sonoras e rítmicas. Pela análise do texto, entretanto, percebe-se, também, a presença marcante da função emotiva ou expressiva, por meio da qual o emissor",
     "alternativas": [
       {
         "letra": "A",
@@ -1483,6 +1431,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1490,6 +1439,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 120,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/120",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1534,6 +1484,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1541,6 +1492,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 121,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/121",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1587,6 +1539,7 @@
       "https://enem.dev/2011/questions/122/d8295ea3-6df2-42a5-8fe7-37e71cd0850d.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1594,6 +1547,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 122,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/122",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1640,6 +1594,7 @@
       "https://enem.dev/2011/questions/123/d8350fd2-dd7d-42b4-8be8-3b2892dcf629.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1647,6 +1602,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 123,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/123",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1693,6 +1649,7 @@
       "https://enem.dev/2011/questions/124/d9afe727-bf11-4034-b3e4-3121d99dc482.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1700,6 +1657,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 124,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/124",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1744,6 +1702,7 @@
     "habilidade": 22,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1751,6 +1710,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 125,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/125",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1795,6 +1755,7 @@
     "habilidade": 22,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1802,6 +1763,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 126,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/126",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1848,6 +1810,7 @@
       "https://enem.dev/2011/questions/127/093a87ad-75f3-4853-9dd7-1c51c7b2fc90.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1855,6 +1818,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 127,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/127",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1899,6 +1863,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1906,6 +1871,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 128,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/128",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -1952,6 +1918,7 @@
       "https://enem.dev/2011/questions/129/5e1eed51-8dca-463c-8587-c0578dda1639.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1959,6 +1926,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 129,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/129",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -2003,6 +1971,7 @@
     "habilidade": 25,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2010,6 +1979,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 130,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/130",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -2054,6 +2024,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2061,6 +2032,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 131,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/131",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -2105,6 +2077,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2112,6 +2085,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 132,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/132",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -2158,6 +2132,7 @@
       "https://enem.dev/2011/questions/133/168ef904-86aa-483b-bd25-2895db4b6dd6.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2165,6 +2140,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 133,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/133",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -2211,6 +2187,7 @@
       "https://enem.dev/2011/questions/134/53cd2eeb-a4e4-4101-aab7-f57834e1d5c1.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2218,6 +2195,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 134,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/134",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"
@@ -2262,6 +2240,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2269,6 +2248,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 135,
+      "idioma": null,
       "provaMicrodados": "127",
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/135",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip"

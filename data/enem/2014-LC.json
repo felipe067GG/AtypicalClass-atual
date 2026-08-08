@@ -1,5 +1,219 @@
 [
   {
+    "numero": 91,
+    "enunciado": "Disponível em: http://azaral-canarias.blogspot.com. Acesso em: 28 maio 2014 (adaptado)\n\nAs marcas de primeira pessoa do plural no texto da campanha de amamentação têm como finalidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incluir o enunciador no discurso para expressar formalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Agregar diversas vozes para impor valores às lactantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Forjar uma voz coletiva para garantir adesão à campanha.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Promover uma identificação entre o enunciador e o leitor para aproximá-los.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Remeter à voz institucional promotora da campanha para conferir-lhe credibilidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.52911,
+      "escala": 553,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2014/questions/91-espanhol/8daa6152-26c6-4606-8a28-1f0bb37dffe3.jpg"
+    ],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 91,
+      "idioma": "espanhol",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/91?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 91,
+    "enunciado": "**A Tall Order**\n\n_The sky isn’t the limit for an architect building the world’s first invisible skyscraper_\n\nCharles Wee, one of the world’s leading high-rise architects, has a confession to make: he’s bored with skyscrapers. After designing more than 30, most of which punctuate the skulines od rapidly expanding Asian cities, he has struck upon a novel concept: the firts invisible skyscraper.\n\nAs the tallest structure in South Korea, his Infinity Tower loom over Seoul until somebody pushes a button and it completely disappears.\n\nWhen he entered a 2004 competition to design a landmark tower, the Korean-American architect rejected the notion of competing with Dubai, Toronto, and Shanghai to reach the summit of man-made summits. “I thought, let’s not jump into this stupid race to build another ‘tallest’ tower,” he says in a phone conversation. “Let’s take an opposite approach — let’s make an anti-tower.”\n\nThe result will be a 150-story building that fades from view at the flick of a switch. The tower will effectively function as an enormous television screen, being able to project an exact replica of whatever is happening behind it onto its façade. To the human eye, the building will appear to have melted away.\n\nIt will be the most extraordinary achievement of Wee’s stellar architectural career. After graduating from UCLA, he worked under Anthony Lumsdenm, a prolific California architect who helped devise the modern technique of wrapping buildings inside smooth glass skins.\n\nHINES, N. Disponível em: (http://mag.newsweek.com). Acesso em: 13 out. 2013 (adaptado).\n\nNo título e no subtítulo desse texto, as expressões A Tall Order e The sky isn’t the limit são usadas para apresentar uma matéria cujo tema é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inovações tecnológicas usadas para a construção de um novo arranha-céu em Seul.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Confissões de um arquiteto que busca se destacar na construção de arranha-céus.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Técnicas a serem estabelecidas para a construção de edifícios altos na Califórnia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Competição entre arquitetos para a construção do edifício mais alto do mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Construção de altas torres de apartamentos nas grandes metrópoles da Ásia.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.10415,
+      "escala": 610,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 91,
+      "idioma": "ingles",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/91?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**Emigrantes**\n\nEn todo emigrante existen dos posibles actitudes vitales: una la de considerar su experiencia como aventura pasajera, vivir mental y emocionalmente en la patria de origen, cultivando su nostalgia, y definir la realidad presente por comparación con el mundo que se ha dejado; la otra es vivir el presente tal como viene dado, proyectarlo en el futuro, cortar raíces y dominar nostalgias, sumergirse en la nueva cultura, aprenderla y asimilarla. El drama personal del emigrante reside en el hecho de que casi nunca es posible esa elección en términos absolutos y, al igual que el mestizo, se siente parte de dos mundos sin integrarse por completo en uno de ellos con exclusión del otro.\n\nDEL CASTILLO, G. C. América hispánica (1492-1892). In: DE LARA, M. T. **Historia de España.** Barcelona: Labor, 1985\n\nO texto apresenta uma reflexão sobre a condição do imigrante, o qual, para o autor, tem de lidar com o dilema da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constatação de sua existência no entrelugar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Instabilidade da vida em outro país.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ausência de referências do passado.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apropriação dos valores do outro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ruptura com o país de origem.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.36638,
+      "escala": 637,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "idioma": "espanhol",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/92?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**Masters of War**\n\nCome you masters of war\nYou that build all the guns You that build the death planes\nYou that build the big bombs\nYou that hide behind walls\nYou that hide behind desks\nI just want you to know\nI can see through your masks\n\nYou that never done nothin’\nBut build to destroy\nYou play with my world\nLike it’s your little toy\nYou put a gun in my hand\nAnd you hide from my eyes\nAnd you turn and run farther\nWhen the fast bullets fly\n\nLike Judas of old\nYou lie and deceive\nA world war can be won\nYou want me to believe\nBut I see through your eyes\nAnd I see through your brain\nLike I see through the water\nThat runs down my drain.\n\nBOB DYLAN. **The Freewheelin’ Bob Dylan**. Nova York: Columbia Records, 1963 (fragmento).\n\nNa letra da canção Masters of War, há questionamentos e reflexões que aparecem na forma de protesto contra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O envio de jovens à guerra para promover a expansão territorial dos Estados Unidos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O comportamento dos soldados norte-americanos nas guerras de que participaram.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema que recruta soldados para guerras motivadas por interesses econômicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O desinteresse do governo pelas famílias dos soldados mortos em campos de batalha.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "As Forças Armadas norte-americanas, que enviavam homens despreparados para as guerras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.00642,
+      "escala": 601,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "idioma": "ingles",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/92?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
     "numero": 93,
     "enunciado": "En un año de campaña paraguaya, he visto muchas cosas tristes…\n\nHe visto la tierra, con su fertilidad incoercible y salvaje, sofocar al hombre, que arroja una semilla y obtiene cien plantas diferentes y no sabe cuál es la suya. He visto los viejos caminos que abrió la tiranía devorados por la vegetación, desleídos por las innundaciones, borrados por el abandono.\n\nBARRET, R. **Lo que he visto.** Cuba: XX Feria Internacional del Libro de la Habana, 2011.\n\nRafael Barret nasceu na Espanha e, ainda jovem, foi viver no Paraguai.\n\nO fragmento do texto Lo que hai visto revela um pouco da percepção do escritor sobre a realidade paraguaia, marcada, em essência, pelo(a)",
     "alternativas": [
@@ -31,22 +245,291 @@
     ],
     "resposta": "A",
     "dificuldade": {
-      "b": 1.106,
-      "escala": 611,
+      "b": 1.549,
+      "escala": 655,
       "faixa": "Médio"
     },
-    "habilidade": 6,
+    "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2014,
       "area": "LC",
       "cor": "Azul",
       "numero": 93,
+      "idioma": "espanhol",
       "provaMicrodados": "205",
-      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/93",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/93?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "**The Road Not Taken (by Robert Frost)**\n\nTwo roads diverged in a wood, and I —\nI took the one less traveled by,\nAnd that has made all the difference.\n\nDisponível em: www.poetryfoundation.org. Acesso em: 29 nov. 2011 (fragmento).\n\nEstes são os versos finais do famoso poema The Road Not Taken, do poeta americano Robert Frost. Levando-se em consideração que a vida é comumente metaforizada como uma viagem, esses versos indicam que o autor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Festeja o fato de ter sido ousado na escolha que fez em sua vida.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Lamenta por ter sido um viajante que encontrou muitas bifurcações.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Viaja muito pouco e que essa escolha fez toda a diferença em sua vida.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reconhece que as dificuldades em sua vida foram todas superadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Percorre várias estradas durante as diferentes fases de sua vida.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.106,
+      "escala": 611,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 93,
+      "idioma": "ingles",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/93?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "Aunque me cuesta mucho trabajo y me hace sudar la gota gorda, y, como todo escritor, siento a veces la amenaza de la parálisis, de la sequía de la imaginación, nada me ha hecho gozar en la vida tanto como pasarme los meses y los años construyendo una historia, desde su incierto despuntar, esa imagen que la memoria almacenó de alguna experiencia vivida, que se volvió un desasosiego, un entusiasmo, un fantaseo que germinó luego en un proyecto y en la decisión de intentar convertir esa niebla agitada de fantasmas en una historia. “Escribir es una manera de vivir”, dijo Flaubert.\n\nDiscurso de Mario Vargas Llosa al recibir el Premio Nobel de Literatura 2010.\n\nDisponível em: www.nobelprize.org. Acesso em: 7 maio 2014 (fragmento)\n\nO trecho apresentado trata do fazer literário, a partir da perspectiva de Vargas Llosa.\n\nCom base no fragmento “me hace sudar la gota gorda”, infere-se que o artifício da escritura, para o escritor,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ativa a memória e a fantasia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Baseia-se na imaginação inspiradora.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fundamenta-se nas experiências de vida.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Requer entusiasmo e motivação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Demanda expressiva dedicação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.007,
+      "escala": 601,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "idioma": "espanhol",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/94?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "Disponível em: http://wefeedback.org. Acesso em: 30 jul. 2012.\n\nA internet tem servido a diferentes interesses, ampliando, muitas vezes, o contato entre pessoas e instituições. Um exemplo disso é o site WeFeedback, no qual a internauta Kate Watts",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comprou comida em promoção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Inscreveu-se em concurso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fez doação para caridade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Participou de pesquisa de opinião.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Voluntariou-se para trabalho social.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.49268,
+      "escala": 549,
+      "faixa": "Fácil"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2014/questions/94-ingles/9f394223-6ce2-4ad2-a219-6351ebc03092.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "idioma": "ingles",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/94?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "**El robo**\n\nPara los niños\nanchos espacios tiene el día\ny las horas\nson calles despejadas\nabiertas avenidas.\n\nA nosotros, se estrecha\nel tiempo de tal modo\nque todo está apretado y oprimido.\n\nSe atropellan los tiempos\nCasi no da lugar un día a otro.\nNo bien ha amanecido\ncae la luz a pique\nen veloz mediodía\ny apenas la contemplas\nhuye en atardeceres\nhacia pozos de sombra.\n\nDice una voz:\nentre vueltas y vueltas\nse me fue el día.\n\nAlgún ladrón\noculto roba mi vida.\n\nMAIA, C. **Obra poética**. Montevidéu: Rebecalinke, 2010.\n\nO poema El robo, de Circe Maia, poetisa uruguaia contemporânea, trata do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Problema do abandono de crianças nas ruas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Excesso de trabalho na sociedade atual.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Angústia provocada pela fugacidade do tempo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Violência nos grandes centros urbanos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Repressão dos sentimentos e da liberdade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.67722,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 95,
+      "idioma": "espanhol",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/95?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "**If You Can’t Master English, Try Globish**\n\nPARIS — It happens all the time: during an airport delay the man to the left, a Korean perhaps, starts talking to the man opposite, who might be Colombian, and soon they are chatting away in what seems to be English. But the native English speaker sitting between them cannot understand a word.\n\nThey don’t know it, but the Korean and the Colombian are speaking Globish, the latest addition to the 6,800 languages that are said to be spoken across the world. Not that its inventor, Jean-Paul Nerrière, considers it a proper language.\n\n“It is not a language, it is a tool,” he says. “A language is the vehicle of a culture. Globish doesn’t want to be that at all. It is a means of communication.”\n\nNerrière doesn’t see Globish in the same light as utopian efforts such as Kosmos, Volapuk, Novial or staunch Esperanto. Nor should it be confused with barbaric Algol (for Algorithmic language). It is a sort of English lite: a means of simplifying the language and giving it rules so it can be understood by all.\n\nBLUME, M. Disponível em: www.nytimes.com. Acesso em: 28 out. 2013 (fragmento)\n\nConsiderando as ideias apresentadas no texto, o Globish (Global English) é uma variedade da língua inglesa que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tem status de língua por refletir uma cultura global.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Facilita o entendimento entre o falante nativo e o não nativo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tem as mesmas características de projetos utópicos como o esperanto.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Altera a estrutura do idioma para possibilitar a comunicação internacional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta padrões de fala idênticos aos da variedade usada pelos falantes nativos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.82038,
+      "escala": 582,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 95,
+      "idioma": "ingles",
+      "provaMicrodados": "205",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/95?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
     }
   },
@@ -91,6 +574,7 @@
       "https://enem.dev/2014/questions/96/c8ebba38-0e9a-4cc7-88ad-f54257534f04.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -98,6 +582,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 96,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/96",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -142,6 +627,7 @@
     "habilidade": 11,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -149,6 +635,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 97,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/97",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -193,6 +680,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -200,6 +688,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 98,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/98",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -244,6 +733,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -251,6 +741,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 99,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/99",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -295,6 +786,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -302,6 +794,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 100,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/100",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -346,6 +839,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -353,6 +847,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 101,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/101",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -397,6 +892,7 @@
     "habilidade": 13,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -404,6 +900,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 102,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/102",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -448,6 +945,7 @@
     "habilidade": 4,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -455,6 +953,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 103,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/103",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -499,6 +998,7 @@
     "habilidade": 27,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -506,6 +1006,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 104,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/104",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -552,6 +1053,7 @@
       "https://enem.dev/2014/questions/105/c3c3913e-0f62-4c09-ba7f-702ab87e0c31.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -559,6 +1061,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 105,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/105",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -603,6 +1106,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -610,6 +1114,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 106,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/106",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -654,6 +1159,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -661,6 +1167,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 107,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/107",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -705,6 +1212,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -712,6 +1220,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 108,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/108",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -756,6 +1265,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -763,6 +1273,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 109,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/109",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -807,6 +1318,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -814,6 +1326,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 110,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/110",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -858,6 +1371,7 @@
     "habilidade": 27,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -865,6 +1379,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 111,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/111",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -911,6 +1426,7 @@
       "https://enem.dev/2014/questions/112/4cd68c46-084c-4144-8e81-7a4a64e13bda.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -918,6 +1434,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 112,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/112",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -962,6 +1479,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -969,6 +1487,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 113,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/113",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1013,6 +1532,7 @@
     "habilidade": 24,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1020,6 +1540,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 114,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/114",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1066,6 +1587,7 @@
       "https://enem.dev/2014/questions/115/e13b2d6f-c865-4932-b906-03827868ad82.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1073,6 +1595,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 115,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/115",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1117,6 +1640,7 @@
     "habilidade": 30,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1124,6 +1648,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 116,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/116",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1168,6 +1693,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1175,6 +1701,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 117,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/117",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1219,6 +1746,7 @@
     "habilidade": 25,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1226,6 +1754,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 118,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/118",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1270,6 +1799,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1277,6 +1807,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 119,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/119",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1321,6 +1852,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1328,6 +1860,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 120,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/120",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1372,6 +1905,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1379,6 +1913,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 121,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/121",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1425,6 +1960,7 @@
       "https://enem.dev/2014/questions/122/ff1bfb0f-0911-497a-8a39-2bc0a9741a72.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1432,6 +1968,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 122,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/122",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1476,6 +2013,7 @@
     "habilidade": 14,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1483,6 +2021,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 123,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/123",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1527,6 +2066,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1534,6 +2074,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 124,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/124",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1578,6 +2119,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1585,6 +2127,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 125,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/125",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1631,6 +2174,7 @@
       "https://enem.dev/2014/questions/127/96f0d3f9-7155-487a-b274-c39876e88293.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1638,6 +2182,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 127,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/127",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1682,6 +2227,7 @@
     "habilidade": 24,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1689,6 +2235,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 128,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/128",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1733,6 +2280,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1740,6 +2288,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 129,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/129",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1784,6 +2333,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1791,6 +2341,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 130,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/130",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1837,6 +2388,7 @@
       "https://enem.dev/2014/questions/131/9fd59444-cee6-4cd1-b2c1-31587d29e28e.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1844,6 +2396,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 131,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/131",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1888,6 +2441,7 @@
     "habilidade": 22,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1895,6 +2449,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 132,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/132",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1939,6 +2494,7 @@
     "habilidade": 9,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1946,6 +2502,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 133,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/133",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -1990,6 +2547,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1997,6 +2555,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 134,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/134",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
@@ -2043,6 +2602,7 @@
       "https://enem.dev/2014/questions/135/c04407d3-3472-434a-8fc2-9537ea41856c.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2050,6 +2610,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 135,
+      "idioma": null,
       "provaMicrodados": "205",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/135",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"

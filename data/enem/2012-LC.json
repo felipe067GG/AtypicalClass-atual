@@ -1,7 +1,7 @@
 [
   {
     "numero": 91,
-    "enunciado": "**Obituario\\*  \n**\n\nLo enterraron en el corazón de un bosque de pinos  \ny sin embargo  \nel ataúd de pino fue importado de Ohio;  \nlo enterraron al borde de una mina de hierro  \ny sin embargo  \nlos clavos de su ataúd y el hierro de la pala  \nfueron importados de Pittsburg;  \nlo enterraron junto al mejor pasto de ovejas del mundo  \ny sin embargo  \nlas lanas de los festones del ataúd eran de California.  \nLo enterraron con un traje de New York,  \nun par de zapatos de Boston,  \nuna camisa de Cincinatti  \ny unos calcetines de Chicago.  \nGuatemala no facilitó nada al funeral,  \nexcepto el cadáver.\n\n\\* Paráfrasis de un famoso texto norteamericano.\n\nNOGUERAS, L. R. **Las quince mil vidas del caminante**. La Habana: Unea,1977.\n\nO texto de Luis Rogelio Nogueras faz uma crítica",
+    "enunciado": "**Obituario\\*\n**\n\nLo enterraron en el corazón de un bosque de pinos\ny sin embargo\nel ataúd de pino fue importado de Ohio;\nlo enterraron al borde de una mina de hierro\ny sin embargo\nlos clavos de su ataúd y el hierro de la pala\nfueron importados de Pittsburg;\nlo enterraron junto al mejor pasto de ovejas del mundo\ny sin embargo\nlas lanas de los festones del ataúd eran de California.\nLo enterraron con un traje de New York,\nun par de zapatos de Boston,\nuna camisa de Cincinatti\ny unos calcetines de Chicago.\nGuatemala no facilitó nada al funeral,\nexcepto el cadáver.\n\n\\* Paráfrasis de un famoso texto norteamericano.\n\nNOGUERAS, L. R. **Las quince mil vidas del caminante**. La Habana: Unea,1977.\n\nO texto de Luis Rogelio Nogueras faz uma crítica",
     "alternativas": [
       {
         "letra": "A",
@@ -31,28 +31,83 @@
     ],
     "resposta": "A",
     "dificuldade": {
-      "b": 0.347,
-      "escala": 535,
+      "b": 0.405,
+      "escala": 541,
       "faixa": "Fácil"
     },
     "habilidade": 6,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
       "area": "LC",
       "cor": "AZUL",
       "numero": 91,
+      "idioma": "espanhol",
       "provaMicrodados": "147",
-      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/91",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/91?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 91,
+    "enunciado": "**I, too**\n\nI, too, sing America.\n\nI am the darker brother.\nThey send me to eat in the kitchen\nWhen company comes,\nBut I laugh,\nAnd eat well,\nAnd grow strong.\n\nTomorrow,\nl’ll be at the table\nWhen company comes.\nNobody’ll dare\nSay to me,\n“Eat in the kitchen,”\nThen.\n\nBesides,\nThey’ll see how beautiful I am\nAnd be ashamed\n\nI, too, am America.\n\nHUGHES, L. In: RAMPERSAD, A.; ROESSEL, D. (Ed.) **The collected poems of Langston**\n**Hughes**. New York: Knopf, 1994.\n\nLangston Hughes foi um poeta negro americano que viveu no século XX e escreveu I, too em 1932. No poema, a personagem descreve uma prática racista que provoca nela um sentimento de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coragem, pela superação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Vergonha, pelo retraimento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Compreensão, pela aceitação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Superioridade, pela arrogância.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Resignação, pela submissão.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.347,
+      "escala": 535,
+      "faixa": "Fácil"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 91,
+      "idioma": "ingles",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/91?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
     }
   },
   {
     "numero": 92,
-    "enunciado": "**Excavarán plaza ceremonial del frontis norte de**  \n**huaca de la Luna**\n\nTrujillo, feb. 25 (ANDINA). Tras limpiar los escombros del saqueo colonial y de las excavaciones de los últimos años en huaca de la Luna, este año se intervendrá la plaza ceremonial del frontis norte, en donde se ubica la gran fachada del sitio arqueológico ubicado en Trujillo, La Libertad, informaron hoy fuentes culturales. Después de varias semanas de trabajo, el material fue sacado del sitio arqueológico para poder apreciar mejor la extensión y forma del patio que, según las investigaciones, sirvió hace unos 1 500 como escenario de extraños rituales.\n\nEl codirector del Proyecto Arqueológico Huacas del Sol y la Luna, Ricardo Morales Gamarra, sostuvo que con la zona limpia de escombros, los visitantes conocerán la verdadera proporción de la imponente fachada, tal y como la conocieron los moches. Por su parte, el arqueólogo Santiago Uceda, también codirector del proyecto, dijo que las excavaciones se iniciarán este año para determinar qué otros elementos componían dicha área. “Hace poco nos sorprendió encontrar un altar semicircular escalonado. Era algo que no esperábamos. Por lo tanto, es difícil saber qué es lo que aún está escondido en la zona que exploraremos”, señaló Uceda a la Agencia Andina.\n\nLa huaca de la Luna se localiza en el distrito trujillano de Moche. Es una pirámide de adobe adornada, en sus murales, con impresionantes imágenes mitológicas, muchas de ellas en alto relieve.\n\nDisponível em: www.andina.com.pe. Acesso em: 23 fev. 2012 (adaptado).\n\nO texto apresenta informações sobre um futuro trabalho de escavação de um sítio arqueológico peruano. Sua leitura permite inferir que",
+    "enunciado": "**Excavarán plaza ceremonial del frontis norte de**\n**huaca de la Luna**\n\nTrujillo, feb. 25 (ANDINA). Tras limpiar los escombros del saqueo colonial y de las excavaciones de los últimos años en huaca de la Luna, este año se intervendrá la plaza ceremonial del frontis norte, en donde se ubica la gran fachada del sitio arqueológico ubicado en Trujillo, La Libertad, informaron hoy fuentes culturales. Después de varias semanas de trabajo, el material fue sacado del sitio arqueológico para poder apreciar mejor la extensión y forma del patio que, según las investigaciones, sirvió hace unos 1 500 como escenario de extraños rituales.\n\nEl codirector del Proyecto Arqueológico Huacas del Sol y la Luna, Ricardo Morales Gamarra, sostuvo que con la zona limpia de escombros, los visitantes conocerán la verdadera proporción de la imponente fachada, tal y como la conocieron los moches. Por su parte, el arqueólogo Santiago Uceda, también codirector del proyecto, dijo que las excavaciones se iniciarán este año para determinar qué otros elementos componían dicha área. “Hace poco nos sorprendió encontrar un altar semicircular escalonado. Era algo que no esperábamos. Por lo tanto, es difícil saber qué es lo que aún está escondido en la zona que exploraremos”, señaló Uceda a la Agencia Andina.\n\nLa huaca de la Luna se localiza en el distrito trujillano de Moche. Es una pirámide de adobe adornada, en sus murales, con impresionantes imágenes mitológicas, muchas de ellas en alto relieve.\n\nDisponível em: www.andina.com.pe. Acesso em: 23 fev. 2012 (adaptado).\n\nO texto apresenta informações sobre um futuro trabalho de escavação de um sítio arqueológico peruano. Sua leitura permite inferir que",
     "alternativas": [
       {
         "letra": "A",
@@ -82,22 +137,240 @@
     ],
     "resposta": "D",
     "dificuldade": {
-      "b": 0.493,
-      "escala": 549,
-      "faixa": "Fácil"
+      "b": 0.815,
+      "escala": 582,
+      "faixa": "Médio"
     },
-    "habilidade": 7,
+    "habilidade": 6,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
       "area": "LC",
       "cor": "AZUL",
       "numero": 92,
+      "idioma": "espanhol",
       "provaMicrodados": "147",
-      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/92",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/92?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**J. K. Rowling to pen first novel for adults**\n\nAuthor J. K. Rowling has announced plans to publish her first novel for adults, which will be “very different” from the Harry Potter books she is famous for.\n\nThe book will be published worldwide although no date or title has yet been released. “The freedom to explore new territory is a gift that Harry’s sucess has brought me,” Rowling said.\n\nAll the Potter books were published by Bloomsbury, but Rowling has chosen a new publisher for her debut into adult fiction. “Although I’ve enjoyed writing it every bit as much, my next book will be very different to the Harry Potter series, which has been published so brilliantly by Bloomsbury and my other publishers around the world,” she said, in a statement. “I’m delighted to have a second publishing home in Little, Brown, and a publishing team that will be a great partner in this new phase of my writing life.”\n\nDisponível em: www.bbc.co.uk. Acesso em: 24 fev. 2012 (adaptado).\n\nJ. K. Rowling tornou-se famosa por seus livros sobre o bruxo Harry Potter e suas aventuras, adaptados para o cinema. Esse texto, que aborda a trajetória da escritora britânica, tem por objetivo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Informar que a famosa série Harry Potter será adaptada para o público adulto.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Divulgar a publicação do romance por J. K. Rowling inteiramente para adultos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Promover a nova editora que irá publicar os próximos livros de J. K. Rowling.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Informar que a autora de Harry Potter agora pretende escrever para adultos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Anunciar um novo livro da série Harry Potter publicado por editora diferente.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.493,
+      "escala": 549,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2012/questions/92-ingles/db771969-5ea6-45cc-ad63-3318aab80605.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 92,
+      "idioma": "ingles",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/92?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "Nuestra comarca del mundo, que hoy llamamos América Latina perfeccionó sus funciones. Este ya no es el reino de las maravillas donde la realidad derrotaba a la fábula y la imaginación era humillada por los troféus de la conquista, los yacimientos de oro y las montañas de plata. Pero la región sigue trabajando de sirvienta. Es América Latina, la región de las venas abiertas. Desde el descubrimiento hasta nuestros días, todo se ha trasmutado siempre en capital europeo o, más tarde, norteamericano, y como tal se ha acumulado y se acumula en los lejanos centros del poder. Todo: la tierra, sus frutos y sus profundidades ricas en minerales, los hombres y su capacidad de trabajo y de consumo, los recursos naturales y los recursos humanos. El modo de producción y la estructura de clases de cada lugar han sido sucesivamente determinados, desde fuera, por su incorporación al engranaje universal del capitalismo. Nuestra derrota estuvo siempre implícita en la victoria ajena; nuestra riqueza ha generado siempre nuestra pobreza para alimentar la prosperidad de otros: los imperios y sus caporales nativos.\n\nGALEANO, E. **Las venas abiertas de América Latina**. Buenos Aires: Siglo Veintiuno Argentina, 2010 (adaptado).\n\nA partir da leitura do texto, infere-se que, ao longo da história da América Latina,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suas relações com as nações exploradoras sempre se caracterizaram por uma rede de dependências.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Seus países sempre foram explorados pelas mesmas nações desde o início do processo de colonização.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Sua sociedade sempre resistiu à aceitação do capitalismo imposto pelo capital estrangeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Suas riquezas sempre foram acumuladas longe dos centros de poder.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Suas riquezas nunca serviram ao enriquecimento das elites locais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.293,
+      "escala": 629,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 93,
+      "idioma": "espanhol",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/93?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "**Quotes of the Day**\nFriday, Sep. 02, 2011\n\n“There probably was a shortage of not just respect and boundaries but also love. But you do need, when they cross the line and break the law, to be very tough.”\n\nBritish Prime Minister DAVID CAMERON, arguing that those involved in the recent riots in England need “tough love” as he vows to “get to grips” with the country’s problem families.\n\nDisponível em: www.time.com. Acesso em: 5 nov. 2011 (adaptado).\n\nA respeito dos tumultos causados na Inglaterra em agosto de 2011, as palavras de alerta de David Cameron têm como foco principal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enfatizar a discriminação contra os jovens britânicos e suas famílias.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Criticar as ações agressivas demonstradas nos tumultos pelos jovens.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Estabelecer relação entre a falta de limites dos jovens e o excesso de amor.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reforçar a ideia de que os jovens precisam de amor, mas também de firmeza.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Descrever o tipo de amor que gera problemas às famílias de jovens britânicos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.939,
+      "escala": 594,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 93,
+      "idioma": "ingles",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/93?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "QUINO.Disponível em: http://mafalda.dreamers.com. Acesso em: 27 fev. 2012.\n\nA personagem Susanita, no último quadro, inventa o vocábulo mujerez, utilizando-se de um recurso de formação de palavra existente na língua espanhola. Na concepção da personagem, o sentido do vocábulo mujerez remete à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falta de feminilidade das mulheres que não se dedicam às tarefas domésticas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Valorização das mulheres que realizam todas as tarefas domésticas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inferioridade das mulheres que praticam as tarefas domésticas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Relevância social das mulheres que possuem empregados para realizar as tarefas domésticas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Independência das mulheres que não se prendem apenas às tarefas domésticas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.255,
+      "escala": 726,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2012/questions/94/3521ef6d-f96a-4fca-9cf2-59d49b83cc04.png"
+    ],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 94,
+      "idioma": "espanhol",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/94?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
     }
   },
@@ -141,16 +414,126 @@
     "imagens": [
       "https://enem.dev/2012/questions/94/3521ef6d-f96a-4fca-9cf2-59d49b83cc04.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
       "area": "LC",
       "cor": "AZUL",
       "numero": 94,
+      "idioma": "ingles",
       "provaMicrodados": "147",
-      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/94",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/94?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "**Las Malvinas son nuestras**\n\nSí, las islas son nuestras. Esta afirmación no se basa en sentimientos nacionalistas, sino en normas y princípios del derecho internacional que, si bien pueden suscitar interpretaciones en contrario por parte de los británicos, tienen la fuerza suficiente para imponerse.\n\nLos británicos optaron por sostener el derecho de autodeterminación de los habitantes de las islas, invocando la resolución 1514 de las Naciones Unidas, que acordó a los pueblos coloniales el derecho de independizarse de los Estados colonialistas. Pero esta tesitura es también indefendible. La citada resolución se aplica a los casos de pueblos sojuzgados por una potencia extranjera, que no es el caso de Malvinas, donde Gran Bretaña procedió a expulsar a los argentinos que residían en las islas, reemplazándolos por súbditos de la corona que pasaron a ser kelpers y luego ciudadanos británicos. Además, según surge de la misma resolución, el principio de autodeterminación no es de aplicación cuando afecta la integridad territorial de un país.\n\nFinalmente, en cuanto a qué haría la Argentina con los habitantes británicos de las islas en caso de ser recuperadas, la respuesta se encuentra en la cláusula transitória primera de la Constitución Nacional sancionada por la reforma de 1994, que impone respetar el modo de vida de los isleños, lo que además significa respetar sus intereses.\n\nMENEM, E. Disponível em: www.lanacion.com.ar. Acesso em: 18 fev. 2012 (adaptado).\n\nO texto apresenta uma opinião em relação à disputa entre e a Argentina e o Reino Unido pela soberania sobre as Ilhas Malvinas, ocupadas pelo Reino Unido em 1833. O autor dessa opinião apoia a reclamação argentina desse arquipélago, argumentando que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A descolonização das ilhas em disputa está contemplada na lei comum britânica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "As Nações Unidas estão desacreditadas devido à ambiguidade das suas resoluções.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio de autodeterminação carece de aplicabilidade no caso das Ilhas Malvinas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A população inglesa compreende a reivindicação nacionalista da administração argentina.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os cidadãos de origem britânica assentados nas ilhas seriam repatriados para a Inglaterra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.058,
+      "escala": 606,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 95,
+      "idioma": "espanhol",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/95?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "Aproveitando-se de seu status social e da possível influência sobre seus fãs, o famoso músico Jimi Hendrix associa, em seu texto, os termos love, power e peace para justificar sua opinião de que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A paz tem o poder de aumentar o amor entre os homens.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O amor pelo poder deve ser menor do que o poder do amor.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O poder deve ser compartilhado entre aqueles que se amam.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O amor pelo poder é capaz de desunir cada vez mais as pessoas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A paz será alcançada quando a busca pelo poder deixar de existir.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.091,
+      "escala": 609,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2012/questions/95-ingles/4a09496e-5f17-4287-a877-c2879e5f9a41.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 95,
+      "idioma": "ingles",
+      "provaMicrodados": "147",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/95?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
     }
   },
@@ -195,6 +578,7 @@
       "https://enem.dev/2012/questions/96/89e6740d-2faf-459f-a737-135fad99b641.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -202,6 +586,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 96,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/96",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -248,6 +633,7 @@
       "https://enem.dev/2012/questions/97/d2cbf9da-51c9-46aa-af58-bcc2e998418d.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -255,6 +641,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 97,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/97",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -299,6 +686,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -306,6 +694,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 98,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/98",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -350,6 +739,7 @@
     "habilidade": 25,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -357,6 +747,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 99,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/99",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -401,6 +792,7 @@
     "habilidade": 9,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -408,6 +800,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 100,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/100",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -452,6 +845,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -459,6 +853,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 101,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/101",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -466,7 +861,7 @@
   },
   {
     "numero": 102,
-    "enunciado": "**Labaredas nas trevas**  \n**Fragmentos do diário secreto de**  \n**Teodor Konrad Nalecz Korzeniowski**\n\n20 DE JULHO \\[1912\\]  \nPeter Sumerville pede-me que escreva um artigo sobre Crane. Envio-lhe uma carta: “Acredite-me, prezado senhor, nenhum jornal ou revista se interessaria por qualquer coisa que eu, ou outra pessoa, escrevesse sobre Stephen Crane. Ririam da sugestão. \\[…\\] Dificilmente encontro alguém, agora, que saiba quem é Stephen Crane ou lembre-se de algo dele. Para os jovens escritores que estão surgindo ele simplesmente não existe.”\n\n20 DE DEZEMBRO \\[1919\\]  \nMuito peixe foi embrulhado pelas folhas de jornal. Sou reconhecido como o maior escritor vivo da língua inglesa. Já se passaram dezenove anos desde que Crane morreu, mas eu não o esqueço. E parece que outros também não. _The London Mercury_ resolveu celebrar os vinte e cinco anos de publicação de um livro que, segundo eles, foi “um fenômeno hoje esquecido” e me pediram um artigo.\n\nFONSECA, R. **Romance negro e outras histórias**. São Paulo: Companhia das Letras, 1992 (fragmento).\n\nNa construção de textos literários, os autores recorrem com frequência a expressões metafóricas. Ao empregar o enunciado metafórico “Muito peixe foi embrulhado pelas folhas de jornal”, pretendeu-se estabelecer, entre os dois fragmentos do texto em questão, uma relação semântica de",
+    "enunciado": "**Labaredas nas trevas**\n**Fragmentos do diário secreto de**\n**Teodor Konrad Nalecz Korzeniowski**\n\n20 DE JULHO \\[1912\\]\nPeter Sumerville pede-me que escreva um artigo sobre Crane. Envio-lhe uma carta: “Acredite-me, prezado senhor, nenhum jornal ou revista se interessaria por qualquer coisa que eu, ou outra pessoa, escrevesse sobre Stephen Crane. Ririam da sugestão. \\[…\\] Dificilmente encontro alguém, agora, que saiba quem é Stephen Crane ou lembre-se de algo dele. Para os jovens escritores que estão surgindo ele simplesmente não existe.”\n\n20 DE DEZEMBRO \\[1919\\]\nMuito peixe foi embrulhado pelas folhas de jornal. Sou reconhecido como o maior escritor vivo da língua inglesa. Já se passaram dezenove anos desde que Crane morreu, mas eu não o esqueço. E parece que outros também não. _The London Mercury_ resolveu celebrar os vinte e cinco anos de publicação de um livro que, segundo eles, foi “um fenômeno hoje esquecido” e me pediram um artigo.\n\nFONSECA, R. **Romance negro e outras histórias**. São Paulo: Companhia das Letras, 1992 (fragmento).\n\nNa construção de textos literários, os autores recorrem com frequência a expressões metafóricas. Ao empregar o enunciado metafórico “Muito peixe foi embrulhado pelas folhas de jornal”, pretendeu-se estabelecer, entre os dois fragmentos do texto em questão, uma relação semântica de",
     "alternativas": [
       {
         "letra": "A",
@@ -503,6 +898,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -510,6 +906,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 102,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/102",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -556,6 +953,7 @@
       "https://enem.dev/2012/questions/103/d0885d4e-22d9-41d4-90d2-7c76f3c41f6f.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -563,6 +961,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 103,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/103",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -570,7 +969,7 @@
   },
   {
     "numero": 104,
-    "enunciado": "Com o texto eletrônico, enfim, parece estar ao alcance de nossos olhos e de nossas mãos um sonho muito antigo da humanidade, que se poderia resumir em duas palavras, universalidade e interatividade.  \nAs luzes, que pensavam que Gutenberg tinha propiciado aos homens uma promessa universal, cultivavam um modo de utopia. Elas imaginavam poder, a partir das práticas privadas de cada um, construir um espaço de intercâmbio crítico das ideias e opiniões. O sonho de Kant era que cada um fosse ao mesmo tempo leitor e autor, que emitisse juízos sobre as instituições de seu tempo, quaisquer que elas fossem e que, ao mesmo tempo, pudesse refletir sobre o juízo emitido pelos outros. Aquilo que outrora só era permitido pela comunicação manuscrita ou a circulação dos impressos encontra hoje um suporte poderoso com o texto eletrônico.\n\nCHARTIER, R. **A aventura do livro**: do leitor ao navegador. São Paulo: Imprensa Oficial do Estado de São Paulo; Unesp, 1998.\n\nNo trecho apresentado, o sociólogo Roger Chartier caracteriza o texto eletrônico como um poderoso suporte que coloca ao alcance da humanidade o antigo sonho de universalidade e interatividade, uma vez que cada um passa a ser, nesse espaço de interação social, leitor e autor ao mesmo tempo. A universalidade e a interatividade que o texto eletrônico possibilita estão diretamente relacionadas à função social da internet de",
+    "enunciado": "Com o texto eletrônico, enfim, parece estar ao alcance de nossos olhos e de nossas mãos um sonho muito antigo da humanidade, que se poderia resumir em duas palavras, universalidade e interatividade.\nAs luzes, que pensavam que Gutenberg tinha propiciado aos homens uma promessa universal, cultivavam um modo de utopia. Elas imaginavam poder, a partir das práticas privadas de cada um, construir um espaço de intercâmbio crítico das ideias e opiniões. O sonho de Kant era que cada um fosse ao mesmo tempo leitor e autor, que emitisse juízos sobre as instituições de seu tempo, quaisquer que elas fossem e que, ao mesmo tempo, pudesse refletir sobre o juízo emitido pelos outros. Aquilo que outrora só era permitido pela comunicação manuscrita ou a circulação dos impressos encontra hoje um suporte poderoso com o texto eletrônico.\n\nCHARTIER, R. **A aventura do livro**: do leitor ao navegador. São Paulo: Imprensa Oficial do Estado de São Paulo; Unesp, 1998.\n\nNo trecho apresentado, o sociólogo Roger Chartier caracteriza o texto eletrônico como um poderoso suporte que coloca ao alcance da humanidade o antigo sonho de universalidade e interatividade, uma vez que cada um passa a ser, nesse espaço de interação social, leitor e autor ao mesmo tempo. A universalidade e a interatividade que o texto eletrônico possibilita estão diretamente relacionadas à função social da internet de",
     "alternativas": [
       {
         "letra": "A",
@@ -607,6 +1006,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -614,6 +1014,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 104,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/104",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -621,7 +1022,7 @@
   },
   {
     "numero": 105,
-    "enunciado": "**O senhor**\n\nCarta a uma jovem que, estando em uma roda em que dava aos presentes o tratamento de você, se dirigiu ao autor chamando-o “o senhor”:  \nSenhora:  \nAquele a quem chamastes senhor aqui está, de peito magoado e cara triste, para vos dizer que senhor ele não é, de nada, nem de ninguém.  \nBem o sabeis, por certo, que a única nobreza do plebeu está em não querer esconder sua condição, e esta nobreza tenho eu. Assim, se entre tantos senhores ricos e nobres a quem chamáveis você escolhestes a mim para tratar de senhor, é bem de ver que só poderíeis ter encontrado essa senhoria nas rugas de minha testa e na prata de meus cabelos. Senhor de muitos anos, eis aí; o território onde eu mando é no país do tempo que foi. Essa palavra “senhor”, no meio de uma frase, ergueu entre nós um muro frio e triste.  \nVi o muro e calei: não é de muito, eu juro, que me acontece essa tristeza; mas também não era a vez primeira.\n\nBRAGA, R. **A borboleta amarela**. Rio de Janeiro: Record, 1991.\n\nA escolha do tratamento que se queira atribuir a alguém geralmente considera as situações específicas de uso social. A violação desse princípio causou um mal-estar no autor da carta. O trecho que descreve essa violação é:",
+    "enunciado": "**O senhor**\n\nCarta a uma jovem que, estando em uma roda em que dava aos presentes o tratamento de você, se dirigiu ao autor chamando-o “o senhor”:\nSenhora:\nAquele a quem chamastes senhor aqui está, de peito magoado e cara triste, para vos dizer que senhor ele não é, de nada, nem de ninguém.\nBem o sabeis, por certo, que a única nobreza do plebeu está em não querer esconder sua condição, e esta nobreza tenho eu. Assim, se entre tantos senhores ricos e nobres a quem chamáveis você escolhestes a mim para tratar de senhor, é bem de ver que só poderíeis ter encontrado essa senhoria nas rugas de minha testa e na prata de meus cabelos. Senhor de muitos anos, eis aí; o território onde eu mando é no país do tempo que foi. Essa palavra “senhor”, no meio de uma frase, ergueu entre nós um muro frio e triste.\nVi o muro e calei: não é de muito, eu juro, que me acontece essa tristeza; mas também não era a vez primeira.\n\nBRAGA, R. **A borboleta amarela**. Rio de Janeiro: Record, 1991.\n\nA escolha do tratamento que se queira atribuir a alguém geralmente considera as situações específicas de uso social. A violação desse princípio causou um mal-estar no autor da carta. O trecho que descreve essa violação é:",
     "alternativas": [
       {
         "letra": "A",
@@ -658,6 +1059,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -665,6 +1067,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 105,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/105",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -711,6 +1114,7 @@
       "https://enem.dev/2012/questions/106/b78a40b0-2de8-405e-b703-6d75231e6814.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -718,6 +1122,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 106,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/106",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -764,6 +1169,7 @@
       "https://enem.dev/2012/questions/107/2ac634d8-e5aa-4c62-a144-f90965fd3c2c.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -771,6 +1177,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 107,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/107",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -817,6 +1224,7 @@
       "https://enem.dev/2012/questions/108/15fc4d74-0535-4c12-85d6-9ea734e2ba78.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -824,6 +1232,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 108,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/108",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -870,6 +1279,7 @@
       "https://enem.dev/2012/questions/109/b14d5915-3369-4982-bc3e-820b65efe31e.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -877,6 +1287,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 109,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/109",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -921,6 +1332,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -928,6 +1340,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 110,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/110",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -935,7 +1348,7 @@
   },
   {
     "numero": 111,
-    "enunciado": "**TEXTO I**\n\nA característica da oralidade radiofônica, então, seria aquela que propõe o diálogo com o ouvinte: a simplicidade, no sentido da escolha lexical; a concisão e coerência, que se traduzem em um texto curto, em linguagem coloquial e com organização direta; e o ritmo, marcado pelo locutor, que deve ser o mais natural (do diálogo). É esta organização que vai “reger” a veiculação da mensagem, seja ela interpretada ou de improviso, com objetivo de dar melodia à transmissão oral, dar emoção, personalidade ao relato de fato.\n\nVELHO, A. P. M. **A linguagem do rádio multimídia**. Disponível em: www.bocc.ubi.pt. Acesso em: 27 fev. 2012.\n\n**TEXTO II**\n\nA dois passos do paraíso  \nA Rádio Atividade leva até vocês  \nMais um programa da séria série  \n“Dedique uma canção a quem você ama”  \nEu tenho aqui em minhas mãos uma carta  \nUma carta d’uma ouvinte que nos escreve  \nE assina com o singelo pseudônimo de  \n“Mariposa Apaixonada de Guadalupe”  \nEla nos conta que no dia que seria  \no dia mais feliz de sua vida  \nArlindo Orlando, seu noivo  \nUm caminhoneiro conhecido da pequena e  \nPacata cidade de Miracema do Norte  \nFugiu, desapareceu, escafedeu-se  \nOh! Arlindo Orlando volte  \nOnde quer que você se encontre  \nVolte para o seio de sua amada  \nEla espera ver aquele caminhão voltando  \nDe faróis baixos e para-choque duro…\n\nBLITZ. Disponível em: http://letras.terra.com.br. Acesso em: 28 fev. 2012 (fragmento).\n\nEm relação ao Texto I, que analisa a linguagem do rádio, o Texto II apresenta, em uma letra de canção,",
+    "enunciado": "**TEXTO I**\n\nA característica da oralidade radiofônica, então, seria aquela que propõe o diálogo com o ouvinte: a simplicidade, no sentido da escolha lexical; a concisão e coerência, que se traduzem em um texto curto, em linguagem coloquial e com organização direta; e o ritmo, marcado pelo locutor, que deve ser o mais natural (do diálogo). É esta organização que vai “reger” a veiculação da mensagem, seja ela interpretada ou de improviso, com objetivo de dar melodia à transmissão oral, dar emoção, personalidade ao relato de fato.\n\nVELHO, A. P. M. **A linguagem do rádio multimídia**. Disponível em: www.bocc.ubi.pt. Acesso em: 27 fev. 2012.\n\n**TEXTO II**\n\nA dois passos do paraíso\nA Rádio Atividade leva até vocês\nMais um programa da séria série\n“Dedique uma canção a quem você ama”\nEu tenho aqui em minhas mãos uma carta\nUma carta d’uma ouvinte que nos escreve\nE assina com o singelo pseudônimo de\n“Mariposa Apaixonada de Guadalupe”\nEla nos conta que no dia que seria\no dia mais feliz de sua vida\nArlindo Orlando, seu noivo\nUm caminhoneiro conhecido da pequena e\nPacata cidade de Miracema do Norte\nFugiu, desapareceu, escafedeu-se\nOh! Arlindo Orlando volte\nOnde quer que você se encontre\nVolte para o seio de sua amada\nEla espera ver aquele caminhão voltando\nDe faróis baixos e para-choque duro…\n\nBLITZ. Disponível em: http://letras.terra.com.br. Acesso em: 28 fev. 2012 (fragmento).\n\nEm relação ao Texto I, que analisa a linguagem do rádio, o Texto II apresenta, em uma letra de canção,",
     "alternativas": [
       {
         "letra": "A",
@@ -972,6 +1385,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -979,6 +1393,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 111,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/111",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -986,7 +1401,7 @@
   },
   {
     "numero": 112,
-    "enunciado": "Ai, palavras, ai, palavras  \nque estranha potência a vossa!\n\nTodo o sentido da vida  \nprincipia a vossa porta:  \no mel do amor cristaliza  \nseu perfume em vossa rosa;  \nsois o sonho e sois a audácia,  \ncalúnia, fúria, derrota…\n\nA liberdade das almas,  \nai! Com letras se elabora…  \nE dos venenos humanos  \nsois a mais fina retorta:  \nfrágil, frágil, como o vidro  \ne mais que o aço poderosa!  \nReis, impérios, povos, tempos,  \npelo vosso impulso rodam…\n\nMEIRELES, C. **Obra poética**. Rio de Janeiro: Nova Aguilar, 1985 (fragmento).\n\nO fragmento destacado foi transcrito do Romanceiro da Inconfidência, de Cecília Meireles. Centralizada no episódio histórico da Inconfidência Mineira, a obra, no entanto, elabora uma reflexão mais ampla sobre a seguinte relação entre o homem e a linguagem:",
+    "enunciado": "Ai, palavras, ai, palavras\nque estranha potência a vossa!\n\nTodo o sentido da vida\nprincipia a vossa porta:\no mel do amor cristaliza\nseu perfume em vossa rosa;\nsois o sonho e sois a audácia,\ncalúnia, fúria, derrota…\n\nA liberdade das almas,\nai! Com letras se elabora…\nE dos venenos humanos\nsois a mais fina retorta:\nfrágil, frágil, como o vidro\ne mais que o aço poderosa!\nReis, impérios, povos, tempos,\npelo vosso impulso rodam…\n\nMEIRELES, C. **Obra poética**. Rio de Janeiro: Nova Aguilar, 1985 (fragmento).\n\nO fragmento destacado foi transcrito do Romanceiro da Inconfidência, de Cecília Meireles. Centralizada no episódio histórico da Inconfidência Mineira, a obra, no entanto, elabora uma reflexão mais ampla sobre a seguinte relação entre o homem e a linguagem:",
     "alternativas": [
       {
         "letra": "A",
@@ -1023,6 +1438,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1030,6 +1446,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 112,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/112",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1037,7 +1454,7 @@
   },
   {
     "numero": 113,
-    "enunciado": "Pote Cru é meu pastor. Ele me guiará.  \nEle está comprometido de monge.  \nDe tarde deambula no azedal entre torsos de  \ncachorro, trampas, trapos, panos de regra, couros,  \nde rato ao podre, vísceras de piranhas, baratas  \nalbinas, dálias secas, vergalhos de lagartos,  \nlinguetas de sapatos, aranhas dependuradas em  \ngotas de orvalho etc. etc.  \nPote Cru, ele dormia nas ruínas de um convento  \nFoi encontrado em osso.  \nEle tinha uma voz de oratórios perdidos.\n\nBARROS, M. **Retrato do artista quando coisa**. Rio de Janeiro: Record, 2002.\n\nAo estabelecer uma relação com o texto bíblico nesse poema, o eu lírico identifica-se com Pote Cru porque",
+    "enunciado": "Pote Cru é meu pastor. Ele me guiará.\nEle está comprometido de monge.\nDe tarde deambula no azedal entre torsos de\ncachorro, trampas, trapos, panos de regra, couros,\nde rato ao podre, vísceras de piranhas, baratas\nalbinas, dálias secas, vergalhos de lagartos,\nlinguetas de sapatos, aranhas dependuradas em\ngotas de orvalho etc. etc.\nPote Cru, ele dormia nas ruínas de um convento\nFoi encontrado em osso.\nEle tinha uma voz de oratórios perdidos.\n\nBARROS, M. **Retrato do artista quando coisa**. Rio de Janeiro: Record, 2002.\n\nAo estabelecer uma relação com o texto bíblico nesse poema, o eu lírico identifica-se com Pote Cru porque",
     "alternativas": [
       {
         "letra": "A",
@@ -1074,6 +1491,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1081,6 +1499,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 113,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/113",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1127,6 +1546,7 @@
       "https://enem.dev/2012/questions/114/0e1c5ddc-b61a-440e-823d-d96e6a614c3f.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1134,6 +1554,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 114,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/114",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1141,7 +1562,7 @@
   },
   {
     "numero": 115,
-    "enunciado": "**Aqui é o país do futebol**\n\nBrasil está vazio na tarde de domingo, né?  \nOlha o sambão, aqui é o país do futebol  \n\\[…\\]  \nNo fundo desse país  \nAo longo das avenidas  \nNos campos de terra e grama  \nBrasil só é futebol  \nNesses noventa minutos  \nDe emoção e alegria  \nEsqueço a casa e o trabalho  \nA vida fica lá fora  \nDinheiro fica lá fora  \nA cama fica lá fora  \nA mesa fica lá fora  \nSalário fica lá fora  \nA fome fica lá fora  \nA comida fica lá fora  \nA vida fica lá fora  \nE tudo fica lá fora\n\nSIMONAL, W. **Aqui é o país do futebol**. Disponível em: www.vagalume.com.br. Acesso em: 27 out. 2011 (fragmento).\n\nNa letra da canção Aqui é o país do futebol, de Wilson Simonal, o futebol, como elemento da cultura corporal de movimento e expressão da tradição nacional, é apresentado de forma crítica e emancipada devido ao fato de",
+    "enunciado": "**Aqui é o país do futebol**\n\nBrasil está vazio na tarde de domingo, né?\nOlha o sambão, aqui é o país do futebol\n\\[…\\]\nNo fundo desse país\nAo longo das avenidas\nNos campos de terra e grama\nBrasil só é futebol\nNesses noventa minutos\nDe emoção e alegria\nEsqueço a casa e o trabalho\nA vida fica lá fora\nDinheiro fica lá fora\nA cama fica lá fora\nA mesa fica lá fora\nSalário fica lá fora\nA fome fica lá fora\nA comida fica lá fora\nA vida fica lá fora\nE tudo fica lá fora\n\nSIMONAL, W. **Aqui é o país do futebol**. Disponível em: www.vagalume.com.br. Acesso em: 27 out. 2011 (fragmento).\n\nNa letra da canção Aqui é o país do futebol, de Wilson Simonal, o futebol, como elemento da cultura corporal de movimento e expressão da tradição nacional, é apresentado de forma crítica e emancipada devido ao fato de",
     "alternativas": [
       {
         "letra": "A",
@@ -1178,6 +1599,7 @@
     "habilidade": 11,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1185,6 +1607,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 115,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/115",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1231,6 +1654,7 @@
       "https://enem.dev/2012/questions/116/13c70287-9094-4ed9-ac83-833d323390a4.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1238,6 +1662,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 116,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/116",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1245,7 +1670,7 @@
   },
   {
     "numero": 117,
-    "enunciado": "**Das irmãs**\n\nos meus irmãos sujando-se  \nna lama  \ne eis-me aqui cercada  \nde alvura e enxovais\n\neles se provocando e provando  \ndo fogo  \ne eu aqui fechada  \nprovendo a comida\n\neles se lambuzando e arrotando  \nna mesa  \ne eu a temperada  \nservindo, contida\n\nos meus irmãos jogando-se  \nna cama  \ne eis-me afiançada  \npor dote e marido\n\nQUEIROZ, S. **O sacro ofício**. Belo Horizonte: Comunicação, 1980.\n\nO poema de Sonia Queiroz apresenta uma voz lírica feminina que contrapõe o estilo de vida do homem ao modelo reservado à mulher. Nessa contraposição, ela conclui que",
+    "enunciado": "**Das irmãs**\n\nos meus irmãos sujando-se\nna lama\ne eis-me aqui cercada\nde alvura e enxovais\n\neles se provocando e provando\ndo fogo\ne eu aqui fechada\nprovendo a comida\n\neles se lambuzando e arrotando\nna mesa\ne eu a temperada\nservindo, contida\n\nos meus irmãos jogando-se\nna cama\ne eis-me afiançada\npor dote e marido\n\nQUEIROZ, S. **O sacro ofício**. Belo Horizonte: Comunicação, 1980.\n\nO poema de Sonia Queiroz apresenta uma voz lírica feminina que contrapõe o estilo de vida do homem ao modelo reservado à mulher. Nessa contraposição, ela conclui que",
     "alternativas": [
       {
         "letra": "A",
@@ -1282,6 +1707,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1289,6 +1715,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 117,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/117",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1296,7 +1723,7 @@
   },
   {
     "numero": 118,
-    "enunciado": "**O sedutor médio**\n\nVamos juntar  \nNossas rendas e  \nexpectativas de vida  \nquerida,  \no que me dizes?  \nTer 2, 3 filhos  \ne ser meio felizes?\n\nVERISSIMO, L. F. **Poesia numa hora dessas?!** Rio de Janeiro: Objetiva, 2002.\n\nNo poema O sedutor médio, é possível reconhecer a presença de posições críticas",
+    "enunciado": "**O sedutor médio**\n\nVamos juntar\nNossas rendas e\nexpectativas de vida\nquerida,\no que me dizes?\nTer 2, 3 filhos\ne ser meio felizes?\n\nVERISSIMO, L. F. **Poesia numa hora dessas?!** Rio de Janeiro: Objetiva, 2002.\n\nNo poema O sedutor médio, é possível reconhecer a presença de posições críticas",
     "alternativas": [
       {
         "letra": "A",
@@ -1333,6 +1760,7 @@
     "habilidade": 4,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1340,6 +1768,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 118,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/118",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1384,6 +1813,7 @@
     "habilidade": 24,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1391,6 +1821,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 119,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/119",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1435,6 +1866,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1442,6 +1874,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 120,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/120",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1488,6 +1921,7 @@
       "https://enem.dev/2012/questions/121/0906b53b-6578-4bbf-9544-7d5946fec2ae.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1495,6 +1929,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 121,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/121",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1541,6 +1976,7 @@
       "https://enem.dev/2012/questions/122/56b6ba08-f28d-4c6e-9548-dae589b81f9c.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1548,6 +1984,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 122,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/122",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1592,6 +2029,7 @@
     "habilidade": 27,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1599,6 +2037,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 123,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/123",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1643,6 +2082,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1650,6 +2090,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 124,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/124",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1657,7 +2098,7 @@
   },
   {
     "numero": 125,
-    "enunciado": "A marcha galopante das tecnologias teve por primeiro resultado multiplicar em enormes proporções tanto a massa das notícias que circulam quanto as ocasiões de sermos solicitados por elas. Os profissionais têm tendência a considerar esta inflação como automaticamente favorável ao público, pois dela tiram proveito e tornam-se obcecados pela imagem liberal do grande mercado em que cada um, dotado de luzes por definição iguais, pode fazer sua escolha em toda liberdade. Isso jamais foi realizado e tende a nunca ser. Na verdade, os leitores, ouvintes, telespectadores, mesmo se se abandonam a sua bulimia\\*, não são realmente nutridos por esta indigesta sopa de informações e sua busca finaliza em frustração. Cada vez mais frequentemente, até, eles ressentem esse bombardeio de riquezas falsas como agressivo e se refugiam na resistência a toda ou qualquer informação.\n\nO verdadeiro problema das sociedades pós-industriais não é a penúria\\*\\*, mas a abundância. As sociedades modernas têm a sua disposição muito mais do que necessitam em objetos, informações e contatos. Ou, mais exatamente, disso resulta uma desarmonia entre uma oferta, não excessiva, mas incoerente, e uma demanda que, confusamente, exige uma escolha muito mais rápida a absorver. Por isso os órgãos de informação devem escolher, uma vez que o homem contemporâneo apressado, estressado, desorientado busca uma linha diretriz, uma classificação mais clara, um condensado do que é realmente importante.\n\n(\\*) fome excessiva, desejo descontrolado.  \n(\\*\\*) miséria, pobreza.\n\nVOYENNE, B. **Informação hoje**. Lisboa: Armand Colin, 1975 (adaptado).\n\nCom o uso das novas tecnologias, os domínios midiáticos obtiveram um avanço maior e uma presença mais atuante junto ao público, marcada ora pela quase simultaneidade das informações, ora pelo uso abundante de imagens. A relação entre as necessidades da sociedade moderna e a oferta de informação, segundo o texto, é desarmônica, porque",
+    "enunciado": "A marcha galopante das tecnologias teve por primeiro resultado multiplicar em enormes proporções tanto a massa das notícias que circulam quanto as ocasiões de sermos solicitados por elas. Os profissionais têm tendência a considerar esta inflação como automaticamente favorável ao público, pois dela tiram proveito e tornam-se obcecados pela imagem liberal do grande mercado em que cada um, dotado de luzes por definição iguais, pode fazer sua escolha em toda liberdade. Isso jamais foi realizado e tende a nunca ser. Na verdade, os leitores, ouvintes, telespectadores, mesmo se se abandonam a sua bulimia\\*, não são realmente nutridos por esta indigesta sopa de informações e sua busca finaliza em frustração. Cada vez mais frequentemente, até, eles ressentem esse bombardeio de riquezas falsas como agressivo e se refugiam na resistência a toda ou qualquer informação.\n\nO verdadeiro problema das sociedades pós-industriais não é a penúria\\*\\*, mas a abundância. As sociedades modernas têm a sua disposição muito mais do que necessitam em objetos, informações e contatos. Ou, mais exatamente, disso resulta uma desarmonia entre uma oferta, não excessiva, mas incoerente, e uma demanda que, confusamente, exige uma escolha muito mais rápida a absorver. Por isso os órgãos de informação devem escolher, uma vez que o homem contemporâneo apressado, estressado, desorientado busca uma linha diretriz, uma classificação mais clara, um condensado do que é realmente importante.\n\n(\\*) fome excessiva, desejo descontrolado.\n(\\*\\*) miséria, pobreza.\n\nVOYENNE, B. **Informação hoje**. Lisboa: Armand Colin, 1975 (adaptado).\n\nCom o uso das novas tecnologias, os domínios midiáticos obtiveram um avanço maior e uma presença mais atuante junto ao público, marcada ora pela quase simultaneidade das informações, ora pelo uso abundante de imagens. A relação entre as necessidades da sociedade moderna e a oferta de informação, segundo o texto, é desarmônica, porque",
     "alternativas": [
       {
         "letra": "A",
@@ -1694,6 +2135,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1701,6 +2143,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 125,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/125",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1708,7 +2151,7 @@
   },
   {
     "numero": 126,
-    "enunciado": "**Logia e mitologia**\n\nMeu coração  \nde mil e novecentos e setenta e dois  \njá não palpita fagueiro  \nsabe que há morcegos de pesadas olheiras  \nque há cabras malignas que há  \ncardumes de hienas infiltradas  \nno vão da unha na alma  \num porco belicoso de radar  \ne que sangra e ri  \ne que sangra e ri  \na vida anoitece provisória  \ncenturiões sentinelas  \ndo Oiapoque ao Chuí.\n\nCACASO. **Lero-lero**. Rio de Janeiro: 7Letras; São Paulo: Cosac & Naify, 2002.\n\nO título do poema explora a expressividade de termos que representam o conflito do momento histórico vivido pelo poeta na década de 1970. Nesse contexto, é correto afirmar que",
+    "enunciado": "**Logia e mitologia**\n\nMeu coração\nde mil e novecentos e setenta e dois\njá não palpita fagueiro\nsabe que há morcegos de pesadas olheiras\nque há cabras malignas que há\ncardumes de hienas infiltradas\nno vão da unha na alma\num porco belicoso de radar\ne que sangra e ri\ne que sangra e ri\na vida anoitece provisória\ncenturiões sentinelas\ndo Oiapoque ao Chuí.\n\nCACASO. **Lero-lero**. Rio de Janeiro: 7Letras; São Paulo: Cosac & Naify, 2002.\n\nO título do poema explora a expressividade de termos que representam o conflito do momento histórico vivido pelo poeta na década de 1970. Nesse contexto, é correto afirmar que",
     "alternativas": [
       {
         "letra": "A",
@@ -1745,6 +2188,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1752,6 +2196,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 126,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/126",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1796,6 +2241,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1803,6 +2249,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 127,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/127",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1810,7 +2257,7 @@
   },
   {
     "numero": 128,
-    "enunciado": "**Entrevista com Marcos Bagno**\n\nPode parecer inacreditável, mas muitas das prescrições da pedagogia tradicional da língua até hoje se baseiam nos usos que os escritores portugueses do século XIX faziam da língua. Se tantas pessoas condenam, por exemplo, o uso do verbo “ter” no lugar de “haver”, como em “hoje tem feijoada”, é simplesmente porque os portugueses, em dado momento da história de sua língua, deixaram de fazer esse uso existencial do verbo “ter”.  \nNo entanto, temos registros escritos da época medieval em que aparecem centenas desses usos. Se nós, brasileiros, assim como os falantes africanos de português, usamos até hoje o verbo “ter” como existencial é porque recebemos esses usos de nossos ex-colonizadores. Não faz sentido imaginar que brasileiros, angolanos e moçambicanos decidiram se juntar para “errar” na mesma coisa. E assim acontece com muitas outras coisas: regências verbais, colocação pronominal, concordâncias nominais e verbais etc. Temos uma língua própria, mas ainda somos obrigados a seguir uma gramática normativa de outra língua diferente. Às vésperas de comemorarmos nosso bicentenário de independência, não faz sentido continuar rejeitando o que é nosso para só aceitar o que vem de fora.  \nNão faz sentido rejeitar a língua de 190 milhões de brasileiros para só considerar certo o que é usado por menos de dez milhões de portugueses. Só na cidade de São Paulo temos mais falantes de português que em toda a Europa!\n\n**Informativo Parábola Editorial**, s/d.\n\nNa entrevista, o autor defende o uso de formas linguísticas coloquiais e faz uso da norma padrão em toda a extensão do texto. Isso pode ser explicado pelo fato de que ele",
+    "enunciado": "**Entrevista com Marcos Bagno**\n\nPode parecer inacreditável, mas muitas das prescrições da pedagogia tradicional da língua até hoje se baseiam nos usos que os escritores portugueses do século XIX faziam da língua. Se tantas pessoas condenam, por exemplo, o uso do verbo “ter” no lugar de “haver”, como em “hoje tem feijoada”, é simplesmente porque os portugueses, em dado momento da história de sua língua, deixaram de fazer esse uso existencial do verbo “ter”.\nNo entanto, temos registros escritos da época medieval em que aparecem centenas desses usos. Se nós, brasileiros, assim como os falantes africanos de português, usamos até hoje o verbo “ter” como existencial é porque recebemos esses usos de nossos ex-colonizadores. Não faz sentido imaginar que brasileiros, angolanos e moçambicanos decidiram se juntar para “errar” na mesma coisa. E assim acontece com muitas outras coisas: regências verbais, colocação pronominal, concordâncias nominais e verbais etc. Temos uma língua própria, mas ainda somos obrigados a seguir uma gramática normativa de outra língua diferente. Às vésperas de comemorarmos nosso bicentenário de independência, não faz sentido continuar rejeitando o que é nosso para só aceitar o que vem de fora.\nNão faz sentido rejeitar a língua de 190 milhões de brasileiros para só considerar certo o que é usado por menos de dez milhões de portugueses. Só na cidade de São Paulo temos mais falantes de português que em toda a Europa!\n\n**Informativo Parábola Editorial**, s/d.\n\nNa entrevista, o autor defende o uso de formas linguísticas coloquiais e faz uso da norma padrão em toda a extensão do texto. Isso pode ser explicado pelo fato de que ele",
     "alternativas": [
       {
         "letra": "A",
@@ -1847,6 +2294,7 @@
     "habilidade": 27,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1854,6 +2302,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 128,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/128",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1898,6 +2347,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1905,6 +2355,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 129,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/129",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -1912,7 +2363,7 @@
   },
   {
     "numero": 130,
-    "enunciado": "A substituição do haver por ter em construções existenciais, no português do Brasil, corresponde a um dos processos mais característicos da história da língua portuguesa, paralelo ao que já ocorrera em relação à ampliação do domínio de ter na área semântica de “posse”, no final da fase arcaica. Mattos e Silva (2001:136) analisa as vitórias de ter sobre haver e discute a emergência de ter existencial, tomando por base a obra pedagógica de João de Barros. Em textos escritos nos anos quarenta e cinquenta do século XVI, encontram-se evidências, embora raras, tanto de ter “existencial”, não mencionado pelos clássicos estudos de sintaxe histórica, quanto de haver como verbo existencial com concordância, lembrado por Ivo Castro, e anotado como “novidade” no século XVIII por Said Ali.  \nComo se vê, nada é categórico e um purismo estreito só revela um conhecimento deficiente da língua. Há mais perguntas que respostas. Pode-se conceber uma norma única e prescritiva? É válido confundir o bom uso e a norma com a própria língua e dessa forma fazer uma avaliação crítica e hierarquizante de outros usos e, através deles, dos usuários? Substitui-se uma norma por outra?\n\nCALLOU, D. A propósito de norma, correção e preconceito linguístico: do presente para o passado. In: **Cadernos de Letras da UFF**, n. 36, 2008. Disponível em: www.uff.br. Acesso em: 26 fev. 2012 (adaptado).\n\nPara a autora, a substituição de “haver” por “ter” em diferentes contextos evidencia que",
+    "enunciado": "A substituição do haver por ter em construções existenciais, no português do Brasil, corresponde a um dos processos mais característicos da história da língua portuguesa, paralelo ao que já ocorrera em relação à ampliação do domínio de ter na área semântica de “posse”, no final da fase arcaica. Mattos e Silva (2001:136) analisa as vitórias de ter sobre haver e discute a emergência de ter existencial, tomando por base a obra pedagógica de João de Barros. Em textos escritos nos anos quarenta e cinquenta do século XVI, encontram-se evidências, embora raras, tanto de ter “existencial”, não mencionado pelos clássicos estudos de sintaxe histórica, quanto de haver como verbo existencial com concordância, lembrado por Ivo Castro, e anotado como “novidade” no século XVIII por Said Ali.\nComo se vê, nada é categórico e um purismo estreito só revela um conhecimento deficiente da língua. Há mais perguntas que respostas. Pode-se conceber uma norma única e prescritiva? É válido confundir o bom uso e a norma com a própria língua e dessa forma fazer uma avaliação crítica e hierarquizante de outros usos e, através deles, dos usuários? Substitui-se uma norma por outra?\n\nCALLOU, D. A propósito de norma, correção e preconceito linguístico: do presente para o passado. In: **Cadernos de Letras da UFF**, n. 36, 2008. Disponível em: www.uff.br. Acesso em: 26 fev. 2012 (adaptado).\n\nPara a autora, a substituição de “haver” por “ter” em diferentes contextos evidencia que",
     "alternativas": [
       {
         "letra": "A",
@@ -1949,6 +2400,7 @@
     "habilidade": 22,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1956,6 +2408,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 130,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/130",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -2002,6 +2455,7 @@
       "https://enem.dev/2012/questions/131/b9d98d9e-3a0b-4ec3-88f4-05fc7d517e47.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2009,6 +2463,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 131,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/131",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -2053,6 +2508,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2060,6 +2516,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 132,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/132",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -2106,6 +2563,7 @@
       "https://enem.dev/2012/questions/133/882acc28-987a-4ffa-9dbb-d7b96a263b60.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2113,6 +2571,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 133,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/133",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -2157,6 +2616,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2164,6 +2624,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 134,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/134",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
@@ -2171,7 +2632,7 @@
   },
   {
     "numero": 135,
-    "enunciado": "**O trovador**\n\nSentimentos em mim do asperamente  \ndos homens das primeiras eras…  \nAs primaveras do sarcasmo  \nintermitentemente no meu coração arlequinal…  \nIntermitentemente…  \nOutras vezes é um doente, um frio  \nna minha alma doente como um longo som redondo…  \nCantabona! Cantabona!  \nDlorom…  \nSou um tupi tangendo um alaúde!\n\nANDRADE, M. In: MANFIO, D. Z. (Org.) **Poesias completas de Mário de Andrade**. Belo Horizonte: Itatiaia, 2005.\n\nCara ao Modernismo, a questão da identidade nacional é recorrente na prosa e na poesia de Mário de Andrade. Em O trovador, esse aspecto é",
+    "enunciado": "**O trovador**\n\nSentimentos em mim do asperamente\ndos homens das primeiras eras…\nAs primaveras do sarcasmo\nintermitentemente no meu coração arlequinal…\nIntermitentemente…\nOutras vezes é um doente, um frio\nna minha alma doente como um longo som redondo…\nCantabona! Cantabona!\nDlorom…\nSou um tupi tangendo um alaúde!\n\nANDRADE, M. In: MANFIO, D. Z. (Org.) **Poesias completas de Mário de Andrade**. Belo Horizonte: Itatiaia, 2005.\n\nCara ao Modernismo, a questão da identidade nacional é recorrente na prosa e na poesia de Mário de Andrade. Em O trovador, esse aspecto é",
     "alternativas": [
       {
         "letra": "A",
@@ -2208,6 +2669,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2215,6 +2677,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 135,
+      "idioma": null,
       "provaMicrodados": "147",
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/135",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"

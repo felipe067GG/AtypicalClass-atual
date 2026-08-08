@@ -1,0 +1,2409 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Se reunieron en un volumen todas las entrevistas\ndadas por el poeta y dramaturgo Federico García Lorca.\nLorca concedió 133 entrevistas; leyéndolas se sabrá\nqué estaba por detrás de la poética del escritor andaluz.\nSobre su obra declaró en una de ellas: “No he sido nunca\npoeta de minoría. He tratado de poner en mis poemas\nlo de todos los tiempos, lo permanente, lo humano.\nA mí me ataca lo humano, es el elemento fundamental en\ntoda obra de arte”. Y en otra dijo: “Hoy no interesa más\nque una problemática: lo social. La obra que no siga esa\ndirección está condenada al fracaso, aunque sea muy\nbuena”. En su última entrevista, de junio de 1936, Lorca\nse muestra profético: “Ni el poeta ni nadie tiene la clave y\nel secreto del mundo. Quiero ser bueno. Sé que la poesía\neleva y creo firmemente que si hay un más allá tendré la\nagradable sorpresa de encontrarme con él. Pero el dolor\ndel hombre y la injusticia constante que mana del mundo,\ny mi propio cuerpo y mi propio pensamiento, me evitan\ntrasladar mi casa a las estrellas”\n\nAYÉN, X. Retrato del poeta como “muchachón gitanazo”. Disponivel em: www.clarin.com.\nAcesso em: 8 dez. 2017 (adaptado),\n\nEsse trecho da resenha de um livro de entrevistas concedidas por Federico García Lorca tem por finalidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ressaltar a atração do entrevistado por questões misticas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Divulgar a comoção das elites com as obras do entrevistado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Salientar o compromisso do entrevistado com as questões sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mostrar a atualidade das bras poéticas e teatrais do entrevistado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criticar o interesse do entrevistado por particularidades da vida humana.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.26863,
+      "escala": 527,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 1,
+      "idioma": "espanhol",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/1?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 1,
+    "enunciado": "We are now a nation obsessed with the cult of celebrity. Celebrities have replaced the classic notion of the hero. But instead of being respected for talent, courage or intelligence, it is money, style and image the deciding factors in what commands respect. Image is evrything. Their image is painstakingly constructed by a multitude of different image consultants to carve out the most profitable celebrity they can. Then society is right behind them, believing in evrything that celebrity believes in.\nCompanies know that people will buy a product if a celebrity has too. It is as if the person buying the product feels that they now have some kind of connection with the celebrity and that some of their perceived happiness will now be passed onto the consumer. So to look at it one way, the cult of celebrity is really nothing more than a sophisticated marketing scheme. Celeebrities though cannot be blamed for all negative aspects of society. In reality society is to blame. We are the people who seemed to have lost the ability to think for ourselves. I suppose it’s easier to be told what to think, rather than challenging what we are told. The reason we are swamped by celebrity is because there is a demand for it.\n\nDisponível em: www.pitlanemagazine.com\nAcesso em: 7 dez.2017 (adaptado)\n\nO texto, que aborda questões referentes ao tema do culto à cebebridade, tem o objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Destacar os mérios das celebridades.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Criticar o consumismo das celebridades.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ressaltar a necessidade de reflexão dos fãs.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Culpar as celebridades pela obsessão dos fãs.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valoriar o marketing pessoal das celebridades.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.71646,
+      "escala": 572,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 1,
+      "idioma": "ingles",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/1?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "**Amuleto**\n\nLo único cierto es que llegué a México en 1965 y me planté en casa de León Felipe y en casa de Pedro Garfias y les dije aquí estoy para lo que gusten mandar. Y les debí de caer simpática, porque antipática no soy, aunque a veces soy pesada, pero antipática nunca. Y lo primero que hice fue coger una escoba y ponerme a barrer el suelo de sus casas y luego a limpiar las ventanas y cada vez que podía les pedía dinero y les hacia compra. Y ellos me decían con ese tono español tan peculiar, esa musiquilla distinta que no los abandonó nunca, como si encircularan las zetas y las ces y como si dejaran a las eses más huérfanas y libidinosas que nunca, Auxilio, me decian, deja ya de trasegar por el piso, Auxilio, deja esos papeles tranquilos, mujer, que el polvo siempre se ha avenido con la literatura.\n\nBOLAÑO, R. A. Tres novelas. Barcelona: Circulo de Lectores, 2003.\n\nNo fragmento do romance, a uruguaia Auxilio narra a experiência que viveu no México ao trabalhar voluntariamente para dois escritores espanhóis. Com base na relação com os escritores, ela reflete sobre a(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Variação linguística do espanhol.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sujeira dos livros de literatura.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Distintas maneiras de acolher do mexicano.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Orientações sobre a limpeza das casas dos espanhóis.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dificuldades de comunicação entre patrão e empregada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.12765,
+      "escala": 613,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 2,
+      "idioma": "espanhol",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/2?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "The British (serves 60 million)\n\nTake some Picts, Celts and Silures\nAnda let them settle,\nThen overrun them with Roman conquerors.\nRemove the Romans after approximateky 400 years\nAdd lots of Normam French to some\nAngle, Saxons, Jutes and Vikings, then stir vigorously.\n\\[…\\]\nSprinkle some fresh Indians, Malaysians, Bosnians,\nIraqis and Bangladeshis together with some\nAfghans, Spanish, Turkish, Kurdish, Japanese\nAnd Palestinians\nThen add to the melting pot.\nLeave the ingredients to simmer.\nAs they mix and blend allow theis languages to flourish\nBinding them together with English.\nAllow time to be cool.\nAdd some ulity, understanding, and respect for the future,\nServe with justicee\nAnd enjoy.\n\n**Note**: All the ingredients are equally important. Treating one ingredient better than another will leave a bitter unpleasant taste.\n\n**Warning**: An unequal spread of spread of justice will damage the people and cause pais. Give justice and quality to all.\n\nDisponível em: www.benjaminzephaniah.com\nAcesso em: 12 dez. 2018 (fragmento)\n\nAo descrever o processo de formação da Inglaterra, o autor recorre a características de outro gênero textual para evidenciar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A riqueza da mistura cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Um legado de origem geográfica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Um impactto de natureza histórica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Um problema de estratificação social.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A questão da intolerância linguística.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.34935,
+      "escala": 535,
+      "faixa": "Fácil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 2,
+      "idioma": "ingles",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/2?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "Hoy, en cuestión de segundos uno es capaz de conocer la vida de un individuo o las actividades que lleva a cabo sin necesidad de contacto personal; las RRSS tienen la poderosa virtud de convocar concentraciones de gentes con idearios comunes y generar movimientos como la Primavera Árabe, por ejemplo.\nBajo ese parámetro, cualquier incidente puede ser inmediatamente reportado por grabación o filmación, por lo que a los aparatos celulares, más allá de su utilidad en términos de conversación, habria que calificarlos como “la guillotina del siglo XXI”.\nAsí es. Son éstos los que han pasado a convertirse en artefactos con cuyo uso se han develado conversaciones, acuerdos, negociados, chantajes y un sin fin de hechos que han dado curso a procesos de naturaleza legal e investigativa que han tumbado gobiernos, empresas, empresarios, políticos y que, incluso, ha servido en un caso reciente, para que un inocente recupere su libertad tras cuatro años de injusto encierro.\n\nDisponível em: https:/elpotosi.net. Acesso em: 24. jun. 2021.\n\nO texto trata da evolução inerente às funcionalidades de recursos tecnológicos. A expressão “la guillotina del siglo XXI” destaca que os celulares de hoje podem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oferecer recursos com funções múltiplas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reunir usuários com ideias semelhantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Divulgar informação instantânea.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Organizar movimentos sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Assumir utilidade jurídica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.05526,
+      "escala": 606,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 3,
+      "idioma": "espanhol",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/3?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "**Becoming**\n\nBack in the ancestral homeland of Michelle Obama,\nblack women were rarely granted the honorific Miss or\nMrs., but were addressed by their first name, or simply as\n“gal” or “auntie” or worse. This so openly demeaned them\nthat many black women, long after they had left the South,\nrefused to answer if called by their first name. A mother\nand father in 1970s Texas named their newborn “Miss” so\nthat white people would have no choice but to address their\ndaughter by that title. Black women were meant for the field\nor the Kitchen, or for use as they saw fit. They were, by\ndefinition, not ladies. The very idea of a black woman as\nfirst lady of the land, well, that would have been unthinkable.\n\n_Disponível em: www.nytimes.com Acesso em 28 dex. 2018 (adaptado)_\n\nA crítica do livro de memórias de Michelle Obama, ex-primeira-dama dos EUA, aborda a história das relações humanas na cidade natal da autora. Nesse contexto, o uso  do vocábulo “unthinkable” ressalta que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ascensão social era improvável.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A mudança de nome era impensável.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A origem do indivíduo era irrelevante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O trabalho feminino era inimaginável.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O comportamento parental era irresponsável.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.57464,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 3,
+      "idioma": "ingles",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/3?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "En el suelo, apoyado en el mostrador, se acurrucaba, inmóvil como una cosa, un hombre muy viejo. Los muchos años lo habían reducido y pulido como las aguas a una piedra o las generaciones de los hombres a una sentencia. Era oscuro, chico y reseco, y estaba como fuera del tiempo, en una eternidad.\n\nBORGES, J. L. Artificios. Madri: Alianza Cien, 1995\n\nNo âmbito literário, são mobilizados diferentes recursos que visam à expressividade. No texto, a analogia estabelecida pela expressão “como las aguas a una piedra” tem a função de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enfatizar a ação do tempo sobre a personagem.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descrever a objetificação do ambiente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expor a anacronia da personagem",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Caracterizar o espaço do conto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Narrar a perenidade da velhice",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.18654,
+      "escala": 519,
+      "faixa": "Fácil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 4,
+      "idioma": "espanhol",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/4?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "A Presença de “at odds with” na fala do personagem do cartum revela o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necessidade de acessar informações confiáveis.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dificuldade de conciliar diferentes anseios.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Desejo de dominar novas tecnologias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desafio de permanecer imparcial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Vontade de ler notícias positivas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.84356,
+      "escala": 584,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 4,
+      "idioma": "ingles",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/4?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "A charge evoca uma situação de assombro frente a uma realidade que assola as sociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constatação do ser humano como o responsável pela condição caótica do mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Indignação dos trabalhadores em face das injustiças sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Veiculação de informações trágicas pelos telejornais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Manipulação das notícias difundidas pelas mídias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.37712,
+      "escala": 462,
+      "faixa": "Fácil"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png"
+    ],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 5,
+      "idioma": "espanhol",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/5?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "**Exterior: Between The Museums – Day**\n\nCELINE\nAmericans always think Europe is perfect. But such beauty and history can be really oppressive. It reduces the individual to nothing. It just reminds you all the time you are just a little speck in a long history, where in America you feel like you could be making history. That’s why I like Los Angeles because it is so…\nJESSE\nUgly?\nCELINE\nNo, I was going to say “neutral”. It’s like looking at a blank canvas. I think people go to places like Venice on their honeymoon to make sure they are not going to fight for the first two weeks of their marriage because they’ll be too busy looking around at all the beautiful things. That’s what people call a romantic place – somewhere where the prettiness will contain your primary violent instinct. A real good honeymoon spot would be like somewhere in New Jersey.\n\nKRIZAN, K,; LINKLATER, R. **Before Sunrise**: screenplay.\nNew York: Vintage Books, 2005.\n\nConsiderando-se o olhar dos personagens, esse trecho do roteiro de um filme permite reconhecer que a avaliação sobre um lugar depende do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Beleza do próprio local.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Perspectiva do visitante.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contexto histórico do local.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo de permanência no local.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Finalidade da viagem do visitante.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.55393,
+      "escala": 655,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 5,
+      "idioma": "ingles",
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/5?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 6,
+    "enunciado": "Um asteroide de cerca de um mil metros diâmetro, viajando a 288 mil quilômetros por hora, passou a uma distância insignificante – em termos cósmicos – da Terra, pouco mais do dobre da distância que nos separa da Lua. Segundo os cálculos matemáticos, o asteroide cruzou a órbita da Terra e somente não colidiu porque ela não estava naquele ponto de interseção. Se ele tivesse sido capturado pelo campo gravitacional do nosso planeta e colidido, o impacto equivaleria a 40 bilhões de toneladas de TNT, ou o equivalente à explosão de 40 mil bombas de hidrogênio, conforme calcularam os computadores operados pelos astrônomos do programa de Exploração do Sistema Solar da Nasa; se caísse no continente, abriria uma cratera de cinco quilômetros, no mínimo, e destruiria tudo o que houvesse num raio de milhares de outros; se desabasse no oceano, provocaria maremotos que devastariam imensas regiões costeiras. Enfim, uma visão do Apocalipse.\n\nDisponível em: http:/bdjur.stj.jus.br. Acesso em: 23 abr. 2010.\n\nQual estratégia caracteriza o texto como uma notícia alarmante?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A descrição da velocidade do asteroide.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A recorrência de formulações hipotéticas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A referência à opinião dos astrônomos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A utilização da locução adverbial \"no mínimo\".",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A comparação com a distância da Lua à Terra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.23114,
+      "escala": 523,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 6,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/6",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 7,
+    "enunciado": "**A draga**\n\nA gente não sabia se aquela draga tinha nascido ali, no porto, como um pé de árvore ou uma duna.\n– E que fosse uma casa de peixes?\nMeia dúzia de loucos e bêbados moravam dentro dela, enraizados em suas ferragens.\nDos viventes da draga era um o meu amigo Mário-pega-sapo.\n\\[…\\]\nQuando Mário morreu, um literato oficial, em necrológico caprichado, chamou-o de Mário-Captura-Sapo! Ai que dor!\nAo literato cujo fazia-lhe nojo a forma coloquial.\nQueria _captura_ em vez de _pega_ para não macular (sic) a língua nacional lá dele…\n\\[…\\]\nDa velha draga\nAbrigo de vagabundos e de bêbados, restaram as expressões: _estar na draga_, _viver na draga_ por estar _sem dinheiro_, _viver na miséria_\nQue ora ofereço ao filólogo Aurélio Buarque de Hollanda\nPara que as registre em seus léxicos\nPois o povo já as registrou.\n\nBARROS, M. **Gramática expositiva do chão**: poesia quase toda. Rio de Janeiro: Civilização Brasileira, 1990 (fragmento).\n\nAo criticar o preciosismo linguístico do literato e ao sugerir a dicionarização de expressões locais, o poeta expressa uma concepção de língua que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contrapõe características da escrita e da fala.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ironiza a comunicação fora da norma-padrão.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Substitui regionalismos por registros formais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Valoriza o uso de variedades populares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defende novas regras gramaticais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.57101,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 7,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/7",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 8,
+    "enunciado": "O documentário _O menino que fez um museu_, direção de Sérgio Utsch, produção independente de brasileiro e britânicos, gravado no Nordeste em 2016, mais precisamente no distrito Dom Quintino, zona rural do Crato, foi premiado em Londres, pela _Foreign Press Associations_ (FPA), a associação de correspondentes estrangeiros mais antiga do mundo, fundada em 1888.\n\nDe acordo com o diretor, _O menino que fez um museu_ foi o único trabalho produzido por equipes fora do eixo Estados-Unidos-Europa entre os finalistas. O documentário conta a história de um Brasil profundo, desconhecido até mesmo por muitos brasileiros. É apresentado com o carisma de Pedro Lucas Feitosa, 11 anos.\n\nQuanto tinha 10 anos, Pedro Lucas criou o Museu de Luyiz Gonzaga, que fica distrito de Dom Quintino. A ideia surgiu após uma visita que o garoto fez, em 2013, quando tinha 8 anos, ao Museu do Gonzagão, em Exu, Pernambuco. Pedro decidiu criar o próprio lugar de exposição para homenagear o rei e o local escolhido foi a casa da sua bisavó já falecida, que fica ao lado da casa dele, na rua Alto de Antena.\n\nDisponível em: www.opovo.com.br. Acesso em> 18 abr. 2018\n\nNo segundo parágrafo, uma citação afirma que o documentário “foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas”. No texto, esse recurso expressa uma estratégia argumentativa que reforça a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Originalidade da iniciativa de homenagem à vida vida e à obra de Luiz Gonzaga.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Falta de concorrentes ao prêmio de uma das associações mais antigas do mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Proeza da premiação de uma história ambientada no interior do Nordeste brasileiro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Escassez de investimentos para a produção cinematográfica independente no país.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Importância da parceria entre brasileiros e britânicos para a realização das filmagens",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.79504,
+      "escala": 580,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 8,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/8",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 9,
+    "enunciado": "**A volta do marido pródigo**\n– Bom dia, seu Marrinha! Como passou de ontem?\n– Bem. Já sabe, não é? Só ganha meio dia. \\[…\\]\nLá além, Generoso cotuca Tercino:\n– \\[…\\] Vai em festa, dorme que-horas, e, quando chega, ainda é todo enfeitado e salamistrão!…\n– Que é que hei de fazer, seu Marrinha… Amanheci com uma nevralgia… Fiquei com cisma de apanhar friagem…\n– Hum…\n– Mas o senhor vai ver como eu toco o meu serviço e ainda faço este povo trabalhar…\n\\[…\\]\nPintão suou para desprender um pedrouço, e teve de pular para trás, para que a laje lhe não esmagasse um pé. Pragueja:\n– Quem não tem brio engorda!\n– É… Esse sujeito só é isso, e mais isso… – opina Sidu.\n– Também, tudo p’ra ele sai bom, e no fim dá certo…\n– diz Correia, suspirando e retomando o enxadão. –\n“P’ra uns, as vacas morrem … p’ra outros até boi pega a parir…”.\nSeu Marra já concordou:\n– Está bem, seu Laio, por hoje, como foi por doença, eu aponto o dia todo. Que é a última vez!… E agora, deixa de conversa fiada e vai pegando a ferramenta!\n\nROSA, J. G. **Sagarana**. Rio de Janeiro: José Olympio, 1967.\n\nEsse texto tem importância singular como patrimônio linguístico para a preservação da cultura nacional devido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À menção a enfermidades que indicam falta de cuidado pessoal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "À referência a profissões já extintas que caracterizam a vida no campo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aos nomes de personagens que acentuam aspectos de sua personalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ao emprego de ditados populares que resgatam memórias e saberes coletivos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Às descrições de costumes regionais que desmistificam crenças e superstições.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.23283,
+      "escala": 523,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 9,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/9",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 10,
+    "enunciado": "**Intenso e original, Son of Saul retrata horror do holocausto**\n\nCentenas de filmes sobre o holocausto já foram produzidos em diversos países do mundo, mas nenhum é tão intenso como o húngaro Son of Saul, do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes.\nAo contrário da grande maioria das produções do gênero, que costuma oferecer uma variedade de informações didáticas e não raro cruza diferentes pontos de vista sobre o horror do campo de concentração, o filme acompanha apenas um personagem.\nEle é Saul (Géza Rohrig), um dos encarregados de conduzir as execuções de judeus como ele que, por um dia e meio, luta obsessivamente para que um menino já morto – que pode ou não ser seu filho – tenha um enterro digno e não seja simplesmente incinerado.\nO acompanhamento da jornada desse prisioneiro é no sentido mais literal que o cinema pode proporcionar: a câmera está o tempo todo com o personagem, seja por sobre sobre seus ombros, seja como um _close_ em primeiro plano ou em sua visão subjetiva. O que se passa ao seu redor é secundário, muitas vezes desfocado.\nSaul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança, e por isso pouco se envolve nos planos de fuga que os companheiros tramam e, quando o faz, geralmente atrapalha. “Você abandonou os vivos para cuidar de um morto”, acusa um deles.\nVer toda essa _via crucis_ é por vezes duro e exige certa entrega do espectador, mas certamente é daquelas experiências cinematográficas que permanecem na cabeça por muito tempo.\nO longa já está sendo apontado como o grande favorito ao Oscar de filme estrangeiro. Se levar a estatueta, certamente não faltará quem diga que a Academia tem uma preferência por quem aborda a 2ª Guerra. Por mais que exista uma dose de verdade na afirmação, premiar uma abordagem tão ousada e radical como _Son of Soul_ não deixaria de ser um passo à frente dos votantes.\n\n**Carta Capital**. n. 873, 22 out. 2015.\n\nA resenha é, normalmente, um texto de base argumentativa. Na resenha do filme Son of Saul, o trecho da sequência argumentativa que se constitui como opinião implícita é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\"[...] do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes\".",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "\"Ele é Saul (Géza Rohring), um dos encarregados de conduzir as execuções de judeus [...]\".",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "\"[...] a câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja como um close [...]\".",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "\"Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança [...]\".",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "\"[...] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes\".",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.22063,
+      "escala": 478,
+      "faixa": "Fácil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 10,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/10",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 11,
+    "enunciado": "**Sinhá**\n\nSe a dona se banhou\nEu não estava lá\nPor Deus Nosso Senhor\nEu não olhei Sinhá\nEstava lá na roça\nSou de olhar ninguém\nNão tenho mais cobiça\nNem enxergo bem\n\nPara que me pôr no tronco\nPara que me aleijar\nEu juro a vosmecê\nQue nunca vi Sinhá\n\\[…\\]\nPor que talhar meu corpo\nEu não olhei Sinhá\nPara que que vosmincê\nMeus olhos vai furar\nEu choro em iorubá\nMas oro por Jesus\nPara que que vassuncê\nMe tira a luz.\n\nCHICO BUARQUE; JOÃO BOSCO. **Chico**. Rio de Janeiro: Biscoito Fino, 2011 (fragmento).\n\nNo fragmento da letra da canção, o vocabulário empregado e a situação retratada são relevantes para o patrimônio linguístico e identitário do país, na medida em que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Remetem à violência física e simbólica contra os povos escravizados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Valorizam as influências da cultura africana sobre a música nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relativizam o sincretismo constitutivo das práticas religiosas brasileiras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Narram os infortúnios da relação amorosa entre membros de classes sociais diferentes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Problematizam as diferentes visões de mundo na sociedade durante o período colonial.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.66104,
+      "escala": 434,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 11,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/11",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 12,
+    "enunciado": "Disponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).\n\nA associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A estimular denúncias de maus-tratos contra animais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Desvincular o conceito de descarte da ideia de negligência.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incentivar campanhas de adoção de animais em situação de rua.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sensibilizar o público em relação ao abandono de animais domésticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Alertar a população sobre as sanções legais acerca de uma prática criminosa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.42733,
+      "escala": 457,
+      "faixa": "Fácil"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 12,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/12",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 13,
+    "enunciado": "HENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).\n\nNessa tirinha, produzida na década de 1970, os recursos verbais e não verbais sinalizam a finalidade de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reforçar a luta por direitos civis.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Explicitar a autonomia feminina.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ironizar as condições de igualdade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estimular a abdicação da vida social.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criticar as obrigações de maternidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 4.27494,
+      "escala": 927,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 13,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/13",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 14,
+    "enunciado": "**A crise dos refugiados imortalizada para sempre no fundo do mar**\n\nTAYLOR, J. C. A balsa de Lampedusa. Instalação. Museu Atlântico, Lanzarote, Canárias, 2016 (detalhe)\n\nA balsa de Lampedusa, nome da obra do artista britânicos Jason de Caires Taylor, é uma das instalações criadas por ele para compor o acervo do primeiro museu submarino da Europa, o Museu Atlântico, localizado em Lanzarote, uma das ilhas do arquipélago das Canárias.\n\nLampedusa é o nome da ilha italiana onde a grande maioria dos refugiados que saem da África ou de países como Síria, Líbano e Iraque tenta chegar para conseguir asilo no continente europeu.\n\nAs esculturas do Museu Atlântico icam a 14 metros de profundidade nas águas cristalinas de Lanzarote.\n\nNa balsa, estão dez pessoas. Todas têm no rosto a expressão do abandono. Entre elas, há algumas crianças. Uma delas, uma menina debruçada sobre a beira do bote, olha sem esperança o horizonte. A imagem é tão forte que dispensa qualquer palavra. Exatamente o papel da arte.\n\nDisponível em: http://conexaoplaneta.com.br. Acesso em: 22 jun. 2019 (adaptado).\n\nAlém de apresentar ao público a obra A balsa de Lampedusa, essa reportagem cumpre, paralelamente, a função de chamar a atenção para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ilha de Lanzarote, localizada no arquipélago das Canárias, com vocação para o turismo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "As muitas vidas perdidas nas travessias marítimas em embarcações precárias ao longo dos séculos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A inovação relativa à construção de um museu no fundo do mar, que só pode ser visitado por mergulhadores.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A construção do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias pelo mar.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A arte como perpetuadora de episódios marcantes da humanidade de que têm de ser relembrados para que não tomem a acontecer.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.45518,
+      "escala": 646,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [
+      "https://enem.dev/2021/questions/14/f8c80e87-3875-4c67-b82d-85d73404d502.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 14,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/14",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 16,
+    "enunciado": "**Devagar, devagarinho**\n\nDesacelerar é preciso. Acelerar não é  preciso. Afobados e voltados para o próprio umbigo, operamos, automatizados, falas robóticas e silêncios glaciais. Ilustra bem esse estado de espírito a música Sinal fechado (1969), de Paulinho de Viola. Trata-se da história de dois sujeitos que se encontram inesperadamente em um sinal de trânsito. A conversa entre ambos, porém, se deu rápida e rasteira. Logo, os personagens se despedem, com a promessa de se verem em outra oportunidade. Percebe-se um registro de comunicação vazia e superficial, cuja tônica foi o contato ligeiro e superficial construído pelos interlocutores: “Olá, como vai? / Estou indo, e você, tudo bem? / Tudo bem, eu vou indo correndo, / pegar meu lugar no futuro. E você? / Quanto tempo… / Pois é, quanto tempo… / Me perdoe a pressa / é a alma dos nossos negócios… / Oh! Não tem de quê. / Eu também só ando a cem”.\nO culto à velocidade, no contexto apresentado, se coloca como fruto de um imediatismo processual que celebra o alcance dos fins sem dimensionar a qualidade dos meios necessários para atingir determinado propósito. Tal conjuntura favorece a lei do menor esforço – a comodidade – e prejudica a lei do maior esforço – a dignidade.\nComo modelo alternativo à cultura _fast_, temos o movimento _slow life_, cujo propósito, resumidamente, é conscientizar as pessoas de que a pressa é inimiga da perfeição e do prazer, buscando assim reeducar seus sentidos para desfrutar melhor os sabores da vida.\n\nSILVA, M. F. L. **Boletim UFMG**, n. 1 749, set. 2011 (adaptado).\n\nNesse artigo de opinião, a apresentação da letras da canção Sinal Fechado é uma estratégia argumentativa que visa sensibilizar o leitor porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adverte sobre os riscos que o ritmo acelerado da vida oferece.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Exemplifica o fato criticado no texto com uma situação concreta.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contrapõe situações de aceleração e de serenidade na vida das pessoas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Questiona o clichê sobre a rapidez e a aceleração da vida moderna",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta soluções para a cultura da correria que as pessoas vivenciam hoje.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.92018,
+      "escala": 592,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 16,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/16",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 17,
+    "enunciado": "A história do futebol brasileiro contém, ao longo de um século, registros de episódios racistas. Eis o paradoxo: se, de um lado, a atividade futebolística era depreciada aos olhos da “boa sociedade” como profissão destinada aos pobres, negros e marginais, de outro, achava-se investida do poder de representar e projetar a nação em escala mundial. A Copa do Mundo no Brasil, em 1950, viria a se constituir, nesse sentido, em uma rara oportunidade. Contudo, na decisão contra o Uruguai sobreveio o inesperado revés. As crônicas esportivas elegiam o goleiro Barbosa e o defensor Bigode como bodes expiatórios, “descarregando nas costas” dos jogadores os “prejuízos” da derrota. Uma chibata moral, eis a a sentença proferida no tribunal do brancos. Nos anos 1970, por não atender às expectativas normativas suscitadas pelo estereótipo do “bom negro”, Paulo César Lima foi classificado como “jogador – problema”. Ele esboçava a revolta da chibata no futebol brasileiro. Enquanto Barbosa e Bigode, sem alternativa suportaram o linchamento moral na derrota 1950, Paulo César contra-atacava os que pretendiam condená-lo pelo insucesso de 1974. O jogador assumia as cores e as causas defendidas pela esquadra dos pretos em todas as esferas da vida social. “Sinto na pele esse racismo subjacente” revelou a imprensa francesa: “Isto é, ninguém ousa pronunciar a palavra ‘racismo’. Mas posso garantir que ele existe, mesmo na seleção Brasileira”. Sua ousadia constituiu em pronunciar a palavra interdita no espaço simbólico do discurso oficial para reafirmar o mito da democracia racial.\nDisponível em: https://observatorioracialfutebol.com.br. Acesso em: 22 jun. 2019 (adaptado)\nO texto atribui o enfraquecimento do mito da democracia racial no futebol à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Responsabilização dos jogadores negros pela derrota na final da Copa de 1950.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Projeção mundial da nação por um esporte antes destinados aos pobres.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Depreciação de um esporte associado a marginalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Interdição da palavra \"racismo\" no contexto esportivo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Atitude contestadora de um \"jogador-problema\".",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.65243,
+      "escala": 665,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 17,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/17",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 18,
+    "enunciado": "MEIRRELES, V. Moema, Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.\n\nDisponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).\n\nNessa obra, que retrata uma cena de Caramuru, célebre poema épico brasileiro, a filiação à estética romântica manifesta-se na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exaltação do retrato fiel da beleza feminina.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tematização da fragilidade humana diante da morte.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ressignificação de obras do cânone literário nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Representação dramática e idealizada do corpo da índia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Oposição entre a condição humana e a natureza primitiva.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.59859,
+      "escala": 560,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2021/questions/18/d3122745-1e96-431c-a368-b901c0e3dd5d.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 18,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/18",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 19,
+    "enunciado": "Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados diversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um desses estudos compara o que sonham e brincam as crianças hoje em relação às dos anos de 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais sobrecarregadas por deveres e atividades extracurriculares do que as de 25 anos atrás. As crianças de hoje não só dedicam menos tempo para brincar, como também, quando brincam, a maioria não o faz com outros crianças no parque, na rua ou na praça, mas em casa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com aparelhos eletrônicos, entre os quais predemonia o jogo individual com a máquina.\n\nOLIVIA, M. P. O direito da criança ao lazer… e a crescer sem carências.\nEl País, 20 nov. 2015 (adaptado).\n\nO texto indica que as transformações nas experiências lúdicas na infância",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fomentaram as relações sociais entre as crianças.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tornaram o lazer uma prática difundida entre as crianças.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incentivaram a criação de novos espaços para se divertir.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Promoveram uma vivência corporal menor ativa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contribuíram para o aumento do tempo dedicado para brincar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.62089,
+      "escala": 562,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 19,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/19",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 20,
+    "enunciado": "O coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. _Mini@tures_ é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho do arquivo, para que um número maios de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. _Mini@tures_ explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\n\nSPANGHERO, M. **A dança dos encéfalos acesos.**\nSão Paulo: Itaú Cultural, 2003 (adaptado).\n\nConsiderado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.24997,
+      "escala": 625,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 20,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/20",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 21,
+    "enunciado": "**Texto I**\n\n**O mito da estiagem em São Paulo**\n\nOs estoques de água doce são inesgotáveis, na medida em que são alimentados principalmente pelos oceanos, infinitos via evaporação e precipitação, ou seja, pelo ciclo hidrológico, que depende de forças físicas as quais o homem nunca poderá interromper. Enquanto existirem, o ciclo funcionará e os estoques de água doce nos continentes serão repostos indefinidamente.\nObviamente que a água não se distribui equitativamente pelo planeta. Há regiões com muita água, normalmente na zona tropical, na qual a evaporação é maior, e regiões áridas, onde, por razões específicas da dinâmica climática, as taxas de evaporação são maiores do que a precipitação, gerando déficit de reposição de estoques de água doce.\n\nDisponível em: www.cartanaescola.com.br. Acesso em: 17 jan. 2015 (adaptado)\n\n**Texto II**\n\nO processo de sedimentação no fundo do lago de reservatório é um processo lento. Os sedimentos vão formando argila, que é uma rocha impermeável. Então, a água daquele lago não vai alimentar os aquíferos. Mesmo tendo muita quantidade de água superficial, ela não consegue penetrar no solo para alimentar os aquíferos. Se não for usada no consumo, ela vai simplesmente evaporar e vai cair em outro lugar, qual os aquíferos não conseguem recuperar seu nível, porque não recebem água.\n\nDisponível em: www.jornalopcao.com.br. Acesso em: 17 jan. 2015 (adaptado)\n\nOs textos I e II abordam a situação dos reservatórios de água doce do planeta. Entretanto, a divergência entre eles está na ideia de que é possível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter os estoques de água doce.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Utilizar a água superficial para o consumo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Repor os estoques de água doce em regiões áridas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reduzir as taxas de precipitação e evaporação da água.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Equalizar a distribuição de água doce nas diferentes regiões",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.57674,
+      "escala": 558,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 21,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/21",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 22,
+    "enunciado": "Os linguistas têm notado a expansão do tratamento informal. “Tenho 78 anos e devia ser tratado por _senhor_, mas meus alunos mais jovens me tratam por _você_“, diz o professor Ataliba Castilho, aparentemente sem se incomodar com a informalidade, inconcebível em seus tempos de estudante. O você, porém, não reinará sozinho. O _tu_ predomina em Porto Alegre e convive com o você no Rio de Janeiro e em Recife, enquanto você é o tratamento predominante em São Paulo, Curitiba, Belo Horizonte e Salvador. O _tu_ já era mais próximo e menos formal que _você_ nas quase 500 cartas do acervo on-line de uma instituição universitária, quase todas de poetas, políticos e outras personalidades do final do século XIX e início do XX.\n\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 21 abr. 2015 (adaptado).\n\nNo texto, constata-se que os usos de pronomes variaram ao longo do tempo e que atualmente têm empregos diversos pelas regiões do Brasil. Esse processo revela que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A escolha de \"você\" ou de \"tu\" está condicionada à idade da pessoa que usa o pronome.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A possibilidade de se usar tanto \"tu\" quanto \"você\" caracteriza a diversidade da língua.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O pronome \"tu\" tem sido empregado em situações informais por todo o país.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A ocorrência simultânea de \"tu\" e de \"você\" evidencia a inexistência da distinção entre níveis de formalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O emprego de \"você\" em documentos escritos demonstra que a língua tende a se manter inalterada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.20928,
+      "escala": 521,
+      "faixa": "Fácil"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 22,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/22",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 23,
+    "enunciado": "O solo A morte do cisne, criado em 1905 pelo russo Mikhail Fokine a partir da música do compositor francês Camille Saint-Saens, retrata o último voo de um cisne antes de morrer. Na versão original, uma bailarina com figurino a agonia da ave se debatendo até desfalecer.\n\nEm 2012, John Lennon da Silva, de 20 anos, morador do bairro de São Mateus, na Zona Leste de São Paulo, elaborou um novo jeito de dançar a coreografia imortalizada pela bailarina Anna Pavlova. No lugar de um colã e das sapatilhas, vestiu calça jeans, camiseta e tênis. Em vez de balé, trouxe o estilo _popping da street dance_. Sua apresentação inovadora de A morte do cisne, que foi ao ar no programa _Se ela dança, eu danço_, virou hit no Youtube\n\nDisponível em: www.correiobrazilliense.com.br. Acesso em: 18 jun. 2019 (adaptado).\n\nA forma original de John Lennon da Silva reinterpretar a coreografia de A morte do cisne demonstra que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A composição da coreografia foi influenciada pela escolha do figurino.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A criação artística é beneficiada pelo encontro de modelos oriundos de diferentes realidades socioculturais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A variação entre os modos de dançar uma mesma música evidencia a hierarquia que marca manifestações artísticas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A formação erudita à qual o dançarino não teve acesso, resulta em artistas que só conhecem a estética da arte popular.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A interpretação, por homens, de coreografias originalmente concebidas para mulheres exige uma adaptação complexa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.4663,
+      "escala": 547,
+      "faixa": "Fácil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 23,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/23",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 26,
+    "enunciado": "Os velhos papéis, quando não são consumidos pelo fogo, às vezes acordam de seu sono para contar notícias do passado.\nÉ assim que se descobre algo novo de um nome antigo, sobre o qual já se julgava saber tudo, como Machado de Assis.\nPor exemplo, você provavelmente não sabe que o autor carioca, morto em 1908, escreveu uma letra do hino nacional em 1867 — e não poderia saber mesmo, porque os versos seguiam inéditos. Até hoje.\nEssa letra acaba de ser descoberta, em um jornal antigo de Florianópolis, pelo pesquisador independente Felipe Rissato.\n“Das florestas em que habito/ Solto um canto varonil:/ Em honra e glória de Pedro/ O gigante do Brasil”, diz o começo do hino, composto de sete estrofes em redondilhas maiores, ou seja, versos de sete sílabas poéticas. O trecho também é o refrão da música.\nO Pedro mencionado é o imperador Dom Pedro II. O bruxo do Cosme Velho compôs a letra para o aniversário de 42 anos do monarca, em 2 de dezembro daquele ano — o hino seria apresentado naquele dia no teatro da cidade de Desterro, antigo nome de Florianópolis.\n\n**Disponível em: www.revistaprosaversoarte.com. Acesso em 4 dez. 2018 (adaptado).**\n\nConsiderando-se as operações de retomada de informações do texto, há interdependência entre as expressões",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\"Os velho papéis\" e \"É assim\".",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "\"algo novo\" e \"sobre o qual.\"",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "\"um nome antiga\" e \"Por exemplo.\"",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "\"O gigante do Brasil\" e \"O Pedro mencionado.\"",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "\"o imperador Dom Pedro II\" e \"O bruxo do Cosme Velho\".",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.40855,
+      "escala": 741,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 26,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/26",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 27,
+    "enunciado": "A revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 1960 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios, Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.\n\nCHAVES, D. Disponível em: www.veja.abril.com.br. Acesso em: 29 jul. 2010.\n\nNa reportagem sobre os 50 anos de Brasília, de Débora Chaves, com a reprodução fotográfica de cadeiras e poltronas de Sérgio Rodrigues, verifica-se que os elementos da estética brasiliense",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aparecem definidos nas linhas retas dos objetos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Expressam o desenho rebuscado por meio das linhas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mostram a expressão assimétrica das linhas curvas suaves.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apontam a unidade de matéria-prima utilizada em sua fabricação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Surgem na simplificação das informação visuais de cada composição.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.71461,
+      "escala": 671,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2021/questions/27/bce50f89-8fb3-4929-8065-7c7710a91f39.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 27,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/27",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 28,
+    "enunciado": "**Thumbs Up**\nPonto positivo para o Facebook, que vai dar uma ajeitada na casa para, quem sabe, não ser mais conhecido como espaço da treta. Durante a F8, sua conferência anual, a empresa anunciou a maior mudança de design do serviço em 5 anos. Agora, o polêmico feed de notícias deixa de ser o protagonista, e o queridinho da rede social se torna o segmento de Grupos (é o Orkut fazendo escola?). Segundo Mark Zuckerberg, mais de 1 bilhão de usuários mensais entraram nessa aba do aplicativo, e 400 mil deles já estão integrados em grupos de “assuntos significativos”. O objetivo agora é aumentar o tráfego, oferecendo mais sugestões e ferramentas especiais para quem gerencia essas comunidades. Além disso, o Marketplace, que já tem mais de 800 milhões de usuários, vai ganhar mais atenção e integração. Com isso, parece que há um novo padrão se montando na rede social: sai o feed, entra a segmentação, que pode ser uma boa porta para monetização nos próximos anos. No mesmo evento, Zuckerberg também disse que o futuro do Facebook é a privacidade, mas não deu muitos detalhes de como vai proteger seus clientes daqui para frente. Evitar que vazamentos de dados dos usuários aconteçam é um bom começo.\n#FicaaDica\n\nDisponível em: https://thebrief.us16.list-manage.com. Acesso em: 3 maio 2019 (adaptado).\n\nO texto relata que uma rede social virtual realizará sua maior mudança de design dos últimos anos. Esse fato revela que as tecnologias de informação e comunicação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Buscam oferecer mais privacidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Assimilam os comportamentos dos usuários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Promovem maior interação em ambientes virtuais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Oferecem mais facilidades para obter cada vez mais lucro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Evoluem para ficar mais parecidas umas com as outras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.20044,
+      "escala": 620,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 28,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 29,
+    "enunciado": "**Reaprender a ler notícias**\n\nNão dá mais para ler um jornal, revista ou assistir a um telejornal da mesma forma que fazíamos até o surgimento da rede mundial de computadores. O Observatório da Imprensa antecipou isso lá nos idos de 1996 quando cunhou o slogan “Você nunca mais vai ler o jornal do mesmo jeito”. De fato, hoje já não basta mais ler o que está escrito ou falado para estar bem informado. É preciso conhecer as entrelinhas e saber que não há objetividade e nem isenção absolutas, porque cada ser humano vê o mundo de uma forma diferente. Ter um pé atrás passou a ser regra básica número um de quem passa os olhos por um primeiro página, capa de revista ou chamadas de um noticiário na TV.\nHá uma diferença importante entre desconfiar de tudo e procurar ver o maior número possível de lados de um mesmo fato, dado ou evento. Apenas desconfiar não resolve porque se trata de um atitude passiva. É claro, tudo começa com a dúvida, mas a partir dela é necessário ser proativo, ou seja, investigar, estudar, procurar os elementos ocultos que sempre existem numa notícia. No começo é um esforço solitário que pode se tornar coletivo à medida que mais pessoas descobrem sua vulnerabilidade informativa.\n\nDisponível em: www.observatoriodaimprensa.com.br. Acesso em: 30 set. 2015 (adaptado).\n\nNo texto, os argumentos apresentados permitem inferir que o objetivo do autor é convencer os leitores a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Buscarem fontes de informação comprometidas com a verdade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Privilegiarem notícias veiculadas em jornais de grande circulação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adotarem uma postura crítica em relação às informações recebidas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Questionarem a prática jornalística anterior ao surgimento da internet.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorizarem reportagem redigidas com imparcialidade diante dos fatos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.24855,
+      "escala": 525,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 29,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/29",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 30,
+    "enunciado": "Não que Pelino fosse químico, longe disso; mas era sábio, era gramático. Ninguém escrevia em Tubiacanga que não levasse bordoada do Capitão Pelino, e mesmo quando se falava em algum homem notável lá no Rio, ele não deixava de dizer: “Não há dúvida! O homem tem talento, mas escreve: ‘um outro’, ‘de resto’…” E contraía os lábios como se tivesse engolido alguma cousa amarga.\nToda a vila de Tubiacanga acostumou-se a respeitar o solene Pelino, que corrigia e emendava as maiores glórias nacionais. um sábio…\nAo entardecer, depois de ler um pouco o Sotero, o Candido de Figueiredo ou o Castro Lopes, e de ter passado mais uma vez a tintura nos cabelos, o velho mestre-escola saía vagarosamente de casa, muito abotoado no seu paletó de brim mineiro, e encaminhava-se para a botica do Bastos a dar dous dedos de prosa. Conversar é um modo de dizer, porque era Pelino avaro de palavras, limitando-se tão-somente a ouvir. Quando, porém, dos lábios de alguém escapava a menor incorreção de linguagem, intervinha e emendava. “Eu asseguro, dizia o agente do Correio, que…” Por aí, o mestre-escola intervinha com mansuetude evangélica: “Não diga ‘asseguro’, Senhor Bernardes; em português é garanto”.\nE a conversa continuava depois da emenda, para ser de novo interrompida por uma outra. Por essas e outras, houve muitos palestradores que se afastaram, mas Pelino, indiferente, seguro dos seus deveres, continuava o seu apostolado de vernaculismo.\n\nBARRETO, L. **A Nova Califórnia.** Disponível em: www.dominiopublico.gov.br. Acesso em 24 jul. 2019.\n\nDo ponto de vista linguístico, a defesa da norma-padrão pelo personagem caracteriza-se por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contestar o ensino de regras em detrimento do conteúdo das informações.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Resgatar valores patrióticos relacionados às tradições da língua portuguesa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adotar uma perspectiva complacente em relação aos desvios gramaticais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Invalidar os usos da língua pautados pelos preceitos da gramática normativa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desconsiderar diferentes níveis de formalidade nas situações de comunicação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.26329,
+      "escala": 626,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 30,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/30",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 31,
+    "enunciado": "O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas e ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins pregados numa madeira qualquer, para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando o engenheiro químico chamado Frank Nasworthy descobriu o uretano, material mais flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas.\n\nARMBRUST, I; LAURD, G, A, A. O skate e suas possibilidades educacionais. Motriz, jul-set, 2010 (adaptado).\n\nDe acordo com o texto, diversos fatores ao longo do tempo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contribuíram para a democratização do skate.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Evidenciaram as demandas comerciais dos skatistas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Definiram a carreira de skatista profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Permitiram que a prática social do skate substituísse o surfe.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Indicaram a autonomia dos praticantes de skate.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.06185,
+      "escala": 506,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 31,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/31",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 32,
+    "enunciado": "**Estojo escolar**\n\nRio de Janeiro – Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação espacial.\n\\[…\\] Como pretendo viajar esses dias, habilitei-me a comprar aquilo que os caras anunciavam como um top do top em matéria de computador portátil.\nNo sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser aberto.\n\\[…\\] De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim meu primeiro estojo escolar. Tinha 5 anos e ia para para o jardim de infância.\nEra uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, um apontador, uma lapiseira cromada, uma régua de 20cm e uma borracha para apagar meus erros.\n\\[…\\] Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. \\[…\\]\nO notebook que agora abro é negro e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, a aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida.\n\nCONY, C. H. Crônicas para ler na escola. São Paulo. Objetiva, 2009 (adaptado)\n\nNo texto, há marcas da função da linguagem que nele predomina. Essas marcas são responsáveis por colocar em foco o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mensagem, elevando-a à categoria de objeto estético do mundo das artes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Código, transformando a linguagem utilizada no texto na própria temática abordada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contexto, fazendo das informações presentes no texto seu aspecto essencial.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Enunciador, buscando expressar sua atitude em relação ao conteúdo do enunciado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Interlocutor, considerando-o responsável pelo direcionamemento dado à narrativa pelo enunciador.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.63316,
+      "escala": 663,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 32,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/32",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 33,
+    "enunciado": "LEMONS, A. **Artistas brasileiras**. Belo Horizonte Miguilim,2018.\n\nO que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Função de apresentação do livro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apelo emocional apoiado nas imagens.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Descrição do processo criativo da autora.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Referência à mescla dos trabalhos manual e digital.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Uso de elementos gráficos voltados para o público-alvo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.6301,
+      "escala": 663,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [
+      "https://enem.dev/2021/questions/33/3f0c8ec0-de44-43da-a545-967701e6128f.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 33,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/33",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 34,
+    "enunciado": "No texto, os recursos verbais e não verbais empregados têm por objetivo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Influenciar o leitor a mudar atitudes e hábitos considerados prejudicados às crianças.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sugerir aos pais e responsáveis a subtituição de dispositivos mpoveis por atividades lúdicas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.41917,
+      "escala": 542,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2021/questions/34/5b366c12-2eaa-4383-87b3-22400a733b71.jpeg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 34,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/34",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 35,
+    "enunciado": "**Singular ocorrência**\n\n– Há ocorrências bem singulares. Está vendo aquela dama que vai entrando na igreja da Cruz? Parou agora no adro para dar uma esmola.\n– De preto?\n– Justamente; lá vai entrando; entrou.\n– Não ponha mais na carta. Esse olhar está dizendo que a dama é uma recordação de outro tempo, e não há de ser muito tempo, a julgar pelo corpo: é moça de truz.\n– Deve ter quarenta e seis anos.\n– Ah, conservada. Vamos lá; deixe de olhar para o chão e conte-me tudo. Está viúva, naturalmente?\n– Não.\n– Bem; o marido ainda vive. É velho?\n– Não é casada.\n– Solteira?\n– Assim, assim. Deve chamar-se hoje D. Maria de tal. Em 1860 florescia com o nome familiar de Marocas. Não era costureira, nem proprietária, nem mestra de meninas; vá excluindo as profissões e chegará lá. Morava na Rua do Sacramento. Já então era esbelta, e, seguramente, mais linda do que hoje; modos sérios, linguagem limpa.\n\nASSIS, M. Machado de Assis: seus 30 melhores contos.\nRio de Janeiro: Aguilar, 1961.\n\nNo diálogo, descortinam-se aspectos da condição da mulher em meados do século XIX. O ponto de vista dos personagens manifesta conceitos segundo os quais a mulher",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encontra um modo de dignificar-se na prática da caridade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Preserva a aparência jovem conforme seu estilo de vida.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Condiciona seu bem-estar à estabilidade do casamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tem sua identidade e seu lugar referendados pelo homem.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Renuncia à sua participação no mercado de trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.74738,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 35,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/35",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 36,
+    "enunciado": "**TEXTO I**\n\n**TEXTO II**\n\nAs máscarqas não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recepientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.\n\nFARTHINGS, S. Tudo sobre arte\n\nRomuald Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugode uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que vive no Benin denota o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Empobrecimento do valor artístico pela combinação de diferentes matérias-primas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reposicionamento estético de objetos por meio da mudança de função.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Convite aos espectadores para interagir e completar obras inacabadas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Militância com temas da ecologia que marcam o continente africano.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Realidade precária de suas condições de produção artística.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.27789,
+      "escala": 728,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2021/questions/36/8cc80c2a-cef4-4d6c-99a3-4f383b9fa2e2.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 36,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/36",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 37,
+    "enunciado": "**Comportamento geral**\nVocê deve estampar sempre um ar de alegria\nE dizer: tudo bem melhorado\nVocê deve rezar pelo bem do patrão\nE esquecer que está desempregado\n\nVocê merece\nVocê merece\nTudo vai bem, tudo legal\nCerveja, samba, e amanhã, seu Zé\nSe acabarem com teu carnaval\n\nVocê deve aprender a baixar a cabeça\nE dizer sempre: muito obrigado\nSão palavras que ainda te deixam deixar\nPor ser homem bem disciplinado\n\nDeve pois só fazer pelo bem da nação\nTudo aquilo que for ordenado\nPra ganhar um fuscão no juízo final\nE diploma de bem-comportado\n\nGONZAGUINHA, **Luiz Gonzaga Jr**. Rio de Janeiro: Odeon, 1973 (fragmento).\n\nPela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, insere-se o objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ironizar a incorporação de ideias e atitudes conformistas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Convencer o público sobre a importância dos deveres cívicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relacionar o discurso religioso à resolução de problemas sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Questionar o valor atribuído pela população às festas populares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defender uma postura coletiva indiferente aos valores dominantes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.17547,
+      "escala": 518,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 37,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 39,
+    "enunciado": "**Falso moralista**\n\nVocê condena o que a moçada anda fazendo\ne não aceita o teatro de revista\narte moderna pra você não vale nada\ne até vedete você diz não ser artista\n\nVocê se julga um tanto bom e até perfeito\nPor qualquer coisa deita logo falação\nMas eu conheço bem o seu defeito\ne não vou fazer segredo não\n\nVocê é visto toda sexta no Joá\ne não é só no Carnaval que vai pros bailes se acabar\nFim de semana você deixa a companheira\ne no bar com os amigos bebe bem a noite inteira\n\nSegunda-feira chega na repartição\npede dispensa para ir ao oculista\ne vai curar sua ressaca simplesmente\nVocê não passa de um falso moralista\n\nNELSON SARGENTO. **Sonho de um sambista**. São Paulo: Eldorado, 1979.\n\nAs letras de samba normalmente se caracterizam por apresentarem marcas informais do uso da língua. Nessa letra de Nelson Sagento, são exemplos dessas marcas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\"falação\" e \"pros bailes\".",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "\"você\" e \"teatro de revista\".",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "\"perfeito\" e \"Carnaval\".",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "'bebe bem\" e \"oculista\"",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "\"curar e \"falso moralista\".",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.65267,
+      "escala": 435,
+      "faixa": "Fácil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 39,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/39",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 40,
+    "enunciado": "**Introdução a Alda**\n\nDizem que ninguém mais a ama. Dizem que foi uma boa pessoa. Sua filha de doze anos não a visita nunca e talvez raramente se lembre dela. Puseram-na numa cidade triste de uniformes azuis e janelecos brancos, de onde não pôde mais sair. Lá, todos gritaram-lhe irritados, mal se aproximava, ou lhe batem, como se faz com sacos de areia para treinar os músculos.\nSei que para todos ela já não é, e ninguém lhe daria uma maçã cheirosa, bem vermelha. Mas não é verdade que alguém não a possa mais amar. Eu amo-a. Amo-a quando a vejo por trás das grades de um palácio, onde se refugiou princesa, chegada pelos caminhos da dor. Quando fora do reino sente o mundo de mil lanças, e selvagem prepara-se, posta no olhar. Amo-a quando criança brinca na areia sem medo. Uns pés descalços, uma mulher sem intenções. Cerecada de mundo, às vezes sofrendo-o ainda.\n\nCANÇADO, M. L. **O sofredor do ver**. Belo Horizonte: Autêntica, 2015.\n\nAo descrever uma mulher internada em um hospital psiquiátrico, o narrador compõe um quadro que expressa sua percepção",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Irônica quanto aos efeitos do abandono familiar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Resignada em face dos métodos terapêuticos em vigor.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Alimentada pela imersão lírica no espaço da segregação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Inspirada pelo universo pouco conhecido da mente humana.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Demarcada por uma linguagem alinhada à busca da lucidez.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.83254,
+      "escala": 583,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 40,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/40",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 41,
+    "enunciado": "**O pavão vermelho**\n\nOra, a alegria, este pavão vermelho,\nestá morando em meu quintal agora,\nVem pousar como um sol em meu joelho\nquando é estridente em meu quintal a aurora.\n\nClarim de lacre, este pavão vermelho\nsobrepuja os pavões que estão lá fora.\nÉ uma festa de púrpura. E o assemelho\na uma chama do lábaro da aurora.\n\nÉ o próprio doge a se mirar no espelho.\nE a cor vermelha chega a ser sonora\nneste pavão pomposo e de chavelho.\n\nPavões lilases possui outrora.\nDepois que amei este pavão vermelho,\nos meus outros pavões foram-se embora.\n\nCOSTA, S. **Poesia completa**: Sosígenes Costa. Salvador: Conselho Estadual de Cultura, 2001.\n\nNa construção do soneto, as cores representam um recurso poético que configura uma imagem com a qual o eu lírico",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Revela a intenção de isolar-se em seu espaço.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Simboliza a beleza e o esplendor da natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Experimenta a fusão de percepções sensoriais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Metaforiza a conquista de sua plena realização.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expressa uma visão de mundo mística e espiritualizada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.56218,
+      "escala": 656,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 41,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/41",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 42,
+    "enunciado": "A obra, da década de 1960, pertence ao movimento artístico _Pop Art_, explora a beleza e a sensualidade do corpo feminino em uma situação de divertimento. Historicamente, a sociedade inventou e continua reinventando o corpo como objeto de intervenções sociais, buscando atender aos valores e costumes de cada época.\n\nLICHTENSTEIN, R. **Garota com bola**. Óleo sobre tela, 153 cm x 91,9 cm. Museu de Arte Moderna de nova York, 1961. Disponível em: www.moma.org. Acesso em: 4 dez. 2018.\n\nNa produção desses preceitos, a erotização do corpo feminino tem sido constituída pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realização de exercícios físicos sistemáticos e excessivos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Utilização de medicamentos e produtos estéticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Educação do gesto, da vontade e do comportamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Construção de espaços para vivência de práticas corporais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Promoção de novas experiências de movimento humano no lazer.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.47968,
+      "escala": 748,
+      "faixa": "Difícil"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2021/questions/42/35808b01-8e6b-477b-a7c1-f9c562ab88e2.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 42,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/42",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 44,
+    "enunciado": "Naquele tempo, Itaguaí, que, como as demais vilas, arraiais e povoações da colônia, não dispunha de imprensa, tinha dois modos de divulgar uma notícia; ou por meio de cartazes manuscritos e pregados na porta da Câmara, e da matriz; – ou por meio de matraca.\nEis em que consistia este segundo uso. Contratava-se um home, por um ou mais dias, para andar as ruas do povoado, com uma matraca na mão. De quando em quando tocava a matraca, reunia-se gente, e ele anunciava o que lhe incumbiam, – um remédio para sezões, umas terras lavradias, um soneto, um donativo eclesiástico, a melhor tesoura da vila, o mais belo discurso do ano, etc. O sistema tinha inconvenientes para a paz pública; mas era conservado pela grande energia de divulgação que possuía. Por exemplo, um dos vereadores desfrutava a reputação de perfeito educador de cobras e macacos, e aliás nunca domesticara um só desses bichos; mas tinha o cuidado de fazer trabalhar a matraca todos os meses. E dizem as crônicas que algumas pessoas afirmavam ter visto cascavéis dançando no peito do vereador; afirmação perfeitamente falsa, mas só devida à absoluta confiança no sistema. Verdade, verdade, nem todas as instituições do antigo _regímen_ mereciam o desprezo do nosso século.\n\nASSIS, M. **O alienista**. Disponível em: www.dominiopublico.gov.br.\nAcesso em 2 jun. 2019 (adaptado).\n\nO fragmento faz uma referência irônica a formas de divulgação e circulação de informações em uma localidade sem imprensa. Ao destacar a confiança da população no sistema da matraca, o narrador associa esse recurso à disseminação de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Campanhas políticas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Anúncios publicitários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Notícias de apelo popular.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Informações não fidedignas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Serviços de utilidade pública.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.7477,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 44,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/44",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 45,
+    "enunciado": "No ano em que o maior clarinetista que o Brasil conheceu, Abel Ferreira, faria 100 anos, o choro dá mostras de vivacidade. É quase um paradoxo que essa riquíssima manifestação da genuína alma brasileira seja forte o suficiente para driblar a falta de incentivos oficiais, a insensibilidade dos meios de comunicação e a amnésia generalizada. “Ele trazia a alma brasileira derramada em sua sonoridade ímpar. Artur da Távola, seguramente seu maior admirador, foi quem melhor o definiu, ‘alma sertaneja, toque mozarteano'”.  O acervo do músico autodidata nascido na mineira Coromandel, autor de 50 músicas, entre as quais _Chorando baixinho_ (1942), que o consagrou, amigo e parceiro de Pixinguinha, com quem gravou _Ingênuo_ (1958), permanece com os herdeiros à espera de compilação adequada. O Museu da Imagem e do Som do Rio de Janeiro tem a guarda do saz e do clarinete, doados em 1995.\nNa avaliação de Leonor Bianchi, editora da _Revista do Choro_, “a música instrumental fica apartada do que é popular porque não vai à sala de concerto. O público em geral tem interesse em samba, pagode e axé”. Ela atribui essa situação à falta de conhecimento e à pouca divulgação do gênero nas escolas.\n\nFERRAZ, A. Disponível em: www.cartacapital.com.br. Acesso em: 22 abr. 2015 (adaptado).\n\nConsiderando-se o contexto, o gênero e o público-alvo, os argumentos trazidos pela autora do texto buscam",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atribuir o desconhecimento da obra de Aberl Ferreira ao ensino de música nas escolas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reivindicar mais investimentos estatais para a preservação do acervo musical nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Destacar a relevância histórica e a riqueza estética do choro no cenário musical brasileiro",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentar ao leitor dados biográficos pouco conhecidos sobre a trajetória de Abel Ferreira.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Constatar a impopularidade do choro diante da preferência do público por músicas populares.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.56986,
+      "escala": 657,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 45,
+      "idioma": null,
+      "provaMicrodados": "889",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/45",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  }
+]

@@ -31,22 +31,187 @@
     ],
     "resposta": "A",
     "dificuldade": {
-      "b": 0.45154,
-      "escala": 545,
-      "faixa": "Fácil"
+      "b": 0.90747,
+      "escala": 591,
+      "faixa": "Médio"
     },
     "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
       "area": "LC",
       "cor": "AZUL",
       "numero": 1,
+      "idioma": "espanhol",
       "provaMicrodados": "577",
-      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/1",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/1?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 1,
+    "enunciado": "Os reursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Criticar o tipo de tratamento dado à mulher.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Rever o desempenho da mulher no trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Questionar a sobrecarga de atribuições da mulher.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Analisar as pesquisas acerca dos direitos da mulher.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Censurar a mulher pelo uso de determinadas palavras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.45154,
+      "escala": 545,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 1,
+      "idioma": "ingles",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/1?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "**Los propietarios de la libertad**\n\nLas palabras cumplen ciclos; las actitudes también. Sin embargo, cuando las palabras designan actitudes, los ciclos se vuelven más complejos. Cuando el hoy tan denostado Sartre puso la palabra compromiso sobre el tapete y hasta Mac Leish publicó un libro sobre la responsabilidad de los intelectuales, estas dos palabras, compromiso y responsabilidad, designaban actitudes que, sin ser gemelas, eran bastante afines. Salvo contadas excepciones, los intelectuales de entonces los hicieron suyas y, equivocados o no, dijeron sin eufemismos por\nqué empeño se la jugaban.\n\nLos intelectuales latinoamericanos tambiéncomprendieron dónde estaba esta vez el enemigo. Sólo entonces empezó la mala prensa. Los grandes pontífices de la propaganda subrayaron una y otra vez la palabra libertad y denostaron el compromiso. Libertad no era librarse de Batista o de Somoza, sino mantener la prensa libre. Libertad es la emocionada comprobación de que la gran prensa norteamericana es capaz de descubrir que Lumumba o Aliende fueron liquidados por la CIA, sin poner el acento en que eso no sirve para resucitarlos.\n\n¿Y compromiso? Es la actitud que adoptan ciertos intelectuales, cuya carga ideológica perjudica notoriamente su arte. Después de todo, ¿cómo se atrevena frecuentar las provincias del espiritu, si es público y notorio que tales ámbitos son patrimonio exclusivo de los propietarios de la Iibertad?\n\n**BENEDETTI, M**. _Perplejidades de fin de siglo_. Buenos Aires: Sudamericana, 1993 (adaptado)\n\nTransformar palavras em atitudes tem sido um dos grandes dilemas dos intelectuais. Ao ponderar sobre essa temática, o autor, um dos grandes críticos e literatos latino-americanos da atualidade, leva o leitor a perceber que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O compromisso político afasta o artista da criação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os costumes sociais governam a linguagem e as atitudes das pessoas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O compromisso ideológico de alguns intelectuais está refletido em suas obras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A complexidade relacionada ao conceito de liberdade impede o compromisso.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os intelectuais latino-americanos têm um posiciona - mento acrítico perante o poder.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.65747,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 2,
+      "idioma": "espanhol",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/2?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esteriotipar povos de certas culturas",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Discriminar hábitos de grupos minoritários",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Banir imigrantes de determinadas origens",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Julgar padrões de beleza de diversas etnias",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desvalorizar costumes de algumas sociedades.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.1948,
+      "escala": 519,
+      "faixa": "Fácil"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 2,
+      "idioma": "ingles",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/2?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
     }
   },
@@ -82,22 +247,236 @@
     ],
     "resposta": "E",
     "dificuldade": {
-      "b": 2.02318,
-      "escala": 702,
-      "faixa": "Difícil"
+      "b": 1.22414,
+      "escala": 622,
+      "faixa": "Médio"
     },
-    "habilidade": 8,
+    "habilidade": 6,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
       "area": "LC",
       "cor": "AZUL",
       "numero": 3,
+      "idioma": "espanhol",
       "provaMicrodados": "577",
-      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/3",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/3?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "No Madonna and Child could touch\nHer tenderness for a son\nShe soon would have to forget. . . .\nThe air was heavy with odors of diarrhea,\nOf unwashed children with washed-out ribs\nAnd dried-up bottoms waddling in labored steps\nBehind blown-empty bellies. Other mothers there\nHad long ceased to care, but not this one:\nShe held a ghost-smile between her teeth,\nAnd in her eyes the memory\nOf a mother’s pride. . . . She had bathed him\nAnd rubbed him down with bare palms.\nShe took from their bundle of possessions\nA broken comb and combed\nThe rust-colored hair left on his skull\nAnd then—humming in her eyes—began carefully to part it.\nIn their former life this was perhaps\nA little daily act of no consequence\nBefore his breakfast and school; now she did it\nLike putting flowers on a tiny grave.\n\nACHEBE, C. **Collected Poems.** New Yorrk: Anchor Books, 2004.\n\nO escritor nigeriano Chinua Achebe traz uma reflexão sobre a situação dos refugiados em um cenário pós-guerra civil em seu páis. Essa reflexão é construída no poema por meio da representação de uma mãe, explorando a(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Demonstração de orgulho por não precisar pedir doações.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descrições artísticas detalhadas de uma obra conhecida.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aceitação de um diagnóstico de doença terminal do filho.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Consternação ao visitar o túmulo do filho recém-falecido.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Impressões sensoriais experimentadas no ambiente.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.02318,
+      "escala": 702,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 3,
+      "idioma": "ingles",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/3?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "Oye, Pito, ésta es: la vida bruta de un boy\nmis tierras eran\nnuevo méxico, colorado,\ncalifornia, arizona, tejas,\ny muchos otros senderos,\naún cuando la luz existía\nsonrientemente\nen las palabras\nde mis antepasados…\nera entonces hombre,\nmaduro y sencillo\ncomo los cerros y los peñascos,\ny mi cultura era el atole,\nel chaquehue, y los buenos días;\nmi idioma cantaba\nversículos\npor los cañones\nde tierra roja\ny tierra amarilla…\nHoy sí, hoy ya no soy\nmejicano ni hispano\nni tampoco americano,\npero soy — y bien lo siento ser —\nuna sombra del pasado\ny un esfuerzo\nhacia el futuro…\n\n**SÁNCHEZ. R**. Disponível em: www.materialdelectura.unam.mx. _Acesso em: 4 dez. 2017._\n\nAo abordar a expropriação de territórios mexicanos pelos Estados Unidos, o eu lírico do poema revela um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rejeição da língua utilizada por seus antepassados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Desejo de pertencimento ao espaço estadunidense.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Certeza de manutenção de suas tradições.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reivindicação de um mundo unificado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sentimento de conflito de identidades.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.68118,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 4,
+      "idioma": "espanhol",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/4?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "**A Minor Bird**\n\nI have wished a bird would fly away,\nAnd not sing by my house all day;\n\nHave clapped my hands at him from the door\nWhen it seemed as if I could bear no more.\nThe fault must partly have been in me.\nThe bird was not to blame for his keys.\n\nAnd of course there must be something wrong\nIn waiting to silence any song.\n\nFROST, R. West-running Brook. New York: Henry Holt and Company, 1928.\n\nNo poema de Robert Frost, as palavras fault e blame revelam por parte do eu lírico uma",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Culpa por não poder cuidar do pássaro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Atitude errada por querer matar o pássaro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Necessidade de entender o silêncio do pássaro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sensibilização com relação à natureza do pássaro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Irritação quanto à persistência do canto do pássaro.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.238,
+      "escala": 624,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 4,
+      "idioma": "ingles",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/4?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "Poco después apareció en casa de Elisenda Morales,\narrastrando su cansancio y las contrariedades de un largo\ndía que habla dejado su ánimo en ruínas. A pesar de todo,\nsupo resistirlo, y cuando ella le ofreció una copa de\nmistela, abandonó su asiento para ir hasta la tienda en\nbusca de algo más estimulante.\nAllí, en el corredor dela casa, en taburetes separados,\nrecibieron los primeros cálidos soplos de la noche. Con su\nhabitual entereza, Elisenda entró a conectar la luz de la\nsala, sofocando parte de su reflejo, mientras comentaba\nque así estarían mejor. Al menos, pensó el tio Camarillo,\nno habia sacado la lámpara como otras veces, ni le había\nentregado alguno de sus álbumes, y parecía en cambio\ndecidida a mantener en ascuas al vecindario. Aquélla fue\nla primera vez que en mucho tiempo dejaron de lado el\ntema de las rentas, para entrar con pies de plomo en el\nespinoso terreno de las confidencias.\n\n**SÁNCHEZ, H. El héroe de la familia. Bogotá. Tercer Mundo, 1988.**\n\nNo texto, no qual é narrada a visita à casa de uma personagem, a expressão “entrar con pies de plomo” é utilizada para se referir ao(à)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determinação para conduzir discussões pessoais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Insensibilidade para lidar com temas do passado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Discrição para administrar questões financeiras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Disposição para resolver problemas familiares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Cuidado para tratar de assuntos íntimos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.69608,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 5,
+      "idioma": "espanhol",
+      "provaMicrodados": "577",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/5?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
     }
   },
@@ -140,6 +519,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -147,6 +527,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 6,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/6",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -193,6 +574,7 @@
       "https://enem.dev/2020/questions/7/8cae3db7-3d36-4e39-a58d-1ae299222289.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -200,6 +582,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 7,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/7",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -244,6 +627,7 @@
     "habilidade": 14,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -251,6 +635,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 8,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/8",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -295,6 +680,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -302,6 +688,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 9,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/9",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -346,6 +733,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -353,6 +741,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 10,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/10",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -397,6 +786,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -404,6 +794,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 11,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/11",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -448,6 +839,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -455,6 +847,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 12,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/12",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -499,6 +892,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -506,6 +900,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 13,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/13",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -552,6 +947,7 @@
       "https://enem.dev/2020/questions/14/242f89ec-6963-40c2-b02b-8f8f4f20167e.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -559,6 +955,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 14,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/14",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -605,6 +1002,7 @@
       "https://enem.dev/2020/questions/15/9aee0809-7e40-49d8-9230-57a7ae6d6374.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -612,6 +1010,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 15,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/15",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -656,6 +1055,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -663,6 +1063,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 16,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/16",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -707,6 +1108,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -714,6 +1116,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 17,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/17",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -758,6 +1161,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -765,6 +1169,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 18,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/18",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -809,6 +1214,7 @@
     "habilidade": 4,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -816,6 +1222,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 19,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/19",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -860,6 +1267,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -867,6 +1275,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 20,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/20",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -911,6 +1320,7 @@
     "habilidade": 13,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -918,6 +1328,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 21,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/21",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -964,6 +1375,7 @@
       "https://enem.dev/2020/questions/22/e2bb4218-b673-46d0-8ba4-70eefe576fae.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -971,6 +1383,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 22,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/22",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1015,6 +1428,7 @@
     "habilidade": 22,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1022,6 +1436,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 23,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/23",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1066,6 +1481,7 @@
     "habilidade": 27,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1073,6 +1489,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 24,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/24",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1119,6 +1536,7 @@
       "https://enem.dev/2020/questions/25/600a478d-bf8d-46fb-9e38-cd71bcf3464c.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1126,6 +1544,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 25,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/25",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1172,6 +1591,7 @@
       "https://enem.dev/2020/questions/26/8abef0c5-b053-4973-9ace-4fa17bf73d53.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1179,6 +1599,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 26,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/26",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1223,6 +1644,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1230,6 +1652,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 27,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/27",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1274,6 +1697,7 @@
     "habilidade": 14,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1281,6 +1705,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 28,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/28",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1325,6 +1750,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1332,6 +1758,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 29,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/29",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1378,6 +1805,7 @@
       "https://enem.dev/2020/questions/30/bc547f7a-bd4f-429d-b888-d64bbd7fbd0b.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1385,6 +1813,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 30,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/30",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1429,6 +1858,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1436,6 +1866,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 31,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/31",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1480,6 +1911,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1487,6 +1919,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 32,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/32",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1533,6 +1966,7 @@
       "https://enem.dev/2020/questions/33/b55ca6dc-ef55-4bdb-b9d7-a91df9eb6d6f.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1540,6 +1974,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 33,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/33",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1584,6 +2019,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1591,6 +2027,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 34,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/34",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1635,6 +2072,7 @@
     "habilidade": 9,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1642,6 +2080,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 35,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/35",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1686,6 +2125,7 @@
     "habilidade": 11,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1693,6 +2133,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 36,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/36",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1739,6 +2180,7 @@
       "https://enem.dev/2020/questions/37/66ad553a-1aa0-423d-ba1c-c52e70be284d.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1746,6 +2188,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 37,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/37",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1790,6 +2233,7 @@
     "habilidade": 24,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1797,6 +2241,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 38,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/38",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1841,6 +2286,7 @@
     "habilidade": 3,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1848,6 +2294,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 39,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/39",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1892,6 +2339,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1899,6 +2347,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 40,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/40",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1943,6 +2392,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1950,6 +2400,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 41,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/41",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -1994,6 +2445,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2001,6 +2453,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 42,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/42",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -2045,6 +2498,7 @@
     "habilidade": 29,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2052,6 +2506,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 43,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/43",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -2098,6 +2553,7 @@
       "https://enem.dev/2020/questions/44/2676a98e-0b86-425d-a2ed-429ede0b2438.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2105,6 +2561,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 44,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/44",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
@@ -2149,6 +2606,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -2156,6 +2614,7 @@
       "area": "LC",
       "cor": "AZUL",
       "numero": 45,
+      "idioma": null,
       "provaMicrodados": "577",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/45",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"

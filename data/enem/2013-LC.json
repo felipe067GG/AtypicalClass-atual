@@ -1,0 +1,2682 @@
+[
+  {
+    "numero": 91,
+    "enunciado": "TUTE. **Tutelandia**. Disponível em: www.gocomics.com. Acesso em: 20 fev. 2012\n\nA charge evoca uma situação de disputa. Seu efeito humorístico reside no(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aceitação imediata da provocação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descaracterização do convite a um desafio.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Sugestão de armas não convencionais para um duelo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Deslocamento temporal do comentário lateral.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Posicionamento relaxado dos personagens.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.151,
+      "escala": 515,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png"
+    ],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 91,
+      "idioma": "espanhol",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/91?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 91,
+    "enunciado": "**After prison blaze kills hundreds in Honduras,** **UN warns on overcrowding**\n\n       15 February 2012\n\n       A United Nations human rights official today called on Latin American countries to tackle the problem of prison overcrowding in the wake of an overnight fire at a jail in Honduras that killed hundreds of inmates. More than 300 prisoners are reported to have died in the blaze at the prison, located north of the capital, Tegucigalpa, with dozens of others still missing and presumed dead. Antonio Maldonado, human rights adviser for the UN system in Honduras, told UN Radio today that overcrowding may have contributed to the death toll. “But we have to wait until a thorough investigation is conducted so we can reach a precise cause,” he said. “But of course there is a problem of overcrowding in the prison system, not only in this country, but also in many other prisons in Latin America.”\n\nDisponível em: www.un.org. Acesso em: 22 fev. 2012 (adaptado).\n\nOs noticiários destacam acontecimentos diários, que são veiculados em jornal impresso, rádio, televisão e internet. Nesse texto, o acontecimento reportado é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorrência de um incêndio em um presídio superlotado em Honduras.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Questão da superlotação nos presídios em Honduras e na América Latina.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Investigação da morte de um oficial das Nações Unidas em visita a um presídio.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conclusão do relatório sobre a morte de mais de trezentos detentos em Honduras.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Causa da morte de doze detentos em um presídio superlotado ao norte de Honduras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.6737,
+      "escala": 567,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 91,
+      "idioma": "ingles",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/91?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**Duerme negrito**\n\nDuerme, duerme, negrito,\nque tu mamá está en el campo,\nnegrito…\n\nTe va a traer\ncodornices para ti.\n\nTe va a traer\ncarne de cerdo para ti.\nTe va a traer\nmuchas cosas para ti \\[…\\]\n\nDuerme, duerme, negrito,\nque tu mamá está en el campo,\nnegrito…\nTrabajando, trabajando duramente, trabajando sí.\nTrabajando y no le pagan,\ntrabajando sí.\n\nDisponível em: http://letras.mus.br. Acesso em: 26 jun. 2012 (fragmento).\n\nDuerme negrito é uma cantiga de ninar da cultura popula hispânica, cuja letra problematiza uma questão social, ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Destacar o orgulho da mulher como provedora do lar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Evidenciar a ausência afetiva da mãe na criação do filho.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Retratar a precariedade das relações do trabalho no campo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ressaltar a inserção da mulher no mercado de trabalho rural.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exaltar liricamente a voz materna na formação cidadã do filho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.6769,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 92,
+      "idioma": "espanhol",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/92?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**National Geographic News**\n\nChristine Dell’Amore\nPublished April 26, 2010\n\nOur bodies produce a small steady amount of natural morphine, a new study suggests. Traces of the chemical are often found in mouse and human urine, leading scientists to wonder whether the drug is being made naturally or being delivered by something the subjects consumed. The new research shows that mice produce the “incredible painkiller” — and that humans and ther mammals possess the same chemical road map for making it, said study co-author Meinhart Zenk, who studies plant-based pharmaceuticals at the Donald Danforth Plant Science Center in St. Louis, Missouri.\n\nDisponível em: www.nationalgeographic.com. Acesso em: 27 jul. 2010.\n\nAo ler a matéria publicada na National Geographic, para a realização de um trabalho escolar, um estudante descobriu que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os compostos químicos da morfina, produzidos por humanos, são manipulados no Missouri.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os ratos e os humanos possuem a mesma via metabólica para produção de morfina.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A produção de morfina em grande quantidade minimiza a dor em ratos e humanos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os seres humanos têm uma predisposição genética para inibir a dor.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A produção de morfina é um traço incomum entre os animais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.7203,
+      "escala": 572,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 92,
+      "idioma": "ingles",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/92?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "Pero un dia, le fue presentado a Cortés un tributo bien distinto: un obsequio de veinte esclavas llegó hasta el campamento español y entre ellas, Cortés escogió a una.\nDescrita por el cronista de la expedición, Bernal Días del Castillo, como mujer de “buen parecer y entremetida y desenvuelta”, el nombre indígena de esta mujer era Malintzin, indicativo de que había nacido bajo signos de contienda y desventura. Sus padres la vendieron como esclava; los españoles la llamaron doña Marina, pero su pueblo la llamó la Malinche, la mujer del conquistador, la traidora a los indios. Pero con cualquiera de estos nombres, la mujer conoció un extraordinario destino. Se convirtió en “mi lengua”, pues Cortés la hizo su intérprete y amante, la lengua que habría de guiarle a lo largo y alto del Imperio azteca, demonstrando que algo estaba podrido en el reino de Moctezuma, que en efecto existía gran descontento y que el Imperio tenía pies de barro.\n\nFUENTES, C. **El espejo enterrado.** Ciudad de México: FCE, 1992 (fragmento).\n\nMalinche, ou Malintzin, foi uma figura chave na história da conquista espanhola na América, ao atuar como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intérprete do conquistador, possibilitando-lhe conhecer as fragilidades do Império.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Escrava dos espanhóis, colocando-se a serviço dos objetivos da Coroa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Amante do conquistador, dando origem à miscigenação étnica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Voz do seu povo, defendendo os interesses políticos do Império asteca.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Maldição dos astecas, infundindo a corrupção no governo de Montezuma.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.6953,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 93,
+      "idioma": "espanhol",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/93?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "**Steve Jobs: A Life Remembered 1955-2011**\n\n_Readersdigest.ca takes a look back at Steve Jobs, and his contribution to our digital world._\n\nCEO. Tech-Guru. Artist. There are few corporate figures as famous and well-regarded as former-Apple CEO Steve Jobs. His list of achievements is staggering, and his contribution to modern technology, digital media, and indeed the world as a whole, cannot be downplayed.\nWith his passing on October 5, 2011, readersdigest.ca looks back at some of his greatest achievements, and pays our respects to a digital pioneer who helped pave the way for a generation of technology, and possibilities, few could have imagined.\n\nDisponível em: www.readersdigest.ca. Acesso em: 25 fev. 2012\n\nInformações sobre pessoas famosas são recorrentes na mídia, divulgadas de forma impressa ou virtualmente. Em relação a Steve Jobs, esse texto propõe",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expor as maiores conquistas da sua empresa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descrever suas criações na área da tecnologia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Enaltecer sua contribuição para o mundo digital.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Lamentar sua ausência na criação de novas tecnologias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Discutir o impacto de seu trabalho para a geração digital.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.0103,
+      "escala": 501,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 93,
+      "idioma": "ingles",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/93?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "**Cabra sola**\n\nHay quien dice que soy como la cabra;\nLo dicen lo repiten, ya lo creo;\nPero soy una cabra muy extraña\nQue lleva una medalla y siete cuernos.\n¡Cabra! Em vez de mala leche yo doy llanto.\n¡Cabra! Por lo más peligroso me paseo.\n¡Cabra! Me llevo bien con alimañas todas,\n¡Cabra! Y escribo en los tebeos.\nVivo sola, cabra sola,\n— que no quise cabrito en compañía —\ncuando subo a lo alto de este valle\nsiempre encuentro un lirio de alegría.\nY vivo por mi cuenta, cabra sola;\nQue yo a ningún rebaño pertenezco.\nSi sufrir es estar como una cabra,\nEntonces sí lo estoy, no dudar de ello.\n\nFUERTES, G. **Poeta de guardia.** Barcelona; Lumen, 1990.\n\nNo poema, o eu lírico se compara à cabra e no quinto verso utiliza a expressão “mala leche” para se autorrepresentar como uma pessoa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Influenciável pela opinião das demais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Consciente de sua diferença perante as outras.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Conformada por não pertencer a nenhum grupo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Corajosa diante de situações arriscadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Capaz de transformar mau humor em pranto.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 4.2086,
+      "escala": 921,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 94,
+      "idioma": "espanhol",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/94?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "**Do one thing for diversity and inclusion**\n\n   The United Nations Alliance of Civilizations (UNAOC) is launching a campaign aimed at engaging people around the world to _Do One Thing_ to support Cultural Diversity and Inclusion. Every one of us can do ONE thing for diversity and inclusion; even one very little thing can become a global action if we all take part in it.\n\n   **Simple things YOU can do to celebrate the World Day for Cultural Diversity for Dialogue and Development on May 21.**\n\n1\\. Visit an art exhibit or a museum dedicated to other cultures.\n2\\. Read about the great thinkers of other cultures.\n3\\. Visit a place of worship different than yours and participate in the celebration.\n4\\. Spread your own culture around the world and learn about other cultures.\n5\\. Explore music of a different culture.\n\nThere are thousands of things that you can do, **are you taking part in it?**\n\nUNITED NATIONS ALLIANCE OF CIVILIZATIONS. Disponível em: www.unaoc.org. Acesso em: 16 fev. 2013 (adaptado).\n\nInternautas costumam manifestar suas opiniões sobre artigos on-line por meio da postagem de comentários. O comentário que exemplifica o engajamento proposto na quarta dica da campanha apresentada no texto é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“Lá na minha escola, aprendi a jogar capoeira para uma apresentação no Dia da Consciência Negra.”",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "“Outro dia assisti na TV uma reportagem sobre respeito à diversidade. Gente de todos os tipos, várias tribos. Curti bastante.”",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "“Eu me inscrevi no Programa Jovens Embaixadores para mostrar o que tem de bom em meu país e conhecer outras formas de ser.”",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "“Curto muito bater papo na internet. Meus amigos estrangeiros me ajudam a aperfeiçoar minha proficiência em língua estrangeira.”",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "“Pesquisei em sites de culinária e preparei uma festa árabe para uns amigos da escola. Eles adoraram, principalmente, os doces!”",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.4795,
+      "escala": 548,
+      "faixa": "Fácil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 94,
+      "idioma": "ingles",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/94?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "**Pensar la lengua del siglo XXI** \n\nAceptada la dicotomía entre “español general” académico y “español periférico” americano, la capacidad financiera de la Real Academia, apoyada por la corona y las grandes empresas transnacionales españolas, no promueve la conservación de la unidad, sino la unificación del español, dirigida e impuesta desde España (la Fundación Español Urgente: Fundeu). Unidad y unificación no son lo mismo: la unidad ha existido siempre y com ella la variedad de la lengua, riqueza suprema de nuestras culturas nacionales; la unificación lleva a la pérdida de las diferencias culturales, que nutren al ser humano y son tan importantes como la diversidad biológica de la Tierra.\nCulturas nacionales: desde que nacieron los primeros criollos, mestizos y mulatos en el continente hispanoamericano, las diferencias de colonización, las improntas que dejaron en las nacientes sociedades americanas los pueblos aborígenes, la explotación de las riquezas naturales, las redes comerciales coloniales fueron creando culturas propias, diferentes entre sí, aunque con el fondo común de la tradición española. Después de las independencias, cuando se instituyeron nuestras naciones, bajo diferentes influencias, ya francesas, ya inglesas; cuando los inmigrantes italianos, sobre todo, dieron su pauta a Argentina, Uruguay o Venezuela, esas culturas nacionales se consolidaron y con ellas su español, pues la lengua es, ante todo, constituyente. Así, el español actual de España no es sino una más de las lenguas nacionales del mundo hispánico. El español actual es el conjunto de veintidós españoles nacionales, que tienen sus propias características; ninguno vale más que otro. La lengua del siglo XXI es, por eso, una lengua pluricéntrica.\n\nLARA, L.F. Disponível em: www.revistaenie.clarin.com. Acesso em: 25 fev. 2013.\n\nO texto aborda a questão da língua espanhola no século XXI e tem como função apontar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As especificidades culturais rompem com a unidade hispânica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "As variedades do espanhol têm igual relevância linguística e cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A unidade linguística do espanhol fortalece a identidade cultural hispânica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A consolidação das diferenças da língua prejudica sua projeção mundial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A unificação da língua enriquece a competência linguística dos falantes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.6042,
+      "escala": 560,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 95,
+      "idioma": "espanhol",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/95?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "A partir da leitura dessa tirinha, infere-se que o discurso de Calvin teve um efeito diferente do pretendido, uma vez que ele",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Decide tirar a neve do quintal para convencer seu pai sobre seu discurso.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Culpa o pai por exercer influência negativa na formação de sua personalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Comenta que suas discussões com o pai não correspondem às suas expectativas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conclui que os acontecimentos ruins não fazem falta para a sociedade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reclama que é vítima de valores que o levam a atitudes inadequadas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.8477,
+      "escala": 585,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2013/questions/95-ingles/94d1c589-c9f9-4b32-a4e9-cdc21e625368.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 95,
+      "idioma": "ingles",
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/95?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 96,
+    "enunciado": "GRUPO ESCOLAR DE PALMEIRAS. Redações de Maria Anna de Biase e J. B. Pereira sobre a Bandeira Nacional. Palmeiras (SP), 18 nov. 1911. Acervo APESP. Coleção DAESP. C10279. Disponível em: www.arquivoestado.sp.gov.br. Acesso em: 15 maio 2013. (Foto: Reprodução)\n\nO documento foi retirado de uma exposição on-line de manuscritos do estado de São Paulo do início do século XX. Quanto à relevância social para o leitor da atualidade, o texto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Funciona como veículo de transmissão de valores patrióticos próprios do período em que foi escrito.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cumpre uma função instrucional de ensinar regras de comportamento em eventos cívicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Deixa subentendida a ideia de que o brasileiro preserva as riquezas naturais do país.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Argumenta em favor da construção de uma nação com igualdade de direitos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta uma metodologia de ensino restrita a uma determinada época.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.049,
+      "escala": 505,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2013/questions/96/3a9ca0a8-abbc-4592-847a-00e02249182a.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 96,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/96",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 97,
+    "enunciado": "O jogo é uma atividade ou ocupação voluntária, exercida dentro de certos e determinados limites de tempo e de espaço, segundo regras livremente consentidas, mas absolutamente obrigatórias, dotado de um fim em si mesmo, acompanhado de um sentimento de tensão e de alegria e de uma consciência de ser diferente da “vida quotidiana”.\n\nHUIZINGA, J. **Homo ludens: o jogo como elemento da cultura**. São Paulo: Perspectiva, 2004.\n\nSegundo o texto, o jogo comporta a possibilidade de fruição. Do ponto de vista das práticas corporais, essa fruição se estabelece por meio do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fixação de táticas, que define a padronização para maior alcance popular.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Competitividade, que impulsiona o interesse pelo sucesso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Refinamento técnico, que gera resultados satisfatórios.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Caráter lúdico, que permite experiências inusitadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Uso tecnológico, que amplia as opções de lazer.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.1791,
+      "escala": 618,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 97,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/97",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 98,
+    "enunciado": "**Novas tecnologias**\n\nAtualmente, prevalece na mídia um discurso de exaltação das novas tecnologias, principalmente aquelas ligadas às atividades de telecomunicações. Expressões frequentes como “o futuro já chegou”, “maravilhas tecnológicas” e “conexão total com o mundo” “fetichi – zam” novos produtos, transformando-os em objetos do desejo, de consumo obrigatório. Por esse motivo **carregamos** hoje nos bolsos, bolsas e mochilas o “futuro” tão festejado.\nTodavia, não podemos reduzir-nos a meras vítimas de um aparelho midiático perverso, ou de um aparelho capitalista controlador. Há perversão, certamente, e controle, sem sombra de dúvida. Entretanto, **desenvolvemos** uma relação simbiótica de dependência mútua com os veículos de comunicação, que se estreita a cada imagem compartilhada e a cada dossiê pessoal transformado em objeto público de entretenimento.\nNão mais como aqueles acorrentados na caverna de Platão, **somos** livres para nos aprisionar, por espontânea vontade, a esta relação sadomasoquista com as estruturas midiáticas, na qual tanto **controlamos** quanto somos controlados.\n\nSAMPAIO A. S. **A microfísica do espetáculo**. Disponível em: http://observatoriodaimprensa.com.br. Acesso em: 1 mar 2013 (adaptado).\n\nAo escrever um artigo de opinião, o produtor precisa criar uma base de orientação linguística que permita alcançar os leitores e convencê-los com relação ao ponto de vista defendido. Diante disso, nesse texto, a escolha das formas verbais em destaque objetiva",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Criar relação de subordinação entre leitor e autor, já que ambos usam as novas tecnologias.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Enfatizar a probabilidade de que toda população brasileira esteja aprisionada às novas tecnologias.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar, de forma clara, o ponto de vista de que hoje as pessoas são controladas pelas novas tecnologias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tornar o leitor copartícipe do ponto de vista de que ele manipula as novas tecnologias e por elas é manipulado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Demonstrar ao leitor sua parcela de responsabilidade por deixar que as novas tecnologias controlem as pessoas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.7114,
+      "escala": 571,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 98,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/98",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 99,
+    "enunciado": "**Olá! Negro** \n\nOs netos de teus mulatos e de teus cafuzos\ne a quarta e a quinta gerações de teu sangue sofredor\ntentarão apagar a tua cor!\nE as gerações dessas gerações quando apagarem\na tua tatuagem execranda,\nnão apagarão de suas almas, a tua alma, negro!\nPai-João, Mãe-negra, Fulô, Zumbi,\nnegro-fujão, negro cativo, negro rebelde\nnegro cabinda, negro congo, negro íoruba,\nnegro que foste para o algodão de USA\npara os canaviais do Brasil,\npara o tronco, para o colar de ferro, para a canga\nde todos os senhores do mundo;\neu melhor compreenda agora os teus blues\nnesta hora triste da raça branca, negro!\nOlá, Negro! Olá. Negro!\nA raça que te enforca, enforca-se de tédio, negro!\n\nLIMA. J, **Obras completas**: Rio de Janeiro, Aguilar, 1958 (fragmento).\n\nO conflito de gerações e de grupos étnicos reproduz, na visão do eu lírico, um contexto social assinalado por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Modernização dos modos de produção e consequente enriquecimento dos brancos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Preservação da memória ancestral e resistência negra à apatia cultural dos brancos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Superação dos costumes antigos por meio da incorporação de valores dos colonizados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Nivelamento social de descendentes de escravos e de senhores pela condição de pobreza.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Antagonismo entre grupos de trabalhadores e lacunas de hereditariedade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.1447,
+      "escala": 614,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 99,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/99",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 100,
+    "enunciado": "**Até quando?**\n\nNão adianta olhar pro céu\nCom muita fé e pouca luta\nLevanta aí que você tem muito protesto pra fazer\nE muita greve, você pode, você deve, pode crer\nNão adianta olhar pro chão\nVirar a cara pra não ver\nSe liga aí que te botaram numa cruz e só porque Jesus\nSofreu não quer dizer que você tenha que sofrer!\n\nGABRIEL, O PENSADOR. **Seja você mesmo (mas não seja sempre o mesmo)**. Rio de Janeiro: Sony Music, 2001 (fragmento).\n\nAs escolhas linguísticas feitas pelo autor conferem ao texto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caráter atual, pelo uso de linguagem própria da internet.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cunho apelativo, pela predominância de imagens metafóricas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tom de diálogo, pela recorrência de gírias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Espontaneidade, pelo uso da linguagem coloquial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Originalidade, pela concisão da linguagem.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.9435,
+      "escala": 794,
+      "faixa": "Difícil"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 100,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/100",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 101,
+    "enunciado": "**Manta que costura causos e histórias no seio de uma família serve de metáfora da memória em obra escrita por autora portuguesa** \n\nO que poderia valer mais do que a manta para aquela família? Quadros de pintores famosos? Joias de rainha? Palácios? Uma manta feita de centenas de retalhos de roupas velhas aquecia os pés das crianças e a memória da avó, que a cada quadrado apontado por seus netos resgatava de suas lembranças uma história. Histórias fantasiosas como a do vestido com um bolso que abrigava um gnomo comedor de biscoitos; histórias de traquinagem como a do calção transformado em farrapos no dia em que o menino, que gostava de andar de bicicleta de olhos fechados, quebrou o braço; histórias de saudades, como o avental que carregou uma carta por mais de um mês … Muitas histórias formavam aquela manta. Os protagonistas eram pessoas da família, um tio, uma tia, o avô, a bisavó, ela mesma, os antigos donos das roupas. Um dia, a avó morreu, e as tias passaram a disputar a manta, todas a queriam, mais do que aos quadros, joias e palácios deixados por ela. Felizmente, as tias conseguiram chegar a um acordo, e a manta passou a ficar cada mês na casa de uma delas. E os retalhos, à medida que iam se acabando, eram substituídos por outros retalhos, e novas e antigas histórias foram sendo incorporadas à manta mais valiosa do mundo.\n\nLASEVICIUS, A. **Língua Portuguesa**, São Paulo, n. 76, 2012 (adaptado).\n\nA autora descreve a importância da manta para aquela família, ao verbalizar que “novas e antigas histórias foram sendo incorporadas à manta mais valiosa do mundo”. Essa valorização evidencia-se pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oposição entre os objetos de valor, como joias, palácios e quadros, e a velha manta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descrição detalhada dos aspectos físicos da manta, como cor e tamanho dos retalhos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Valorização da manta como objeto de herança familiar disputado por todos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Comparação entre a manta que protege do frio e a manta que aquecia os pés das crianças.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Correlação entre os retalhos da manta e as muitas histórias de tradição oral que os formavam.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.59,
+      "escala": 659,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 101,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/101",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 102,
+    "enunciado": "O **hipertexto** permite – ou, de certo modo, em alguns casos, até mesmo exige – a participação de diversos autores na sua construção, a redefinição dos papéis de autor e leitor e a revisão dos modelos tradicionais de leitura e de escrita. Por seu enorme potencial para se estabelecerem conexões, ele facilita o desenvolvimento de trabalhos coletivamente, o estabelecimento da comunicação e a aquisição de informação de maneira cooperativa.\n\nEmbora haja quem identifique o hipertexto exclusiva – mente com os textos eletrônicos, produzidos em determinado tipo de meio ou de tecnologia, ele não deve ser limitado a isso, já que consiste numa forma organizacional que tanto pode ser concebida para o papel como para os ambientes digitais. É claro que o texto virtual permite concretizar certos aspectos que, no papel, são praticamente inviáveis: a conexão imediata, a comparação de trechos de textos na mesma tela, o “mergulho” nos diversos aprofundamentos de um tema, como se o texto tivesse camadas, dimensões ou planos.\n\nRAMAL, A. C. **Educação na cibercultura:** hipertextualidade, leitura, escrita e aprendizagem. Porto Alegre: Artmed, 2002.\n\nConsiderando-se a linguagem específica de cada sistema de comunicação, como rádio, jornal, TV, internet, segundo o texto, a hipertextualidade configura-se como um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elemento originário dos textos eletrônicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Conexão imediata e reduzida ao texto digital.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Novo modo de leitura e de organização da escrita.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estratégia de manutenção do papel do leitor com perfil definido.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Modelo de leitura baseado nas informações da superfície do texto.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.6603,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 102,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/102",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 103,
+    "enunciado": "Disponível em: http://orion-oblog.blogspot.com.br. Acesso em: 6 jun. 2012 (adaptado).\n\nO cartaz aborda a questão do aquecimento global. A relação entre os recursos verbais e não verbais nessa propaganda revela que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O discurso ambientalista propõe formas radicais de resolver os problemas climáticos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A preservação da vida na Terra depende de ações de dessalinização da água marinha.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A acomodação da topografia terrestre desencadeia o natural degelo das calotas polares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O descongelamento das calotas polares diminui a quantidade de água doce potável do mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A agressão ao planeta é dependente da posição assumida pelo homem frente aos problemas ambientais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.2629,
+      "escala": 474,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2013/questions/103/1e52e81d-f67f-4767-92a9-363e81f41e52.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 103,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/103",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 104,
+    "enunciado": "**Lusofonia**\n\n_rapariga:_ s.f., fem. de rapaz: mulher nova; moça; menina; (Brasil), meretriz.\n\nEscrevo um poema sobre a rapariga que está sentada\nno café, em frente da chávena de café, enquanto\nalisa os cabelos com a mão. Mas não posso escrever este\npoema sobre essa rapariga porque, no brasil, a palavra\nrapariga não quer dizer o que ela diz em portugal. Então,\nterei de escrever a mulher nova do café, a jovem do café,\na menina do café, para que a reputação da pobre rapariga\nque alisa os cabelos com a mão, num café de lisboa, não\nfique estragada para sempre quando este poema atravessar o\natlântico para desembarcar no rio de janeiro. E isto tudo\nsem pensar em áfrica, porque aí lá terei\nde escrever sobre a moça do café, para\nevitar o tom demasiado continental da rapariga, que é\numa palavra que já me está a pôr com dores\nde cabeça até porque, no fundo, a única coisa que eu queria\nera escrever um poema sobre a rapariga do\ncafé. A solução, então, é mudar de café, e limitar-me a\nescrever um poema sobre aquele café onde nenhuma\nrapariga se pode sentar à mesa porque só servem café ao balcão.\n\nJÚDICE, N. **Matéria do Poema.** Lisboa: D. Quixote, 2008.\n\nO texto traz em relevo as funções metalinguística e poética. Seu caráter metalinguístico justifica-se pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Discussão da dificuldade de se fazer arte inovadora no mundo contemporâneo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Defesa do movimento artístico da pós-modernidade, típico do século XX.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Abordagem de temas do cotidiano, em que a arte se volta para assuntos rotineiros.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tematização do fazer artístico, pela discussão do ato de construção da própria obra.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização do efeito de estranhamento causado no público, o que faz a obra ser reconhecida.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.8377,
+      "escala": 584,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 104,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/104",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 105,
+    "enunciado": "Art. 2º Considera-se criança, para os efeitos desta lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade. \\[…\\]\nArt 3º A criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade.\nArt 4° É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. \\[…\\]\n\nBRASIL. Lei n. 8 069, de 13 de julho de 1990. **Estatuto da criança e do adolescente**. Disponível em: www.planalto.gov.br (fragmento).\n\nPara cumprir sua função social, o Estatuto da criança e do adolescente apresenta características próprias desse gênero quanto ao uso da língua e quanto à composição textual. Entre essas características, destaca-se o emprego de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Repetição vocabular para facilitar o entendimento.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Palavras e construções que evitem ambiguidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expressões informais para apresentar os direitos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Frases na ordem direta para apresentar as informações mais relevantes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exemplificações que auxiliem a compreensão dos conceitos formulados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.1499,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 105,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/105",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 106,
+    "enunciado": "O sociólogo espanhol Manuel Castells sustenta que “a comunicação de valores e a mobilização em torno do sentido são fundamentais. Os movimentos culturais (entendidos como movimentos que têm como objetivo defender ou propor modos próprios de vida e sentido) constroem-se em torno de sistemas de comunicação – essencialmente a internet e os meios de comunicação – porque esta é a principal via que esses movimentos encontram para chegar àquelas pessoas que podem eventualmente partilhar os seus valores, e a partir daqui atuar na consciência da sociedade no seu conjunto”.\n\nDisponível em: www.compolitica.org. Acesso em: 2 mar. 2012 (adaptado).\n\nEm 2011, após uma forte mobilização popular via redes sociais, houve a queda do governo de Hosni Mubarak no Egito. Esse evento ratifica o argumento de que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A internet atribui verdadeiros valores culturais aos seus usuários.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A consciência das sociedades foi estabelecida com o advento da internet.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A revolução tecnológica tem como principal objetivo a deposição de governantes antidemocráticos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os sistemas de comunicação são mecanismos importantes, de adesão e compartilhamento de valores sociais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.1822,
+      "escala": 518,
+      "faixa": "Fácil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 106,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/106",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 107,
+    "enunciado": "**Secretaria de Cultura** \n\n**EDITAL**\n\n**NOTIFICAÇÃO** – Síntese da resolução publicada no Diário Oficial da Cidade, 29/07/2011 – página 41 – 511.a Reunião Ordinária, em 21/06/2011.\n\n**Resolução n.o 08/2011 – TOMBAMENTO** dos imóveis da Rua Augusta. n.o 349 e n.o 353, esquina com a Rua Marquês de Paranaquá, n.o 315. n.o 327 e n.o 329 (Setor 010, Quadra 026, Lotes 0016-2 e 00170-0), bairro da Consolação. Subprefeitura da Sé, conforme o processo administrativo n.o 1991-0.005.365-1.\n\nFolha de S. Paulo, 5 ago. 2011 (adaptado).\n\nUm leitor interessado nas decisões governamentais escreve uma carta para o jornal que publicou o edital, concordando com a resolução sintetizada no Edital da Secretaria de Cultura. Uma frase adequada para expressar sua concordância é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Que sábia iniciativa! Os prédios em péssimo estado de conservação devem ser derrubados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Até que enfim! Os edifícios localizados nesse trecho descaracterizam o conjunto arquitetônico da Rua Augusta.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Parabéns! O poder público precisa mostrar sua força como guardião das tradições dos moradores locais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Justa decisão! O governo dá mais um passo rumo à eliminação do problema da falta de moradias populares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Congratulações! O patrimônio histórico da cidade merece todo empenho para ser preservado.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.2096,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 107,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/107",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 108,
+    "enunciado": "**Adolescentes: mais altos, gordos e preguiçosos**\n\nA oferta de produtos industrializados e a falta de tempo têm sua parcela de responsabilidade no aumento da silhueta dos jovens. “Os nossos hábitos alimentares, de modo geral, mudaram muito”, observa Vivian Ellinger, presidente da Sociedade Brasileira de Endocrinologia e Metabologia (SBEM), no Rio de Janeiro. Pesquisas mostram que, aqui no Brasil, estamos exagerando no sal e no açúcar, além de tomar pouco leite e comer menos frutas e feijão.\n\nOutro pecado, velho conhecido de quem exibe excesso de gordura por causa da gula, surge como marca da nova geração: a preguiça, “Cem por cento das meninas que participam do Programa não praticavam nenhum esporte”, revela a psicóloga Cristina Freire, que monitora o desenvolvimento emocional das voluntárias.\n\nVocê provavelmente já sabe quais são as consequências de uma rotina sedentária e cheia de gordura. “E não é novidade que os obesos têm uma sobrevida menor”, acredita Claudia Cozer, endocrinologista da Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica. Mas, se há cinco anos os estudos projetavam um futuro sombrio para os jovens, no cenário atual as doenças que viriam na velhice já são parte da rotina deles. “Os adolescentes já estão sofrendo com hipertensão e diabete”, exemplifica Claudia.\n\nDESGUALDO, P. **Revista Saúde.** Disponível em: http://saude.abril.com.br.\nAcesso em: 28 jul. 2012 (adaptado).\n\nSobre a relação entre os hábitos da população adolescente e as suas condições de saúde, as informações apresentadas no texto indicam que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A falta de atividade física somada a uma alimentação nutricionalmente desequilibrada constituem fatores relacionados ao aparecimento de doenças crônicas entre os adolescentes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A diminuição do consumo de alimentos fontes de carboidratos combinada com um maior consumo de alimentos ricos em proteínas contribuíram para o aumento da obesidade entre os adolescentes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A maior participação dos alimentos industrializados e gordurosos na dieta da população adolescente tem tornado escasso o consumo de sais e açúcares, o que prejudica o equilíbrio metabólico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A ocorrência de casos de hipertensão e diabetes entre os adolescentes advém das condições de alimentação, enquanto que na população adulta os fatores hereditários são preponderantes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A prática regular de atividade física é um importante fator de controle da diabetes entre a população adolescente, por provocar um constante aumento da pressão arterial sistólica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.2884,
+      "escala": 471,
+      "faixa": "Fácil"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 108,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/108",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 109,
+    "enunciado": "KUCZYNSKIEGO, P. Ilustração, 2008. Disponível em: http://capu.pl. Acesso em 3 ago. 2012. (Foto: Reprodução)\n\nO artista gráfico polonês Pawla Kuczynskiego nasceu em 1976 e recebeu diversos prêmios por suas ilustrações.\n\nNessa obra, ao abordar o trabalho infantil, Kuczynskiego usa sua arte para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difundir a origem de marcantes diferenças sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Estabelecer uma postura proativa da sociedade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Provocar a reflexão sobre essa realidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Propor alternativas para solucionar esse problema.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Retratar como a questão é enfrentada em vários países do mundo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.1524,
+      "escala": 485,
+      "faixa": "Fácil"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2013/questions/109/86ca18ad-33a3-42fd-933f-a74f404f7923.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 109,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/109",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 110,
+    "enunciado": "CAULOS. Disponível em: www.caulos.com. Acesso em 24 set. 2011. (Foto: Reprodução)\n\nO cartum faz uma crítica social. A figura destacada está em oposição às outras e representa a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A opressão das minorias sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Carência de recursos tecnológicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Falta de liberdade de expressão.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Defesa da qualificação profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reação ao controle do pensamento coletivo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.4237,
+      "escala": 542,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [
+      "https://enem.dev/2013/questions/110/31fe6a6e-8c30-48fb-af8a-ad8ce7660434.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 110,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/110",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 111,
+    "enunciado": "Própria dos festejos juninos, a quadrilha nasceu como dança aristocrática, oriunda dos salões franceses, depois difundida por toda a Europa.\n\nNo Brasil, foi introduzida como dança de salão e, por sua vez, apropriada e adaptada pelo gosto popular. Para sua ocorrência, é importante a presença de um mestre “marcante” ou “marcador”, pois é quem determina as figurações diversas que os dançadores desenvolvem. Observa-se a constância das seguintes marcações: _“Tour”, “En avant”, “Chez des dames”, “Chez des chevaliê”_, “Cestinha de flor”, “Balancê”, “Caminho da roça”, “Olha a chuva”, “Garranchê”, “Passeio”, “Coroa de flores”, “Coroa de espinhos” etc.\n\nNo Rio de Janeiro, em contexto urbano, apresenta transformações: surgem novas figurações, o francês aportuguesado inexiste, o uso de gravações substitui a música ao vivo, além do aspecto de competição, que sustenta os festivais de quadrilha, promovidos por órgãos de turismo.\n\nCASCUDO, L. C. Dicionário do folclore brasileiro. Rio de Janeiro: Melhoramentos, 1976.\n\nAs diversas formas de dança são demonstrações da diversidade cultural do nosso país. Entre elas, a quadrilha é considerada uma dança folclórica por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possuir como característica principal os atributos divinos e religiosos e, por isso, identificar uma nação ou região.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Abordar as tradições e costumes de determinados povos ou regiões distintas de uma mesma nação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentar cunho artístico e técnicas apuradas, sendo, também, considerada dança-espetáculo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Necessitar de vestuário específico para a sua prática, o qual define seu país de origem.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Acontecer em salões e festas e ser influenciada por diversos gêneros musicais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.2792,
+      "escala": 472,
+      "faixa": "Fácil"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 111,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/111",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 112,
+    "enunciado": "**Jogar limpo**\n\nArgumentar não é ganhar uma discussão a qualquer preço. Convencer alguém de algo é, antes de tudo, uma alternativa à prática de ganhar uma questão no grito ou na violência física — ou não física. Não física, dois pontos. Um político que mente descaradamente pode cativar eleitores. Uma publicidade que joga baixo pode constranger multidões a consumir um produto danoso ao ambiente. Há manipulações psicológicas não só na religião. E é comum pessoas agirem emocionalmente, porque vítimas de ardilosa — e cangoteira — sedução. Embora a eficácia a todo preço não seja argumentar, tampouco se trata de admitir só verdades científicas — formar opinião apenas depois de ver a demonstração e as evidências, como a ciência faz. Argumentar é matéria da vida cotidiana, uma forma de retórica, mas é um raciocínio que tenta convencer sem se tornar mero cálculo manipulativo, e pode ser rigoroso sem ser científico.\n\nLíngua Portuguesa, São Paulo, ano 5, n. 66, abr. 2011 (adaptado).\n\nNo fragmento, opta-se por uma construção linguística bastante diferente em relação aos padrões normalmente empregados na escrita. Trata-se da frase “Não física, dois pontos”. Nesse contexto, a escolha por se representar por extenso o sinal de pontuação que deveria ser utilizado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enfatiza a metáfora de que o autor se vale para desenvolver seu ponto de vista sobre a arte de argumentar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "É um recurso estilístico que promove satisfatoriamente a sequenciação de ideias, introduzindo apostos exemplificativos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ilustra a flexibilidade na estruturação do gênero textual, a qual se concretiza no emprego da linguagem conotativa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Prejudica a sequência do texto, provocando estranheza no leitor ao não desenvolver explicitamente o raciocínio a partir de argumentos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.384,
+      "escala": 738,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 112,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/112",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 113,
+    "enunciado": "**A diva**\n\nVamos ao teatro, Maria José?\nQuem me dera,\ndesmanchei em rosca quinze kilos de farinha,\ntou podre. Outro dia a gente vamos.\nFalou meio triste, culpada,\ne um pouco alegre por recusar com orgulho.\nTEATRO! Disse no espelho.\nTEATRO! Mais alto, desgrenhada.\nTEATRO! E os cacos voaram\nsem nenhum aplauso.\nPerfeita.\n\nPRADO, A. Oráculos de maio. São Paulo: Siciliano, 1999.\n\nOs diferentes gêneros textuais desempenham funções sociais diversas, reconhecidas pelo leitor com base em suas características específicas, bem como na situação comunicativa em que ele é produzido. Assim, o texto A diva",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Narra um fato real vivido por Maria José.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Surpreende o leitor pelo seu efeito poético.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relata uma experiência teatral profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Descreve uma ação típica de uma mulher sonhadora.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defende um ponto de vista relativo ao exercício teatral.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.8532,
+      "escala": 685,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 113,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/113",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 114,
+    "enunciado": "Pertencentes ao patrimônio cultural brasileiro, a carta de Pero Vaz de Caminha e a obra de Portinari retratam a chegada dos portugueses ao Brasil. Da leitura dos textos, constata-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A carta de Pero Vaz de Caminha representa uma das primeiras manifestações artísticas dos portugueses em terras brasileiras e preocupa-se apenas com a estética literária.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A tela de Portinari retrata indígenas nus com corpos pintados, cuja grande significação é a afirmação da arte acadêmica brasileira e a contestação de uma linguagem moderna.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A carta, como testemunho histórico-político, mostra o olhar do colonizador sobre a gente da terra, e a pintura destaca, em primeiro plano, a inquietação dos nativos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "As duas produções, embora usem linguagens diferentes — verbal e não verbal —, cumprem a mesma função social e artística.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A pintura e a carta de Caminha são manifestações de grupos étnicos diferentes, produzidas em um mesmo momento histórico, retratando a colonização.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.361,
+      "escala": 536,
+      "faixa": "Fácil"
+    },
+    "habilidade": 14,
+    "imagens": [
+      "https://enem.dev/2013/questions/114/aac80934-559a-4244-bca8-133d8a9b4aa4.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 114,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/114",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 115,
+    "enunciado": "**Querô**\n\nDELEGADO — Então desce ele. Vê o que arrancam desse sacana.\nSARARÁ — Só que tem um porém. Ele é menor.\nDELEGADO — Então vai com jeito. Depois a gente entrega pro juiz.\n_(Luz apaga no delegado e acende no repórter, que se dirige ao público.)\n_REPÓRTER — E o Querô foi espremido, empilhado, esmagado de corpo e alma num cubículo imundo, com outros meninos. Meninos todos espremidos, empilhados, esmagados de corpo e alma, alucinados pelos seus desesperos, cegados por muitas aflições. Muitos meninos, com seus desesperos e seus ódios, empilhados, espremidos, esmagados de corpo e alma no imundo cubículo do reformatório. E foi lá que o Querô cresceu.\n\nMARCOS, P. Melhor teatro. São Paulo: Global, 2003 (fragmento).\n\nNo discurso do repórter, a repetição causa um efeito de sentido de intensificação, construindo a ideia de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Opressão física e moral, que gera rancor nos meninos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Repressão policial e social, que gera apatia nos meninos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Polêmica judicial e midiática, que gera confusão entre os meninos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Concepção educacional e carcerária, que gera comoção nos meninos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Informação crítica e jornalística, que gera indignação entre os meninos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.0369,
+      "escala": 496,
+      "faixa": "Fácil"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 115,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/115",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 116,
+    "enunciado": "**Mal secreto**\n\nSe a cólera que espuma, a dor que mora\nN’aIma, e destrói cada ilusão que nasce,\nTudo o que punge, tudo o que devora\nO coração, no rosto se estampasse;\n\nSe se pudesse, o espirito que chora,\nVer através da máscara da face,\nQuanta gente, talvez, que inveja agora\nNos causa, então piedade nos causasse!\n\nQuanta gente que ri, talvez, consigo\nGuarda um atroz, recôndito inimigo,\nComo invisível chaga cancerosa!\n\nQuanta gente que ri, talvez existe,\nCuja ventura única consiste\nEm parecer aos outros venturosa!\n\n(CORREIA, R. In: PATRIOTA, M. Para compreender Raimundo Correia. Brasilia: Alhambra, 1995.)\n\nCoerente com a proposta parnasiana de cuidado formal e racionalidade na condução temática, o soneto de Raimundo Correia reflete sobre a forma como as emoções do indivíduo são julgadas em sociedade. Na concepção do eu lírico, esse julgamento revela que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A necessidade de ser socialmente aceito leva o indivíduo a agir de forma dissimulada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O sofrimento íntimo torna-se mais ameno quando compartilhado por um grupo social.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A capacidade de perdoar e aceitar as diferenças neutraliza o sentimento de inveja.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O instinto de solidariedade conduz o indivíduo a apiedar-se do próximo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A transfiguração da angústia em alegria é um artifício nocivo ao convívio social.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.6917,
+      "escala": 569,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 116,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/116",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 117,
+    "enunciado": "Mesmo tendo a trajetória do movimento interrompida com a prisão de seus dois líderes, o tropicalismo não deixou de cumprir seu papel de vanguarda na música popular brasileira. A partir da década de 70 do século passado, em lugar do produto musical de exportação de nível internacional prometido pelos baianos com a “retomada da linha evolutória”, instituiu-se nos meios de comunicação e na indústria do lazer uma nova era musical.\n\nTINHORÃO, J. R. **Pequena história da música popular**: da modinha ao tropicalismo. São Paulo: Art, 1986 (adaptado).\n\nA nova era musical mencionada no texto evidencia um gênero que incorporou a cultura de massa e se adequou à realidade brasileira. Esse gênero está representado pela obra cujo trecho da letra é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A estrela d'alva / No céu desponta / E a lua anda tonta / Com tamanho esplendor. (As pastorinhas, Noel Rosa e João de Barro)",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Hoje / Eu quero a rosa mais linda que houver / Quero a primeira estrela que vier / Para enfeitar a noite do meu bem. (A noite do meu bem, Dolores Duran)",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "No rancho fundo / Bem pra lá do fim do mundo / Onde a dor e a saudade / Contam coisas da cidade. (No rancho fundo, Ary Barroso e Lamartine Babo)",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Baby Baby / Não adianta chamar / Quando alguém está perdido / Procurando se encontrar. (Ovelha negra, Rita Lee)",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Pois há menos peixinhos a nadar no mar / Do que os beijinhos que eu darei / Na sua boca. (Chega de saudade, Tom Jobim e Vinicius de Moraes)",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.5567,
+      "escala": 656,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 117,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/117",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 118,
+    "enunciado": "**Futebol: “A rebeldia é que muda o mundo”**\n\n_Conheça a história de Afonsinho, o primeiro jogador do futebol brasileiro a derrotar a cartolagem e a conquistar o Passe Livre, há exatos 40 anos_\n\nPelé estava se aposentando pra valer pela primeira vez, então com a camisa do Santos (porque depois voltaria a atuar pelo New York Cosmos, dos Estados Unidos), em 1972, quando foi questionado se, finalmente, sentia-se um homem livre. O Rei respondeu sem titubear:\n— Homem livre no futebol só conheço um: o Afonsinho. Este sim pode dizer, usando as suas palavras, que deu o grito de independência ou morte. Ninguém mais. O resto é conversa.\nApesar de suas declarações serem motivo de chacota por parte da mídia futebolística e até dos torcedores brasileiros, o Atleta do Século acertou. E provavelmente acertaria novamente hoje.\nPela admiração por um de seus colegas de clube daquele ano. Pelo reconhecimento do caráter e personalidade de um dos jogadores mais contestadores do futebol nacional. E principalmente em razão da história de luta — e vitória — de Afonsinho sobre os cartolas.\n\nANDREUCCI, R. Disponível em: http://carosamigos.terra.com.br. Acesso em: 19 ago. 2011.\n\nO autor utiliza marcas linguísticas que dão ao texto um caráter informal. Uma dessas marcas é identificada em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“[...] o Atleta do Século acertou.”",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "“O Rei respondeu sem titubear [...]”.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "“E provavelmente acertaria novamente hoje.”",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "“Pelé estava se aposentando pra valer pela primeira vez [...]”.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "“Pela admiração por um de seus colegas de clube daquele ano.”",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.6776,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 118,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/118",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 119,
+    "enunciado": "Nessa charge, o recurso morfossintático que colabora para o efeito de humor está indicado pelo(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Emprego de uma oração adversativa, que orienta a quebra da expectativa ao final.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de conjunção aditiva, que cria uma relação de causa e efeito entre as ações.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Retomada do substantivo \"mãe\", que desfaz a ambiguidade dos sentidos a ele atribuídos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Utilização da forma pronominal \"la\", que reflete um tratamento formal do filho em relação à \"mãe\".",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Repetição da forma verbal \"é\", que reforça a relação de adição existente entre as orações.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.1491,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2013/questions/119/01e29074-f21d-4f84-a197-0f5b11f2f053.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 119,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/119",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 120,
+    "enunciado": "Pelas características da linguagem visual e pelas escolhas vocabulares, pode-se entender que o texto possibilita a reflexão sobre uma problemática contemporânea ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Criticar o transporte rodoviário brasileiro, em razão da grande quantidade de caminhões nas estradas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ironizar a dificuldade de locomoção no trânsito urbano, devida ao grande fluxo de veículos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expor a questão do movimento como um problema existente desde tempos antigos, conforme frase citada.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Restringir os problemas de tráfego a veículos particulares, defendendo, como solução, o transporte público.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Propor a ampliação de vias nas estradas, detalhando o espaço exíguo ocupado pelos veículos nas ruas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.5436,
+      "escala": 446,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2013/questions/120/e72b41dd-02c3-4cba-b6fd-2179bfe0f465.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 120,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/120",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 121,
+    "enunciado": "Gripado, penso entre espirros em como a palavra gripe nos chegou após uma série de contágios entre línguas. Partiu da Itália em 1743 a epidemia de gripe que disseminou pela Europa, além do vírus propriamente dito, dois vocábulos virais: o italiano _influenza_ e o francês _grippe_. O primeiro era um termo derivado do latim medieval _influentia_, que significava “influência dos astros sobre os homens”. O segundo era apenas a forma nominal do verbo _gripper_, isto é, “agarrar”. Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.\n\nRODRIGUES, S. Sobre palavras.**Veja**, São Paulo, 30 nov. 2011.\n\nPara se entender o trecho como uma unidade de sentido, é preciso que o leitor reconheça a ligação entre seus elementos. Nesse texto, a coesão é construída predominantemente pela retomada de um termo por outro e pelo uso da elipse. O fragmento do texto em que há coesão por elipse do sujeito é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“[...] a palavra gripe nos chegou após uma série de contágios entre línguas.”",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "“Partiu da Itália em 1743 a epidemia de gripe [...]”.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "“O primeiro era um termo derivado do latim medieval influentia, que significava ‘influência dos astros sobre os homens’.”",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "“O segundo era apenas a forma nominal do verbo gripper [...]”.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "“Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.”",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.7244,
+      "escala": 672,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 121,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/121",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 122,
+    "enunciado": "**Capítulo LIV — A pêndula**\n\nSaí dali a saborear o beijo. Não pude dormir; estirei-me na cama, é certo, mas foi o mesmo que nada. Ouvi as horas todas da noite. Usualmente, quando eu perdia o sono, o bater da pêndula fazia-me muito mal; esse tiquetaque soturno, vagaroso e seco parecia dizer a cada golpe que eu ia ter um instante menos de vida. Imaginava então um velho diabo, sentado entre dois sacos, o da vida e o da morte, e a contá-las assim:\n\n— Outra de menos…\n— Outra de menos…\n— Outra de menos…\n— Outra de menos…\n\nO mais singular é que, se o relógio parava, eu dava-lhe corda, para que ele não deixasse de bater nunca, e eu pudesse contar todos os meus instantes perdidos. Invenções há, que se transformam ou acabam; as mesmas instituições morrem; o relógio é definitivo e perpétuo. O derradeiro homem, ao despedir-se do sol frio e gasto, há de ter um relógio na algibeira, para saber a hora exata em que morre.\nNaquela noite não padeci essa triste sensação de enfado, mas outra, e deleitosa. As fantasias tumultuavam-me cá dentro, vinham umas sobre outras, à semelhança de devotas que se abalroam para ver o anjo-cantor das procissões. Não ouvia os instantes perdidos, mas os minutos ganhados.\n\nASSIS, M. **Memórias póstumas de Brás Cubas**. Rio de Janeiro: Nova Aguilar, 1992 (fragmento).\n\nO capítulo apresenta o instante em que Brás Cubas revive a sensação do beijo trocado com Virgília, casada com Lobo Neves. Nesse contexto, a metáfora do relógio desconstrói certos paradigmas românticos, porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O narrador e Virgília não têm percepção do tempo em seus encontros adúlteros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Como “defunto autor”, Brás Cubas reconhece a inutilidade de tentar acompanhar o fluxo do tempo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Na contagem das horas, o narrador metaforiza o desejo de triunfar e acumular riquezas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O relógio representa a materialização do tempo e redireciona o comportamento idealista de Brás Cubas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O narrador compara a duração do sabor do beijo à perpetuidade do relógio.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.6499,
+      "escala": 665,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 122,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/122",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 123,
+    "enunciado": "**Para Carr, internet atua no comércio da distração**\n\n_Autor de “A Geração Superficial” analisa a influência da tecnologia na mente_\n\nO jornalista americano Nicholas Carr acredita que a internet não estimula a inteligência de ninguém. O autor explica descobertas científicas sobre o funcionamento do cérebro humano e teoriza sobre a influência da internet em nossa forma de pensar.\nPara ele, a rede torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.\nMais: Carr afirma que há empresas obtendo lucro com a recente fragilidade de nossa atenção. “Quanto mais tempo passamos _on-line_ e quanto mais rápido passamos de uma informação para a outra, mais dinheiro as empresas de internet fazem”, avalia.\n“Essas empresas estão no comércio da distração e são _experts_ em nos manter cada vez mais famintos por informação fragmentada em partes pequenas. É claro que elas têm interesse em nos estimular e tirar vantagem da nossa compulsão por tecnologia.”\n\nROXO, E. **Folha de S. Paulo**, 18 fev. 2012 (adaptado).\n\nA crítica do jornalista norte-americano que justifica o título do texto é a de que a internet",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mantém os usuários cada vez menos preocupados com a qualidade da informação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Desestimula a inteligência, de acordo com descobertas científicas sobre o cérebro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Influencia nossa forma de pensar com a superficialidade dos meios eletrônicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Garante a empresas a obtenção de mais lucro com a recente fragilidade de nossa atenção.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.1235,
+      "escala": 612,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 123,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/123",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 124,
+    "enunciado": "Tudo no mundo começou com um sim. Uma molécula disse sim a outra molécula e nasceu a vida. Mas antes da pré-história havia a pré-história da pré-história e havia o nunca e havia o sim. Sempre houve. Não sei o quê, mas sei que o universo jamais começou.\n\\[…\\]\nEnquanto eu tiver perguntas e não houver resposta continuarei a escrever. Como começar pelo início, se as coisas acontecem antes de acontecer? Se antes da pré- pré-história já havia os monstros apocalípticos? Se esta história não existe, passará a existir. Pensar é um ato. Sentir é um fato. Os dois juntos — sou eu que escrevo o que estou escrevendo. \\[…\\] Felicidade? Nunca vi palavra mais doida, inventada pelas nordestinas que andam por aí aos montes.\nComo eu irei dizer agora, esta história será o resultado de uma visão gradual — há dois anos e meio venho aos poucos descobrindo os porquês. É visão da iminência de. De quê? Quem sabe se mais tarde saberei. Como que estou escrevendo na hora mesma em que sou lido. Só não inicio pelo fim que justificaria o começo — como a morte parece dizer sobre a vida — porque preciso registrar os fatos antecedentes.\n\nLISPECTOR, C. A hora da estrela. Rio de Janeiro: Rocco, 1998 (fragmento).\n\nA elaboração de uma voz narrativa peculiar acompanha a trajetória literária de Clarice Lispector, culminada com a obra A hora da estrela, de 1977, ano da morte da escritora. Nesse fragmento, nota-se essa peculiaridade porque o narrador",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Observa os acontecimentos que narra sob uma ótica distante, sendo indiferente aos fatos e às personagens.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Relata a história sem ter tido a preocupação de investigar os motivos que levaram aos eventos que a compõem.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Revela-se um sujeito que reflete sobre questões existenciais e sobre a construção do discurso.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Admite a dificuldade de escrever uma história em razão da complexidade para escolher as palavras exatas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Propõe-se a discutir questões de natureza filosófica e metafísica, incomuns na narrativa de ficção.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.6201,
+      "escala": 562,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 124,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/124",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 125,
+    "enunciado": "**TEXTO I**\n\nÉ evidente que a vitamina D é importante — mas como obtê-la? Realmente, a vitamina D pode ser produzida naturalmente pela exposição à luz do sol, mas ela também existe em alguns alimentos comuns. Entretanto, como fonte dessa vitamina, certos alimentos são melhores do que outros. Alguns possuem uma quantidade significativa de vitamina D, naturalmente, e são alimentos que talvez você não queira exagerar: manteiga, nata, gema de ovo e fígado.\n\nDisponível em: http://saude.hsw.uol.com.br. Acesso em: 31 jul. 2012.\n\n**TEXTO II**\n\nTodos nós sabemos que a vitamina D (colecalciferol) é crucial para sua saúde. Mas a vitamina D é realmente uma vitamina? Está presente nas comidas que os humanos normalmente consomem? Embora exista em algum percentual na gordura do peixe, a vitamina D não está em nossas dietas, a não ser que os humanos artificialmente incrementem um produto alimentar, como o leite enriquecido com vitamina D. A natureza planejou que você a produzisse em sua pele, e não a colocasse direto em sua boca. Então, seria a vitamina D realmente uma vitamina?\n\nDisponível em: www.umaoutravisao.com.br. Acesso em: 31 jul. 2012.\n\nFrequentemente circulam na mídia textos de divulgação científica que apresentam informações divergentes sobre um mesmo tema. Comparando os dois textos, constata-se que o Texto II contrapõe-se ao I quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comprova cientificamente que a vitamina D não é uma vitamina.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Demonstra a verdadeira importância da vitamina D para a saúde.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Enfatiza que a vitamina D é mais comumente produzida pelo corpo que absorvida por meio de alimentos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Afirma que a vitamina D existe na gordura dos peixes e no leite, não em seus derivados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Levanta a possibilidade de o corpo humano produzir artificialmente a vitamina D.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.0238,
+      "escala": 502,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 125,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/125",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 126,
+    "enunciado": "**O _bit_ na galáxia de Gutenberg**\n\nNeste século, a escrita divide terreno com diversos meios de comunicação. Essa questão nos faz pensar na necessidade da “imbricação, na coexistência e interpretação recíproca dos diversos circuitos de produção e difusão do saber…”.\nÉ necessário relativizar nossa postura frente às modernas tecnologias, principalmente à informática. Ela é um campo novidativo, sem dúvida, mas suas bases estão nos modelos informativos anteriores, inclusive, na tradição oral e na capacidade natural de simular mentalmente os acontecimentos do mundo e antecipar as consequências de nossos atos. A impressão é a matriz que deflagrou todo esse processo comunicacional eletrônico. Enfatizo, assim, o parentesco que há entre o computador e os outros meios de comunicação, principalmente a escrita, uma visão da informática como um “desdobramento daquilo que a produção literária impressa e, anteriormente, a tradição oral já traziam consigo”.\n\nNEITZEL, L. C. Disponível em: www.geocities.com. Acesso em: 1 ago. 2012 (adaptado).\n\nAo tecer considerações sobre as tecnologias da contemporaneidade e os meios de comunicação do passado, esse texto concebe que a escrita contribui para uma evolução das novas tecnologias por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se desenvolver paralelamente nos meios tradicionais de comunicação e informação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cumprir função essencial na contemporaneidade por meio das impressões em papel.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar transição relevante da tradição oral para o progresso das sociedades humanas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Oferecer melhoria sistemática do padrão de vida e do desenvolvimento social humano.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fornecer base essencial para o progresso das tecnologias de comunicação e informação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.7425,
+      "escala": 574,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 126,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/126",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 127,
+    "enunciado": "A contemporaneidade identificada na performance / instalação do artista mineiro Paulo Nazareth reside principalmente na forma como ele",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resgata conhecidas referências do modernismo mineiro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Utiliza técnicas e suportes tradicionais na construção das formas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Articula questões de identidade, território e códigos de linguagens.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Imita o papel das celebridades no mundo contemporâneo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Camufla o aspecto plástico e a composição visual de sua montagem.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.4971,
+      "escala": 550,
+      "faixa": "Fácil"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2013/questions/127/6c4ad328-1883-4e39-a89b-cd5369e58862.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 127,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/127",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 128,
+    "enunciado": "Os objetivos que motivam os seres humanos a estabelecer comunicação determinam, em uma situação de interlocução, o predomínio de uma ou de outra função de linguagem. Nesse texto, predomina a função que se caracteriza por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tentar persuadir o leitor acerca da necessidade de se tomarem certas medidas para a elaboração de um livro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Enfatizar a percepção subjetiva do autor, que projeta para sua obra seus sonhos e histórias.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Apontar para o estabelecimento de interlocução de modo superficial e automático, entre o leitor e o livro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fazer um exercício de reflexão a respeito dos princípios que estruturam a forma e o conteúdo de um livro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Retratar as etapas do processo de produção de um livro, as quais antecedem o contato entre leitor e obra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.2374,
+      "escala": 624,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2013/questions/128/376aa4c4-4442-4c33-9e0d-f0498006d862.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 128,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/128",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 129,
+    "enunciado": "O poema de Oswald de Andrade remonta à ideia de que a brasilidade está relacionada ao futebol. Quanto à questão da identidade nacional, as anotações em torno dos versos constituem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Direcionamentos possíveis para uma leitura crítica de dados histórico-culturais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Forma clássica da construção poética brasileira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Rejeição à ideia do Brasil como o país do futebol.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Intervenções de um leitor estrangeiro no exercício de leitura poética.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Lembretes de palavras tipicamente brasileiras substitutivas das originais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.6539,
+      "escala": 565,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2013/questions/129/cc49fcc3-5c50-4580-b123-ca942355c592.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 129,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/129",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 130,
+    "enunciado": "Na verdade, o que se chama genericamente de índios é um grupo de mais de trezentos povos que, juntos, falam mais de 180 línguas diferentes. Cada um desses povos possui diferentes histórias, lendas, tradições, conceitos e olhares sobre a vida, sobre a liberdade, sobre o tempo e sobre a natureza. Em comum, tais comunidades apresentam a profunda comunhão com o ambiente em que vivem, o respeito em relação aos indivíduos mais velhos, a preocupação com as futuras gerações, e o senso de que a felicidade individual depende do êxito do grupo. Para eles, o sucesso é resultado de uma construção coletiva. Estas ideias, partilhadas pelos povos indígenas, são indispensáveis para construir qualquer noção moderna de civilização. Os verdadeiros representantes do atraso no nosso país não são os índios, mas aqueles que se pautam por visões preconceituosas e ultrapassadas de “progresso”.\n\nAZZI, R. As razões de ser guarani-kaiowá. Disponível em: www.outraspalavras.net. Acesso em: 7 dez. 2012.\n\nConsiderando-se as informações abordadas no texto, ao iniciá-lo com a expressão “Na verdade”, o autor tem como objetivo principal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expor as características comuns entre os povos indígenas no Brasil e suas ideias modernas e civilizadas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Trazer uma abordagem inédita sobre os povos indígenas no Brasil e, assim, ser reconhecido como especialista no assunto.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mostrar os povos indígenas vivendo em comunhão com a natureza, e, por isso, sugerir que se deve respeitar o meio ambiente e esses povos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Usar a conhecida oposição entre moderno e antigo como uma forma de respeitar a maneira ultrapassada como vivem os povos indígenas em diferentes regiões do Brasil.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentar informações pouco divulgadas a respeito dos indígenas no Brasil, para defender o caráter desses povos como civilizações, em contraposição a visões preconcebidas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.1191,
+      "escala": 512,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 130,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/130",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 131,
+    "enunciado": "A tirinha denota a postura assumida por seu produtor frente ao uso social da tecnologia para fins de interação e de informação. Tal posicionamento é expresso, de forma argumentativa, por meio de uma atitude",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crítica, expressa pelas ironias.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Resignada, expressa pelas enumerações.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Indignada, expressa pelos discursos diretos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Agressiva, expressa pela contra-argumentação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Alienada, expressa pela negação da realidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.22,
+      "escala": 478,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2013/questions/131/3af16380-2fa2-4832-99fc-9013fcc12b26.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 131,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/131",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 132,
+    "enunciado": "**Dúvida**\n\nDois compadres viajavam de carro por uma estrada de fazenda quando um bicho cruzou a frente do carro.\nUm dos compadres falou:\n— Passou um largato ali!\nO outro perguntou:\n— Lagarto ou largato?\nO primeiro respondeu:\n— Num sei não, o bicho passou muito rápido.\n\n**Piadas coloridas**. Rio de Janeiro: Gênero, 2006.\n\nNa piada, a quebra de expectativa contribui para produzir o efeito de humor. Esse efeito ocorre porque um dos personagens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reconhece a espécie do animal avistado.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tem dúvida sobre a pronúncia do nome do réptil.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Desconsidera o conteúdo linguístico da pergunta.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Constata o fato de um bicho cruzar a frente do carro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta duas possibilidades de sentido para a mesma palavra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.7506,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 132,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/132",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 133,
+    "enunciado": "Analisando-se as informações verbais e a imagem associada a uma cabeça humana, compreende-se que a venda",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Faz uma denúncia quanto às informações que são omitidas dos usuários da rede, sendo empregada no sentido conotativo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diz respeito a um buraco negro digital, onde estão escondidas as informações buscadas pelo usuário nos sites que acessa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Está associada a um conjunto de restrições sociais presentes na vida daqueles que estão sempre conectados à internet.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Remete às bases de dados da web, protegidas por senhas ou assinaturas e às quais o navegador não tem acesso.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.3599,
+      "escala": 536,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 133,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/133",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 134,
+    "enunciado": "**O que é _bullying_ virtual ou _cyberbullying_?**\n\nÉ o _bullying_ que ocorre em meios eletrônicos, com mensagens difamatórias ou ameaçadoras circulando por _e-mails, sites, blogs_ (os diários virtuais), redes sociais e celulares. É quase uma extensão do que dizem e fazem na escola, mas com o agravante de que as pessoas envolvidas não estão cara a cara. Dessa forma, o anonimato pode aumentar a crueldade dos comentários e das ameaças e os efeitos podem ser tão graves ou piores. “O autor, assim como o alvo, tem dificuldade de sair de seu papel e retomar valores esquecidos ou formar novos”, explica Luciene Tognetta, doutora em Psicologia Escolar e pesquisadora da Faculdade de Educação da Universidade Estadual de Campinas (Unicamp).\n\nDisponível em: http://revistaescola.abril.com.br. Acesso em: 3 ago. 2012 (adaptado).\n\nSegundo o texto, com as tecnologias de informação e comunicação, a prática do bullying ganha novas nuances de perversidade e é potencializada pelo fato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atingir um grupo maior de espectadores.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dificultar a identificação do agressor incógnito.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Impedir a retomada de valores consolidados pela vítima.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Possibilitar a participação de um número maior de autores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Proporcionar o uso de uma variedade de ferramentas da internet.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.0689,
+      "escala": 507,
+      "faixa": "Fácil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 134,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/134",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 135,
+    "enunciado": "Os gráficos expõem dados estatísticos por meio de linguagem verbal e não verbal. No texto, o uso desse recurso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exemplifica o aumento da expectativa de vida da população.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Explica o crescimento da confiança na instituição do casamento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mostra que a população brasileira aumentou nos últimos cinco anos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Indica que as taxas de casamento e emprego cresceram na mesma proporção.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sintetiza o crescente número de casamentos e de ocupação no mercado de trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.3301,
+      "escala": 467,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2013/questions/135/a7313775-7367-40b7-a57e-e55826f71f8f.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "LC",
+      "cor": "AZUL",
+      "numero": 135,
+      "idioma": null,
+      "provaMicrodados": "177",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/135",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  }
+]

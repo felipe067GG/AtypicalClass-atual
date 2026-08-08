@@ -63,7 +63,11 @@ for (const arquivo of arquivos) {
 
     // Identidade única. Duas questões com o mesmo ano e número seriam a mesma
     // entrando duas vezes, e ninguém notaria numa lista de mil.
-    const chave = `${ano}-${q.numero}`
+    //
+    // O idioma faz parte da identidade: as cinco questões de língua estrangeira
+    // existem em inglês e espanhol, com enunciados e gabaritos diferentes, e
+    // são duas questões legítimas na mesma posição.
+    const chave = `${ano}-${q.numero}-${q.idioma ?? ""}`
     if (vistas.has(chave)) problemas.push(`${onde}: repetida`)
     vistas.add(chave)
 

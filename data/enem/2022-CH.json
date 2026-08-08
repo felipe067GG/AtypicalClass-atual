@@ -1,0 +1,2262 @@
+[
+  {
+    "numero": 46,
+    "enunciado": "Espera, resignado, o dia 13 daquele mês porque, em tal data, usança avoenga lhe faculta sondar o futuro, interrogando a providência. É a experiência tradicional de Santa Luzia. No dia 12 ao anoitecer expõe ao relento, em linha, seis pedrinhas de sal, que representam, em ordem sucessiva da esquerda para a direita, os seis meses vindouros, de janeiro a junho. Ao alvorecer de 13 observa-as: se estão intactas, pressagiam a seca; se a primeira apenas se deliu,  transmudada em aljôfar límpido, é certa a chuva em janeiro; se a segunda, em fevereiro; se a maioria ou todas, é inevitável O inverno benfazejo. Esta experiência é belíssima.\n\nCUNHA, E. **Os sertões**. São Paulo: Editora Três, 1984.\n\nNo experimento descrito, a relação com a paisagem e com a religiosidade permite que o sertanejo seja",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Afeito à devoção ao aceitar destinos sacralizados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Acostumado à pobreza ao admitir acasos naturais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Habituado ao solo ao conhecer terrenos cultiváveis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Íntimo à Caatinga ao interpretar condições ambientais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Próximo à vegetação ao identificar espécies arbustivas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.34897,
+      "escala": 635,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 46,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/46",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 47,
+    "enunciado": "Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem ou experimentam só tem sentido na medida em que pode ser discutido. Haverá, talvez, verdades que ficam além da linguagem e que podem ser de grande relevância para o homem no singular, isto é, para o homem que, seja o que for, não é um ser político. Mas homens no plural, isto é, os homens que vivem e se movem e agem neste mundo, só podem experimentar o significado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos.\n\nARENDT, H. **A condição humana**. Rio de Janeiro: Forense Universitária, 2004.\n\nNo trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entendimento da cultura.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da criatividade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Percepção da individualidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Melhoria da técnica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Construção da sociabilidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.65728,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 47,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/47",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 48,
+    "enunciado": "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma o preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos em regime de chibata?\n\nJESUS, C. M. **Quarto de despejo: diário de uma favelada**. São Paulo: Ática, 2014.\n\nO texto que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Racismo estrutural.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Desemprego latente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Concentração de renda.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Exclusão informacional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Precariedade da educação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.42411,
+      "escala": 458,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 48,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/48",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 49,
+    "enunciado": "**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**\n\nA intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nível altimétrico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ciclo hidrológico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Padrão climático.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tectônica das placas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estrutura das rochas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.59055,
+      "escala": 559,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2022/questions/49/ba3420e0-0e8e-42b0-bf25-a995abbb85d2.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 49,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/49",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 50,
+    "enunciado": "Na construção da ferrovia Madeira-Marmoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios fabris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vitimas, contudo, permaneceriam na sombra a margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que  não lhes concedera tempo algum para ser decifrada.\n\nFOOT HARDWAN, F. Trem fantasma: modernidade na selva\n\nSão Paulo: Cia das letras,1968 adaptado\n\nNo texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Discrepância entre engenharia ambiental e equilíbrio da fauna",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Incoerência entre maquinaria estrangeira e controle da floresta",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incompatibilidade entre investimento estatal e proteção aos nativos",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Competição entre farmacologia internacional e produtos de fitoterapia",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contradição entre desenvolvimento nacional e respeito aos trabalhadores",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.59325,
+      "escala": 659,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 50,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/50",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 51,
+    "enunciado": "Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, para identificar suas características global e em rede funda – mentais e diferenciadas e enfatizar sua interligação. É informacional porque depende basicamente de sua capa – cidade de gerar, processar e aplicar de forma eficiente a informação baseada em conhecimentos. É global porque seus componentes estão organizados em escala global, diretamente ou mediante uma rede de conexões entre agentes econômicos. É rede porque é feita em uma rede\nglobal de interação entre redes empresariais.\n\nCASTELLS, M. A sociedade em rede – a era da informação:\neconomia, sociedade e cultura. São Paulo: Paz e Terra, 1999\n(adaptado).\n\nQual mudança estrutural é resultado da forma de organização econômica descrita no texto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fabricação em série.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação de estoques.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fragilização dos cartéis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Padronização de mercadorias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desterritorialização da produção.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.19623,
+      "escala": 620,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 51,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/51",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 52,
+    "enunciado": "Olhar O Brasil e não ver o sertão\nÉ como negar o queijo com a faca na mão\nEsse gigante em movimento\nMovido a tijolo e cimento\nPrecisa de arroz com feijão\nQue tenha comida na mesa\nQue agradeça sempre a grandeza\nDe cada pedaço de pão\nAgradeça a Clemente\nQue leva a semente\nEm seu embornal\nZezé e o penoso balé\nDe pisar no cacau\nMaria que amanhece o dia\nLá no milharal\n\n**VANDER LEE. Do Brasil, In: Pensei que fosse o céu: ao vivo. Rio de Janeiro: Indie Records, 2006 (fragmento).**\n\nA letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua função de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fornecer a mão de obra qualificada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Incorporar a inovação tecnológica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Preservar a diversidade biológica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Promover a produção alimentar.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Garantir a moradia básica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.51644,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 52,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/52",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 53,
+    "enunciado": "O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas novelas, muitas divulgadas em capítulos, seções, classificadas comumente como folhetim, alçou a um gênero de ficção corrente já em 1840, fazendo parte do florescimento da literatura nacional brasileira, instigando a formação e a ampliação de um público leitor feminino, ávido por novidades, pelo apelo dos folhetins e “narrativas modernas” que encenavam “os dramas e os conflitos de uma mulher em processo de transformação patriarcal e provinciana que, progressivamente, começava a se abrir para modernizar seus costumes”. No Segundo Reinado, as mulheres foram se tornando público determinante na construção da literatura e da imprensa nacional. E não apenas público, porquanto crescerá o número de escritoras que colaboram para isso e emergirá uma imprensa feminina, editada, escrita e dirigida por e para mulheres.\n\n**ABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920), Revista Temas em Educação, n. 24, 2015 (adaptado).**\n\nO registro das atividades descritas associa a inserção da figura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Surgimento de novas práticas culturais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Contestação de antigos hábitos masculinos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Valorização de recentes publicações juvenis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Circulação de variados manuais pedagógicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aparecimento de diversas editoras comerciais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.87454,
+      "escala": 587,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 53,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/53",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 54,
+    "enunciado": "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas.\n\n**POPINIGIS, F. “Todas as liberdades são irmãs: os caixeiros e as lutas dos trabalhadores por  direitos entre o Império e a República. Estudos Históricos, n. 59, set-dez. 2018 (adaptado)**\n\nA atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manutenção das regras patronais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Desprendimento das ideias liberais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fortalecimento dos contratos laborais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Consolidação das estruturas sindicais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contestação dos princípios monárquicos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.08511,
+      "escala": 709,
+      "faixa": "Difícil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 54,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/54",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 55,
+    "enunciado": "Solos salinos ou alomórficos apresentam como característica comum uma concentração muito alta de sais solúveis e/ou de sódio trocável. Eles ocorrem nos locais mais baixos do relevo, em regiões áridas e semiáridas e próximas do mar. Em regiões semiáridas, por exemplo, o polígono das secas do Nordeste brasileiro, os locais menos elevados recebem água que se escoa dos declives adjacentes, durante as chuvas que caem em alguns meses do ano. Essa água traz soluções de sais minerais e evapora-se rapidamente antes de infiltrar-se totalmente, havendo então, cada vez que esse processo é repetido, um pequeno acúmulo de sais no horizonte superficial que, com o passar dos anos, provoca a salinização do solo. Nas últimas décadas, a expansão das atividades agrícolas na região tem ampliado esse processo.\n\n**LEPSCH, |. F. Solos: formação e conservação. São Paulo: Melhoramentos, 1993 (adaptado).**\n\nAs atividades agrícolas, desenvolvidas na região mencionada, intensificam o problema ambiental exposto ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar florestamentos de pinus, desrespeitando a prática do pousio.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Utilizar sistemas de irrigação, desprezando uma drenagem adequada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Instalar açudes nos grotões, retardando a velocidade da vazão fluvial.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desmatar áreas de preservação permanente, causando assoreamento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aplicar fertilizantes de origem orgânica, modificando a química da terra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.33974,
+      "escala": 734,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 55,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/55",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 56,
+    "enunciado": "**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**\n\n**TEXTO II**\nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?\n\n**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**\n\nA crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporárea:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exclusão social.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Expansão digital.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Manifestação cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Organização espacial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização intelectual.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.1754,
+      "escala": 482,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2022/questions/56/0a4f1ebf-a011-4562-9d7d-c09766683612.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 56,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/56",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 57,
+    "enunciado": "O leproso é visto dentro de uma prática de rejeição, ao exílio-cerca; deixa-se que se perca lá dentro como numa massa que não têm muita importância diferenciar; os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e a sua divisão; a peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político.\n\n**FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.**\n\nOs modelos autoritários descritos no texto apontam para um sistema de controle que se baseia no(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formação de sociedade disciplinar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Flexibilização do regramento social.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Banimento da autoridade repressora.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Condenação da degradação humana.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Hierarquização da burocracia estatal.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.85756,
+      "escala": 686,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 57,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/57",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 58,
+    "enunciado": "**TEXTO I**\nEm março de 1889, quando apareceram as primeiras romarias atraídas pelos milagres da beata Maria de Araújo, Juazeiro inseriu-se no rol da fundação do espaço religioso. Construía-se mais um centro, como Aparecida do Norte, Canindé ou Lourdes.\n\n**RAMOS, F. R. L. O meio do mundo: território sagrado em Juazeiro do Padre Cícero. Fortaleza: Imprensa Universitária, 2014.**\n\n**TEXTO II**\nNão sabemos ao certo quantas pessoas estavam presentes na capela no momento em que a hóstia sangrou na boca de Maria de Araújo. O Padre Cícero nos conta que o fato surpreendeu não só aos presentes, mas o fenômeno continuou acontecendo todas as quartas e sextas na Capela de Nossa Senhora das Dores a partir daquele dia. Os paninhos manchados do sangue que escorria da hóstia e da boca da beata, a princípio ficaram sob a guarda do Padre Cícero, mas logo foram expostos à visitação pública e, além disso, o sangramento foi proclamado como milagre sem o conhecimento e sem a autorização do bispo diocesano.\n\n**NOBRE, E. Incêndios da alma. Rio de Janeiro. Multifoco. 2016 (Adaptado).**\n\nAs práticas religiosas mencionadas nos textos estão associadas, respectivamente, à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Delimitação de paisagens urbanas e abandono de componentes espiritualistas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expansão de fronteiras regionais e subjetivação do cristianismo medieval.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criação de lugares místicos e experiências do catolicismo popular.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.47561,
+      "escala": 548,
+      "faixa": "Fácil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 58,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/58",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 59,
+    "enunciado": "Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias mudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa de compras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a explicitamente com a segurança alimentar e nutricional. O Programa é destinado à aquisição de produtos agropecuários\nproduzidos por agricultores enquadrados no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), incluídas aqui as categorias: assentados da reforma agrária, trabalhadores rurais sem terra, acampados, quilombolas, agroextrativistas, famílias atingidas por barragens e comunidades indígenas.\n\n**GRISA, C.; ISOPO, S. P. Dez anos de PAA: As contribuições e os desafios para o desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.). Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: UFRGS, 2015.**\n\nA ação governamental descrita constitui-se uma importante conquista para os pequenos produtores em virtude da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inovação tecnológica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reestruturação fundiária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Comercialização garantida.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminação no custo do frete.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Negociação na bolsa de valores.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.69054,
+      "escala": 569,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 59,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/59",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 60,
+    "enunciado": "Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do estudo foram vinculados a dois outros membros da comunidade que receberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua atividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado. Assim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o dinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito vezes mais eficaz do que o método de oferecer incentivos individuais.\n\n**MOROZOV, E. Big Tech: a ascensão dos dados e a morte da politica. São Paulo: Ubu, 2018 (adaptado).**\n\nContrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recreativa, promovendo o lazer em redes integradas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Social, estimulando a reciprocidade por meios digitais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Laboral, convertendo o desenvolvedor em usuário final.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Comercial, direcionando a escolha por produtos industrializados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Cognitiva, favorecendo ferramentas virtuais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.75171,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 60,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/60",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 61,
+    "enunciado": "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.\n\n**GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 ou. 2021.**\n\nA consequência da mudança tecnológica apresentada no texto é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Proteção da economia nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Valorização da cultura tradicional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da formação acadêmica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estagnação da manifestação artística.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ampliação do desemprego estrutural.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.30776,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 61,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/61",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 62,
+    "enunciado": "Brasil e Argentina chegaram a um acordo para a redução em 10% da Tarifa Externa Comum (TEC) do Mercosul. O consenso foi alcançado durante negociação entre o ministro das Relações Exteriores do Brasil e o seu equivalente argentino, no Palácio do Itamaraty, em Brasília, no início do mês de outubro de 2021. A redução da TEC é um antigo desejo do Brasil, que pretende abrir mais sua economia e, com isso, ajudar a controlar a inflação. Já a Argentina temia que a medida pudesse afetar sua produção industrial. O acordo vai abranger uma ampla gama de produtos e ainda será apresentado ao Paraguai e Uruguai, para que seja formalizado.\n\n**Brasil e Argentina fecham acordo para corte de 10% na tarifa do Mercosul. Disponível em: https://oglobo.globo.com. Acesso em: 8 out. 2021 (adaptado).**\n\nA necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Limitação da circulação financeira.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Padronização da política monetária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Funcionamento da união aduaneira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dependência da exportação agrícola.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Equivalência da legislação trabalhista.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.60479,
+      "escala": 660,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 62,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/62",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 63,
+    "enunciado": "Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a ação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais, como é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são mostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da caridade deriva da natureza das fontes do século VI.\n\n**SILVA, M.C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set-dez. 2016 (Adaptado).**\n\nNa conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da nobreza, proveniente da obrigação de proteção ao campenisnato livre.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Das corporações, procedente do padrão assistencialista previsto nas normas estatutárias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.25057,
+      "escala": 725,
+      "faixa": "Difícil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 63,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/63",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 65,
+    "enunciado": "**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**\n\nO ápice da ilustração se traduz por uma conduta social caracterizada pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cultura do cancelamento.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Prática do feminicídio.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Postura negacionista.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ação involuntária.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defesa da honra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.72645,
+      "escala": 427,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2022/questions/65/976097b0-d433-498d-946f-1770a46340fb.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 65,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/65",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 66,
+    "enunciado": "**TEXTO I**\n\nA primeira grande lei educacional do Brasil, de 1827, determinava que, nas “escolas de primeiras letras” do Império, meninos e meninas estudassem separados e tivessem currículos diferentes. No Senado, o Visconde de Cayru foi um dos defensores de que o currículo de matemática das garotas fosse o mais enxuto possível. Nas palavras dele, o “belo sexo” não tinha capacidade intelectual para ir muito longe: – Sobre as contas, são bastantes \\[para as meninas\\] as quatro espécies, que não estão fora do seu alcance e lhes podem ser de constante uso na vida.\n\n**TEXTO II**\n\nNo Senado, o único a defender publicamente que as meninas tivessem, em matemática, um currículo idêntico ao dos meninos foi o Marquês de Santo Amaro (RJ). Ele argumentou: – Não me parece confome, às luzes do tempo em que vivemos, deixarmos de facilitar às brasileiras a aquisição desses conhecimentos \\[mais aprofundados de matemática\\]. A oposição que se manifesta não pode nascer senão do arraigado e péssimo costume em que estavam os antigos, os quais nem queriam que suas filhas aprendessem a ler.\n\nWESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. Acesso em: 20 out. 2021 (adaptado).\n\nOs discursos expressam pontos de vista divergentes respectivemerte pela oposição entre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Liberdade de gênero e controle social.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Equidade de escolha e imposição cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dominação de corpos e igualdade humana.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Geração de oportunidade e restrição profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exclusão de competências e participação política.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.13235,
+      "escala": 713,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 66,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/66",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 67,
+    "enunciado": "Após sete anos da ocupação de um terreno abandonado em Santo André, no ABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a presença de representantes dos governos federal, estadual e municipal. A ocupação começou em 2012 e, desde então, o movimento vinha reivindicando o direito de usufruir do espaço para a construção de casas. A Cartas Magna, em seu art. 6°, garante a todos os brasileiros o direito à moradia.\n\nPUTTI, A. Disponível em: www.cartacapital.com.br.\nAcesso em: 13 nov. 2021 (adaptado).\n\nO texto apresenta uma estratégia usada pelo movimento social para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fragilizar o poder público.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fomentar a economia solidária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Controlar a propriedade estatal.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Garantir o preceito constitucional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Incentivar a especulação imobiliária.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.79822,
+      "escala": 580,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 67,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/67",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 68,
+    "enunciado": "**TEXTO I**\nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.\n\n**TEXTO II**\n\nCECEÑA. A. E. Hegemonias e emancipações no século XXI.\nBuenos Aires: Clacso. 2005.\n\nAs preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compartilhamento de inovações tecnológicas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Promoção de independência financeira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incremento de intercâmbios culturais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliação de influência econômica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Preservação de recursos naturais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.5445,
+      "escala": 554,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2022/questions/68/f472fda8-7fa2-43b7-bcc3-72db46b0d92d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 68,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/68",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 69,
+    "enunciado": "Colegas, na mente e no coração do povo, a Crimeia sempre foi uma porção inseparável da Rússia. Essa firme convicção se baseia na verdade e na justiça e foi passada de geração em geração, ao longo do tempo, sob quaisquer circunstâncias, apesar de todas as drásticas mudanças que nosso país atravessou durante todo o século XX.\n\nDisponível em: http://g1.globo.com. Acesso em: 28 jul. 2014.\n\nConsiderando a dinâmica geopolítica subjacente ao texto, a justificativa utilizada por Vladimir Putin, em 2014, para anexação dessa península apela para o argumento de que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As populações com idioma comum devem estar submetidas à mesma autoridade estatal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O imperialismo soviético havia se acomodado às pretensões das potências vizinhas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Os organismos transnacionais são incapazes de solucionar disputas territoriais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A integração regional supõe a livre circulação de pessoas e mercadorias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expulsão das forças navais ocidentais garantiria a soberania nacional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.34237,
+      "escala": 634,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 69,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/69",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 70,
+    "enunciado": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**\n\nConsiderando o conceito apresentando no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Raça e gênero.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Etnia e habitação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Idade e nupcialidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Profissão e sexualidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Escolaridade e fecundidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.44013,
+      "escala": 456,
+      "faixa": "Fácil"
+    },
+    "habilidade": 15,
+    "imagens": [
+      "https://enem.dev/2022/questions/70/1539c835-a8b9-444d-949c-51d59d8d33fe.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 70,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/70",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 71,
+    "enunciado": "O princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes  públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Estado de direito significa que nenhum indivíduo, presidente ou cidadão comum está acima da lei. Os governos democráticos exercem a autoridade por meio da lei e estão eles próprios sujeitos as constrangimentos impostos pela lei.\n\n**CANOTILHO, J. J. G. Estado de direito, Lisboa: Gradiva, 1999 (adaptado).**\n\nNas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Supressão de eleições de representantes políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Intervenção em áreas de vulnerabilidade pela Igreja.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Disseminação de projetos sociais em universidades.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliação dos processos de concentração de renda.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Regulamentação das relações de trabalho pelo Legislativo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.8616,
+      "escala": 586,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 71,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/71",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 72,
+    "enunciado": "**Brasileiros levam mais tempo de casa para o trabalho**\n\nPesquisa do IBGE aponta que a situação é maio grave no Sudeste: 13% das pessoas levam mais de um hora para chegar ao trabalho. Nas regiões metropolitanas de São Paulo e do Rio, o IBGE registrou os maiores percentuais de trabalhadores que levam mais de uma hora no trajeto até o emprego. Quem vê o Marcelo chegar ao trabalho nem imagina a maratona que ele enfrenta todos os dias antes das 5 h. “Acordo 4 h 30, saio de casa 5 h, pego trem 5 h 20, chego na Central umas 6 h 50, pego ônibus e chego no trabalho mais ou menos 7 h 10”, conta. Segundo especialista, são os mais pobres os que moram mais longe do emprego.\n\n**Disponivel em: www.portaldotransito.com.br. Acesso em: 23 nov 2021 (adaptado)**\n\nA pesquisa desenvolvida retrata a seguinte dinâmica populacional:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fluxo de retorno.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Migração interna.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mudança sazonal.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Movimento pendular.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Deslocamento forçado.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.05605,
+      "escala": 606,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 72,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/72",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 73,
+    "enunciado": "A história do Primeiro de Maio de 1890 — na França e na Europa, o primeiro de todos os Primeiros de Maio – é, sob vários aspectos, exemplar. Resultante de um ato político deliberado, essa manifestação ilustra o lado voluntário da construção de uma classe — a classe operária — à qual os socialistas tentam dar uma unidade política e cultural através daquela pedagogia da festa cujo princípio, eficácia e limites há muito tempo tinham sido experimentados pela Revolução Francesa.\n\n**PERROT, M. Os excluídos da história: operários, mulheres e prisioneiros. Rio de Janeiro: Paz e Terra, 1988.**\n\nCom base no texto, a fixação dessa data comemorativa tinha por objetivo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorizar um sentimento burguês.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Afirmar uma identidade coletiva.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Edificar uma memória nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Criar uma comunidade cívica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Definir uma tradição popular.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.97017,
+      "escala": 597,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 73,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/73",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 74,
+    "enunciado": "**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**\n\nUma característica regional que justifica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Declividade do relevo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Extensão longitudinal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Nebulosidade atmosférica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Irregularidade pluviométrica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Influência da continentalidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.79851,
+      "escala": 680,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 74,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/74",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 75,
+    "enunciado": "O povo Kambeba é o povo da águas. Os mais velhos costumam contar que o povo nasceu de uma gota-d’água que caiu do céu em uma grande chuva. Nessa gota estavam duas gotículas: o homem e a mulher. “Por essa narrativa e cosmologia indígena de que nós somos o povo das águas é que o rio nos tem fundamental importância”, diz Márcia Wayna Kambeba, mestre em Geografia e escritora. Todos os dias, ela ia com o pai observar o rio. Ia em silêncio e, antes que tomasse para si a palavra, era interrompida. “Ouço o rio”, o pai dizia. Depois de cerca de duas horas a ouvir as águas do Solimões, ela mergulhava. “Confie no rio e aprenda com ele”. “Fui entender mais tarde, com meus estudos e vivências, que meu pai estava me apresentando à sabedoria milenar do rio”.\n\n**Rios amazônicos influenciam no agro e em reservatórios do Sudeste. Disponível em:  www.uol.com.br. Acesso em: 14 out. 2021.**\n\nPelo descrito no texto, o povo Kambeba tem o rio como um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Objeto tombado e museográfico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Herança religiosa e sacralizada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cenário bucólico e paisagístico",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Riqueza individual e efêmera",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Patrimônio cultural e afetivo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.92559,
+      "escala": 593,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 75,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/75",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 76,
+    "enunciado": "Lá embaixo está o açude Itans, com seu formigueiro a cavar a terra. É mesmo impressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não param em longas filas pacientes acompanhando centenas de burricos que sobem e descem, numa ciranda comovente e silenciosa, cada burrico com duas caixas de terra no lombo. É o labor organizado para a salvação da terra e do homem. Depois do semideserto que tanto nos acabrunhou o espírito por falta de chuvas, o esforço destes milhares de sertanejos, todos vestidos de brim mescla e calçando alpercatas, no combate consciente à esterilidade da natureza, com famílias alojadas em pequeninas casas de taipas e telha – embrião de futura cidade – impressionava-nos profundamente.\n\n**VALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado)**\n\nNa construção do empreendimento descrito, destaca-se a presença de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Engenheiros na execução de canais fluviais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Coronéis na ampliação de antigas fazendas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Operários na distribuição dos recursos hídricos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalhadores na formação de novos espaços.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Negociantes na organização de redes comerciais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.31972,
+      "escala": 632,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 76,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/76",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 77,
+    "enunciado": "Para os Impérios Coloniais, o problema das doenças que atingiam os escravos era algo com que cotidianamente deparavam os senhores. Em vista disso, uma série de obras dedicadas à administração de escravos foi publicada com vista a implementar uma moderna gestão da mão de obra escravista em convergência com O Iluminismo. Nesse contexto, o saber médico adquiria um papel extremamente relevante. Este era encarado como um instrumento fundamental ao desenvolvimento colonial, dada a percepção do impacto que as doenças tropicais causavam na população branca e nos povos escravizados.\n\n**ABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das “luzes” e as informações sobre as enfermidades da América portuguesa. História, Ciências, Saúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado).**\n\nDe acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Econômicos das elites.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Naturalistas dos viajantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Abolicionistas dos letrados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tradicionalistas dos nativos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Emancipadores das metrópoles.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.41127,
+      "escala": 541,
+      "faixa": "Fácil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 77,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/77",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 78,
+    "enunciado": "**Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).**\n\nConsiderando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográfica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 12 500.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 125 000.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 1 250 000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 12 500 000.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 125 000 000.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.33056,
+      "escala": 633,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2022/questions/78/1032a7bb-17e5-4711-ad16-aa16988017fa.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 78,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/78",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 79,
+    "enunciado": "Hoje sou um ser inanimado, mas já tive vida pulsante em seivas vegetais, ful um ser vivo; é bem verdade que do reino vegetal, mas isso não me tirou a percepção de vida vivida como tamborete. Guardo apreço pelos meus criadores, as mãos que me fizeram, me venderam, 6 pelas mulheres que me usaram para suas vendas e de tantas outras maneiras. Essas pessoas, sim, tiveram suas subjetividades, singularidades e pluralidades, que estão incorporadas a mim. É preciso considerar que a nossa história, de móveis de museus, está para além da mera vinculação aos estilos e à patrimonialização que recebemos como bem material vinculado ao patrimônio imaterial. A nossa história está ligada aos dons individuais das pessoas e suas práticas sociais. Alguns indivíduos consagravam-se por terem determinados requisitos, tais como o conhecimento de modelos clássicos ou destreza nos desenhos.\n\n**FREITAS, J. M.; OLIVEIRA, L. R. Memórias de um tamborete de baiana: as muitas vozes em um objeto de museu. Revista Brasileira de Pesquisa (Auto)Blográfica, n. 14, maio-ago. 2020 (Adaptado).**\n\nAo descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Habilidades artísticas e culturais dos sujeitos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Vocações religiosas e pedagógicas dos mestres.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Naturezas antropológica e etnográfica dos expositores.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Preservações arquitetônica e visual dos conservatórios.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Competências econômica e financeira dos comerciantes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.57483,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 79,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/79",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 80,
+    "enunciado": "Advento da _Polis_, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solidário das estruturas sociais e mentais próprias da cidade grega. Assim recolocada na história, a filosofia despoja-se desse caráter de revelação absoluta que às vezes lhe foi atribuído, saudando, na jovem ciência dos jônios, a razão intemporal que veio encarnar-se no Tempo. A escola de Mileto não viu nascer a Razão; ela construiu uma Razão, uma primeira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea.\n\n**VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.**\n\nOs vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os estoicos, dedicados à superação dos infortúnios.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Os sofistas, comprometidos com o ensino da retórica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os peripatéticos, empenhados na dinâmica do ensino.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os poetas rapsodos, responsáveis pela narrativa do mito.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.82448,
+      "escala": 582,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 80,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/80",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 81,
+    "enunciado": "**Decreto-Lei n. 1 949, de 27/17/1937**\n\nArt. 1.o Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente  subordinado ao presidente da República.\nArt. 2.o O DIP tem por fim:\n**h)** coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais;\n\n**n)** autorizar mensalmente a devolução dos depósitos efetuados pelas empresas jornalísticas para importação de papel para imprensa , uma vez demonstrada, a seu juízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos.\n\n**BRASIL apud CARONE, E. A Terceira República. (1937-1945). São Paulo: Difel, 1982. (Adaptado).**\n\nCom base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diversificação da opinião pública.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mercantilização da cultura popular.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Controle das organizações sindicais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Cerceamento da liberdade de expressão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Privatização dos meios de comunicação",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.96273,
+      "escala": 596,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 81,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/81",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 82,
+    "enunciado": "**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**\n\nO mapa espacializa um recurso natural com alto potencial para ocorrência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abalos sísmicos periódicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Jazidas de minerais metálicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Reservas de combustíveis fósseis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aquíferos sedimentares profundos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estruturas geológicas metamórficas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.4236,
+      "escala": 642,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2022/questions/82/9d037d23-4819-4184-9aab-bb87c3b40c73.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 82,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/82",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 83,
+    "enunciado": "Nascidas o Líbano, as duas irmãs não puderam ser registradas no país, porque lá é exigido que os nascidos sejam filhos de pais e mães libaneses. Seus pais, de nacionalidade síria, também não puderam registrá-las no país de origem. Na Síria, crianças só são registradas por pais oficialmente casados, o que não era o caso deles.\n\n**Disponível em: https://agenciabrasi.ebc.com.br. Acesso em: 7 nov. 2021.**\n\nEm situações como a apresentada no texto, as pessoas ao nascerem já se encontram na condição sociopolítica de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exiladas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apátridas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Foragidas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Refugiadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Clandestinas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.64418,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 83,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/83",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 84,
+    "enunciado": "**TEXTO I**\nUma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro.\n\n**MERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.**\n\nTEXTO II\nOs grandes autores de cinema nos pareceram confrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos.\n\n**DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).**\n\nDe que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admitindo o belo como fenômeno transcendental.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reafirmando a vivência estética como juízo de gosto.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Considerando o olhar como experiência de conhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apontando as formas de expressão como auxiliares da razão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelecendo a inteligência como implicação das representações.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.5801,
+      "escala": 658,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 84,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/84",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 85,
+    "enunciado": "**TEXTO I**\nManda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o centro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em ponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé. E também que nem nesse dia nem nos dos açoites ouse alguém atirar  nos réus maçãs, pedras, laranjas nem outra coisa qualquer.\n\n**PALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).**\n\n**TEXTO II**\nComo acontece em todos os ritos, o sentido do auto da fé é conferido pela sequência dos atos que o compõem. Os lugares, as posturas, os gestos, as palavras são fixados previamente em toda a sua complexidade. Por isso, o auto da fé apresenta momentos fortes – durante a preparação, a encenação, o ato e a recepção – que convém seguir em seus pormenores.\n\n**BETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX. São Paulo: Cia. das Letras, 2000**\n\nO rito mencionado nos textos demonstra a capacidade da Igreja em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abrandar cerimônias de punição.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Favorecer anseios de violência.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Criticar políticas de disciplina.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Produzir padrões de conduta.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ordenar cultos de heresia.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.29126,
+      "escala": 529,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 85,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/85",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 86,
+    "enunciado": "Empédocles estabelece quatro elementos corporais – fogo, ar, água e terra –, que são eternos e que mudam aumentando e diminuindo mediante mistura e  separação; mas os princípios propriamente ditos, pelos quais são movidos, são o Amor e o Ódio. Pois é preciso que os elementos permaneçam alternadamente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio.\n\nSIMPLÍCIO. Física, 25, 21. In: **Os pré-socráticos**. São Paulo: Nova Cultural, 1996.\n\nO texto propõe uma reflexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exalta a investigação filosófica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transcende ao mundo sensível.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Evoca a discussão cosmogônica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fundamenta as paixões humanas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Corresponde à explicação mitológica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.66082,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 86,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/86",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 87,
+    "enunciado": "Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redirecionamento e convergência de fluxos migratórios, déficit no numero de empregos, ocupação desordenada em determinadas regiões da cidade e estigmatizarão de estratos sociais , que comprometem substancialmente a segurança pública urbana.\n\nSANTOS, M. **O espaço dividido:** os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp. 2004.\n\nO processo de concentração espacial apresentado foi estimulado por qual fator geográfico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Limitação da Área ocupada",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Êxodo da população do campo",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliação do risco habitacional",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência do transporte alternativo",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Crescimento da taxa de fecundidade",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.73772,
+      "escala": 574,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 87,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/87",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 88,
+    "enunciado": "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça.\n\n**Sêneca, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.**\n\nO excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorização de disputas dialógicas",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Rejeição das convenções sociais",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inspiração de natureza religiosa",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Exaltação do sofrimento",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Moderação das paixões",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.20588,
+      "escala": 721,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 88,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/88",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 89,
+    "enunciado": "Quando os espanhóis chegaram à América, estava em seu apogeu o império teocrático dos Incas, que estendia seu poder sobre o que hoje chamamos Peru, Bolívia e Equador, abarcava parte da Colômbia e do Chile e alcançava até o norte argentino e a selva brasileira; a confederação dos Astecas tinha conquistado um alto nível de eficiência no vale do México, e no Yucután, na América Central, a esplêndida civilização dos Maias persistia nos povos herdeiros, organizados para o trabalho e para a guerra. Os Maias tinham sido grandes astrônomos, mediram o tempo e o espaço com assombrosa precisão, e tinham descoberto o valor do número zero antes de qualquer povo da história. No museu de Lima, podem ser vistos centenas de crânios que receberam placas de ouro e prata por parte dos cirurgiões Incas.\n\nGALEANO, E. **As veias abertas da América Latina.** Porto Alegre: L&PM, 2012.\n\nAs sociedades mencionadas deixaram como legado uma diversidade de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bens religiosos inspirados na matriz cristã.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Materiais bélicos pilhados em batalhas coloniais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Heranças culturais constituídas de saberes próprios.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Costumes laborais moldados em estilos estrangeiros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Práticas medicinais alicerçadas no conhecimento científico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.27387,
+      "escala": 527,
+      "faixa": "Fácil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 89,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/89",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  },
+  {
+    "numero": 90,
+    "enunciado": "Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.\n\n**TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.**\n\nUma característica de práticas tradicionais como a exemplificada no texto é vinculação entre os recursos do mundo natural e a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manutenção dos modos de vida.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Conservação dos plantios da roça.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Atualização do modelo de gestão.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Participação na sociedade de consumo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Especialização nas etapas de produção.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.36087,
+      "escala": 636,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2022,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 90,
+      "provaMicrodados": "1055",
+      "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/90",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+    }
+  }
+]

@@ -1,0 +1,2469 @@
+[
+  {
+    "numero": 91,
+    "enunciado": "**Los animales**\n\nEn la Unión Europea desde el 1o de octubre de 2004 el uso de un pasaporte es obligatorio para los animales que viajan con su dueño en cualquier compañía.\nAVISO ESPECIAL: en España los animales deben haber sido vacunados contra la rabia antes de su dueño solicitar la documentación. Consultar a un veterinario.\n\nDisponível em: http://www.agencedelattre.com. Acesso em: 2 maio 2009 (adaptado).\n\nDe acordo com as informações sobre aeroportos e estações ferroviárias na Europa, uma pessoa que more na Espanha e queira viajar para a Alemanha com o seu cachorro deve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O consultaras autoridades para verificar a possibilidade de viagem.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ter um certificado especial tirado em outubro de 2004.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tirar o passaporte do animal e logo vaciná-lo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Vacinar o animal contra todas as doenças.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Vacinar o animal e depois solicitar o passaporte dele.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.7191,
+      "escala": 428,
+      "faixa": "Fácil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 91,
+      "idioma": "espanhol",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/91?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 91,
+    "enunciado": "Disponível em: http://www.fool.com. Acesso em: 21 jul. 2010.\n\nAo optar por ler a reportagem completa sobre o assunto anunciado, tem-se acesso a duas palavras que Bill Gates não quer que o leitor conheça e que se referem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aos responsáveis pela divulgação desta informação na internet.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Às marcas mais importantes de microcomputadores do mercado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aos nomes dos americanos que inventaram a suposta tecnologia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aos sites da internet pelos quais o produto já pode ser conhecido.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Às empresas que levam vantagem para serem suas concorrentes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.98451,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 91,
+      "idioma": "ingles",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/91?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**Bilingüismo en la Educación Media Continuidad, no continuismo**\n\nAun sin escuela e incluso a pesar de la escuela, paraguayos y paraguayas se están comunicando en guaraní. La comunidad paraguaya ha encontrado en la lengua guaraní una funcionalidad real que asegura su reproducción y continuidad. Esto, sin embargo, no basta. La inclusión de la lengua guaraní en el proceso de educación escolar fue sin duda un avance de la Reforma Educativa.\n\nGracias precisamente a los programas escolares, aun en contextos urbanos, el bilingüismo ha sido potenciado. Los guaraníhablantes se han acercado con mayor fuerza a la adquisición del castellano, y algunos castellanohablantes perdieron el miedo al guaraní y superaron los prejuicios en contra de él. Dejar fuera de la Educación Media al guaraní sería echar por la borda tanto trabajo realizado, tanta esperanza acumulada.\n\nCualquier intento de marginación del guaraní en la educación paraguaya merece la más viva y decidida protesta, pero esta postura ética no puede encubrir el continuismo de una forma de enseñanza del guaraní que ya ha causado demasiados estragos contra la lengua, contra la cultura y aun contra la lealtad que las paraguayas y paraguayos sienten por su querida lengua. El guaraní, lengua de comunicación sí y mil veces sí; lengua de imposición, no.\n\nMELIÀ. B. Disponível em: http://www.staff.uni-mainz.de. Acesso em: 27 abr. 2010 (adaptado).\n\nNo último parágrafo do fragmento sobre o bilinguismo no Paraguai, o autor afirma que a língua guarani, nas escolas, deve ser tratada como língua de comunicação e não de imposição. Qual dos argumentos abaixo foi usado pelo autor para defender essa ideia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O guarani continua sendo usado pelos paraguaios, mesmo sem a escola e apesar dela.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O ensino médio no Paraguai, sem o guarani, desmereceria todo o trabalho realizado e as esperanças acumuladas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A língua guarani encontrou uma funcionalidade real que assegura sua reprodução e continuidade, mas só isso não basta.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A introdução do guarani nas escolas potencializou a difusão da língua, mas é necessário que haja uma postura ética em seu ensino.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O bilinguismo na maneira de ensinar o guarani tem causado estragos contra a língua, a cultura e a lealdade dos paraguaios ao guarani.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.60869,
+      "escala": 761,
+      "faixa": "Difícil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "idioma": "espanhol",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/92?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "**Viva la Vida**\n\nI used to rule the world\nSeas would rise when I gave the word\nNow in the morning and I sleep alone\nSweep the streets I used to own\n\nI used to roll the dice\nFeel the fear in my enemy’s eyes\nListen as the crowd would sing\n“Now the old king is dead! Long live the king!”\n\nOne minute I held the key\nNext the walls were closed on me\nAnd I discovered that my castles stand\nUpon pillars of salt and pillars of sand\n\\[…\\]\n\nMARTIN, C. Viva la vida, Coldplay. In: **Viva la vida or Death and all his friends**. Parlophone, 2008.\n\nLetras de músicas abordam temas que, de certa forma, podem ser reforçados pela repetição de trechos ou palavras. O fragmento da canção Viva la vida, por exemplo, permite conhecer o relato de alguém que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Costumava ter o mundo aos seus pés e, de repente, se viu sem nada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Almeja o título de rei e, por ele, tem enfrentado inúmeros inimigos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Causa pouco temor a seus inimigos, embora tenha muito poder.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Limpava as ruas e, com seu esforço, tornou-se rei de seu povo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tinha a chave para todos os castelos nos quais desejava morar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.76486,
+      "escala": 576,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 92,
+      "idioma": "ingles",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/92?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "**Bilingüismo en la Educación Media Continuidad, no continuismo**\n\nAun sin escuela e incluso a pesar de la escuela, paraguayos y paraguayas se están comunicando en guaraní. La comunidad paraguaya ha encontrado en la lengua guaraní una funcionalidad real que asegura su reproducción y continuidad. Esto, sin embargo, no basta. La inclusión de la lengua guaraní en el proceso de educación escolar fue sin duda un avance de la Reforma Educativa.\n\nGracias precisamente a los programas escolares, aun en contextos urbanos, el bilingüismo ha sido potenciado. Los guaraníhablantes se han acercado con mayor fuerza a la adquisición del castellano, y algunos castellanohablantes perdieron el miedo al guaraní y superaron los prejuicios en contra de él. Dejar fuera de la Educación Media al guaraní sería echar por la borda tanto trabajo realizado, tanta esperanza acumulada.\n\nCualquier intento de marginación del guaraní en la educación paraguaya merece la más viva y decidida protesta, pero esta postura ética no puede encubrir el continuismo de una forma de enseñanza del guaraní que ya ha causado demasiados estragos contra la lengua, contra la cultura y aun contra la lealtad que las paraguayas y paraguayos sienten por su querida lengua. El guaraní, lengua de comunicación sí y mil veces sí; lengua de imposición, no.\n\nMELIÀ. B. Disponível em: http://www.staff.uni-mainz.de. Acesso em: 27 abr. 2010 (adaptado).\n\nEm alguns países bilíngues, o uso de uma língua pode se sobrepor à outra, gerando uma mobilização social em prol da valorização da menos proeminente. De acordo com o texto, no caso do Paraguai, esse processo se deu pelo (a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falta de continuidade do ensino do guarani nos programas escolares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Preconceito existente contra o guarani principalmente nas escolas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Esperança acumulada na reforma educativa da educação média.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Inclusão e permanência do ensino do guarani nas escolas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Continuísmo do ensino do castelhano nos centros urbanos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.31055,
+      "escala": 631,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 93,
+      "idioma": "espanhol",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/93?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "**THE WEATHER MAN**\n\nThey say that the British love talking about the weather. For other nationalities this can be a banal and boring subject of conversation, something that people talk about when they have nothing else to say to each other. And yet the weather is a very important part of our lives. That at least is the opinion of Barry Gromett, press officer for The Met Office. This is located in Exeter, a pretty cathedral city in the southwest of England. Here employees — and computers — supply weather forecasts for much of the world.\n\n**Speak Up**. Ano XXIII, n° 275.\n\nAo conversar sobre a previsão do tempo, o texto mostra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O aborrecimento do cidadão britânico ao falar sobre banalidades.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A falta de ter o que falar em situações de avaliação de línguas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A importância de se entender sobre meteorologia para falar inglês.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "As diferenças e as particularidades culturais no uso de uma língua.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O conflito entre diferentes ideias e opiniões ao se comunicar em inglês.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.03771,
+      "escala": 604,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 93,
+      "idioma": "ingles",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/93?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "Dejar de fumar engorda, pero seguir haciéndolo, también. Esa es la conclusión a la que han llegado investigadores de la Universidad de Navarra que han hecho un seguimiento de 7.565 personas durante 50 meses. Los datos “se han ajustado por edad, sexo, índice de masa corporal inicial y estilo de vida”, ha explicado el director del ensayo, Javier Basterra-Gortari, por lo que “el único factor que queda es el tabaquismo”. El estudio se ha publicado en la Revista Española de Cardiología.\n\n“El tabaco es un anorexígeno \\[quita el apetito\\], y por eso las personas que dejan de fumar engordan”, añade Basterra-Gortari. Eso hace mucho más relevante el hallazgo del estudio. Puesto en orden, los que más peso ganan son los que dejan de fumar, luego, los que siguen haciéndolo, y, por último, los que nunca han fumado, indica el investigador. “Por eso lo mejor para mantener una vida saludable es no fumar nunca”, añade.\n\nBENITO, E. Disponível em: http://www.elpais.com/articulo/sociedad. Acesso em: 23 abr. 2010 (fragmento).\n\nO texto jornalístico caracteriza-se basicamente por apresentar informações a respeito dos mais variados assuntos, e seu título antecipa o tema que será tratado. Tomando como base o fragmento, qual proposição identifica o tema central e poderia ser usada como título?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estilo de vida interfere no ganho de peso.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo mostra expectativa de vida dos fumantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pessoas que fumam podem se tornar anoréxicas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fumantes engordam mais que não fumantes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tabagismo como fator de emagrecimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.07504,
+      "escala": 708,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "idioma": "espanhol",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/94?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "**MILLENIUM GOALS**\n\nDisponível em: http://www.chris-alexander.co.uk/1191. Acesso em: 28 jul. 2010 (adaptado).\n\nDefinidas pelos países membros da Organização das Nações Unidas e por organizações internacionais, as metas de desenvolvimento do milênio envolvem oito objetivos a serem alcançados até 2015. Apesar da diversidade cultural, esses objetivos, mostrados na imagem, são comuns ao mundo todo, sendo dois deles:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O combate à AIDS e a melhoria do ensino universitário.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A redução da mortalidade adulta e a criação de parcerias globais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A promoção da igualdade de gêneros e a erradicação da pobreza.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A parceria global para o desenvolvimento e a valorização das crianças.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A garantia da sustentabilidade ambiental e o combate ao trabalho infantil.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.63468,
+      "escala": 563,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2010/questions/94-ingles/90e233c7-5a40-41af-a2a0-ec900b72a889.png"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 94,
+      "idioma": "ingles",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/94?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "**Revista Glamour Latinoamérica**. México, mar. 2010.\n\nO texto publicitário utiliza diversas estratégias para enfatizar as características do produto que pretende vender. Assim, no texto, o uso de vários termos de outras línguas, que não a espanhola, tem a intenção de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atrair a atenção do público alvo dessa propaganda.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Popularizar a prática de exercícios esportivos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Agradar aos compradores ingleses desse tênis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Incentivar os espanhóis a falarem outras línguas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Enfatizar o conhecimento de mundo do autor do texto.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.46692,
+      "escala": 453,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2010/questions/95-espanhol/fbbc0a02-918d-4b22-8db1-2c42cfcb18e9.png"
+    ],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 95,
+      "idioma": "espanhol",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/95?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "Disponível em: http://www.meganbergdesigns.com/andrill/iceberg07/postcards/index.html. Acesso em: 29 jul. 2010 (adaptado).\n\nOs cartões-postais costumam ser utilizados por viajantes que desejam enviar notícias dos lugares que visitam a parentes e amigos. Publicado no site do projeto ANDRILL, o texto em formato de cartão-postal tem o propósito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comunicar o endereço da nova sede do projeto nos Estados Unidos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Convidar colecionadores de cartões-postais a se reunirem em um evento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Anunciar uma nova coleção de selos para angariar fundos para a Antártica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Divulgar às pessoas a possibilidade de receberem um cartão-postal da Antártica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar que as pessoas visitem o site do mencionado projeto com maior frequência.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.80101,
+      "escala": 580,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2010/questions/95-ingles/3584c66e-387e-48a8-bf57-8bc6dec07058.jpg"
+    ],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 95,
+      "idioma": "ingles",
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/95?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 96,
+    "enunciado": "As diferentes esferas sociais de uso da língua obrigam o falante a adaptá-la às variadas situações de comunicação. Uma das marcas linguísticas que configuram a linguagem oral informal usada entre avô e neto neste texto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A opção pelo emprego da forma verbal “era” em lugar de “foi”.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A ausência de artigo antes da palavra “árvore”.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O emprego da redução “tá” em lugar da forma verbal “está”.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O uso da contração “desse” em lugar da expressão “de esse”.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A utilização do pronome “que” em início de frase exclamativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.22901,
+      "escala": 523,
+      "faixa": "Fácil"
+    },
+    "habilidade": 26,
+    "imagens": [
+      "https://enem.dev/2010/questions/96/64ed268e-140b-44f4-b421-94d66774f861.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 96,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/96",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 97,
+    "enunciado": "A biosfera, que reúne todos os ambientes onde se desenvolvem os seres vivos, se divide em unidades menores chamadas ecossistemas, que podem ser uma tem múltiplos mecanismos que regulam o número de organismos dentro dele, controlando sua reprodução, crescimento e migrações.\n\nDUARTE, M. **O guia dos curiosos.** São Paulo: Companhia das Letras, 1995.\n\nPredomina no texto a função da linguagem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Emotiva, porque o autor expressa seu sentimento em relação à ecologia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fática, porque o texto testa o funcionamento do canal de comunicação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Poética, porque o texto chama a atenção para os recursos de linguagem.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conativa, porque o texto procura orientar comportamentos do leitor.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Referencial, porque o texto trata de noções e informações conceituais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.20813,
+      "escala": 479,
+      "faixa": "Fácil"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 97,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/97",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 98,
+    "enunciado": "**Câncer 21/06 a 21/07**\n\nO eclipse em seu signo vai desencadear mudanças na sua autoestima e no seu modo de agir. O corpo indicará onde você falha – se anda engolindo sapos, a área gástrica se ressentirá. este novo ciclo exige uma “desintoxicação”. Seja comedida em suas ações, já que precisará de energia para se recompor. Há preocupação com a família, e a comunicação entre os irmãos trava. Lembre-se: palavra preciosa é palavra dita na hora certa. Isso ajuda também na vida amorosa, que será testada. Melhor conter as expectativas e ter calma, avaliando as próprias carências de modo maduro. Sentirá vontade de intimidade com os assuntos da alma.\n\n**Revista Cláudia.** No 7, ano 48, jul. 2009.\n\nO reconhecimento dos diferentes gêneros textuais, seu contexto de uso, sua função social específica, seu objetivo comunicativo e seu formato mais comum relacionam-se aos conhecimentos construídos socioculturalmente. A análise dos elementos constitutivos desse texto demonstra que sua função é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vender um produto anunciado.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Informar sobre astronomia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ensinar os cuidados com a saúde.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Expor a opinião de leitores em um jornal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aconselhar sobre amor, família, saúde, trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.57399,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 98,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/98",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 99,
+    "enunciado": "**S.O.S Português**\n\nPor que pronunciamos muitas palavras de um jeito diferente da escrita? Pode-se refletir sobre esse aspecto da língua com base em duas perspectivas. Na primeira delas, fala e escrita são dicotômicas, o que restringe o ensino da língua ao código. Daí vem o entendimento de que a escrita é mais complexa que a fala, e seu ensino restringe-se ao conhecimento das regras gramaticais, sem a preocupação com situações de uso. Outra abordagem permite encarar as diferenças como um produto distinto de duas modalidades da língua: a oral e a escrita. A questão é que nem sempre nos damos conta disso.\n\nS.O.S Português. **Nova Escola.** São Paulo: Abril, Ano XXV, nº- 231, abr. 2010 (fragmento adaptado).\n\nO assunto tratado no fragmento é relativo à língua portuguesa e foi publicado em uma revista destinada a professores. Entre as características próprias desse tipo de texto, identificam-se marcas linguísticas próprias do uso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regional, pela presença de léxico de determinada região do Brasil.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Literário, pela conformidade com as normas da gramática.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Técnico, por meio de expressões próprias de textos científicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Coloquial, por meio do registro de informalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Oral, por meio do uso de expressões típicas da oralidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.76787,
+      "escala": 677,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 99,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/99",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 100,
+    "enunciado": "Na busca constante pela sua evolução, o ser humano vem alternando a sua maneira de pensar, de sentir e de criar. Nas últimas décadas do século XVIII e no início do século XIX, os artistas criaram obras em que predominam o equilíbrio e a simetria de formas e cores, imprimindo um estilo caracterizado pela imagem da respeitabilidade, da sobriedade, do concreto e do civismo. Esses artistas misturaram o passado ao presente, retratando os personagens da nobreza e da burguesia, além de cenas míticas e histórias cheias de vigor.\n\nRAZOUK, J. J. (Org.). **Histórias reais e belas nas telas.** Posigraf: 2003.\n\nAtualmente, os artistas apropriam-se de desenhos, charges, grafismo e até de ilustrações de livros para compor obras em que se misturam personagens de diferentes épocas, como na seguinte imagem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2010/questions/100/a1ca9a6c-9da7-4279-a70d-14e34cff4656.jpg"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2010/questions/100/6cda2bf3-9c32-4651-a2c4-8200b73727d1.jpg"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2010/questions/100/bf9cdbd5-e66c-4a1f-b4ce-2de19213214b.jpg"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2010/questions/100/a666d33f-4b54-4edb-a91c-67b7a15f5055.jpg"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2010/questions/100/3f6fed9e-14d8-46a4-b15b-91f7b75d4e5f.jpg"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.21956,
+      "escala": 478,
+      "faixa": "Fácil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 100,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/100",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 101,
+    "enunciado": "Ao circularem socialmente, os textos realizam-se como práticas de linguagem, assumindo configurações específicas, formais e de conteúdo. Considerando o contexto em que circula o texto publicitário, seu objetivo básico é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Influenciar o comportamento do leitor, por meio de apelos que visam à adesão ao consumo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Definir regras de comportamento social pautadas no combate ao consumismo exagerado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Defender a importância do conhecimento de informática pela população de baixo poder aquisitivo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Facilitar o uso de equipamentos de informática pelas classes sociais economicamente desfavorecidas",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Questionar o fato de o homem ser mais inteligente que a máquina, mesmo a mais moderna.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.00549,
+      "escala": 501,
+      "faixa": "Fácil"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2010/questions/101/28db87e9-37b3-49bb-ac74-ecdb20dad7ef.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 101,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/101",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 102,
+    "enunciado": "**Testes**\n\nDia desses resolvi fazer um teste proposto por um _site_ da internet. O nome do teste era tentador: “O que Freud diria de você”. Uau. Respondi a todas as perguntas e o resultado foi o seguinte: “Os acontecimentos da sua infância a marcaram até os doze anos, depois disso você buscou conhecimento intelectual para seu amadurecimento”. Perfeito! Foi exatamente o que aconteceu comigo. Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise, e ele acertou na mosca.\n\nEstava com tempo sobrando, e curiosidade é algo que não me falta, então resolvi voltar ao teste e responder tudo diferente do que havia respondido antes. Marquei umas alternativas esdrúxulas, que nada tinham a ver com minha personalidade. E fui conferir o resultado, que dizia o seguinte: “Os acontecimentos da sua infância a marcaram até os 12 anos, depois disso você buscou conhecimento intelectual para seu amadurecimento”.\n\nMEDEIROS, M. **Doidas e santas.** Porto Alegre, 2008 (adaptado).\n\nQuanto às influências que a internet pode exercer sobre os usuários, a autora expressa uma reação irônica no trecho:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“Marquei umas alternativas esdrúxulas, que nada tinham a ver”.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "“Os acontecimentos da sua infância a marcaram até os doze anos”.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "“Dia desses resolvi fazer um teste proposto por um site da internet”.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "“Respondi a todas as perguntas e o resultado foi o seguinte”.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "“Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise”.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.34729,
+      "escala": 535,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 102,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/102",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 103,
+    "enunciado": "**Transtorno do comer compulsivo**\n\nO transtorno do comer compulsivo vem sendo reconhecido, nos últimos anos, como uma síndrome caracterizada por episódios de ingestão exagerada e compulsiva de alimentos, porém, diferentemente da bulimia nervosa, essas pessoas não tentam evitar ganho de peso com os métodos compensatórios. Os episódios vêm acompanhados de uma sensação de falta de controle sobre o ato de comer, sentimentos de culpa e de vergonha.\n\nMuitas pessoas com essa síndrome são obesas, apresentando uma história de variação de peso, pois a comida é usada para lidar com problemas psicológicos. O transtorno do comer compulsivo é encontrado em cerca de 2% da população em geral, mais frequentemente acometendo mulheres entre 20 e 30 anos de idade. Pesquisas demonstram que 30% das pessoas que procuram tratamento para obesidade ou para perda de peso são portadoras de transtorno do comer compulsivo.\n\nDisponível em: http://www.abcdasaude.com.br. Acesso em: 1 maio 2009 (adaptado).\n\nConsiderando as ideias desenvolvidas pelo autor, conclui-se que o texto tem a finalidade de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descrever e fornecer orientações sobre a síndrome da compulsão alimentícia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Narrar a vida das pessoas que têm o transtorno do comer compulsivo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aconselhar as pessoas obesas a perder peso com métodos simples.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Expor de forma geral o transtorno compulsivo por alimentação. E",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar as pessoas para a mudança de hábitos alimentícios.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.67627,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 103,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/103",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 104,
+    "enunciado": "A gentileza é algo difícil de ser ensinado e vai muito além da palavra educação. Ela é difícil de ser encontrada, generosas e desprendidas, que se interessam em contribuir para o bem do outro e da sociedade. É uma atitude desobrigada, que se manifesta nas situações cotidianas e das maneiras mais prosaicas.\n\nSIMURRO, S. A. B. **Ser gentil é ser saudável.** Disponível em: http://www.abqv.org.br. Acesso em: 22 jun. 2006 (adaptado).\n\nNo texto, menciona-se que a gentileza extrapola as regras de boa educação. A argumentação construída",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresenta fatos que estabelecem entre si relações de causa e de consequência.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descreve condições para a ocorrência de atitudes educadas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Indica a finalidade pela qual a gentileza pode ser praticada.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Enumera fatos sucessivos em uma relação temporal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mostra oposição e acrescenta ideias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.1107,
+      "escala": 711,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 104,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/104",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 105,
+    "enunciado": "Em busca de maior naturalismo em suas obras e fundamentando-se em novo conceito estético, Monet, Degas, Renoir e outros artistas passaram a explorar novas formas de composição artística, que resultaram no estilo denominado Impressionismo. Observadores atentos da natureza, esses artistas passaram a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retratar, em suas obras, as cores que idealizavam de acordo com o reflexo da luz solar nos objetos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Usar mais a cor preta, fazendo contornos nítidos, que melhor definiam as imagens e as cores do objeto representado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Retratar paisagens em diferentes horas do dia, recriando, em suas telas, as imagens por eles idealizadas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Usar pinceladas rápidas de cores puras e dissociadas diretamente na tela, sem misturá-las antes na paleta.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Usar as sombras em tons de cinza e preto e com efeitos esfumaçados, tal como eram realizadas no Renascimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.04125,
+      "escala": 704,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2010/questions/105/465a663a-3aad-490d-9ea3-f727ebd02358.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 105,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/105",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 106,
+    "enunciado": "O folclore é o retrato da cultura de um povo. A dança popular e folclórica é uma forma de representar a cultura regional, pois retrata seus valores, crenças, trabalho conhecê-la, é de alguma forma se apropriar dela, é enriquecer a própria cultura.\n\nBREGOLATO, R. A. **Cultura Corporal da Dança**. São Paulo: Ícone, 2007.\n\nAs manifestações folclóricas perpetuam uma tradição cultural, é obra de um povo que a cria, recria e a perpetua. Sob essa abordagem deixa-se de identificar como dança folclórica brasileira",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Bumba-meu-boi, que é uma dança teatral onde personagens contam uma história envolvendo crítica social, morte e ressurreição.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A Quadrilha das festas juninas, que associam festejos religiosos a celebrações de origens pagãs envolvendo as colheitas e a fogueira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O Congado, que é uma representação de um reinado africano onde se homenageia santos através de música, cantos e dança.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O Balé, em que se utilizam músicos, bailarinos e vários outros profissionais para contar uma história em forma de espetáculo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O Carnaval, em que o samba derivado do batuque africano é utilizado com o objetivo de contar ou recriar uma história nos desfiles.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.69586,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 106,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/106",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 107,
+    "enunciado": "**Carnavália**\n\nRepique tocou\nO surdo escutou\nE o meu corasamborim\nCuíca gemeu, será que era meu, quando ela passou por mim?\n\\[…\\]\n\nANTUNES, A.; BROWN, C.; MONTE, M. **Tribalistas**, 2002 (fragmento).\n\nNo terceiro verso, o vocábulo “_corasamborim_”, que é a junção coração + samba + tamborim, refere-se, ao mesmo tempo, a elementos que compõem uma escola de samba e à situação emocional em que se encontra o autor da mensagem, com o coração no ritmo da percussão.\n\nEssa palavra corresponde a um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estrangeirismo, uso de elementos linguísticos originados em outras línguas e representativos de outras culturas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Neologismo, criação de novos itens linguísticos, pelos mecanismos que o sistema da língua disponibiliza.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Gíria, que compõe uma linguagem originada em determinado grupo social e que pode vir a se disseminar em uma comunidade mais ampla.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Regionalismo, por ser palavra característica de determinada área geográfica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Termo técnico, dado que designa elemento de área a de atividade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.36762,
+      "escala": 537,
+      "faixa": "Fácil"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 107,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/107",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 108,
+    "enunciado": "A capa da revista Época de 12 de outubro de 2009 traz um anúncio sobre o lançamento do livro digital no Brasil. Já o texto II traz informações referentes à abrangência de acessibilidade das tecnologias de comunicação e informação nas diferentes regiões do país. A partir da leitura dos dois textos, infere-se que o advento do livro digital no Brasil",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possibilitará o acesso das diferentes regiões do país às informações antes restritas, uma vez que eliminará as distâncias, por meio da distribuição virtual.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Criará a expectativa de viabilizar a democratização da leitura, porém, esbarra na insuficiência do acesso à internet por meio da telefonia celular, ainda deficiente no país.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fará com que os livros impressos tornem-se obsoletos, em razão da diminuição dos gastos com os produtos digitais gratuitamente distribuídos pela internet.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Garantirá a democratização dos usos da tecnologia no país, levando em consideração as características de cada região no que se refere aos hábitos de leitura e acesso à informação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Impulsionará o crescimento da qualidade da leitura dos brasileiros, uma vez que as características do produto permitem que a leitura aconteça a despeito das adversidades geopolíticas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.77876,
+      "escala": 578,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [
+      "https://enem.dev/2010/questions/108/ecaceb52-a03d-4701-b44b-271cb3ba06db.jpg",
+      "https://enem.dev/2010/questions/108/a42bfa42-04ec-4b0c-b9f2-ded7c031a3b0.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 108,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/108",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 109,
+    "enunciado": "**O _Chat_ e sua linguagem virtual**\n\nO significado da palavra _chat_ vem do inglês e quer dizer “conversa”. Essa conversa acontece em tempo real, e, para isso, é necessário que duas ou mais pessoas estejam conectadas ao mesmo tempo, o que chamamos de comunicação síncrona. São muitos os _sites_ que oferecem a opção de bate-papo na internet, basta escolher a sala que deseja “entrar”, identificar-se e iniciar a conversa. Geralmente, as salas são divididas por assuntos, como educação, cinema, esporte, música, sexo, entre outros. Para entrar, é necessário escolher um _nick_, uma espécie de apelido que identificará o participante durante a conversa. Algumas salas restringem a idade, mas não existe nenhum controle para verificar se a idade informada é realmente a idade de quem está acessando, facilitando que crianças e adolescentes acessem salas com conteúdos inadequados para sua faixa etária.\n\nAMARAL, S. F. Internet: novos valores e novos comportamentos. In: SILVA, E.T. (Coord.). **A leitura nos oceanos da internet.** São Paulo: Cortez, 2003. (adaptado).\n\nSegundo o texto, o chat proporciona a ocorrência de diálogos instantâneos com linguagem específica, uma vez que nesses ambientes interativos faz-se uso de protocolos diferenciados de interação. O chat, nessa perspectiva, cria uma nova forma de comunicação porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possibilita que ocorra diálogo sem a exposição da identidade real dos indivíduos, que podem recorrer a apelidos fictícios sem comprometer o fluxo da comunicação em tempo real.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Disponibiliza salas de bate-papo sobre diferentes assuntos com pessoas pré-selecionadas por meio de um sistema de busca monitorado e atualizado por autoridades no assunto.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Seleciona previamente conteúdos adequados à faixa etária dos usuários que serão distribuídos nas faixas de idade organizadas pelo site que disponibiliza a ferramenta.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Garante a gravação das conversas, o que possibilita que um diálogo permaneça aberto, independente da disposição de cada participante.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Limita a quantidade de participantes conectados nas salas de bate-papo, a fim de garantir a qualidade e eficiência dos diálogos, evitando mal-entendidos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.80441,
+      "escala": 420,
+      "faixa": "Fácil"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 109,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/109",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 110,
+    "enunciado": "O desenvolvimento das capacidades físicas (qualidades motoras passíveis de treinamento) ajuda na tomada de decisões em relação à melhor execução do movimento. A capacidade física predominante no movimento representado na imagem é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A velocidade, que permite ao músculo executar uma sucessão rápida de gestos em movimentação de intensidade máxima.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A resistência, que admite a realização de movimentos durante considerável período de tempo, sem perda da qualidade da execução.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A flexibilidade, que permite a amplitude máxima de um movimento, em uma ou mais articulações, sem causar lesões.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A agilidade, que possibilita a execução de movimentos rápidos e ligeiros com mudanças de direção.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O equilíbrio, que permite a realização dos mais variados movimentos, com o objetivo de sustentar o corpo sobre uma base.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.5592,
+      "escala": 444,
+      "faixa": "Fácil"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2010/questions/110/7859a216-d85e-4f5d-b326-bc72cbef3815.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 110,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/110",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 111,
+    "enunciado": "**Texto I**\n\n**Sob o olhar do _Twitter_**\n\nVivemos a era da exposição e do compartilhamento. Público e privado começam a se confundir. A ideia de privacidade vai mudar ou desaparecer. O trecho acima tem 140 caracteres exatos. É uma mensagem curta que tenta encapsular uma ideia complexa. Não é fácil esse tipo de síntese, mas dezenas de milhões de pessoas o praticam diariamente. No mundo todo, são disparados 2,4 trilhões de SMS por mês, e neles cabem 140 toques, ou pouco mais. Também é comum enviar e-mails, deixar recados no Orkut, falar com as pessoas pelo MSN, tagarelar no celular, receber chamados em qualquer parte, a qualquer hora. Estamos conectados. Superconectados, na verdade, de várias formas.\n\n\\[…\\] O mais recente exemplo de demanda por total conexão e de uma nova sintaxe social é o Twitter, o novo serviço de troca de mensagens pela internet. O Twitter pode ser entendido como uma mistura de blog e celular. As mensagens são de 140 toques, como os torpedos dos celulares, mas circulam pela internet, como os textos de blogs. Em vez de seguir para apenas uma pessoa, como no celular ou no MSN, a mensagem do Twitter vai para todos os “seguidores” – gente que acompanha o emissor. Podem ser 30, 300 ou 409 mil seguidores.\n\nMARTINS, I.; LEAL, R. **Época.** 16 mar. 2009 (fragmento adaptado).\n\nDa comparação entre os textos, depreende-se que o texto II constitui um passo a passo para interferir no comportamento dos usuários, dirigindo-se diretamente aos leitores, e o texto I",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adverte os leitores de que a internet pode transformar-se em um problema porque expõe a vida dos usuários e, por isso, precisa ser investigada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ensina aos leitores os procedimentos necessários para que as pessoas conheçam, em profundidade, os principais meios de comunicação da atualidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Exemplifica e explica o novo serviço global de mensagens rápidas que desafia os hábitos de comunicação e reinventa o conceito de privacidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Procura esclarecer os leitores a respeito dos perigos que o uso do Twitter pode representar nas relações de trabalho e também no plano pessoal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta uma enquete sobre as redes sociais mais usadas na atualidade e mostra que o Twitter é preferido entre a maioria dos internautas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.31137,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2010/questions/111/e7286ec1-4e73-4cfd-b68d-1db628c37b2d.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 111,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/111",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 113,
+    "enunciado": "Os filhos de Anna eram bons, uma coisa verdadeira e sumarenta. Cresciam, tomavam banho, exigiam para si, malcriados, instantes cada vez mais completos. A estouros. O calor era forte no apartamento que estavam aos poucos pagando. **Mas** o vento batendo nas cortinas que ela mesma cortara lembrava-lhe que se quisesse podia parar e enxugar a testa, olhando o calmo horizonte. Como um lavrador. Ela plantara as sementes que tinha na mão, não outras, **mas** essas apenas.\n\nLISPECTOR, C. Laços de família. Rio de Janeiro: Rocco, 1998.\n\nA autora emprega por duas vezes o conectivo mas no fragmento apresentado. Observando aspectos da organização, estruturação e funcionalidade dos elementos que articulam o texto, o conectivo mas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expressa o mesmo conteúdo nas duas situações em que aparece no texto.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Quebra a fluidez do texto e prejudica a compreensão, se usado no início da frase.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ocupa posição fixa, sendo inadequado seu uso na abertura da frase.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contém uma ideia de sequência temporal que direciona a conclusão do leitor.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Assume funções discursivas distintas nos dois contextos de uso.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.20586,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 113,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/113",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 115,
+    "enunciado": "Resta saber o que ficou nas línguas indígenas no Português do Brasil. Serafim da Silva Neto afirma: “No Brasil não há, positivamente, influência das línguas africanas ou ameríndias”. Todavia, é difícil de aceitar que um longo período de bilinguismo de dois séculos não deixasse marcas no português do Brasil.\n\nELIA, S. **Fundamentos Histórico-Linguísticos do Português do Brasil.**Rio de Janeiro: Lucerna, 2003 (adaptado).\n\nNo final do século XVIII, no norte do Egito, foi descoberta a Pedra de Roseta, que continha um texto escrito em egípcio antigo, uma versão desse texto chamada “demótico”, e o mesmo texto escrito em grego. Até então, a antiga escrita egípcia não estava decifrada. O inglês Thomas Young estudou o objeto e fez algumas descobertas como, por exemplo, a direção em que a leitura deveria ser feita. Mais tarde, o francês Jean-François Champollion voltou a estudá-la e conseguiu decifrar a antiga escrita egípcia a partir do grego, provando que, na verdade, o grego era a língua original do texto e que o egípcio era uma tradução.\n\nCom base na leitura dos textos conclui-se, sobre as línguas, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cada língua é única e intraduzível.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Elementos de uma língua são preservados, ainda que não haja mais falantes dessa língua.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A língua escrita de determinado grupo desaparece quando a sociedade que a produzia é extinta.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O egípcio antigo e o grego apresentam a mesma estrutura gramatical, assim como as línguas indígenas brasileiras e o português do Brasil.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O egípcio e o grego apresentavam letras e palavras similares, o que possibilitou a comparação linguística, o mesmo que aconteceu com as línguas indígenas brasileiras e o português do Brasil.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.75175,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 115,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/115",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 116,
+    "enunciado": "Joaquim Maria **Machado de Assis**, cronista, contista, dramaturgo, jornalista, poeta, novelista, romancista, crítico e ensaísta, nasceu na cidade do Rio de Janeiro em 21 de junho de 1839. Filho de um operário mestiço de negro e português, Francisco José de Assis, e de D. Maria Leopoldina Machado de Assis, aquele que viria a tornar-se o maior escritor do país e um mestre da língua, perde a mãe muito cedo e é criado pela madrasta, Maria Inês, também mulata, que se dedica ao menino e o matricula na escola pública, única que frequentou o autodidata Machado de Assis.\n\nDisponível em: http://www.passeiweb.com. Acesso em: 1 maio 2009.\n\nConsiderando os seus conhecimentos sobre os gêneros textuais, o texto citado constitui-se de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fatos ficcionais, relacionados a outros de caráter realista, relativos à vida de um renomado escritor.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Representações generalizadas acerca da vida de membros da sociedade por seus trabalhos e vida cotidiana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Explicações da vida de um renomado escritor, com estrutura argumentativa, destacando como tema seus principais feitos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Questões controversas e fatos diversos da vida de personalidade histórica, ressaltando sua intimidade familiar em detrimento de seus feitos públicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentação da vida de uma personalidade, organizada sobretudo pela ordem tipológica da narração, com um estilo marcado por linguagem objetiva.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.69153,
+      "escala": 569,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [
+      "https://enem.dev/2010/questions/116/7ce286ed-7c09-4d61-8386-f267e1c1a159.png"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 116,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/116",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 118,
+    "enunciado": "**Texto I**\nLogo depois transferiram para o trapiche o depósito dos objetos que o trabalho do dia lhes proporcionava. Estranhas coisas entraram então para o trapiche. Não mais estranhas, porém, que aqueles meninos, moleques de todas as cores e de idades as mais variadas, desde os nove aos dezesseis anos, que à noite se estendiam pelo assoalho e por debaixo da ponte e dormiam, indiferentes ao vento que circundava o casarão uivando, indiferentes à chuva que muitas vezes os lavava, mas com os olhos puxados para as luzes dos navios, com os ouvidos\npresos às canções que vinham das embarcações…\n\nAMADO, J. **Capitães da Areia**. São Paulo: Companhia das Letras, 2008 (fragmento).\n\n**Texto II**\nÀ margem esquerda do rio Belém, nos fundos do mercado de peixe, ergue-se o velho ingazeiro – ali os bêbados são felizes. Curitiba os considera animais sagrados, provê as suas necessidades de cachaça e pirão. No trivial contentavam-se com as sobras do mercado.\n\nTREVISAN, D. **35 noites de paixão: contos escolhidos.** Rio de Janeiro: BestBolso, 2009 (fragmento).\n\nSob diferentes perspectivas, os fragmentos citados são exemplos de uma abordagem literária recorrente na literatura brasileira do século XX. Em ambos os textos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A linguagem afetiva aproxima os narradores dos personagens marginalizados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A ironia marca o distanciamento dos narradores em relação aos personagens.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O detalhamento do cotidiano dos personagens revela a sua origem social.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O espaço onde vivem os personagens é uma das marcas de sua exclusão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A crítica à indiferença da sociedade pelos marginalizados é direta.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.49628,
+      "escala": 650,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 118,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/118",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 119,
+    "enunciado": "**A Internet que você faz**\n\nUma pequena invenção, a _Wikipédia_, mudou o jeito de lidarmos com informações na rede. Trata-se de uma enciclopédia virtual colaborativa, que é feita e atualizada por qualquer internauta que tenha algo a contribuir. Em resumo: é como se você imprimisse uma nova página para a publicação desatualizada que encontrou na biblioteca.\n\nAntigamente, quando precisávamos de alguma informação confiável, tínhamos a enciclopédia como fonte segura de pesquisa para trabalhos, estudos e pesquisa em geral. Contudo, a novidade trazida pela _Wikipédia_nos coloca em uma nova circunstância, em que não podemos confiar integralmente no que lemos.\n\nPor ter como lema principal a escritura coletiva, seus textos trazem informações que podem ser editadas e reeditadas por pessoas do mundo inteiro. Ou seja, a relevância da informação não é determinada pela tradição cultural, como nas antigas enciclopédias, mas pela dinâmica da mídia.\n\nAssim, questiona-se a possibilidade de serem encontradas informações corretas entre sabotagens deliberadas e contribuições erradas.\n\nNÉO, A. et al. A Internet que você faz. In: **Revista PENSE!** Secretaria de Educação do Estado do Ceará. Ano 2, n°. 3, mar.-abr. 2010 (adaptado).\n\nAs novas Tecnologias de Informação e Comunicação, como a Wikipédia, têm trazido inovações que impactaram significativamente a sociedade. A respeito desse assunto, o texto apresentado mostra que a falta de confiança na veracidade dos conteúdos registrados na Wikipédia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acontece pelo fato de sua construção coletiva possibilitar a edição e reedição das informações por qualquer pessoa no mundo inteiro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Imita a disseminação do saber, apesar do crescente número de acessos ao site que a abriga, por falta de legitimidade",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorre pela facilidade de acesso à página, o que torna a informação vulnerável, ou seja, pela dinâmica da mídia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ressalta a crescente busca das enciclopédias impressas para as pesquisas escolares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Revela o desconhecimento do usuário, impedindo-o de formar um juízo de valor sobre as informações.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.30541,
+      "escala": 469,
+      "faixa": "Fácil"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 119,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/119",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 120,
+    "enunciado": "O voleibol é um dos esportes mais praticados na atualidade. Está presente nas competições esportivas, nos jogos escolares e na recreação. Nesse esporte, os praticantes utilizam alguns movimentos específicos como: saque, manchete, bloqueio, levantamento, toque, entre outros. Na sequência de imagens, identificam-se os movimentos de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sacar e colocar a bola em jogo, defender a bola e realizar a cortada como forma de ataque.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Arremessar a bola, tocar para passar a bola ao levantador e bloquear como forma de ataque.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tocar e colocar a bola em jogo, cortar para defender e levantar a bola para atacar.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Passar a bola e iniciar a partida, lançar a bola ao levantador e realizar a manchete para defender.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Cortar como forma de ataque, passar a bola para defender e bloquear como forma de ataque.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.2446,
+      "escala": 476,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 120,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/120",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 121,
+    "enunciado": "O presidente Lula assinou, em 29 de setembro de 2008, decreto sobre o Novo Acordo Ortográfico da Língua Portuguesa. As novas regras afetam principalmente o uso dos acentos agudos e circunflexo, do trema e do hífen.\n\nLonge de um consenso, muita polêmica tem-se levantado em Macau e nos oito países de língua portuguesa: Brasil, Angola, Cabo Verde, Guiné-Bissau, Moçambique, Portugal, São Tomé e Príncipe e Timor Leste.\n\nComparando as diferentes opiniões sobre a validade de se estabelecer o acordo para fins de unificação o argumento que, em grande parte, foge a essa discussão é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\"A academia (Brasileira de Letras) encara essa aprovação como um marco histórico. Inscreve-se, finalmente, a Língua Portuguesa no rol daquelas que conseguiram beneficiar-se há mais tempo da unificação de seu sistema de grafar, numa demonstração de consciência da política do idioma e de maturidade na defesa, difusão e ilustração da língua da Lusofonia.” SANDRONI, C. Presidente da ABL. Disponível em: http://www.academia.org.br. Acesso em: 10 nov. 2008.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "\"Acordo Ortográfico? Não, obrigado. Sou contra. Visceralmente contra. Filosoficamente contra. Linguisticamente contra. Eu gosto do \"c\" do \"actor\" e o \"p\" de \"cepticismo\". Representam um patrimônio, uma pegada etimológica que faz parte de uma identidade cultural. A pluralidade é um valor que deve ser estudado e respeitado. Aceitar essa aberração significa apenas que a irmandade entre Portugal e Brasil continua a ser a irmandade do atraso. COUTINHO, J. P. Folha de São Paulo. Ilustrada. 28 set.2008, E1 (adaptado).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "\"Há um conjunto de necessidades políticas  e econômicas que visa a internacionalização do português como identidade e marca econômica\". \"É possível que o Fernando (Pessoa), como produtor de exportação, valha mais do que a PT (Portugal Telecom). Tem um valor econômico único.\" RIBEIRO, J. A. P. Ministro da Cultura de Portugal. Disponível em: http://ultimahora.publico.clix.pt. Acesso em: 10 nov. 2008.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "\"É um acto cívico batermo-nos contra o Acordo Ortográfico.\" \"O Acordo não leva a unidade nenhuma.\" \"Não se pode aplicar na ordem interna um instrumento que não está aceito internacionalmente” e nem assegura “a defesa da língua como património, como prevê a Constituição nos artigos 9º e 68º.” MOURA, V. G. Escritor e eurodeputado. Disponível em: www.mundoportugues.org. Acesso em: 10 nov. 2008.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "“Se é para ter uma lusofonia, o conceito [unificação da língua] deve ser mais abrangente e temos de estar em paridade. Unidade não significa que temos que andar todos ao mesmo passo. Não é necessário que nos tornemos homogéneos. Até porque o que enriquece a língua portuguesa são as diversas literaturas e formas de utilização.” RODRIGUES, M. H. Presidente do Instituto Português do Oriente, sediado em Macau. Disponível em: http://taichungpou.blogspot.com. Acesso em: 10 nov. 2008 (adaptado).",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.97618,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 121,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/121",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 122,
+    "enunciado": "**Texto I**\n\nO chamado “fumante passivo” é aquele indivíduo que não fuma, mas acaba respirando a fumaça dos cigarros fumados ao seu redor. Até hoje, discutem-se muito os efeitos do fumo passivo, mas uma coisa é certa: quem não fuma não é obrigado a respirar a fumaça dos outros.\n\nO fumo passivo é um problema de saúde pública em todos os países do mundo. Na Europa, estima-se que 79% das pessoas estão expostas à fumaça “de segunda mão”, enquanto, nos Estados Unidos, 88% dos não fumantes acabam fumando passivamente. A Sociedade do Câncer da Nova Zelândia informa que o fumo passivo é a terceira entre as principais causas de morte no país, depois do fumo ativo e do uso de álcool.\n\nDisponível em: www.terra.com.br. Acesso em: 27 abr. 2010 (fragmento).\n\nAo abordar a questão do tabagismo, os textos I e II procuram demonstrar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quantidade de cigarros consumidos por pessoa, diariamente, excede o máximo de nicotina recomendado para os indivíduos, inclusive para os não fumantes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Para garantir o prazer que o indivíduo tem ao fumar, será necessário aumentar as estatísticas de fumo passivo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A conscientização dos fumantes passivos é uma maneira de manter a privacidade de cada indivíduo e garantir a saúde de todos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os não fumantes precisam ser respeitados e poupados, pois estes também estão sujeitos às doenças causadas pelo tabagismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O fumante passivo não é obrigado a inalar as mesmas toxinas que um fumante, portanto depende dele evitar ou não a contaminação proveniente da exposição ao fumo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.46003,
+      "escala": 454,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2010/questions/122/2df0da41-f8e9-4297-a6a8-e1ad666c16c8.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 122,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/122",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 123,
+    "enunciado": "“Todas as manhãs quando acordo, experimento um prazer supremo: o de ser Salvador Dalí.”\n\nNÉRET, G. **Salvador Dalí.** Taschen, 1996.\n\nAssim escreveu o pintor dos “relógios moles” e das “girafas em chamas” em 1931. Esse artista excêntrico deu apoio ao general Franco durante a Guerra Civil Espanhola e, por esse motivo, foi afastado do movimento surrealista por seu líder, André Breton. Dessa forma, Dalí criou seu próprio estilo, baseado na interpretação dos sonhos e nos estudos de Sigmund Freud, denominado “método de interpretação paranoico”. Esse método era constituído por textos visuais que demonstram imagens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Do fantástico, impregnado de civismo pelo governo espanhol, em que a busca pela emoção e pela dramaticidade desenvolveram um estilo incomparável.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Do onírico, que misturava sonho com realidade e inconsciente como um universo único ou pessoal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Da linha inflexível da razão, dando vazão a uma forma de produção despojada no traço, na temática e nas formas vinculadas ao real.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Do reflexo que, apesar do termo \"paranoico\", possui sobriedade e elegância advindas de uma técnica de cores discretas e desenhos precisos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Da expressão e intensidade entre o consciente e a liberdade, declarando o amor pela forma de conduzir o enredo histórico dos personagens retratados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.59202,
+      "escala": 559,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 123,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/123",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 124,
+    "enunciado": "**Choque a 36 000 km/h**\n\nA faixa que vai de 160 quilômetros de altitude em volta da terra assemelha-se a uma avenida congestionada  onde orbitam 3 000 satélites ativos. Eles disputam espaço com 17 000 fragmentos de artefatos lançados pela  Terra e que se desmancharam – foguetes, satélites desativados e até ferramentas perdidas por astronautas. Com um tráfego celeste tão intenso, era questão de tempo para que acontecesse um acidente de grandes proporções, como o da semana passada. Na terça-feira, dois satélites em órbita desde os anos 90 colidiram em um ponto 790 quilômetros acima da Sibéria. A trombada dos satélites chama a atenção para os riscos que oferece a montanha de lixo espacial em órbita. Como os objetos viajam a grande velocidade, mesmo um  pequeno fragmento de 10 centímetros poderia causar estragos consideráveis no telescópio Hubble ou na estação espacial Internacional — nesse caso pondo em risco a vida dos astronautas que lá trabalham.\n\n**Revista Veja.** 18 set. 2009 (adaptado).\n\nLevando-se em consideração os elementos constitutivos de um texto jornalístico, infere-se que o autor teve como objetivo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exaltar o emprego da língua figurada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Criar suspense e despertar temor no leitor.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Influenciar a opinião dos leitores sobre o tema, com as marcas argumentativas de seu posicionamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Induzir o leitor a pensar que os satélites artificiais representam um grande perigo para toda a humanidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exercitar a ironia ao empregar “avenida congestionada”; “tráfego celeste tão intenso”; “montanha de lixo”.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.00596,
+      "escala": 601,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 124,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/124",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 125,
+    "enunciado": "**A carreira do crime**\n\nEstudo feito por pesquisadores da Fundação Oswaldo Cruz sobre adolescentes recrutados pelo tráfico de drogas nas favelas cariocas expõe as bases sociais dessas quadrilhas, contribuindo para explicar as dificuldades que o Estado enfrenta no combate ao crime organizado.\n\nO tráfico oferece ao jovem de escolaridade precária (nenhum dos entrevistados havia completado o ensino fundamental) um plano de carreira bem estruturado, com salários que variam de R$ 400,00 a R$ 12.000 mensais. Para uma base de comparação, convém notar que, segundo dados do IBGE de 2001, 59% da população brasileira com mais de dez anos que declara ter uma atividade remunerada ganha no máximo o ‘piso salarial’ oferecido pelo crime. Dos traficantes ouvidos pela pesquisa, 25% recebiam mais de R$ 2.000 mensais; já na população brasileira essa taxa não ultrapassa 6%.\n\nTais rendimentos mostram que as políticas sociais compensatórias, como o Bolsa-Escola (que paga R$ 15 mensais por aluno matriculado), são por si só incapazes de impedir que o narcotráfico continue aliciando crianças provenientes de estratos de baixa renda: tais políticas aliviam um pouco o orçamento familiar e incentivam os pais a manterem os filhos estudando, o que de modo algum impossibilita a opção pela deliquência. No mesmo sentido, os programas voltados aos jovens vulneráveis ao crime organizado (circo-escola, oficinas de cultura, escolinhas de futebol) são importantes, mas não resolvem o problema.\n\nA única maneira de reduzir a atração exercida pelo tráfico é a repressão, que aumenta os riscos para os que escolhem esse caminho. Os rendimentos pagos aos adolescentes provam isso: eles são elevados precisamente porque a possibilidade de ser preso não é desprezível. É preciso que o Executivo federal e os estaduais desmontem as organizações paralelas erguidas pelas quadrilhas, para que a certeza de punição elimine o fascínio dos salários do crime.\n\nEditorial. **Folha de São Paulo.** 15 jan. 2003.\n\nCom base nos argumentos do autor, o texto aponta para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma denúncia de quadrilhas que se organizam em torno do narcotráfico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A constatação de que o narcotráfico restringe-se aos centros urbanos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A informação de que as políticas sociais compensatórias eliminarão a atividade criminosa a longo prazo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O convencimento do leitor de que para haver a superação do problema do narcotráfico é preciso aumentar a ação policial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Uma exposição numérica realizada com o fim de mostrar que o negócio do narcotráfico é vantajoso e sem riscos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.66788,
+      "escala": 567,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 125,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/125",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 126,
+    "enunciado": "**A carreira do crime**\n\nEstudo feito por pesquisadores da Fundação Oswaldo Cruz sobre adolescentes recrutados pelo tráfico de drogas nas favelas cariocas expõe as bases sociais dessas quadrilhas, contribuindo para explicar as dificuldades que o Estado enfrenta no combate ao crime organizado.\n\nO tráfico oferece ao jovem de escolaridade precária (nenhum dos entrevistados havia completado o ensino fundamental) um plano de carreira bem estruturado, com salários que variam de R$ 400,00 a R$ 12.000 mensais. Para uma base de comparação, convém notar que, segundo dados do IBGE de 2001, 59% da população brasileira com mais de dez anos que declara ter uma atividade remunerada ganha no máximo o ‘piso salarial’ oferecido pelo crime. Dos traficantes ouvidos pela pesquisa, 25% recebiam mais de R$ 2.000 mensais; já na população brasileira essa taxa não ultrapassa 6%.\n\nTais rendimentos mostram que as políticas sociais compensatórias, como o Bolsa-Escola (que paga R$ 15 mensais por aluno matriculado), são por si só incapazes de impedir que o narcotráfico continue aliciando crianças provenientes de estratos de baixa renda: tais políticas aliviam um pouco o orçamento familiar e incentivam os pais a manterem os filhos estudando, o que de modo algum impossibilita a opção pela deliquência. No mesmo sentido, os programas voltados aos jovens vulneráveis ao crime organizado (circo-escola, oficinas de cultura, escolinhas de futebol) são importantes, mas não resolvem o problema.\n\nA única maneira de reduzir a atração exercida pelo tráfico é a repressão, que aumenta os riscos para os que escolhem esse caminho. Os rendimentos pagos aos adolescentes provam isso: eles são elevados precisamente porque a possibilidade de ser preso não é desprezível. É preciso que o Executivo federal e os estaduais desmontem as organizações paralelas erguidas pelas quadrilhas, para que a certeza de punição elimine o fascínio dos salários do crime.\n\nEditorial. **Folha de São Paulo.** 15 jan. 2003.\n\nNo Editorial, o autor defende a tese de que “as políticas sociais que procuram evitar a entrada dos jovens compensatória que aquela oferecida pelos programas do governo”. Para comprovar sua tese, o autor apresenta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Instituições que divulgam o crescimento de jovens no crime organizado.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sugestões que ajudam a reduzir a atração exercida pelo crime organizado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Políticas sociais que impedem o aliciamento de crianças no crime organizado.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisadores que se preocupam com os jovens envolvidos no crime organizado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Números que comparam os valores pagos entre os programas de governo e o crime organizado.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.06013,
+      "escala": 506,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 126,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/126",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 127,
+    "enunciado": "Venho solicitar a clarividente atenção de Vossa Excelência para que seja conjurada uma calamidade que está  prestes a desabar em cima da juventude feminina do Brasil. Refiro-me, senhor presidente, ao movimento entusiasta que está empolgando centenas de moças, atraindo-as para se transformarem em jogadoras de futebol, sem se levar em conta que a mulher não poderá praticar este esporte violento sem afetar, seriamente, o equilíbrio fisiológicos de suas funções orgânicas, devido à natureza que dispôs a ser mãe, Ao que dizem os jornais, no Rio de Janeiro, já estão formados nada menos de dez quadros femininos. Em São Paulo e Belo Horizonte também já estão se constituindo outros. E, neste crescendo, dentro de um ano, é provável que em  todo o Brasil estejam organizados uns 200 clubes femininos de futebol: ou seja: 200 núcleos destroçados da  saúde de 2,2 mil futuras mães, que, além do mais, ficarão presas a uma mentalidade depressiva e propensa aos exibicionismos rudes e extravagantes.\n\nColuna Pênalti. **Carta Capital.** 28 abr. 2010.\n\nO trecho é parte de uma carta de um cidadão brasileiro, José Fuzeira, encaminhada, em abril de 1940, ao então presidente da República Getúlio Vargas. As opções linguísticas de Fuzueira mostram que seu texto foi elaborado em linguagem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regional, adequada à troca de informações na situação apresentada.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Jurídica, exigida pelo tema relacionado ao domínio do futebol.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Coloquial, considerando-se que ele era um cidadão brasileiro comum.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Culta, adequando-se ao seu interlocutor e à situação de comunicação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Informal, pressupondo o grau de escolaridade de seu interlocutor.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.18139,
+      "escala": 518,
+      "faixa": "Fácil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 127,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/127",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 129,
+    "enunciado": "**Negrinha\n**\n\nNegrinha era uma pobre órfã de sete anos. Preta? Não; fusca, mulatinha escura, de cabelos ruços e olhos assustados.\nNascera na senzala, de mãe escrava, e seus primeiros anos vivera-os pelos cantos escuros da cozinha, sobre velha esteira e trapos imundos. Sempre escondida, que a patroa não gostava de crianças.\nExcelente senhora, a patroa. Gorda, rica, dona do mundo, amimada dos padres, com lugar certo na igreja e  camarote de luxo reservado no céu. Entaladas as banhas no trono (uma cadeira de balanço na sala de jantar),  ali bordava, recebia as amigas e o vigário, dando audiências, discutindo o tempo. Uma virtuosa senhora em  suma – “dama de grandes virtudes apostólicas, esteio da religião e da moral”, dizia o reverendo.\nÓtima, a dona Inácia.\nMas não admitia choro de criança. Ai! Punha-lhe os nervos em carne viva.\n\\[…\\]\nA excelente dona Inácia era mestra na arte de judiar de crianças. Vinha da escravidão, fora senhora de escravos – e daquelas ferozes, amigas de ouvir cantar o bolo e zera ao regime novo – essa indecência de negro igual.\n\nLOBATO, M. Negrinha. In: MORICONE, I. **Os cem melhores contos brasileiros do século.** Rio de Janeiro: Objetiva, 2000 (fragmento).\n\nA narrativa focaliza um momento histórico-social de valores contraditórios. Essa contradição infere-se, no contexto, pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falta de aproximação entre a menina e a senhora, preocupada com as amigas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Receptividade da senhora para com os padres, mas deselegante para com as beatas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ironia do padre a respeito da senhora, que era perversa com as crianças.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Resistência da senhora em aceitar a liberdade dos negros, evidenciada no final do texto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Rejeição aos criados por parte da senhora, que preferia tratá-los com castigos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.92331,
+      "escala": 592,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 129,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/129",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 130,
+    "enunciado": "O Flamengo começou a partida no ataque, **enquanto** o Botafogo procurava fazer uma forte marcação no meio campo e tentar lançamentos para Victor Simões, isolado entre os zagueiros rubro-negros. **Mesmo** com mais posse de bola, o time dirigido por Cuca tinha grande dificuldade de chegar à área alvinegra **por causa do** bloqueio montado pelo Botafogo na frente da sua área.\n\n**No entanto**, na primeira chance rubro-negra, saiu o gol. **Após** cruzamento da direita de Ibson, a zaga alvinegra rebateu a bola de cabeça para o meio da área. Kléberson apareceu na jogada e cabeceou por cima do goleiro Renan. Ronaldo Angelim apareceu nas costas da defesa e empurrou para o fundo da rede quase que em cima da linha: Flamengo 1 a 0.\n\nDisponível em: http://momentodofutebol.blogspot.com (adaptado).\n\nO texto, que narra uma parte do jogo final do Campeonato Carioca de futebol, realizado em 2009, contém vários conectivos, sendo que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após é conectivo de causa, já que apresenta o motivo de a zaga alvinegra ter rebatido a bola de cabeça.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Enquanto conecta duas opções possíveis para serem aplicadas no jogo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "No entanto tem significado de tempo, porque ordena os fatos observados no jogo em ordem cronológica de ocorrência.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mesmo traz ideia de concessão, já que “com mais posse de bola\", ter dificuldade não é algo naturalmente esperado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Por causa de indica consequência, porque as tentativas de ataque do Flamengo motivaram o Botafogo a fazer um bloqueio.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.15324,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 130,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/130",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 131,
+    "enunciado": "Após estudar na Europa, Anita Malfatti retornou ao Brasil com uma mostra que abalou a cultura nacional do início do século XX. Elogiada por seus mestres na Europa, Anita se considerava pronta para mostrar seu trabalho no Brasil, mas enfrentou as duras críticas de Monteiro Lobato. Com a intenção de criar uma arte que valorizasse a cultura brasileira, Anita Malfatti e outros artistas modernistas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Buscaram libertar a arte brasileira das normas acadêmicas europeias, valorizando as cores, a originalidade e os temas nacionais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Defenderam a liberdade limitada de uso da cor, até então utilizada de forma irrestrita, afetando a criação artística nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Representaram a ideia de que a arte deveria copiar fielmente a natureza, tendo como finalidade a prática educativa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mantiveram de forma fiel a realidade nas figuras retratadas, defendendo uma liberdade artística ligada a tradição acadêmica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Buscaram a liberdade na composição de suas figuras, respeitando limites de temas abordados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.50015,
+      "escala": 550,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 131,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/131",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 132,
+    "enunciado": "Segundo pesquisas recentes, é irrelevante a diferença entre sexos para se avaliar a inteligência. Com relação às tendências para áreas do conhecimento, por sexo, levando em conta a matrícula em cursos universitários brasileiros,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os homens estão matriculados em menor proporção em cursos de Matemática que em Medicina por lidarem melhor com pessoas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "As mulheres estão matriculadas em maior percentual em cursos que exigem capacidade de compreensão dos seres humanos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "As mulheres estão matriculadas em percentual maior em Física que em Mineração por tenderem a trabalhar melhor com abstrações.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "As homens e as mulheres estão matriculados na mesma proporção em cursos que exigem habilidades semelhantes na mesma área.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "As mulheres estão matriculadas em menor número em Psicologia por sua habilidade de lidarem melhor com coisas que com sujeitos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.44177,
+      "escala": 456,
+      "faixa": "Fácil"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2010/questions/132/994f2dab-541c-4f37-bc65-2fa8baa0b506.jpg"
+    ],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 132,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/132",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 133,
+    "enunciado": "É muito raro que um novo modo de comunicação ou de expressão suplante completamente os anteriores. Fala- se menos desde que a escrita foi inventada? Claro que não. Contudo, a função da palavra viva mudou, uma parte de suas missões nas culturas puramente orais tendo sido preenchida pela escrita: transmissão dos conhecimentos e das narrativas, estabelecimento de contratos, realização dos principais atos rituais ou sociais etc. Novos estilos de conhecimento (o conhecimento “teórico”, por exemplo) e novos gêneros (o código de leis, o romance etc.) surgiram. A escrita não fez com que a o sistema da comunicação e da memória social.\n\nA fotografia substituiu a pintura? Não, ainda há pintores ativos. As pessoas continuam, mais do que nunca, a visitar museus, exposições e galerias, compram as obras dos artistas para pendurá-las em casa. Em contrapartida, é verdade que os pintores, os desenhistas, os gravadores, os escultores não são mais – como foram até o século XIX – os únicos produtores de imagens.\n\nLÉVY, P. **Cibercultura**. São Paulo: Ed. 34, 1999 (fragmento).\n\nA substituição pura e simples do antigo pelo novo ou do natural pelo técnico tem sido motivo de preocupação de muita gente. O texto encaminha uma discussão em torno desse temor ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerar as relações entre o conhecimento teórico e o conhecimento empírico e acrescenta que novos gêneros textuais surgiram com o progresso.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Observar que a língua escrita não é uma transcrição fiel da língua oral e explica que as palavras antigas devem ser utilizadas para preservar a tradição.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Perguntar sobre a razão das pessoas visitarem museus, exposições, etc., e reafirma que os fotógrafos são  os únicos responsáveis pela produção de obras de arte.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reconhecer que as pessoas temem que o avanço dos meios de comunicação, inclusive on-line, substitua o homem e leve alguns profissionais ao esquecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Revelar o receio das pessoas em experimentar novos meios de comunicação, com medo de sentirem retrógradas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.31359,
+      "escala": 631,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 133,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/133",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 134,
+    "enunciado": "**Texto I\n**\nEu amo a rua. Esse sentimento de natureza toda íntima não vos seria revelado por mim se não julgasse, e  razões não tivesse para julgar, que este amor assim absoluto e assim exagerado é partilhado por todos vós.  Nós somos irmãos, nós nos sentimos parecidos e iguais; nas cidades, nas aldeias, nos povoados, não porque  soframos, com a dor e os desprazeres, a lei e a polícia, mas porque nos une, nivela e agremia o amor da rua.  É este mesmo o sentimento imperturbável e indissolúvel, o único que, como a própria vida, resiste às idades e  às épocas.\n\nRIO, J. A rua. In: **A alma encantadora das ruas.** São Paulo: Companhia das Letras, 2008 (fragmento).\n\n**Texto II**\n\nA rua dava-lhe uma força de fisionomia, mais consciência dela. Como se sentia estar no seu reino, na região  em que era rainha e imperatriz. O olhar cobiçoso dos homens e o de inveja das mulheres acabavam o  sentimento de sua personalidade, exaltavam-no até. Dirigiu-se para a rua do Catete com o seu passo miúdo e  sólido. \\[…\\] No caminho trocou cumprimento com as raparigas pobres de uma casa de cômodos da vizinhaça.\n\\[…\\] E debaixo dos olhares maravilhados das pobres raparigas, ela continuou o seu caminho, arrepanhando a saia, satisfeita que nem uma duquesa atravessando os seus domínios.\n\nBARRETO, L. Um e outro. In: **Clara dos anjos.** Rio de Janeiro: Editora Mérito (fragmento).\n\nA experiência urbana é um tema recorrente em crônicas, contos e romances do final do século XIX  e início do XX, muitos dos quais elegem a rua para explorar essa experiência. Nos fragmentos I e II, a rua é vista, respectivamente, como lugar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desperta sensações contraditórias e desejo de reconhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Favorece o cultivo da intimidade e a exposição dos dotes físicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Possibilita vínculos pessoais duradouros e encontros casuais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Propicia o sentido de comunidade e a exibição pessoal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Promove o anonimato e a segregação social.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.98614,
+      "escala": 599,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 134,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/134",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  },
+  {
+    "numero": 135,
+    "enunciado": "**Fora da ordem\n**\n\nEm 1588, o engenheiro militar italiano Agostinho Romelli publicou Le Diverse et Artificiose Machine, no qual descrevia uma máquina de ler livros. Montada para girar verticalmente, como uma roda de hamster, a  invenção permitia que o leitor fosse de um texto ao outro sem se levantar de sua cadeira.\n\nHoje podemos alternar entre documentos com muito mais facilidade – um clique no mouse é suficiente para acessarmos imagens, textos, vídeos e sons instantaneamente. Para isso, usamos o computador, e  principalmente a internet – tecnologias que não estavam disponíveis no Renascimento, época em que Romelli viveu.\n\nBERCITTO, D. **Revista Língua Portuguesa**. Ano II. N°14.\n\nO inventor italiano antecipou, no século XVI, um dos princípios definidores do hipertexto: a quebra de linearidade na leitura e a possibilidade de acesso ao texto conforme o interesse do leitor. Além de ser característica essencial da internet, do ponto de vista da produção do texto, a hipertextualidade se manifesta  também em textos impressos, como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dicionários, pois a forma do texto dá liberdade de acesso à informação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Documentários, pois o autor faz uma seleção dos fatos e das imagens.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relatos pessoais, pois o narrador apresenta sua percepção dos fatos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Editoriais, pois o editorialista faz uma abordagem detalhada dos fatos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Romances românticos, pois os eventos ocorrem em diversos cenários.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.53135,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2010,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 135,
+      "idioma": null,
+      "provaMicrodados": "95",
+      "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/135",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+    }
+  }
+]

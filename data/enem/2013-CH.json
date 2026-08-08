@@ -308,6 +308,59 @@
     }
   },
   {
+    "numero": 7,
+    "enunciado": "O processo registrado no gráfico gerou a seguinte consequência demográfica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Decréscimo da população absoluta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Redução do crescimento vegetativo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da proporção de adultos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Expansão de políticas de controle da natalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento da renovação da população economicamente ativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.5336,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2013/questions/7/e7849157-525a-481c-873b-9d0abe4b1e46.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 7,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/7",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
     "numero": 8,
     "enunciado": "As Brigadas Internacionais foram unidades de combatentes formadas por voluntários de 53 nacionalidades dispostos a lutar em defesa da República espanhola. Estima-se que cerca de 60 mil cidadãos de várias partes do mundo – incluindo 40 brasileiros – tenham se incorporado a essas unidades. Apesar de coordenadas pelos comunistas, as Brigadas contaram com membros socialistas, liberais e de outras correntes político-ideológicas.\n\nSOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).\n\nA Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930. A perspectiva política comum que promoveu a mobilização descrita foi o(a)",
     "alternativas": [
@@ -513,7 +566,7 @@
   },
   {
     "numero": 12,
-    "enunciado": "No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.\n\nPEREIRA, C.S. Os senhores da alegria: a presença das mulheres nas Grandes  \nSociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M.C.P.  \nCarnavais e outras festas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).\n\nManifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as",
+    "enunciado": "No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.\n\nPEREIRA, C.S. Os senhores da alegria: a presença das mulheres nas Grandes\nSociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M.C.P.\nCarnavais e outras festas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).\n\nManifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as",
     "alternativas": [
       {
         "letra": "A",
@@ -1390,7 +1443,7 @@
   },
   {
     "numero": 29,
-    "enunciado": "Seguiam-se vinte criados custosamente vestidos e montados em soberbos cavalos; depois destes, marchava o Embaixador do Rei do Congo magnificamente ornado de seda azul para anunciar ao Senado que a vinda do Rei estava destinada para o dia dezesseis. Em resposta obteve repetidas vivas do povo que concorreu alegre e admirado de tanta grandeza.\n\nCoroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M.  \nFestas e utopias no Brasil colonial. In: CATELLI JR, R.  \nUm olhar sobre as festas populares brasileiras. São Paulo: Brasiliense, 1994  \n(adaptado).\n\nOriginária dos tempos coloniais, as festa da Coroação do Rei do Congo evidencia um processo de",
+    "enunciado": "Seguiam-se vinte criados custosamente vestidos e montados em soberbos cavalos; depois destes, marchava o Embaixador do Rei do Congo magnificamente ornado de seda azul para anunciar ao Senado que a vinda do Rei estava destinada para o dia dezesseis. Em resposta obteve repetidas vivas do povo que concorreu alegre e admirado de tanta grandeza.\n\nCoroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M.\nFestas e utopias no Brasil colonial. In: CATELLI JR, R.\nUm olhar sobre as festas populares brasileiras. São Paulo: Brasiliense, 1994\n(adaptado).\n\nOriginária dos tempos coloniais, as festa da Coroação do Rei do Congo evidencia um processo de",
     "alternativas": [
       {
         "letra": "A",
@@ -1852,7 +1905,7 @@
   },
   {
     "numero": 38,
-    "enunciado": "A recuperação da herança cultural africana deve levar em conta o que é próprio do processo cultural: seu movimento, pluralidade e complexidade. Não se trata, portanto, do resgate ingênuo do passado nem do seu cultivo nostálgico, mas de procurar perceber o próprio rosto cultural brasileiro. O que se quer é captar seu movimento para melhor compreendê-lo historicamente.\n\nMINAS GERAIS: Cadernos do Arquivo 1: Escravidão em  \nMinas Gerais. Belo Horizonte: Arquivo Público Mineiro, 1988.\n\nCom base no texto, a análise de manifestações culturais de origem africana, como a capoeira ou o candomblé, deve considerar que elas",
+    "enunciado": "A recuperação da herança cultural africana deve levar em conta o que é próprio do processo cultural: seu movimento, pluralidade e complexidade. Não se trata, portanto, do resgate ingênuo do passado nem do seu cultivo nostálgico, mas de procurar perceber o próprio rosto cultural brasileiro. O que se quer é captar seu movimento para melhor compreendê-lo historicamente.\n\nMINAS GERAIS: Cadernos do Arquivo 1: Escravidão em\nMinas Gerais. Belo Horizonte: Arquivo Público Mineiro, 1988.\n\nCom base no texto, a análise de manifestações culturais de origem africana, como a capoeira ou o candomblé, deve considerar que elas",
     "alternativas": [
       {
         "letra": "A",
@@ -2162,7 +2215,7 @@
   },
   {
     "numero": 44,
-    "enunciado": "A escravidão não há de ser suprimida no Brasil por uma guerra servil, muito menos por insurreições ou atentados locais. Não deve sê-lo, tampouco, por uma guerra civil, como o foi nos Estados Unidos. Ela poderia desaparecer, talvez, depois de uma revolução, como aconteceu na França, sendo essa revolução obra exclusiva da população livre. É no Parlamento e não em fazendas ou quilombos do interior, nem nas ruas e praças das cidades, que se há de ganhar, ou perder, a causa da liberdade.\n\nNABUCO, J. O abolicionismo (1883). Rio de Janeiro: Nova Fronteira;  \nSão Paulo: Publifolha, 2000 (adaptado).\n\nNo texto, Joaquim Nabuco defende um projeto político sobre como deveria ocorrer o fim da escravidão no Brasil, no qual",
+    "enunciado": "A escravidão não há de ser suprimida no Brasil por uma guerra servil, muito menos por insurreições ou atentados locais. Não deve sê-lo, tampouco, por uma guerra civil, como o foi nos Estados Unidos. Ela poderia desaparecer, talvez, depois de uma revolução, como aconteceu na França, sendo essa revolução obra exclusiva da população livre. É no Parlamento e não em fazendas ou quilombos do interior, nem nas ruas e praças das cidades, que se há de ganhar, ou perder, a causa da liberdade.\n\nNABUCO, J. O abolicionismo (1883). Rio de Janeiro: Nova Fronteira;\nSão Paulo: Publifolha, 2000 (adaptado).\n\nNo texto, Joaquim Nabuco defende um projeto político sobre como deveria ocorrer o fim da escravidão no Brasil, no qual",
     "alternativas": [
       {
         "letra": "A",

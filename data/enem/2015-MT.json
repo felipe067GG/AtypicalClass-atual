@@ -1,0 +1,1643 @@
+[
+  {
+    "numero": 136,
+    "enunciado": "Quantas operações o investidor fez naquele dia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "7",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.83932,
+      "escala": 784,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 136,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/136",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 138,
+    "enunciado": "O valor pago na locadora Q é menor ou igual àquele pago na locadora P para distâncias, em quilômetros, presentes em qual(is) intervalo(s)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De 20 a 100.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "De 80 a 130.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "De 100 a 160.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "De 0 a 20 e de 100 a 160.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "De 40 a 80 e de 130 a 160.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.5657,
+      "escala": 557,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2015/questions/138/386a223a-c3a3-4465-9197-ec9ac1d2fc9d.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 138,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/138",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 139,
+    "enunciado": "Segundo as regras do jogo, quantas cartas da mão desse jogador podem formar um par com a carta da mesa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.96427,
+      "escala": 596,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2015/questions/139/84f82cb3-3bd8-4fa1-8795-652c0c91fa30.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 139,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/139",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 140,
+    "enunciado": "Uma empresa vai lançar uma promoção utilizando apenas uma categoria nas classes A e B (A/B) e uma categoria nas classes C e D (C/D).\n\nDe acordo com o resultado da pesquisa, para atingir o maior número de consumidores das classes A/B e C/D, a empresa deve realizar a promoção, respectivamente, via",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Correios e SMS.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Internet e Correios.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Internet e internet.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Internet e mídias sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Rádio/TV e rádio/TV.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.42299,
+      "escala": 458,
+      "faixa": "Fácil"
+    },
+    "habilidade": 26,
+    "imagens": [
+      "https://enem.dev/2015/questions/140/b83a0d54-9959-4218-96b9-3b44ec7d745e.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 140,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/140",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 143,
+    "enunciado": "A mediana dos tempos apresentados no quadro é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20,70.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20,77.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20,80.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "20,85.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "20,90.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.72592,
+      "escala": 673,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [
+      "https://enem.dev/2015/questions/143/782cd653-e43f-4da4-9a86-bce130429805.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 143,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/143",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 144,
+    "enunciado": "Visando atender as orientações do Comitê Central da Federação Internacional de Basquete (Fiba) em 2010, que unificou as marcações das diversas ligas, foi prevista uma modificação nos garrafões das quadras, que passariam a ser retângulos, como mostra o Esquema II.\n\nApós executdas as modificações previstas, houve uma alteração na área ocupada por cada garrafão, que corresponde a um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento de 5 800 cm².",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento de 75 400 cm².",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento de 214 600 cm².",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuição de 63 800 cm².",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Diminuição de 272 600 cm².",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.68438,
+      "escala": 668,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2015/questions/144/4b656609-56fc-45a4-8e34-a4c7e0bb8513.png",
+      "https://enem.dev/2015/questions/144/c4aff79b-17b7-4a0e-86ce-a00808954ddc.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 144,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/144",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 147,
+    "enunciado": "Quantas configurações distintas das notas a serem atribuídas pelo jurado B no quesito Bateria tornariam campeã a Escola II?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "21",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "90",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "750",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 250",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3 125",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.82021,
+      "escala": 782,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2015/questions/147/09fe1110-3444-4a3d-b60c-d86c6f3d705a.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 147,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/147",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 148,
+    "enunciado": "De acordo com as normas desse porto, os contêineres deverão ser empilhados de forma a não sobrarem espaços nem ultrapassarem a área delimitada\n\nApós o empilhamento total da carga e atendendo à norma do porto, a altura mínima a ser atingida por essa pilha de contêineres é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12,5 m.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "17,5 m.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "25,0 m.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "22,5 m.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "32,5 m.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.94349,
+      "escala": 594,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2015/questions/148/971eb9cd-abf9-48be-994d-d1e0f2bdcc60.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 148,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/148",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 150,
+    "enunciado": "q = 400 – 100_p_,\n\nna qual _q_ representa a quantidade de pães especiais vendidos diariamente e _p_, o seu preço em reais.\n\nA fim de aumentar o fluxo de clientes, o gerente da padaria decidiu fazer uma promoção. Para tanto, modificará o preço do pão especial de modo que a quantidade a ser vendida diariamente seja a maior possível, sem diminuir a média de arrecadação diária na venda desse produto.\n\nO preço p, em reais, do pão especial nessa promoção deverá estar no intervalo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 0,50 ≤ p < R$ 1,50",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 1,50 ≤ p < R$ 2,50",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 2,50 ≤ p < R$ 3,50",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 3,50 ≤ p < R$ 4,50",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 4,50 ≤ p < R$ 5,50",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 6.3679,
+      "escala": 1137,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 150,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/150",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 151,
+    "enunciado": "Para diminuir os custos, a proposta escolhida deveria ser também aquela que vacinasse a menor quantidade possível de pessoas.\n\nDisponível em: www.virushpv.com.br. Acesso em: 30 ago. 2014 (adaptado).\n\nA proposta implementada foi a de número",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 4.5172,
+      "escala": 952,
+      "faixa": "Difícil"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 151,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/151",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 153,
+    "enunciado": "Entre esses polígonos, o único que satisfaz as condições necessárias para representar a ingestão correta de diferentes tipos de alimentos é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Triângulo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Losango.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pentágono.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Hexágono.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Octógono.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.56733,
+      "escala": 657,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2015/questions/153/867b7f6a-c261-459f-b335-19447fabfce0.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 153,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/153",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 154,
+    "enunciado": "A forma do vidro foi concebida de modo que o eixo _x_ sempre divida ao meio a altura _h_ do vidro e a base do vidro seja paralela ao eixo _x_. Obedecendo a essas condições, o engenheiro determinou uma expressão que fornece a altura h do vidro em função da medida _n_ de sua base, em metros.\n\nA expressão algébrica que determina a altura do vidro é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/154/be2d8a09-67d6-47ab-9914-97fc82b976f6.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/154/43c54dd9-c26a-453d-bf90-d9fa906df4aa.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/154/2c78e0f7-b32d-4fd2-ba1c-8e1f94ba5b4f.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/154/4ddc69b0-924b-4616-9310-a765045b9be8.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/154/4905391e-89e5-4c92-b16b-8c709883a102.png"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 4.31587,
+      "escala": 932,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2015/questions/154/65c7dd7a-2e17-4352-a584-ed42ea5b0559.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 154,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/154",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 155,
+    "enunciado": "O ponto _O_ indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores.\n\nCom a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8π.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "12π.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "16π.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "32π.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "64π.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.80813,
+      "escala": 681,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2015/questions/155/b5b18afc-ec22-42af-9b29-474d822405e7.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 155,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/155",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 157,
+    "enunciado": "As exportações de soja do Brasil totalizaram 4,129 milhões de toneladas no mês de julho de 2012, e registraram um aumento em relação ao mês de julho de 2011, embora tenha havido uma baixa em relação ao mês de maio de 2012.\n\nDisponível em: www.noticiasagricolas.com.br. Acesso em: 2 ago. 2012.\n\nA quantidade, em quilogramas, de soja exportada pelo Brasil no mês de julho de 2012 foi de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,129 x 10³",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,129 x 106",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,129 x 109",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,129 x 1012",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,129 x 1015",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.33098,
+      "escala": 733,
+      "faixa": "Difícil"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 157,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/157",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 158,
+    "enunciado": "Uma enfermeira deve administrar um medicamento X a uma criança inconsciente, cuja dosagem de adulto é de 60 mg. A enfermeira não consegue descobrir onde está registrada a idade da criança no prontuário, mas identifica que, algumas horas antes, foi administrada a ela uma dose de 14 mg de um medicamento Y, cuja dosagem de adulto é 42 mg. Sabe-se que a dose da medicação Y administrada à criança estava correta.\n\nEntão, a enfermeira deverá ministrar uma dosagem do medicamento X, em miligramas, igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "30.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "36.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "40.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.06274,
+      "escala": 606,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [
+      "https://enem.dev/2015/questions/158/502bd419-a7b2-413c-92e6-01c5fee8ad38.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 158,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/158",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 159,
+    "enunciado": "Segundo dados apurados no Censo 2010, para uma população de 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve algum tipo de rendimento em 2010, a renda média mensal apurada foi de R$ 1 202,00. A soma dos rendimentos mensais dos 10% mais pobres correspondeu a apenas 1,1% do total de rendimentos dessa população considerada, enquanto que a soma dos rendimentos mensais dos 10% mais ricos correspondeu a 44,5% desse total.\n\nDisponível em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).\n\nQual foi a diferença, em reais, entre a renda média mensal de um brasileiro que estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa dos 10% mais pobres?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "240,40",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "548,11",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 723,67",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 026,70",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5 216,68",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 3.02993,
+      "escala": 803,
+      "faixa": "Difícil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 159,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/159",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 160,
+    "enunciado": "A largura e o comprimento reais da pegada, em centímetros, são, respectivamente, iguais a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,9 e 7,6.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "8,6 e 9,8.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "14,2 e 15,4.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "26,4 e 40,8.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "27,5 e 42,5.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.10396,
+      "escala": 610,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2015/questions/160/1efe6cb5-d767-4175-b0c3-39e98266f7cd.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 160,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/160",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 161,
+    "enunciado": "Essa indústria recebeu a encomenda de uma malha de proteção solar para ser aplicada em um vidro retangular de 5 m de largura por 9 m de comprimento.\n\nA medida de d, em milímetros, para que a taxa de cobertura da malha seja de 75% é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11/3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4/3",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2/3",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 4.11405,
+      "escala": 911,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2015/questions/161/f840c071-3522-4f1a-986f-6456acba44c9.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 161,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/161",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 163,
+    "enunciado": "Para controle das aplicações, definiu-se a unidade de insulina como 0,01 mL. Antes de cada aplicação, é necessário descartar 2 unidades de insulina, de forma a retirar possíveis bolhas de ar.\n\nA um paciente foram prescritas duas aplicações diárias: 10 unidades de insulina pela manhã e 10 à noite.\n\nQual o número máximo de aplicações por refil que o paciente poderá utilizar com a dosagem prescrita?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "15",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "13",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.59975,
+      "escala": 760,
+      "faixa": "Difícil"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2015/questions/163/eb67eda1-2354-45e8-a0a6-d6834a7bcf73.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 163,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/163",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 164,
+    "enunciado": "Disponível em: www.gebh.net. Acesso em: 30 out. 2013 (adaptado).\n\nO número de formas distintas de se acomodar a família nesse voo é calculado por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/164/0869442c-5c3e-44b3-b332-405996495c75.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/164/9300da4b-9267-4ae3-86bb-2ff393573382.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/164/a2f657c8-2181-405d-8964-6929347b8647.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/164/d4c33e90-1fde-4706-814b-0cb3afbe24ca.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/164/e060a6cb-eecc-42c4-813e-99f1d3f9ebe3.png"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 3.19644,
+      "escala": 820,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2015/questions/164/143503ba-442f-4e6e-b47f-56b581a76e04.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 164,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/164",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 165,
+    "enunciado": "O parque aquático já conta com uma piscina em formato retangular com dimensões 50 m x 24 m.\n\nO proprietário quer que a área ocupada pela nova piscina seja menor que a ocupada pela piscina já existente.\n\nConsidere 3,0 como aproximação para π.\n\nO maior valor possível para R, em metros, deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "28.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "29.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "31.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "49.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.40051,
+      "escala": 740,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2015/questions/165/0cf3eb67-f1f6-4a40-89fc-106ba00c5769.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 165,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/165",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 167,
+    "enunciado": "Após os cortes, a folha é aberta e a bandeirinha está pronta.\n\nA figura que representa a forma da bandeirinha pronta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/167/c7707187-1dcc-4b79-a0fd-3cba4e4d8212.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/167/06cc78fe-8ad4-4f23-b6b6-02d727814700.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/167/fd296280-879a-4951-8cd0-b3fee6644669.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/167/45aeea48-7e4c-4504-8020-4593e5c6e39f.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/167/101bffec-b1af-4f17-a229-1a494e3f403e.png"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.09956,
+      "escala": 710,
+      "faixa": "Difícil"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2015/questions/167/2268b8ec-e5a5-4ef4-a721-38486fd4acf2.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 167,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/167",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 169,
+    "enunciado": "De acordo com os gráficos, a quantidade de embalagens PET recicladas destinadas à produção de tecidos e malhas, em kton, é mais aproximada de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16,0.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "22,9.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "32,0.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "84,6.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "106,6.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.04178,
+      "escala": 704,
+      "faixa": "Difícil"
+    },
+    "habilidade": 25,
+    "imagens": [
+      "https://enem.dev/2015/questions/169/fed74b1c-7354-40bc-8c64-834a528c49d7.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 169,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/169",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 170,
+    "enunciado": "A ordem de classificação final desse concurso é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, B, C, E, D.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "B, A, C, E, D.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "C, B, E, A, D.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "C, B, E, D, A.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "E, C, D, B, A.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.78727,
+      "escala": 779,
+      "faixa": "Difícil"
+    },
+    "habilidade": 29,
+    "imagens": [
+      "https://enem.dev/2015/questions/170/8e79e15b-e750-434f-9cba-7ae74d55e746.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 170,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/170",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 172,
+    "enunciado": "Os estudos indicam que o novo ponto _T_ deverá ser instalado, nesse percurso, entre as paradas já existentes _P_ e _Q_, de modo que as distâncias percorridas pelo ônibus entre os pontos _P_ e _T_ e entre os pontos _T_ e _Q_ sejam iguais.\n\nDe acordo com os dados, as coordenadas do novo ponto de parada são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(290 ; 20).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "(410 ; 0).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "(410 ; 20).",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "(440 ; 0).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "(440 ; 20).",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.54329,
+      "escala": 754,
+      "faixa": "Difícil"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2015/questions/172/d163cf5f-97a0-47e9-a6ab-c11c84e0e5c9.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 172,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/172",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 174,
+    "enunciado": "Quando o estudante obtém o maior número possível de bactérias, a temperatura no interior da estufa está classificada como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Muito baixa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Baixa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Média.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Alta.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Muito alta.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 3.51933,
+      "escala": 852,
+      "faixa": "Difícil"
+    },
+    "habilidade": 23,
+    "imagens": [
+      "https://enem.dev/2015/questions/174/9ac3cd8a-2315-450e-96c0-25cb9cd65cdd.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 174,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/174",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 175,
+    "enunciado": "Considere que o volume aproximado dessa bola é dado por _V_ = 4_ab_².\n\nO volume dessa bola, em função apenas de b, é dado por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8b³",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "6b³",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5b³",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4b³",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2b³",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.44217,
+      "escala": 744,
+      "faixa": "Difícil"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2015/questions/175/6b6ae3c5-95b1-4a21-94b8-59bf5c0c470d.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 175,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/175",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 176,
+    "enunciado": "Com base nos elementos apresentados, o gráfico que melhor representa a relação entre o valor mensal pago nesse plano e o número de ligações feitas é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/176/da13c004-584e-4012-b169-1476f28c2c75.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/176/4322623b-4209-4b90-8340-47b80a683345.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/176/eeef388a-087d-4d11-8eb7-3ca5656db005.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/176/a37b0cd6-80b8-40ba-b31d-4c81364e63e7.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2015/questions/176/737b6f37-f58a-43c5-99e0-0dea2e316b4b.png"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.39957,
+      "escala": 460,
+      "faixa": "Fácil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 176,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/176",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 177,
+    "enunciado": "A dose diária, em miligramas, que esse felino deverá receber é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,624.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "52,0.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "156,0.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "750,0.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 201,9.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.06733,
+      "escala": 607,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [
+      "https://enem.dev/2015/questions/177/b816c051-5903-47d1-9b6d-4a005c997bb1.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 177,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/177",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  },
+  {
+    "numero": 180,
+    "enunciado": "onde _x_ representa o mês do ano, sendo _x_ = 1 associado ao mês de janeiro, _x_ = 2 ao mês de fevereiro, e assim sucessivamente, até _x_ = 12 associado ao mês de dezembro.\n\nNa safra, o mês de produção máxima desse produto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Janeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Abril.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Junho.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Julho.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Outubro.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 5.35024,
+      "escala": 1035,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2015/questions/180/0718a550-0f5e-4d3b-bdf2-13c39ca515af.png"
+    ],
+    "materia": "Matemática",
+    "idioma": null,
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2015,
+      "area": "MT",
+      "cor": "Azul",
+      "numero": 180,
+      "idioma": null,
+      "provaMicrodados": "245",
+      "questaoApi": "https://api.enem.dev/v1/exams/2015/questions/180",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip"
+    }
+  }
+]

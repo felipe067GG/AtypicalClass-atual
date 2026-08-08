@@ -1,5 +1,482 @@
 [
   {
+    "numero": 1,
+    "enunciado": "**Adelfos**\n\nYo soy como las gentes que a mi tierra vinieron — soy de la raza mora, vieja amiga del sol —, que todo lo ganaron y todo lo perdieron. Tengo el alma de nardo del árabe español.\n\n**MACHADO, M.** Disponível em: www.poetasandaluces.com. Acesso em: 22 out. 2015 (fragmento).\n\nNessa estrofe, o poeta e dramaturgo espanhol Manuel Machado reflete acerca",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De sua formação identitária plural.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Da condição nômade de seus antepassados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Da perda sofrida com o processo de migração.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Da dívida do povo espanhol para com o povo árabe.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "De sua identificação com os elementos da natureza.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.79268,
+      "escala": 579,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 1,
+      "idioma": "espanhol",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/1?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 1,
+    "enunciado": "**5 Ways Pets Can Improve Your Health**\n\nA pet is certainly a great friend. After a difficult day, pet owners quite literally feel the love. In fact, for nearly 25 years, research has shown that living with pets provides certain health benefits. Pets help lower blood pressure and lessen anxiety. They boost our immunity. They can even help you get dates.\n\n**Allergy Fighters:** A growing number of studies have suggested that kids growing up in a home with “furred animals” will have less risk of allergies and asthma.\n\n**Date Magnets:** Dogs are great for making love connections. Forget Internet matchmaking — a dog is a natural conversation starter.\n\n**Dogs for the Aged:** Walking a dog or just caring for a pet — for elderly people who are able — can provide exercise and companionship.\n\n**Good for Mind and Soul:** Like any enjoyable activity, playing with a dog can elevate levels of serotonin and dopamine — nerve transmitters that are known to have pleasurable and calming properties.\n\n**Good for the Heart:** Heart attack patients who have pets survive longer than those without, according to several studies.\n\n**DAVIS, J. L.** Disponível em: www.webmd.com. Acesso em: 21 abr. 2013 (adaptado).\n\nAo discutir sobre a influência de animais de estimação no bem-estar do ser humano, a autora, a fim de fortalecer\nseus argumentos, utiliza palavras e expressões como research, a growing number of research e several studies com o objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mostrar que animais de estimação ajudam na cura de doenças como alergias e asma.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Convencer sobre os benefícios da adoção de animais de estimação para a saúde.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fornecer dados sobre os impactos de animais de estimação nas relações amorosas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Explicar como o contato com animais de estimação pode prevenir ataques cardíacos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Esclarecer sobre o modo como idosos devem se relacionar com animais de estimação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.6113,
+      "escala": 561,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 1,
+      "idioma": "ingles",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/1?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "**Millennials: Así es la generación que ya no recuerda**\n**cómo era el mundo sin Internet**\n\nAlgunos los llaman generación Y, otros “Millennials”, generación del milenio o incluso “Echo Boomers”.\nNacieron y crecieron en una era de rápido desarrollo de las nuevas tecnologías, y casi no recuerdan cómo era el mundo sin Internet.\nSon idealistas, impacientes y están bien preparados académicamente. Muchos de ellos han tenido oportunidad de viajar por el mundo a una edad temprana,\nde estudiar en las mejores universidades y de trabajar en empresas multinacionales y extranjeras.\nLa generación Y se compone de este tipo de personas que quieren todo a la vez. No están dispuestos a soportar un trabajo poco interesante y rutinario, no quieren dejar las cosas buenas para luego. Lo que sí quieren es dejar su huella en la historia, vivir una vida interesante, formar parte de algo grande, crecer y desarrollarse, cambiar el mundo que les rodea, y no solo ganar dinero.\n\nDisponível em: https://actualidad.rt.com. Acesso em: 4 dez. 2018.\n\nO texto aponta características e interesses da “Geração Y”. Nele, a expressão dejar su huella refere-se a um dos desejos dessa geração, que é o de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conhecer diferentes lugares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fazer a diferença no mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aproveitar todas as oportunidades.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Obter uma formação acadêmica de excelência.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Conquistar boas colocações no mundo do trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.4917,
+      "escala": 549,
+      "faixa": "Fácil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 2,
+      "idioma": "espanhol",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/2?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "LETTER TO THE EDITOR: Sugar fear-mongering unhelpful\n\nBy The Washington Times Tuesday, June 25, 2013\n\nIn his recent piece “Is obesity a disease?” (Web, June 19), Dr. Peter Lind refers to high-fructose corn syrup and other “manufactured sugars” as “poison” that will “guarantee storage of fat in the body.” Current scientific research strongly indicates that obesity results from excessive calorie intake combined with a sedentary lifestyle. The fact is Americans are consuming more total calories now than ever before. According to the U.S. Department of Agriculture, our total per-capita daily caloric intake increased by 22 percent from 2,076 calories per day in 1970 to 2,534 calories per day in 2010 — an additional 458 calories, only 34 of which come from increased added sugar intake. A vast majority of these calories come from increased fats and flour/ cereals. Surprisingly, the amount of caloric sweeteners (i.e. sugar, high-fructose, corn syrup, honey, etc.). Americans consume has actually decreased over the past decade. We need to continue to study the obesity epidemic to see what more can be done, but demonizing one specific ingredient accomplishes nothing and raises unnecessary fears that get in the way of real solutions.\n\nJAMES M. RIPPE Shrewsbury, Mass.\n\n<p style=”text-align: right;”><strong>Dispon&iacute;vel em:</strong> www.washingtontimes.com. Acesso em: 29 jul. 2013 (adaptado).</p>\n\nAo abordar o assunto “obesidade”, em uma seção de jornal, o autor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Defende o consumo liberado de açúcar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aponta a gordura como o grande vilão da saúde.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Demonstra acreditar que a obesidade não é preocupante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Indica a necessidade de mais pesquisas sobre o assunto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Enfatiza a redução de ingestão de calorias pelos americanos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.63692,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 2,
+      "idioma": "ingles",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/2?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "**Que hay de cierto en la fábula de la cigarra y la hormiga**\n\nCuenta una conocida fábula que, tras pasar todo un verano cantando y ociosa, una cigarra se encontró sin alimento y decidió pedir a su vecina, la hormiga algo que llevarse a la boca. Esta le ofreció granos de arroz acompañados de una moraleja: más vale prevenir que lamentar. ¿Merecen su fama de previsoras y afanosas las hormigas? Sin duda. Las hormigas cortadoras de hojas (Atta cephalotes), por ejemplo, son consideradas las primeras agricultoras del planeta, dedicadas a cortar, acarrear e integrar hojas en el jardín de hongos del que se alimentan. Otro dato curioso es que se ha comprobado que, prácticamente en todas las especies de hormigas, las más ancianas asumen trabajos de mayor riesgo. De acuerdo con Dawid Moron de la Universidad de Jagiellonian (Polonia), esto se debe a que es mejor para la colonia sacrificar una vida que está cerca de su fin que a un individuo joven.\n\nEn cuanto a las cigarras, no se les puede acusar de perezosas. Lo que sí es cierto es que los machos pasan el verano “cantando” — un sonido que producen con unas membranas llamadas timbales — y encaramados a un árbol, de cuya savia se alimentan.\n\n**Disponível em:** www.muyinteresante.es.\nAcesso em: 31 out. 2012 (adaptado).\n\nA fábula é um gênero de ampla divulgação frequentemente revisitado com diversos objetivos. No texto, a fábula A cigarra e a formiga é retomada para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentar ao leitor um ensinamento moral.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reforçar o estereótipo associado às cigarras.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Descrever o comportamento dos insetos na natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Expor a superioridade das formigas em relação às cigarras.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Descrever a relação social entre formigas e cigarras na natureza.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.92828,
+      "escala": 593,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 3,
+      "idioma": "espanhol",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/3?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "**In this life**\n\nSitting on a park bench\n\nThinking about a friend of mine\n\nHe was only twenty-three\n\nGone before he had his time.\n\nIt came without a warning\n\nDidnꞌt want his friends to see him cry\n\nHe knew the day was dawning\n\nAnd I didnꞌt have a chance to say goodbye.\n\nMADONNA. **Erotica**. Estados Unidos: Maverick, 1992.\n\nA canção, muitas vezes, é uma forma de manifestar sentimentos e emoções da vida cotidiana. Por exemplo, o sofrimento retratado nessa canção foi causado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pela morte precoce de um amigo jovem.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pelo término de um relacionamento amoroso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pela mudança de um amigo para outro país.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo fim de uma amizade de mais de vinte anos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Pela traição por parte de pessoa próxima.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.41261,
+      "escala": 541,
+      "faixa": "Fácil"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 3,
+      "idioma": "ingles",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/3?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "**Empanada\n**\n\nOvera en bayo claro,\n\nvaquilla echada,\n\neres del vino tinto la camarada.\n\n\\[…\\]\n\nVienes llena de pino,\n\ncebolla y carne,\n\ncon pasas, huevo duro,\n\ny aliño de hambre.\n\nCon el primer mordisco\n\npor una oreja,\n\nse abre tu boca ardiente\n\ncomo sorpresa.\n\nTe la lleno de pebre\n\nquedas picante\n\nsi te beso muy fuerte,\n\nno me reclames.\n\nBusco, loco, en tu vientre,\n\ndelicia oscura,\n\nla traición exquisita\n\nde tu aceituna.\n\n\\[…\\]\n\nY repite el ataque\n\npor andanadas:\n\nNadie queda con hambre\n\nsi hay empanadas.\n\n**ANTRIX, J.** Disponível em: http://versado-en-la-cocina.blogspot.com.\nAcesso em: 8 dez. 2018 (fragmento).\n\nA gastronomia é uma das formas de expressão cultural de um povo. Nesse poema, ao personificar as empanadas, o escritor chileno Antrix",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enaltece esse prato da culinária hispânica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descreve algumas etapas de preparação dessa receita.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Destaca a importância do vinho na alimentação hispânica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Resgata o papel histórico desse alimento em tempos de fome.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Evidencia a relevância de alguns condimentos na cozinha hispânica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.48099,
+      "escala": 548,
+      "faixa": "Fácil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 4,
+      "idioma": "espanhol",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/4?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "If children live with criticism, they learn to condemn.\n\nIf children live with fear, they learn to be apprehensive.\n\nIf children live with pity, they learn to feel sorry for themselves.\n\nIf children live with ridicule, they learn to feel shy.\n\nIf children live with tolerance, they learn patience.\n\nIf children live with praise, they learn appreciation.\n\nIf children live with acceptance, they learn to love.\n\nIf children live with approval, they learn to like themselves.\n\nIf children live with recognition, they learn it is good to have a goal.\n\nIf children live with sharing, they learn generosity. If children live with fairness, they learn justice.\n\nIf children live with kindness and consideration, they learn respect.\n\nIf children live with friendliness, they learn the world is a nice place in which to live.\n\n**NOLTE, D. L**. Disponível em: www.americanfamilytraditions.com. Acesso em: 30 jul. 2012.\n\nValores culturais de um povo revelam sua forma de ser, agir e pensar. Na concepção da autora, as diferentes formas de educar crianças nos Estados Unidos confirmam que as crianças",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Temem quem as amedronta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aprendem com o que vivem.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Amam aqueles que as aceitam.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "São gentis quando respeitadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ridicularizam quem as intimida.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.34872,
+      "escala": 535,
+      "faixa": "Fácil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Inglês",
+    "idioma": "ingles",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 4,
+      "idioma": "ingles",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/4?language=ingles",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "**El Hombre Electrónico**\n\n¿Cuántas veces has cambiado de móvil? ¿Cuántos ordenadores has tenido ya? ¿Tienes cámara digital, IPOD, Nintendo Wii y televisión de pantalla de plasma? Ordenadores, teléfonos móviles, GPS, walkmans, televisiones, lavadoras, tostadores, aspiradores y un larguísimo etcétera. Todos usamos aparatos eléctricos que tarde o temprano se convertirán en residuos. El Hombre Electrónico mide 7 metros de altura y pesa 3,3 toneladas. Es una escultura hecha con la cantidad de residuos eléctricos y electrónicos que un ciudadano medio (en el Reino Unido) tirará a la basura a lo largo de su vida, si se sigue consumiendo este tipo de productos al ritmo actual. El Hombre Electrónico ha sido diseñado por el escultor Paul Bomini con objetivo de aumentar la conciencia de los ciudadanos a la hora de consumir aparatos eléctricos. Esta campaña parte de la base de que todos compramos aparatos electrónicos como herramientas de trabajo u ocio, pero haciéndonos unas cuantas preguntas podemos inducir cambios en nuestro comportamiento que beneficiarán al medio ambiente, otras personas y a nosotros mismos: ¿Tienes algún aparato eléctrico o electrónico que no necesitas? ¿Podrías ser más responsable a la hora de comprar un nuevo producto electrónico? ¿Podrías reciclar o reparar estos productos una vez que se han quedado obsoletos o se han roto? ¿Intentas ahorrar energia en tu vida diaria?\n\n**Disponível em:** www.verdecito.es. Acesso em: 20 fev. 2009 (adaptado).\n\nConsiderando a necessidade de assumir uma conduta mais responsável com o meio ambiente, Paul Bomini criou a escultura O homem eletrônico para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incentivar inovações em reciclagem para a construção de máquinas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Propor a criação de objetos a partir de aparelhos descartados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Divulgar o lançamento de produtos eletrônicos sustentáveis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D problematizar o descarte inconsequente de equipamentos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Alertar sobre as escolhas tecnológicas da população.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.68157,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Espanhol",
+    "idioma": "espanhol",
+    "origemDaMateria": "oficial",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 5,
+      "idioma": "espanhol",
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/5?language=espanhol",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
     "numero": 6,
     "enunciado": "**Disponível em:** http://palavrastempoder.org. Acesso em: 20 abr. 2015\n\nPela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
     "alternativas": [
@@ -40,6 +517,7 @@
       "https://enem.dev/2019/questions/6/cec1fc23-8701-42af-93d4-d1ca5aef4495.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -47,6 +525,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 6,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/6",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -54,7 +533,7 @@
   },
   {
     "numero": 7,
-    "enunciado": "Um amor desse  \nEra 24 horas lado a lado  \nUm radar na pele, aquele sentimento alucinado  \nCoração batia acelerado  \nBastava um olhar pra eu entender  \nQue era hora de me entregar pra você  \nPalavras não faziam falta mais  \nAh, só de lembrar do seu perfume  \nQue arrepio, que calafrio  \nQue o meu corpo sente  \nNem que eu queira, eu te apago da minha mente  \nAh, esse amor  \nDeixou marcas no meu corpo  \nAh, esse amor  \nSó de pensar, eu grito, eu quase morro\n\n**AZEVEDO, N.; LEÃO, W.; QUADROS, R.** _Coração pede socorro_.  \nRio de Janeiro: Som Livre, 2018 (fragmento).\n\nEssa letra de canção foi composta especialmente para uma campanha de combate à violência contra as mulheres, buscando conscientizá-las acerca do limite entre relacionamento amoroso e relacionamento abusivo. Para tanto, a estratégia empregada na letra é a",
+    "enunciado": "Um amor desse\nEra 24 horas lado a lado\nUm radar na pele, aquele sentimento alucinado\nCoração batia acelerado\nBastava um olhar pra eu entender\nQue era hora de me entregar pra você\nPalavras não faziam falta mais\nAh, só de lembrar do seu perfume\nQue arrepio, que calafrio\nQue o meu corpo sente\nNem que eu queira, eu te apago da minha mente\nAh, esse amor\nDeixou marcas no meu corpo\nAh, esse amor\nSó de pensar, eu grito, eu quase morro\n\n**AZEVEDO, N.; LEÃO, W.; QUADROS, R.** _Coração pede socorro_.\nRio de Janeiro: Som Livre, 2018 (fragmento).\n\nEssa letra de canção foi composta especialmente para uma campanha de combate à violência contra as mulheres, buscando conscientizá-las acerca do limite entre relacionamento amoroso e relacionamento abusivo. Para tanto, a estratégia empregada na letra é a",
     "alternativas": [
       {
         "letra": "A",
@@ -91,6 +570,7 @@
     "habilidade": 24,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -98,6 +578,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 7,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/7",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -142,6 +623,7 @@
     "habilidade": 23,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -149,6 +631,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 8,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/8",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -193,6 +676,7 @@
     "habilidade": 9,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -200,6 +684,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 9,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/9",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -246,6 +731,7 @@
       "https://enem.dev/2019/questions/10/ae918ab7-0af8-4aba-a19e-2ea912322846.jpg"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -253,6 +739,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 10,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/10",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -297,6 +784,7 @@
     "habilidade": 11,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -304,6 +792,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 11,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/11",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -350,6 +839,7 @@
       "https://enem.dev/2019/questions/12/cbc6cd51-59ad-446d-823e-2bd9c979d5a1.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -357,6 +847,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 12,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/12",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -401,6 +892,7 @@
     "habilidade": 15,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -408,6 +900,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 13,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/13",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -415,7 +908,7 @@
   },
   {
     "numero": 14,
-    "enunciado": "A viagem\nQue coisas devo levar\nnesta viagem em que partes?\nAs cartas de navegação só servem\na quem fica.\nCom que mapas desvendar\num continente\nque falta?\nEstrangeira do teu corpo\ntão comum\nquantas línguas aprender\npara calar-me?\nTambém quem fica\nprocura\num oriente.\nTambém\na quem fica\ncabe uma paisagem nova\ne a travessia insone do desconhecido\ne a alegria difícil da descoberta.\nO que levas do que fica,\no que, do que levas, retiro?\nMARQUES, A. M. In: SANT’ANNA, A (Org.).\nRua Aribau. Porto Alegre: Tag, 2018\n \n\n\n\n\nA viagem e a ausência remetem a um repertório poético tradicional. No poema, a voz lírica dialoga com essa tradição, repercutindo a",
+    "enunciado": "A viagem\nQue coisas devo levar\nnesta viagem em que partes?\nAs cartas de navegação só servem\na quem fica.\nCom que mapas desvendar\num continente\nque falta?\nEstrangeira do teu corpo\ntão comum\nquantas línguas aprender\npara calar-me?\nTambém quem fica\nprocura\num oriente.\nTambém\na quem fica\ncabe uma paisagem nova\ne a travessia insone do desconhecido\ne a alegria difícil da descoberta.\nO que levas do que fica,\no que, do que levas, retiro?\nMARQUES, A. M. In: SANT’ANNA, A (Org.).\nRua Aribau. Porto Alegre: Tag, 2018\n \n\nA viagem e a ausência remetem a um repertório poético tradicional. No poema, a voz lírica dialoga com essa tradição, repercutindo a",
     "alternativas": [
       {
         "letra": "A",
@@ -452,6 +945,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -459,6 +953,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 14,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/14",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -503,6 +998,7 @@
     "habilidade": 19,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -510,6 +1006,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 15,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/15",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -554,6 +1051,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -561,6 +1059,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 16,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/16",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -607,6 +1106,7 @@
       "https://enem.dev/2019/questions/17/e0118f53-9f2d-472e-b5ff-8fe239c78125.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -614,6 +1114,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 17,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/17",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -658,6 +1159,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -665,6 +1167,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 18,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/18",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -709,6 +1212,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -716,6 +1220,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 19,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/19",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -760,6 +1265,7 @@
     "habilidade": 30,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -767,6 +1273,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 20,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/20",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -811,6 +1318,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -818,6 +1326,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 21,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/21",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -825,7 +1334,7 @@
   },
   {
     "numero": 22,
-    "enunciado": "**Uma ouriça**\n\nSe o de longe esboça lhe chegar perto,\n\nse fecha (convexo integral de esfera),\n\nse eriça (bélica e multiespinhenta):\n\ne, esfera e espinho, se ouriça à espera.\n\nMas não passiva (como ouriço na loca);\n\nnem só defensiva (como se eriça o gato);\n\nsim agressiva (como jamais o ouriço),\n\ndo agressivo capaz de bote, de salto\n\n(não do salto para trás, como o gato):\n\ndaquele capaz de salto para o assalto.\n\nSe o de longe lhe chega em (de longe),\n\nde esfera aos espinhos, ela se desouriça.\n\nReconverte: o metal hermético e armado\n\nna carne de antes (côncava e propícia),\n\ne as molas felinas (para o assalto),\n\nnas molas em espiral (para o abraço).\n\n**MELO NETO, J. C.** _A educação pela pedra_. Rio de Janeiro:  \nNova Fronteira, 1997.\n\nCom apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
+    "enunciado": "**Uma ouriça**\n\nSe o de longe esboça lhe chegar perto,\n\nse fecha (convexo integral de esfera),\n\nse eriça (bélica e multiespinhenta):\n\ne, esfera e espinho, se ouriça à espera.\n\nMas não passiva (como ouriço na loca);\n\nnem só defensiva (como se eriça o gato);\n\nsim agressiva (como jamais o ouriço),\n\ndo agressivo capaz de bote, de salto\n\n(não do salto para trás, como o gato):\n\ndaquele capaz de salto para o assalto.\n\nSe o de longe lhe chega em (de longe),\n\nde esfera aos espinhos, ela se desouriça.\n\nReconverte: o metal hermético e armado\n\nna carne de antes (côncava e propícia),\n\ne as molas felinas (para o assalto),\n\nnas molas em espiral (para o abraço).\n\n**MELO NETO, J. C.** _A educação pela pedra_. Rio de Janeiro:\nNova Fronteira, 1997.\n\nCom apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
     "alternativas": [
       {
         "letra": "A",
@@ -862,6 +1371,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -869,6 +1379,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 22,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/22",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -915,6 +1426,7 @@
       "https://enem.dev/2019/questions/23/8bf66e27-d571-42d2-8e89-6c219f136985.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -922,6 +1434,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 23,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/23",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -929,7 +1442,7 @@
   },
   {
     "numero": 24,
-    "enunciado": "**Blues da piedade**\n\nVamos pedir piedade  \nSenhor, piedade  \nPra essa gente careta e covarde  \nVamos pedir piedade  \nSenhor, piedade  \nLhes dê grandeza e um pouco de coragem\n\n**CAZUZA.** _Cazuza: o poeta não morreu_. Rio de Janeiro:  \nUniversal Music, 2000 (fragmento).\n\nTodo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
+    "enunciado": "**Blues da piedade**\n\nVamos pedir piedade\nSenhor, piedade\nPra essa gente careta e covarde\nVamos pedir piedade\nSenhor, piedade\nLhes dê grandeza e um pouco de coragem\n\n**CAZUZA.** _Cazuza: o poeta não morreu_. Rio de Janeiro:\nUniversal Music, 2000 (fragmento).\n\nTodo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
     "alternativas": [
       {
         "letra": "A",
@@ -966,6 +1479,7 @@
     "habilidade": 1,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -973,6 +1487,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 24,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/24",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -980,7 +1495,7 @@
   },
   {
     "numero": 25,
-    "enunciado": "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012.  \nA penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo _O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão_.\n\nDisponível em: www.cultura.rj.gov.br.  \nAcesso em: 15 maio 2012 (adaptado).\n\nA notícia relata um evento cultural que marca a",
+    "enunciado": "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012.\nA penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo _O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão_.\n\nDisponível em: www.cultura.rj.gov.br.\nAcesso em: 15 maio 2012 (adaptado).\n\nA notícia relata um evento cultural que marca a",
     "alternativas": [
       {
         "letra": "A",
@@ -1017,6 +1532,7 @@
     "habilidade": 14,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1024,6 +1540,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 25,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/25",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1070,6 +1587,7 @@
       "https://enem.dev/2019/questions/26/80aa97e4-a160-4160-9ac9-ebd2e754e774.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1077,6 +1595,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 26,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/26",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1121,6 +1640,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1128,6 +1648,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 27,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/27",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1135,7 +1656,7 @@
   },
   {
     "numero": 28,
-    "enunciado": "Os subúrbios do Rio de Janeiro foram a primeira coisa a aparecer no mundo, antes mesmo dos vulcões e dos cachalotes, antes de Portugal invadir, antes do  \nGetúlio Vargas mandar construir casas populares. O bairro do Queím, onde nasci e cresci, é um deles. Aconchegado entre o Engenho Novo e Andaraí, foi feito daquela argila primordial, que se aglutinou em diversos formatos: cães soltos, moscas e morros, uma estação de trem, amendoeiras e barracos e sobrados, botecos e arsenais de guerra, armarinhos e bancas de jogo do bicho e um terreno enorme reservado para o cemitério. Mas tudo ainda estava vazio: faltava gente.  \nNão demorou. As ruas juntaram tanta poeira que o homem não teve escolha a não ser passar a existir, para varrê-las. À tardinha, sentar na varanda das casas e reclamar da pobreza, falar mal dos outros e olhar para as calçadas encardidas de sol, os ônibus da volta do trabalho sujando tudo de novo.\n\n**HERINGER, V.** _O amor dos homens avulsos_.  \nSão Paulo: Cia. das Letras, 2016.\n\nTraçando a gênese simbólica de sua cidade, o narrador imprime ao texto um sentido estético fundamentado na",
+    "enunciado": "Os subúrbios do Rio de Janeiro foram a primeira coisa a aparecer no mundo, antes mesmo dos vulcões e dos cachalotes, antes de Portugal invadir, antes do\nGetúlio Vargas mandar construir casas populares. O bairro do Queím, onde nasci e cresci, é um deles. Aconchegado entre o Engenho Novo e Andaraí, foi feito daquela argila primordial, que se aglutinou em diversos formatos: cães soltos, moscas e morros, uma estação de trem, amendoeiras e barracos e sobrados, botecos e arsenais de guerra, armarinhos e bancas de jogo do bicho e um terreno enorme reservado para o cemitério. Mas tudo ainda estava vazio: faltava gente.\nNão demorou. As ruas juntaram tanta poeira que o homem não teve escolha a não ser passar a existir, para varrê-las. À tardinha, sentar na varanda das casas e reclamar da pobreza, falar mal dos outros e olhar para as calçadas encardidas de sol, os ônibus da volta do trabalho sujando tudo de novo.\n\n**HERINGER, V.** _O amor dos homens avulsos_.\nSão Paulo: Cia. das Letras, 2016.\n\nTraçando a gênese simbólica de sua cidade, o narrador imprime ao texto um sentido estético fundamentado na",
     "alternativas": [
       {
         "letra": "A",
@@ -1172,6 +1693,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1179,6 +1701,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 28,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/28",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1186,7 +1709,7 @@
   },
   {
     "numero": 29,
-    "enunciado": "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\n\n**LÉVY, P.** _A máquina universo: criação, cognição e cultura_  \n_informática._ Porto Alegre: Artmed, 1998.\n\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+    "enunciado": "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\n\n**LÉVY, P.** _A máquina universo: criação, cognição e cultura_\n_informática._ Porto Alegre: Artmed, 1998.\n\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
     "alternativas": [
       {
         "letra": "A",
@@ -1223,6 +1746,7 @@
     "habilidade": 30,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1230,6 +1754,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 29,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/29",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1274,6 +1799,7 @@
     "habilidade": 20,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1281,6 +1807,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 30,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/30",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1327,6 +1854,7 @@
       "https://enem.dev/2019/questions/31/a6382a77-122a-4202-8123-9f9e5e2b8cc1.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1334,6 +1862,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 31,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/31",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1378,6 +1907,7 @@
     "habilidade": 24,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1385,6 +1915,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 32,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/32",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1429,6 +1960,7 @@
     "habilidade": 26,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1436,6 +1968,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 34,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/34",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1443,7 +1976,7 @@
   },
   {
     "numero": 35,
-    "enunciado": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente, se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com “seu próprio corpo”.\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da\ngestação de um novo arquétipo da felicidade. Campinas: Autores\nAssociados; Florianópolis: UFSC, 2001\n\n\n\nA preocupação excessiva com o “peso” corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
+    "enunciado": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente, se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com “seu próprio corpo”.\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da\ngestação de um novo arquétipo da felicidade. Campinas: Autores\nAssociados; Florianópolis: UFSC, 2001\n\nA preocupação excessiva com o “peso” corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
     "alternativas": [
       {
         "letra": "A",
@@ -1480,6 +2013,7 @@
     "habilidade": 10,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1487,6 +2021,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 35,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/35",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1534,6 +2069,7 @@
       "https://enem.dev/2019/questions/36/2e0c5232-c632-498f-8a46-14fb86344f56.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1541,6 +2077,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 36,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/36",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1585,6 +2122,7 @@
     "habilidade": 28,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1592,8 +2130,62 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 37,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 38,
+    "enunciado": "“O computador, dando prioridade à busca pela própria felicidade, parou de trabalhar para os humanos”. E assim que termina o conto O dia em que um computador escreveu um conto, escrito por uma inteligência artificial com a ajuda de cientistas humanos.\nOs cientistas selecionaram palavras e frases que seriam usadas na narrativa, e definiram um roteiro geral da história, que serviria como guia para a inteligência artificial. A partir daí, o computador criou o texto combinando as frases e seguindo as diretrizes que os cientistas impuseram. Os juízes não sabem quais textos são escritos por humanos e quais são feitos por computadores, o que mostra que o conto estava bem escrito. O dia só não passou para as próximas etapas porque, de acordo com os juízes, os personagens não foram muito bem descritos, embora o texto estivesse estruturalmente impecável.\nA ideia dos cientistas é continuar desenvolvendo a criatividade da IA para que ela se pareça cada vez mais com a humana. Simular esse tipo de resposta é difícil, porque o computador precisa ter, primeiro, um banco de dados vasto vinculado a uma programação específica para cada tipo de projeto – escrita, pintura, música, desenho e por aí vai.\nDANGELO, H. Disponível em: https: /isuper.abril.com.br. Acesso em: 5 dez. 2018\n \nO êxito e as limitações da tecnologia utilizada na composição do conto evidencia a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indistinção entre personagens produzidos por máquinas e seres humanos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Necessidade de reformulação da base de dados elaborada por cientistas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Autonomia de programas computacionais no desenvolvimento ficcional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diferença entre a estrutura e a criatividade da linguagem humana.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Qualidade artística de textos produzidos por computadores.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.21063,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 38,
+      "idioma": null,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/38",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
     }
   },
@@ -1636,6 +2228,7 @@
     "habilidade": 17,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1643,6 +2236,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 39,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/39",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1687,6 +2281,7 @@
     "habilidade": 13,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1694,6 +2289,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 40,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/40",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1738,6 +2334,7 @@
     "habilidade": 16,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1745,6 +2342,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 41,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/41",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1789,6 +2387,7 @@
     "habilidade": 18,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1796,6 +2395,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 42,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/42",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
@@ -1842,6 +2442,7 @@
       "https://enem.dev/2019/questions/43/32c136c9-fe3c-4652-8d26-e17dabba619e.png"
     ],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1849,8 +2450,62 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 43,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/43",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 44,
+    "enunciado": "Toca a sirene na fábrica,\n\ne o apito como um chicote\n\nbate na manhã nascente\n\ne bate na tua cama\n\nno sono da madrugada.\n\nTernuras da áspera lona\n\npelo corpo adolescente.\n\nÉ o trabalho que te chama.\n\nÀs pressas tomas o banho,\n\ntomas teu café com pão,\n\ntomas teu lugar no bote\n\nno cais do Capibaribe.\n\nDeixas chorando na esteira\n\nteu filho de mãe solteira.\n\nLevas ao lado a marmita,\n\ncontendo a mesma ração\n\ndo meio de todo o dia,\n\na carne-seca e o feijão.\n\nDe tudo quanto ele pede\n\ndás só bom-dia ao patrão,\n\ne recomeças a luta\n\nna engrenagem da fiação.\n\nMOTA, M. **Canto ao meio**. Rio de Janeiro: Civilização Brasileira, 1964.\n\nNesse texto, a mobilização do uso padrão das formas verbais e pronominais",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ajuda a localizar o enredo num ambiente estático.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Auxilia na caracterização física do personagem principal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Acrescenta informações modificadoras às ações dos personagens.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Alterna os tempos da narrativa, fazendo progredir as ideias do texto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Está a serviço do projeto poético, auxiliando na distinção dos referentes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.25308,
+      "escala": 725,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "idioma": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 44,
+      "idioma": null,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/44",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
     }
   },
@@ -1893,6 +2548,7 @@
     "habilidade": 25,
     "imagens": [],
     "materia": null,
+    "idioma": null,
     "origemDaMateria": null,
     "fonte": {
       "exame": "ENEM",
@@ -1900,6 +2556,7 @@
       "area": "LC",
       "cor": "Azul",
       "numero": 45,
+      "idioma": null,
       "provaMicrodados": "511",
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/45",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
