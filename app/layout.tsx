@@ -7,6 +7,7 @@ import { ThemeProvider } from "@/lib/theme-context"
 import { CookieConsent } from "@/components/cookie-consent"
 import { RavenaChat } from "@/components/ravena-chat"
 import { SiteFooter } from "@/components/site-footer"
+import { SITE_URL } from "@/lib/site"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -15,7 +16,11 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"),
+  // Mesmo endereço do sitemap. Antes isto caía em `localhost:3000` quando a
+  // variável não estava definida, e é a partir daqui que saem as URLs
+  // absolutas de `og:` — ou seja, um preview de link compartilhado apontando
+  // para a máquina de quem fez o build.
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "AtypicalClass — Educação inclusiva na prática",
     template: "%s · AtypicalClass",
