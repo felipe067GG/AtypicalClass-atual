@@ -46,3 +46,6 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# PDFs baixados pelo importador do ENEM (ate 8 MB cada)
+.cache/
