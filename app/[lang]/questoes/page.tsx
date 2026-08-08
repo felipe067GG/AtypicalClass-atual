@@ -1,13 +1,9 @@
-import type { Metadata } from "next"
-
 import { createClient } from "@/lib/supabase/server"
 import QuestoesClient, { type Question } from "./questoes-client"
 
-export const metadata: Metadata = {
-  title: "Banco de questões",
-  description:
-    "Questões adaptadas para alunos atípicos, com gabarito comentado e fonte, filtráveis por matéria, especialidade e nível de dificuldade.",
-}
+// O `<title>` e a `description` vivem no `layout.tsx` desta rota, que os
+// monta traduzidos a partir do idioma. Metadata declarada aqui venceria a do
+// layout e devolveria a página ao português.
 
 /**
  * A busca das questões acontece aqui, no servidor.

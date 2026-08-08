@@ -11,6 +11,7 @@ import { SiteFooter } from "@/components/site-footer"
 import { SITE_URL } from "@/lib/site"
 import { LOCALES, isLocale } from "@/lib/i18n-routing"
 import { translations } from "@/lib/translations"
+import { resolveLang } from "@/lib/page-metadata"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -18,26 +19,47 @@ const inter = Inter({
   display: "swap",
 })
 
-export const metadata: Metadata = {
-  // Mesmo endereço do sitemap. Antes isto caía em `localhost:3000` quando a
-  // variável não estava definida, e é a partir daqui que saem as URLs
-  // absolutas de `og:` — ou seja, um preview de link compartilhado apontando
-  // para a máquina de quem fez o build.
-  metadataBase: new URL(SITE_URL),
-  title: {
-    default: "AtypicalClass — Educação inclusiva na prática",
-    template: "%s · AtypicalClass",
-  },
-  description:
-    "Estratégias, atividades e questões adaptadas para professores que trabalham com alunos atípicos: autismo, TDAH, síndrome de Down, deficiência visual e auditiva.",
-  generator: "AtypicalClass",
-  // O ícone vem de app/icon.svg — a marca própria, não mais o logo padrão do v0.
-  openGraph: {
-    type: "website",
-    siteName: "AtypicalClass",
-    title: "AtypicalClass — Educação inclusiva na prática",
-    description: "Recursos e estratégias inclusivas para professores de alunos atípicos.",
-  },
+/** Título e descrição herdados por quem não define os seus — a home, na prática. */
+const PT_TITLE = "AtypicalClass — Educação inclusiva na prática"
+const PT_DESCRIPTION =
+  "Estratégias, atividades e questões adaptadas para professores que trabalham com alunos atípicos: autismo, TDAH, síndrome de Down, deficiência visual e auditiva."
+
+/**
+ * O português é mantido exatamente como está, letra por letra: é o título que
+ * o Google já indexou, e trocá-lo por tradução de outra chave seria churn sem
+ * ganho. Inglês e espanhol usam a manchete da home, que já existe traduzida e
+ * conferida — é o que evita uma página em inglês se anunciar em português no
+ * resultado de busca.
+ */
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  const locale = resolveLang(lang)
+  const t = translations[locale]
+
+  const title = locale === "pt" ? PT_TITLE : `AtypicalClass — ${t.heroHeadline}`
+  const description = locale === "pt" ? PT_DESCRIPTION : t.inclusiveDesc
+
+  return {
+    // Mesmo endereço do sitemap. Antes isto caía em `localhost:3000` quando a
+    // variável não estava definida, e é a partir daqui que saem as URLs
+    // absolutas de `og:` — ou seja, um preview de link compartilhado apontando
+    // para a máquina de quem fez o build.
+    metadataBase: new URL(SITE_URL),
+    title: {
+      default: title,
+      template: "%s · AtypicalClass",
+    },
+    description,
+    generator: "AtypicalClass",
+    // O ícone vem de app/icon.svg — a marca própria, não mais o logo padrão do v0.
+    openGraph: {
+      type: "website",
+      siteName: "AtypicalClass",
+      locale,
+      title,
+      description,
+    },
+  }
 }
 
 /**

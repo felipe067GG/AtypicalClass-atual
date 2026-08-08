@@ -1,13 +1,9 @@
-import type { Metadata } from "next"
-
 import { createClient } from "@/lib/supabase/server"
 import ConteudosClient, { type Content } from "./conteudos-client"
 
-export const metadata: Metadata = {
-  title: "Conteúdos educacionais",
-  description:
-    "Biblioteca de conteúdos adaptados para alunos atípicos, organizados por matéria e especialidade, cada um com a fonte de origem.",
-}
+// O `<title>` e a `description` vivem no `layout.tsx` desta rota, que os
+// monta traduzidos a partir do idioma. Metadata declarada aqui venceria a do
+// layout e devolveria a página ao português.
 
 /**
  * A busca dos conteúdos acontece aqui, no servidor — mesmo motivo de

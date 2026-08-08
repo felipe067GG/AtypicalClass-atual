@@ -1,8 +1,10 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = {
-  title: "Deficiência Intelectual",
-  description: "Instrução sistemática, análise de tarefa e decisão baseada em dados para alunos com deficiência intelectual.",
+import { specialtyMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return specialtyMetadata("deficiencia-intelectual", lang)
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

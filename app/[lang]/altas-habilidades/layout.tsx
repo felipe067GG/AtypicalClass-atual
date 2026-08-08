@@ -1,8 +1,10 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = {
-  title: "Altas Habilidades / Superdotação",
-  description: "Compactação curricular, aceleração e enriquecimento para alunos com altas habilidades.",
+import { specialtyMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return specialtyMetadata("altas-habilidades", lang)
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

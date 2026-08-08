@@ -1,6 +1,11 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = { title: "Saúde Mental na Escola", description: "Reconhecer sinais, ajustar o ambiente e encaminhar — o papel do professor, com seus limites." }
+import { specialtyMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return specialtyMetadata("saude-mental", lang)
+}
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return children

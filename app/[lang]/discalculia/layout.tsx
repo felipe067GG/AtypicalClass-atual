@@ -1,6 +1,11 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = { title: "Discalculia", description: "Instrução explícita, sequência concreto-abstrato e senso numérico para alunos com discalculia." }
+import { specialtyMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return specialtyMetadata("discalculia", lang)
+}
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return children

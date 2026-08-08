@@ -1,6 +1,11 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = { title: "Surdocegueira e Deficiência Múltipla", description: "Rotina previsível, símbolos tangíveis, mão sob mão e o papel do interventor." }
+import { specialtyMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return specialtyMetadata("surdocegueira", lang)
+}
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return children

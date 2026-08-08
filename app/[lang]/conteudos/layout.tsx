@@ -1,8 +1,10 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = {
-  title: "Conteúdos pedagógicos",
-  description: "Conteúdos pedagógicos organizados por matéria e especialidade.",
+import { pageMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return pageMetadata(lang, "educationalContent", "contentDesc")
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

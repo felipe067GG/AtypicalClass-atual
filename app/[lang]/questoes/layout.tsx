@@ -1,8 +1,10 @@
 import type { Metadata } from "next"
 
-export const metadata: Metadata = {
-  title: "Questões adaptadas",
-  description: "Banco de questões adaptadas, filtráveis por matéria, especialidade e dificuldade.",
+import { pageMetadata } from "@/lib/page-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+  const { lang } = await params
+  return pageMetadata(lang, "questionsBank", "questionsBankDesc")
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {
