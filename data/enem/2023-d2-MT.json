@@ -1,36 +1,37 @@
 [
   {
     "numero": 136,
-    "enunciado": "Alguns estudos comprovam que os carboidratos\nfornecem energia ao corpo, preservam as proteínas\nestruturais dos músculos durante a prática de atividade\nfísica e ainda dão força para o cérebro coordenar os\nmovimentos, o que de fato tem impacto positivo no\ndesenvolvimento do praticante. O ideal é consumir 1 grama\nde carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o\ndesempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de caminhada,\ningerindo, antes dessa atividade, a quantidade ideal de\ncarboidratos recomendada. Para ter o consumo ideal apenas\npor meio do consumo de pão de fôrma integral, o casal planeja\ngarantir o suprimento de pães para um período de 30 dias\nininterruptos. Sabe-se que cada pacote desse pão vem com 18\nfatias, e que cada uma delas tem 15 gramas de carboidratos.",
+    "enunciado": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado\num mapa com a representação bidimensional do posicionamento das\npoltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a\nsubir uma das escadas e parou na posição indicada pela estrela, direcionada\npara o norte. Ela conferiu seu bilhete e observou que, para encontrar sua\npoltrona, deveria partir do ponto onde estava, continuar subindo a escada na\ndireção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será\na terceira.\nDescrição do mapa: Mapa de uma sala de cinema.\nNo mapa, há uma rosa dos ventos que indica o oeste à esquerda, o norte para\ncima, o leste à direita e o sul para baixo. À frente das poltronas está localizada\na tela; as poltronas estão posicionadas em colunas, numeradas de 1 a 12 e em\nfilas nomeadas de A a J.\nAs colunas das poltronas estão posicionadas, da esquerda para a direita, da\nseguinte maneira: 1, 2 e 3; escada; 4, 5, 6, 7, 8 e 9; escada; 10, 11 e 12. As\nfilas estão nomeadas, de baixo para cima, da seguinte maneira: A, B, C, D, E,\nF, G, H, I e J.\nA entrada está localizada à esquerda da tela e a estrela está localizada na\nescada que se encontra entre as colunas 3 e 4 na altura da fila E. (Fim da\ndescrição)\nNesse cinema, as poltronas são identificadas por uma letra, que indica a fileira,\ne um número, que fornece a posição da poltrona na fileira, respectivamente.\nA poltrona dessa pessoa é a identificada por",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é"
+        "texto": "A6."
       },
       {
         "letra": "B",
-        "texto": "4."
+        "texto": "H1."
       },
       {
         "letra": "C",
-        "texto": "6."
+        "texto": "H6."
       },
       {
         "letra": "D",
-        "texto": "7."
+        "texto": "I1."
       },
       {
         "letra": "E",
-        "texto": "8."
+        "texto": "I6."
       }
     ],
-    "resposta": "D",
+    "resposta": "E",
     "dificuldade": {
-      "b": 1.98507,
-      "escala": 699,
-      "faixa": "Médio"
+      "b": -0.28917,
+      "escala": 471,
+      "faixa": "Fácil"
     },
-    "habilidade": 16,
+    "habilidade": 6,
     "imagens": [
       "https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png"
     ],
@@ -41,46 +42,47 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 136,
-      "pagina": 16,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
     "numero": 137,
-    "enunciado": "O mastro de uma bandeira foi instalado\nperpendicularmente ao solo em uma região plana.\nDevido aos fortes ventos, três cabos de aço, de mesmo\ncomprimento, serão instalados para dar sustentação ao\nmastro. Cada cabo de aço ficará perfeitamente esticado,\ncom uma extremidade num ponto P do mastro, a uma\naltura h do solo, e a outra extremidade, num ponto no\nchão, como mostra a figura.\nP\nh\nα\nα\nα\nOs cabos de aço formam um ângulo a com o plano\ndo chão.\nPor medida de segurança, há apenas três opções de\ninstalação:\n• opção I: h = 11 m e a = 30°\n• opção II: h = 12 m e a = 45°\n• opção III: h = 18 m e a = 60°\n16                                  MT • 2º DIA • CAD\nA opção a ser escolhida é aquela em que a medida\ndos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a\nserem instalados?",
+    "enunciado": "O metrô de um município oferece dois tipos de tíquetes com colorações\ndiferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove\ntíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis\ne uma cartela de tíquetes vermelhos são vendidas por 32,40 reais. Sabe-se\nque o preço de um tíquete azul menos o preço de um tíquete vermelho é igual\nao preço de um tíquete vermelho mais cinco centavos.\nQual o preço, em real, de uma cartela de tíquetes vermelhos?",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "22 3 3"
+        "texto": "4,68"
       },
       {
         "letra": "B",
-        "texto": "11 2"
+        "texto": "6,30"
       },
       {
         "letra": "C",
-        "texto": "12 2"
+        "texto": "9,30"
       },
       {
         "letra": "D",
-        "texto": "12 3"
+        "texto": "10,50"
       },
       {
         "letra": "E",
-        "texto": "22"
+        "texto": "10,65"
       }
     ],
-    "resposta": "C",
+    "resposta": "B",
     "dificuldade": {
-      "b": 2.26979,
-      "escala": 727,
-      "faixa": "Difícil"
+      "b": 1.82985,
+      "escala": 683,
+      "faixa": "Médio"
     },
-    "habilidade": 9,
+    "habilidade": 21,
     "imagens": [
       "https://enem.dev/2023/questions/137/fc161c5c-10e9-46d8-a75d-09c59b21d5a4.png"
     ],
@@ -91,94 +93,49 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 137,
-      "pagina": 16,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 138,
-    "enunciado": "Um controlador de voo dispõe de um instrumento que\ndescreve a altitude de uma aeronave em voo, em função\nda distância em solo. Essa distância em solo é a medida na\nhorizontal entre o ponto de origem do voo até o ponto que\nrepresenta a projeção ortogonal da posição da aeronave,\nem voo, no solo. Essas duas grandezas são dadas numa\nmesma unidade de medida.\nA tela do instrumento representa proporcionalmente\nas dimensões reais das distâncias associadas ao voo.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm. Altitude"
-      },
-      {
-        "letra": "B",
-        "texto": "1 : 11."
-      },
-      {
-        "letra": "C",
-        "texto": "1 : 55."
-      },
-      {
-        "letra": "D",
-        "texto": "1 : 5 000."
-      },
-      {
-        "letra": "E",
-        "texto": "1 : 500 000."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 1.55674,
-      "escala": 656,
-      "faixa": "Médio"
-    },
-    "habilidade": 11,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 138,
-      "pagina": 16,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
     "numero": 139,
-    "enunciado": "Uma pessoa pratica quatro atividades físicas — cami\nde seu programa de emagrecimento. Essas atividades s\napresenta o número de horas diárias por atividade.\nDias da semana Caminhar Corre\nSegunda-feira       1,0          0,5\nTerça-feira       0,5          1,0\nQuarta-feira       0,0          1,5\nQuinta-feira       0,0          2,0\nSexta-feira       0,0          0,5\nEla deseja comemorar seu aniversário e escolhe o d\nfísicas praticadas for o maior. Para tanto, considera que os\nsão os seguintes:\nAtividade física Caminhar Co\nGasto calórico (cal/h) 248            7\nO dia da semana em que será comemorado o aniversário",
+    "enunciado": "A figura representa uma escada com três degraus, construída em concreto\nmaciço, com suas medidas especificadas.\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais\ntêm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos,\nespelhos e paredes laterais serão revestidos em cerâmica.\nA área a ser revestida em cerâmica, em metro quadrado, mede",
+    "descricoesDeFiguras": [
+      "Figura de uma escada com três degraus, localizada em frente a uma porta. Cada degrau tem piso e espelho em forma de retângulo e suas laterais são retangulares. O piso de cada degrau mede 1,0 metro por 0,25 metro, e o espelho de cada degrau mede 1,0 metro por 0,20 metro. Cada uma das paredes laterais da escada é formada por três retângulos justapostos: o primeiro mede 0,25 metro por 0,20 metro; o segundo mede 0,25 metro por 0,40 metro e o terceiro mede 0,25 metro por 0,60 metro."
+    ],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "segunda-feira."
+        "texto": "1,20."
       },
       {
         "letra": "B",
-        "texto": "terça-feira."
+        "texto": "1,35."
       },
       {
         "letra": "C",
-        "texto": "quarta-feira."
+        "texto": "1,65."
       },
       {
         "letra": "D",
-        "texto": "quinta-feira."
+        "texto": "1,80."
       },
       {
         "letra": "E",
-        "texto": "sexta-feira."
+        "texto": "1,95."
       }
     ],
-    "resposta": "C",
+    "resposta": "E",
     "dificuldade": {
-      "b": 1.16539,
-      "escala": 617,
+      "b": 1.98395,
+      "escala": 698,
       "faixa": "Médio"
     },
-    "habilidade": 26,
+    "habilidade": 8,
     "imagens": [
       "https://enem.dev/2023/questions/139/abba5cb1-da9d-4899-bda7-97099ca51147.png"
     ],
@@ -189,46 +146,47 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 139,
-      "pagina": 17,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
     "numero": 140,
-    "enunciado": "A cada bimestre, a diretora de uma escola compra uma\nde alunos matriculados. No bimestre passado, ela comp\nmatriculados. Neste bimestre, alguns alunos cancelara",
+    "enunciado": "Um supermercado conta com cinco caixas disponíveis para pagamento. Foram\ninstaladas telas que apresentam o tempo médio gasto por cada caixa para\niniciar e finalizar o atendimento de cada cliente, e o número de pessoas\npresentes na fila de cada caixa em tempo real. Um cliente, na hora de passar\nsua compra, sabendo que cada um dos cinco caixas iniciará um novo\natendimento naquele momento, pretende gastar o menor tempo possível de\nespera na fila. Ele observa que as telas apresentavam as informações a seguir.\n• Caixa 1: atendimento 12 minutos, 5 pessoas na fila.\n• Caixa 2: atendimento 6 minutos, 9 pessoas na fila.\n• Caixa 3: atendimento 5 minutos, 6 pessoas na fila.\n• Caixa 4: atendimento 15 minutos, 2 pessoas na fila.\n• Caixa 5: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "diretora só pode gastar R$ 220,00 nessa compra, e s ofício em embalagens de 100 unidades a R$ 4,00 a embal desconto à escola, de modo que seja possível comprar a O desconto necessário no preço final da compra, em por"
+        "texto": "1"
       },
       {
         "letra": "B",
-        "texto": "(8,0 ; 8,5)."
+        "texto": "2"
       },
       {
         "letra": "C",
-        "texto": "(11,5 ; 12,5)."
+        "texto": "3"
       },
       {
         "letra": "D",
-        "texto": "(19,5 ; 20,5)."
+        "texto": "4"
       },
       {
         "letra": "E",
-        "texto": "(3,5 ; 4,0)."
+        "texto": "5"
       }
     ],
-    "resposta": "A",
+    "resposta": "E",
     "dificuldade": {
-      "b": 1.9392,
-      "escala": 694,
-      "faixa": "Médio"
+      "b": 0.13877,
+      "escala": 514,
+      "faixa": "Fácil"
     },
-    "habilidade": 18,
+    "habilidade": 17,
     "imagens": [
       "https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png"
     ],
@@ -239,46 +197,47 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 140,
-      "pagina": 17,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
     "numero": 141,
-    "enunciado": "O calendário maia apresenta duas contagens\nsimultâneas de anos, o chamado ano Tzolkim, composto\npor 260 dias e que determinava o calendário religioso,\ne o ano Haab, composto por 365 dias e que determinava o\ncalendário agrícola. Um historiador encontrou evidências\nde que gerações de uma mesma família governaram certa\ncomunidade maia pelo período de 20 ciclos, sendo cada\nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante\nquantos anos Tzolkim aquela comunidade maia foi\ngovernada por tal família?",
+    "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam\nas silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia.\nA lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na\nforma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da\nlua coincide com um dos vértices do telhado da torre mais alta.\nDescrição do quadro: Quadro com três figuras que representam as silhuetas\nde parte de três torres de um castelo em frente à lua cheia. As torres têm a\nforma de um retângulo com um triângulo equilátero no topo. O triângulo que\nrepresenta o telhado da torre mais alta está sobreposto ao círculo, tem um\nvértice coincidente com o centro do círculo e o lado oposto a esse vértice é um\nsegmento de reta externo ao círculo. (Fim da descrição)\nNesse quadro, a parte da lua escondida atrás da torre mais alta do castelo\npode ser representada por um",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "741"
+        "texto": "cone."
       },
       {
         "letra": "B",
-        "texto": "1 040"
+        "texto": "setor circular."
       },
       {
         "letra": "C",
-        "texto": "1 460"
+        "texto": "segmento circular."
       },
       {
         "letra": "D",
-        "texto": "2 100"
+        "texto": "triângulo isósceles."
       },
       {
         "letra": "E",
-        "texto": "5 200"
+        "texto": "arco de circunferência."
       }
     ],
-    "resposta": "C",
+    "resposta": "B",
     "dificuldade": {
-      "b": 1.53865,
-      "escala": 654,
+      "b": 1.91643,
+      "escala": 692,
       "faixa": "Médio"
     },
-    "habilidade": 3,
+    "habilidade": 7,
     "imagens": [],
     "materia": "Matemática",
     "materiaOficial": true,
@@ -287,46 +246,49 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 141,
-      "pagina": 18,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
     "numero": 142,
-    "enunciado": "Sejam a, b e c as medidas dos lados de um triângulo\nretângulo, tendo a como medida da hipotenusa. Esses\nvalores a, b e c são, respectivamente, os diâmetros dos\ncírculos C1, C2 e C3, como apresentados na figura.\nCírculo C1\nc            a\nCírculo C3\nb\nCírculo C2\nObserve que essa construção assegura, pelo teorema\nde Pitágoras, que área (C1) = área (C2) + área (C3).\nUm professor de matemática era conhecedor dessa\nconstrução e, confraternizando com dois amigos em uma\npizzaria onde são vendidas pizzas somente em formato\nde círculo, lançou um desafio: mesmo sem usar um\ninstrumento de medição, poderia afirmar com certeza se\na área do círculo correspondente à pizza que ele pedisse\nera maior, igual ou menor do que a soma das áreas das\npizzas dos dois amigos. Assim, foram pedidas três pizzas.\nO professor as dividiu ao meio e formou um triângulo com\nos diâmetros das pizzas, conforme indicado na figura.\n18                                         MT • 2º DIA • CAD\nMeia pizza do professor\nde matemática\nMeia pizza do\namigo 1\nα\nMeia pizza do amigo 2\nA partir da medida do ângulo a, o professor afirmou\nque a área de sua pizza é maior do que a soma das áreas\ndas outras duas pizzas.",
+    "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja\nárea real mede 400 metros quadrados. Ao redor dessa piscina, será construída\numa calçada, de largura constante igual a 5 metros.\n\nQual é a medida da área, em metro quadrado, ocupada pela calçada?",
+    "descricoesDeFiguras": [
+      "Figura de um quadrado representando uma piscina, emoldurado por uma faixa de largura constante igual a 5 metros, representando a calçada."
+    ],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois"
+        "texto": "1000"
       },
       {
         "letra": "B",
-        "texto": "a = 90°"
+        "texto": "900"
       },
       {
         "letra": "C",
-        "texto": "90° < a < 180°"
+        "texto": "600"
       },
       {
         "letra": "D",
-        "texto": "a = 180°"
+        "texto": "500"
       },
       {
         "letra": "E",
-        "texto": "180° < a < 360°"
+        "texto": "400"
       }
     ],
-    "resposta": "C",
+    "resposta": "D",
     "dificuldade": {
-      "b": 2.37234,
-      "escala": 737,
-      "faixa": "Difícil"
+      "b": 1.4869,
+      "escala": 649,
+      "faixa": "Médio"
     },
-    "habilidade": 13,
+    "habilidade": 12,
     "imagens": [],
     "materia": "Matemática",
     "materiaOficial": true,
@@ -335,921 +297,45 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 142,
-      "pagina": 18,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
     "numero": 143,
-    "enunciado": "Entre maratonistas, um parâmetro utilizado é o de\neconomia de corrida (EC). O valor desse parâmetro é\ncalculado pela razão entre o consumo de oxigênio, em\nmililitro (mL) por minuto (min), e a massa, em quilograma (kg),\ndo atleta correndo a uma velocidade constante.\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\nUm maratonista, visando melhorar sua performance,\nauxiliado por um médico, mensura o seu consumo de\noxigênio por minuto a velocidade constante. Com base\nnesse consumo e na massa do atleta, o médico calcula\no EC do atleta.",
+    "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu\ncelular para monitorar a variação da intensidade do sinal de internet recebido\npelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo\nforneceu este gráfico:\nDescrição do gráfico: Gráfico cartesiano sobre uma malha quadriculada, em\nque o eixo horizontal representa o tempo, em minuto, graduado de 0 a 30, de 2\nem 2 unidades; e o eixo vertical representa a intensidade do sinal de internet.\nOs segmentos de reta que formam o gráfico são:\nSegmento 1: une os pontos (0; 5) a (2; 5);\nSegmento 2: une os pontos (2; 5) a (6; 2);\nSegmento 3: une os pontos (6; 2) a (8; 2);\nSegmento 4: une os pontos (8; 2) a (10; 0);\nSegmento 5: une os pontos (10; 0) a (12; 0);\nSegmento 6: une os pontos (12; 0) a (14; 4);\nSegmento 7: une os pontos (14; 4) a (16; 0);\nSegmento 8: une os pontos (16; 0) a (20; 0);\nSegmento 9: une os pontos (20; 0) a (22; 3);\nSegmento 10: une os pontos (22; 3) a (24; 3);\nSegmento 11: une os pontos (24; 3) a (26; 2);\nSegmento 12: une os pontos (26; 2) a (28; 5);\nSegmento 13: une os pontos (28; 5) a (30; 5).\n(Fim da descrição)\nPor quantos minutos, durante essa caminhada, o celular dessa pessoa ficou\nsem receber sinal de internet?",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "unidade de medida da grandeza descrita pelo parâmetro EC é"
+        "texto": "6"
       },
       {
         "letra": "B",
-        "texto": "mL min ⋅ kg"
+        "texto": "8"
       },
       {
         "letra": "C",
-        "texto": "min ⋅ mL kg"
-      },
-      {
-        "letra": "D",
-        "texto": "min ⋅ kg mL"
-      },
-      {
-        "letra": "E",
-        "texto": "mL ⋅ kg min"
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 2.11188,
-      "escala": 711,
-      "faixa": "Difícil"
-    },
-    "habilidade": 10,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 143,
-      "pagina": 18,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 144,
-    "enunciado": "O gerente de uma fábrica pretende comparar a evoluç\npassou a verificar o número de unidades vendidas de ca\nverificação, para os meses de abril a junho, são apresen\nVendas\nProduto em abril\n(unidade)\nl          80\nll        190\nO gerente estava decidido a cessar a produção do\nproduto I superassem as do produto II.\nSuponha que a variação na quantidade de unidades\nno período representado na tabela.\nEm qual mês o produto II parou de ser produzido?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Junho."
-      },
-      {
-        "letra": "B",
-        "texto": "Julho."
-      },
-      {
-        "letra": "C",
-        "texto": "Agosto."
-      },
-      {
-        "letra": "D",
-        "texto": "Setembro."
-      },
-      {
-        "letra": "E",
-        "texto": "Outubro."
-      }
-    ],
-    "resposta": "D",
-    "dificuldade": {
-      "b": 1.75696,
-      "escala": 676,
-      "faixa": "Médio"
-    },
-    "habilidade": 24,
-    "imagens": [
-      "https://enem.dev/2023/questions/144/c606403f-fd10-4c02-8e46-736fece94b85.png",
-      "https://enem.dev/2023/questions/144/2107cabc-64d0-4a1f-9eab-fa7dce0e9ac2.png"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 144,
-      "pagina": 19,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 145,
-    "enunciado": "Uma empresa de transporte faz regularmente um lev\npor todos os 160 motoristas cadastrados em seu aplicativ\ngráfico de barras, no qual se relacionaram a quantidade\naquele instante do dia.\n7\n6\n5\n4\n3\n2\n1\n0 5 10 15 20\nQuantidade\nComparando os valores da média, da mediana e da mo\npelos motoristas cadastrados nessa empresa, obtém-se",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "mediana = média < moda."
-      },
-      {
-        "letra": "B",
-        "texto": "mediana = moda < média."
-      },
-      {
-        "letra": "C",
-        "texto": "mediana < média < moda."
-      },
-      {
-        "letra": "D",
-        "texto": "moda < média < mediana."
-      },
-      {
-        "letra": "E",
-        "texto": "moda < mediana < média."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 2.19574,
-      "escala": 720,
-      "faixa": "Difícil"
-    },
-    "habilidade": 27,
-    "imagens": [
-      "https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 145,
-      "pagina": 19,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 146,
-    "enunciado": "A foto mostra a construção de uma cisterna destinada\nao armazenamento de água. Uma cisterna como essa, na\nforma de cilindro circular reto com 3 m² de área da base,\nfoi abastecida por um curso-d’água com vazão constante.\nO seu proprietário registrou a altura do nível da água no\ninterior da cisterna durante o abastecimento em diferentes\nmomentos de um mesmo dia, conforme o quadro.\nHorário (h)   Nível da água (m)\n6:00             0,5\n8:00             1,1\n12:00            2,3\n15:00            3,2\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.\nQual foi a vazão, em metro cúbico por hora, do\ncurso-d’água que abasteceu a cisterna?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "0,3"
-      },
-      {
-        "letra": "B",
-        "texto": "0,5"
-      },
-      {
-        "letra": "C",
-        "texto": "0,9"
-      },
-      {
-        "letra": "D",
-        "texto": "1,8"
-      },
-      {
-        "letra": "E",
-        "texto": "2,7"
-      }
-    ],
-    "resposta": "C",
-    "dificuldade": {
-      "b": 2.23364,
-      "escala": 723,
-      "faixa": "Difícil"
-    },
-    "habilidade": 12,
-    "imagens": [
-      "https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 146,
-      "pagina": 20,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 147,
-    "enunciado": "Num certo momento de um jogo digital, a tela\napresenta a imagem representada na figura. O ponto Q1\nrepresenta a posição de um jogador que está com a bola,\nos pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições\nde jogadores da mesma equipe, e os pontos A e B indicam\nos dois pés da trave mais próxima deles. No momento da\npartida retratado, o jogador Q1 tem a posse da bola, que\nserá passada para um dos outros jogadores das posições\nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma\nmedida do ângulo AQ1B.\n20                                       MT • 2º DIA • CAD\nQ3\nA\nB         Q4 Q2 α Q1 Q5\nQ6\nQual é o jogador que receberá a bola?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Q2"
-      },
-      {
-        "letra": "B",
-        "texto": "Q3"
-      },
-      {
-        "letra": "C",
-        "texto": "Q4"
-      },
-      {
-        "letra": "D",
-        "texto": "Q5"
-      },
-      {
-        "letra": "E",
-        "texto": "Q6"
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 2.1908,
-      "escala": 719,
-      "faixa": "Difícil"
-    },
-    "habilidade": 9,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 147,
-      "pagina": 20,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 148,
-    "enunciado": "O triângulo da figura é denominado triângulo mágico.\nNos círculos, escrevem-se os números de 1 a 6, sem\nrepetição, com um número em cada círculo. O objetivo é\ndistribuir os números de forma que as somas dos números\nem cada lado do triângulo sejam iguais.\nConsidere que os números colocados nos vértices\ndo triângulo estejam em progressão aritmética de razão\nigual a 2.\nNas condições propostas, quais as possíveis soluções\npara as somas dos números que formam os lados do\ntriângulo?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7."
-      },
-      {
-        "letra": "B",
-        "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9."
-      },
-      {
-        "letra": "C",
-        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9."
-      },
-      {
-        "letra": "D",
-        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12."
-      },
-      {
-        "letra": "E",
-        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 1.88674,
-      "escala": 689,
-      "faixa": "Médio"
-    },
-    "habilidade": 4,
-    "imagens": [
-      "https://enem.dev/2023/questions/148/c6c6b6c4-3fba-4a68-99c6-014bb190c456.png"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 148,
-      "pagina": 20,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 149,
-    "enunciado": "No alojamento de uma universidade, há alguns quarto\nficou disponível, e muitos estudantes se candidataram pa\num sorteio será realizado. Para esse sorteio, cartões indiv\ndepositados em uma urna, sendo que, para cada estuda\nseu nome; para cada estudante de segundo ano, dois car\ntrês cartões com seu nome. Foram inscritos 200 estudan\nano. Todos os cartões têm a mesma probabilidade de se\nQual a probabilidade de o vencedor do sorteio ser um es",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "12"
-      },
-      {
-        "letra": "B",
-        "texto": "13"
-      },
-      {
-        "letra": "C",
-        "texto": "18"
-      },
-      {
-        "letra": "D",
-        "texto": "29"
-      },
-      {
-        "letra": "E",
-        "texto": "38"
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 1.3682,
-      "escala": 637,
-      "faixa": "Médio"
-    },
-    "habilidade": 28,
-    "imagens": [
-      "https://enem.dev/2023/questions/149/a88a534d-3ee0-4b70-aba7-1b3e7c46b5f3.png"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 149,
-      "pagina": 21,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 150,
-    "enunciado": "A água utilizada pelos 75 moradores de um vilarejo p\ncujo raio da base mede 5 metros, sempre abastecido no p\ndesse vilarejo consome, em média, 200 litros de água po\nNo mês de junho de um determinado ano, o vilarejo fes\nnos primeiros 20 dias. Passado esse período, as pessoas\ne constataram que o nível da coluna de água estava em 1\ndurante os 10 dias seguintes. Considere 3 como aproxim\nQual é a quantidade mínima de água, em litro, que cada\nque o reservatório não fique sem água nos próximos 10 d",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "50"
-      },
-      {
-        "letra": "B",
-        "texto": "60"
-      },
-      {
-        "letra": "C",
-        "texto": "80"
-      },
-      {
-        "letra": "D",
-        "texto": "140"
-      },
-      {
-        "letra": "E",
-        "texto": "150"
-      }
-    ],
-    "resposta": "A",
-    "dificuldade": {
-      "b": 2.42208,
-      "escala": 742,
-      "faixa": "Difícil"
-    },
-    "habilidade": 14,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 150,
-      "pagina": 21,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 151,
-    "enunciado": "Em janeiro do ano passado, a direção de uma fábrica\n10 salas, cada uma com capacidade para atender 10 cr\ndos funcionários inscritos, enquanto os não contemplados\na lista de espera teve 400 nomes e, neste ano, esse núm\nA direção da fábrica realizou uma pesquisa e consta\nquantidade de nomes da lista de espera deste ano. Deci\na creche, também com capacidade de atendimento para\nde espera no próximo ano seja 25% menor que o deste a\nO número mínimo de salas que deverão ser construídas",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "10."
-      },
-      {
-        "letra": "B",
-        "texto": "11."
-      },
-      {
-        "letra": "C",
-        "texto": "13."
-      },
-      {
-        "letra": "D",
-        "texto": "30."
-      },
-      {
-        "letra": "E",
-        "texto": "33."
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 1.52611,
-      "escala": 653,
-      "faixa": "Médio"
-    },
-    "habilidade": 5,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 151,
-      "pagina": 21,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 152,
-    "enunciado": "Os números figurados pentagonais provavelmente\nforam introduzidos pelos pitagóricos por volta do\nséculo V a.C. As figuras ilustram como obter os seis\nprimeiros deles, sendo os demais obtidos seguindo o\nmesmo padrão geométrico.\n1       5  12                           22\n35                             51\nO oitavo número pentagonal é",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "59."
-      },
-      {
-        "letra": "B",
-        "texto": "83."
-      },
-      {
-        "letra": "C",
-        "texto": "86."
-      },
-      {
-        "letra": "D",
-        "texto": "89."
-      },
-      {
-        "letra": "E",
-        "texto": "92."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 1.34475,
-      "escala": 634,
-      "faixa": "Médio"
-    },
-    "habilidade": 2,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 152,
-      "pagina": 22,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 154,
-    "enunciado": "Um professor, para promover a aprendizagem dos\nestudantes em estatística, propôs uma atividade. O objetivo\nera verificar o percentual de estudantes com massa corporal\nabaixo da média e altura acima da média de um grupo de\nestudantes. Para isso, usando uma balança e uma fita\nmétrica, avaliou uma amostra de dez estudantes, anotando as\nmedidas observadas. O gráfico apresenta a massa corporal,\nem quilograma, e a altura, em metro, obtidas na atividade.\nAltura (m) Massa corporal e altura de estudantes\n1,8\n1,75\n1,7\n1,65\n1,6\n1,55\n1,5\n1,45\n0      20     40     60     80 100 120 140\nMassa corporal (kg)\nApós a coleta dos dados, os estudantes calcularam a\nmédia dos valores obtidos, referentes à massa corporal\ne à altura, obtendo, respectivamente, 80 kg e 1,65 m.\nQual é o percentual de estudantes dessa amostra com\nmassa corporal abaixo da média e altura acima da média?",
-    "alternativas": [
-      {
-        "letra": "A",
         "texto": "10"
       },
       {
-        "letra": "B",
-        "texto": "20"
-      },
-      {
-        "letra": "C",
-        "texto": "30"
-      },
-      {
         "letra": "D",
-        "texto": "50"
+        "texto": "14"
       },
       {
         "letra": "E",
-        "texto": "70"
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 1.23798,
-      "escala": 624,
-      "faixa": "Médio"
-    },
-    "habilidade": 25,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 154,
-      "pagina": 23,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 155,
-    "enunciado": "Um pescador tem um custo fixo diário de R$ 900,00\ncom combustível, iscas, manutenção de seu barco e outras\npequenas despesas. Ele vende cada quilograma de peixe por\nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00\npor dia. Sozinho, ele consegue, ao final de um dia de trabalho,\npescar 180 kg de peixe, o que é suficiente apenas para cobrir o\ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando\npara cada um R$ 250,00 por dia de trabalho. Além desse valor,\n4% da receita obtida pela venda de peixe é repartida igualmente\nentre os ajudantes. Considerando o tamanho de seu barco, ele\npode contratar até 5 ajudantes. Ele sabe que com um ajudante\na pesca diária é de 300 kg e que, a partir do segundo\najudante contratado, aumenta-se em 100 kg a quantidade de\npeixe pescada por ajudante em um dia de trabalho.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é"
-      },
-      {
-        "letra": "B",
-        "texto": "2."
-      },
-      {
-        "letra": "C",
-        "texto": "3."
-      },
-      {
-        "letra": "D",
-        "texto": "4."
-      },
-      {
-        "letra": "E",
-        "texto": "5."
-      }
-    ],
-    "resposta": "D",
-    "dificuldade": {
-      "b": 2.55621,
-      "escala": 756,
-      "faixa": "Difícil"
-    },
-    "habilidade": 5,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 155,
-      "pagina": 23,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 156,
-    "enunciado": "Um agricultor é informado sobre um método de proteção\npara sua lavoura que consiste em inserir larvas específicas,\nde rápida reprodução. A reprodução dessas larvas faz com\nque sua população multiplique-se por 10 a cada 3 dias e,\npara evitar eventuais desequilíbrios, é possível cessar essa\nreprodução aplicando-se um produto X. O agricultor decide\niniciar esse método com 100 larvas e dispõe de 5 litros do\nproduto X, cuja aplicação recomendada é de exatamente\n1 litro para cada população de 200 000 larvas. A quantidade\ntotal do produto X de que ele dispõe deverá ser aplicada\nde uma única vez.\nQuantos dias após iniciado esse método o agricultor\ndeverá aplicar o produto X?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "2"
-      },
-      {
-        "letra": "B",
-        "texto": "4"
-      },
-      {
-        "letra": "C",
-        "texto": "6"
-      },
-      {
-        "letra": "D",
-        "texto": "12"
-      },
-      {
-        "letra": "E",
-        "texto": "18"
-      }
-    ],
-    "resposta": "D",
-    "dificuldade": {
-      "b": 1.27709,
-      "escala": 628,
-      "faixa": "Médio"
-    },
-    "habilidade": 23,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 156,
-      "pagina": 23,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 157,
-    "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos,\nfoi solicitado ao usuário que criasse uma senha, sendo\npermitido o uso somente dos seguintes caracteres:\n• algarismos de 0 a 9;\n• 26 letras minúsculas do alfabeto;\n• 26 letras maiúsculas do alfabeto;\n• 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas\nao usuário:\n• tipo I: formada por quaisquer quatro caracteres\ndistintos, escolhidos dentre os permitidos;\n• tipo II: formada por cinco caracteres distintos,\niniciando por três letras, seguidas por um algarismo\ne, ao final, um caractere especial;\n• tipo III: formada por seis caracteres distintos, iniciando\npor duas letras, seguidas por dois algarismos e, ao\nfinal, dois caracteres especiais.\nConsidere p1, p2 e p3 as probabilidades de se\ndescobrirem ao acaso, na primeira tentativa, as senhas\ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a\nmenor probabilidade de ser descoberta ao acaso, na\nprimeira tentativa, é o",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "tipo I, pois p1 < p2 < p3."
-      },
-      {
-        "letra": "B",
-        "texto": "tipo I, pois tem menor quantidade de caracteres."
-      },
-      {
-        "letra": "C",
-        "texto": "tipo II, pois tem maior quantidade de letras."
-      },
-      {
-        "letra": "D",
-        "texto": "tipo III, pois p3 < p2 < p1."
-      },
-      {
-        "letra": "E",
-        "texto": "tipo III, pois tem maior quantidade de caracteres."
+        "texto": "24"
       }
     ],
     "resposta": "A",
     "dificuldade": {
-      "b": 2.38012,
-      "escala": 738,
-      "faixa": "Difícil"
-    },
-    "habilidade": 29,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 157,
-      "pagina": 23,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 158,
-    "enunciado": "Em um colégio público, a admissão no primeiro ano se\ndá por sorteio. Neste ano há 55 candidatos, cujas inscrições\nsão numeradas de 01 a 55. O sorteio de cada número de\ninscrição será realizado em etapas, utilizando-se duas\nurnas. Da primeira urna será sorteada uma bola, dentre\nbolas numeradas de 0 a 9, que representará o algarismo\ndas unidades do número de inscrição a ser sorteado e, em\nseguida, da segunda urna, será sorteada uma bola para\nrepresentar o algarismo das dezenas desse número. Depois\ndo primeiro sorteio, e antes de se sortear o algarismo das\ndezenas, as bolas que estarão presentes na segunda\nurna serão apenas aquelas cujos números formam, com o\nalgarismo já sorteado, um número de 01 a 55.\nAs probabilidades de os candidatos de inscrição número\n50 e 02 serem sorteados são, respectivamente,",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "150 e 160"
-      },
-      {
-        "letra": "B",
-        "texto": "150 e 150"
-      },
-      {
-        "letra": "C",
-        "texto": "150 e 110"
-      },
-      {
-        "letra": "D",
-        "texto": "155 e 154"
-      },
-      {
-        "letra": "E",
-        "texto": "1 100 e 1 100"
-      }
-    ],
-    "resposta": "A",
-    "dificuldade": {
-      "b": 2.50464,
-      "escala": 750,
-      "faixa": "Difícil"
-    },
-    "habilidade": 28,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 158,
-      "pagina": 24,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 159,
-    "enunciado": "O esquema mostra como a intensidade luminosa\ndecresce com o aumento da profundidade em um rio,\nsendo L0 a intensidade na sua superfície.\nProfundidade         Intensidade luminosa\n0 m         L0\n1 m         23 L0\n2 m          49 L0\n3 m          827 L0\nConsidere que a intensidade luminosa diminui, a cada\nmetro acrescido na profundidade, segundo o mesmo\npadrão do esquema.\n24                                         MT • 2º DIA • CAD",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "intensidade luminosa correspondente à profundidade de 6 m é igual a"
-      },
-      {
-        "letra": "B",
-        "texto": "16 27 L0"
-      },
-      {
-        "letra": "C",
-        "texto": "32 243 L0"
-      },
-      {
-        "letra": "D",
-        "texto": "64 729 L0"
-      },
-      {
-        "letra": "E",
-        "texto": "128 2 187 L0"
-      }
-    ],
-    "resposta": "D",
-    "dificuldade": {
-      "b": 0.7783,
-      "escala": 578,
-      "faixa": "Médio"
-    },
-    "habilidade": 2,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 159,
-      "pagina": 24,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 160,
-    "enunciado": "Analisando as vendas de uma empresa, o gerente\nconcluiu que o montante diário arrecadado, em milhar de real,\npoderia ser calculado pela expressão V \u000b x \f x2 4 \u0010 10x \u000e 105,\nem que os valores de x representam os dias do mês,\nvariando de 1 a 30.\nUm dos fatores para avaliar o desempenho mensal\ndaarr empresa ecadado é verificar ao longo d qual o mêés oe menor classifi mo car nto ante diário desempen V0 ho\nconforme as categorias apresentadas a seguir, em que as\nquantidades estão expressas em milhar de real.\n• Ótimo: V0 ≥ 24\n• Bom: 20 ≤ V0 < 24\n• Normal: 10 ≤ V0 < 20\n• Ruim: 4 ≤ V0 < 10\n• Péssimo: V0 < 4\nNo caso analisado, qual seria a classificação do\ndesempenho da empresa?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Ótimo."
-      },
-      {
-        "letra": "B",
-        "texto": "Bom."
-      },
-      {
-        "letra": "C",
-        "texto": "Normal."
-      },
-      {
-        "letra": "D",
-        "texto": "Ruim."
-      },
-      {
-        "letra": "E",
-        "texto": "Péssimo."
-      }
-    ],
-    "resposta": "D",
-    "dificuldade": {
-      "b": 2.67185,
-      "escala": 767,
-      "faixa": "Difícil"
-    },
-    "habilidade": 22,
-    "imagens": [
-      "https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 160,
-      "pagina": 24,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 161,
-    "enunciado": "Dirigir após ingerir bebidas alcoólicas é uma atitude\nextremamente perigosa, uma vez que, a partir da primeira\ndose, a pessoa já começa a ter perda de sensibilidade\nde movimentos e de reflexos. Apesar de a eliminação e\nabsorção do álcool depender de cada pessoa e de como\no organismo consegue metabolizar a substância, ao final\nda primeira hora após a ingestão, a concentração de álcool\n(C) no sangue corresponde a aproximadamente 90% da\nquantidade (q) de álcool ingerida, e a eliminação total\ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão\nda quantidade q de álcool, a concentração C dessa\nsubstância no sangue é expressa algebricamente por",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "C = 0,9q"
-      },
-      {
-        "letra": "B",
-        "texto": "C = 0,1q"
-      },
-      {
-        "letra": "C",
-        "texto": "C = 1 − 0,1q"
-      },
-      {
-        "letra": "D",
-        "texto": "C = 1 − 0,9q"
-      },
-      {
-        "letra": "E",
-        "texto": "C = q − 10"
-      }
-    ],
-    "resposta": "A",
-    "dificuldade": {
-      "b": 1.45121,
-      "escala": 645,
-      "faixa": "Médio"
-    },
-    "habilidade": 19,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 161,
-      "pagina": 25,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 162,
-    "enunciado": "Um investidor iniciante observou o gráfico que\napresenta a evolução dos valores de duas criptomoedas",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "e B em relação ao tempo. Criptomoeda B (milhar de real)"
-      },
-      {
-        "letra": "B",
-        "texto": "4"
-      },
-      {
-        "letra": "C",
-        "texto": "6"
-      },
-      {
-        "letra": "D",
-        "texto": "7"
-      },
-      {
-        "letra": "E",
-        "texto": "9"
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 0.86167,
-      "escala": 586,
-      "faixa": "Médio"
+      "b": 0.3783,
+      "escala": 538,
+      "faixa": "Fácil"
     },
     "habilidade": 20,
     "imagens": [],
@@ -1260,143 +346,50 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 162,
-      "pagina": 25,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 143,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 163,
-    "enunciado": "A exposição a alguns níveis sonoros pode causar\nlesões auditivas. Por isso, em uma indústria, são adotadas\nmedidas preventivas de acordo com a máquina que o\nfuncionário opera e o nível N de intensidade do som,\nmedido em decibel (dB), a que o operário é exposto,\nsendo N I0 = 10−12 = log10I 10 W/m2. − log10I010, I a intensidade do som e\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\nQuando o som é considerado baixo, ou seja,\nN = 48 dB ou menos, deve ser utilizada a medida\npreventiva I. No caso de o som ser moderado, quando\nN está no intervalo (48 dB, 55 dB), deve ser utilizada a\nmedida preventiva II. Quando o som é moderado alto,\nque equivale a N no intervalo (55 dB, 80 dB), a medida\npreventiva a ser usada é a III. Se N estiver no intervalo\n(80 dB, 115 dB), quando o som é considerado alto, deve ser\nutilizada a medida preventiva IV. E se o som é considerado\nmuito alto, com N maior que 115 dB, deve-se utilizar a\nmedida preventiva V.\nUma nova máquina, com I = 8 × 10−8 W/m2, foi adquirida\ne será classificada de acordo com o nível de ruído\nque produz.\nConsidere 0,3 como aproximação para log102.\nO funcionário que operará a nova máquina deverá adotar\na medida preventiva",
+    "numero": 145,
+    "enunciado": "Para concretar a laje de sua residência, uma pessoa contratou uma\nconstrutora. Tal empresa informa que o preço y do concreto bombeado é\ncomposto de duas partes: uma fixa, chamada de taxa de bombeamento, e\numa variável, que depende do volume x de concreto utilizado. Sabe-se que a\ntaxa de bombeamento custa 500 reais e que o metro cúbico do concreto\nbombeado é de 250 reais.\nA expressão que representa o preço y em função do volume x, em metro\ncúbico, é",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "I."
+        "texto": "y é igual a 250 vezes x"
       },
       {
         "letra": "B",
-        "texto": "II."
+        "texto": "y é igual a 500 vezes x"
       },
       {
         "letra": "C",
-        "texto": "III."
+        "texto": "y é igual a 750 vezes x"
       },
       {
         "letra": "D",
-        "texto": "IV."
+        "texto": "y é igual a 250 vezes x mais 500"
       },
       {
         "letra": "E",
-        "texto": "V."
+        "texto": "y é igual a 500 vezes x mais 250"
       }
     ],
-    "resposta": "B",
+    "resposta": "D",
     "dificuldade": {
-      "b": 3.00088,
-      "escala": 800,
-      "faixa": "Difícil"
-    },
-    "habilidade": 22,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 163,
-      "pagina": 25,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 164,
-    "enunciado": "Um artista plástico esculpe uma escultura a partir\nde um bloco de madeira de lei, em etapas. Inicialmente,\nesculpe um cone reto com 36 cm de altura e diâmetro da\nbase medindo 18 cm. Em seguida, remove desse cone um\ncone menor, cujo diâmetro da base mede 6 cm, obtendo,\nassim, um tronco de cone, conforme ilustrado na figura.\n6 cm\n36 cm\n18 cm\nEm seguida, perfura esse tronco de cone, removendo\num cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o\nmesmo do cone original. Dessa forma, ao final, a escultura\ntem a forma de um tronco de cone com uma perfuração\ncilíndrica de base a base.\nO tipo de madeira utilizada para produzir essa escultura\ntem massa igual a 0,6 g por centímetro cúbico de volume.\nUtilize 3 como aproximação para π.\nQual é a massa, em grama, dessa escultura?",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "1 198,8"
-      },
-      {
-        "letra": "B",
-        "texto": "1 296,0"
-      },
-      {
-        "letra": "C",
-        "texto": "1 360,8"
-      },
-      {
-        "letra": "D",
-        "texto": "4 665,6"
-      },
-      {
-        "letra": "E",
-        "texto": "4 860,0"
-      }
-    ],
-    "resposta": "B",
-    "dificuldade": {
-      "b": 2.44818,
-      "escala": 745,
-      "faixa": "Difícil"
-    },
-    "habilidade": 8,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 164,
-      "pagina": 26,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 165,
-    "enunciado": "Os 100 funcionários de uma empresa estão\ndistribuídos em dois setores: Produção e Administração.\nOs funcionários de um mesmo setor recebem salários\ncom valores iguais. O quadro apresenta a quantidade de\nfuncionários por setor e seus respectivos salários.\nSetor           Quantidade de      Saláriofuncionários(em real)\nProdução               75           2 000,00\nAdministração            25           7 000,00",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "média dos salários dos 100 funcionários dessa empresa, em real, é"
-      },
-      {
-        "letra": "B",
-        "texto": "2 500,00."
-      },
-      {
-        "letra": "C",
-        "texto": "3 250,00."
-      },
-      {
-        "letra": "D",
-        "texto": "4 500,00."
-      },
-      {
-        "letra": "E",
-        "texto": "9 000,00."
-      }
-    ],
-    "resposta": "C",
-    "dificuldade": {
-      "b": 1.08025,
-      "escala": 608,
+      "b": 0.86032,
+      "escala": 586,
       "faixa": "Médio"
     },
-    "habilidade": 27,
-    "imagens": [],
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png"
+    ],
     "materia": "Matemática",
     "materiaOficial": true,
     "fonte": {
@@ -1404,46 +397,98 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 165,
-      "pagina": 26,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 145,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 166,
-    "enunciado": "Visando atrair mais clientes, o gerente de uma loja\nanunciou uma promoção em que cada cliente que realizar\numa compra pode ganhar um voucher para ser usado\nem sua próxima compra. Para ganhar seu voucher,\no cliente precisa retirar, ao acaso, uma bolinha de dentro\nde cada uma das duas urnas A e B disponibilizadas pelo\ngerente, nas quais há apenas bolinhas pretas e brancas.\nAtualmente, a probabilidade de se escolher, ao acaso,\numa bolinha preta na urna A é igual a 20% e a probabilidade\nde se escolher uma bolinha preta na urna B é 25%.\nGanha o voucher o cliente que retirar duas bolinhas pretas,\numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a\npromoção ser viável aos negócios, era preciso alterar\na probabilidade de acerto do cliente sem alterar a regra\nda promoção. Para isso, resolveu alterar a quantidade de\nbolinhas brancas na urna B de forma que a probabilidade\nde um cliente ganhar o voucher passasse a ser menor ou\nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e\nque, em ambas as urnas, todas as bolinhas têm a mesma\nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o\ngerente deve adicionar à urna B?",
+    "numero": 146,
+    "enunciado": "Lucas precisa estacionar o carro pelo período de 40 minutos, e sua irmã Clara\ntambém precisa estacionar o carro pelo período de 6 horas. O estacionamento\nVerde cobra 5 reais por hora de permanência. O estacionamento Amarelo\ncobra 6 reais por 4 horas de permanência e mais 2,50 reais por hora ou fração\nde hora ultrapassada. O estacionamento Preto cobra 7 reais por 3 horas de\npermanência e mais 1 real por hora ou fração de hora ultrapassada.\nOs estacionamentos mais econômicos para Lucas e Clara, respectivamente,\nsão",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "20"
+        "texto": "Verde e Preto."
       },
       {
         "letra": "B",
-        "texto": "60"
+        "texto": "Verde e Amarelo."
       },
       {
         "letra": "C",
-        "texto": "64"
+        "texto": "Amarelo e Amarelo."
       },
       {
         "letra": "D",
-        "texto": "68"
+        "texto": "Preto e Preto."
       },
       {
         "letra": "E",
-        "texto": "80"
+        "texto": "Verde e Verde."
       }
     ],
-    "resposta": "C",
+    "resposta": "A",
     "dificuldade": {
-      "b": 2.91942,
-      "escala": 792,
+      "b": 1.63495,
+      "escala": 663,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [
+      "https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg"
+    ],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 146,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 147,
+    "enunciado": "Estudantes trabalhando com robótica criaram uma \"torneira inteligente\" que\nautomatiza sua abertura e seu fechamento durante a limpeza das mãos. A\ntecnologia funciona da seguinte forma: ao se colocarem as mãos sob a\ntorneira, ela libera água durante 3 segundos para que a pessoa possa\nmolhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos,\nenquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o\nenxágue por mais 3 segundos. Considere o tempo (t), em segundo, contado a\npartir do instante em que se inicia o ciclo. A vazão de água nessa torneira é\nconstante.\nUm esboço de gráfico que descreve o volume de água acumulado, em litro,\nliberado por essa torneira durante um ciclo de lavagem das mãos, em função\ndo tempo (t), em segundo, é\nDescrição das alternativas: Em cada alternativa há a representação de\num gráfico cartesiano em uma malha quadriculada, em que o eixo horizontal\nrepresenta o tempo em segundo, de 0 a 12 segundos; e o eixo vertical\nrepresenta o volume de água, em litro.",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 4)."
+      },
+      {
+        "letra": "B",
+        "texto": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 2) e (8 ; 2) e o terceiro liga os pontos (8 ; 2) e (11 ; 4)."
+      },
+      {
+        "letra": "C",
+        "texto": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 2) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 2)."
+      },
+      {
+        "letra": "D",
+        "texto": "O gráfico é formado por um segmento de reta que liga os pontos (0 ; 0) e (11 ; 4)."
+      },
+      {
+        "letra": "E",
+        "texto": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 0) e (11 ; 4). (Fim da descrição)"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.84307,
+      "escala": 784,
       "faixa": "Difícil"
     },
-    "habilidade": 30,
+    "habilidade": 15,
     "imagens": [],
     "materia": "Matemática",
     "materiaOficial": true,
@@ -1452,17 +497,18 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 166,
-      "pagina": 26,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 147,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 168,
-    "enunciado": "As características culturais variam de povo para povo.\nHá notícias de um povo que possuía formas de contar\ndiferentes das nossas, como indicado no quadrinho a seguir.\nSegundo o padrão de contagem indicado na figura, as\nrepresentações dos numerais cinco e sete, nessa cultura,\ndevem ser, respectivamente,",
+    "numero": 148,
+    "enunciado": "As características culturais variam de povo para povo. Há notícias de um povo\nque possuía formas de contar diferentes das nossas, como indicado no\nquadrinho a seguir.\nDescrição do quadrinho: Quadrinho com seis personagens, cada\npersonagem mostra com os dedos um número e diz o nome desse número.\nAbaixo de cada um deles há, em arábico, o número dito.\nOs números que aparecem na figura e os seus respectivos nomes falados pelos\npersonagens são:\n1: Urapum!\n2: Okosa!\n3: Okosa urapum!\n4: Okosa okosa!\n5: não consta o nome do número.\n6: Okosa okosa okosa!\n(Fim da descrição)\nSegundo o padrão de contagem indicado na figura, as representações dos\nnumerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
@@ -1500,17 +546,18 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 168,
-      "pagina": 27,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 148,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 169,
-    "enunciado": "Um tipo de semente necessita de bastante água nos\ndois primeiros meses após o plantio. Um produtor pretende\nestabelecer o melhor momento para o plantio desse tipo de\nsemente, nos meses de outubro a março. Após consultar\na previsão do índice mensal de precipitação de chuva\n(ImPC) da região onde ocorrerá o plantio, para o período\nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n• outubro/2020: ImPC = 250 mm;\n• novembro/2020: ImPC = 150 mm;\n• dezembro/2020: ImPC = 200 mm;\n• janeiro/2021: ImPC = 450 mm;\n• fevereiro/2021: ImPC = 100 mm;\n• março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher\ndois meses consecutivos em que a média mensal de\nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar\nesse tipo de semente?",
+    "numero": 149,
+    "enunciado": "Um tipo de semente necessita de bastante água nos dois primeiros meses após\no plantio. Um produtor pretende estabelecer o melhor momento para o plantio\ndesse tipo de semente, nos meses de outubro a março. Após consultar a\nprevisão do índice mensal de precipitação de chuva (ImPC) da região onde\nocorrerá o plantio, para o período chuvoso de 2020/2021, ele obteve os\nseguintes dados:\n• outubro/2020: ImPC é igual a 250 milímetros;\n• novembro/2020: ImPC é igual a 150 milímetros;\n• dezembro/2020: ImPC é igual a 200 milímetros;\n• janeiro/2021: ImPC é igual a 450 milímetros;\n• fevereiro/2021: ImPC é igual a 100 milímetros;\n• março/2021: ImPC é igual a 200 milímetros.\nCom base nessas previsões, ele precisa escolher dois meses consecutivos em\nque a média mensal de precipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar esse tipo de\nsemente?",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
@@ -1540,10 +587,7 @@
       "faixa": "Médio"
     },
     "habilidade": 30,
-    "imagens": [
-      "https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png",
-      "https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png"
-    ],
+    "imagens": [],
     "materia": "Matemática",
     "materiaOficial": true,
     "fonte": {
@@ -1551,43 +595,191 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 169,
-      "pagina": 27,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 149,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 171,
-    "enunciado": "Para concretar a laje de sua residência, uma pessoa\ncontratou uma construtora. Tal empresa informa que o\npreço y do concreto bombeado é composto de duas\npartes: uma fixa, chamada de taxa de bombeamento,\ne uma variável, que depende do volume x de concreto\nutilizado. Sabe-se que a taxa de bombeamento custa\nR$ 500,00 e que o metro cúbico do concreto bombeado\né de R$ 250,00.",
+    "numero": 150,
+    "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de\nlei, em etapas. Inicialmente, esculpe um cone reto com 36 centímetros de\naltura e diâmetro da base medindo 18 centímetros. Em seguida, remove desse\ncone um cone menor, cujo diâmetro da base mede 6 centímetros obtendo,\nassim, um tronco de cone, conforme ilustrado na figura.\nDescrição da imagem: A imagem é formada por duas figuras. A figura à\nesquerda apresenta um cone circular reto, com diâmetro da base igual a 18\ncentímetros e altura igual a 36 centímetros. Nele está destacado um cone\ncircular reto, de mesmo vértice e mesmo eixo de simetria mas altura menor, e\ncujo diâmetro da base é igual a 6 centímetros.\nA figura à direita mostra o tronco de cone, obtido pela retirada do cone de\naltura menor do cone de altura maior, do qual foi removido também um\ncilindro circular reto, de diâmetro igual a 6 centímetros, com o mesmo eixo de\nsimetria que o cone original. (Fim da descrição)\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de\ndiâmetro 6 centímetros, cujo eixo de simetria é o mesmo do cone original.\nDessa forma, ao final, a escultura tem a forma de um tronco de cone com uma\nperfuração cilíndrica de base a base.\nO tipo de madeira utilizada para produzir essa escultura tem massa igual a\n0,6 grama por centímetro cúbico de volume. Utilize 3 como aproximação para\npi.\nQual é a massa, em grama, dessa escultura?",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "expressão que representa o preço y em função do volume x, em metro cúbico, é"
+        "texto": "1198,8"
       },
       {
         "letra": "B",
-        "texto": "y = 500x"
+        "texto": "1296,0"
       },
       {
         "letra": "C",
-        "texto": "y = 750x"
+        "texto": "1360,8"
       },
       {
         "letra": "D",
-        "texto": "y = 250x + 500"
+        "texto": "4665,6"
       },
       {
         "letra": "E",
-        "texto": "y = 500x + 250"
+        "texto": "4860,0"
       }
     ],
-    "resposta": "D",
+    "resposta": "B",
     "dificuldade": {
-      "b": 0.86032,
-      "escala": 586,
+      "b": 2.44818,
+      "escala": 745,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 150,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 151,
+    "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores:\nProdução e Administração. Os funcionários de um mesmo setor recebem\nsalários com valores iguais. O quadro apresenta a quantidade de funcionários\npor setor e seus respectivos salários.\nDescrição do quadro: Quadro com três colunas, nesta ordem: setor;\nquantidade de funcionários e salário, em real.\nProdução; 75 funcionários e 2000,00 reais de salário.\nAdministração; 25 funcionários e 7000,00 reais de salário.\n(Fim da descrição)\nA média dos salários dos 100 funcionários dessa empresa, em real, é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2000,00."
+      },
+      {
+        "letra": "B",
+        "texto": "2500,00."
+      },
+      {
+        "letra": "C",
+        "texto": "3250,00."
+      },
+      {
+        "letra": "D",
+        "texto": "4500,00."
+      },
+      {
+        "letra": "E",
+        "texto": "9000,00."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.08025,
+      "escala": 608,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 151,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 152,
+    "enunciado": "Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção\nem que cada cliente que realizar uma compra pode ganhar um voucher para\nser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa\nretirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B\ndisponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas.\nAtualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na\nurna A é igual a 20 por cento e a probabilidade de se escolher uma bolinha\npreta na urna B é 25 por cento. Ganha o voucher o cliente que retirar duas\nbolinhas pretas, uma de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a promoção ser viável\naos negócios, era preciso alterar a probabilidade de acerto do cliente sem\nalterar a regra da promoção. Para isso, resolveu alterar a quantidade de\nbolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar\no voucher passasse a ser menor ou igual a 1 por cento. Sabe-se que a urna B\ntem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a\nmesma probabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o gerente deve adicionar à\nurna B?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20"
+      },
+      {
+        "letra": "B",
+        "texto": "60"
+      },
+      {
+        "letra": "C",
+        "texto": "64"
+      },
+      {
+        "letra": "D",
+        "texto": "68"
+      },
+      {
+        "letra": "E",
+        "texto": "80"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.91942,
+      "escala": 792,
+      "faixa": "Difícil"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 152,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 153,
+    "enunciado": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa,\numa vez que, a partir da primeira dose, a pessoa já começa a ter perda de\nsensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção\ndo álcool depender de cada pessoa e de como o organismo consegue\nmetabolizar a substância, ao final da primeira hora após a ingestão, a\nconcentração de álcool (C) no sangue corresponde a aproximadamente 90 por\ncento da quantidade (q) de álcool ingerida, e a eliminação total dessa\nconcentração pode demorar até 12 horas.\nNessas condições, ao final da primeira hora após a ingestão da quantidade q\nde álcool, a concentração C dessa substância no sangue é expressa\nalgebricamente por",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C é igual a 0,9 vezes q"
+      },
+      {
+        "letra": "B",
+        "texto": "C é igual a 0,1 vezes q"
+      },
+      {
+        "letra": "C",
+        "texto": "C é igual a 1 menos 0,1 vezes q"
+      },
+      {
+        "letra": "D",
+        "texto": "C é igual a 1 menos 0,9 vezes q"
+      },
+      {
+        "letra": "E",
+        "texto": "C é igual a q menos 10"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.45121,
+      "escala": 645,
       "faixa": "Médio"
     },
     "habilidade": 19,
@@ -1599,94 +791,47 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 171,
-      "pagina": 28,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 153,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 173,
-    "enunciado": "Um supermercado conta com cinco caixas disponíveis\npara pagamento. Foram instaladas telas que apresentam\no tempo médio gasto por cada caixa para iniciar e finalizar o\natendimento de cada cliente, e o número de pessoas\npresentes na fila de cada caixa em tempo real. Um cliente,\nna hora de passar sua compra, sabendo que cada um\ndos cinco caixas iniciará um novo atendimento naquele\nmomento, pretende gastar o menor tempo possível de\nespera na fila. Ele observa que as telas apresentavam as\ninformações a seguir.\n• Caixa I: atendimento 12 minutos, 5 pessoas na fila.\n• Caixa II: atendimento 6 minutos, 9 pessoas na fila.\n• Caixa III: atendimento 5 minutos, 6 pessoas na fila.\n• Caixa IV: atendimento 15 minutos, 2 pessoas na fila.\n• Caixa V: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa",
+    "numero": 154,
+    "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos\nvalores de duas criptomoedas A e B em relação ao tempo.\nDescrição do gráfico: Gráfico cartesiano que relaciona os valores, em milhar\nde real, de duas criptomoedas, A e B, com o tempo, em hora, no qual estão\ndestacados nove pontos que representam valores dessas criptomoedas em\nnove instantes. O eixo horizontal representa os valores da criptomoeda A, e o\neixo vertical, os valores da criptomoeda B para esses nove instantes.\n9 horas: (3 ; 0,5)\n10 horas: (2 ; 2)\n11 horas: (4 ; 4)\n12 horas: (5,5 ; 3)\n13 horas: (6 ; 1,5)\n14 horas: (3,5 ; 2)\n15 horas: (2,5 ; 4)\n16 horas: (1 ; 5)\n17 horas: (0,5 ; 3,5)\n(Fim da descrição)\nDurante horas consecutivas, esses valores foram observados em nove\ninstantes, representados por horas exatas.\nEm quantos desses instantes a criptomoeda A estava mais valorizada do que a\ncriptomoeda B?",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "I."
+        "texto": "3"
       },
       {
         "letra": "B",
-        "texto": "II."
+        "texto": "4"
       },
       {
         "letra": "C",
-        "texto": "III."
+        "texto": "6"
       },
       {
         "letra": "D",
-        "texto": "IV."
+        "texto": "7"
       },
       {
         "letra": "E",
-        "texto": "V."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 0.13877,
-      "escala": 514,
-      "faixa": "Fácil"
-    },
-    "habilidade": 17,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 173,
-      "pagina": 29,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 174,
-    "enunciado": "As figuras pintadas no quadro da sala de estar de\numa residência representam as silhuetas de parte das\ntorres de um castelo e, ao fundo, a de uma lua cheia.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta."
-      },
-      {
-        "letra": "B",
-        "texto": "setor circular."
-      },
-      {
-        "letra": "C",
-        "texto": "segmento circular."
-      },
-      {
-        "letra": "D",
-        "texto": "triângulo isósceles."
-      },
-      {
-        "letra": "E",
-        "texto": "arco de circunferência."
+        "texto": "9"
       }
     ],
     "resposta": "B",
     "dificuldade": {
-      "b": 1.91643,
-      "escala": 692,
+      "b": 0.86167,
+      "escala": 586,
       "faixa": "Médio"
     },
-    "habilidade": 7,
+    "habilidade": 20,
     "imagens": [],
     "materia": "Matemática",
     "materiaOficial": true,
@@ -1695,44 +840,684 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 174,
-      "pagina": 29,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 154,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 175,
-    "enunciado": "Na planta baixa de um clube, a piscina é representada\npor um quadrado cuja área real mede 400 m². Ao redor\ndessa piscina, será construída uma calçada, de largura\nconstante igual a 5 m.\n5 m                     Calçada\n5 m\nPiscina\n5 m\n5 m\nQual é a medida da área, em metro quadrado, ocupada\npela calçada?",
+    "numero": 155,
+    "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em\numa indústria, são adotadas medidas preventivas de acordo com a máquina\nque o funcionário opera e o nível N de intensidade do som, medido em decibel\n(dB), a que o operário é exposto, sendo N igual a log na base 10 de I elevado\na 10 menos log na base 10 de I índice 0 elevado a 10, I a intensidade do som\ne I índice 0 igual a 10 elevado a menos 12, watts por metro quadrado.\nQuando o som é considerado baixo, ou seja, N é igual a 48 decibéis ou menos,\ndeve ser utilizada a medida preventiva 1. No caso de o som ser moderado,\nquando N está no intervalo (48 decibéis, 55 decibéis), deve ser utilizada a\nmedida preventiva 2. Quando o som é moderado alto, que equivale a N no\nintervalo (55 decibéis, 80 decibéis), a medida preventiva a ser usada é a 3. Se\nN estiver no intervalo (80 decibéis, 115 decibéis), quando o som é considerado\nalto, deve ser utilizada a medida preventiva 4. E se o som é considerado muito\nalto, com N maior que 115 decibéis, deve-se utilizar a medida preventiva 5.\nUma nova máquina, com I igual a 8 vezes 10 elevado a menos 8, watts por\nmetro quadrado, foi adquirida e será classificada de acordo com o nível de\nruído que produz.\nConsidere 0,3 como aproximação para log na base 10 de 2.\nO funcionário que operará a nova máquina deverá adotar a medida preventiva",
+    "descricoesDeFiguras": [],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "1 000"
+        "texto": "1."
       },
       {
         "letra": "B",
-        "texto": "900"
+        "texto": "2."
       },
       {
         "letra": "C",
-        "texto": "600"
+        "texto": "3."
       },
       {
         "letra": "D",
-        "texto": "500"
+        "texto": "4."
       },
       {
         "letra": "E",
-        "texto": "400"
+        "texto": "5."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.00088,
+      "escala": 800,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 155,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 156,
+    "enunciado": "Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste\nano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de\ncada número de inscrição será realizado em etapas, utilizando-se duas urnas.\nDa primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9,\nque representará o algarismo das unidades do número de inscrição a ser\nsorteado e, em seguida, da segunda urna, será sorteada uma bola para\nrepresentar o algarismo das dezenas desse número. Depois do primeiro\nsorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão\npresentes na segunda urna serão apenas aquelas cujos números formam, com\no algarismo já sorteado, um número de 01 a 55.\nAs probabilidades de os candidatos de inscrição número 50 e 02 serem\nsorteados são, respectivamente,",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um cinquenta avos e um sessenta avos."
+      },
+      {
+        "letra": "B",
+        "texto": "um cinquenta avos e um cinquenta avos."
+      },
+      {
+        "letra": "C",
+        "texto": "um cinquenta avos e um décimo."
+      },
+      {
+        "letra": "D",
+        "texto": "um cinquenta e cinco avos e um cinquenta e quatro avos."
+      },
+      {
+        "letra": "E",
+        "texto": "um centésimo e um centésimo."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.50464,
+      "escala": 750,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 156,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 157,
+    "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da\nprofundidade em um rio, sendo L índice 0 a intensidade na sua superfície.\nDescrição do esquema: O esquema apresenta a intensidade luminosa de\nacordo com a profundidade, em metro, de um rio.\nA 0 metro: L índice 0; a 1 metro: dois terços de L índice 0; a 2 metros: quatro\nnonos de L índice 0; e a 3 metros: oito vinte e sete avos de L índice 0. (Fim da\ndescrição)\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na\nprofundidade, segundo o mesmo padrão do esquema.\nA intensidade luminosa correspondente à profundidade de 6 metros é igual a",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um nono de L índice 0."
+      },
+      {
+        "letra": "B",
+        "texto": "fração de numerador 16 e denominador 27 vezes L índice 0."
+      },
+      {
+        "letra": "C",
+        "texto": "fração de numerador 32 e denominador 243 vezes L índice 0."
+      },
+      {
+        "letra": "D",
+        "texto": "fração de numerador 64 e denominador 729 vezes L índice 0."
+      },
+      {
+        "letra": "E",
+        "texto": "fração de numerador 128 e denominador 2187 vezes L índice 0."
       }
     ],
     "resposta": "D",
     "dificuldade": {
-      "b": 1.4869,
-      "escala": 649,
+      "b": 0.7783,
+      "escala": 578,
       "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 157,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 158,
+    "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante\ndiário arrecadado, em milhar de real, poderia ser calculado pela expressão\nV de x é igual a, abre parêntese, x ao quadrado sobre 4, fecha parêntese,\nmenos 10 vezes x mais 105, em que os valores de x representam os dias do\nmês, variando de 1 a 30.\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual\né o menor montante diário V índice 0 arrecadado ao longo do mês e classificar\no desempenho conforme as categorias apresentadas a seguir, em que as\nquantidades estão expressas em milhar de real.\nÓtimo: V índice 0 maior ou igual a 24\nBom: 20 menor ou igual a V índice 0 menor que 24\nNormal: 10 menor ou igual a V índice 0 menor que 20\nRuim: 4 menor ou igual a V índice 0 menor que 10\nPéssimo: V índice 0 menor que 4\nNo caso analisado, qual seria a classificação do desempenho da empresa?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ótimo."
+      },
+      {
+        "letra": "B",
+        "texto": "Bom."
+      },
+      {
+        "letra": "C",
+        "texto": "Normal."
+      },
+      {
+        "letra": "D",
+        "texto": "Ruim."
+      },
+      {
+        "letra": "E",
+        "texto": "Péssimo."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.67185,
+      "escala": 767,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 158,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 159,
+    "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística,\npropôs uma atividade. O objetivo era verificar o percentual de estudantes com\nmassa corporal abaixo da média e altura acima da média de um grupo de\nestudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma\namostra de dez estudantes, anotando as medidas observadas. O gráfico\napresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na\natividade.\nDescrição do gráfico: Gráfico de pontos com o eixo horizontal indicando a\nmassa corporal, em quilograma; e o eixo vertical, a altura, em metro.\nOs pontos do gráfico têm as seguintes coordenadas:\nPonto 1: (50; 1,6)\nPonto 2: (58; 1,65)\nPonto 3: (60; 1,65)\nPonto 4: (63; 1,68)\nPonto 5: (70; 1,7)\nPonto 6: (85; 1,5)\nPonto 7: (85; 1,65)\nPonto 8: (90; 1,63)\nPonto 9: (108; 1,75)\nPonto 10: (120; 1,7)\n(Fim da descrição)\nApós a coleta dos dados, os estudantes calcularam a média dos valores\nobtidos, referentes à massa corporal e à altura, obtendo, respectivamente,\n80 quilogramas e 1,65 metro.\nQual é o percentual de estudantes dessa amostra com massa corporal abaixo\nda média e altura acima da média?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10"
+      },
+      {
+        "letra": "B",
+        "texto": "20"
+      },
+      {
+        "letra": "C",
+        "texto": "30"
+      },
+      {
+        "letra": "D",
+        "texto": "50"
+      },
+      {
+        "letra": "E",
+        "texto": "70"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.23798,
+      "escala": 624,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 159,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 160,
+    "enunciado": "Um pescador tem um custo fixo diário de 900 reais com combustível, iscas,\nmanutenção de seu barco e outras pequenas despesas. Ele vende cada\nquilograma de peixe por 5 reais. Sua meta é obter um lucro mínimo de\n800 reais por dia. Sozinho, ele consegue, ao final de um dia de trabalho,\npescar 180 quilogramas de peixe, o que é suficiente apenas para cobrir o\ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um\n250 reais por dia de trabalho. Além desse valor, 4 por cento da receita obtida\npela venda de peixe é repartida igualmente entre os ajudantes. Considerando\no tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com\num ajudante a pesca diária é de 300 quilogramas e que, a partir do segundo\najudante contratado, aumenta-se em 100 quilogramas a quantidade de peixe\npescada por ajudante em um dia de trabalho.\nA quantidade mínima de ajudantes que esse pescador precisa contratar para\nconseguir o lucro diário pretendido é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1."
+      },
+      {
+        "letra": "B",
+        "texto": "2."
+      },
+      {
+        "letra": "C",
+        "texto": "3."
+      },
+      {
+        "letra": "D",
+        "texto": "4."
+      },
+      {
+        "letra": "E",
+        "texto": "5."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.55621,
+      "escala": 756,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 160,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 161,
+    "enunciado": "Um agricultor é informado sobre um método de proteção para sua lavoura que\nconsiste em inserir larvas específicas, de rápida reprodução. A reprodução\ndessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias\ne, para evitar eventuais desequilíbrios, é possível cessar essa reprodução\naplicando-se um produto X. O agricultor decide iniciar esse método com\n100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de\nexatamente 1 litro para cada população de 200.000 larvas. A quantidade total\ndo produto X de que ele dispõe deverá ser aplicada de uma única vez.\nQuantos dias após iniciado esse método o agricultor deverá aplicar o\nproduto X?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2"
+      },
+      {
+        "letra": "B",
+        "texto": "4"
+      },
+      {
+        "letra": "C",
+        "texto": "6"
+      },
+      {
+        "letra": "D",
+        "texto": "12"
+      },
+      {
+        "letra": "E",
+        "texto": "18"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.27709,
+      "escala": 628,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 161,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 162,
+    "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao\nusuário que criasse uma senha, sendo permitido o uso somente dos seguintes\ncaracteres:\nalgarismos de 0 a 9;\n26 letras minúsculas do alfabeto;\n26 letras maiúsculas do alfabeto;\n6 caracteres especiais: exclamação, arroba, hashtag, cifrão, asterisco,\ne comercial.\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\ntipo 1: formada por quaisquer quatro caracteres distintos, escolhidos dentre os\npermitidos;\ntipo 2: formada por cinco caracteres distintos, iniciando por três letras,\nseguidas por um algarismo e, ao final, um caractere especial;\ntipo 3: formada por seis caracteres distintos, iniciando por duas letras,\nseguidas por dois algarismos e, ao final, dois caracteres especiais.\nConsidere p índice 1, p índice 2 e p índice 3 as probabilidades de se\ndescobrirem ao acaso, na primeira tentativa, as senhas dos tipos 1, 2 e 3,\nrespectivamente.\nNessas condições, o tipo de senha que apresenta a menor probabilidade de ser\ndescoberta ao acaso, na primeira tentativa, é o",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tipo 1, pois p índice 1 menor que p índice 2 menor que p índice 3."
+      },
+      {
+        "letra": "B",
+        "texto": "tipo 1, pois tem menor quantidade de caracteres."
+      },
+      {
+        "letra": "C",
+        "texto": "tipo 2, pois tem maior quantidade de letras."
+      },
+      {
+        "letra": "D",
+        "texto": "tipo 3, pois p índice 3 menor que p índice 2 menor que p índice 1."
+      },
+      {
+        "letra": "E",
+        "texto": "tipo 3, pois tem maior quantidade de caracteres."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.38012,
+      "escala": 738,
+      "faixa": "Difícil"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 162,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 163,
+    "enunciado": "Em primeiro de junho, um canil que cria 98 cães tem, em estoque, a\nquantidade exata de ração para fornecer, diariamente, 1000 gramas para cada\nanimal durante 30 dias. No início do décimo primeiro dia o canil recebeu dois\nnovos cães. Com isso, a quantidade de ração diária por animal teve que ser\nrecalculada para que o restante de ração em estoque fosse suficiente para\nalimentar a todos até o fim do mês, garantindo, para cada cão, uma mesma\nporção diária da ração.\nQual a quantidade de ração, em grama, que deverá ser dada diariamente para\ncada cão, do dia 11 de junho até o final desse mês?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "306"
+      },
+      {
+        "letra": "B",
+        "texto": "500"
+      },
+      {
+        "letra": "C",
+        "texto": "510"
+      },
+      {
+        "letra": "D",
+        "texto": "653"
+      },
+      {
+        "letra": "E",
+        "texto": "980"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.50258,
+      "escala": 650,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 163,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 164,
+    "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se\nencontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade\nconstante e no sentido horário, a altura da cadeira onde se encontra a pessoa\nP, em relação ao solo, vai se alterando.\nO gráfico que melhor representa a variação dessa altura, em função do tempo,\ncontado a partir do instante em que a cadeira da pessoa P se encontra na\nposição mais alta da roda-gigante, é\nDescrição das alternativas: Em cada alternativa há a representação de um\ngráfico cartesiano, em que o eixo horizontal representa o tempo; e o eixo\nvertical representa a altura da cadeira onde está a pessoa P em relação ao\nsolo. Todos os gráficos são curvas contínuas que oscilam de um valor máximo\na um valor mínimo, sendo o valor mínimo positivo, e iniciam no ponto de\nabscissa 0 e ordenada igual ao valor máximo.",
+    "descricoesDeFiguras": [
+      "A figura representa uma roda-gigante, cujos suportes estão apoiados ao solo, no instante em que a cadeira onde se encontra uma pessoa P está no ponto mais alto dessa roda. Uma seta indica que a roda-gigante gira no sentido horário."
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O gráfico é representado por uma cossenoide."
+      },
+      {
+        "letra": "B",
+        "texto": "O gráfico é representado por uma linha poligonal formada por 4 segmentos de reta de mesmo comprimento, decrescentes e crescentes alternadamente."
+      },
+      {
+        "letra": "C",
+        "texto": "O gráfico é representado por uma linha poligonal formada por 7 segmentos de reta, 4 deles decrescentes e crescentes alternadamente e de mesmo comprimento, interligados por 3 segmentos de reta horizontais de mesmo comprimento."
+      },
+      {
+        "letra": "D",
+        "texto": "O gráfico é representado por 3 arcos de parábolas com concavidade para baixo, formando uma única curva contínua."
+      },
+      {
+        "letra": "E",
+        "texto": "O gráfico é representado por 2 arcos de parábolas com concavidade para cima, formando uma única curva contínua. (Fim da descrição)"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.52433,
+      "escala": 652,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 164,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 165,
+    "enunciado": "No alojamento de uma universidade, há alguns quartos com o padrão superior\nao dos demais. Um desses quartos ficou disponível, e muitos estudantes se\ncandidataram para morar no local. Para escolher quem ficará com o quarto,\num sorteio será realizado. Para esse sorteio, cartões individuais com os nomes\nde todos os estudantes inscritos serão depositados em uma urna, sendo que,\npara cada estudante de primeiro ano, será depositado um único cartão com\nseu nome; para cada estudante de segundo ano, dois cartões com seu nome;\ne, para cada estudante de terceiro ano, três cartões com seu nome. Foram\ninscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de\nterceiro ano. Todos os cartões têm a mesma probabilidade de serem\nsorteados.\nQual a probabilidade de o vencedor do sorteio ser um estudante de\nterceiro ano?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um meio."
+      },
+      {
+        "letra": "B",
+        "texto": "Um terço."
+      },
+      {
+        "letra": "C",
+        "texto": "Um oitavo."
+      },
+      {
+        "letra": "D",
+        "texto": "Dois nonos."
+      },
+      {
+        "letra": "E",
+        "texto": "Três oitavos."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.3682,
+      "escala": 637,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 165,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 166,
+    "enunciado": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório\nde formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre\nabastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador\ndesse vilarejo consome, em média, 200 litros de água por dia.\nNo mês de junho de um determinado ano, o vilarejo festejou o dia do seu\npadroeiro e houve um gasto extra de água nos primeiros 20 dias. Passado esse\nperíodo, as pessoas verificaram a quantidade de água presente no reservatório\ne constataram que o nível da coluna de água estava em 1,5 metro. Decidiram,\nentão, fazer um racionamento de água durante os 10 dias seguintes.\nConsidere 3 como aproximação para pi.\nQual é a quantidade mínima de água, em litro, que cada morador, em média,\ndeverá economizar por dia, de modo que o reservatório não fique sem água\nnos próximos 10 dias?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50"
+      },
+      {
+        "letra": "B",
+        "texto": "60"
+      },
+      {
+        "letra": "C",
+        "texto": "80"
+      },
+      {
+        "letra": "D",
+        "texto": "140"
+      },
+      {
+        "letra": "E",
+        "texto": "150"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.42208,
+      "escala": 742,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 166,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 167,
+    "enunciado": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os\nfilhos de seus funcionários, com 10 salas, cada uma com capacidade para\natender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos\nfuncionários inscritos, enquanto os não contemplados pelo sorteio formam uma\nlista de espera. No ano passado, a lista de espera teve 400 nomes e, neste\nano, esse número cresceu 10 por cento.\nA direção da fábrica realizou uma pesquisa e constatou que a lista de espera\npara o próximo ano terá a mesma quantidade de nomes da lista de espera\ndeste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a\ncreche, também com capacidade de atendimento para 10 crianças cada, de\nmodo que o número de nomes na lista de espera no próximo ano seja 25 por\ncento menor que o deste ano.\nO número mínimo de salas que deverão ser construídas é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10."
+      },
+      {
+        "letra": "B",
+        "texto": "11."
+      },
+      {
+        "letra": "C",
+        "texto": "13."
+      },
+      {
+        "letra": "D",
+        "texto": "30."
+      },
+      {
+        "letra": "E",
+        "texto": "33."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.52611,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 167,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 168,
+    "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de\nágua. Uma cisterna como essa, na forma de cilindro circular reto com 3 metros\nquadrados de área da base, foi abastecida por um curso-d'água com vazão\nconstante. O seu proprietário registrou a altura do nível da água no interior da\ncisterna durante o abastecimento em diferentes momentos de um mesmo dia,\nconforme o quadro.\nDescrição do quadro: Quadro que fornece o nível da água, em metro, em\nquatro horários.\n6 horas: 0,5 metro\n8 horas: 1,1 metro\n12 horas: 2,3 metros\n15 horas: 3,2 metros\n(Fim da descrição)\nDescrição da foto: Foto em preto e branco de pessoas construindo uma\ncisterna em frente a uma casa. (Fim da descrição)\nQual foi a vazão, em metro cúbico por hora, do curso-d'água que abasteceu a\ncisterna?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,3"
+      },
+      {
+        "letra": "B",
+        "texto": "0,5"
+      },
+      {
+        "letra": "C",
+        "texto": "0,9"
+      },
+      {
+        "letra": "D",
+        "texto": "1,8"
+      },
+      {
+        "letra": "E",
+        "texto": "2,7"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.23364,
+      "escala": 723,
+      "faixa": "Difícil"
     },
     "habilidade": 12,
     "imagens": [],
@@ -1743,192 +1528,49 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 175,
-      "pagina": 29,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 168,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   },
   {
-    "numero": 176,
-    "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um\naplicativo instalado em seu celular para monitorar a\nvariação da intensidade do sinal de internet recebido\npelo aparelho durante o deslocamento. Chegando ao seu\ndestino, o aplicativo forneceu este gráfico:\n0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30\nTempo (min)\nPor quantos minutos, durante essa caminhada, o celular\ndessa pessoa ficou sem receber sinal de internet?",
+    "numero": 169,
+    "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem\nrepresentada na figura. O ponto Q índice 1 representa a posição de um jogador\nque está com a bola, os pontos Q índice 2, Q índice 3, Q índice 4,\nQ índice 5 e Q índice 6 também indicam posições de jogadores da mesma\nequipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No\nmomento da partida retratado, o jogador Q índice 1 tem a posse da bola, que\nserá passada para um dos outros jogadores das posições Q índice n, tal que n\npertence ao conjunto formado pelos elementos 2, 3, 4, 5, 6, cujo ângulo\nA, Q índice n, B tenha a mesma medida do ângulo alfa que é igual a ângulo A,\nQ índice 1, B.\n\nQual é o jogador que receberá a bola?",
+    "descricoesDeFiguras": [
+      "A figura apresenta um campo de futebol, no qual os pontos A e B marcam as extremidades de uma das traves; o ponto Q índice 1 é vértice do triângulo A, Q índice 1, B, e o ângulo A, Q índice 1, B mede alfa graus. A figura apresenta, também, cinco circunferências: circunferência 1 passa pelos pontos A, Q índice 4 e B; circunferência 2 passa pelos pontos A, Q índice 2 e B; circunferência 3 passa pelos pontos A, Q índice 3, Q índice 1 e B; circunferência 4 passa pelos pontos A, Q índice 5 e B; circunferência 5 passa pelos pontos A, Q índice 6 e B. O raio da circunferência 1 é menor que o raio da circunferência 2, que é menor que o raio da circunferência 3, que é menor que o raio da circunferência 4, que é menor que o raio da circunferência 5."
+    ],
     "alternativas": [
       {
         "letra": "A",
-        "texto": "6"
+        "texto": "Q índice 2"
       },
       {
         "letra": "B",
-        "texto": "8"
+        "texto": "Q índice 3"
       },
       {
         "letra": "C",
-        "texto": "10"
+        "texto": "Q índice 4"
       },
       {
         "letra": "D",
-        "texto": "14"
+        "texto": "Q índice 5"
       },
       {
         "letra": "E",
-        "texto": "24"
-      }
-    ],
-    "resposta": "A",
-    "dificuldade": {
-      "b": 0.3783,
-      "escala": 538,
-      "faixa": "Fácil"
-    },
-    "habilidade": 20,
-    "imagens": [
-      "https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png"
-    ],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 176,
-      "pagina": 29,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 178,
-    "enunciado": "A figura representa uma escada com três degraus, cons\nNessa escada, pisos e espelhos têm formato retangu\nlados adjacentes são perpendiculares. Pisos, espelhos e",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "área a ser revestida em cerâmica, em metro quadrado,"
-      },
-      {
-        "letra": "B",
-        "texto": "1,35."
-      },
-      {
-        "letra": "C",
-        "texto": "1,65."
-      },
-      {
-        "letra": "D",
-        "texto": "1,80."
-      },
-      {
-        "letra": "E",
-        "texto": "1,95."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": 1.98395,
-      "escala": 698,
-      "faixa": "Médio"
-    },
-    "habilidade": 8,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 178,
-      "pagina": 30,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 179,
-    "enunciado": "Uma pessoa comprou um ingresso para o cinema em\nbidimensional do posicionamento das poltronas, conform\na subir uma das escadas e parou na posição indicada pe\ne observou que, para encontrar sua poltrona, deveria pa\ndireção norte por mais quatro fileiras e olhar à sua direita\nJ\nI\nH\nG\nF\nE\nD\nC\nB\nA\n123            456\nTe\nNesse cinema, as poltronas são identificadas por u\nposição da poltrona na fileira, respectivamente.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "poltrona dessa pessoa é a identificada por"
-      },
-      {
-        "letra": "B",
-        "texto": "H1."
-      },
-      {
-        "letra": "C",
-        "texto": "H6."
-      },
-      {
-        "letra": "D",
-        "texto": "I1."
-      },
-      {
-        "letra": "E",
-        "texto": "I6."
-      }
-    ],
-    "resposta": "E",
-    "dificuldade": {
-      "b": -0.28917,
-      "escala": 471,
-      "faixa": "Fácil"
-    },
-    "habilidade": 6,
-    "imagens": [],
-    "materia": "Matemática",
-    "materiaOficial": true,
-    "fonte": {
-      "exame": "ENEM",
-      "ano": 2023,
-      "dia": 2,
-      "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
-      "numero": 179,
-      "pagina": 31,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
-    }
-  },
-  {
-    "numero": 180,
-    "enunciado": "O metrô de um município oferece dois tipos de tíquetes\nem cartelas, cada qual com nove tíquetes da mesma co\numa cartela de tíquetes vermelhos são vendidas por R$ 32\nde um tíquete vermelho é igual ao preço de um tíquete ve\nQual o preço, em real, de uma cartela de tíquetes vermel",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "4,68"
-      },
-      {
-        "letra": "B",
-        "texto": "6,30"
-      },
-      {
-        "letra": "C",
-        "texto": "9,30"
-      },
-      {
-        "letra": "D",
-        "texto": "10,50"
-      },
-      {
-        "letra": "E",
-        "texto": "10,65"
+        "texto": "Q índice 6"
       }
     ],
     "resposta": "B",
     "dificuldade": {
-      "b": 1.82985,
-      "escala": 683,
-      "faixa": "Médio"
+      "b": 2.1908,
+      "escala": 719,
+      "faixa": "Difícil"
     },
-    "habilidade": 21,
+    "habilidade": 9,
     "imagens": [],
     "materia": "Matemática",
     "materiaOficial": true,
@@ -1937,12 +1579,558 @@
       "ano": 2023,
       "dia": 2,
       "area": "MT",
-      "caderno": 5,
-      "cor": "AMARELA",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 169,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 170,
+    "enunciado": "O triângulo da figura é denominado triângulo mágico. Nos círculos,\nescrevem-se os números de 1 a 6, sem repetição, com um número em cada\ncírculo. O objetivo é distribuir os números de forma que a soma dos números\nem cada lado do triângulo seja igual.\n\nConsidere que os números colocados nos vértices do triângulo estejam em\nprogressão aritmética de razão igual a 2.\nNas condições propostas, quais as possíveis soluções para as somas dos\nnúmeros que formam os lados do triângulo?",
+    "descricoesDeFiguras": [
+      "A figura apresenta um triângulo. Em cada vértice e em cada ponto médio dos lados do triângulo, há um círculo."
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7."
+      },
+      {
+        "letra": "B",
+        "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9."
+      },
+      {
+        "letra": "C",
+        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9."
+      },
+      {
+        "letra": "D",
+        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12."
+      },
+      {
+        "letra": "E",
+        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.88674,
+      "escala": 689,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 170,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 171,
+    "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois\nprodutos similares (1 e 2). Para isso, passou a verificar o número de unidades\nvendidas de cada um desses produtos em cada mês. Os resultados dessa\nverificação, para os meses de abril a junho, são apresentados na tabela.\nDescrição da tabela: Tabela que apresenta as quantidades de unidades\nvendidas em abril, em maio e em junho, dos produtos 1 e 2.\nProduto 1: 80 em abril, 90 em maio e 100 em junho.\nProduto 2: 190 em abril, 170 em maio e 150 em junho. (Fim da descrição)\nO gerente estava decidido a cessar a produção do produto 2 no mês seguinte\nàquele em que as vendas do produto 1 superassem as do produto 2.\nSuponha que a variação na quantidade de unidades vendidas dos produtos 1 e\n2 se manteve, mês a mês, como no período representado na tabela.\nEm qual mês o produto 2 parou de ser produzido?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Junho."
+      },
+      {
+        "letra": "B",
+        "texto": "Julho."
+      },
+      {
+        "letra": "C",
+        "texto": "Agosto."
+      },
+      {
+        "letra": "D",
+        "texto": "Setembro."
+      },
+      {
+        "letra": "E",
+        "texto": "Outubro."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.75696,
+      "escala": 676,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 171,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 172,
+    "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de\nviagens realizadas durante o dia por todos os 160 motoristas cadastrados em\nseu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um\ngráfico de barras, no qual se relacionaram a quantidade de motoristas com a\nquantidade de viagens realizadas até aquele instante do dia.\nDescrição do gráfico: Gráfico de barras que associa o número de viagens\nrealizadas à quantidade de motoristas que realizaram essas viagens.\n1 viagem: 10 motoristas\n2 viagens: 10 motoristas\n3 viagens: 55 motoristas\n4 viagens: 25 motoristas\n5 viagens: 0 motorista\n6 viagens: 50 motoristas\n7 viagens: 10 motoristas\n(Fim da descrição)\nComparando os valores da média, da mediana e da moda da distribuição das\nquantidades de viagens realizadas pelos motoristas cadastrados nessa\nempresa, obtém-se",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mediana igual a média menor que moda."
+      },
+      {
+        "letra": "B",
+        "texto": "mediana igual a moda menor que média."
+      },
+      {
+        "letra": "C",
+        "texto": "mediana menor que média menor que moda."
+      },
+      {
+        "letra": "D",
+        "texto": "moda menor que média menor que mediana."
+      },
+      {
+        "letra": "E",
+        "texto": "moda menor que mediana menor que média."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.19574,
+      "escala": 720,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 172,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 173,
+    "enunciado": "Uma pessoa pratica quatro atividades físicas – caminhar, correr, andar de\nbicicleta e jogar futebol – como parte de seu programa de emagrecimento.\nEssas atividades são praticadas semanalmente de acordo com o quadro, que\napresenta o número de horas diárias por atividade.\nDescrição do quadro: Quadro que apresenta as quantidades de horas diárias\ngastas em quatro atividades: caminhar; correr; andar de bicicleta e jogar\nfutebol, em cinco dias da semana.\nSegunda-feira; 1,0; 0,5; 0,0 e 2,0.\nTerça-feira; 0,5; 1,0; 0,5 e 1,0.\nQuarta-feira; 0,0; 1,5; 1,0 e 0,5.\nQuinta-feira; 0,0; 2,0; 0,0 e 0,0.\nSexta-feira; 0,0; 0,5; 0,0 e 2,5.\n(Fim da descrição)\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o\ngasto calórico com as atividades físicas praticadas for o maior. Para tanto,\nconsidera que os valores dos gastos calóricos das atividades por hora (caloria\npor hora) são os seguintes:\nDescrição do quadro: Quadro apresenta o gasto calórico, em caloria por\nhora, das atividades físicas.\nCaminhar: 248\nCorrer: 764\nAndar de bicicleta: 356\nJogar futebol: 492\n(Fim da descrição)\nO dia da semana em que será comemorado o aniversário é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "segunda-feira."
+      },
+      {
+        "letra": "B",
+        "texto": "terça-feira."
+      },
+      {
+        "letra": "C",
+        "texto": "quarta-feira."
+      },
+      {
+        "letra": "D",
+        "texto": "quinta-feira."
+      },
+      {
+        "letra": "E",
+        "texto": "sexta-feira."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.16539,
+      "escala": 617,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 173,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 174,
+    "enunciado": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas\nde papel ofício proporcional ao número de alunos matriculados. No bimestre\npassado, ela comprou 6000 folhas para serem utilizadas pelos 1200 alunos\nmatriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a\nescola tem, agora, 1150 alunos. A diretora só pode gastar 220 reais nessa\ncompra, e sabe que o fornecedor da escola vende as folhas de papel ofício em\nembalagens de 100 unidades a 4 reais a embalagem. Assim, será preciso\nconvencer o fornecedor a dar um desconto à escola, de modo que seja possível\ncomprar a quantidade total de papel ofício necessária para o bimestre.\nO desconto necessário no preço final da compra, em porcentagem, pertence ao\nintervalo",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(5,0; 5,5)."
+      },
+      {
+        "letra": "B",
+        "texto": "(8,0; 8,5)."
+      },
+      {
+        "letra": "C",
+        "texto": "(11,5; 12,5)."
+      },
+      {
+        "letra": "D",
+        "texto": "(19,5; 20,5)."
+      },
+      {
+        "letra": "E",
+        "texto": "(3,5; 4,0)."
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.9392,
+      "escala": 694,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 174,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 175,
+    "enunciado": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo,\npreservam as proteínas estruturais dos músculos durante a prática de\natividade física e ainda dão força para o cérebro coordenar os movimentos, o\nque de fato tem impacto positivo no desenvolvimento do praticante. O ideal é\nconsumir 1 grama de carboidrato para cada minuto de caminhada.\nUm casal realizará diariamente 30 minutos de caminhada, ingerindo, antes\ndessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o\nconsumo ideal apenas por meio do consumo de pão de fôrma integral, o casal\nplaneja garantir o suprimento de pães para um período de 30 dias\nininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que\ncada uma delas tem 15 gramas de carboidratos.\nA quantidade mínima de pacotes de pão de fôrma necessários para prover o\nsuprimento a esse casal é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1."
+      },
+      {
+        "letra": "B",
+        "texto": "4."
+      },
+      {
+        "letra": "C",
+        "texto": "6."
+      },
+      {
+        "letra": "D",
+        "texto": "7."
+      },
+      {
+        "letra": "E",
+        "texto": "8."
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.98507,
+      "escala": 699,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 175,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 176,
+    "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma\nregião plana. Devido aos fortes ventos, três cabos de aço, de mesmo\ncomprimento, serão instalados para dar sustentação ao mastro. Cada cabo de\naço ficará perfeitamente esticado, com uma extremidade num ponto P do\nmastro, a uma altura h do solo, e a outra extremidade, num ponto no chão,\ncomo mostra a figura.\n\nOs cabos de aço formam um ângulo alfa com o plano do chão.\nPor medida de segurança, há apenas três opções de instalação:\n• opção 1: h é igual a 11 metros e alfa é igual a 30 graus\n• opção 2: h é igual a 12 metros e alfa é igual a 45 graus\n• opção 3: h é igual a 18 metros e alfa é igual a 60 graus\nA opção a ser escolhida é aquela em que a medida dos cabos seja a menor\npossível.\nQual será a medida, em metro, de cada um dos cabos a serem instalados?",
+    "descricoesDeFiguras": [
+      "A figura representa o mastro de uma bandeira instalado perpendicularmente ao solo de uma região plana. No mastro há um ponto P, a uma altura h do solo, que é vértice comum a três triângulos; os outros dois vértices de cada triângulo são: o ponto de fixação do mastro no chão e o ponto de fixação de um cabo no chão. Em cada triângulo, o ângulo oposto ao lado que contém parte do mastro mede alfa."
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fração com numerador 22 vezes raiz quadrada de 3 e denominador 3"
+      },
+      {
+        "letra": "B",
+        "texto": "11 vezes raiz quadrada de 2"
+      },
+      {
+        "letra": "C",
+        "texto": "12 vezes raiz quadrada de 2"
+      },
+      {
+        "letra": "D",
+        "texto": "12 vezes raiz quadrada de 3"
+      },
+      {
+        "letra": "E",
+        "texto": "22"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.26979,
+      "escala": 727,
+      "faixa": "Difícil"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 176,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 177,
+    "enunciado": "Um controlador de voo dispõe de um instrumento que descreve a altitude de\numa aeronave em voo, em função da distância em solo. Essa distância em solo\né a medida na horizontal entre o ponto de origem do voo até o ponto que\nrepresenta a projeção ortogonal da posição da aeronave, em voo, no solo.\nEssas duas grandezas são dadas numa mesma unidade de medida.\nA tela do instrumento representa proporcionalmente as dimensões reais das\ndistâncias associadas ao voo. A figura apresenta a tela do instrumento depois\nde concluída a viagem de um avião, sendo a medida do lado de cada\nquadradinho da malha igual a 1 centímetro.\nDescrição do gráfico: Gráfico cartesiano, em que o eixo horizontal indica a\ndistância, e o eixo vertical indica a altitude, sendo a unidade de medida em\ncada um dos eixos igual à medida do lado do quadradinho da malha que é\nigual a 1 centímetro.\nO gráfico é formado por cinco segmentos de reta que representam a trajetória\ndesde o ponto de origem do voo até seu ponto de destino.\nSegmento 1: de (0 ; 0) a (2 ; 1).\nSegmento 2: de (2 ; 1) a (7 ; 1).\nSegmento 3: de (7 ; 1) a (9 ; 0,5).\nSegmento 4: de (9 ; 0,5) a (10 ; 0,5).\nSegmento 5: de (10 ; 0,5) a (12 ; 0).\n(Fim da descrição)\nEssa tela apresenta os dados de um voo cuja maior altitude alcançada foi de\n5 quilômetros.\nA escala em que essa tela representa as medidas reais é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 para 5."
+      },
+      {
+        "letra": "B",
+        "texto": "1 para 11."
+      },
+      {
+        "letra": "C",
+        "texto": "1 para 55."
+      },
+      {
+        "letra": "D",
+        "texto": "1 para 5000."
+      },
+      {
+        "letra": "E",
+        "texto": "1 para 500.000."
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.55674,
+      "escala": 656,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 177,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 178,
+    "enunciado": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado\nano Tzolkim, composto por 260 dias e que determinava o calendário religioso,\ne o ano Haab, composto por 365 dias e que determinava o calendário agrícola.\nUm historiador encontrou evidências de que gerações de uma mesma família\ngovernaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo\nformado por 52 anos Haab.\nDe acordo com as informações fornecidas, durante quantos anos Tzolkim\naquela comunidade maia foi governada por tal família?",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "741"
+      },
+      {
+        "letra": "B",
+        "texto": "1040"
+      },
+      {
+        "letra": "C",
+        "texto": "1460"
+      },
+      {
+        "letra": "D",
+        "texto": "2100"
+      },
+      {
+        "letra": "E",
+        "texto": "5200"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.53865,
+      "escala": 654,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 178,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 179,
+    "enunciado": "Sejam a, b e c as medidas dos lados de um triângulo retângulo, tendo a como\nmedida da hipotenusa. Esses valores a, b e c são, respectivamente, os\ndiâmetros dos círculos C índice 1, C índice 2 e C índice 3, como apresentados\nna figura.\n\nEssa construção assegura, pelo teorema de Pitágoras, que área de C índice 1 é\nigual a área de C índice 2 mais área de C índice 3.\nUm professor de matemática era conhecedor dessa construção e,\nconfraternizando com dois amigos em uma pizzaria onde são vendidas pizzas\nsomente em formato de círculo, lançou um desafio: mesmo sem usar um\ninstrumento de medição, poderia afirmar com certeza se a área do círculo\ncorrespondente à pizza que ele pedisse era maior, igual ou menor do que a\nsoma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas.\nO professor as dividiu ao meio e formou um triângulo com os diâmetros das\npizzas, conforme indicado na figura.\n\nA partir da medida do ângulo alfa, o professor afirmou que a área de sua pizza\né maior do que a soma das áreas das outras duas pizzas.\nA área da pizza do professor de matemática é maior do que a soma das áreas\ndas outras duas pizzas, pois",
+    "descricoesDeFiguras": [
+      "A figura apresenta um triângulo retângulo de lados a, b e c; o círculo C índice 1, que tem o lado a do triângulo como diâmetro; o círculo C índice 2, que tem o lado b do triângulo como diâmetro, e o círculo C índice 3, que tem o lado c do triângulo como diâmetro.",
+      "Figura de um triângulo, em que um dos ângulos tem medida igual a alfa e cada um de seus lados é diâmetro de um semicírculo. O semicírculo, cujo diâmetro é o lado oposto ao ângulo alfa, representa a meia pizza do professor de matemática; os outros dois semicírculos representam a meia pizza do amigo 1 e a meia pizza do amigo 2."
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "zero grau menor que alfa menor que 90 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "alfa igual a 90 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "90 graus menor que alfa menor que 180 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "alfa igual a 180 graus."
+      },
+      {
+        "letra": "E",
+        "texto": "180 graus menor que alfa menor que 360 graus."
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.37234,
+      "escala": 737,
+      "faixa": "Difícil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
+      "numero": 179,
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
+    }
+  },
+  {
+    "numero": 180,
+    "enunciado": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC).\nO valor desse parâmetro é calculado pela razão entre o consumo de oxigênio,\nem mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta\ncorrendo a uma velocidade constante.\nUm maratonista, visando melhorar sua performance, auxiliado por um médico,\nmensura o seu consumo de oxigênio por minuto a velocidade constante. Com\nbase nesse consumo e na massa do atleta, o médico calcula o EC do atleta.\nA unidade de medida da grandeza descrita pelo parâmetro EC é",
+    "descricoesDeFiguras": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fração com numerador min e denominador abre parêntese mL vezes kg fecha parêntese."
+      },
+      {
+        "letra": "B",
+        "texto": "fração com numerador mL e denominador abre parêntese min vezes kg fecha parêntese."
+      },
+      {
+        "letra": "C",
+        "texto": "fração com numerador abre parêntese min vezes mL e denominador kg."
+      },
+      {
+        "letra": "D",
+        "texto": "fração com numerador min vezes kg fecha parêntese e denominador mL."
+      },
+      {
+        "letra": "E",
+        "texto": "fração com numerador abre parêntese mL vezes kg fecha parêntese e denominador min."
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.11188,
+      "escala": 711,
+      "faixa": "Difícil"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": "Matemática",
+    "materiaOficial": true,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2023,
+      "dia": 2,
+      "area": "MT",
+      "caderno": 11,
+      "cor": "LARANJA",
       "numero": 180,
-      "pagina": 31,
-      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
-      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+      "pagina": null,
+      "prova": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD11.pdf",
+      "gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD11.pdf"
     }
   }
 ]

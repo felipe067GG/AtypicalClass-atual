@@ -22,7 +22,7 @@ import { join } from "node:path"
 
 import { baixar } from "./inep.mjs"
 import { lerGabarito, conferirCobertura, lerCor } from "./gabarito.mjs"
-import { lerColunas, segmentar, conferir } from "./prova.mjs"
+import { lerColunas, lerAcessivel, segmentar, conferir, separarDescricoes } from "./prova.mjs"
 import { lerItens, identificarProva, classificarDificuldade, obterItens } from "./microdados.mjs"
 
 /** Onde cada área começa e termina, igual em todas as cores de caderno. */
@@ -59,11 +59,12 @@ async function imagensDaApi(ano, numero) {
   }
 }
 
-export async function importar({ ano, dia, area, caderno }) {
+export async function importar({ ano, dia, area, caderno, urlAcessivel = null }) {
   const [primeira, ultima] = FAIXAS[area]
 
   const prova = await baixar(`${BASE_PDF}/${ano}_PV_impresso_D${dia}_CD${caderno}.pdf`)
   const gabaritoPdf = await baixar(`${BASE_PDF}/${ano}_GB_impresso_D${dia}_CD${caderno}.pdf`)
+  const acessivel = urlAcessivel ? await baixar(urlAcessivel) : null
 
   const cor = await lerCor(gabaritoPdf)
   if (!cor) throw new Error(`Não achei a cor do caderno ${caderno} no cabeçalho do gabarito`)
@@ -89,8 +90,18 @@ export async function importar({ ano, dia, area, caderno }) {
       .map((i) => [i.posicao, i]),
   )
 
-  const linhas = await lerColunas(prova, { maxPaginas: 80 })
-  const doPdf = segmentar(linhas).filter((i) => i.numero >= primeira && i.numero <= ultima)
+  /**
+   * A versão acessível é preferida quando existe.
+   *
+   * Ela é de coluna única e traz a notação matemática verbalizada, o que
+   * recupera as questões que o caderno impresso perde — e, de quebra, carrega
+   * a audiodescrição de cada figura. As imagens continuam vindo da API, então
+   * a página pode mostrar a figura para quem enxerga e a descrição para quem
+   * usa leitor de tela, sem escolher entre os dois públicos.
+   */
+  const formato = acessivel ? "acessivel" : "impressa"
+  const linhas = acessivel ? await lerAcessivel(acessivel) : await lerColunas(prova, { maxPaginas: 80 })
+  const doPdf = segmentar(linhas, { formato }).filter((i) => i.numero >= primeira && i.numero <= ultima)
 
   const questoes = []
   const rejeitadas = []
@@ -122,9 +133,12 @@ export async function importar({ ano, dia, area, caderno }) {
       continue
     }
 
+    const limpo = separarDescricoes(item.enunciado)
+
     questoes.push({
       numero: item.numero,
-      enunciado: item.enunciado,
+      enunciado: limpo.enunciado,
+      descricoesDeFiguras: limpo.descricoes,
       alternativas: item.alternativas,
       resposta,
       dificuldade: classificarDificuldade(oficial?.dificuldadeB ?? null),
@@ -150,10 +164,16 @@ export async function importar({ ano, dia, area, caderno }) {
   return { questoes, rejeitadas, provaMicrodados: escolhida }
 }
 
-const [ano, dia, area, caderno = dia === "1" ? "1" : "5"] = process.argv.slice(2)
+const [ano, dia, area, caderno = dia === "1" ? "1" : "5", urlAcessivel = null] = process.argv.slice(2)
 
 if (ano) {
-  const resultado = await importar({ ano: Number(ano), dia: Number(dia), area, caderno: Number(caderno) })
+  const resultado = await importar({
+    ano: Number(ano),
+    dia: Number(dia),
+    area,
+    caderno: Number(caderno),
+    urlAcessivel,
+  })
   const destino = join(process.cwd(), "data", "enem")
   await mkdir(destino, { recursive: true })
   const arquivo = join(destino, `${ano}-d${dia}-${area}.json`)
@@ -169,6 +189,7 @@ if (ano) {
   console.log(`CO_PROVA identificado: ${resultado.provaMicrodados.prova} (${resultado.provaMicrodados.acertos}/${resultado.provaMicrodados.total})`)
   console.log(`Questões importadas:   ${resultado.questoes.length}`)
   console.log(`Com imagem:            ${comImagem}`)
+  console.log(`Com audiodescrição:    ${resultado.questoes.filter((q) => q.descricoesDeFiguras.length).length}`)
   console.log(`Dificuldade:           ${JSON.stringify(faixas)}`)
   if (resultado.rejeitadas.length) {
     console.log(`\nRejeitadas (${resultado.rejeitadas.length}):`)

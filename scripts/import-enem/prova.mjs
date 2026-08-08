@@ -96,6 +96,47 @@ export async function lerColunas(pdf, { maxPaginas = 60 } = {}) {
 }
 
 /**
+ * Lê a versão acessível da prova, quando ela existe.
+ *
+ * O INEP publica, para alguns cadernos, a prova preparada para leitor de tela.
+ * Ela resolve sozinha os dois problemas que o caderno impresso impõe: é de
+ * coluna única, então não precisa de recorte ao meio, e traz a notação
+ * matemática verbalizada — "6 vezes raiz cúbica de 6" no lugar de um radical
+ * tipografado, que nenhum extrator de texto alcança. Era o que fazia uma em
+ * cada dez questões de Matemática ser rejeitada.
+ *
+ * Usá-la de preferência também é coerente com o site: é a versão feita para
+ * quem precisa de acessibilidade, e é a mais completa em texto.
+ *
+ * As alternativas aqui vêm em minúsculas e com ponto — "a. Verde e Preto." —
+ * em vez do "A Verde e Preto" do impresso.
+ */
+export async function lerAcessivel(pdf) {
+  const texto = await extrairTexto(pdf)
+  return texto.split(/\r?\n/).map((linha, i) => ({ pagina: null, texto: linha.trimEnd(), ordem: i }))
+}
+
+/**
+ * Casa uma linha de alternativa, no formato do documento que está sendo lido.
+ *
+ * O formato precisa ser dito, não adivinhado. Na prova impressa a alternativa é
+ * "A texto", e o que a distingue de uma frase comum é estar colada na margem
+ * enquanto o texto corrido vem indentado. Na versão acessível não há indentação
+ * nenhuma — é tudo coluna única — e "A figura representa uma escada" seria lida
+ * como a alternativa A, engolindo o enunciado inteiro. Foi exatamente o que
+ * aconteceu em seis questões, todas começando por "A " ou "E ".
+ */
+function casarAlternativa(texto, formato) {
+  if (formato === "acessivel") {
+    const match = texto.match(/^\s*([a-e])\.\s+(.+)$/)
+    return match ? { letra: match[1].toUpperCase(), texto: match[2] } : null
+  }
+
+  const match = texto.match(/^([A-E]) (.+)$/)
+  return match ? { letra: match[1], texto: match[2] } : null
+}
+
+/**
  * Agrupa as linhas em itens, usando o número impresso na prova.
  *
  * A primeira versão disto inferia o número pela ordem de leitura, porque o
@@ -109,7 +150,7 @@ export async function lerColunas(pdf, { maxPaginas = 60 } = {}) {
  * tela. Lendo o número impresso, cada item carrega a própria identidade e um
  * item perdido é só um item a menos.
  */
-export function segmentar(linhas) {
+export function segmentar(linhas, { formato = "impressa" } = {}) {
   const marcadores = []
   for (let i = 0; i < linhas.length; i += 1) {
     const match = linhas[i].texto.match(/^\s*QUESTÃO\s+(\d+)/)
@@ -124,11 +165,11 @@ export function segmentar(linhas) {
     let inicioAlternativas = corpo.length
 
     for (let i = 0; i < corpo.length; i += 1) {
-      const match = corpo[i].texto.match(/^([A-E]) (.+)$/)
+      const match = casarAlternativa(corpo[i].texto, formato)
       if (!match) continue
       // Só conta se for a próxima letra esperada: assim "A partir de..." no
       // meio do enunciado não é confundido com a alternativa A.
-      if (match[1] !== LETRAS[alternativas.length]) continue
+      if (match.letra !== LETRAS[alternativas.length]) continue
       if (!alternativas.length) inicioAlternativas = i
 
       // A alternativa continua nas linhas seguintes até aparecer a próxima
@@ -138,12 +179,12 @@ export function segmentar(linhas) {
       const continuacao = []
       for (let j = i + 1; j < corpo.length; j += 1) {
         const proxima = corpo[j].texto
-        if (/^[A-E] /.test(proxima) || /^\s*QUESTÃO\s+\d+/.test(proxima)) break
+        if (casarAlternativa(proxima, formato) || /^\s*QUESTÃO\s+\d+/.test(proxima)) break
         if (!proxima.trim()) break
         continuacao.push(proxima.trim())
       }
 
-      alternativas.push({ letra: match[1], texto: [match[2].trim(), ...continuacao].join(" ").trim() })
+      alternativas.push({ letra: match.letra, texto: [match.texto.trim(), ...continuacao].join(" ").trim() })
       if (alternativas.length === 5) break
     }
 
@@ -192,6 +233,32 @@ function alternativasSaoImagem(item) {
     item.enunciado.split("\n").some((linha) => linha.trim() === letra),
   )
   return letrasSozinhas.length >= 4
+}
+
+/**
+ * Separa a audiodescrição das figuras do resto do enunciado.
+ *
+ * A versão acessível traz, para cada imagem, um bloco entre "Descrição da
+ * figura:" e "(Fim da descrição)" — escrito pelo INEP para quem não pode ver a
+ * figura. Guardar isso num campo próprio, e não diluído no enunciado, é o que
+ * permite ao site mostrar a imagem para quem enxerga e a descrição para quem
+ * usa leitor de tela, em vez de escolher um dos dois públicos.
+ *
+ * O enunciado devolvido fica sem os blocos, porque repetir a descrição no meio
+ * do texto atrapalha quem já está vendo a figura.
+ */
+export function separarDescricoes(enunciado) {
+  const descricoes = []
+  const padrao = /Descrição da figura:\s*([\s\S]*?)\(Fim da descrição\)/g
+
+  for (const match of enunciado.matchAll(padrao)) {
+    descricoes.push(match[1].replace(/\s+/g, " ").trim())
+  }
+
+  return {
+    enunciado: enunciado.replace(padrao, "").replace(/\n{3,}/g, "\n\n").trim(),
+    descricoes,
+  }
 }
 
 /**
