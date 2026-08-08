@@ -28,23 +28,11 @@ export function resolveLang(value: string): Language {
   return isLocale(value) ? value : DEFAULT_LOCALE
 }
 
-/**
- * Monta a metadata a partir de chaves de tradução.
- *
- * `fallbackDescription` existe para as três páginas cuja descrição ainda não
- * tem versão traduzida (`/recursos`, `/sobre` e `/contribuir`): elas mantêm o
- * texto em português nos três idiomas, em vez de ganharem uma tradução
- * inventada. O título dessas páginas é traduzido normalmente.
- */
-export function pageMetadata(
-  langParam: string,
-  titleKey: string,
-  descriptionKey?: string,
-  fallbackDescription?: string,
-): Metadata {
+/** Monta a metadata a partir de chaves de tradução. */
+export function pageMetadata(langParam: string, titleKey: string, descriptionKey?: string): Metadata {
   const lang = resolveLang(langParam)
   const title = texto(lang, titleKey)
-  const description = (descriptionKey ? texto(lang, descriptionKey) : undefined) ?? fallbackDescription
+  const description = descriptionKey ? texto(lang, descriptionKey) : undefined
 
   return {
     ...(title ? { title } : {}),

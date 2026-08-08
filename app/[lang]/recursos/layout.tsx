@@ -4,7 +4,7 @@ import { pageMetadata } from "@/lib/page-metadata"
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang } = await params
-  return pageMetadata(lang, "resourcesLabel", undefined, "Materiais e recursos de apoio para educação inclusiva.")
+  return pageMetadata(lang, "resourcesLabel", "resourcesPageDesc")
 }
 
 export default function Layout({ children }: { children: React.ReactNode }) {

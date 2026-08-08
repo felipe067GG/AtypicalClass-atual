@@ -3,6 +3,11 @@ export const translations = {
     // Acessibilidade
     skipToContent: "Pular para o conteúdo",
 
+    // Descrições de página (metadata) que não têm equivalente no texto visível
+    resourcesPageDesc: "Materiais e recursos de apoio para educação inclusiva.",
+    aboutPageDesc: "Quem somos e como o AtypicalClass é construído.",
+    contributePageDesc: "Compartilhe dicas, questões e experiências com a comunidade de professores.",
+
     // Header
     home: "Início",
     questions: "Questões",
@@ -1422,6 +1427,11 @@ export const translations = {
     // Acessibilidade
     skipToContent: "Skip to content",
 
+    // Descrições de página (metadata) que não têm equivalente no texto visível
+    resourcesPageDesc: "Support materials and resources for inclusive education.",
+    aboutPageDesc: "Who we are and how AtypicalClass is built.",
+    contributePageDesc: "Share tips, questions and experiences with the teacher community.",
+
     // Header
     home: "Home",
     questions: "Questions",
@@ -2837,6 +2847,11 @@ export const translations = {
   es: {
     // Acessibilidade
     skipToContent: "Saltar al contenido",
+
+    // Descrições de página (metadata) que não têm equivalente no texto visível
+    resourcesPageDesc: "Materiales y recursos de apoyo para la educación inclusiva.",
+    aboutPageDesc: "Quiénes somos y cómo se construye AtypicalClass.",
+    contributePageDesc: "Comparte consejos, preguntas y experiencias con la comunidad de docentes.",
 
     // Header
     home: "Inicio",
