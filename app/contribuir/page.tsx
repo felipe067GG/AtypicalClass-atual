@@ -169,7 +169,12 @@ export default function ContribuirPage() {
   }, [user?.id])
 
   // Busca dos posts ao montar e a cada troca de usuário. O setState acontece
-  // depois do await, dentro de `loadPosts` — não é render em cascata.
+  // depois do await, dentro de `loadPosts` — não é render em cascata, que é o
+  // que a regra existe para evitar. Aqui ela acusa a chamada, não o problema.
+  //
+  // Esta página depende da sessão do professor e recarrega a lista a cada
+  // publicação, curtida ou comentário, então não é candidata ao mesmo
+  // tratamento de /questoes e /conteudos, que buscam no servidor.
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     loadPosts()

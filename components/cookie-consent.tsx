@@ -12,6 +12,10 @@ export function CookieConsent() {
   // O banner só pode ser decidido depois de montar: o servidor não sabe se
   // este visitante já respondeu. Mostrá-lo no HTML e escondê-lo em seguida
   // faria o aviso piscar para quem já aceitou.
+  //
+  // Ler o cookie no servidor resolveria, mas tornaria dinâmica a árvore
+  // inteira — 20 das 23 páginas estáticas, medido em 08/08/2026. Para um
+  // banner que aparece uma vez na vida do visitante, não compensa.
   useEffect(() => {
     const consent = Cookies.get("cookie-consent")
     if (!consent) {

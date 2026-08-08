@@ -19,7 +19,14 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   // O setState em efeito é o preço de não divergir na hidratação: o idioma
   // salvo só pode ser aplicado depois que servidor e cliente já concordaram no
-  // primeiro render.
+  // primeiro render. O efeito colateral é visível — quem escolheu EN ou ES vê
+  // português no primeiro quadro.
+  //
+  // Some se o cookie for lido no servidor, mas isso torna a árvore inteira
+  // dinâmica: medido em 08/08/2026, custaria 20 das 23 páginas estáticas.
+  // Enquanto o site tiver uma só versão por URL, o preço não compensa; a
+  // solução de verdade para idioma é rota por idioma (/en, /es), que também
+  // resolveria o `lang` do <html>, hoje fixo em "pt".
   useEffect(() => {
     const savedLang = Cookies.get("language") as Language
     if (savedLang && translations[savedLang]) {

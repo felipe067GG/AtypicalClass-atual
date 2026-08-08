@@ -16,8 +16,16 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
   const [theme, setThemeState] = useState<Theme>("dark")
 
   // A classe `light` já foi aplicada no <html> pelo script inline do layout,
-  // antes da primeira pintura. Aqui só sincronizamos o estado do React — que é
-  // por que o setState em efeito, que a regra proíbe, é o certo neste ponto.
+  // antes da primeira pintura. Aqui só sincronizamos o estado do React, e é
+  // por isso que o setState em efeito é o certo neste ponto: quem pinta a tela
+  // é o script, não este estado.
+  //
+  // A alternativa canônica seria ler o cookie no servidor e passar o valor
+  // inicial para baixo, o que dispensaria o efeito. Foi medido em 08/08/2026 e
+  // descartado: `cookies()` no layout raiz propaga renderização dinâmica para
+  // a árvore inteira e derrubaria 20 das 23 páginas estáticas, incluindo as 14
+  // de especialidade, que são as que mais interessam à busca. O disable abaixo
+  // é essa escolha, não um esquecimento.
   useEffect(() => {
     const savedTheme = Cookies.get("theme") as Theme | undefined
     if (savedTheme === "light" || savedTheme === "dark") {

@@ -69,17 +69,22 @@ export default function Header() {
     return () => subscription.unsubscribe()
   }, [])
 
-  // Fecha o menu móvel ao navegar — antes ele ficava aberto sobre a página nova.
-  // A regra reclama de setState em efeito, mas é exatamente disto que se trata:
-  // reagir à mudança de rota, que vem de fora deste componente.
-  useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    setIsMenuOpen(false)
-  }, [pathname])
+  /**
+   * Fecha o menu móvel, que senão ficaria aberto sobre a página nova.
+   *
+   * Isto era um efeito que observava o `pathname`. Fechar no próprio clique é
+   * mais direto — o menu fecha porque o usuário escolheu um destino, não como
+   * reação tardia a uma rota que já mudou — e ainda cobre um caso que o efeito
+   * não cobria: tocar no link da página em que já se está, que não altera o
+   * `pathname` e portanto não disparava o efeito.
+   */
+  const closeMenu = () => setIsMenuOpen(false)
 
   const handleLogout = async () => {
     await signOut()
     setUser(null)
+    // Sair também navega, então o menu móvel fecha junto.
+    setIsMenuOpen(false)
     router.push("/")
     router.refresh()
   }
@@ -102,7 +107,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/85 backdrop-blur-md">
       <div className="container flex h-16 items-center justify-between gap-4">
-        <Link href="/" aria-label="AtypicalClass — início" className="shrink-0">
+        <Link href="/" aria-label="AtypicalClass — início" className="shrink-0" onClick={closeMenu}>
           <LogoWordmark />
         </Link>
 
@@ -252,6 +257,7 @@ export default function Header() {
                         key={specialty.slug}
                         href={`/${specialty.slug}`}
                         data-specialty={specialty.accent}
+                        onClick={closeMenu}
                         className="flex items-center gap-2.5 rounded-lg px-2 py-2 text-sm hover:bg-surface-2"
                       >
                         <span className="accent-soft flex h-7 w-7 items-center justify-center rounded-md">
@@ -270,6 +276,7 @@ export default function Header() {
                   <Link
                     key={link.href}
                     href={link.href}
+                    onClick={closeMenu}
                     className="flex items-center gap-2.5 rounded-lg px-2 py-2 text-sm hover:bg-surface-2"
                   >
                     <link.icon className="h-4 w-4 text-muted-foreground" aria-hidden />
@@ -316,7 +323,7 @@ export default function Header() {
                   </div>
                 ) : (
                   <Button asChild className="w-full">
-                    <Link href="/auth">
+                    <Link href="/auth" onClick={closeMenu}>
                       <LogIn className="mr-2 h-4 w-4" />
                       {t("login")}
                     </Link>
