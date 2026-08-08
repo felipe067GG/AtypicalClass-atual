@@ -1,0 +1,2079 @@
+[
+  {
+    "numero": 91,
+    "enunciado": "![](https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png)\n\nDAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.\n\nPor qual motivo ocorre a eletrização ilustrada na tirinha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Troca de átomos entre a calça e os pelos do gato.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição do número de prótons nos pelos do gato.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Criação de novas partículas eletrizadas nos pelos do gato.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Movimentação de elétrons entre a calça e os pelos do gato.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Repulsão entre partículas elétricas da calça e dos pelos do gato.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.63073,
+      "escala": 563,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [
+      "https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 91,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/91",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros biodegradáveis.\n\nEsses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não são tóxicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Não precisam ser reciclados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Não causam poluição ambiental quando descartados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "São degradados em um tempo bastante menor que os convencionais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentam propriedades mecânicas semelhantes aos convencionais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.07547,
+      "escala": 492,
+      "faixa": "Fácil"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 92,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/92",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "Uma pessoa percebe que a bateria de seu veículo fica descarregada após cinco dias sem uso. No início desse período, a bateria funcionava normalmente e estava com o total de sua carga nominal, de 60 Ah. Pensando na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do veículo desligados, ele associa um amperímetro digital ao circuito do veículo.\n\nQual dos esquemas indica a maneira com que o amperímetro deve ser ligado e a leitura por ele realizada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/93/75495fcb-deab-4b98-880c-0b991cedea78.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/93/12474393-81b2-41ea-8fff-a7eaa7eeff86.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/93/2ccc28c6-075c-4a46-9cd1-7d5fac78c728.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/93/c2f5972e-7f32-422d-b9d8-e825dbc2d343.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/93/528211e6-f79f-4239-81f5-e13e6548786e.png"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.55431,
+      "escala": 655,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 93,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/93",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:\n\n![](https://enem.dev/2020/questions/94/cd807044-741c-49d0-893a-9d11bfd1e72b.png)\n\nQual substância o empresário deverá utilizar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.09202,
+      "escala": 609,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2020/questions/94/cd807044-741c-49d0-893a-9d11bfd1e72b.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 94,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/94",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundadas por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais.\nUma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formação de micro-hábitats.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação do efeito de borda.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Construção de corredores ecológicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Promoção da sucessão ecológica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Introdução de novas espécies de animais e vegetais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.12362,
+      "escala": 612,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 95,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/95",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 96,
+    "enunciado": "A sacarase (ou invertase) é uma enzima que atua no intestino humano hidrolisando o dissacarídeo sacarose nos monossacarídeos glicose e frutose. Em um estudo cinético da reação de hidrólise da sacarose (C12H22O11), foram dissolvidos 171 g de sacarose em 500 mL de água. Observou-se que, a cada 100 minutos de reação, a concentração de sacarose foi reduzida à metade, qualquer que fosse o momento escolhido como tempo inicial. As massas molares dos elementos H, C e O são iguais a 1, 12 e 16 g mo1–1, respectivamente.\n\nQual é a concentração de sacarose depois de 400 minutos do início da reação de hidrólise?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,50 x 10–3 mol L–1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "6,25 x 10–2 mol L–1",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,25 x 10–1 mol L–1",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,50 x 10–1 mol L–1",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,27 x 10–1 mol L–1",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.50249,
+      "escala": 650,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 96,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/96",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 97,
+    "enunciado": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.\n\nA utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.67442,
+      "escala": 567,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 97,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/97",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 98,
+    "enunciado": "Em uma usina geradora de energia elétrica, seja através de uma queda-d’água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um aumento inesperado da diferença de potencial elétrico nos terminais das bobinas.\n\nNessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.5026,
+      "escala": 650,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 98,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/98",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 99,
+    "enunciado": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.\n\n![](https://enem.dev/2020/questions/99/8e10e13c-cd79-41f1-8f07-0952b17a98c8.png)\n\nOs semáforos estão separados por uma distância de 500m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s–2 até atingir a velocidade de 72 km h–1 e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.\n\nConsiderando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20s, 45s e 70s.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "25s, 50s e 75s.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "28s, 42s e 53s.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "30s, 55s e 80s.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "35s, 60s e 85s.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.90806,
+      "escala": 691,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2020/questions/99/8e10e13c-cd79-41f1-8f07-0952b17a98c8.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 99,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/99",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 100,
+    "enunciado": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura.\n\n![](https://enem.dev/2020/questions/100/be9ac81e-eeb8-4ad2-b10d-25c4c422d759.png)\n\nPara realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico.\n\nQual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "H2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cl2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "CO",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "CO2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "HCl",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.69946,
+      "escala": 670,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [
+      "https://enem.dev/2020/questions/100/be9ac81e-eeb8-4ad2-b10d-25c4c422d759.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 100,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/100",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 101,
+    "enunciado": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações Dl e D2.\n\n![](https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png)\n\nA representação indica que, no momento D, na situação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dl ocorre um novo fator de isolamento geográfico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dl existe uma única população distribuída em gradiente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dl ocorrem duas populações separadas por isolamento reprodutivo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D2 coexistem duas populações com características fenotípicas distintas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "D2 foram preservadas as mesmas características fenotípicas da população original A.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.72028,
+      "escala": 572,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [
+      "https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 101,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/101",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 102,
+    "enunciado": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\n\n![](https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png)\n\nQual das subetapas do processo é realizada em função apenas da polaridade das substâncias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trituração.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cozimento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Prensagem.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Extração.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Destilação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.88363,
+      "escala": 688,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 102,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/102",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 103,
+    "enunciado": "O dióxido de carbono passa para o estado sólido (gelo seco) a –78 °C e retorna ao estado gasoso à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da superfície da terra e não conduz eletricidade. Ele é utilizado como maté – ria-prima para a fotossíntese até o limite de saturação. Após a fixação pelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermentação, decomposição ou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua importância ecológica, seu excesso causa perturbações no equilíbrio ambiental.\n\nConsiderando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em razão da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução do potencial hidrogeniônico da água.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Restrição da aerobiose pelo excesso de poluentes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da emissão de oxigênio pelos autótrofos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Limitação de transferência de energia entre os seres vivos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Retração dos oceanos pelo congelamento do gás nos polos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.8581,
+      "escala": 686,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 103,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/103",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 104,
+    "enunciado": "Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação.\n\nPara flutuar, essas aves precisam",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recuperar o tônus muscular.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Restaurar a massa corporal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Substituir as penas danificadas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Restabelecer a capacidade de homeotermia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Refazer a camada de cera impermeabilizante das penas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.62392,
+      "escala": 562,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 104,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/104",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 105,
+    "enunciado": "Os manuais de refrigerador apresentam a recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão e aquecedores, ou em local onde incida diretamente a luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia.\n\nO não atendimento dessa recomendação resulta em aumento do consumo de energia porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fluxo de calor por condução no condensador sofre considerável redução.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A temperatura da substância refrigerante no condensador diminui mais rapidamente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O fluxo de calor promove significativa elevação da temperatura no interior do refrigerador.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A liquefação da substância refrigerante no condensador exige mais trabalho do compressor.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "As correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 3.80025,
+      "escala": 880,
+      "faixa": "Difícil"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 105,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/105",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 106,
+    "enunciado": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n![](https://enem.dev/2020/questions/106/3801fbf6-0a3e-4c46-8fc4-c4320a301b21.png)\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n![](https://enem.dev/2020/questions/106/10dde44b-2cca-4b56-ac19-e02b9ad8c6ed.png)\n\nConsidere que a aceleração da gravidade seja igual a ![](https://enem.dev/2020/questions/106/94dd406d-624c-48ad-9818-0e3a20f7b55e.png) e que a densidade da água seja de ![](https://enem.dev/2020/questions/106/c214e00c-3d72-464f-80b7-0bcf86eeae14.png).\n\nEm minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "80.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "60.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "40.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "20.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.35723,
+      "escala": 636,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2020/questions/106/3801fbf6-0a3e-4c46-8fc4-c4320a301b21.png",
+      "https://enem.dev/2020/questions/106/10dde44b-2cca-4b56-ac19-e02b9ad8c6ed.png",
+      "https://enem.dev/2020/questions/106/94dd406d-624c-48ad-9818-0e3a20f7b55e.png",
+      "https://enem.dev/2020/questions/106/c214e00c-3d72-464f-80b7-0bcf86eeae14.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 106,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/106",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 107,
+    "enunciado": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real).  Considere que a torre real tenha uma massa Mtorre e exerça na fundação sobre a qual foi erguida uma pressão Ptorre. O modelo construído pelo arquiteto terá uma massa Mmodelo e exercerá uma pressão Pmodelo .\n\n![](https://enem.dev/2020/questions/107/c7f2aee2-29a9-4890-a8ac-7e5b0a2c774d.png)\n\nComo a pressão exercida pela torre se compara com a pressão exercida pelo protótipo? Ou seja, qual é a razão entre as pressões (Ptorre)/(Pmodelo)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "101",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "102",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "104",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "106",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.95758,
+      "escala": 596,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2020/questions/107/c7f2aee2-29a9-4890-a8ac-7e5b0a2c774d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 107,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/107",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 108,
+    "enunciado": "“Na indústria farmacêutica, é muito comum o emprego de substâncias de revestimento em medicamentos de uso oral, pois trazem uma série de benefícios como alteração de sabor em medicamentos que tenham gosto ruim, melhoria da assimilação do composto, entre outras ações. Alguns compostos poliméricos à base do polissacarídeo celulose são utilizados para garantir que o fármaco somente seja liberado quando em contato com soluções aquosas cujo pH se encontre próximo da faixa da neutralidade.”\n\n(BORTOLINI, K. et al. Análise de perfil de dissolução de cápsulas gastrorresistentes utilizando polímeros industriais com aplicação em farmácias magistrais, Revista da Unifebe, n. 12, 2013. Adaptado.)\n\nQual é a finalidade do uso desse revestimento à base de celulose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuir a absorção do princípio ativo no intestino.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Impedir que o fármaco seja solubilizado no intestino.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Garantir que o fármaco não seja afetado pelas secreções gástricas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir a liberação do princípio ativo pela ação das amilases salivares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.17942,
+      "escala": 618,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 108,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/108",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 109,
+    "enunciado": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores.\n\nAo abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da pressão interna e os riscos de explosão.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dilatação da panela e a desconexão com sua tampa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Perda da qualidade nutritiva do alimento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Deformação da borracha de vedação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Consumo de gás desnecessário.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.67689,
+      "escala": 668,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 109,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/109",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 110,
+    "enunciado": "A nanotecnologia pode ser caracterizada quando os compostos estão na ordem de milionésimos de milímetros, como na utilização de nanomateriais catalíticos nos processos industriais. O uso desses materiais aumenta a eficiência da produção, consome menos energia e gera menores quantidades de resíduos. O sucesso dessa aplicação tecnológica muitas vezes está relacionado ao aumento da velocidade da reação química envolvida.\n\nO êxito da aplicação dessa tecnologia é por causa da realização de reações químicas que ocorrem em condições de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alta pressão.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Alta temperatura.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Excesso de reagentes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Maior superfície de contato.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Elevada energia de ativação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.59379,
+      "escala": 659,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 110,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/110",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 111,
+    "enunciado": "Os fones de ouvido tradicionais transmitem a música diretamente para os nossos ouvidos. Já os modelos dotados de tecnologia redutora de ruído — Cancelamento de Ruído (CR) — além de transmitirem música, também reduzem todo ruído inconsistente à nossa volta, como o barulho de turbinas de avião e aspiradores de pó. Os fones de ouvido CR não reduzem realmente barulhos irregulares como discursos e choros de bebês. Mesmo assim, a supressão do ronco das turbinas do avião contribui para reduzir a “fadiga de ruído”, um cansaço persistente provocado pela exposição a um barulho alto por horas a fio. Esses aparelhos também permitem que nós ouçamos músicas ou assistamos a vídeos no trem ou no avião a um volume muito menor (e mais seguro).\n\nDisponível em: http://tecnologia.uol.com.br, Acesso em: 21 abr, 2015 (adaptado).\n\nA tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Absorção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Interferência.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Polarização.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reflexão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Difração.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.69468,
+      "escala": 669,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 111,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/111",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 113,
+    "enunciado": "Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, ao invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V0), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão.\n\nQual figura melhor representa a trajetória de queda da bolinha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/113/93881bb9-4eb6-4d30-bcaf-2254ce3e837c.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/113/ffe496b7-7c83-4a43-97e2-75287d63305e.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/113/ad12af23-b876-49f9-99a1-e6536b5c80a9.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/113/207108f6-f71e-49a2-9d39-dc1d100678d0.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2020/questions/113/da16bf97-bac6-407f-b7b9-813cfd8c39d0.png"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.47507,
+      "escala": 548,
+      "faixa": "Fácil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 113,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/113",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 114,
+    "enunciado": "Dois engenheiros estão verificando se uma cavidade perfurada no solo está de acordo com o planejamento de uma obra, cuja profundidade requerida é de 30 m. O teste é feito por um dispositivo denominado oscilador de áudio de frequência variável, que permite relacionar a profundidade com os valores da frequência de duas ressonâncias consecutivas, assim como em um tubo sonoro fechado. A menor frequência de ressonância que o aparelho mediu foi 135 Hz. Considere que a velocidade do som dentro da cavidade perfurada é de 360 m s–1.\n\nSe a profundidade estiver de acordo com o projeto, qual será o valor da próxima frequência de ressonância que\nserá medida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "137 Hz.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "138 Hz.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "141 Hz.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "144 Hz",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "159 Hz",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.62945,
+      "escala": 763,
+      "faixa": "Difícil"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 114,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/114",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 115,
+    "enunciado": "Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus.\n\n(OLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.)\n\nA técnica para gerar essa leguminosa é um exemplo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hibridismo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transgenia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Conjugação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Terapia gênica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Melhoramento genético.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.79213,
+      "escala": 579,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 115,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/115",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 116,
+    "enunciado": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada.\n\n![](https://enem.dev/2020/questions/116/179bf71d-7af2-4a58-856b-2504c192636d.png)\n\nEle tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ.\n\nEntre quais pontos do divisor de tensão esse equipamento deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre A e C; 30 mA.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entre B e E; 30 mA.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Entre A e D; 1,2 mA.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Entre B e E; 0,9 mA.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Entre A e E; 0,9 mA.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.08846,
+      "escala": 709,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2020/questions/116/179bf71d-7af2-4a58-856b-2504c192636d.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 116,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/116",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 117,
+    "enunciado": "“Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.”\n\n(Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012. Adaptado.)\n\nCom base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Radioterapia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cromoterapia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Quimioterapia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fotoimunoterapia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Terapia magnética.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.57164,
+      "escala": 657,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 117,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/117",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 119,
+    "enunciado": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores  analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:\n\n![](https://enem.dev/2020/questions/119/af2a9279-03a1-4f50-82b8-260984294c04.png)\n\n> Valores limites permitidos para águas doces destinadas ao abaste cimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD≥5mgL–1 e DBO ≤ 5mgL–1.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas  locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\n\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado)\n\nQual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.15068,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2020/questions/119/af2a9279-03a1-4f50-82b8-260984294c04.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 119,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/119",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 120,
+    "enunciado": "O crescimento da frota de veículos em circulação no mundo tem levado à busca e desenvolvimento de tecnologias que permitam minimizar emissões de poluentes atmosféricos. O uso de veículos elétricos é uma das propostas mais propagandeadas por serem de emissão zero. Podemos comparar a emissão de carbono na forma de CO2 (massa molar igual a 44 g mol–1) para os dois tipos de carros (a combustão e elétrico). Considere que os veículos tradicionais a combustão, movidos a etanol (massa molar igual a 46 g mol–1), emitem uma média de 2,6 mol de CO2 por quilômetro rodado, e os elétricos emitem o equivalente a 0,45 mol de CO2 por quilômetro rodado (considerando as emissões na geração e transmissão da eletricidade). A reação  e combustão do etanol pode ser representada pela equação química:\n\nC2H5OH (l) + 3 O2 (g) → 2 CO2 (g) + 3 H2O (g)\n\nForam analisadas as emissões de CO2 envolvidas em dois veículos, um movido a etanol e outro elétrico, em um mesmo trajeto de 1 000 km.\n\nCHIARADIA, C. A. Estudo da viabilidade da implantação de frotas de veículos elétricos e híbridos elétricos no atual cenário econômico, político, energético e ambiental brasileiro. Guaratinguetá: Unesp, 2015 (adaptado)\n\nA quantidade equivalente de etanol economizada, em quilograma, com o uso do veículo elétrico nesse trajeto, é mais próxima de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "60.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "95.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "99.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "120.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.00971,
+      "escala": 701,
+      "faixa": "Difícil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 120,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/120",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 121,
+    "enunciado": "Em uma aula sobre metabolismo energético, foi  \napresentado um experimento clássico realizado por  \nEngelmann. Um recipiente contendo bactérias aeróbias e  \numa alga verde filamentosa foi submetido à iluminação  \nde uma fonte de luz, representada pelo microespectro.  \nApós a explicação, um aluno esquematizou na lousa o  \nresultado do referido experimento.\n\n![](https://enem.dev/2020/questions/121/b5782e2b-1313-47af-9d6d-7cf3d59851a9.png)\n\nConsiderando a figura, a faixa do microespectro em que a\nalga possui maior taxa de realização fotossintética é a do:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anil.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Verde.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Violeta.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Amarelo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Vermelho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.48748,
+      "escala": 649,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [
+      "https://enem.dev/2020/questions/121/b5782e2b-1313-47af-9d6d-7cf3d59851a9.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 121,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/121",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 122,
+    "enunciado": "O exame parasitológico de fezes é utilizado para detectar  \novos de parasitos. Um dos métodos utilizados,  \ndenominado de centrífugo-flutuação, considera a  \ndensidade dos ovos em relação a uma solução de  \ndensidade 1,15 g mL–1. Assim, ovos que flutuam na  \nsuperfície dessa solução são detectados. Os dados de  \ndensidade dos ovos de alguns parasitos estão  \napresentados na tabela.\n\n![](https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png)\n\nConsiderando-se a densidade dos ovos e da solução, ovos\nde quais parasitos podem ser detectados por esse método?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A. lumbricoides, A. suum e S. mansoni.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "S. mansoni, T. saginata e Ancylostoma.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ancylostoma, A. lumbricoides e A. suum.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "T. saginata, S. mansoni e A. lumbricoides.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A. lumbricoides, A. suum e T. saginata",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.12756,
+      "escala": 513,
+      "faixa": "Fácil"
+    },
+    "habilidade": 15,
+    "imagens": [
+      "https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 122,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/122",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 123,
+    "enunciado": "Em seu laboratório, um técnico em química foi  \nincumbido de tratar um resíduo, evitando seu descarte  \ndireto no meio ambiente. Ao encontrar o frasco, observou  \na seguinte informação: “Resíduo: mistura de acetato de  \netila e água”.\n\n![](https://enem.dev/2020/questions/123/f756b27e-21a4-4da1-a7c6-6b456d828c24.png)\n\nA fim de tratar o resíduo, recuperando o acetato de etila,\no técnico deve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Evaporar o acetato de etila sem alterar o conteúdo de água.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Filtrar a mistura utilizando um funil comum e um papel de filtro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar uma destilação simples para separar a água do acetato de etila.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proceder a uma centrifugação da mistura para remover o acetato de etila.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Decantar a mistura separando os dois componentes em um funil adequado.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.72331,
+      "escala": 772,
+      "faixa": "Difícil"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2020/questions/123/f756b27e-21a4-4da1-a7c6-6b456d828c24.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 123,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/123",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 125,
+    "enunciado": "Uma população encontra-se em equilíbrio genético  \nquanto ao sistema ABO, em que 25% dos indivíduos  \npertencem ao grupo O e 16%, ao grupo A homozigotos.  \nConsiderando que: p = frequência de 1A; q = frequência  \nde IB; e r = frequência de i, espera-se encontrar:\n\n![](https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png)\n\nA porcentagem de doadores compatíveis para alguém do\ngrupo B nessa população deve ser de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "11%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "19%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "26%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "36%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "60%.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.65344,
+      "escala": 665,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 125,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/125",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 126,
+    "enunciado": "Embora a energia nuclear possa ser utilizada para fins\npacíficos, recentes conflitos geopolíticos têm trazido\npreocupações em várias partes do planeta e estimulado\ndiscussões visando o combate ao uso de armas de\ndestruição em massa. Além do potencial destrutivo da\nbomba atômica, uma grande preocupação associada ao\nemprego desse artefato bélico é a poeira radioativa\ndeixada após a bomba ser detonada.\nQual é o processo envolvido na detonação dessa bomba?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fissão nuclear do urânio, provocada por nêutrons.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fusão nuclear do hidrogênio, provocada por prótons.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Desintegração nuclear do plutônio, provocada por elétrons.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Associação em cadeia de chumbo, provocada por pósitrons.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Decaimento radioativo do carbono, provocado por partículas beta.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.67088,
+      "escala": 567,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 126,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/126",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 127,
+    "enunciado": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto.\n\n(BLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão 2005. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.)\n\nEssas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da incidência de luz solar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição da absorção de água.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Estabilização da umidade",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Elevação de temperatura.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Liberação de oxigênio.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.63222,
+      "escala": 563,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 127,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/127",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 128,
+    "enunciado": "Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26°C a 28°C), bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam-se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ kg–1 K–1 e a densidade 1 kg L–1.\n\nSe o sistema de aquecimento for desligado por 1 h, qual o valor mais próximo para a redução da temperatura da água do aquário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,0ºC",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,6°C",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,9°C",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,6°C",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,3°C",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.73038,
+      "escala": 673,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 128,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/128",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 129,
+    "enunciado": "Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também o quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais  colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células  tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas.\n\n![](https://enem.dev/2020/questions/129/084d2bf5-6e94-4744-961a-7ed4b515338f.png)\n\nQual quimioterápico deve ser escolhido desse tipo de tumor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.81621,
+      "escala": 582,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [
+      "https://enem.dev/2020/questions/129/084d2bf5-6e94-4744-961a-7ed4b515338f.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 129,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/129",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 130,
+    "enunciado": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de  temperatura maior para uma determinada faixa de frequências.\n\nSAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado).\n\nPara verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente.\n\n![](https://enem.dev/2020/questions/130/dd0c4cef-83b4-4f1f-b3ad-61655da87a3a.png)\n\nEm qual dos recipientes a água terá maior temperatura ao final do experimento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "B.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "C.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "E.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.26887,
+      "escala": 727,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2020/questions/130/dd0c4cef-83b4-4f1f-b3ad-61655da87a3a.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 130,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/130",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 132,
+    "enunciado": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os  \nresíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e  \nenxofre.\n\n(BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017. Adaptado.)\n\nEsses espetáculos promovem riscos ambientais, porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As substâncias resultantes da queima de fogos de artifício são inflamáveis.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.23526,
+      "escala": 476,
+      "faixa": "Fácil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 132,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/132",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 133,
+    "enunciado": "Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível.\n\nOLIVEIRA, A. Raios nas tempestades de verão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 10 dez, 2014 (adaptado).\n\nQual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Isolamento elétrico dos pneus.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Efeito de para-raios da antena.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Blindagem pela carcaça metálica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Escoamento da água pela lataria.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aterramento pelo fio terra da bateria.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.28416,
+      "escala": 628,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 133,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/133",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  },
+  {
+    "numero": 134,
+    "enunciado": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera  \na necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm–3, um investidor negocia a aquisição  \nde um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme  \nesquematizado.\n\n![](https://enem.dev/2020/questions/134/7910dbb6-4184-4a58-96eb-1068360a01b3.png)\n\nCom base nos dados obtidos, o investidor adquiriu as moedas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A e B",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A e C.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "B e C.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "B e D.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "C e D.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.95056,
+      "escala": 595,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2020/questions/134/7910dbb6-4184-4a58-96eb-1068360a01b3.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2020,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 134,
+      "provaMicrodados": "597",
+      "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/134",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+    }
+  }
+]

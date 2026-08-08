@@ -1,0 +1,2211 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "![](https://enem.dev/2012/questions/1/a10f997f-9601-4fa1-8733-f344a15d1849.jpg)\n\nCharge anônima. BURKE, P. A fabricação do rei. Rio de Janeiro: Zahar, 1994. (Foto: Enem)\n\nNa França, o rei Luís XIV teve sua imagem fabricada por um conjunto de estratégias que visavam sedimentar uma determinada noção de soberania. Neste sentido, a charge apresentada demonstra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A humanidade do rei, pois retrata um homem comum, sem os adornos próprios à vestimenta real.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A unidade entre o público e o privado, pois a figura do rei com a vestimenta real representa o público e sem a vestimenta real, o privado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O vínculo entre monarquia e povo, pois leva ao conhecimento do público a figura de um rei  despretensioso e distante do poder político.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O gosto estético refinado do rei, pois evidencia a elegância dos trajes reais em relação aos de outros membros da corte.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A importância da vestimenta para a constituição simbólica do rei, pois o corpo político adornado esconde os defeitos do corpo pessoal.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.122,
+      "escala": 612,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2012/questions/1/a10f997f-9601-4fa1-8733-f344a15d1849.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 1,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/1",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "Esclarecimento é a saída do homem de sua menoridade, da qual ele próprio é culpado. A menoridade é a incapacidade de fazer uso de seu entendimento sem a direção de outro indivíduo. O homem é o próprio culpado dessa menoridade se a causa dela não se encontra na falta de entendimento, mas na falta de decisão e coragem de servir-se de si mesmo sem a direção de outrem. Tem coragem de fazer uso de teu próprio entendimento, tal é o lema do esclarecimento. A preguiça e a covardia são as causas pelas quais uma tão grande parte dos homens, depois que a natureza de há muito os libertou de uma condição estranha, continuem, no entanto, de bom grado menores durante toda a vida.\n\n_KANT, I. Resposta à pergunta: o que é esclarecimento? Petrópolis: Vozes, 1985 (adaptado)._\n\nKant destaca no texto o conceito de Esclarecimento, fundamental para a compreensão do contexto filosófico da Modernidade. Esclarecimento, no sentido empregado por Kant, representa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reivindicação de autonomia da capacidade racional como expressão da maioridade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O exercício da racionalidade como pressuposto menor diante das verdades eternas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A imposição de verdades matemáticas, com caráter objetivo, de forma heterônoma.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A compreensão de verdades religiosas que libertam o homem da falta de entendimento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A emancipação da subjetividade humana de ideologias produzidas pela própria razão.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.823,
+      "escala": 582,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 2,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/2",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "**Texto I**\n\nO que vemos no país é uma espécie de espraiamento e a manifestação da agressividade através da violência. Isso se desdobra de maneira evidente na criminalidade, que está presente em todos os redutos — seja nas áreas abandonadas pelo poder público, seja na política ou no futebol. O brasileiro não é mais violento do que outros povos, mas a fragilidade do exercício e do reconhecimento da cidadania e a ausência do Estado em vários territórios do país se impõem como um caldo de cultura no qual a agressividade e a violência fincam suas raízes.\n\nEntrevista com Joel Birman. A Corrupção é um crime sem rosto. IstoÉ. Edição 2099, 3 fev. 2010.\n\n**Texto II**\n\nNenhuma sociedade pode sobreviver sem canalizar as pulsões e emoções do indivíduo, sem um controle muito específico de seu comportamento. Nenhum controle desse tipo é possível sem que as pessoas anteponham limitações umas às outras, e todas as limitações são convertidas, na pessoa a quem são impostas, em medo de um ou outro tipo.\n\nELIAS, N. O Processo Civilizador. Rio de Janeiro: Jorge Zahar, 1993.\n\nConsiderando-se a dinâmica do processo civilizador, tal como descrito no Texto II, o argumento do Texto I acerca da violência e agressividade na sociedade brasileira expressa a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incompatibilidade entre os modos democráticos de convívio social e a presença de aparatos de controle policial.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Manutenção de práticas repressivas herdadas dos períodos ditatoriais sob a forma de leis e atos administrativos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inabilidade das forças militares em conter a violência decorrente das ondas migratórias nas grandes cidades brasileiras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dificuldade histórica da sociedade brasileira em institucionalizar formas de controle social compatíveis com valores democráticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Incapacidade das instituições político-legislativas em formular mecanismos de controle social específicos à realidade social brasileira.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.95,
+      "escala": 795,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 3,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/3",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "![](https://enem.dev/2012/questions/4/ac453b4a-3dcd-43a8-a8d4-88471ae096ca.jpg)\n\nDisponível em: http://quadro-a-quadro.blog.br. Acesso em: 27 jan. 2012.\n\nCom sua entrada no universo dos gibis, o Capitão chegaria para apaziguar a agonia, o autoritarismo militar e combater a tirania. Claro que, em tempos de guerra, um gibi de um herói com uma bandeira americana no peito aplicando um sopapo no Fürer só poderia ganhar destaque, e o sucesso não demoraria muito a chegar.\n\nCOSTA, C. Capitão América, o primeiro vingador: crítica. Disponível em: www.revistastart.com.br.  \nAcesso em: 27 jan. 2012 (adaptado).\n\nA capa da primeira edição norte-americana da revista do Capitão América demonstra sua associação com a participação dos Estados Unidos na luta contra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Tríplice Aliança, na Primeira Guerra Mundial.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os regimes totalitários, na Segunda Guerra Mundial.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O poder soviético, durante a Guerra Fria.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O movimento comunista, na Guerra do Vietnã.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O terrorismo internacional, após 11 de setembro de 2001.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.752,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [
+      "https://enem.dev/2012/questions/4/ac453b4a-3dcd-43a8-a8d4-88471ae096ca.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 4,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/4",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "Torna-se claro que quem descobriu a África no Brasil, muito antes dos europeus, foram os próprios africanos trazidos como escravos. E esta descoberta não se restringia apenas ao reino linguístico, estendia-se também a outras áreas culturais, inclusive à da religião. Há razões para pensar que os africanos, quando misturados e transportados ao Brasil, não demoraram em perceber a existência entre si de elos culturais mais profundos.\n\nSLENES, R. Malungu, ngoma vem! África coberta e descoberta do Brasil. Revista USP, n. 12, dez./jan./fev. 1991-92 (adaptado).\n\nCom base no texto, ao favorecer o contato de indivíduos de diferentes partes da África, a experiência da escravidão no Brasil tornou possível a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formação de uma identidade cultural afro-brasileira.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Superação de aspectos culturais africanos por antigas tradições europeias.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Reprodução de conflitos entre grupos étnicos africanos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Manutenção das características culturais específicas de cada etnia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Resistência à incorporação de elementos culturais indígenas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.102,
+      "escala": 490,
+      "faixa": "Fácil"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 5,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/5",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 6,
+    "enunciado": "Nós nos recusamos a acreditar que o banco da justiça é falível. Nós nos recusamos a acreditar que há capitais insuficientes de oportunidade nesta nação. Assim nós viemos trocar este cheque, um cheque que nos dará o direito de reclamar as riquezas de liberdade e a segurança da justiça.\n\nKING Jr., M. L. Eu tenho um sonho, 28 ago. 1963. Disponível em: www.palmares.gov.br. Acesso em: 30 nov. 2011 (adaptado).\n\nO cenário vivenciado pela população negra, no sul dos Estados Unidos nos anos 1950, conduziu à mobilização social. Nessa época, surgiram reivindicações que tinham como expoente Martin Luther King e objetivavam",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conquista de direitos civis para a população negra.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O apoio aos atos violentos patrocinados pelos negros em espaço urbano.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A supremacia das instituições religiosas em meio à comunidade negra sulista.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A incorporação dos negros no mercado de trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A aceitação da cultura negra como representante do modo de vida americano.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.189,
+      "escala": 481,
+      "faixa": "Fácil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 6,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/6",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 7,
+    "enunciado": "É verdade que nas democracias o povo parece fazer o que quer; mas a liberdade política não consiste nisso. Deve-se ter sempre presente em mente o que é independência e o que é liberdade. A liberdade é o direito de fazer tudo o que as leis permitem; se um cidadão pudesse fazer tudo o que elas proíbem, não teria mais liberdade, porque os outros também teriam tal poder.\n\nMONTESQUIEU. Do Espírito das Leis. São Paulo: Editora Nova Cultural, 1997 (adaptado).\n\nA característica de democracia ressaltada por Montesquieu diz respeito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao status de cidadania que o indivíduo adquire ao tomar as decisões por si mesmo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ao condicionamento da liberdade dos cidadãos à conformidade às leis.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "À possibilidade de o cidadão participar no poder e, nesse caso, livre da submissão às leis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ao livre-arbítrio do cidadão em relação àquilo que é proibido, desde que ciente das consequências.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ao direito do cidadão exercer sua vontade de acordo com seus valores pessoais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.468,
+      "escala": 547,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 7,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/7",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 8,
+    "enunciado": "![](https://enem.dev/2012/questions/8/88114786-6c63-4f7d-9f2d-9d38e58eaaab.jpg)\n\nLord Willingdon’s Dilemma (Disponível em: www.gandhiserve.org. Acesso em: 21 nov.2011.)\n\nO cartum, publicado em 1932, ironiza as consequências sociais das constantes prisões de Mahatma Gandhi pelas autoridades britânicas, na Índia, demonstrando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ineficiência do sistema judiciário inglês no território indiano.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O apoio da população hindu à prisão de Gandhi.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O caráter violento das manifestações hindus frente à ação inglesa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A impossibilidade de deter o movimento liderado por Gandhi.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A indiferença das autoridades britânicas frente ao apelo popular hindu.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.644,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2012/questions/8/88114786-6c63-4f7d-9f2d-9d38e58eaaab.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 8,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/8",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 9,
+    "enunciado": "Na regulação de matérias culturalmente delicadas, como, por exemplo, a linguagem oficial, os currículos da educação pública, o status das Igrejas e das comunidades religiosas, as normas do direito penal (por exemplo, quanto ao aborto), mas também em assuntos menos chamativos, como, por exemplo, a posição da família e dos consórcios semelhantes ao matrimônio, a aceitação de normas de segurança ou a delimitação das esferas pública e privada — em tudo isso reflete-se amiúde apenas o autoentendimento ético-político de uma cultura majoritária, dominante por motivos históricos. Por causa de tais regras, implicitamente repressivas, mesmo dentro de uma comunidade republicana que garanta formalmente a igualdade de direitos para todos, pode eclodir um conflito cultural movido pelas minorias desprezadas contra a cultura da maioria.\n\n_HABERMAS, J. A inclusão do outro: estudos de teoria política. São Paulo: Loyola, 2002._\n\nA reivindicação dos direitos culturais das minorias, como exposto por Habermas, encontra amparo nas democracias contemporâneas, na medida em que se alcança",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A secessão, pela qual a minoria discriminada obteria a igualdade de direitos na condição da sua concentração espacial, num tipo de independência nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A reunificação da sociedade que se encontra fragmentada em grupos de diferentes comunidades étnicas, confissões religiosas e formas de vida, em torno da coesão de uma cultura política nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A coexistência das diferenças, considerando a possibilidade de os discursos de autoentendimento se submeterem ao debate público, cientes de que estarão vinculados à coerção do melhor argumento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A autonomia dos indivíduos que, ao chegarem à vida adulta, tenham condições de se libertar das tradições de suas origens em nome da harmonia da política nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O desaparecimento de quaisquer limitações, tais como linguagem política ou distintas convenções de comportamento, para compor a arena política a ser compartilhada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.621,
+      "escala": 662,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 9,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/9",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 10,
+    "enunciado": "Mas uma coisa ouso afirmar, porque há muitos testemunhos, e é que vi nesta terra de Veragua \\[Panamá\\] maiores indícios de ouro nos dois primeiros dias do que na Hispaniola em quatro anos, e que as terras da região não podem ser mais bonitas nem mais bem lavradas. Ali, se quiserem podem mandar extrair à vontade.\n\nCarta de Colombo aos reis da Espanha, julho de 1503. Apud AMADO, J.; FIGUEIREDO, L. C. Colombo e a América: quinhentos anos depois. São Paulo: Atual, 1991 (adaptado).\n\nO documento permite identificar um interesse econômico espanhol na colonização da América a partir do século XV. A implicação desse interesse na ocupação do espaço americano está indicada na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expulsão dos indígenas para fortalecer o clero católico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Promoção das guerras justas para conquistar o território.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Imposição da catequese para explorar o trabalho africano.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Opção pela policultura para garantir o povoamento ibérico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fundação de cidades para controlar a circulação de riquezas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.518,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 10,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/10",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 11,
+    "enunciado": "Que é ilegal a faculdade que se atribui à autoridade real para suspender as leis ou seu cumprimento.\n\nQue é ilegal toda cobrança de impostos para a Coroa sem o concurso do Parlamento, sob pretexto de prerrogativa, ou em época e modo diferentes dos designados por ele próprio.\n\nQue é indispensável convocar com frequência os Parlamentos para satisfazer os agravos, assim como para corrigir, afirmar e conservar leis.\n\nDeclaração de Direitos. Disponível em: http://disciplinas.stoa.usp.br Acesso em: 20 dez. 2011 (adaptado).\n\nNo documento de 1689, identifica-se uma particularidade da Inglaterra diante dos demais Estados europeus na Época Moderna. A peculiaridade inglesa e o regime político que predominavam na Europa continental estão indicados, respectivamente, em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da influência do papa – Teocracia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Limitação do poder do soberano – Absolutismo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliação da dominação da nobreza – República.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Expansão da força do presidente – Parlamentarismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Restrição da competência do congresso – Presidencialismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.099,
+      "escala": 610,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 11,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/11",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 12,
+    "enunciado": "![](https://enem.dev/2012/questions/12/83965490-d729-4348-9d55-ec54ac223f06.jpg)\n\nCartaz da Revolução Constitucionalista. (Foto: Disponível em: http://veja.abril.com.br. Acesso em: 29 jun. 2012)\n\nElaborado pelos partidários da Revolução Constitucionalista de 1932, o cartaz apresentado pretendia mobilizar a população paulista contra o governo federal.\n\nEssa mobilização utilizou-se de uma referência histórica, associando o processo revolucionário",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À experiência francesa, expressa no chamado à luta contra a ditadura.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aos ideais republicanos, indicados no destaque à bandeira paulista.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ao protagonismo das Forças Armadas, representadas pelo militar que empunha a bandeira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ao bandeirantismo, símbolo paulista apresentado em primeiro plano.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ao papel figurativo de Vargas na política, enfatizado pela pequenez de sua figura no cartaz.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.921,
+      "escala": 692,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2012/questions/12/83965490-d729-4348-9d55-ec54ac223f06.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 12,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/12",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 13,
+    "enunciado": "O que o projeto governamental tem em vista é poupar à Nação o prejuízo irreparável do perecimento e da evasão do que há de mais precioso no seu patrimônio. Grande parte das obras de arte até mais valiosas e dos bens de maior interesse histórico, de que a coletividade brasileira era depositária, têm desaparecido ou se arruinado irremediavelmente. As obras de arte típicas e as relíquias da história de cada país não constituem o seu patrimônio privado, e sim um patrimônio comum de todos os povos.\n\nANDRADE, R. M. F. Defesa do patrimônio artístico e histórico. O Jornal, 30 out. 1936. In: ALVES FILHO, I. Brasil, 500 anos em documentos. Rio de Janeiro: Mauad, 1999 (adaptado).\n\nA criação no Brasil do Serviço do Patrimônio Histórico Artístico Nacional (SPHAN), em 1937, foi orientada por ideias como as descritas no texto, que visavam",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Submeter a memória e o patrimônio nacional ao controle dos órgãos públicos, de acordo com a tendência autoritária do Estado Novo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transferir para a iniciativa privada a responsabilidade de preservação do patrimônio nacional, por meio de leis de incentivo fiscal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Definir os fatos e personagens históricos a serem cultuados pela sociedade brasileira, de acordo com o interesse público.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Resguardar da destruição as obras representativas da cultura nacional, por meio de políticas públicas preservacionistas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Determinar as responsabilidades pela destruição do patrimônio nacional, de acordo com a  legislação brasileira.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.705,
+      "escala": 571,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 13,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/13",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 14,
+    "enunciado": "A soma do tempo gasto por todos os navios de carga na espera para atracar no porto de Santos é igual a 11 anos — isso, contando somente o intervalo de janeiro a outubro de 2011. O problema não foi registrado somente neste ano. Desde 2006 a perda de tempo supera uma década.\n\n**Folha de S. Paulo**, 25 dez. 2011 (adaptado).\n\nA situação descrita gera consequências em cadeia, tanto para a produção quanto para o transporte. No que se refere à territorialização da produção no Brasil contemporâneo, uma dessas consequências é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realocação das exportações para o modal aéreo em função da rapidez.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dispersão dos serviços financeiros em função da busca de novos pontos de importação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Redução da exportação de gêneros agrícolas em função da dificuldade para o escoamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Priorização do comércio com países vizinhos em função da existência de fronteiras terrestres.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estagnação da indústria de alta tecnologia em função da concentração de investimentos na infraestrutura de circulação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 3.067,
+      "escala": 807,
+      "faixa": "Difícil"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 14,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/14",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 15,
+    "enunciado": "Diante dessas inconsistências e de outras que ainda preocupam a opinião pública, nós, jornalistas, estamos encaminhando este documento ao Sindicato dos Jornalistas Profissionais no Estado de São Paulo, para que o entregue à Justiça; e da Justiça esperamos a realização de novas diligências capazes de levar à completa elucidação desses fatos e de outros que porventura vierem a ser levantados.\n\nEm nome da verdade. In: O Estado de São Paulo, 3 fev. 1976. Apud. FILHO, I. A. Brasil, 500 anos em documentos. Rio de Janeiro: Mauad, 1999.\n\nA morte do jornalista Vladimir Herzog, ocorrida durante o regime militar, em 1975, levou a medidas como o abaixo-assinado feito por profissionais da imprensa de São Paulo. A análise dessa medida tomada indica a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certeza do cumprimento das leis.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Superação do governo de exceção.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Violência dos terroristas de esquerda.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Punição dos torturadores da polícia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expectativa da investigação dos culpados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.211,
+      "escala": 521,
+      "faixa": "Fácil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 15,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/15",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 16,
+    "enunciado": "![](https://enem.dev/2012/questions/16/1312e0b2-76e8-4010-9462-344fd7d1271e.jpg)\n\nDisponível em: www.metmuseum.org. Acesso em: 14 set. 2011. (Foto: Enem)\n\nA figura apresentada é de um mosaico, produzido por volta do ano 300 d.C., encontrado na cidade de Lod, atual Estado de Israel. Nela, encontram-se elementos que representam uma característica política dos romanos no período, indicada em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cruzadismo – conquista da terra santa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Patriotismo – exaltação da cultura local.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Helenismo – apropriação da estética grega.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Imperialismo – selvageria dos povos dominados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expansionismo – diversidade dos territórios conquistados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.64,
+      "escala": 664,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2012/questions/16/1312e0b2-76e8-4010-9462-344fd7d1271e.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 16,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/16",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 17,
+    "enunciado": "Após o retorno de uma viagem a Minas Gerais, onde Pedro I fora recebido com grande frieza, seus partidários prepararam uma série de manifestações a favor do imperador no Rio de Janeiro, armando fogueiras e luminárias na cidade. Contudo, na noite de 11 de março, tiveram início os conflitos que ficaram conhecidos como a Noite das Garrafadas, durante os quais os “brasileiros”apagavam as fogueiras “portuguesas” e atacavam as casas iluminadas, sendo respondidos com cacos de garrafas jogadas das janelas.\n\nVAINFAS, R. (Org.). Dicionário do Brasil Imperial. Rio de Janeiro: Objetiva, 2008 (adaptado).\n\nOs anos finais do I Reinado (1822-1831) se caracterizaram pelo aumento da tensão política. Nesse sentido, a análise dos episódios descritos em Minas Gerais e no Rio de Janeiro revela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estímulos ao racismo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apoio ao xenofobismo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Críticas ao federalismo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Repúdio ao republicanismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Questionamentos ao autoritarismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.197,
+      "escala": 620,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 17,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/17",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 18,
+    "enunciado": "Portadora de memória, a paisagem ajuda a construir os sentimentos de pertencimento; ela cria uma atmosfera que convém aos momentos fortes da vida, às festas, às comemorações.\n\nCLAVAL, P. **Terra dos homens**: a geografia. São Paulo: Contexto, 2010 (adaptado).\n\nNo texto, é apresentada uma forma de integração da paisagem geográfica com a vida social. Nesse sentido, a paisagem, além de existir como forma concreta, apresenta uma dimensão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Política de apropriação efetiva do espaço.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Econômica de uso de recursos do espaço.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Privada de limitação sobre a utilização do espaço.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Natural de composição por elementos físicos do espaço.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Simbólica de relação subjetiva do indivíduo com o espaço.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.333,
+      "escala": 533,
+      "faixa": "Fácil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 18,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/18",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 19,
+    "enunciado": "![](https://enem.dev/2012/questions/19/183e7c66-05d7-4a2a-b22b-1b27eb79153f.png)\n\nNa imagem do início do século XX, identifica-se um modelo produtivo cuja forma de organização fabril baseava-se na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autonomia do produtor direto.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adoção da divisão sexual do trabalho.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Exploração do trabalho repetitivo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Utilização de empregados qualificados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Incentivo à criatividade dos funcionários.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.208,
+      "escala": 521,
+      "faixa": "Fácil"
+    },
+    "habilidade": 16,
+    "imagens": [
+      "https://enem.dev/2012/questions/19/183e7c66-05d7-4a2a-b22b-1b27eb79153f.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 19,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/19",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 20,
+    "enunciado": "A singularidade da questão da terra na África Colonial é a expropriação por parte do colonizador e as desigualdades raciais no acesso à terra. Após a independência, as populações de colonos brancos tenderam a diminuir, apesar de a proporção de terra em posse da minoria branca não ter diminuído proporcionalmente.\n\nMOYO, S. A terra africana e as questões agrárias: o caso das lutas pela terra no Zimbábue. In: FERNANDES, B. M.; MARQUES, M. I. M.; SUZUKI, J. C. (Org.). **Geografia agrária:** teoria e poder. São Paulo: Expressão Popular, 2007.\n\nCom base no texto, uma característica socioespacial e um consequente desdobramento que marcou o processo de ocupação do espaço rural na África subsaariana foram:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exploração do campesinato pela elite proprietária – Domínio das instituições fundiárias pelo poder público.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adoção de práticas discriminatórias de acesso à terra – Controle do uso especulativo da propriedade fundiária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Desorganização da economia rural de subsistência – Crescimento do consumo interno de alimentos pelas famílias camponesas.Desorganização da economia rural de subsistência – Crescimento do consumo interno de alimentos pelas famílias camponesas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Crescimento dos assentamentos rurais com mão de obra familiar – Avanço crescente das áreas rurais sobre as regiões urbanas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Concentração das áreas cultiváveis no setor agroexportador – Aumento da ocupação da população pobre em territórios agrícolas marginais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.567,
+      "escala": 757,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 20,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/20",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 21,
+    "enunciado": "**Texto I**\n\nA Europa entrou em estado de exceção, personificado por obscuras forças econômicas sem rosto ou localização física conhecida que não prestam contas a ninguém e se espalham pelo globo por meio de milhões de transações diárias no ciberespaço.\n\nROSSI, C. Nem fim do mundo nem mundo novo. **Folha de São Paulo**, 11 dez. 2011 (adaptado).\n\n**Texto II**\n\nEstamos imersos numa crise financeira como nunca tínhamos visto desde a Grande Depressão iniciada em 1929 nos Estados Unidos.\n\nEntrevista de George Soros. Disponível em: www.nybooks.com. Acesso em: 17 ago. 2011 (adaptado).\n\nA comparação entre os significados da atual crise econômica e do crash de 1929 oculta a principal diferença entre essas duas crises, pois:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crash da Bolsa em 1929 adveio do envolvimento dos EUA na I Guerra Mundial e a atual crise é o resultado dos gastos militares desse país nas guerras do Afeganistão e Iraque.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A crise de 1929 ocorreu devido a um quadro de superprodução industrial nos EUA e a atual crise resultou da especulação financeira e da expansão desmedida do crédito bancário.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A crise de 1929 foi o resultado da concorrência dos países europeus reconstruídos após a I Guerra e a atual crise se associa à emergência dos BRICS como novos concorrentes econômicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O crash da Bolsa em 1929 resultou do excesso de proteções ao setor produtivo estadunidense e a atual crise tem origem na internacionalização das empresas e no avanço da política de livre mercado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A crise de 1929 decorreu da política intervencionista norte-americana sobre o sistema de comércio mundial e a atual crise resultou do excesso de regulação do governo desse país sobre o sistema monetário.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.683,
+      "escala": 568,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 21,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/21",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 22,
+    "enunciado": "![](https://enem.dev/2012/questions/22/fb0f342c-e781-457a-a8c6-a920cc7c5bd9.jpg)\n\nFoto de Jovens em protesto contra a Guerra do Vietnã. Disponível em: http://goldenyears66to69.blogspot.com. Acesso em: 10 out. 2011.\n\nTexto do Cartaz: “Amor e não guerra”\n\nNos anos que se seguiram à Segunda Guerra, movimentos como o Maio de 1968 ou a campanha contra a Guerra do Vietnã culminaram no estabelecimento de diferentes formas de participação política. Seus slogans, tais como “Quando penso em revolução quero fazer amor”, se tornaram símbolos da agitação cultural nos anos 1960, cuja inovação relacionava-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À contestação da crise econômica europeia, que fora provocada pela manutenção das guerras coloniais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "À organização partidária da juventude comunista, visando o estabelecimento da ditadura do proletariado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "À unificação das noções de libertação social e libertação individual, fornecendo um significado político ao uso do corpo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "À defesa do amor cristão e monogâmico, com fins à reprodução, que era tomado como solução para os conflitos sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ao reconhecimento da cultura das gerações passadas, que conviveram com a emergência do rock e outras mudanças nos costumes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.871,
+      "escala": 587,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2012/questions/22/fb0f342c-e781-457a-a8c6-a920cc7c5bd9.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 22,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/22",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 23,
+    "enunciado": "Nossa cultura lipofóbica muito contribui para a distorção da imagem corporal, gerando gordos que se veem magros e magros que se veem gordos, numa quase unanimidade de que todos se sentem ou se veem “distorcidos”. Engordamos quando somos gulosos. É pecado da gula que controla a relação do homem com a balança. Todo obeso declarou, um dia, guerra à balança. Para emagrecer é preciso fazer as pazes com a dita cuja, visando adequar-se às necessidades para as quais ela aponta.\n\n_FREIRE, D. S. Obesidade não pode ser pré-requisito. Disponível em: http//gnt.globo.com. Acesso em: 3 abr. 2012 (adaptado)._\n\nO texto apresenta um discurso de disciplinarização dos corpos, que tem como consequência",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ampliação dos tratamentos médicos alternativos, reduzindo os gastos com remédios.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A democratização do padrão de beleza, tornando-o acessível pelo esforço individual.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O controle do consumo, impulsionando uma crise econômica na indústria de alimentos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A culpabilização individual, associando obesidade à fraqueza de caráter.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O aumento da longevidade, resultando no crescimento populacional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.747,
+      "escala": 775,
+      "faixa": "Difícil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 23,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/23",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 24,
+    "enunciado": "![](https://enem.dev/2012/questions/24/85a5a375-1b0d-4724-a54f-70e4ab4fbba8.jpg)\n\nA interpretação e a correlação das figuras sobre a dinâmica demográfica brasileira demonstram um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menor proporção de fecundidade na área urbana.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Menor proporção de homens na área rural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento da proporção de fecundidade na área rural.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Queda da longevidade na área rural.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Queda do número de idosos na área urbana.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.909,
+      "escala": 591,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2012/questions/24/85a5a375-1b0d-4724-a54f-70e4ab4fbba8.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 24,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/24",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 25,
+    "enunciado": "Para Platão, o que havia de verdadeiro em Parmênides era que o objeto de conhecimento é um objeto de razão e não de sensação, e era preciso estabelecer uma relação entre objeto racional e objeto sensível ou material que privilegiasse o primeiro em detrimento do segundo. Lenta, mas irresistivelmente, a Doutrina das Ideias formava-se em sua mente.\n\n_ZINGANO, M. Platão e Aristóteles: o fascínio da filosofia. São Paulo: Odysseus, 2012 (adaptado)._\n\nO texto faz referência à relação entre razão e sensação, um aspecto essencial da Doutrina das Ideias de Platão (427 a.C.-346 a.C.). De acordo com o texto, como Platão se situa diante dessa relação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estabelecendo um abismo intransponível entre as duas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Privilegiando os sentidos e subordinando o conhecimento a eles.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Atendo-se à posição de Parmênides de que razão e sensação são inseparáveis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Afirmando que a razão é capaz de gerar conhecimento, mas a sensação não.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Rejeitando a posição de Parmênides de que a sensação é superior à razão.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.196,
+      "escala": 620,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 25,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/25",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 26,
+    "enunciado": "A maior parte dos veículos de transporte atualmente é movida por motores a combustão que utilizam derivados de petróleo. Por causa disso, esse setor é o maior consumidor de petróleo do mundo, com altas taxas de crescimento ao longo do tempo. Enquanto outros setores têm obtido bons resultados na redução do consumo, os transportes tendem a concentrar ainda mais o uso de derivados do óleo.\n\nMURTA, A. **Energia**: o vício da civilização. Rio de Janeiro: Garamond, 2011 (adaptado).\n\nUm impacto ambiental da tecnologia mais empregada pelo setor de transportes e uma medida para promover a redução do seu uso, estão indicados, respectivamente, em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da poluição sonora – construção de barreiras acústicas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Incidência da chuva ácida – estatização da indústria automobilística.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Derretimento das calotas polares – incentivo aos transportes de massa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Propagação de doenças respiratórias – distribuição de medicamentos gratuitos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Elevação das temperaturas médias – criminalização da emissão de gás carbônico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.029,
+      "escala": 603,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 26,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/26",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 27,
+    "enunciado": "As mulheres quebradeiras de coco-babaçu dos Estados do Maranhão, Piauí, Pará e Tocantins, na sua grande maioria, vivem numa situação de exclusão e subalternidade. O termo quebradeira de coco assume o caráter de identidade coletiva na medida em que as mulheres que sobrevivem dessa atividade e reconhecem sua posição e condição desvalorizada pela lógica da dominação, se organizam em movimentos de resistência e de luta pela conquista da terra, pela libertação dos babaçuais, pela autonomia do processo produtivo. Passam a atribuir significados ao seu trabalho e as suas experiências, tendo como principal referência sua condição preexistente de acesso e uso dos recursos naturais.\n\nROCHA, M. R. T. A luta das mulheres quebradeiras de coco-babaçu, pela libertação do coco preso e pela posse da terra. In: **Anais do VII Congresso Latino-Americano de Sociologia Rural**, Quito, 2006 (adaptado).\n\nA organização do movimento das quebradeiras de coco de babaçu é resultante da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constante violência nos babaçuais na confluência de terras maranhenses, piauienses, paraenses e tocantinenses, região com elevado índice de homicídios.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Falta de identidade coletiva das trabalhadoras, migrantes das cidades e com pouco vínculo histórico com as áreas rurais do interior do Tocantins, Pará, Maranhão e Piauí.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Escassez de água nas regiões de veredas, ambientes naturais dos babaçus, causada pela construção de açudes particulares, impedindo o amplo acesso público aos recursos hídricos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Progressiva devastação das matas dos cocais, em função do avanço da sojicultura nos chapadões do Meio-Norte brasileiro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dificuldade imposta pelos fazendeiros e posseiros no acesso aos babaçuais localizados no interior de suas propriedades.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.806,
+      "escala": 581,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 27,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/27",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 28,
+    "enunciado": "Anaxímenes de Mileto disse que o ar é o elemento originário de tudo o que existe, existiu e existirá, e que outras coisas provêm de sua descendência. Quando o ar se dilata, transforma-se em fogo, ao passo que os ventos são ar condensado. As nuvens formam-se a partir do ar por feltragem e, ainda mais condensadas, transformam-se em água. A água, quando mais condensada, transforma-se em terra, e quando condensada ao máximo possível, transformase em pedras.\n\n_BURNET, J. A aurora da filosofia grega. Rio de Janeiro: PUC-Rio, 2006 (adaptado)._\n\nTEXTO II\n\nBasílio Magno, filósofo medieval, escreveu: “Deus, como criador de todas as coisas, está no princípio do mundo e dos tempos. Quão parcas de conteúdo se nos apresentam, em face desta concepção, as especulações contraditórias dos filósofos, para os quais o mundo se origina, ou de algum dos quatro elementos, como ensinam os Jônios, ou dos átomos, como julga Demócrito. Na verdade, dão a impressão de quererem ancorar o mundo numa teia de aranha.”\n\n_GILSON, E.; BOEHNER, P. História da Filosofia Cristã. São Paulo: Vozes, 1991 (adaptado)._\n\nFilósofos dos diversos tempos históricos desenvolveram teses para explicar a origem do universo, a partir de uma explicação racional. As teses de Anaxímenes, filósofo grego antigo, e de Basílio, filósofo medieval, têm em comum na sua fundamentação teorias que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eram baseadas nas ciências da natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Refutavam as teorias de filósofos da religião.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tinham origem nos mitos das civilizações antigas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Postulavam um princípio originário para o mundo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defendiam que Deus é o princípio de todas as coisas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.542,
+      "escala": 554,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 28,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 30,
+    "enunciado": "Experimentei algumas vezes que os sentidos eram enganosos, e é de prudência nunca se fiar inteiramente em quem já nos enganou uma vez.\n\n_DESCARTES, R. Meditações Metafísicas. São Paulo: Abril Cultural, 1979._\n\nTEXTO II\n\nSempre que alimentarmos alguma suspeita de que uma ideia esteja sendo empregada sem nenhum significado, precisaremos apenas indagar: de que impressão deriva esta suposta ideia? E se for impossível atribuir-lhe qualquer impressão sensorial, isso servirá para confirmar nossa suspeita.\n\n_HUME, D. Uma investigação sobre o entendimento. São Paulo: Unesp, 2004 (adaptado)._\n\nNos textos, ambos os autores se posicionam sobre a natureza do conhecimento humano. A comparação dos excertos permite assumir que Descartes e Hume",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Defendem os sentidos como critério originário para considerar um conhecimento legítimo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entendem que é desnecessário suspeitar do significado de uma ideia na reflexão filosófica e crítica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "São legítimos representantes do criticismo quanto à gênese do conhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Concordam que conhecimento humano é impossível em relação às ideias e aos sentidos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Atribuem diferentes lugares ao papel dos sentidos no processo de obtenção do conhecimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.01,
+      "escala": 701,
+      "faixa": "Difícil"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 30,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/30",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 31,
+    "enunciado": "Não ignoro a opinião antiga e muito difundida de que o que acontece no mundo é decidido por Deus e pelo acaso. Essa opinião é muito aceita em nossos dias, devido às grandes transformações ocorridas, e que ocorrem diariamente, as quais escapam à conjectura humana. Não obstante, para não ignorar inteiramente o nosso livre-arbítrio, creio que se pode aceitar que a sorte decida metade dos nossos atos, mas \\[o livre-arbítrio\\] nos permite o controle sobre a outra metade.\n\n_MAQUIAVEL, N. O Príncipe. Brasília: EdUnB, 1979 (adaptado)._\n\nEm O Príncipe, Maquiavel refletiu sobre o exercício do poder em seu tempo. No trecho citado, o autor demonstra o vínculo entre o seu pensamento político e o humanismo renascentista ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorizar a interferência divina nos acontecimentos definidores do seu tempo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Rejeitar a intervenção do acaso nos processos políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Afirmar a confiança na razão autônoma como fundamento da ação humana.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Romper com a tradição que valorizava o passado como fonte de aprendizagem.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Redefinir a ação política com base na unidade entre fé e razão.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.452,
+      "escala": 745,
+      "faixa": "Difícil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 31,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/31",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 32,
+    "enunciado": "A interface clima/sociedade pode ser considerada em termos de ajustamento à extensão e aos modos como as sociedades funcionam em uma relação harmônica com seu clima. O homem e suas sociedades são vulneráveis às variações climáticas. A vulnerabilidade é a medida pela qual uma sociedade é suscetível de sofrer por causas climáticas.\n\nAYOADE, J. O. I**ntrodução a climatologia para os trópicos**. Rio de Janeiro: Bertrand Brasil, 2010 (adaptado).\n\nConsiderando o tipo de relação entre ser humano e condição climática apresentado no texto, uma sociedade torna-se mais vulnerável quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Concentra suas atividades no setor primário.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apresenta estoques elevados de alimentos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Possui um sistema de transportes articulado.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diversifica a matriz de geração de energia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Introduz tecnologias à produção agrícola.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.589,
+      "escala": 559,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 32,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/32",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 33,
+    "enunciado": "Uma mesma empresa pode ter sua sede administrativa onde os impostos são menores, as unidades de produção onde os salários são os mais baixos, os capitais onde os juros são os mais altos e seus executivos vivendo onde a qualidade de vida é mais elevada.\n\nSEVCENKO, N. **A corrida para o século XXI**: no loop da montanha russa. São Paulo: Companhia das Letras, 2001 (adaptado).\n\nNo texto estão apresentadas estratégias empresariais no contexto da globalização. Uma consequência social derivada dessas estratégias tem sido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crescimento da carga tributária.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O aumento da mobilidade ocupacional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A redução da competitividade entre as empresas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O direcionamento das vendas para os mercados regionais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A ampliação do poder de planejamento dos Estados nacionais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.539,
+      "escala": 654,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 33,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/33",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 34,
+    "enunciado": "A moderna “conquista da Amazônia” inverteu o eixo geográfico da colonização da região. Desde a época colonial até meados do século XIX, as correntes principais e população movimentaram-se no sentido Leste-Oeste, estabelecendo uma ocupação linear articulada. Nas últimas décadas, os fluxos migratórios passaram a se verificar no sentido Sul-Norte, conectando o Centro-Sul à Amazônia.\n\nOLIC, N. B. Ocupação da Amazônia, uma epopeia inacabada. **Jornal Mundo**, ano 16, n. 4, ago. 2008 (adaptado).\n\nO primeiro eixo geográfico de ocupação das terras amazônicas demonstra um padrão relacionado à criação de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Núcleos urbanos em áreas litorâneas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Centros agrícolas modernos no interior.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Vias férreas entre espaços de mineração.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Faixas de povoamento ao longo das estradas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Povoados interligados próximos a grandes rios.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.64,
+      "escala": 764,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 34,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/34",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 35,
+    "enunciado": "A experiência que tenho de lidar com aldeias de diversas nações me tem feito ver, que nunca índio fez grande confiança de branco e, se isto sucede com os que estão já civilizados, como não sucederá o mesmo com esses que estão ainda brutos.\n\nNORONHA, M. Carta a J. Caldeira Brant. 2 jan.1751. Apud CHAIM, M. M. Aldeamentos indígenas (Goiás: 1749-1811). São Paulo: Nobel, Brasília: INL, 1983 (adaptado).\n\nEm 1749, ao separar-se de São Paulo, a capitania de Goiás foi governada por D. Marcos de Noronha, que atendeu às diretrizes da política indigenista pombalina que incentivava a criação de aldeamentos em função",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Das constantes rebeliões indígenas contra os brancos colonizadores, que ameaçavam a produção de ouro nas regiões mineradoras.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Da propagação de doenças originadas do contato com os colonizadores, que dizimaram boa parte da população indígena.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Do empenho das ordens religiosas em proteger o indígena da exploração, o que garantiu a sua supremacia na administração colonial.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Da política racista da Coroa Portuguesa, contrária à miscigenação, que organizava a sociedade em uma hierarquia dominada pelos brancos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Da necessidade de controle dos brancos sobre a população indígena, objetivando sua adaptação às exigências do trabalho regular.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.348,
+      "escala": 735,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 35,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/35",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 36,
+    "enunciado": "A partir dos anos 70, impõe-se um movimento de desconcentração da produção industrial, uma das manifestações do desdobramento da divisão territorial do trabalho no Brasil. A produção industrial torna-se mais complexa, estendendo-se, sobretudo, para novas áreas do Sul e para alguns pontos do Centro-Oeste, do Nordeste e do Norte.\n\nSANTOS, M.; SILVEIRA, M. L. **O Brasil**: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2002 (fragmento).\n\nUm fator geográfico que contribui para o tipo de alteração da configuração territorial descrito no texto é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obsolescência dos portos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Estatização de empresas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Eliminação de incentivos fiscais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliação de políticas protecionistas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desenvolvimento dos meios de comunicação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.127,
+      "escala": 713,
+      "faixa": "Difícil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 36,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/36",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 37,
+    "enunciado": "As plataformas ou crátons correspondem aos terrenos mais antigos e arrasados por muitas fases de erosão. Apresentam uma grande complexidade litológica, prevalecendo as rochas metamórficas muito antigas (Pré-Cambriano Médio e Inferior). Também ocorrem rochas intrusivas antigas e resíduos de rochas sedimentares. São três as áreas de plataforma de crátons no Brasil: a das Guianas, a Sul-Amazônica e a do São Francisco.\n\nROSS, J. L. S. **Geografia do Brasil**. São Paulo: Edusp, 1998.\n\nAs regiões cratônicas das Guianas e a Sul-Amazônica têm como arcabouço geológico vastas extensões de escudos cristalinos, ricos em minérios, que atraíram a ação de empresas nacionais e estrangeiras do setor de mineração e destacam-se pela sua história geológica por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentarem áreas de intrusões graníticas, ricas em jazidas minerais (ferro, manganês).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Corresponderem ao principal evento geológico do Cenozoico no território brasileiro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentarem áreas arrasadas pela erosão, que originaram a maior planície do país.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Possuírem em sua extensão terrenos cristalinos ricos em reservas de petróleo e gás natural.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Serem esculpidas pela ação do intemperismo físico, decorrente da variação de temperatura.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.082,
+      "escala": 608,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 37,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 38,
+    "enunciado": "A irrigação da agricultura é responsável pelo consumo de mais de 2/3 de toda a água retirada dos rios, lagos e lençóis freáticos do mundo. Mesmo no Brasil, onde achamos que temos muita água, os agricultores que tentam produzir alimentos também enfrentam secas periódicas e uma competição crescente por água.\n\nMARAFON, G. J. et al. **O desencanto da terra**: produção de alimentos, ambiente e sociedade. Rio de Janeiro: Garamond, 2011.\n\nNo Brasil, as técnicas de irrigação utilizadas na agricultura produziram impactos socioambientais como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução do custo de produção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Agravamento da poluição hídrica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Compactação do material do solo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aceleração da fertilização natural.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Redirecionamento dos cursos fluviais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1,
+      "escala": 600,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 38,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/38",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 39,
+    "enunciado": "**Texto I**\n\nAo se emanciparem da tutela senhorial, muitos camponeses foram desligados legalmente da antiga terra. Deveriam pagar, para adquirir propriedade ou arrendamento. Por não possuírem recursos, engrossaram a camada cada vez maior de jornaleiros e trabalhadores volantes, outros, mesmo tendo propriedade sobre um pequeno lote, suplementavam sua existência com o assalariamento esporádico.\n\nMACHADO, P. P. **Política e colonização no Império**. Porto Alegre: EdUFRGS, 1999 (adaptado).\n\n**Texto II**\n\nCom a globalização da economia ampliou-se a hegemonia do modelo de desenvolvimento agropecuário, com seus padrões tecnológicos, caracterizando o agronegócio. Essa nova face da agricultura capitalista também mudou a forma de controle e exploração da terra. Ampliou-se, assim, a ocupação de áreas agricultáveis e as fronteiras agrícolas se estenderam.\n\nSADER, E.; JINKINGS, I. **Enciclopédia Contemporânea da América Latina e do Caribe**. São Paulo: Boitempo, 2006 (adaptado).\n\nOs textos demonstram que, tanto na Europa do século XIX quanto no contexto latino-americano do século XXI, as alterações tecnológicas vivenciadas no campo interferem na vida das populações locais, pois",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Induzem os jovens ao estudo nas grandes cidades, causando o êxodo rural, uma vez que formados, não retornam à sua região de origem.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Impulsionam as populações locais a buscar linhas de financiamento estatal com o objetivo de ampliar a agricultura familiar, garantindo sua fixação no campo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliam o protagonismo do Estado, possibilitando a grupos econômicos ruralistas produzir e impor políticas agrícolas, ampliando o controle que tinham dos mercados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentam a produção e a produtividade de determinadas culturas em função da intensificação da mecanização, do uso de agrotóxicos e cultivo de plantas transgênicas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desorganizam o modo tradicional de vida impelindo-as à busca por melhores condições no espaço urbano ou em outros países em situações muitas vezes precárias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.267,
+      "escala": 627,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 39,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/39",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 40,
+    "enunciado": "Em um engenho sois imitadores de Cristo crucificado porque padeceis em um modo muito semelhante o que o mesmo Senhor padeceu na sua cruz e em toda a sua paixão. A sua cruz foi composta de dois madeiros, e a vossa em um engenho é de três. Também ali não faltaram as canas, porque duas vezes entraram na Paixão: uma vez servindo para o cetro de escárnio, e outra vez para a esponja em que lhe deram o fel. A Paixão de Cristo parte foi de noite sem dormir, parte foi de dia sem descansar, e tais são as vossas noites e os vossos dias. Cristo despido, e vós despidos; Cristo sem comer, e vós famintos; Cristo em tudo maltratado, e vós maltratados em tudo. Os ferros, as prisões, os açoites, as chagas, os nomes afrontosos, de tudo isto se compõe a vossa imitação, que, se for acompanhada de paciência, também terá merecimento de martírio.\n\nVIEIRA, A. Sermões. Tomo XI. Porto: Lello & Irmão, 1951 (adaptado).\n\nO trecho do sermão do Padre Antônio Vieira estabelece uma relação entre a Paixão de Cristo e",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A atividade dos comerciantes de açúcar nos portos brasileiros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A função dos mestres de açúcar durante a safra de cana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O sofrimento dos jesuítas na conversão dos ameríndios.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O papel dos senhores na administração dos engenhos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O trabalho dos escravos na produção de açúcar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.003,
+      "escala": 500,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 40,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/40",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 41,
+    "enunciado": "Fugindo à luta de classes, a nossa organização sindical tem sido um instrumento de harmonia e de cooperação entre o capital e o trabalho. Não se limitou a um sindicalismo puramente “operário”, que conduziria certamente a luta contra o “patrão”, como aconteceu com outros povos.\n\nFALCÃO, W. Cartas sindicais. In: Boletim do Ministério do Trabalho, Indústria e Comércio. Rio de Janeiro, 10 (85), set. 1941 (adaptado).\n\nNesse documento oficial, à época do Estado Novo (1937-1945), é apresentada uma concepção de organização sindical que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elimina os conflitos no ambiente das fábricas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Limita os direitos associativos do segmento patronal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Orienta a busca do consenso entre trabalhadores e patrões.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proíbe o registro de estrangeiros nas entidades profissionais do país.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desobriga o Estado quanto aos direitos e deveres da classe trabalhadora.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.224,
+      "escala": 478,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 41,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/41",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 42,
+    "enunciado": "O uso da água aumenta de acordo com as necessidades da população no mundo. Porém, diferentemente do que se possa imaginar, o aumento do consumo de água superou em duas vezes o crescimento populacional durante o século XX.\n\nTEIXEIRA, W. et al. **Decifrando a Terra**. São Paulo: Cia. Editora Nacional, 2009.\n\nUma estratégia socioespacial que pode contribuir para alterar a lógica de uso da água apresentada no texto é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ampliação de sistemas de reutilização hídrica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Expansão da irrigação por aspersão das lavouras.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Intensificação do controle do desmatamento de florestas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Adoção de técnicas tradicionais de produção.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criação de incentivos fiscais para o cultivo de produtos orgânicos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.295,
+      "escala": 471,
+      "faixa": "Fácil"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 42,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/42",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 43,
+    "enunciado": "Minha vida é andar\n\nPor esse país\n\nPra ver se um dia\n\nDescanso feliz\n\nGuardando as recordações\n\nDas terras onde passei\n\nAndando pelos sertões\n\nE dos amigos que lá deixei\n\nGONZAGA, L.; CORDOVIL. H. **A vida de viajante**, 1953. Disponível em: www.recife.pe.gov.br. Acesso em: 20 fev. 2012 (fragmento).\n\nA letra dessa canção reflete elementos identitários que representam a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorização das características naturais do Sertão nordestino.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Denúncia da precariedade social provocada pela seca.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Experiência de deslocamento vivenciada pelo migrante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Profunda desigualdade social entre as regiões brasileiras.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Discriminação dos nordestinos nos grandes centros urbanos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.043,
+      "escala": 504,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 43,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/43",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  },
+  {
+    "numero": 44,
+    "enunciado": "Próximo da Igreja dedicada a São Gonçalo nos deparamos com uma impressionante multidão que dançava ao som de suas violas. Tão logo viram o Vice-Rei, cercaram-no e o obrigaram a dançar e pular, exercício violento e pouco apropriado tanto para sua idade quanto posição. Tivemos nós mesmos que entrar na dança, por bem ou por mal, e não deixou de ser interessante ver numa igreja padres, mulheres, frades, cavalheiros e escravos a dançar e pular misturados, e a gritar a plenos pulmões “Viva São Gonçalo do Amarante”.\n\nBarbinais, Le Gentil. Noveau Voyage autour du monde. Apud: TINHORÃO, J. R. **As festas no Brasil Colonial**. São Paulo: Ed. 34, 2000 (adaptado).\n\nO viajante francês, ao descrever suas impressões sobre uma festa ocorrida em Salvador, em 1717, demonstra dificuldade em entendê-la, porque, como outras manifestações religiosas do período colonial, ela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Seguia os preceitos advindos da hierarquia católica romana.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Demarcava a submissão do povo à autoridade constituída.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Definia o pertencimento dos padres às camadas populares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Afirmava um sentido comunitário de partilha da devoção.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Harmonizava as relações sociais entre escravos e senhores.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.943,
+      "escala": 694,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2012,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 44,
+      "provaMicrodados": "137",
+      "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/44",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip"
+    }
+  }
+]

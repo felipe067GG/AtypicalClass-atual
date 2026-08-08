@@ -84,10 +84,22 @@ export async function extrairDoZipRemoto(url, tamanhoTotal, padrao) {
  * lugar errado do arquivo — falha obscura, longe da causa.
  */
 async function tamanhoRemoto(url) {
-  const { stdout } = await exec("curl", ["-sI", "--retry", "3", "--max-time", "120", "-A", UA, url])
-  const tamanho = stdout.match(/content-length:\s*(\d+)/i)?.[1]
-  if (!tamanho) throw new Error(`Servidor não informou o tamanho de ${url}`)
-  return Number(tamanho)
+  // O host do INEP recusa requisições sem padrão — a mesma URL responde 200
+  // numa tentativa e nada na seguinte. Sem insistir, um ano inteiro é
+  // descartado por soluço de rede e o erro parece falta do arquivo.
+  for (let tentativa = 1; tentativa <= 5; tentativa += 1) {
+    try {
+      const { stdout } = await exec("curl", [
+        "-sI", "--retry", "4", "--retry-all-errors", "--retry-delay", "3", "--max-time", "180", "-A", UA, url,
+      ])
+      const tamanho = stdout.match(/content-length:\s*(\d+)/i)?.[1]
+      if (tamanho) return Number(tamanho)
+    } catch {
+      // tentativa perdida; a espera abaixo cobre
+    }
+    await new Promise((resolve) => setTimeout(resolve, 2000 * tentativa))
+  }
+  throw new Error(`Servidor não informou o tamanho de ${url} após 5 tentativas`)
 }
 
 /** Baixa e guarda o CSV de itens de um ano. */
@@ -100,7 +112,10 @@ export async function obterItens(ano) {
     const csv = await extrairDoZipRemoto(
       url,
       await tamanhoRemoto(url),
-      new RegExp(`ITENS_PROVA_${ano}\\.csv$`),
+      // Sem `i`, 2016 fica de fora: o arquivo dele se chama
+      // `itens_prova_2016.csv`, em minúsculas, enquanto os outros anos usam
+      // maiúsculas. Um ano inteiro travado por caixa de letra.
+      new RegExp(`ITENS_PROVA_${ano}\\.csv$`, "i"),
     )
     await writeFile(destino, csv)
     return csv.toString("utf8")

@@ -64,10 +64,20 @@ async function buscarQuestao(ano, numero) {
  * demais, que a API estava errada. Ela seguia o azul, e eu conferia contra o
  * amarelo.
  *
- * A identificação é por concordância total: o caderno certo bate 100% das
- * respostas, os outros ficam perto de 20%, que é o acaso de cinco
- * alternativas.
+ * A identificação é por dominância, não por perfeição. O caderno certo fica
+ * perto de 100% e os outros perto de 20%, que é o acaso de cinco alternativas
+ * — a distância entre eles é enorme e não precisa de unanimidade para ser
+ * lida.
+ *
+ * Exigir 100% aqui custou caro: em 2020 o caderno azul batia 40 de 41 contra
+ * 34% do segundo colocado, e o ano inteiro era descartado por uma única
+ * divergência. Era confundir duas perguntas diferentes — "qual caderno é
+ * este?" e "esta questão está certa?". A segunda continua sendo respondida
+ * questão por questão, e a divergente é rejeitada sozinha, sem levar as outras
+ * quarenta junto.
  */
+const CONCORDANCIA_MINIMA = 0.9
+const VANTAGEM_MINIMA = 2.5
 function identificarCaderno(itens, respostasDaApi) {
   const candidatos = new Map()
 
@@ -83,17 +93,21 @@ function identificarCaderno(itens, respostasDaApi) {
     if (item.dificuldadeB !== null) placar.comDificuldade += 1
   }
 
-  const perfeitos = [...candidatos.entries()]
-    .filter(([, p]) => p.total >= 20 && p.acertos === p.total)
-    // Havendo empate, fica o que tem dificuldade para mais itens: cadernos
-    // diferentes podem repetir o gabarito, mas o que interessa é o que traz
-    // os parâmetros da TRI completos.
-    .sort((a, b) => b[1].comDificuldade - a[1].comDificuldade)
+  const ranking = [...candidatos.entries()]
+    .filter(([, p]) => p.total >= 20)
+    .map(([chave, p]) => ({ chave, ...p, taxa: p.acertos / p.total }))
+    .sort((a, b) => b.taxa - a.taxa || b.comDificuldade - a.comDificuldade)
 
-  if (!perfeitos.length) return null
-  const [chave, placar] = perfeitos[0]
-  const [cor, prova] = chave.split("|")
-  return { cor, prova, ...placar }
+  const [melhor, segundo] = ranking
+  if (!melhor || melhor.taxa < CONCORDANCIA_MINIMA) return null
+
+  // A vantagem sobre o segundo é o que separa identificação de coincidência.
+  // Sem ela, um caderno que batesse 90% por acaso passaria — e a dificuldade
+  // de todas as questões viria da prova errada.
+  if (segundo && melhor.taxa < segundo.taxa * VANTAGEM_MINIMA) return null
+
+  const [cor, prova] = melhor.chave.split("|")
+  return { cor, prova, acertos: melhor.acertos, total: melhor.total }
 }
 
 export async function importar({ ano, area, lidas = {} }) {
@@ -115,8 +129,9 @@ export async function importar({ ano, area, lidas = {} }) {
   const caderno = identificarCaderno(todos, respostas)
   if (!caderno) {
     throw new Error(
-      `Nenhum caderno de ${area}/${ano} bate 100% com as respostas da API. ` +
-        "Sem essa identificação, dificuldade e gabarito viriam de outra prova.",
+      `Nenhum caderno de ${area}/${ano} concorda o bastante com as respostas da API ` +
+        `(mínimo ${Math.round(CONCORDANCIA_MINIMA * 100)}% e ${VANTAGEM_MINIMA}x o segundo colocado). ` +
+        "Sem identificar o caderno, dificuldade e gabarito viriam de outra prova.",
     )
   }
 

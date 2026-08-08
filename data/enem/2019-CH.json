@@ -1,0 +1,1950 @@
+[
+  {
+    "numero": 46,
+    "enunciado": "A pegada ecológica gigante que estamos a deixar no planeta está a transformá-to de tal forma que os especialistas consideram que já entramos numa nova época geológica, o Antropoceno. E muitos defendem que, se não travarmos a crise ambiental, mais rapidamente transformaremos a Terra em Vênus do que iremos a Marte. A expressão “Antropoceno” é atribuída ao químico e prêmio Nobel Paul Crutzen, que a propôs durante uma conferência em 2000, ao mesmo tempo que anunciou o fim do Holoceno – a época geológica em que os seres humanos se encontram há cerca de 12 mil anos, segundo a União Internacional das Ciências Geológicas (UICG), a entidade que define as unidades de tempo geológicas.\n\nSILVA, R. D. **Antropoceno: e se formos os últimos seres vivos a alterar a Terra?** Disponível em: www.publico.pt. Acesso em: 5 dez. 2017 (adaptado).\n\nA concepção apresentada considera a existência de uma nova época geológica concebida a partir da capacidade de influência humana nos processos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eruptivos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Exógenos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tectônicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Magmáticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Metamórficos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.10809,
+      "escala": 611,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 46,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/46",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 47,
+    "enunciado": "![](https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).\n\nA geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Albedo dos corpos físicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Profundidade do lençol freático.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Campo de magnetismo terrestre.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Qualidade dos recursos minerais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Movimento de translação planetária.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.3472,
+      "escala": 635,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [
+      "https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 47,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/47",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 49,
+    "enunciado": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) está investigando o extermínio de abelhas por intoxicação por agrotóxicos em colmeias de São Paulo e Minas Gerais. Os estudos com inseticidas do tipo neonicotinoides devem estar concluídos no primeiro semestre de 2015. Trata-se de um problema de escala mundial, presente, inclusive, em países do chamado primeiro mundo, e que traz, como consequência, grave ameaça aos seres vivos do planeta, inclusive ao homem.\n\nIBAMA. Polinizadores em risco de extinção são ameaça  \nà vida do ser humano. Disponível em: www.mma.gov.br.  \nAcesso em: 10 mar. 2014.\n\nQual solução para o problema apresentado garante a produtividade da agricultura moderna?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Preservação da área de mata ciliar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adoção da prática de adubação química.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Utilização da técnica de controle biológico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliação do modelo de monocultura tropical.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Intensificação da drenagem do solo de várzea.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.44063,
+      "escala": 544,
+      "faixa": "Fácil"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 49,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/49",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 50,
+    "enunciado": "A hospitalidade pura consiste em acolher aquele que chega antes de lhe impor condições, antes de saber e indagar o que quer que seja, ainda que seja um nome ou um “documento” de identidade. Mas ela também supõe que se dirija a ele, de maneira singular, chamando-o portanto e reconhecendo-lhe um nome próprio: “Como você se chama?” A hospitalidade consiste em fazer tudo para se dirigir ao outro, em lhe conceder, até mesmo perguntar seu nome, evitando que essa pergunta se torne uma “condição”, um inquérito policial, um fichamento ou um simples controle das fronteiras. Uma arte e uma poética, mas também toda uma política dependem disso, toda uma ética se decide aí.\nDERRIDA, J. Papel-máquina. São Paulo: Estação Liberdade, 2004 (adaptado).\n \nAssociado ao contexto migratório contemporâneo, o conceito de hospitalidade proposto pelo autor impõe a necessidade de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anulação da diferença.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cristalização da biografia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incorporação da alteridade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Supressão da comunicação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Verificação da proveniência.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.65017,
+      "escala": 665,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 50,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/50",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 51,
+    "enunciado": "Em sentido geral e fundamental, Direito é a técnica da coexistência humana, isto é, a técnica voltada a tornar possível a coexistência dos homens. Como técnica, o Direito se concretiza em um conjunto de regras (que, nesse caso, são leis ou normais); e tais regras têm por objeto o comportamento intersubjetivo, isto é, o comportamento recíproco dos homens entre si.\nABBAGNANO, N. Dicionário de Filosofia. São Paulo: Martins Fontes, 2007.\n \nO sentido geral e fundamental do Direito, conforme foi destacado, refere-se à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplicação de códigos legais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Regulação do convívio social.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Legitimação de decisões políticas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mediação de conflitos econômicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Representação da autoridade constituída.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.19945,
+      "escala": 520,
+      "faixa": "Fácil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 51,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/51",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 52,
+    "enunciado": "O processamento da mandioca era uma atividade já realizada pelos nativos que viviam no Brasil antes da chegada de portugueses e africanos. Entretanto, ao longo do processo de colonização portuguesa, a produção da farinha foi aperfeiçoada e ampliada, tornando-se lugar comum em todo o território da colônia portuguesa na América. Com a consolidação do comércio atlântico em suas diferentes conexões, a farinha atravessou os mares e chegou aos mercados africanos.\nBEZERRA, N. R. Escravidão, farinha e tráfico atlântico: um novo olhar sobre as relações entre o Rio de Janeiro e Benguela (1790-1830). Disponível em: www.bn.br. Acesso em: 20 ago. 2014 (adaptado)\n\n\n\n\nConsiderando a formação do espaço atlântico, esse produto exemplifica historicamente a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difusão de hábitos alimentares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Disseminação de rituais festivos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliação dos saberes autóctones.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apropriação de costumes guerreiros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Diversificação de oferendas religiosas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.16281,
+      "escala": 484,
+      "faixa": "Fácil"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 52,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/52",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 53,
+    "enunciado": "Brasil, Alemanha, Japão e Índia pedem reforma do Conselho de Segurança\n     Os representantes do G4 (Brasil, Alemanha, Índia e Japão) reiteraram, em setembro de 2018, a defesa pela ampliação do Conselho de Segurança da Organização das Nações Unidas (ONU) durante reunião em Nova York (Estados Unidos). Em declaração conjunta, de dez itens, os chanceleres destacaram que o órgão, no formato em que está, com apenas cinco membros permanentes e dez rotativos, não reflete o século 21. “A reforma do Conselho de Segurança é essencial para enfrentar os desafios complexos de hoje. Como aspirantes a novos membros permanentes de um conselho reformado, os ministros reiteraram seu compromisso de trabalhar para fortalecer o funcionamento da ONU e da ordem multilateral global, bem como seu apoio às respectivas candidaturas”, afirma a declaração conjunta.\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 7 dez. 2018 (adaptado).\n \nOs países mencionados no texto justificam sua pretensão com base na seguinte característica comum:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extensividade de área territorial.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Protagonismo em escala regional.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Investimento em tecnologia militar.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desenvolvimento de energia nuclear.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Disponibilidade de recursos minerais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.93429,
+      "escala": 593,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 53,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/53",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 55,
+    "enunciado": "Entre os combatentes estava a mais famosa heroína da Independência. Nascida em Feira de Santana, filha de lavradores pobres, Maria Quitéria de Jesus tinha trinta anos quando a Bahia começou a pegar em armas contra os portugueses. Apesar da proibição de mulheres nos batalhões de voluntários, decidiu se alistar às escondidas. Cortou os cabelos, amarrou os seios, vestiu-se de homem e incorporou-se às fileiras brasileiras com o nome de Soldado Medeiros.\n\nGOMES, L. **1822**. Rio de Janeiro: Nova Fronteira, 2010.\n\nNo processo de Independência do Brasil, o caso mencionado é emblemático porque evidencia a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rigidez hierárquica da estrutura social.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Inserção feminina nos ofícios militares.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adesão pública dos imigrantes portugueses.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Flexibilidade administrativa do governo imperial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Receptividade metropolitana aos ideais emancipatórios.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.31818,
+      "escala": 632,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 55,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/55",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 56,
+    "enunciado": "A reestruturação global da indústria, condicionada pelas estratégias de gestão global da cadeia de valor dos grandes grupos transnacionais, promoveu um forte deslocamento do processo produtivo, até mesmo de plantas industriais inteiras, e redirecionou os fluxos de produção e de investimento. Entretanto, o aumento da participação dos países em desenvolvimento no produto global deu-se de forma bastante assimétrica quando se compara o dinamismo dos países do leste asiático com o dos demais países, sobretudo os latino-americanos, no período 1980-2000.\n\nSARTI, F.; HIRATUKA, C. **Indústria mundial: mudanças e tendências recentes**. Campinas: Unicamp, n. 186, dez. 2010.\n\nA dinâmica de transformação da geografia das indústrias descrita expõe a complementaridade entre dispersão espacial e",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autonomia tecnológica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Crises de abastecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Descentralização política.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Concentração econômica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Compartilhamento de lucros.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.00168,
+      "escala": 600,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 56,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/56",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 57,
+    "enunciado": "![](https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).\n\nNo Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Existência de superfícies de intensa refletividade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Preponderância de altas pressões atmosféricas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Influência de umidade das áreas florestais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Predomínio de correntes marinhas frias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ausência de massas de ar continentais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.46653,
+      "escala": 547,
+      "faixa": "Fácil"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 57,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/57",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 58,
+    "enunciado": "De fato, não é porque o homem pode usar a vontade livre para pecar que se deve supor que Deus a concedeu para isso. Há, portanto, uma razão pela qual Deus deu ao homem esta característica, pois sem ela não poderia viver e agir corretamente. Pode-se compreender, então, que ela foi concedida ao homem para esse fim, considerando-se que se um homem a usar para pecar, recairão sobre ele as punições divinas. Ora, isso seria injusto se a vontade livre tivesse sido dada ao homem não apenas para agir corretamente, mas também para pecar. Na verdade, por que deveria ser punido aquele que usasse da sua vontade para o fim para o qual ela lhe foi dada?\n\nAGOSTINHO. O livre-arbítrio. In: MARCONDES, D. **Textos básicos de ética**. Rio de Janeiro: Jorge Zahar, 2008.\n\nNesse texto, o filósofo cristão Agostinho de Hipona sustenta que a punição divina tem como fundamento o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desvio da postura celibatária.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência da autonomia moral.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Afastamento das ações de desapego.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Distanciamento das práticas de sacrifício.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Violação dos preceitos do Velho Testamento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.34891,
+      "escala": 635,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 58,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/58",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 59,
+    "enunciado": "![](https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png)\n\nA divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ciclo hidrológico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Processo erosivo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Estrutura geológica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Índice pluviométrico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Pressão atmosférica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.6595,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 59,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/59",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 61,
+    "enunciado": "**TEXTO I**\n\nOuve o barulho do rio, meu filho  \nDeixa esse som te embalar  \nAs folhas que caem no rio, meu filho  \nTerminam nas águas do mar  \nQuando amanhã por acaso faltar  \nUma alegria no seu coração  \nLembra do som dessas águas de lá  \nFaz desse rio a sua oração.\n\n**MONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: Sony: Universal Music, 2006 (fragmento).**\n\n**TEXTO II**\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\n**SANTANA, P. V. Ecoturismo: uma indústria sem chaminé? São Paulo: Labur Edições, 2008.**\n\nSão identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exploração e romantização.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sacralização e profanação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Preservação e degradação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Segregação e democratização.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Idealização e mercantilização.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.77149,
+      "escala": 577,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 61,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/61",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 62,
+    "enunciado": "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de 2/3 das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\n\n**REGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.**\n\nAs práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Asseguram as expressões multiculturais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Promovem a diversidade de etnias.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Falseiam os dogmas teológicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estimulam os rituais sincréticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Restringem a liberdade de credo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.22143,
+      "escala": 522,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 62,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/62",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 63,
+    "enunciado": "**TEXTO I**\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficias sem a burguesia incipiente.\n\n**ANDERSON, P. In: DEYON, P. O mercantilismo. Lisboa: Gradiva, 1989 (adaptado).**\n\n**TEXTO II**\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\n**SMITH, A. A riqueza das Nações. São Paulo: Abril Cultural, 1983 (adaptado).**\n\nEntre os séculos XVI e XIX, diferentes concepções sobre as relações entre Estado e economia foram formuladas. Tais concepções, associadas a cada um dos textos, confrontam-se, respectivamente, na oposição entre as práticas de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorização do pacto colonial — combate à livre-iniciativa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Defesa dos monopólios régios — apoio à livre concorrência.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Formação do sistema metropolitano — crítica à livre navegação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Abandono da acumulação metalista — estímulo ao livre-comércio.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Eliminação das tarifas alfandegárias — incentivo ao livre-cambismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.13742,
+      "escala": 614,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 63,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/63",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 64,
+    "enunciado": "A lenda diz que, em um belo dia ensolarado, Newton estava relaxando sob uma macieira. Pássaros gorjeavam em suas orelhas. Havia uma brisa gentil. Ele cochilou por alguns minutos. De repente, uma maçã caiu sobre a sua cabeça e ele acordou com um susto. Olhou para cima. “Com certeza um pássaro ou um esquilo derrubou a maçã da árvore”, supôs. Mas não havia pássaros ou esquilos na árvore por perto. Ele, então, pensou: “Apenas alguns minutos antes, a maçã estava pendurada na árvore. Nenhuma força externa fez ela cair. Deve haver alguma força subjacente que causa a queda das coisas para a terra”.\n\n**SILVA, C. C.; MARTINS, R A. Estudos de história e filosofia das ciências. São Paulo: Livraria da Física, 2006 (adaptado).**\n\nEm contraponto a uma interpretação idealizada, o texto aponta para a seguinte dimensão fundamental da ciência moderna:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsificação de teses.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Negação da observação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Proposição de hipóteses.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contemplação da natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Universalização de conclusões.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.25115,
+      "escala": 475,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 64,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/64",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 65,
+    "enunciado": "Para Maquiavel, quando um homem decide dizer a verdade pondo em risco a própria integridade física, tal resolução diz respeito apenas a sua pessoa. Mas se esse mesmo homem é um chefe de Estado, os critérios pessoais não são mais adequados para decidir sobre ações cujas consequências se tornam tão amplas, já que o prejuízo não será apenas individual, mas coletivo. Nesse caso, conforme as circunstâncias e os fins a serem atingidos, pode-se decidir que o melhor para o bem comum seja mentir.\n\n**ARANHA, M. L. Maquiavel: a lógica da força. São Paulo: Moderna, 2006 (adaptado).**\n\nO texto aponta uma inovação na teoria política na época moderna expressa na distinção entre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idealidade e efetividade da moral.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Nulidade e preservabilidade da liberdade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ilegalidade e legitimidade do governante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Verificabilidade e possibilidade da verdade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Objetividade e subjetividade do conhecimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.3618,
+      "escala": 636,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 65,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/65",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 66,
+    "enunciado": "A criação do Sistema Único de Saúde (SUS) como uma política para todos constitui-se uma das mais importantes conquistas da sociedade brasileira no século XX. O SUS deve ser valorizado e defendido como um marco para a cidadania e o avanço civilizatório. A democracia envolve um modelo de Estado no qual políticas protegem os cidadãos e reduzem as desigualdades. O SUS é uma diretriz que fortalece a cidadania e contribui para assegurar o exercício de direitos, o pluralismo político e o bem-estar como valores de uma sociedade fraterna, pluralista e sem preconceitos, conforme prevê a Constituição Federal de 1988.\n\n**RIZZOTO, M. L. F. et at. Justiça social, democracia com direitos sociais e saúde: a luta do Cebes. Revista Saúde em Debate, n. 116, jan.-mar. 2018 (adaptado).**\n\nSegundo o texto, duas características da concepção da política pública analisada são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paternalismo e filantropia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Liberalismo e meritocracia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Universalismo e igualitarismo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Nacionalismo e individualismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Revolucionarismo e coparticipação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.44492,
+      "escala": 544,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 66,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/66",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 67,
+    "enunciado": "**TEXTO I**\n\nConsidero apropriado deter-me algum tempo na contemplação deste Deus todo perfeito, ponderar totalmente à vontade seus maravilhosos atributos, considerar, admirar e adorar a incomparável beleza dessa imensa luz.\n\n**DESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.**\n\n**TEXTO II**\n\nQual será a forma mais razoável de entender como é o mundo? Existirá alguma boa razão para acreditar que o mundo foi criado por uma divindade todo-poderosa? Não podemos dizer que a crença em Deus é “apenas” uma questão de fé.\n\n**RACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.**\n\nOs textos abordam um questionamento da construção da modernidade que defende um modelo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Centrado na razão humana.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Baseado na explicação mitológica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fundamentado na ordenação imanentista.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Focado na legitimação contratualista.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Configurado na percepção etnocêntrica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.73902,
+      "escala": 674,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 67,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/67",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 68,
+    "enunciado": "A comunidade de Mumbuca, em Minas Gerais, tem uma organização coletiva de tal forma expressiva que coopera para o abastecimento de mantimentos da cidade do Jequitinhonha, o que pode ser atestado pela feira aos sábados. Em Campinho da Independência, no Rio de Janeiro, o artesanato local encanta os frequentadores do litoral sul do estado, além do restaurante quilombola que atende aos turistas.\n\n**ALMEIDA, A. W. B. (Org.). Cadernos de debates nova cartografia social: Territórios quilombolas e conflitos. Manaus: Projeto Nova Cartografia Social da Amazônia; UEA Edições, 2010 (adaptado).**\n\nNo texto, as estratégias territoriais dos grupos de remanescentes de quilombo visam garantir:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perdão de dívidas fiscais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reserva de mercado local.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inserção econômica regional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Protecionismo comercial tarifário.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Benefícios assistenciais públicos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.68737,
+      "escala": 569,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 68,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/68",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 69,
+    "enunciado": "Localizado a 160 km da cidade de Porto Velho (capital do estado de Rondônia), nos limites da Reserva Extrativista Jaci-Paraná e Terra Indígena Karipunas, o povoado de União Bandeirantes surgiu em 2000 a partir de movimentos de camponeses, madeireiros, pecuaristas e grileiros que, à revelia do ordenamento territorial e diante da passividade governamental, demarcaram e invadiram terras na área rural fundando a vila. Atualmente, constitui-se na região de maior produção agrícola e leiteira do município de Porto Velho, fornecendo, inclusive, alimentos para a Hidrelétrica de Jirau.\n\n**SILVA, R. G. C. Amazônia globalizada – o exemplo de Rondônia. Confins, n. 23, 2015 (adaptado).**\n\nA dinâmica de ocupação territorial descrita foi decorrente da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mecanização do processo produtivo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adoção da colonização dirigida.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Realização de reforma agrária.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliação de franjas urbanas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expansão de frentes pioneiras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.69195,
+      "escala": 669,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 69,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/69",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 70,
+    "enunciado": "Em nenhuma outra época, o corpo magro adquiriu um sentido de corpo ideal e esteve tão em evidência como nos dias atuais: esse corpo, nu ou vestido, exposto em diversas revistas femininas e masculinas, está na moda: é capa de revistas, matérias de jornais, manchetes publicitárias, e se transformou em um sonho de consumo para milhares de pessoas. Partindo dessa concepção, o gordo passa a ter um corpo visivelmente sem comedimento, sem saúde, um corpo estigmatizado pelo desvio, o desvio pelo excesso. Entretanto, como afirma a escritora Marylin Wann, é perfeitamente possível ser gordo e saudável. Frequentemente os gordos adoecem não por causa da gordura, mas sim pelo estresse, pela opressão a que são submetidos.\n\n**VASCONCELOS, N. A.; SUDO, I.; SUDO, N. Um peso na alma: o corpo gordo e a mídia. Revista Mal-Estar e Subjetividade, n. 1, mar. 2004 (adaptado).**\n\nNo texto, o tratamento predominante na mídia sobre a relação entre saúde e corpo recebe a seguinte crítica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difusão das estéticas antigas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Exaltação das crendices populares.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Propagação das conclusões científicas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reiteração dos discursos hegemônicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contestação dos estereótipos consolidados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.61713,
+      "escala": 562,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 70,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/70",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 71,
+    "enunciado": "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior.\n\n**HARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005 (adaptado).**\n\nA condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Associação sindical.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Participação eleitoral.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Migração internacional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Qualificação profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Regulamentação funcional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.2453,
+      "escala": 525,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 71,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/71",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 72,
+    "enunciado": "Art. 90. As nomeações dos deputados e senadores para a Assembleia Geral, e dos membros dos Conselhos Gerais das províncias, serão feitas por eleições, elegendo a massa dos cidadãos ativos em assembleias paroquiais, os eleitores de província, e estes, os representantes da nação e província.\n\nArt. 92. São excluídos de votar nas assembleias paroquiais:\n\n**I**. Os menores de vinte e cinco anos, nos quais se não compreendem os casados, os oficiais militares, que forem maiores de vinte e um anos, os bacharéis formados e os clérigos de ordens sacras.\n\n**II**. Os filhos de famílias, que estiverem na companhia de seus pais, salvo se servirem a ofícios públicos.\n\n**III**. Os criados de servir, em cuja classe não entram os guarda-livros, e primeiros caixeiros das casas de comércio, os criados da Casa Imperial, que não forem de galão branco, e os administradores das fazendas rurais e fábricas.\n\n**IV**. Os religiosos e quaisquer que vivam em comunidade claustral.\n\n**V**. Os que não tiverem de renda líquida anual cem mil réis por bens de raiz, indústria, comércio, ou emprego.\n\n**BRASIL. Constituição de 1824. Disponível em: [www.planalto.gov.br](http://www.planalto.gov.br/). Acesso em: 4 abr. 2015 (adaptado).**\n\nDe acordo com os artigos do dispositivo legal apresentado, o sistema eleitoral instituído no início do Império é marcado pelo(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Representação popular e sigilo individual.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Voto indireto e perfil censitário.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Liberdade pública e abertura política.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ética partidária e supervisão estatal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Caráter liberal e sistema parlamentar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.60872,
+      "escala": 561,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 72,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/72",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 73,
+    "enunciado": "O cristianismo incorporou antigas práticas relativas ao fogo para criar uma festa sincrética. A igreja retomou a distância de seis meses entre os nascimentos de Jesus Cristo e João Batista e instituiu a data de comemoração a este último de tal maneira que as festas do solstício de verão europeu com suas tradicionais fogueiras se tornaram “fogueiras de São João”. A festa do fogo e da luz no entanto não foi imediatamente associada a São João Batista. Na Baixa Idade Média, algumas práticas tradicionais da festa (como banhos, danças e cantos) foram perseguidas por monges e bispos. A partir do Concílio de Trento (1545-1563), a Igreja resolveu adotar celebrações em torno do fogo e associá-las à doutrina cristã.\n\n**CHIANCA, L. Devoção e diversão: expressões contemporâneas de festas e santos católicos. Revista Anthropológicas, n. 18, 2007 (adaptado).**\n\nCom o objetivo de se fortalecer, a instituição mencionada no texto adotou as práticas descritas, que consistem em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Promoção de atos ecumênicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fomento de orientação bíblicas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Apropriação de cerimônias seculares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Retomada de ensinamentos apostólicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ressignificação de rituais fundamentalistas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.15692,
+      "escala": 616,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 73,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/73",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 74,
+    "enunciado": "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade – a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural.\n\n**FOUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004.**\n\nO texto aponta que a subjetivação se efetiva numa dimensão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Legal, pautada em preceitos jurídicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Racional, baseada em pressupostos lógicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contingencial, processada em interações sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Transcendental, efetivada em princípios religiosos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Essencial, fundamentada em parâmetros substancialistas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.48052,
+      "escala": 648,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 74,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/74",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 76,
+    "enunciado": "Essa atmosfera de loucura e irrealidade, criada pela aparente ausência de propósitos, é a verdadeira cortina de ferro que esconde dos olhos do mundo todas as formas de campos de concentração. Vistos de fora, os campos e o que neles acontece só podem ser descritos com imagens extraterrenas, como se a vida fosse neles separada das finalidades deste mundo. Mais que o arame farpado, é a irrealidade dos detentos que ele confina que provoca uma crueldade tão incrível que termina levando à aceitação do extermínio como solução perfeitamente normal.\n\n**ARENDT, H. Origens do totalitarismo. São Paulo: Cia. das Letras, 1989 (adaptado).**\n\nA partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ideário nacional, que legitima as desigualdades sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Alienação ideológica, que justifica as ações individuais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cosmologia religiosa, que sustenta as tradições hierárquicas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Segregação humana, que fundamenta os projetos biopolíticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Enquadramento cultural, que favorece os comportamentos punitivos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.87883,
+      "escala": 688,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 76,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/76",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 77,
+    "enunciado": "![](https://enem.dev/2019/questions/77/8a228abe-5656-40e1-94bf-8be1b85e8ab2.jpg)\n\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\n**VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).**\n\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regulação das relações sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apropriação dos espaços públicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Padronização das culturas urbanas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Valorização dos formalismos estéticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Revitalização dos patrimônios históricos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.07054,
+      "escala": 607,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2019/questions/77/8a228abe-5656-40e1-94bf-8be1b85e8ab2.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 77,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/77",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 78,
+    "enunciado": "**TEXTO I  \n**\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\n**KANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).**\n\n**TEXTO II**\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\n**FONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.**\n\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possibilidade da liberdade e obrigação da ação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aprioridade do juízo e importância da natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Necessidade da boa vontade e crítica da metafísica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Prescindibilidade do empírico e autoridade da razão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Interioridade da norma e fenomenalidade do mundo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.81367,
+      "escala": 681,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 78,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/78",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 79,
+    "enunciado": "A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias.\n\n**CARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.**\n\nNas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Controle da terra.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Liberdade de culto.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Igualdade de gênero.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Exclusão dos militares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exigência da alfabetização.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.20733,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 79,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/79",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 81,
+    "enunciado": "A partir da segunda metade do século XVII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro.\n\n**FRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015 (adaptado).**\n\nNa matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à seguinte atividade:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coleta de drogas do sertão.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Extração de metais preciosos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adoção da pecuária extensiva.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Retirada de madeira do litoral.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Exploração da lavoura de tabaco.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.36609,
+      "escala": 637,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 81,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/81",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 82,
+    "enunciado": "Tratava-se agora de construir: e construir um ritmo novo. Para tanto, era necessário convocar todas as forças vivas da Nação, todos os homens que, com vontade de trabalhar e confiança no futuro, pudessem erguer, num tempo novo, um novo Tempo. E, à grande convocação que conclamava o povo para a gigantesca tarefa, começaram a chegar de todos os cantos da imensa pátria os trabalhadores: os homens simples e quietos, com pés de raiz, rostos de couro e mãos de pedra, e que, no calcanho, em carro de boi, em lombo de burro, em paus-de-arara, por todas as formas possíveis e imagináveis, em sua mudez cheia de esperança, muitas vezes deixando para trás mulheres e filhos a aguardar suas promessas de melhores dias; foram chegando de tantos povoados, tantas cidades cujos nomes pareciam cantar saudades aos seus ouvidos, dentro dos antigos ritmos da imensa pátria… Terra de sol, Terra de luz… Brasil! Brasil! Brasil!\n\n**MORAES, V.; JOBIM, A. C. Brasília, sinfonia da alvorada. III – A chegada dos candangos. Disponível em: www.viniciusdemoraes.com.br. Acesso em: 14 ago. 2012 (adaptado).**\n\nNo texto, a narrativa produzida sobre a construção de Brasília articula os elementos políticos e socioeconômicos indicados, respectivamente, em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apelo simbólico e migração inter-regional.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Organização sindical e expansão do capital.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Segurança territorial e estabilidade financeira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Consenso partidário e modernização rodoviária.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Perspectiva democrática e eficácia dos transportes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.48121,
+      "escala": 548,
+      "faixa": "Fácil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 82,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/82",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 83,
+    "enunciado": "Saudado por centenas de militantes de movimentos sociais de 40 países, o Papa Francisco encerrou no dia 09/07/2018 o 2.º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, “a globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”.\n\n**Disponível em: [http://cartamaior.com.br](http://cartamaior.com.br/). Acesso em: 15 jul. 2015 (adaptado).**\n\nNo texto há uma crítica ao seguinte aspecto do mundo globalizado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Liberdade política.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mobilidade humana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Conectividade cultural.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Disparidade econômica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Complementaridade comercial.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.51626,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 83,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/83",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 84,
+    "enunciado": "A Declaração Universal dos Direitos Humanos, adotada e proclamada pela Assembleia Geral da ONU na Resolução 217-A, de 10 de dezembro de 1948, foi um acontecimento histórico de grande relevância. Ao afirmar, pela primeira vez em escala planetária, o papel dos direitos humanos na convivência coletiva, pode ser considerada um evento inaugural de uma nova concepção de vida internacional.\n\n**LAFER, C. Declaração Universal dos Direitos Humanos (1948). In: MAGNOLI, D. (Org.) História da paz. São Paulo: Contexto, 2008.**\n\nA declaração citada no texto introduziu uma nova concepção nas relações internacionais ao possibilitar a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Superação da soberania estatal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Defesa dos grupos vulneráveis.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Redução da truculência belicista.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Impunidade dos atos criminosos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição dos choques civilizacionais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.24894,
+      "escala": 525,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 84,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/84",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 85,
+    "enunciado": "![](https://enem.dev/2019/questions/85/fb718e6d-3e97-4d5a-9d80-0ffecdd14d2c.png)\n\n“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**\n\nProduzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorização do mercado das obras de arte.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Definição dos critérios de criação de acervos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliação da rede de instituições de memória.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Burocratização do acesso dos espaços expositivos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fragmentação dos territórios das comunidades representadas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.25728,
+      "escala": 726,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2019/questions/85/fb718e6d-3e97-4d5a-9d80-0ffecdd14d2c.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 85,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/85",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 86,
+    "enunciado": "A ocasião fez o ladrão: Francis Drake travava sua guerra de pirataria contra a Espanha papista quando roubou as tropas de mulas que levavam o ouro do Peru para o Panamá. Graças à cumplicidade da rainha Elizabeth I, ele reincide e saqueia as costas do Chile e do Peru antes de regressar pelo Oceano Pacífico, e depois pelo Índico. Ora, em Ternate ele oferece sua proteção a um sultão revoltado com os portugueses; assim nasce o primeiro entreposto inglês ultramarino.\n\n**FERRO, M. História das colonizações. Das colonizações às independências. Séculos XIII a XX. São Paulo: Cia. das Letras, 1996.**\n\nA tática adotada pela Inglaterra do século XVI, conforme citada no texto, foi o meio encontrado para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Restabelecer o crescimento da economia mercantil.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Conquistar as riquezas dos territórios americanos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Legalizar a ocupação de possessões ibéricas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ganhar a adesão das potências europeias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fortalecer as rotas do comércio marítimo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.03032,
+      "escala": 703,
+      "faixa": "Difícil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 86,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/86",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 87,
+    "enunciado": "O Ministério do Trabalho e Emprego (MTE) realizou 248 ações fiscais e resgatou um total de 1590 trabalhadores da situação análoga à de escravo, em 2014, em todo o país. A análise do enfrentamento do trabalho em condições análogas às de escravo materializa a efetivação de parcerias inéditas no trato da questão, podendo ser referenciadas ações fiscais realizadas com o Ministério da Defesa, Exército Brasileiro, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).\n\n**Disponível em: [http://portal.mte.gov.br](http://portal.mte.gov.br/). Acesso em: 4 fev. 2015 (adaptado).**\n\nA estratégia defendida no texto para reduzir o problema social apontado consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articular os órgãos públicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pressionar o Poder Legislativo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliar a emissão das multas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Limitar a autonomia das empresas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Financiar as pesquisas acadêmicas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.32546,
+      "escala": 533,
+      "faixa": "Fácil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 87,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/87",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 88,
+    "enunciado": "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto.\n\n**GOIS, A. O Globo, 5 abr. 2015 (adaptado).**\n\nA ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atração de imigrantes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação da carga tributária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Qualificação da mão de obra.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Admissão de exilados políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Concessão de aposentadorias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.12907,
+      "escala": 613,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 88,
+      "provaMicrodados": "507",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/88",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  }
+]

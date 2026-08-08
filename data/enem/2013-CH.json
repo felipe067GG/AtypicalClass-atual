@@ -1,0 +1,2265 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "![](https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg)\n\nOs mapas representam distintos padrões de distribuição de processos socioespaciais. Nesse sentido, a menor incidência de disputas territoriais envolvendo povos indígenas se explica pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fertilização natural dos solos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Expansão da fronteira agrícola.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Intensificação da migração de retorno.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Homologação de reservas extrativistas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Concentração histórica da urbanização.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.0743,
+      "escala": 607,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 1,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/1",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.\n\nMARICATO, E. **Brasil, cidades: alternativas para a crise urbana.** Petrópolis: Vozes, 2001.\n\nA dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crescimento da população urbana e aumento da especulação imobiliária.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.0279,
+      "escala": 603,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 2,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/2",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "No dia 1º de julho de 2012, a cidade do Rio de Janeiro tornou-se a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural. A candidatura, apresentada pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), foi aprovada durante a 36.ª Sessão do Comitê do Patrimônio Mundial. O presidente do Iphan explicou que “a paisagem carioca é a imagem mais explícita do que podemos chamar de civilização brasileira, com sua originalidade, desafios, contradições e possibilidades”. A partir de agora, os locais da cidade valorizados com o título da Unesco serão alvo de ações integradas visando à preservação da sua paisagem cultural.\n\nDisponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).\n\nO reconhecimento da paisagem em questão como patrimônio mundial deriva da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença do corpo artístico local.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Imagem internacional da metrópole.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Herança de prédios da ex-capital do país.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diversidade de culturas presente na cidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Relação sociedade-natureza de caráter singular.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.7515,
+      "escala": 775,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 3,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/3",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "Há já algum tempo eu me apercebi de que, desde meus primeiros anos, recebera muitas falsas opiniões como verdadeiras, e de que aquilo que depois eu fundei em princípios tão mal assegurados não podia ser senão mui duvidoso e incerto. Era necessário tentar seriamente, uma vez em minha vida, desfazer-me de todas as opiniões a que até então dera crédito, e começar tudo novamente a fim de estabelecer um saber firme e inabalável.\n\n_DESCARTES, R. Meditações concernentes à Primeira Filosofia. São Paulo: Abril Cultural, 1973 (adaptado)._\n\nTEXTO II\n\nÉ o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\n\n_SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado)._\n\nA exposição e a análise do projeto cartesiano indicam que, para viabilizar a reconstrução radical do conhecimento, deve-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retomar o método da tradição para edificar a ciência com legitimidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Questionar de forma ampla e profunda as antigas ideias e concepções.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Investigar os conteúdos da consciência dos homens menos esclarecidos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Buscar uma via para eliminar da memória saberes antigos e ultrapassados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Encontrar ideias e pensamentos evidentes que dispensam ser questionados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.9949,
+      "escala": 599,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 4,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/4",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares \\[…\\]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente.\n\nCarta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001.\n\nA carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o seguinte objetivo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorizar a catequese a ser realizada sobre os povos nativos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Descrever a cultura local para enaltecer a prosperidade portuguesa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Transmitir o conhecimento dos indígenas sobre o potencial econômico existente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Realçar a pobreza dos habitantes nativos para demarcar a superioridade europeia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criticar o modo de vida dos povos autóctones para evidenciar a ausência de trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.7645,
+      "escala": 576,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 5,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/5",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 6,
+    "enunciado": "**O canto triste dos conquistados: os últimos dias de Tenochtitlán**\n\nNos caminhos jazem dardos quebrados; os cabelos estão espalhados. Destelhadas estão as casas, Vermelhas estão as águas, os rios, como se alguém as tivesse tingido, Nos escudos esteve nosso resguardo, mas os escudos não detêm a desolação…\n\nPINSKY, J. et al. **História da América através de textos.** São Paulo. Contexto, 2007 (fragmento).\n\nO texto é um registro asteca, cujo sentido está relacionado ao(à)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tragédia causada pela destruição da cultura desse povo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tentativa frustada de resistência a um poder considerado superior.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Extermínio das populações indígenas pelo Exército espanhol.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dissolução da memória sobre os feitos de seus antepassados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Profetização das consequências da colonização da América.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 7.3295,
+      "escala": 1233,
+      "faixa": "Difícil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 6,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/6",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 8,
+    "enunciado": "As Brigadas Internacionais foram unidades de combatentes formadas por voluntários de 53 nacionalidades dispostos a lutar em defesa da República espanhola. Estima-se que cerca de 60 mil cidadãos de várias partes do mundo – incluindo 40 brasileiros – tenham se incorporado a essas unidades. Apesar de coordenadas pelos comunistas, as Brigadas contaram com membros socialistas, liberais e de outras correntes político-ideológicas.\n\nSOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).\n\nA Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930. A perspectiva política comum que promoveu a mobilização descrita foi o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crítica ao stalinismo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Combate ao fascismo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Rejeição ao federalismo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apoio ao corporativismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Adesão ao anarquismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.9407,
+      "escala": 594,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 8,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/8",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 9,
+    "enunciado": "De todas as transformações impostas pelo meio técnico-científico-informacional à logística de transportes, interessa-nos mais de perto a intermodalidade. E por uma razão muito simples: o potencial que tal “ferramenta logística” ostenta permite que haja, de fato, um sistema de transportes condizente com a escala geográfica do Brasil.\n\nHUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. **Revista Transporte y Territorio**, Universidade de Buenos Aires, n. 3, 2010 (adaptado).\n\nA necessidade de modais de transporte interligados, no território brasileiro, justifica-se pela(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Variações climáticas no território, associadas à interiorização da produção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Grandes distâncias e a busca da redução dos custos de transporte.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Formação geológica do país, que impede o uso de um único modal.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proximidade entre a área de produção agrícola intensiva e os portos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Diminuição dos fluxos materiais em detrimento de fluxos imateriais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.2925,
+      "escala": 529,
+      "faixa": "Fácil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 9,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/9",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 10,
+    "enunciado": "Nasce daqui uma questão: se vale mais ser amado que temido ou temido que amado. Responde-se que ambas as coisas seriam de desejar; mas porque é difícil juntá-las, é muito mais seguro ser temido que amado, quando haja de faltar uma das duas. Porque dos homens se pode dizer, duma maneira geral, que são ingratos, volúveis, simuladores, covardes e ávidos de lucro, e enquanto lhes fazes bem são inteiramente teus, oferecem-te o sangue, os bens, a vida e os filhos, quando, como acima disse, o perigo está longe; mas quando ele chega, revoltam-se.\n\nMAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.\n\nA partir da análise histórica do comportamento humano em suas relações sociais e políticas. Maquiavel define o homem como um ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Munido de virtude, com disposição nata a praticar o bem a si e aos outros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sociável por natureza, mantendo relações pacíficas com seus pares.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.2948,
+      "escala": 471,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 10,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/10",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 11,
+    "enunciado": "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema.\n\nPRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.\n\nA crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder militar, enquanto fiador da ordem econômica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Presidencialismo, como o objetivo de limitar o poder dos coronéis.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Domínio de grupos regionais sobre a ordem federativa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Intervenção nos estados, autorizada pelas normas constitucionais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Isonomia do governo federal no tratamento das disputas locais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.3434,
+      "escala": 634,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 11,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/11",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 12,
+    "enunciado": "No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.\n\nPEREIRA, C.S. Os senhores da alegria: a presença das mulheres nas Grandes  \nSociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M.C.P.  \nCarnavais e outras festas: ensaios de história social da cultura. Campinas: Unicamp; Cecult, 2002 (adaptado).\n\nManifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distinções sociais eram deixadas de lado em nome da celebração",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aspirações cosmopolitas da elite impediam a realização da festa fora dos clubes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Liberdades individuais eram extintas pelas regras das autoridades públicas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tradições populares se transformavam em matéria de disputas sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Perseguições policiais tinham caráter xenófobo por repudiarem tradições estrangeiras.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.8406,
+      "escala": 684,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 12,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/12",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 13,
+    "enunciado": "![](https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg)\n\nNa imagem, da década de 1930, há uma crítica à conquista de um direito pelas mulheres, relacionado com a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redivisão do trabalho doméstico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Liberdade de orientação sexual.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Garantia da equiparação salarial.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aprovação do direito ao divórcio.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Obtenção da participação eleitoral.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.4194,
+      "escala": 458,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 13,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/13",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 14,
+    "enunciado": "Então, a travessia das veredas sertanejas é mais exaustiva que a de uma estepe nua. Nesta, ao menos, o viajante tem o desafogo de um horizonte largo e a perspectiva das planuras francas. Ao passo que a outra o afoga; abrevia-lhe o olhar; agride-o e estonteia-o; enlaça-o na trama espinescente e não o atrai; repulsa-o com as folhas urticantes, com o espinho, com os gravetos estalados em lanças, e desdobra-se-lhe na frente léguas e léguas, imutável no aspecto desolado; árvore sem folhas, de galhos estorcidos e secos, revoltos, entrecruzados, apontando rijamente no espaço ou estirando-se flexuosos pelo solo, lembrando um bracejar imenso, de tortura, da flora agonizante…\n\nCUNHA, E. **Os sertões.** Disponível em: http://pt.scribd.com. Acesso em: 2 jun. 2012.\n\nOs elementos da paisagem descritos no texto correspondem a aspectos biogeográficos presentes na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Composição de vegetação xerófila.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Formação de florestas latifoliadas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Transição para mata de grande porte.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Adaptação à elevada salinidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Homogeneização da cobertura perenifólia.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.5317,
+      "escala": 553,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 14,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/14",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 15,
+    "enunciado": "Na produção social que os homens realizam, eles entram em determinadas relações indispensáveis e independentes de sua vontade; tais relações de produção correspondem a um estágio definido de desenvolvimento das suas forças materiais de produção. A totalidade dessas relações constitui a estrutura econômica da sociedade — fundamento real, sobre o qual se erguem as superestruturas política e jurídica, e ao qual correspondem determinadas formas de consciência social.\n\n_MARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. Textos 3. São Paulo: Edições Sociais, 1977 (adaptado)._\n\nPara o autor, a relação entre economia e política estabelecida no sistema capitalista faz com que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O proletariado seja contemplado pelo processo de mais-valia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O trabalho se constitua como o fundamento real da produção material.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A consolidação das forças produtivas seja compatível com o progresso humano.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A autonomia da sociedade civil seja proporcional ao desenvolvimento econômico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A burguesia revolucione o processo social de formação da consciência de classe.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.7409,
+      "escala": 774,
+      "faixa": "Difícil"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 15,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/15",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 16,
+    "enunciado": "Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.\n\nSENNETT, R. **A corrosão do caráter:** consequências pessoais do novo capitalismo. Rio de Janeiro: Record, 1999 (adaptado).\n\nComparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As tecnologias de informação sejam usadas para democratizar as relações laborais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "As estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Os procedimentos de terceirização sejam aprimorados pela qualificação profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "As organizações sindicais sejam fortalecidas com a valorização da especialização funcional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.1622,
+      "escala": 616,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 16,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/16",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 17,
+    "enunciado": "![](https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png)\n\nNa imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Origem da matéria-prima.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Qualificação da mão de obra.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Velocidade de processamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Necessidade de armazenamento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Amplitude do mercado consumidor.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.049,
+      "escala": 605,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 17,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/17",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 18,
+    "enunciado": "A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como _Um príncipe em Nova York_ e _Ace Ventura: um maluco na África_; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação _O rei Leão_, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.\n\nLEIBOWITZ, E. **Filmes de Hollywood sobre África ficam no clichê**. Disponível em: http://noticias.uol.com.br. Acesso em 17 abr, 2010.\n\nA produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A história e a natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O exotismo e as culturas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A sociedade e a economia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O comércio e o ambiente.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A diversidade e a política.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.5347,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 18,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/18",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 19,
+    "enunciado": "**Disneylândia**\n\nMultinacionais japonesas instalam empresas em Hong-Kong\n\nE produzem com matéria-prima brasileira\n\nPara competir no mercado americano\n\n\\[…\\]\n\nPilhas americanas alimentam eletrodomésticos ingleses na Nova Guiné\n\nGasolina árabe alimenta automóveis americanos na África do Sul\n\n\\[…\\]\n\nCrianças iraquianas fugidas da guerra\n\nNão obtêm visto no consulado americano do Egito\n\nPara entrarem na Disneylândia\n\nANTUNES, A. Disponível em: www.radio.uol.com.br. Acesso em: 3 fev. 2013 (fragmento).\n\nNa canção, ressalta-se a coexistência, no contexto internacional atual, das seguintes situações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acirramento do controle alfandegário e estímulo ao capital especulativo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação das trocas econômicas e seletividade dos fluxos populacionais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Intensificação do controle informacional e adoção de barreiras fitossanitárias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da circulação mercantil e desregulamentação do sistema financeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expansão do protecionismo comercial e descaracterização de identidades nacionais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.788,
+      "escala": 579,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 19,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/19",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 20,
+    "enunciado": "![](https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png)\n\nFORTUNA. Correio da Manhã, ano 65, n. 22 264, 2 nov. 1965.\n\nA imagem foi publicada no jornal Correio da Manhã, no dia de Finados de 1965. Sua relação com os direitos políticos existentes no período revela a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extinção dos partidos nanicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Retomada dos partidos estaduais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adoção do bipartidarismo regulado.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Superação do fisiologismo tradicional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização da representação parlamentar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.08,
+      "escala": 708,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 20,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/20",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 21,
+    "enunciado": "Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.\n\nBercito, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado).\n\nO gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Surgimento de um país binacional.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fortalecimento de movimentos antissemitas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Esvaziamento de assentamentos judaicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reconhecimento de uma autoridade jurídica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelecimento de fronteiras nacionais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 3.0816,
+      "escala": 808,
+      "faixa": "Difícil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 21,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/21",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 22,
+    "enunciado": "Para que não haja abuso, é preciso organizar as coisas de maneira que o poder seja contido pelo poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo dos principais, ou dos nobres, ou do povo, exercesse esses três poderes: o de fazer leis, o de executar as resoluções públicas e o de julgar os crimes ou as divergências dos indivíduos. Assim, criam-se os poderes Legislativo, Executivo e Judiciário, atuando de forma independente para a efetivação da liberdade, sendo que esta não existe se uma mesma pessoa ou grupo exercer os referidos poderes concomitantemente.\n\nMONTESQUIEU, B. Do espírito das leis. São Paulo Abril Cultural, 1979 (adaptado).\n\nA divisão e a independência entre os poderes são condições necessárias para que possa haver liberdade em um Estado. Isso pode ocorrer apenas sob um modelo político em que haja",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exercício de tutela sobre atividades jurídicas e políticas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Consagração do poder político pela autoridade religiosa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Concentração do poder nas mãos de elites técnico-cientifícas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estabelecimento de limites aos atores públicos e às instituições do governo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reunião das funções de legislar, julgar e executar nas mãos de um governante eleito.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.8302,
+      "escala": 583,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 22,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/22",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 23,
+    "enunciado": "Quando ninguém duvida da existência de um outro mundo, a morte é uma passagem que deve ser celebrada entre parentes e vizinhos. O homem da Idade Média tem a convicção de não desaparecer completamente, esperando a ressurreição. Pois nada se detém e tudo continua na eternidade. A perda contemporânea do sentimento religioso fez da morte uma provação aterrorizante, um trampolim para as trevas e o desconhecido.\n\nDUBY, G. Ano 2000 na pista do nossos medos. São Paulo: Unesp, 1998 (adaptado).\n\nAo comparar as maneiras com que as sociedades têm lidado com a morte, o autor considera que houve um processo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mercantilização das crenças religiosas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transformação das representações sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Disseminação do ateísmo nos países de maioria cristã.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuição da distância entre saber científico e eclesiástico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Amadurecimento da consciência ligada à civilização moderna.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.8812,
+      "escala": 788,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 23,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/23",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 24,
+    "enunciado": "O edifício é circular. Os apartamentos dos prisioneiros ocupam a circunferência. Você pode chamá-los, se quiser, de celas. O apartamento do inspetor ocupa o centro; você pode chamá-lo, se quiser de alojamento do inspetor. A moral reformada; a saúde preservada; a indústria revigorada; a instrução difundida; os encargos públicos aliviados; a economia assentada, como deve ser, sobre uma rocha; o nó górdio da Lei sobre os Pobres não cortado, mas desfeito – tudo por uma simples ideia de arquitetura!\n\nBENTHAM, J. O panóptico. Belo Horizonte: Autêntica, 2008.\n\nEssa é a proposta de um sistema conhecido como panóptico, um modelo que mostra o poder da disciplina nas sociedades contemporâneas, exercido preferencialmente por mecanismos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Religiosos, que se constituem como um olho divino controlador que tudo vê.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.9707,
+      "escala": 797,
+      "faixa": "Difícil"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 24,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/24",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 25,
+    "enunciado": "![](https://enem.dev/2013/questions/25/0bcd59f3-aebb-450e-87ea-d0683f7f9ab3.png)\n\nA charge revela uma crítica aos meios de comunicação, em especial à internet, porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Questiona a integração das pessoas nas redes virtuais de relacionamento.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Considera as relações sociais como menos importantes que as virtuais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Enaltece a pretensão do homem de estar em todos os lugares ao mesmo tempo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Descreve com precisão as sociedades humanas no mundo globalizado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Concebe a rede de computadores como o espaço mais eficaz para a construção de relações sociais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.9082,
+      "escala": 691,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2013/questions/25/0bcd59f3-aebb-450e-87ea-d0683f7f9ab3.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 25,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/25",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 26,
+    "enunciado": "Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses. Em 451 a.C., porém, os plebeus conseguiram eleger uma comissão de dez pessoas – _os decênviros_ – para escrever as leis. Dois deles viajaram a Atenas, na Grécia, para estudar a legislação de Sólon.\n\nCOULANGES, F. A cidade antiga. São Paulo. Martins Fontes, 2000.\n\nA superação da tradição jurídica oral no mundo antigo, descrita no texto, esteve relacionada à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adoção do sufrágio universal masculino.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Extensão da cidadania aos homens livres.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Afirmação de instituições democráticas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Implantação de direitos sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tripartição dos poderes políticos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.394,
+      "escala": 839,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 26,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/26",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 27,
+    "enunciado": "A felicidade é, portanto, a melhor, a mais nobre e a mais aprazível coisa do mundo, e esses atributos não devem estar separados como na inscrição existente em Delfos “das coisas, a mais nobre é a mais justa, e a melhor é a saúde; porém a mais doce é ter o que amamos”. Todos estes atributos estão presentes nas mais excelentes atividades, e entre essas a melhor, nós a identificamos como felicidade.\n\nARISTOTELES. **A Política**. São Paulo: Cia das Letras, 2010.\n\nAo reconhecer na felicidade a reunião dos mais excelentes atributos, Aristoteles a identifica como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Busca por bens materiais e títulos de nobreza.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Plenitude espiritual e ascese pessoal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Finalidade das ações e condutas humanas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conhecimento de verdades imutáveis e perfeitas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expressão do sucesso individual e reconhecimento público.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.3549,
+      "escala": 735,
+      "faixa": "Difícil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 27,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/27",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 28,
+    "enunciado": "![](https://enem.dev/2013/questions/28/08a633cb-8395-4b5c-888d-8a55fc5bfa73.jpg)\n\nNa imagem, visualiza-se um método de cultivo e as transformações provocadas no espaço geográfico. O objetivo imediato da técnica agrícola utilizada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Controlar a erosão laminar.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Preservar as nascentes fluviais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuir a contaminação química.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Incentivar a produção transgênica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Implantar a mecanização intensiva.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.7565,
+      "escala": 576,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2013/questions/28/08a633cb-8395-4b5c-888d-8a55fc5bfa73.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 28,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 29,
+    "enunciado": "Seguiam-se vinte criados custosamente vestidos e montados em soberbos cavalos; depois destes, marchava o Embaixador do Rei do Congo magnificamente ornado de seda azul para anunciar ao Senado que a vinda do Rei estava destinada para o dia dezesseis. Em resposta obteve repetidas vivas do povo que concorreu alegre e admirado de tanta grandeza.\n\nCoroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M.  \nFestas e utopias no Brasil colonial. In: CATELLI JR, R.  \nUm olhar sobre as festas populares brasileiras. São Paulo: Brasiliense, 1994  \n(adaptado).\n\nOriginária dos tempos coloniais, as festa da Coroação do Rei do Congo evidencia um processo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exclusão social.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Imposição religiosa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Acomodação política.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Supressão simbólica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ressignificação cultural.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.1616,
+      "escala": 716,
+      "faixa": "Difícil"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 29,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/29",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 30,
+    "enunciado": "**TEXTO I**\n\nA nossa luta é pela democratização da propriedade da terra, cada vez mais concentrada em nosso país. Cerca de 1% de todos os proprietários controla 46% das terras. Fazemos pressão por meio da ocupação de latifúndios improdutivos e grandes propriedades, que não cumprem a função social, como determina a Constituição de 1988. Também ocupamos as fazendas que têm origem na grilagem de terras públicas.\n\nDisponível em: www.mst.org.br. Acesso em: 25 ago. 2011 (adaptado).\n\n**TEXTO II**\n\nO pequeno proprietário rural é igual a um pequeno proprietário de loja: quanto menor o negócio mais difícil de manter, pois tem de ser produtivo e os encargos são difíceis de arcar. Sou a favor de propriedades produtivas e sustentáveis e que gerem empregos. Apoiar uma empresa produtiva que gere emprego é muito mais barato e gera muito mais do que apoiar a reforma agrária.\n\nLESSA, C. Disponível em: www.observadorpolitico.org.br. Acesso em: 25 ago. 2011 (adaptado).\n\nNos fragmentos dos textos, os posicionamentos em relação à reforma agrária se opõem. Isso acontece porque os autores associam a reforma agrária, respectivamente, à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução do inchaço urbano e à crítica ao minifúndio camponês.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação da renda nacional e à prioridade ao mercado externo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contenção da mecanização agrícola e ao combate ao êxodo rural.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Privatização de empresas estatais e ao estímulo ao crescimento econômico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Correção de distorções históricas e ao prejuízo ao agronegócio.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.2427,
+      "escala": 624,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 30,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/30",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 31,
+    "enunciado": "Tendo encarado a besta do passado olho no olho, tendo pedido e recebido perdão e tendo feito correções, viremos agora a página – não para esquecê-lo, mas para não deixá-lo aprisionar-nos para sempre. Avancemos em direção a um futuro glorioso de uma nova sociedade sul-africana, em que as pessoas valham não em razão de irrelevâncias biológicas ou de outros estranhos atributos, mas porque são pessoas de valor infinito criadas à imagem de Deus.\n\nDesmond Tutu, no encerramento da Comissão da Verdade na África do Sul. Disponível em: http://td.camara.leg.br. Acesso em 17 dez. 2012 (adaptado).\n\nNo texto, relaciona-se a consolidação da democracia na África do Sul à superação de um legado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Populista, que favorecia a cooptação de dissidentes políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Totalitarista, que bloqueava o diálogo com os movimentos sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Segregacionista, que impedia a universalização da cidadania.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estagnacionista, que disseminava a pauperização social.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fundamentalista, que engendrava conflitos religiosos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.979,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 31,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/31",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 32,
+    "enunciado": "Ninguém desconhece a necessidade que todos os fazendeiros têm de aumentar o número de seus trabalhadores. E como até há pouco supriam-se os fazendeiros dos braços necessários? As fazendas eram alimentadas pela aquisição de escravos, sem o menor auxílio pecuniário do governo. Ora, se os fazendeiros se supriam de braços à sua custa, e se é possível obtê-los ainda, posto que de outra qualidade, por que motivo não hão de procurar alcançá-los pela mesma maneira, isto é, à sua custa?\n\nResposta de Manuel Felizardo de Souza e Mello, diretor geral das Terras Públicas,ao Senador Vergueiro. In: ALENCASTRO, L.F. (Org.) **História da vida privada no Brasil**. São Paulo:Cia das Letras, 1998 (adaptado).\n\nO fragmento do discurso dirigido ao parlamentar do Império refere-se às mudanças então em curso no campo brasileiro, que confrontaram o Estado e a elite agrária em torno do objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fomentar ações públicas para ocupação das terras do interior.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adotar o regime assalariado para proteção da mão de obra estrangeira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Definir uma política de subsídio governamental para o fomento da imigração.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Regulamentar o tráfico interprovincial de cativos para sobrevivência das fazendas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Financiar a fixação de famílias camponesas para estímulo da agricultura de subsistência.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.1664,
+      "escala": 717,
+      "faixa": "Difícil"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 32,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/32",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 33,
+    "enunciado": "![](https://enem.dev/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg)\n\nMOREAUX, F.R. Proclamação da Independência. Disponível em: www.tvbrasil.org.br. Acesso em 14 jun. 2010. (Foto: Enem)\n\n![](https://enem.dev/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg)\n\nFERREZ, M. D. Pedro II. SCHWARCZ, L.M. As barbas do Imperador. D. Pedro II, um monarca nos trópicos. São Paulo: Cia das Letras, 1998.\n\nAs imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Habilidade militar – riqueza pessoal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Liderança popular – estabilidade política.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Instabilidade econômica – herança europeia.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Isolamento político – centralização do poder.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Nacionalismo exacerbado – inovação administrativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.9463,
+      "escala": 405,
+      "faixa": "Fácil"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg",
+      "https://enem.dev/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 33,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/33",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 34,
+    "enunciado": "Embora haja dados comuns que dão unidade ao fenômeno da urbanização na África, na Ásia e na América Latina, os impactos são distintos em cada continente e mesmo dentro de cada país, ainda que as modernizações se deem com o mesmo conjunto de inovações.\n\nELIAS, D. Fim do século e urbanização no Brasil. **Revista Ciência Geográfica**, ano IV, n. 11, set./dez. 1988.\n\nO texto aponta para a complexidade da urbanização nos diferentes contextos socioespaciais. Comparando a organização socioeconômica das regiões citadas, a unidade desse fenômeno é perceptível no aspecto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espacial, em função do sistema integrado que envolve as cidades locais e globais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cultural, em função da semelhança histórica e da condição de modernização econômica e política.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Demográfico, em função da localização das maiores aglomerações urbanas e continuidade do fluxo campo-cidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Territorial, em função da estrutura de organização e planejamento das cidades que atravessam as fronteiras nacionais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Econômico, em função da revolução agrícola que transformou o campo e a cidade e contribuiu para fixação do homem ao lugar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.1432,
+      "escala": 714,
+      "faixa": "Difícil"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 34,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/34",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 35,
+    "enunciado": "Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puertal Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o Slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário”.\n\nRodriguez. O. Puerta Del Sol, o grande alto-falante. **Brasil de Fato.** São Paulo, 26 maio-1 jun. 2011 (adaptado).\n\nEm 2011, o acampamento dos indignados espanhóis expressou todo o descontamento político da juventude europeia. Que proposta sintetiza o conjunto de reivindicações políticas destes jovens?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Voto universal.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Democracia direta.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pluralidade partidária.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Autonomia legislativa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Imunidade parlamentar.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.5605,
+      "escala": 656,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 35,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/35",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 36,
+    "enunciado": "Até hoje admitia-se que nosso conhecimento se devia regular pelos objetos; porém, todas as tentativas para descobrir, mediante conceitos, algo que ampliasse nosso conhecimento, malogravam-se com esse pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento.\n\n_KANT, I. Crítica da razão pura. Lisboa: Calouste-Gulbenkian, 1994 (adaptado)._\n\nO trecho em questão é uma referência ao que ficou conhecido como revolução copernicana na filosofia. Nele, confrontam-se duas posições filosóficas que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assumem pontos de vista opostos acerca da natureza do conhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Defendem que o conhecimento é impossível, restando-nos somente o ceticismo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.781,
+      "escala": 678,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 36,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/36",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 37,
+    "enunciado": "Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.\n\nSANTOS, M.; SILVEIRA; M. L. **O Brasil: território e sociedade no início do século XXI.** Rio de Janeiro: Record, 2004 (adaptado).\n\nA partir da última década, verifica-se a ocorrência no Brasil de alterações significativas no território, ocasionando impactos sociais, culturais e econômicos sobre comunidades locais, e com maior intensidade, na Amazônia Legal, com a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reforma e ampliação de aeroportos nas capitais dos estados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação de estádios de futebol para a realização de eventos esportivos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Instalação de cabos para a formação de uma rede informatizada de comunicação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Formação de uma infraestrutura de torres que permitem a comunicação móvel na região.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.024,
+      "escala": 502,
+      "faixa": "Fácil"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 37,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 38,
+    "enunciado": "A recuperação da herança cultural africana deve levar em conta o que é próprio do processo cultural: seu movimento, pluralidade e complexidade. Não se trata, portanto, do resgate ingênuo do passado nem do seu cultivo nostálgico, mas de procurar perceber o próprio rosto cultural brasileiro. O que se quer é captar seu movimento para melhor compreendê-lo historicamente.\n\nMINAS GERAIS: Cadernos do Arquivo 1: Escravidão em  \nMinas Gerais. Belo Horizonte: Arquivo Público Mineiro, 1988.\n\nCom base no texto, a análise de manifestações culturais de origem africana, como a capoeira ou o candomblé, deve considerar que elas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Permanecem como reprodução dos valores e costumes africanos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Perderam a relação com o seu passado histórico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Derivam da interação entre valores africanos e a experiência histórica brasileira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contribuem para o distanciamento cultural entre negros e brancos no Brasil atual.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Demonstram a maior complexidade cultural dos africanos em relação aos europeus.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.7426,
+      "escala": 574,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 38,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/38",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 39,
+    "enunciado": "![](https://enem.dev/2013/questions/39/426ea99b-86b9-4ee1-bc65-5aca65b373f9.png)\n\nA charge ironiza a política desenvolvimentista do governo Juscelino Kubitschek, ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Evidenciar que o incremento da malha viária diminuiu as desigualdades regionais do país.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Destacar que a modernização das indústrias dinamizou a produção de alimentos para o mercado interno.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Enfatizar que o crescimento econômico implicou aumento das contradições socioespaciais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ressaltar que o investimento no setor de bens duráveis incrementou os salários de trabalhadores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mostrar que a ocupação de regiões interioranas abriu frentes de trabalho para a população local.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.8858,
+      "escala": 589,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [
+      "https://enem.dev/2013/questions/39/426ea99b-86b9-4ee1-bc65-5aca65b373f9.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 39,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/39",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 40,
+    "enunciado": "Ela acorda tarde depois de ter ido ao teatro e à dança; ela lê romances, além de desperdiçar o tempo a olhar para a rua da sua janela ou da sua varanda; passa horas no toucador a arrumar o seu complicado penteado; um número igual de horas praticando piano e mais outras na sua aula de francês ou de dança.\n\nComentário do Padre Lopes da Gama acerca dos costumes femininos (1839) apud SILVA, T. V. Z. Mulheres, cultura e literatura brasileira. **Ipotasi – Revista de Estudos Literários.** Juiz de Fora, v. 2. n. 2, 1998.\n\nTEXTO II\n\nAs janelas e portas gradeadas com treliças não eram cadeias confessas, positivas; mas eram, pelo aspecto e pelo seu destino, grandes gaiolas, onde os pais e maridos zelavam, sonegadas à sociedade, as filhas e as esposas.\n\nMACEDO, J. M. **Memórias da Rua do Ouvidor** (1878). Disponível em: www.dominiopublico.gov.br. Acesso em: 20 maio 2013 (adaptado).\n\nA representação social do feminino comum aos dois textos é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Submissão de gênero, apoiada pela concepção patriarcal de família.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Acesso aos produtos de beleza, decorrência da abertura dos portos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliação do espaço de entretenimento, voltado às distintas classes sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proteção da honra, mediada pela disputa masculina em relação às damas da corte.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização do casamento cristão, respaldado pelos interesses vinculados à herança.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.6345,
+      "escala": 563,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 40,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/40",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 41,
+    "enunciado": "Os produtos e seu consumo constituem a meta declarada do empreendimento tecnológico. Essa meta foi proposta pela primeira vez no início da Modernidade, como expectativa de que o homem poderia dominar a natureza. No entanto, essa expectativa, convertida em programa anunciado por pensadores como Descartes e Bacon e impulsionado pelo Iluminismo, não surgiu “de um prazer de poder”, “de um mero imperialismo humano”, mas da aspiração de libertar o homem e de enriquecer sua vida, física e culturalmente.\n\n_CUPANI, A. A tecnologia como problema filosófico: três enfoques. Scientiae Studia, São Paulo, v. 2, n. 4, 2004 (adaptado)._\n\nAutores da filosofia moderna, notadamente Descartes e Bacon, e o projeto iluminista concebem a ciência como uma forma de saber que almeja libertar o homem das intempéries da natureza. Nesse contexto, a investigação científica consiste em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.5311,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 41,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/41",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 42,
+    "enunciado": "![](https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png)\n\nNo esquema, o problema atmosférico relacionado ao ciclo da água acentuou-se após as revoluções industriais. Uma consequência direta desse problema está na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da flora.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação das marés.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Erosão das encostas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Laterização dos solos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fragmentação das rochas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.7752,
+      "escala": 578,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [
+      "https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 42,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/42",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 43,
+    "enunciado": "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.\n\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. **Folha de S. Paulo**, 2 dez. 2012.\n\nA opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da utilização elétrica.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação do uso bioenergético.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expansão das fontes renováveis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contenção da demanda urbano-industrial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Intensificação da dependência geotérmica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.0314,
+      "escala": 603,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 43,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/43",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 44,
+    "enunciado": "A escravidão não há de ser suprimida no Brasil por uma guerra servil, muito menos por insurreições ou atentados locais. Não deve sê-lo, tampouco, por uma guerra civil, como o foi nos Estados Unidos. Ela poderia desaparecer, talvez, depois de uma revolução, como aconteceu na França, sendo essa revolução obra exclusiva da população livre. É no Parlamento e não em fazendas ou quilombos do interior, nem nas ruas e praças das cidades, que se há de ganhar, ou perder, a causa da liberdade.\n\nNABUCO, J. O abolicionismo (1883). Rio de Janeiro: Nova Fronteira;  \nSão Paulo: Publifolha, 2000 (adaptado).\n\nNo texto, Joaquim Nabuco defende um projeto político sobre como deveria ocorrer o fim da escravidão no Brasil, no qual",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Copiava o modelo haitiano de emancipação negra.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Incentivava a conquista de alforrias por meio de ações judiciais..",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Optava pela via legalista de libertação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Priorizava a negociação em torno das indenizações aos senhores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Antecipava a libertação paternalista dos cativos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.0216,
+      "escala": 602,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 44,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/44",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  },
+  {
+    "numero": 45,
+    "enunciado": "Tenho 44 anos e presenciei uma transformação impressionante na condição de homens e mulheres _gays_ nos Estados Unidos. Quando nasci, relações homossexuais eram ilegais em todos os Estados Unidos, menos Illinois. _Gays_ e lésbicas não podiam trabalhar no governo federal. Não havia nenhum político abertamente _gay_. Alguns homossexuais não assumidos ocupavam posições de poder, mas a tendência era eles tormarem as coisas ainda piores para seus semelhantes.\n\nROSS, A. Na máquina do tempo. Época, ed. 766, 28 jan. 2013.\n\nA dimensão política da transformação sugerida no texto teve como condição necessária a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ampliação da noção de cidadania.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reformulação de concepções religiosas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Manutenção de ideologias conservadoras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Implantação de cotas nas listas partidárias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Alteração da composição étnica da população.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.3562,
+      "escala": 636,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2013,
+      "area": "CH",
+      "cor": "AZUL",
+      "numero": 45,
+      "provaMicrodados": "167",
+      "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/45",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+    }
+  }
+]

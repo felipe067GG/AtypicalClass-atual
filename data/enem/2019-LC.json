@@ -1,0 +1,1908 @@
+[
+  {
+    "numero": 6,
+    "enunciado": "![](https://enem.dev/2019/questions/6/cec1fc23-8701-42af-93d4-d1ca5aef4495.png)\n\n**Disponível em:** http://palavrastempoder.org. Acesso em: 20 abr. 2015\n\nPela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Propagar a imagem positiva do Ministério Público.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Conscientizar a população que direitos implicam deveres.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Coibir violações de direitos humanos nos meios de comunicação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Divulgar políticas sociais que combatem a intolerância e o preconceito.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Instruir as pessoas sobre a forma correta de expressão nas redes sociais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.22467,
+      "escala": 622,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [
+      "https://enem.dev/2019/questions/6/cec1fc23-8701-42af-93d4-d1ca5aef4495.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 6,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/6",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 7,
+    "enunciado": "Um amor desse  \nEra 24 horas lado a lado  \nUm radar na pele, aquele sentimento alucinado  \nCoração batia acelerado  \nBastava um olhar pra eu entender  \nQue era hora de me entregar pra você  \nPalavras não faziam falta mais  \nAh, só de lembrar do seu perfume  \nQue arrepio, que calafrio  \nQue o meu corpo sente  \nNem que eu queira, eu te apago da minha mente  \nAh, esse amor  \nDeixou marcas no meu corpo  \nAh, esse amor  \nSó de pensar, eu grito, eu quase morro\n\n**AZEVEDO, N.; LEÃO, W.; QUADROS, R.** _Coração pede socorro_.  \nRio de Janeiro: Som Livre, 2018 (fragmento).\n\nEssa letra de canção foi composta especialmente para uma campanha de combate à violência contra as mulheres, buscando conscientizá-las acerca do limite entre relacionamento amoroso e relacionamento abusivo. Para tanto, a estratégia empregada na letra é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Revelação da submissão da mulher à situação de violência, que muitas vezes a leva à morte.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ênfase na necessidade de se ouvirem os apelos da mulher agredida, que continuamente pede socorro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Exploração de situação de duplo sentido, que mostra que atos de dominação e violência não configuram amor.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Divulgação da importância de denunciar a violência doméstica, que atinge um grande número de mulheres no país.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Naturalização de situações opressivas, que fazem parte da vida de mulheres que vivem em uma sociedade patriarcal.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.04697,
+      "escala": 505,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 7,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/7",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 8,
+    "enunciado": "Meu caro Sherlock Holmes, algo horrível aconteceu às três da manhã no Jardim Lauriston. Nosso homem que estava na vigia viu uma luz às duas da manhã saindo de uma casa vazia. Quando se aproximou, encontrou a porta aberta e, na sala da frente, o corpo de um cavalheiro bem vestido. Os cartões que estavam em seu bolso tinham o nome de Enoch J. Drebber, Cleveland, Ohio, EUA. Não houve assalto e nosso homem não conseguiu encontrar algo que indicasse como ele morreu. Não havia marcas de sangue, nem feridas nele. Não sabemos como ele entrou na casa vazia. Na verdade, todo assunto é um quebra-cabeça sem fim. Se puder vir até a casa seria ótimo, se não, eu lhe conto os detalhes e gostaria muito de saber sua opinião. Atenciosamente, Tobias Gregson.\n\n**DOYLE, A. C.** _Um estudo em vermelho_. Cotia: Pé de Letra, 2017\n\nConsiderando o objetivo da carta de Tobias Gregson, a sequência de enunciados negativos presente nesse texto tem a função de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Restringir a investigação, deixando-a sob a responsabilidade do autor da carta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Refutar possíveis causas da morte do cavalheiro, auxiliando na investigação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Identificar o local da cena do crime, localizando-o no Jardim Lauriston.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Introduzir o destinatário da carta, caracterizando sua personalidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentar o vigia, incluindo-o entre os suspeitos do assassinato.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": -0.17071,
+      "escala": 483,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 8,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/8",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 9,
+    "enunciado": "**Mídias: aliadas ou inimigas da educação física escolar?**\n\nNo caso do esporte, a mediação efetuada pela câmera de TV construiu uma nova modalidade de consumo: o esporte telespetáculo, realidade textual relativamente autônoma face à prática “real” do esporte, construída pela codificação e mediação dos eventos esportivos efetuados pelo enquadramento, edição das imagens e comentários, interpretando para o espectador o que ele está vendo. Esse fenômeno tende a valorizar a forma em relação ao conteúdo, e para tal faz uso privilegiado da linguagem audiovisual com ênfase na imagem cujas possibilidades são levadas cada vez mais adiante, em decorrência dos avanços tecnológicos. Por outro lado, a narração esportiva propõe uma concepção hegemônica de esporte: esporte é esforço máximo, busca da vitória, dinheiro… O preço que se paga por sua espetacularização é a fragmentação do fenômeno esportivo. A experiência global do ser-atleta é modificada: a sociabilização no confronto e a ludicidade não são vivências privilegiadas no enfoque das mídias, mas as eventuais manifestações de violência, em partidas de futebol, por exemplo, são exibidas e reexibidas em todo o mundo.\n\n**BETTI, M**. _Motriz_, n. 2, jul.-dez. 2001 (adaptado).\n\nA reflexão trazida pelo texto, que aborda o esporte telespetáculo, está fundamentada na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distorção da experiência do ser-atleta para os espectadores.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Interpretação dos espectadores sobre o conteúdo transmitido.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Utilização de equipamentos audiovisuais de última geração.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Valorização de uma visão ampliada do esporte.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Equiparação entre a forma e o conteúdo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.66248,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 9,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/9",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 10,
+    "enunciado": "![](https://enem.dev/2019/questions/10/ae918ab7-0af8-4aba-a19e-2ea912322846.jpg)\n\nEssa campanha se destaca pela maneira como utiliza a linguagem para conscientizar a sociedade da necessidade de se acabar com o bullying. Tal estratégia está centrada no(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Chamamento de diferentes atores sociais pelo uso recorrente de estruturas injuntivas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Variedade linguística caracterizadora do português europeu.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Restrição a um grupo específico de vítimas ao apresentar marcas gráficas de identificação de gênero como “o(a)”.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Combinação do significado de palavras escritas em línguas inglesa e portuguesa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Enunciado de cunho esperançoso “passe à história” no título do cartaz.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.95343,
+      "escala": 595,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2019/questions/10/ae918ab7-0af8-4aba-a19e-2ea912322846.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 10,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/10",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 11,
+    "enunciado": "**Esporte e cultura: análise acerca da esportivização de práticas corporais nos jogos indígenas**\n\nNos Jogos dos Povos Indígenas, observa-se que as práticas corporais realizadas envolvem elementos tradicionais (como as pinturas e adornos corporais) e modernos (como a regulamentação, a fiscalização e a padronização). O arco e flecha e a lança, por exemplo, são instrumentos tradicionalmente utilizados para a caça e a defesa da comunidade na aldeia. Na ocasião do evento, esses artefatos foram produzidos pela própria etnia, porém sua estruturação como “modalidade esportiva” promoveu uma semelhança entre as técnicas apresentadas, com o sentido único da competição.\n\n**ALMEIDA, A. J. M.**; **SUASSUNA, D. M. F. A**. _Pensar a prática_, n. 1, jan.-abr. 2010 (adaptado)\n\nA relação entre os elementos tradicionais e modernos nos Jogos dos Povos Indígenas desencadeou a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Padronização de pinturas e adornos corporais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sobreposição de elementos tradicionais sobre os modernos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Individuação das técnicas apresentadas em diferentes modalidades.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Legitimação das práticas corporais indígenas como modalidade esportiva.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Preservação dos significados próprios das práticas corporais em cada cultura.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.98541,
+      "escala": 599,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 11,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/11",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 12,
+    "enunciado": "![](https://enem.dev/2019/questions/12/cbc6cd51-59ad-446d-823e-2bd9c979d5a1.png)\n\n**TEXTO II**\n\n**Quadrinista surda faz sucesso na CCXP com narrativas silenciosas**\n\nA área de artistas independentes da Comic Con Experience (CCXP) deste ano é a maior da história do evento geek, são mais de 450 quadrinistas e ilustradores no Artists’ Alley.\n\nE a diversidade vai além do estilo das HQ. Em uma das mesas na fila F, senta a quadrinista com deficiência auditiva Ju Loyola, com suas histórias que classifica como “narrativas silenciosas”. São histórias que podem ser compreendidas por crianças e adultos, e pessoas de qualquer nacionalidade, pelo simples motivo de não terem uma única palavra.\n\nA artista não escreve roteiros convencionais para suas obras. Sua experiência de ter que entender a comunicação pelo que vê faz com que ela se identifique muito mais com o que observa do que com o que as pessoas dizem.\n\nE basta folhear suas obras que fica claro que elas não são histórias em quadrinhos que perderam as palavras, mas sim que ganharam uma nova perspectiva.\n\n**Disponível em:** https://catracalivre.com.br. Acesso em: 8 dez. 2018 (adaptado).\n\nO Texto I exemplifica a obra de uma artista surda, que promove uma experiência de leitura inovadora, divulgada no Texto II. Independentemente de seus objetivos, ambos os textos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incentivam a produção de roteiros compostos por imagens.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Colaboram para a valorização de enredos românticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Revelam o sucesso de um evento de cartunistas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contribuem com o processo de acessibilidade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Questionam o padrão tradicional das HQ.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.41552,
+      "escala": 542,
+      "faixa": "Fácil"
+    },
+    "habilidade": 23,
+    "imagens": [
+      "https://enem.dev/2019/questions/12/cbc6cd51-59ad-446d-823e-2bd9c979d5a1.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 12,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/12",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 13,
+    "enunciado": "HELOÍSA: Faz versos?\n\nPINOTE: Sendo preciso… Quadrinhas… Acrósticos… Sonetos… Reclames.\n\nHELOÍSA: Futuristas?\n\nPINOTE: Não senhora! Eu já fui futurista. Cheguei a acreditar na independência… Mas foi uma tragédia! Começaram a me tratar de maluco. A me olhar de esguelha. A não me receber mais. As crianças choravam em casa. Tenho três filhos. No jornal também não pagavam, devido à crise. Precisei viver de bicos. Ah! Reneguei tudo. Arranjei aquele instrumento (Mostra a faca) e fiquei passadista.\n\n**ANDRADE, O.** _O rei da vela_. São Paulo: Globo, 2003.\n\nO fragmento da peça teatral de Oswald de Andrade ironiza a reação da sociedade brasileira dos anos 1930 diante de determinada vanguarda europeia. Nessa visão, atribui-se ao público leitor uma postura",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Preconceituosa, ao evitar formas poéticas simplificadas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Conservadora, ao optar por modelos consagrados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Preciosista, ao preferir modelos literários eruditos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Nacionalista, ao negar modelos estrangeiros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Eclética, ao aceitar diversos estilos poéticos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.97593,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 13,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/13",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 14,
+    "enunciado": "A viagem\nQue coisas devo levar\nnesta viagem em que partes?\nAs cartas de navegação só servem\na quem fica.\nCom que mapas desvendar\num continente\nque falta?\nEstrangeira do teu corpo\ntão comum\nquantas línguas aprender\npara calar-me?\nTambém quem fica\nprocura\num oriente.\nTambém\na quem fica\ncabe uma paisagem nova\ne a travessia insone do desconhecido\ne a alegria difícil da descoberta.\nO que levas do que fica,\no que, do que levas, retiro?\nMARQUES, A. M. In: SANT’ANNA, A (Org.).\nRua Aribau. Porto Alegre: Tag, 2018\n \n\n\n\n\nA viagem e a ausência remetem a um repertório poético tradicional. No poema, a voz lírica dialoga com essa tradição, repercutindo a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saudade como experiência de apatia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Presença da fragmentação da identidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Negação do desejo como expressão de culpa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Persistência da memória na valorização do passado.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Revelação de rumos projetada pela vivência da solidão.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.66055,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 14,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/14",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 15,
+    "enunciado": "O Instituto de Arte de Chicago disponibilizou para visualização on-line, compartilhamento ou download (sob licença Creative Commons), 44 mil imagens de obras de arte em altíssíma resolução, além de livros, estudos e pesquisas sobre a história da arte.\nPara o historiador da arte, Bendor Grosvenor, o sucesso das coleções on-line de acesso aberto, além de democratizar a arte, vem ajudando a formar um novo público museológico. Grosvenor acredita que quanto mais pessoas forem expostas à arte on-line, mais visitas pessoais acontecerão aos museus.\nA coleção está disponível em seis categorias: paisagens urbanas, impressionismo, essenciais, arte africana, moda e animais. Também é possível pesquisar pelo nome da obra, estilo, autor ou período. Para navegar pela imagem em alta definição, basta clicar sobre ela e utilizar a ferramenta de zoom. Para fazer o download, disponível para obras de domínio público, é preciso utilizar a seta localizada do lado inferior direito da imagem.\nDisponível em: www.revistabula.com. Acesso em: 5 dez. 2018 (adaptado).\n \nA função da linguagem que predomina nesse texto se caracteriza por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Evidenciar a subjetividade da reportagem com base na fala do historiador de arte.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Convencer o leitor a fazer o acesso on-line, levando-o a conhecer as obras de arte.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Informar sobre o acesso às imagens por meio da descrição do modo como acessá-las.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estabelecer interlocução com o leitor, orientando-o a fazer o download das obras de arte.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Enaltecer a arte, buscando popularizá-la por meio da possibilidade de visualização on-line.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.86875,
+      "escala": 587,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 15,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/15",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 16,
+    "enunciado": "Ed Mort só vai Mort.\nEd Mort. Detetive particular. Está na plaqueta. Tenho um escritório numa galeria de Copacabana entre um fliperama e uma loja de carimbos. Dá só para o essencial, um telefone mudo e um cinzeiro. Mas insisto numa mesa e numa cadeira. Apesar do protesto das baratas. Elas não vencerão. Comprei um jogo de máscaras. No meu trabalho o disfarce é essencial. Para escapar dos credores. Outro dia entrei na sala e vi a cara do King Kong andando pelo chão. As baratas estavam roubando as máscaras. Espisoteei meia dúzia. As outras atacaram a mesa. Consegui salvar a minha Bic e o jornal. O jornal era novo, tinha só uma semana. Mas elas levaram a agenda. Saí ganhando. A agenda estava em branco. Meu último caso fora com a funcionária do Erótica, a primeira ótica da cidade com balconista topless. Acabara mal. Mort. Ed Mort. Está na plaqueta.\nVERISSIMO, L. F. Ed Mort: todas as histórias. Porto Alegre: L&PM, 1997 (adaptado).\n \nNessa crônica, o efeito de humor é basicamente construído por uma",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segmentação de enunciados baseada na descrição dos hábitos do personagem.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ordenação dos constituintes oracionais na qual se destaca o núcleo verbal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Estrutura composicional caracterizada pelo arranjo singular dos períodos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sequenciação narrativa na qual se articulam eventos absurdos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Seleção lexical na qual predominam informações redundantes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.2283,
+      "escala": 523,
+      "faixa": "Fácil"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 16,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/16",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 17,
+    "enunciado": "**Os tipos cheios de si**\n\nO difícil é encontrar quem nunca cruzou com (ou se passou por) um desses on-line.\n\n![](https://enem.dev/2019/questions/17/e0118f53-9f2d-472e-b5ff-8fe239c78125.png)\n\nDisponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014.\n\nDe acordo com esse infográfico, as redes sociais estimulam diferentes comportamentos dos usuários que revelam",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exposição exagerada dos indivíduos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Comicidade ingênua dos usuários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Engajamento social das pessoas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Disfarce do sujeito por meio de avatares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Autocrítica dos internautas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.24965,
+      "escala": 475,
+      "faixa": "Fácil"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2019/questions/17/e0118f53-9f2d-472e-b5ff-8fe239c78125.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 17,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/17",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 18,
+    "enunciado": "O que é software livre\nSoftware livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma comunidade internacional de desenvolvedores indepen – dentes. São centenas de milhares de hackers, que negam sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu, sendo quase impossível decifrar a programação.\nO que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma e uma comunidade de usuários com milhões de membros no mundo.\nBRANCO, M. Software livre e desenvolvimento social e econômico. In: CASTELLS, M.; CARDOSO, G. (Org). A sociedade em rede: do conhecimento à ação política. Lisboa: Imprensa Nacional, 2005 (adaptado).\n \nA criação de softwares livres contribui para a produção do conhecimento na sociedade porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Democratiza o acesso a produtos construídos coletivamente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Complexifica os sistemas operacionais disponíveis no mercado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Qualifica um maior número de pessoas para o uso de tecnologias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Possibilita a coleta de dados confidenciais para seus desenvolvedores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Insere profissionalmente os hackers na área de inovação tecnológica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.76252,
+      "escala": 576,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 18,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/18",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 19,
+    "enunciado": "Expostos na web desde a gravidez\nMais da metade das mães e um terço dos pais ouvidos em uma pesquisa sobre compartilhamento paterno em mídias sociais discutem nas redes sociais sobre a educação dos filhos. Muitos são pais e mães de primeira viagem, frutos da geração Y (que nasceu junto com a internet) e usam esses canais para saberem que não estão sozinhos na empreitada de educar uma criança. Há, contudo, um risco no modo como as pessoas estão compartilhando essas experiências. É a chamada exposição parental exagerada, alertam os pesquisadores.\nDe acordo com os especialistas no assunto, se você compartilha uma foto ou video do seu filho pequeno fazendo algo ridículo, por achar engraçadinho, quando a criança tiver seus 11, 12 anos, pode se sentir constrangida. A autoconsciência vem com a idade.\nA exibição da privacidade dos filhos começa a assumir uma característica de linha do tempo e eles não participaram da aprovação ou recusa quanto à veiculação desses conteúdos. Assim, quando a criança cresce, sua privacidade pode já estar violada.\nOTONI, A. C. O Globo, 31 mar. 2015 (adaptado).\nSobre o compartilhamento parental excessivo em mídias sociais, o texto destaca como impacto o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interferência das novas tecnologias na comunicação entre pais e filhos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Desatenção dos pais em relação ao comportamento dos filhos na internet.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Distanciamento na relação entre pais e filhos é provocado pelo uso das redes sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fortalecimento das redes de relações decorrente da troca de experiências entre as famílias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desrespeito à intimidade das crianças cujas imagens têm sido divulgadas nas redes sociais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.1884,
+      "escala": 481,
+      "faixa": "Fácil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 19,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/19",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 20,
+    "enunciado": "O projeto DataViva consiste na oferta de dados oficiais sobre exportações, atividades econômicas, localidades e ocupações profissionais de todo o Brasil. Num primeiro momento, o DataViva construiu uma ferramenta que permitia a análise da economia mineira embasada por essa perspectiva metodológica complexa e diversa. No entanto, diante das possibilidades oferecidas pelas bases de dados trabalhadas, a plataforma evoluiu para um sistema mais completo. De maneira interativa e didática, o usuário é guiado por meio das diversas formas de navegação dos aplicativos. Além de informações sobre os produtos exportados, bem como acerca do volume das exportações em cada um dos estados e municípios do País, em poucos cliques, o interessado pode conhecer melhor o perfil da população, o tipo de atividade desenvolvida, as ocupações formais e a média salarial por categoria.\nMANTOVANI. C. A. Guardião de informações. Minas faz Ciência. n. 58. jun.-jul.-ago 2014 (adaptado).\nEntre as novas possibilidades promovidas pelo desenvolvimento de novas tecnologias, o texto destaca a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Auditoria das ações de governo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Publicidade das entidades públicas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Obtenção de informações estratégicas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Disponibilidade de ambientes coletivos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Comunicação entre órgãos administrativos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.21937,
+      "escala": 522,
+      "faixa": "Fácil"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 20,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/20",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 21,
+    "enunciado": "Menina\nA máquina de costura avançava decidida sobre o pano, Que bonita que a mãe era, com os alfinetes na boca. Gostava de olhá-la calada, estudando seus gestos, enquanto recortava retalhos de pano com a tesoura. Interrompia às vezes seu trabalho, era quando a mãe precisava da tesoura. Admirava o jeito decidido da mãe ao cortar pano, não hesitava nunca, nem errava. A mãe sabia tanto! Tita chamava-a de ( ) como quem diz ( ). Tentava não pensar as palavras, mas sabia que na mesma hora da tentativa tinha-as pensado. Oh, tudo era tão difícil. A mãe saberia o que ela queria perguntar-lhe intensamente agora quase com fome depressa depressa antes de morrer, tanto que não se conteve e — Mamãe, o que é desquitada? — atirou rápida com uma voz sem timbre. Tudo ficou suspenso, se alguém gritasse o mundo acabava ou Deus aparecia — sentia Ana Lúcia. Era muito forte aquele instante, forte demais para uma menina, a mãe parada com a tesoura no ar, tudo sem solução podendo desabar a qualquer pensamento, a máquina avançando desgo – vernada sobre o vestido de seda brilhante espalhando luz luz luz.\nÂNGELO. I. Menina. In: A face horrível. São Paulo: Lazuli, 2017.\n \nEscrita na década de 1960, a narrativa põe em evidência uma dramaticidade centrada na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insinuação da lacuna familiar gerada pela ausência da figura paterna.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Associação entre a angústia da menina e a reação intempestiva da mãe.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relação conflituosa entre o trabalho doméstico e a emancipação feminina.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Representação de estigmas sociais modulados pela perspectiva da criança.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Expressão de dúvidas existenciais intensificadas pela percepção do abandono.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.54986,
+      "escala": 655,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 21,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/21",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 22,
+    "enunciado": "**Uma ouriça**\n\nSe o de longe esboça lhe chegar perto,\n\nse fecha (convexo integral de esfera),\n\nse eriça (bélica e multiespinhenta):\n\ne, esfera e espinho, se ouriça à espera.\n\nMas não passiva (como ouriço na loca);\n\nnem só defensiva (como se eriça o gato);\n\nsim agressiva (como jamais o ouriço),\n\ndo agressivo capaz de bote, de salto\n\n(não do salto para trás, como o gato):\n\ndaquele capaz de salto para o assalto.\n\nSe o de longe lhe chega em (de longe),\n\nde esfera aos espinhos, ela se desouriça.\n\nReconverte: o metal hermético e armado\n\nna carne de antes (côncava e propícia),\n\ne as molas felinas (para o assalto),\n\nnas molas em espiral (para o abraço).\n\n**MELO NETO, J. C.** _A educação pela pedra_. Rio de Janeiro:  \nNova Fronteira, 1997.\n\nCom apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tenacidade transformada em brandura.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Obstinação traduzida em isolamento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inércia provocada pelo desejo platônico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Irreverência cultivada de forma cautelosa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desconfiança consumada pela intolerância.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.042,
+      "escala": 604,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 22,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/22",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 23,
+    "enunciado": "![](https://enem.dev/2019/questions/23/8bf66e27-d571-42d2-8e89-6c219f136985.png)\n\nNesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Criticar as difíceis condições de vida dos refugiados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Revelar a longa trajetória percorrida pelos refugiados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incentivar a campanha de doações para os refugiados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Denunciar a situação de carência vivida pelos refugiados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Simbolizar a necessidade de adesão à causa dos refugiados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.20842,
+      "escala": 521,
+      "faixa": "Fácil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2019/questions/23/8bf66e27-d571-42d2-8e89-6c219f136985.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 23,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/23",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 24,
+    "enunciado": "**Blues da piedade**\n\nVamos pedir piedade  \nSenhor, piedade  \nPra essa gente careta e covarde  \nVamos pedir piedade  \nSenhor, piedade  \nLhes dê grandeza e um pouco de coragem\n\n**CAZUZA.** _Cazuza: o poeta não morreu_. Rio de Janeiro:  \nUniversal Music, 2000 (fragmento).\n\nTodo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expositiva, por discorrer sobre um dado tema.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Narrativa, por apresentar uma cadeia de ações.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Injuntiva, por chamar o interlocutor à participação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Descritiva, por enumerar características de um personagem.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Argumentativa, por incitar o leitor a uma tomada de atitude.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.76811,
+      "escala": 577,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 24,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/24",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 25,
+    "enunciado": "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012.  \nA penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo _O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão_.\n\nDisponível em: www.cultura.rj.gov.br.  \nAcesso em: 15 maio 2012 (adaptado).\n\nA notícia relata um evento cultural que marca a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Primazia do samba sobre a música nordestina.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Inter-relação entre dois gêneros musicais brasileiros.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Valorização das origens oligárquicas da cultura nordestina.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proposta de resgate de antigos gêneros musicais brasileiros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criatividade em compor um samba-enredo em homenagem a uma pessoa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.13504,
+      "escala": 614,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 25,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/25",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 26,
+    "enunciado": "**TEXTO I**\n\nO Estatuto do Idoso completou 15 anos em 2018 e 56 no primeiro semestre o Disque 100 recebeu 16 mil denúncias de violacão de direitos dos idosos em todo o País.\n\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos mais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e dentro das próprias famílias.\n\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil está ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar preparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e dar suporte às famílias que precisam cuidar de seus idosos dependentes,\n\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n\n**TEXTO II**\n\n![](https://enem.dev/2019/questions/26/80aa97e4-a160-4160-9ac9-ebd2e754e774.png)\n\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.\n\nNa comparação entre os textos, conclui-se que as regras do Estatuto do Idoso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentam vantagens em relação às de outros países.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "São ignoradas pelas famílias responsáveis por idosos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Alteram a qualidade de vida das pessoas com mais de 60 anos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Precisam ser revistas em razão do envelhecimento da população.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contrastam com as condições de vida proporcionadas pelo País.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.42761,
+      "escala": 643,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2019/questions/26/80aa97e4-a160-4160-9ac9-ebd2e754e774.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 26,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/26",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 27,
+    "enunciado": "Educação para a saúde mediante programas de educação física escolar\nA educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquirí-lo e construílo de forma indivi dua lizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico.\nGUEDES, D. P. Motriz, n. 1, 1999.\nA educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A adesão a programas de lazer.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Opção por dietas balanceadas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Constituição de hábitos saudáveis.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Evasão de ambientes estressores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Realização de atividades físicas regulares.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.19306,
+      "escala": 519,
+      "faixa": "Fácil"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 27,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/27",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 28,
+    "enunciado": "Os subúrbios do Rio de Janeiro foram a primeira coisa a aparecer no mundo, antes mesmo dos vulcões e dos cachalotes, antes de Portugal invadir, antes do  \nGetúlio Vargas mandar construir casas populares. O bairro do Queím, onde nasci e cresci, é um deles. Aconchegado entre o Engenho Novo e Andaraí, foi feito daquela argila primordial, que se aglutinou em diversos formatos: cães soltos, moscas e morros, uma estação de trem, amendoeiras e barracos e sobrados, botecos e arsenais de guerra, armarinhos e bancas de jogo do bicho e um terreno enorme reservado para o cemitério. Mas tudo ainda estava vazio: faltava gente.  \nNão demorou. As ruas juntaram tanta poeira que o homem não teve escolha a não ser passar a existir, para varrê-las. À tardinha, sentar na varanda das casas e reclamar da pobreza, falar mal dos outros e olhar para as calçadas encardidas de sol, os ônibus da volta do trabalho sujando tudo de novo.\n\n**HERINGER, V.** _O amor dos homens avulsos_.  \nSão Paulo: Cia. das Letras, 2016.\n\nTraçando a gênese simbólica de sua cidade, o narrador imprime ao texto um sentido estético fundamentado na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Excentricidade dos bairros cariocas de sua infância.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Perspectiva caricata da paisagem de traços deteriorados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Importância dos fatos relacionados à história dos subúrbios.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diversidade dos tipos humanos identificados por seus hábitos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Experiência do cotidiano marcado pelas necessidades e urgências.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.15452,
+      "escala": 615,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 28,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 29,
+    "enunciado": "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\n\n**LÉVY, P.** _A máquina universo: criação, cognição e cultura_  \n_informática._ Porto Alegre: Artmed, 1998.\n\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Otimização do tempo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Confiabilidade dos sites.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Contribuição dos usuários.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Quantidade de informação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Colaboração de intelectuais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.62543,
+      "escala": 563,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 29,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/29",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 30,
+    "enunciado": "**TEXTO I**\n\n**Estratos**\n\nNa passagem de uma língua para outra, algo sempre permanece, mesmo que não haja ninguém para se lembrar desse algo. Pois um idioma retém em si mais memórias que os seus falantes e, como uma chapa mineral marcada por camadas de uma história mais antiga do que aquela dos seres viventes, inevitavelmente carrega em si a impressão das eras pelas quais passou. Se as “línguas são arquivos da história”, elas carecem de livros de registro e catálagos. Aquilo que contêm pode apenas ser consultado em parte, fornecendo ao pesquisador menos os elementos de uma biografia do que um estudo geológico de uma sedimentação realizada em um período sem começo ou sem fim definido.\n\n**HELLER-ROAZEN, D**. _Ecolalias: sobre o esquecimento das línguas_. Campinas: Unicamp, 2010.\n\n**TEXTO II**\n\nNa reflexão gramatical dos séculos XVI e XVII, a influência árabe aparece pontualmente, e se reveste sobretudo de item bélico fundamental na atribuição de rudeza aos idiomas português e castelhano por seus respectivos detratores. Parecer com o árabe, assim, é uma acusação de dessemelhança com o latim.\n\n**SOUZA, M. P**. _Linguística histórica_. Campinas: Unicamp, 2006.\n\nRelacionando-se as ideias dos textos a respeito da história e memória das línguas, quanto à formação da língua portuguesa, constata-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de elementos de outras línguas no português foi historicamente avaliada como um índice de riqueza.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "B o estudioso da língua pode identificar com precisão os elementos deixados por outras línguas na transformação da língua portuguesa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O português é o resultado da influência de outras línguas no passado e carrega marcas delas em suas múltiplas camadas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O árabe e o latim estão na formação escolar e na memória dos falantes brasileiros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A influência de outras línguas no português ocorreu de maneira uniforme ao longo da história.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.44968,
+      "escala": 545,
+      "faixa": "Fácil"
+    },
+    "habilidade": 20,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 30,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/30",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 31,
+    "enunciado": "![](https://enem.dev/2019/questions/31/a6382a77-122a-4202-8123-9f9e5e2b8cc1.png)\n\nNa obra Cabeça de touro, o material descartado torna-se objeto de arte por meio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reciclagem da matéria-prima original.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Complexidade da combinação de formas abstratas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Perenidade dos elementos que constituem a escultura.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mudança da funcionalidade pela integração dos objetos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fragmentação da imagem no uso de elementos diversificados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.76482,
+      "escala": 576,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2019/questions/31/a6382a77-122a-4202-8123-9f9e5e2b8cc1.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 31,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/31",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 32,
+    "enunciado": "**Emagrecer sem exercício?**\n\n_Hormônio aumenta a esperança de perder gordura sem sair do sofá. A solução viria em cápsulas._\n\n     O sonho dos sedentários ganhou novo aliado. Um estudo publicado na revista científica Nature, em janeiro, sugere que é possivel modificar a gordura corporal sem fazer exercício. Pesquisadores do Dana-Farber Cancer Institute e da Escola de Medicina de Harvard, nos EUA, isolaram em laboratório a irisina, hormônio naturalmente produzido pelas células musculares durante os exercícios aeróbicos, como caminhada, corrida ou pedalada. A substância foi aplicada em ratos e agiu como se eles tivessem se exercitado, inclusive com efeito protetor contra o diabetes.\n\n     O segredo foi a conversão de gordura branca – aquela que estoca energia inerte e estraga nossa silhueta – em marrom. Mais comum em bebês, e praticamente inexistente em adultos, esse tipo de gordura serve para nos aquecer. E, nesse processo, gasta uma energia tremenda. Como efeito colateral, afinaria nossa silhueta.\n\n     A expectativa é que, se o hormônio funcionar da mesma forma em humanos, surja em breve um novo medicamento para emagrecer. Mas ele estaria longe de substituir por completo os benefícios da atividade física. “Possivelmente existem muitos outros hormônios musculares liberados durante o exercício e ainda não descobertos”, diz o fisiologista Paul Coen, professor assistente da Universidade de Pittsburgh, nos EUA. A irisina não fortalece os músculos, por exemplo. E para ficar com aquele tríceps de fazer inveja só o levantamento de controle remoto não daria conta.\n\nLIMA, F. **Galileu.** São Paulo, n. 248, mar. 2012\n\nPara convencer o leitor de que o exercício físico é importante, o autor usa a estratégia de divulgar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A falta de exercício físico não emagrece e desenvolve doenças.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Se trata de uma forma de transformar a gordura branca em marrom e de emagrecer.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A irisina é um hormônio que apenas é produzido com o exercício físico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O exercício é uma forma de afinar a silhueta por eliminar a gordura branca.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Se produzem outros hormônios e há outros benefícios com o exercício.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.23211,
+      "escala": 523,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 32,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/32",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 34,
+    "enunciado": "Antes de Roma ser fundada, as colinas de Alba eram ocupadas por tribos latinas, que dividiam o ano de acordo com seus deuses. Os romanos adaptaram essa estrutura. No principio dessa civilização o ano tinha dez meses e começava por Martius (atual março). Os outros dois teriam sido acrescentados por Numa Pompílio o segundo rei de Roma.\n\n     Até Júlio César reformar o calendário local, os meses eram lunares, mas as festas em homenagem aos deuses permaneciam designadas pelas estações O descompasso de dez dias por ano fazia com que, em todos os triênios, um décimo terceiro mês, o Intercalaris, tivesse que ser enxertado. Com a ajuda de matemáticos do Egito emprestados por Cleópatra, Júlio César acabou com a bagunça ao estabelecer o seguinte calendário solar: Januarius, Februarius, Martius, Aprilis, Maius, Junius, Quinctilis, Sextilis, September, October, November e December. Quase igual ao nosso, com as diferenças de que Quinctilis e Sextilis deram origem aos meses de julho e agosto.\n\n**Disponível em:** https://aventurasnahistoria.uol.com.br. _Acesso em: 8 dez. 2018._\n\nConsiderando as informações no texto e aspectos históricos da formação da lingua, a atual escrita dos meses do ano em português",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reflete a origem latina de nossa língua.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Decorre de uma língua falada no Egito antigo",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tem como base um calendário criado por Cleópatra.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D segue a reformulação da norma da língua proposta por Júlio César.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Resulta da padronização do calendário antes da fundação de Roma.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.04002,
+      "escala": 604,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 34,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/34",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 35,
+    "enunciado": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente, se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com “seu próprio corpo”.\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da\ngestação de um novo arquétipo da felicidade. Campinas: Autores\nAssociados; Florianópolis: UFSC, 2001\n\n\n\nA preocupação excessiva com o “peso” corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anorexia e bulimia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ortorexia e vigorexia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ansiedade e depressão.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sobrepeso e fobia social.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sedentarismo e obesidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.16837,
+      "escala": 483,
+      "faixa": "Fácil"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 35,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/35",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 36,
+    "enunciado": "![](https://enem.dev/2019/questions/36/b46b0b84-b50b-4f98-9ffa-c8645aeb7edb.png)\n\nFotografia de Jackson Pollock pintando em seu ateliê, realizada por Hans Namuth em 1951.\n\n**CHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.**\n\n![](https://enem.dev/2019/questions/36/2e0c5232-c632-498f-8a46-14fb86344f56.png)\n\n**MUNIZ, V. Action Photo (segundo Hans Namuth em Pictures in Chocolate). Impressão fotográfica. The Museum of Modern Art, Nova Iorque, 1977.**\n\n**_NEVES, A_. História da Arte 4. Vitória: Ufes – Nead, 2011.**\n\nUtilizando chocolate derretido como matéria-prima, essa obra de Vick Muniz reproduz a célebre fotografia do processo de criação de Jackson Pollock. A originalidade dessa releitura reside na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apropriação parodística das técnicas e materiais utilizados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reflexão acerca dos sistemas de circulação da arte.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Simplificação dos traços da composição pictórica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Contraposição de linguagens artísticas distintas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Crítica ao advento do abstracionismo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.48081,
+      "escala": 548,
+      "faixa": "Fácil"
+    },
+    "habilidade": 14,
+    "imagens": [
+      "https://enem.dev/2019/questions/36/b46b0b84-b50b-4f98-9ffa-c8645aeb7edb.png",
+      "https://enem.dev/2019/questions/36/2e0c5232-c632-498f-8a46-14fb86344f56.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 36,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/36",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 37,
+    "enunciado": "Na semana passada, os alunos do colégio do meu filho se mobilizaram, através do Twitter, para não comprarem na cantina da escola naquele dia, pois acharam o preço do pão de queijo abusivo São adolescentes. Quase senhores das novas tecnologias, transitam nas redes sociais, varrem o mundo através dos teclados dos celulares, iPads e se organizam para fazer um movimento pacífico de não comprar lanches por um dia. Foi parar na TV e em muitas páginas da internet.\n \nGOMES, A. A revolução silenciosa e o Impacto na sociedade das\nredes sociais. Disponível em: www. hsm.com.br.\nAcesso em: 31 jul. 2012\n \nO texto aborda a temática das tecnologias da informação e comunicação, especificamente o uso de redes sociais. Muito se debate acerca dos benefícios e malefícios do uso desses recursos e, nesse sentido, o texto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aborda a discriminação que as redes sociais sofrem de outros meios de comunicação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mostra que as reivindicações feitas nas redes sociais não têm impacto fora da internet.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Expõe a possibilidade de as redes sociais favorecem comportamentos e manifestações violentos dos adolescentes que nela se relacionam.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Trata as redes sociais como modo de agregar e empoderar grupos de pessoas, que se unem em prol de causas próprias ou de mudanças sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Evidencia que as redes sociais são usadas inadequadamente pelos adolescentes, que, imaturos, não utilizam a ferramenta como forma de mudança social.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.15593,
+      "escala": 484,
+      "faixa": "Fácil"
+    },
+    "habilidade": 28,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 37,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 39,
+    "enunciado": "Essa lua enlutada, esse desassossego\nA convulsão de dentro, ilharga\nDentro da solidão, corpo morrendo\nTudo isso te devo.\nE eram tão vastas\nAs coisas planejadas, navios,\nMuralhas de marfim, palavras largas\nConsentimento sempre.\nE seria dezembro.\nUm cavalo de jade sob as águas\nDupla transparência, fio suspenso\nTodas essas coisas na ponta dos teus dedos\nE tudo se desfez no pórtico do tempo Em lívido silêncio.\nUmas manhãs de vidro\nVento, a alma esvaziada, um sol que não vejo\nTambém isso te devo.\nHILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia. Das Letras, 2018.\n \nNo poema, o eu lírico faz um inventário de estados passados espelhados no presente. Nesse processo, aflora o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cuidado em apagar da memória os restos do amor.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Amadurecimento revestido de ironia e desapego.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mosaico de alegrias formado seletivamente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desejo reprimido convertido em delírio.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Arrependimento dos erros cometidos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.9006,
+      "escala": 790,
+      "faixa": "Difícil"
+    },
+    "habilidade": 17,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 39,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/39",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 40,
+    "enunciado": "1\\. Nós queremos cantar o amor ao perigo, o hábito da energia e da temeridade.\n\n2\\. A coragem, a audácia, a rebelião serão elementos essenciais de nossa poesia.\n\n3\\. A literatura exaltou até hoje a imobilidade pensativa, o êxtase, o sono. Nós queremos exaltar o movimento agressivo, a insônia febril, o passo de corrida, o salto mortal, o bofetão e o soco.\n\n4\\. Nós afirmamos que a magnificência do mundo enriqueceu-se de uma beleza nova: a beleza da velocidade. Um automóvel de corrida com seu cofre enfeitado com tubos grossos, semelhantes a serpentes de hálito explosivo… um automóvel rugidor, que parece correr sobre a metralha, é mais bonito que a Vitória de Samotrácia.\n\n5\\. Nós queremos entoar hinos ao homem que segura o volante, cuja haste ideal atravessa a Terra, lançada também numa corrida sobre o circuito da sua órbita.\n\n6\\. É preciso que o poeta prodigalize com ardor, fausto e munificiência, para aumentar o entusiástico fervor dos elementos primordiais.\n\n**MARINETTI, F. T**. Manifesto futurista. In: TELES, G. M. Vanguardas europeias e Modernismo brasileiro. Petrópolis: Vozes, 1985.\n\nO documento de Marinetti, de 1909, propõe os referenciais estéticos do Futurismo, que valorizam a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Composição estática.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Inovação tecnológica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Suspensão do tempo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Retomada do helenismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Manutenção das tradições.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.75063,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 40,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/40",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 41,
+    "enunciado": "Ela nasceu lesma, vivia no meio das lesmas, mas não estava satisfeita com sua condição. Não passamos de criaturas desprezadas, queixava-se. Só somos conhecidas por nossa lentidão. O rastro que deixaresmos na História será tão desprezível quanto a gosma que marca nossa passagem pelos pavimentos.\n\n    A esta frustração correspondia um sonho: a lesma queria ser como aquele parente distante, o escargot. O simples nome já a deixava fascinada: um termo francês, elegante, sofisticado, um termo que as pessoas pronunciavam com respeito e até com admiração. Mas, lembravam as outras lesmas, os escargots são comidos, enquanto nós pelo menos temos chance de sobreviver. Este argumento não convencia a insatisfeita lesma, ao contrário: preferiria exatamente terminar sua vida desta maneira, numa mesa de toalha adamascada, entre talheres de prata e cálices de cristal. Assim como o mar é o único túmulo digno de um almirante batavo, respondia, a travessa de porcelana é a única lápide digna dos meus sonhos.\n\n**SCLIAR, M**. _Sonho de lesma_. In: **ABREU, C. F**. et al. _A prosa do mundo_**.** São Paulo: Global, 2009.\n\nIncorporando o devaneio da personagem, o narrador compõe uma alegoria que representa o anseio de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rejeitar metas de superação de desafios.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Restaurar o estado de felicidade pregressa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Materializar expectativas de natureza utópica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Rivalizar com indivíduos de condição privilegiada.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorizar as experiências hedonistas do presente.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.75076,
+      "escala": 575,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 41,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/41",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 42,
+    "enunciado": "**A ciência do Homem-Aranha**\n\n    Muitos dos superpoderes do querido Homem-Aranha de fato se assemelham às habilidades biológicas das aranhas e são objeto de estudo para produção de novos materiais.\n\n    O “sentido-aranha” adquirido por Peter Parker funciona quase como um sexto sentido, uma espécie de habilidade premonitória e, por isso, soa como um mero elemento ficcional. No entanto, as aranhas realmente têm um sentido mais aguçado. Na verdade, elas têm um dos sistemas sensoriais mais impressionais da natureza.\n\n    Os pelos sensoriais das aranhas, que estão espalhados por todo o corpo, funcionam como uma forma muito boa de perceber o mundo e captar informações do ambiente. Em muitas espécies, esse tato por meio dos pelos tem papel mais importante que a própria visão, uma vez que muitas aranhas conseguem prender e atacar suas presas na completa escuridão. E por que os pelos humanos não são tão eficientes como órgãos sensoriais como os das aranhas? Primeiro, porque um ser humano tem em média 60 fios de pelo em cada cm2 do corpo, enquanto algumas espécies de aranha podem chegar a ter 40 mil pelos por cm2, segundo, porque cada pelo das aranhas possui até 3 nervos para fazer a comunicação entre a sensação percebida e o cérebro, enquanto nós, seres humanos, temos apenas 1 nervo por pelo.\n\n**Disponível em:** http://cienciahoje.org.br. Acesso em; 11 dez. 2018. (adaptado).\n\nComo estratégia de progressão do texto, o autor simula uma interlocução com o público leitor ao recorrer à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Revelação do “sentido-aranha” adquirido pelo super-herói como um sexto sentido.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Caracterização do afeto do público pelo super-herói marcado pela palavra “querido”.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Comparação entre os poderes do super-herói e as habilidades biológicas das aranhas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pergunta retórica na introdução das causas da eficiência do sistema sensorial das aranhas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Comprovação das diferenças entre a constituição física do homem e da aranha por meio de dados numéricos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.13537,
+      "escala": 614,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 42,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/42",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 43,
+    "enunciado": "![](https://enem.dev/2019/questions/43/32c136c9-fe3c-4652-8d26-e17dabba619e.png)\n\nO texto tem o formato de uma carta de jogo e apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade. Essa apresentação subverte um gênero textual ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vincular áreas distintas do conhecimento.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Evidenciar a formação acadêmica do pesquisador.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relacionar o universo lúdico a informações biográficas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Especificar as contribuições mais conhecidas do pesquisador.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Destacar o nome do pesquisador e sua imagem no início do texto.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.47485,
+      "escala": 547,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [
+      "https://enem.dev/2019/questions/43/32c136c9-fe3c-4652-8d26-e17dabba619e.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 43,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/43",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  },
+  {
+    "numero": 45,
+    "enunciado": "Irerê, meu passarinho do sertão do Cariri,\n\nIrerê, meu companheiro,\n\nCadê viola? Cadê meu bem? Cadê Maria?\n\nAi triste sorte a do violeiro cantadô!\n\nAh! Sem a viola em que cantava o seu amô,\n\nAh! Seu assobio é tua flauta de irerê:\n\nQue tua flauta do sertão quando assobia,\n\nAh! A gente sofre sem querê!\n\nAh! Teu canto chega lá no fundo do sertão,\n\nAh! Como uma brisa amolecendo o coração,\n\nAh! Ah!\n\nIrerê, solta teu canto!\n\nCanta mais! Canta mais!\n\nPrá alembrá o Cariri!\n\n**VILLA-LOBOS, H**. _Bachianas Brasileiras n. 5 para soprano e oito violoncelos_ (1938-1945). Disponível em: http://euterpe.blog.br. Acesso em: 23 abr. 2019.\n\nNesses verbos, há uma exaltação ao sertão do Cariri em uma ambientação linguisticamente apoiada no(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uso recorrente de pronomes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Variedade popular da língua portuguesa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Referência ao conjunto da fauna nordestina.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Exploração de instrumentos musicais eruditos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Predomínio de regionalismos lexicais nordestinos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.31528,
+      "escala": 732,
+      "faixa": "Difícil"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2019,
+      "area": "LC",
+      "cor": "Azul",
+      "numero": 45,
+      "provaMicrodados": "511",
+      "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/45",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip"
+    }
+  }
+]

@@ -1,0 +1,2217 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "![](https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png)\n\nA charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Permitiria aos índios se apropriarem da telefonia móvel.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliaria o contato entre a diversidade de povos indígenas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Faria a comunicação sem ruídos entre grupos sociais distintos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Restringiria a sua área de atendimento aos estados do norte do país.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Possibilitaria a integração das diferentes regiões do território nacional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.46672,
+      "escala": 547,
+      "faixa": "Fácil"
+    },
+    "habilidade": 16,
+    "imagens": [
+      "https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 1,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/1",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 2,
+    "enunciado": "Sou uma pobre e velha mulher, Muito ignorante, que nem sabe ler. Mostraram-me na igreja da minha terra Um Paraíso com harpas pintado E o Inferno onde fervem almas danadas, Um enche-me de júbilo, o outro me aterra.\n\nVILLON, F. In: GOMBRICH, E. **História da arte**. Lisboa: LTC, 1999.\n\nOs versos do poeta francês François Villon fazem referência às imagens presentes nos templos católicos medievais. Nesse contexto, as imagens eram usadas com o objetivo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Refinar o gosto dos cristãos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Incorporar ideais heréticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Educar os fiéis através do olhar.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O divulgar a genialidade dos artistas católicos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorizar esteticamente os templos religiosos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.86701,
+      "escala": 587,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 2,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/2",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 3,
+    "enunciado": "Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume.\n\nTUNDISI, J. G. **Água no século XXI**: enfrentando a escassez. São Carlos: Rima, 2003.\n\nA intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Erosão.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Salinização.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Laterização.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Compactação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sedimentação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 3.04416,
+      "escala": 804,
+      "faixa": "Difícil"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 3,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/3",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 4,
+    "enunciado": "É o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\n\n_SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado)._\n\nApesar de questionar os conceitos da tradição, a dúvida radical da filosofia cartesiana tem caráter positivo por contribuir para o (a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dissolução do saber científico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Recuperação dos antigos juízos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Exaltação do pensamento clássico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Surgimento do conhecimento inabalável.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fortalecimento dos preconceitos religiosos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.73009,
+      "escala": 673,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 4,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/4",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 5,
+    "enunciado": "![](https://enem.dev/2014/questions/5/90211721-9e1a-406f-b2d0-e1c736d43334.jpg)\n\nNEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.\n\nConsiderando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ideia de progresso.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Concentração do capital.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Noção de sustentabilidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Organização dos sindicatos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Obsolescência dos equipamentos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.85492,
+      "escala": 585,
+      "faixa": "Médio"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2014/questions/5/90211721-9e1a-406f-b2d0-e1c736d43334.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 5,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/5",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 6,
+    "enunciado": "Ao deflagrar-se a crise mundial de 1929, a situação da economia cafeeira se apresentava como se segue. A produção, que se encontrava em altos níveis, teria que seguir crescendo, pois os produtores haviam continuado a expandir as plantações até aquele momento. Com efeito, a produção máxima seria alcançada em 1933, ou seja, no ponto mais baixo da depressão, como reflexo das grandes plantações de 1927-1928. Entretanto, era totalmente impossível obter crédito no exterior para financiar a retenção de novos estoques, pois o mercado internacional de capitais se encontrava em profunda depressão, e o crédito do governo desaparecera com a evaporação das reservas.\n\nFURTADO, C. **Formação econômica do Brasil**. São Paulo: Cia. Editora Nacional, 1997 (adaptado).\n\nUma resposta do Estado brasileiro à conjuntura econômica mencionada foi o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atração de empresas estrangeiras.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reformulação do sistema fundiário.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incremento da mão de obra imigrante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Desenvolvimento de política industrial.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Financiamento de pequenos agricultores.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.4265,
+      "escala": 643,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 6,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/6",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 7,
+    "enunciado": "Mas plantar pra dividir\n\nNão faço mais isso, não.\n\nEu sou um pobre caboclo,\n\nGanho a vida na enxada.\n\nO que eu colho é dividido\n\nCom quem não planta nada.\n\nSe assim continuar\n\nvou deixar o meu sertão,\n\nmesmo os olhos cheios d’água\n\ne com dor no coração.\n\nVou pro Rio carregar massas\n\npros pedreiros em construção.\n\nDeus até está ajudando:\n\nestá chovendo no sertão!\n\nMas plantar pra dividir,\n\nNão faço mais isso, não.\n\nVALE, J.; AQUINO, J. B. **Sina de caboclo**. São Paulo: Polygram, 1994 (fragmento).\n\nNo trecho da canção, composta na década de 1960, retrata-se a insatisfação do trabalhador rural com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A distribuição desigual da produção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Os financiamentos feitos ao produtor rural.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A ausência de escolas técnicas no campo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Os empecilhos advindos das secas prolongadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A precariedade de insumos no trabalho do campo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.01861,
+      "escala": 502,
+      "faixa": "Fácil"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 7,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/7",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 8,
+    "enunciado": "O cidadão norte-americano desperta num leito construído segundo padrão originário do Oriente Próximo, mas modificado na Europa Setentrional antes de ser transmitido à América. Sai debaixo de cobertas feitas de algodão cuja planta se tornou doméstica na Índia. No restaurante, toda uma série de elementos tomada de empréstimo o espera. O prato é feito de uma espécie de cerâmica inventada na China. A faca é de aço, liga feita pela primeira vez na Índia do Sul; o garfo é inventado na Itália medieval; a colher vem de um original romano. Lê notícias do dia impressas em caracteres inventados pelos antigos semitas, em material inventado na China e por um processo inventado na Alemanha.\n\nLINTON. R. **O homem: uma introdução à antropologia**. São Paulo: Martins. 1959 (adaptado).\n\nA situação descrita é um exemplo de como os costumes resultam da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assimilação de valores de povos exóticos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Experimentação de hábitos sociais variados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Recuperação de heranças da Antiguidade Clássica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fusão de elementos de tradições culturais diferentes.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização de comportamento de grupos privilegiados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.50242,
+      "escala": 550,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 8,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/8",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 9,
+    "enunciado": "![](https://enem.dev/2014/questions/9/de4e7360-b8c8-4652-a4a9-b54cfd9a7683.jpg)\n\n**TEXTO II**\n\nA Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de crédito ou telefones celulares ou cobrar contas em atraso.\n\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).\n\nAo relacionar os textos, a explicação para o processo de territorialização descrito está no(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aceitação das diferenças culturais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Adequação da posição geográfica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Incremento do ensino superior.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Qualidade da rede logística.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Custo da mão de obra local.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.10084,
+      "escala": 610,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2014/questions/9/de4e7360-b8c8-4652-a4a9-b54cfd9a7683.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 9,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/9",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 10,
+    "enunciado": "O jovem espanhol Daniel se sente perdido. Seu diploma de desenhista industrial e seu alto conhecimento de inglês devem ajudá-lo a tomar um rumo. Mas a taxa de desemprego, que supera 52% entre os que têm menos de 25 anos, o desnorteia. Ele está convencido de que seu futuro profissional não está na Espanha, como o de, pelo menos, 120 mil conterrâneos que emigraram nos últimos dois anos. O irmão dele, que é engenheiro-agrônomo, conseguiu emprego no Chile. Atualmente, Daniel participa de uma “oficina de procura de emprego” em países como Brasil, Alemanha e China. A oficina é oferecida por uma universidade espanhola.\n\nGUILAYN, P. Na Espanha, universidade ensina a emigrar. **O Globo**, 17 fev. 2013 (adaptado).\n\nA situação ilustra uma crise econômica que implica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valorização do trabalho fabril.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Expansão dos recursos tecnológicos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Exportação de mão de obra qualificada.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diversificação dos mercados produtivos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Intensificação dos intercâmbios estudantis.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.77756,
+      "escala": 578,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 10,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/10",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 11,
+    "enunciado": "Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira.\n\n_VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand Brasil, 1992 (adaptado)._\n\nPara o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Isonomia — igualdade de tratamento aos cidadãos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transparência — acesso às informações governamentais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tripartição — separação entre os poderes políticos estatais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Equiparação — igualdade de gênero na participação política.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Elegibilidade — permissão para candidatura aos cargos públicos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.41073,
+      "escala": 541,
+      "faixa": "Fácil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 11,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/11",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 12,
+    "enunciado": "Panayiotis Zavos “quebrou” o último tabu da clonagem humana — transferiu embriões para o útero de mulheres, que os gerariam. Esse procedimento é crime em inúmeros países. Aparentemente, o médico possuía um laboratório secreto, no qual fazia seus experimentos. “Não tenho nenhuma dúvida de que uma criança clonada irá aparecer em breve. Posso não ser eu o médico que irá criá-la, mas vai acontecer”, declarou Zavos. “Se nos esforçarmos, podemos ter um bebê clonado daqui a um ano, ou dois, mas não sei se é o caso. Não sofremos pressão para entregar um bebê clonado ao mundo. Sofremos pressão para entregar um bebê clonado saudável ao mundo.”\n\n_CONNOR, S. Disponível em: www.independent.co.uk. Acesso em: 14 ago. 2012 (adaptado)._\n\nA clonagem humana é um importante assunto de reflexão no campo da bioética que, entre outras questões, dedica-se a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Legitimar o predomínio da espécie humana sobre as demais espécies animais no planeta.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Relativizar, no caso da clonagem humana, o uso dos valores de certo e errado, de bem e mal.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Legalizar, pelo uso das técnicas de clonagem, os processos de reprodução humana e animal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fundamentar técnica e economicamente as pesquisas sobre células-tronco para uso em seres humanos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.70392,
+      "escala": 570,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 12,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/12",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 13,
+    "enunciado": "Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.\n\nSAINT-EXUPÉRY, A. **O Pequeno Príncipe.** Rio de Janeiro: Agir, 1996.\n\nA diferença espacial citada é causada por qual característica física da Terra?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Achatamento de suas regiões polares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Movimento em torno de seu próprio eixo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Arredondamento de sua forma geométrica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Variação periódica de sua distância do Sol.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Inclinação em relação ao seu plano de órbita.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.64478,
+      "escala": 564,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 13,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/13",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 14,
+    "enunciado": "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.\n\n_HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989._\n\nSegundo Habermas, a validez de uma norma deve ser estabelecida pelo(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Liberdade humana, que consagra a vontade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Razão comunicativa, que requer um consenso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Conhecimento filosófico, que expressa a verdade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Técnica científica, que aumento o poder do homem.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Poder político, que se concentra no sistema partidário.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.52391,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 14,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/14",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 15,
+    "enunciado": "O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.\n\nCALDEIRA, J. **A nação mercantilista.** São Paulo: Editora 34, 1999 (adaptado).\n\nEntre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Demarcação do território indígena.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Manutenção da organização familiar.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Valorização dos líderes religiosos indígenas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Preservação do costume das moradias coletivas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Comunicação pela língua geral baseada no tupi.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.20531,
+      "escala": 721,
+      "faixa": "Difícil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 15,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/15",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 16,
+    "enunciado": "**Queijo de Minas vira patrimônio cultural brasileiro**\n\nO modo artesanal da fabricação do queijo em Minas Gerais foi registrado nesta quinta-feira (15) como patrimônio cultural imaterial brasileiro pelo Conselho Consultivo do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan). O veredicto foi dado em reunião do conselho realizada no Museu de Artes e Ofícios, em Belo Horizonte. O presidente do Iphan e do conselho ressaltou que a técnica de fabricação artesanal do queijo está “inserida na cultura do que é ser mineiro”.\n\nFolha de S. Paulo, 15 maio 2008\n\nEntre os bens que compõem o patrimônio nacional, o que pertence à mesma categoria citada no texto está representado em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/16/bf96d194-f866-48b9-8c3b-1b7291b93185.jpg"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/16/aab0e104-3d86-451f-97c0-57e861429550.jpg"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/16/5f786541-30d5-4f3e-bd7e-564422ceea49.jpg"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/16/12b058f3-7cb7-4696-a970-290a425b3f89.jpg"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/16/c56d2864-d05d-47e8-8f52-828fb4ee72ec.jpg"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.82321,
+      "escala": 582,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 16,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/16",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 17,
+    "enunciado": "![](https://enem.dev/2014/questions/17/ba0d4ad6-8315-45aa-929a-783040398f38.png)\n\nPAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014\n\nA discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Civis, como o direito à vida, à liberdade de expressão e à propriedade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sociais, como direito à educação, ao trabalho e à proteção à maternidade e à infância.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Difusos, como direito à paz, ao desenvolvimento sustentável e ao meio ambiente saudável.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Coletivos, como direito à organização sindical, à participação partidária e à expressão religiosa.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Políticos, como o direito de votar e ser votado, à soberania popular e à participação democrática.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.60682,
+      "escala": 561,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2014/questions/17/ba0d4ad6-8315-45aa-929a-783040398f38.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 17,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/17",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 18,
+    "enunciado": "Todo homem de bom juízo, depois que tiver realizado sua viagem, reconhecerá que é um milagre manifesto ter podido **escapar de todos os perigos que se apresentam em sua peregrinação**; tanto mais que há tantos outros acidentes que diariamente podem aí ocorrer que seria coisa pavorosa àqueles que aí navegam querer pô-los todos diante dos olhos quando querem empreender suas viagens.\n\nJ. P. T. Histoire de plusieurs voyages aventureux. 1600. In: DELUMEAU, J. História do medo no Ocidente: 1300·1800. São Paulo: Cia. das Letras, 2009 (adaptado).\n\nEsse relato, associado ao imaginário das viagens marítimas da época moderna, expressa um sentimento de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gosto pela aventura.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fascínio pelo fantástico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Temor do desconhecido.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Interesse pela natureza.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Purgação dos pecados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.43534,
+      "escala": 544,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 18,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/18",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 19,
+    "enunciado": "Olhamos o homem alheio às atividades públicas não como alguém que cuida apenas de seus próprios interesses, mas como um inútil; nós, cidadãos atenienses, decidimos as questões públicas por nós mesmos na crença de que não é o debate que é empecilho à ação, e sim o fato de não se estar esclarecido pelo debate antes de chegar a hora da ação.\n\n_TUCÍDIDES. História da Guerra do Peloponeso. Brasília: UnB, 1987 (adaptado)._\n\nTEXTO II\n\nUm cidadão integral pode ser definido nada menos que pelo direito de administrar justiça e exercer funções públicas; algumas destas, todavia, são limitadas quanto ao tempo de exercício, de tal modo que não podem de forma alguma ser exercidas duas vezes pela mesma pessoa, ou somente podem sê-lo depois de certos intervalos de tempo prefixados.\n\n_ARISTÓTELES. Política. Brasília: UnB, 1985._\n\nComparando os textos I e II, tanto para Tucídides (no século V a.C.) quanto para Aristóteles (no século IV a.C.), a cidadania era definida pelo(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prestígio social.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Acúmulo de riqueza.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Participação política.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Local de nascimento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Grupo de parentesco.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.41592,
+      "escala": 542,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 19,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/19",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 20,
+    "enunciado": "Antes de o sol começar a esquentar as terras da faixa ao sul do Saara conhecida como Sahel, duas dezenas de mulheres da aldeia de Widou, no norte do Senegal, regam a horta cujas frutas e verduras alimentam a população local. É um pequeno terreno que, visto do céu, forma uma mancha verde — um dos primeiros pedaços da “Grande Muralha Verde”, barreira vegetal que se estenderá por 7 000 km do Senegal ao Djibuti, e é parte de um plano conjunto de vinte países africanos.\n\nGIORGI, J. Muralha verde. **Folha de S. Paulo**, 20 maio 2013 (adaptado).\n\nO projeto ambiental descrito proporciona a seguinte consequência regional imediata:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Facilita as trocas comerciais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Soluciona os conflitos fundiários.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Restringe a diversidade biológica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Fomenta a atividade de pastoreio.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Evita a expansão da desertificação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.82831,
+      "escala": 583,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 20,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/20",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 21,
+    "enunciado": "**Estatuto da Frente Negra Brasileira (FNB)**\n\nArt. 1.o – Fica fundada nesta cidade de São Paulo, para se irradiar por todo o Brasil, a Frente Negra Brasileira, união política e social da Gente Negra Nacional, para a afirmação dos direitos históricos da mesma, em virtude da sua atividade material e moral no passado e para reivindicação de seus direitos sociais e políticos, atuais, na Comunhão Brasileira.\n\n**Diário Oficial do Estado de São Paulo**. 4 novo 1931.\n\nQuando foi fechada pela ditadura do Estado Novo, em 1937, a FNB caracterizava-se como uma organização",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Política, engajada na luta por direitos sociais para a população negra no Brasil.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Beneficente, dedicada ao auxílio dos negros pobres brasileiros depois da abolição.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Paramilitar, voltada para o alistamento de negros na luta contra as oligarquias regionais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Democrático-liberal, envolvida na Revolução Constitucionalista conduzida a partir de São Paulo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Internacionalista, ligada à exaltação da identidade das populações africanas em situação de diáspora.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": -0.05997,
+      "escala": 494,
+      "faixa": "Fácil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 21,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/21",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 22,
+    "enunciado": "No século XIX, o preço mais alto dos terrenos situados no centro das cidades é causa da especialização dos bairros e de sua diferenciação social. Muitas pessoas, que não têm meios de pagar os altos aluguéis dos bairros elegantes, são progressivamente rejeitadas para a periferia, como os subúrbios e os bairros mais afastados.\n\nRÉMOND, R. **O século XIX**. São Paulo: Cultrix, 1989 (adaptado).\n\nUma consequência geográfica do processo espacial descrito no texto é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Criação de condomínios fechados de moradia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Decadência das áreas centrais de comércio popular.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aceleração do processo conhecido como cercamento.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ampliação do tempo de deslocamento diário da população.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contenção da ocupação de espaços sem infraestrutura satisfatória.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.30179,
+      "escala": 730,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 22,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/22",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 23,
+    "enunciado": "Três décadas – de 1884 a 1914 – separam o século XIX – que terminou com a corrida dos países europeus para a África e com o surgimento dos movimentos de unificação nacional na Europa – do século XX, que começou com a Primeira Guerra Mundial. É o período do Imperialismo, da quietude estagnante na Europa e dos acontecimentos empolgantes na Ásia e na África.\n\nARENDT. H. **As origens do totalitarismo**. São Paulo: Cia. das Letras, 2012.\n\nO processo histórico citado contribuiu para a eclosão da Primeira Grande Guerra na medida em que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difundiu as teorias socialistas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Acirrou as disputas territoriais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Superou as crises econômicas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Multiplicou os conflitos religiosos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Conteve os sentimentos xenófobos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.37426,
+      "escala": 537,
+      "faixa": "Fácil"
+    },
+    "habilidade": 7,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 23,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/23",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 24,
+    "enunciado": "Alguns dos desejos são naturais e necessários; outros, naturais e não necessários; outros, nem naturais nem necessários, mas nascidos de vã opinião. Os desejos que não nos trazem dor se não satisfeitos não são necessários, mas o seu impulso pode ser facilmente desfeito, quando é difícil obter sua satisfação ou parecem geradores de dano.\n\nEPICURO DE SAMOS. Doutrinas principais. In: SANSON, V F. Textos de filosofia. Rio de Janeiro: Eduff, 1974.\n\nNo fragmento da obra filosófica de Epicuro, o homem tem como fim",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alcançar o prazer moderado e a felicidade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Valorizar os deveres e as obrigações sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aceitar o sofrimento e o rigorismo da vida com resignação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Refletir sobre os valores e as normas dadas pela divindade.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Defender a indiferença e a impossibilidade de se atingir o saber.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.78624,
+      "escala": 579,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 24,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/24",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 25,
+    "enunciado": "![](https://enem.dev/2014/questions/25/1428c6bc-bcd0-452d-8bd6-6600b3f7bd77.png)\n\nNo centro da imagem, o filósofo Platão é retratado apontando para o alto. Esse gesto significa que o conhecimento se encontra em uma instância na qual o homem descobre a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspensão do juízo como reveladora da verdade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Realidade inteligível por meio do método dialético.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Salvação da condição mortal pelo poder de Deus.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Essência das coisas sensíveis no intelecto divino.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ordem intrínseca ao mundo por meio da sensibilidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.90451,
+      "escala": 690,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2014/questions/25/1428c6bc-bcd0-452d-8bd6-6600b3f7bd77.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 25,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/25",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 26,
+    "enunciado": "![](https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png)\n\nO fluxo migratório representado está associado ao processo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fuga de áreas degradadas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Inversão da hierarquia urbana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Busca por amenidades ambientais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conurbação entre municípios contíguos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desconcentração dos investimentos produtivos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.20972,
+      "escala": 621,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 26,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/26",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 27,
+    "enunciado": "A urbanização brasileira, no início da segunda metade do século XX, promoveu uma radical alteração nas cidades. Ruas foram alargadas, túneis e viadutos foram construídos. O bonde foi a primeira vítima fatal. O destino do sistema ferroviário não foi muito diferente. O transporte coletivo saiu definitivamente dos trilhos.\n\nJANOT, L. F. **A caminho de Guaratiba.** Disponível em: www.iab.org.br. Acesso em: 9 jan. 2014 (adaptado).\n\nA relação entre transportes e urbanização é explicada, no texto, pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retirada dos investimentos estatais aplicados em transporte de massa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Demanda por transporte individual ocasionada pela expansão da mancha urbana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Presença hegemônica do transporte alternativo localizado nas periferias das cidades.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aglomeração do espaço urbano metropolitano impedindo a construção do transporte metroviário.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.48294,
+      "escala": 648,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 27,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/27",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 28,
+    "enunciado": "A Comissão Nacional da Verdade (CNV) reuniu representantes de comissões estaduais e de várias instituições para apresentar um balanço dos trabalhos feitos e assinar termos de cooperação com quatro organizações. O coordenador da CNV estima que, até o momento, a comissão examinou, “por baixo”, cerca de 30 milhões de páginas de documentos e fez centenas de entrevistas.\n\nDisponível em: www.jb.com.br.Acessoem: 2 mar. 2013 (adaptado).\n\nA notícia descreve uma iniciativa do Estado que resultou da ação de diversos movimentos sociais no Brasil diante de eventos ocorridos entre 1964 e 1988. O objetivo dessa iniciativa é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anular a anistia concedida aos chefes militares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Rever as condenações judiciais aos presos políticos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Perdoar os crimes atribuídos aos militantes esquerdistas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Comprovar o apoio da sociedade aos golpistas anticomunistas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Esclarecer as circunstâncias de violações aos direitos humanos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.07,
+      "escala": 607,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 28,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/28",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 30,
+    "enunciado": "Parecer CNE/CP no 3/2004, que instituiu as Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Procura-se oferecer uma resposta, entre outras, na área da educação, à demanda da população afrodescendente, no sentido de políticas de ações afirmativas. Propõe a divulgação e a produção de conhecimentos, a formação de atitudes, posturas que eduquem cidadãos orgulhosos de seu pertencimento étnico-racial — descendentes de africanos, povos indígenas, descendentes de europeus, de asiáticos — para interagirem na construção de uma nação democrática, em que todos igualmente tenham seus direitos garantidos.\n\n_BRASIL. Conselho Nacional de Educação. Disponível em: www.semesp.org.br. Acesso em: 21 nov. 2013 (adaptado)._\n\nA orientação adotada por esse parecer fundamenta uma política pública e associa o princípio da inclusão social a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Práticas de valorização identitária.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Medidas de compensação econômica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dispositivos de liberdade de expressão.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estratégias de qualificação profissional.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Instrumentos de modernização jurídica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.6892,
+      "escala": 569,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 30,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/30",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 31,
+    "enunciado": "A Praça da Concórdia, antiga Praça Luís XV, é a maior praça pública de Paris. Inaugurada em 1763, tinha em seu centro uma estátua do rei. Situada ao longo do Sena, ela é a intersecção de dois eixos monumentais. Bem nesse cruzamento está o Obelisco de Luxor, decorado com hieróglifos que contam os reinados dos faraós Ramsés II e Ramsés 111. Em 1829, foi oferecido pelo vice-rei do Egito ao povo francês e, em 1836, instalado na praça diante de mais de 200 mil espectadores e da família real.\n\nNOBLAT, R. Disponivel em: www.oglobo.com. Acesso em: 12 dez. 2012.\n\nA constituição do espaço público da Praça da Concórdia ao longo dos anos manifesta o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lugar da memória na história nacional.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Caráter espontâneo das festas populares.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Lembrança da antiguidade da cultura local.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Triunfo da nação sobre os países africanos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Declínio do regime de monarquia absolutista.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.01594,
+      "escala": 702,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 31,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/31",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 32,
+    "enunciado": "Em 1879, cerca de cinco mil pessoas reuniram-se para solicitar a D. Pedro II a revogação de uma taxa de 20 réis, um vintém, sobre o transporte urbano. O vintém era a moeda de menor valor da época. A polícia não permitiu que a multidão se aproximasse do palácio. Ao grito de “Fora o vintém!”, os manifestantes espancaram condutores, esfaquearam mulas, viraram bondes e arrancaram trilhos. Um oficial ordenou fogo contra a multidão. As estatísticas de mortos e feridos são imprecisas, Muitos interesses se fundiram nessa revolta, de grandes e de políticos, de gente miúda e de simples cidadãos. Desmoralizado, o ministério caiu. Uma grande explosão social, detonada por um pobre vintém.\n\nDisponível em: www.revistadehistoria.com.br. Acesso em: 4 abro 2014 (adaptado).\n\nA leitura do trecho indica que a coibição violenta das manifestações representou uma tentativa de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Capturar os ativistas radicais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Proteger o patrimônio privado.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Salvaguardar o espaço público.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conservar o exercício do poder.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sustentar o regime democrático.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.40633,
+      "escala": 641,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 32,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/32",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 33,
+    "enunciado": "Existe uma cultura política que domina o sistema e é fundamental para entender o conservadorismo brasileiro. Há um argumento, partilhado pela direita e pela esquerda, de que a sociedade brasileira é conservadora. Isso legitimou o conservadorismo do sistema político: existiriam limites para transformar o país, porque a sociedade é conservadora, não aceita mudanças bruscas. Isso justifica o caráter vagaroso da redemocratização e da redistribuição da renda. Mas não é assim. A sociedade é muito mais avançada que o sistema político. Ele se mantém porque consegue convencer a sociedade de que é a expressão dela, de seu conservadorismo.\n\n_NOBRE, M. Dois ismos que não rimam. Disponível em: www.unicamp.br. Acesso em: 28 mar. 2014 (adaptado)._\n\nA característica do sistema político brasileiro, ressaltada no texto, obtém sua legitimidade da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dispersão regional do poder econômico.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Polarização acentuada da disputa partidária.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Orientação radical dos movimentos populares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Condução eficiente das ações administrativas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sustentação ideológica das desigualdades existentes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.23224,
+      "escala": 623,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 33,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/33",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 34,
+    "enunciado": "![](https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg)\n\nA imagem indica pontos com ativo uso de tecnologia, correspondentes a que processo de intervenção no espaço?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expansão das áreas agricultáveis, com uso intensivo de maquinário e insumos agrícolas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Recuperação de águas eutrofizadas em decorrência da contaminação por esgoto doméstico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ampliação da capacidade de geração de energia, com alteração do ecossistema local.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Impermeabilização do solo pela construção civil nas áreas de expansão urbana.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Criação recente de grandes parques industriais de mediano potencial poluidor.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.90465,
+      "escala": 690,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [
+      "https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 34,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/34",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 36,
+    "enunciado": "![](https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png)\n\nA partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Separação da Pangeia a partir do período Permiano.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Deslocamento de fraturas no período Triássico.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Afastamento da Europa no período Jurássico.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Formação do Atlântico Sul no período Cretáceo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Constituição de orogêneses no período Quaternário.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.33586,
+      "escala": 634,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 36,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/36",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 37,
+    "enunciado": "![](https://enem.dev/2014/questions/37/cfd6e28d-e697-4b50-8f2c-81c4c3a7e2b9.png)\n\nNa imagem, é ressaltado, em tom mais escuro, um grupo de países que na atualidade possuem características político-econômicas comuns, no sentido de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adotarem o liberalismo político na dinâmica dos seus setores públicos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Constituírem modelos de ações decisórias vinculadas à social-democracia.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Instituírem fóruns de discussão sobre intercâmbio multilateral de economias emergentes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Promoverem a integração representativa dos diversos povos integrantes de seus territórios.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentarem uma frente de desalinhamento político aos polos dominantes do sistema-mundo.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.16416,
+      "escala": 616,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2014/questions/37/cfd6e28d-e697-4b50-8f2c-81c4c3a7e2b9.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 37,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/37",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 38,
+    "enunciado": "![](https://enem.dev/2014/questions/38/a69a5ffe-389c-47f5-b421-96ced350c7ac.png)\n\nA preservação da sustentabilidade do recurso natural exposto pressupõe:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Impedir a perfuração de poços.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Coibir o uso pelo setor residencial.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Substituir as leis ambientais vigentes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reduzir o contingente populacional na área.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Introduzir a gestão participativa entre os municípios.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.30342,
+      "escala": 730,
+      "faixa": "Difícil"
+    },
+    "habilidade": 30,
+    "imagens": [
+      "https://enem.dev/2014/questions/38/a69a5ffe-389c-47f5-b421-96ced350c7ac.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 38,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/38",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 39,
+    "enunciado": "O problema central a ser resolvido pelo Novo Regime era a organização de outro pacto de poder que pudesse substituir o arranjo imperial com grau suficiente de estabilidade. O próprio presidente Campos Sales resumiu claramente seu objetivo: _“É de lá, dos estados, que se governa a República, por cima das multidões que tumultuam agitadas nas ruas da capital da União. A política dos estados é a política nacional”._\n\nCARVALHO. J. M. **Os Bestializados:** o Rio de Janeiro e a República que não foi. São Paulo: Companhia das Lelras, 1987 (adaptado).\n\nNessa citação, o presidente do Brasil no período expressa uma estratégia política no sentido de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Governar com a adesão popular.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Atrair o apoio das oligarquias regionais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Conferir maior autonomia às prefeituras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Democratizar o poder do governo central.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ampliar a influência da capital no cenário nacional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.38117,
+      "escala": 638,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 39,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/39",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 40,
+    "enunciado": "A Estrada de Ferro Noroeste do Brasil, que começa a ser construída apenas em 1905, foi criada, ao contrário das outras grandes ferrovias paulistas, para ser uma ferrovia de penetração, buscando novas áreas para a agricultura e povoamento. Até 1890, o café era quem ditava o traçado das ferrovias, que eram vistas apenas como auxiliadoras da produção cafeeira.\n\nCARVALHO, D. F. Café, ferrovias e crescimento populacional: o florescimento da região noroeste paulista. Disponível em: www.historica.arquivoestado.sp.gov.br. Acesso em: 2 ago. 2012.\n\nEssa nova orientação dada à expansão ferroviária, durante a Primeira República, tinha como objetivo a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A articulação de polos produtores para exportação.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Criação de infraestrutura para atividade industrial.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Integração de pequenas propriedades policultoras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Valorização de regiões de baixa densidade demográfica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Promoção de fluxos migratórios do campo para a cidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.69571,
+      "escala": 670,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 40,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/40",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 41,
+    "enunciado": "Em 1961, o presidente De Gaulle apelou com êxito aos recrutas franceses contra o golpe militar dos seus comandados, porque os soldados podiam ouvi-lo em rádios portáteis. Na década de 1970, os discursos do aiatolá Khomeini, líder exilado da futura Revolução Iraniana, eram gravados em fita magnética e prontamente levados para o Irã, copiados e difundidos.\n\nHOBSBAWM, E. Era dos extremos: o breve século XX (1914-1991). São Paulo: Cia. das Letras, 1995.\n\nOs exemplos mencionados no texto evidenciam um uso dos meios de comunicação identificado na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manipulação da vontade popular.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Promoção da mobilização política.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Insubordinação das tropas multares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Implantação de governos autoritários.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Valorização dos socialmente desfavorecidos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.42138,
+      "escala": 642,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 41,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/41",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 42,
+    "enunciado": "**TEXTO I**\n\nO presidente do jornal de maior circulação do país destacava também os avanços econômicos obtidos naqueles vinte anos, mas, ao justificar sua adesão aos militares em 1964, deixava clara sua crença de que a intervenção fora imprescindível para a manutenção da democracia.\n\nDisponivel em: **http://oglobo.globo.com**. Acesso em: 1 set. 2013 (adaplado).\n\n**TEXTO II**\n\nNada pode ser colocado em compensação à perda das liberdades individuais. Não existe nada de bom quando se aceita uma solução autoritária.\n\nFICO, C. **A educação e o golpe de 1964**. Disponivel em: www.brasilrecente.com.Acesso em: 4 abro 2014 (adaptado).\n\nEmbora enfatizem a defesa da democracia, as visões do movimento político-militar de 1964 divergem ao focarem, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Razões de Estado – Soberania popular.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ordenação da Nação – Prerrogativas religiosas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Imposição das Forças Armadas – Deveres sociais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Normatização do Poder Judiciário – Regras morais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Contestação do sistema de governo – Tradições culturais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.4709,
+      "escala": 647,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 42,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/42",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 43,
+    "enunciado": "A transferência da corte trouxe para a América portuguesa a família real e o governo da Metrópole. Trouxe também, e sobretudo, boa parte do aparato administrativo português. Personalidades diversas e funcionários régios continuaram embarcando para o Brasil atrás da corte, dos seus empregos e dos seus parentes após o ano de 1808.\n\nNOVAIS, F. A.; ALENCASTRO, L F. (Orq.). **História da vida privada no Brasil**. São Paulo: Cia, das Letras, 1997.\n\nOs fatos apresentados se relacionam ao processo de independência da América portuguesa por terem a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incentivado o clamor popular por liberdade.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Enfraquecido o pacto de dominação metropolitana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Motivado as revoltas escravas contra a elite colonial.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Obtido o apoio do grupo constitucionalista português.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Provocado os movimentos separatistas das províncias.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.4331,
+      "escala": 643,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 43,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/43",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 44,
+    "enunciado": "Respeitar a diversidade de circunstâncias entre as pequenas sociedades locais que constituem uma mesma nacionalidade, tal deve ser a regra suprema das leis internas de cada Estado. As leis municipais seriam as cartas de cada povoação doadas pela assembleia provincial, alargadas conforme o seu desenvolvimento, alteradas segundo os conselhos da experiência. Então, administrar-se-ia de perto, governar-se-ia de longe, alvo a que jamais se atingirá de outra sorte.\n\nBASTOS, T. **A província** (1870). São Paulo: Cia, Editora Nacional, 1937 (adaptado).\n\nO discurso do autor, no período do Segundo Reinado no Brasil, tinha como meta a implantação do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regime monárquico representativo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sistema educacional democrático.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Modelo territorial federalista.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Padrão político autoritário.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Poder oligárquico regional.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.6576,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 44,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/44",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 45,
+    "enunciado": "![](https://enem.dev/2014/questions/45/ff3d9660-9de4-424a-88d2-bffb60c90d9d.png)\n\n**De volta do Paraguai**\n\nCheio de glória, coberto de louros, depois de ter derramado seu sangue em defesa da pátria e libertado um povo da escravidão, o voluntário volta ao seu país natal para ver sua mãe amarrada a um tronco horrível de realidade!…\n\nAGOSTINI. A vida fluminense, ano 3, n. 128, 11 jun. 1870. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001 (adaptado).\n\nNa charge, identifica-se uma contradição no retorno de parte dos “Voluntários da Pátria” que lutaram na Guerra do Paraguai (1864-1870), evidenciada na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Negação da cidadania aos familiares cativos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Concessão de alforrias aos militares escravos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Perseguição dos escravistas aos soldados negros.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Punição dos feitores aos recrutados compulsoriamente.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Suspensão das indenizações aos proprietários prejudicados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.26525,
+      "escala": 627,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [
+      "https://enem.dev/2014/questions/45/ff3d9660-9de4-424a-88d2-bffb60c90d9d.png"
+    ],
+    "materia": null,
+    "origemDaMateria": null,
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CH",
+      "cor": "Azul",
+      "numero": 45,
+      "provaMicrodados": "195",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/45",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  }
+]
