@@ -90,8 +90,8 @@
     },
     "habilidade": 30,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -983,8 +983,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/109/354aeb9d-9351-404a-b131-174ac378eaaf.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1351,8 +1351,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1714,8 +1714,8 @@
     },
     "habilidade": 8,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1818,8 +1818,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/128/3e38e718-2857-4d65-849c-ddc36f19f455.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,

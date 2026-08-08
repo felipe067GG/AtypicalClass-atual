@@ -1,0 +1,2237 @@
+[
+  {
+    "numero": 46,
+    "enunciado": "Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.\n\nYODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).\n\nDesprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comprimento da haste seja mantido constante.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Massa do corpo suspenso pela haste seja pequena.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Material da haste possua alta condutividade térmica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Amplitude da oscilação seja constante a qualquer temperatura.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Energia potencial gravitacional do corpo suspenso se mantenha constante.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.92589,
+      "escala": 693,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 46,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/46",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 47,
+    "enunciado": "Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.\n\n_O Hoje, 15 out. 2011 (adaptado)._\n\nPara suprir o déficit nutricional a que os produtos rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vitaminas A e E.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Frutose e sacarose.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aminoácidos naturais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aminoácidos essenciais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ácidos graxos saturados.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.18738,
+      "escala": 619,
+      "faixa": "Médio"
+    },
+    "habilidade": 30,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 47,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/47",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 48,
+    "enunciado": "![](https://enem.dev/2014/questions/48/4b2624ac-087f-43e1-8654-e47e9593c1e0.png)\n\nQuimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.04165,
+      "escala": 704,
+      "faixa": "Difícil"
+    },
+    "habilidade": 10,
+    "imagens": [
+      "https://enem.dev/2014/questions/48/4b2624ac-087f-43e1-8654-e47e9593c1e0.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 48,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/48",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 49,
+    "enunciado": "O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.\n\nEssa fonte de energia subutilizada, citada no texto, é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Etanol, obtido a partir da decomposição da matéria orgânica por bactérias.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Gás natural, formado pela ação de fungos decompositores da matéria orgânica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.51719,
+      "escala": 552,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 49,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/49",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 50,
+    "enunciado": "É comum aos fotógrafos tirar fotos coloridas em ambiente iluminados por lampadas fluorescentes, que contêm uma forte composição de luz verde. A consequências desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.\n\nDisponível em:http://nautilus.fis.uc.pt. Acesso em 20 maio 2014 (adaptado)\n\nNa situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ciano.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Verde.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Amarelo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Magenta.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Vermelho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.1268,
+      "escala": 713,
+      "faixa": "Difícil"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 50,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/50",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 52,
+    "enunciado": "A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.\n\n_COELHO, F. A. S. Fármacos e quiralidade. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 3, maio 2001 (adaptado)._\n\nEssa malformação congênita ocorre porque esses enantiômeros",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reagem entre si.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Não podem ser separados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Não estão presentes em partes iguais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Interagem de maneira distinta com o organismo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "São estruturas com diferentes grupos funcionais.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.78035,
+      "escala": 578,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 52,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/52",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 54,
+    "enunciado": "![](https://enem.dev/2014/questions/54/3da2f565-bc79-400a-89b0-b96ba4968f7e.png)\n\nQual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Milho.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Palma.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Canola.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Algodão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Amendoim.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.75228,
+      "escala": 675,
+      "faixa": "Médio"
+    },
+    "habilidade": 4,
+    "imagens": [
+      "https://enem.dev/2014/questions/54/3da2f565-bc79-400a-89b0-b96ba4968f7e.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 54,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/54",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 55,
+    "enunciado": "Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observe o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).\n\n![](https://enem.dev/2014/questions/55/e18f6b82-0ea7-4110-974b-632768f2c555.png)\n\nNessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.\n\nAo final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "69120.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "17280.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11520.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8640.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2880.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.95877,
+      "escala": 596,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2014/questions/55/e18f6b82-0ea7-4110-974b-632768f2c555.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 55,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/55",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 56,
+    "enunciado": "Diesel é uma mistura de hidrocarbonetos que também apresenta enxofre em sua composição. Esse enxofre é um componente indesejável, pois o trióxido de enxofre gerado é um dos grandes causadores da chuva ácida. Nos anos 1980, não havia regulamentação e era utilizado óleo diesel com 13 000 ppm de enxofre. Em 2009, o diesel passou a ter 1 800 ppm de enxofre (S1800) e, em seguida, foi inserido no mercado o diesel S500 (500 ppm). Em 2012, foi difundido o diesel S50, com 50 ppm de enxofre em sua composição. Atualmente, é produzido um diesel com teores de enxofre ainda menores.\n\nOs impactos da má qualidade do óleo diesel brasileiro. Disponível em: www.cnt.org.br. Acesso em: 20 dez. 2012 (adaptado).\n\nA substituição do diesel usado nos anos 1980 por aquele difundido em 2012 permitiu uma redução percentual de emissão de SO3 de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "86,2%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "96,2%.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "97,2%.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "99,6%.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "99,9%.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.97713,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 26,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 56,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/56",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 57,
+    "enunciado": "![](https://enem.dev/2014/questions/57/98797c3b-9330-4122-b07a-008ab7156638.png)\n\nConsiderando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B, pois a corrente será maior nesse caso.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "B, pois a potência total será maior nesse caso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A, pois a resistência equivalente será menor nesse caso.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "B, pois o gerador fornecerá uma maior tensão nesse caso.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "A, pois a potência dissipada pelo gerador será menor nesse caso.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.58493,
+      "escala": 658,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2014/questions/57/98797c3b-9330-4122-b07a-008ab7156638.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 57,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/57",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 58,
+    "enunciado": "A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.\n\n_SANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. São Paulo: Nova Geração, 2005 (adaptado)._\n\nA substância capaz de formar as estruturas mencionadas é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C18H36.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "C17H33COONa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "CH3 CH2 COONa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "CH3CH2CH2 COOH.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "CH3CH2CH2CH2OCH2CH2CH2CH3",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.96591,
+      "escala": 697,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 58,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/58",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 59,
+    "enunciado": "![](https://enem.dev/2014/questions/59/4e02f04e-124a-4a16-9557-80aeeb59f293.png)\n\nDas espécies apresentadas, a adequada para essa recuperação é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cu (s).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pt (s).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Al3+(aq).",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sn (s).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Zn2+(aq)",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.34787,
+      "escala": 735,
+      "faixa": "Difícil"
+    },
+    "habilidade": 25,
+    "imagens": [
+      "https://enem.dev/2014/questions/59/4e02f04e-124a-4a16-9557-80aeeb59f293.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 59,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/59",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 60,
+    "enunciado": "Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.\n\n_PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Tropical Plant Pathology, v. 36, n. 2, mar.-abr. 2011 (adaptado)._\n\nQual dos processos biológicos mencionados indica uma relação ecológica de competição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fixação de nitrogênio para o tomateiro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Disponibilização de cálcio para o tomateiro",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da quantidade de ferro disponível para o fungo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Liberação de substâncias que inibem o crescimento do fungo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Liberação de auxinas que estimulam o crescimento do tomateiro.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.66203,
+      "escala": 566,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 60,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/60",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 61,
+    "enunciado": "Uma região de Cerrado possui lençol freático profundo, estação seca bem marcada, grande insolação e recorrência de incêndios naturais. Cinco espécies de árvores nativas, com as características apresentadas no quadro, foram avaliadas quanto ao seu potencial para uso em projetos de reflorestamento na região.\n\n![](https://enem.dev/2014/questions/61/7ffe7b83-3084-46ad-b349-851d9116bba5.png)\n\nQual é a árvore adequada para o reflorestamento da região?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.97259,
+      "escala": 797,
+      "faixa": "Difícil"
+    },
+    "habilidade": 28,
+    "imagens": [
+      "https://enem.dev/2014/questions/61/7ffe7b83-3084-46ad-b349-851d9116bba5.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 61,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/61",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 62,
+    "enunciado": "![](https://enem.dev/2014/questions/62/c6752fb8-7883-47db-bb64-a62d3c58658c.png)\n\nA diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maior pressão de vapor.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Menor massa molecular.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Maior compressibilidade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Menor energia de ativação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Menor capacidade calorífica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 2.8549,
+      "escala": 785,
+      "faixa": "Difícil"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2014/questions/62/c6752fb8-7883-47db-bb64-a62d3c58658c.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 62,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/62",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 63,
+    "enunciado": "A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.\n\n![](https://enem.dev/2014/questions/63/d14dc1bb-045a-4d4f-b45d-546ab27ff980.jpg)\n\nO processo citado está representado na etapa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.62363,
+      "escala": 662,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2014/questions/63/d14dc1bb-045a-4d4f-b45d-546ab27ff980.jpg"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 63,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/63",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 64,
+    "enunciado": "![](https://enem.dev/2014/questions/64/8647fc4b-cf74-4480-84ae-3a7c8dbf1ade.png)\n\nO movimento dos pêndulos após a primeira colisão está representado em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/64/5465b02d-b7c0-4634-ab50-9c90553c64eb.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/64/71612cad-5d0b-4aad-9ffb-6734c3a014a0.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/64/304c0652-3f78-45a7-9a5a-26f66cac172a.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/64/3986d28d-2218-4e4d-8fb0-364108801ec1.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/64/04085268-f5b2-4487-8e07-811ef753a830.png"
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.10244,
+      "escala": 710,
+      "faixa": "Difícil"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2014/questions/64/8647fc4b-cf74-4480-84ae-3a7c8dbf1ade.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 64,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/64",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 65,
+    "enunciado": "O grupo responsável pela bioatividade desse fármaco é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/65/a4137bfb-c853-4a14-913b-a98b7b61a017.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/65/a49ceb57-72cd-446e-a70d-71001bc9594d.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/65/65d62c42-c830-4a69-a5f5-5778f55507f1.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/65/f4c89421-78f1-4667-97e1-9966c978d6bc.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/65/591a492e-5806-4574-bf95-72849dd6ee86.png"
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.36697,
+      "escala": 737,
+      "faixa": "Difícil"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 65,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/65",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 66,
+    "enunciado": "A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meio artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.\n\nQue parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fissão do material radioativo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Condensação do vapor-d’água no final do processo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Conversão de energia das turbinas pelos geradores.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aquecimento da água líquida para gerar vapor-d’água.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Lançamento do vapor-d’água sobre as pás das turbinas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 2.25004,
+      "escala": 725,
+      "faixa": "Difícil"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 66,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/66",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 67,
+    "enunciado": "![](https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png)\n\nSe o ângulo de inclinação do plano de subida for reduzido a zero, a esfera",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.75351,
+      "escala": 675,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [
+      "https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 67,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/67",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 68,
+    "enunciado": "Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um angulo fixo e maior que zero, qualquer modificação no angulo do feixe refratado indicará adulteração no combustível.\n\nEm uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mudou de sentido.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Sofreu reflexão total.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Atingiu o valor do ângulo limite.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Direcionou-se para a superfície de separação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aproximou-se da normal à superfície de separação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.25817,
+      "escala": 626,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 68,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/68",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 69,
+    "enunciado": "Em um laboratório de genética experimental, observou-se que determinada bactéria continha um gene que conferia resistência a pragas específicas de plantas. Em vista disso, os pesquisadores procederam de acordo com a figura.\n\n![](https://enem.dev/2014/questions/69/a976572b-b528-4f80-a6fa-4e28e9f479b3.png)\n\nDo ponto de vista biotecnológico, como a planta representada na figura é classificada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Clone.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Híbrida.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mutante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Adaptada.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Transgênica.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.55299,
+      "escala": 555,
+      "faixa": "Médio"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2014/questions/69/a976572b-b528-4f80-a6fa-4e28e9f479b3.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 69,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/69",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 70,
+    "enunciado": "Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CH3COOH",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Na2SO4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "CH3OH",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "K2CO3",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "NH4Cl",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.22099,
+      "escala": 722,
+      "faixa": "Difícil"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 70,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/70",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 71,
+    "enunciado": "Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema representa reações que ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho. O excesso de dióxido de carbono na atmosfera pode afetar os recifes de corais.\n\n![](https://enem.dev/2014/questions/71/e948057c-b97b-4224-872f-475907a0faeb.png)\n\nO resultado desse processo nos corais é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Seu branqueamento, levando à sua morte e extinção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Excesso de fixação de cálcio, provocando calcificação indesejável.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Menor incorporação de carbono, afetando seu metabolismo energético.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estímulo da atividade enzimática, evitando a descalcificação dos esqueletos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.06465,
+      "escala": 606,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2014/questions/71/e948057c-b97b-4224-872f-475907a0faeb.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 71,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/71",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 72,
+    "enunciado": "![](https://enem.dev/2014/questions/72/ed8bebb8-7333-4efd-9b4e-6b2f639dbd0f.png)\n\nA fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esquerda e o ímã para a direita com polaridade invertida.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Direita e o ímã para a esquerda com polaridade invertida.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Esquerda e o ímã para a esquerda com mesma polaridade.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Direita e manter o ímã em repouso com polaridade invertida.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Esquerda e manter o ímã em repouso com mesma polaridade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.38241,
+      "escala": 638,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2014/questions/72/ed8bebb8-7333-4efd-9b4e-6b2f639dbd0f.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 72,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/72",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 73,
+    "enunciado": "Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.\n\nUma característica da mitocôndria que sustenta essa teoria é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Capacidade de produzir moléculas de ATP.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de parede celular semelhante à de procariontes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.53304,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 73,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/73",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 74,
+    "enunciado": "![](https://enem.dev/2014/questions/74/3f62e0c4-4374-4c49-b60b-304948d19b0f.jpg)\n\nNo heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.\n\nQual é o padrão de herança observado para essa doença?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dominante autossômico, pois a doença aparece em ambos os sexos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.48152,
+      "escala": 648,
+      "faixa": "Médio"
+    },
+    "habilidade": 13,
+    "imagens": [
+      "https://enem.dev/2014/questions/74/3f62e0c4-4374-4c49-b60b-304948d19b0f.jpg"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 74,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/74",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 75,
+    "enunciado": "O tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cubo de batata em solução com pH = 9.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pedaço de carne em solução com pH = 5.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Clara de ovo cozida em solução com pH = 9.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Porção de macarrão em solução com pH = 5.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Bolinha de manteiga em solução com pH = 9.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.84758,
+      "escala": 585,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 75,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/75",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 76,
+    "enunciado": "Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor.\n\nWENDLING, M. **Sensores**. Disponível em: www2.feg.unesp.br. Acesso em: 7 maio 2014 (adaptado).\n\nA radiação captada por esse detector encontra-se na região de frequência",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da luz visível.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Do ultravioleta.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Do infravermelho.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Das micro-ondas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Das ondas longas de rádio.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.312,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 22,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 76,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/76",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 77,
+    "enunciado": "A fórmula que se enquadra nas características da molécula investigada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CH3 –(CH)2 –CH(OH)–CO–NH–CH3.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "CH3 –(CH)2 –CH(CH3)–CO–NH–CH3.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "CH3 –(CH)2 –CH(CH3)–CO–NH2.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "CH3 –CH2 –CH(CH3)–CO–NH–CH3.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "C6 H5 –CH2 –CO–NH–CH3.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.97033,
+      "escala": 697,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 77,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/77",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 78,
+    "enunciado": "Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.\n\nERENO, D. Plásticos de vegetais. **Pesquisa Fapesp**, n. 179, jan. 2011 (adaptado).\n\nNesses plásticos, a fragmentação da resina polimérica é facilitada porque os carboidratos presentes",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dissolvem-se na água.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Absorvem água com facilidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Caramelizam por aquecimento e quebram.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "São digeridos por organismos decompositores.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Decompõem-se espontaneamente em contato com água e gás carbônico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.87414,
+      "escala": 587,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 78,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/78",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 79,
+    "enunciado": "Em um hospital havia cinco lotes de bolsas de sangue, rotulados com os códigos I, II, III, IV e V. Cada lote continha apenas o tipo sanguíneo não identificado. Uma funcionária do hospital resolveu fazer uma identificação utilizando dois tipos de soro, anti-A e anti-B. Os resultados obtidos estão descritos no quadro.\n\n![](https://enem.dev/2014/questions/79/9e4960c8-af7a-4b51-8137-440c6fbf2713.png)\n\nQuantos litros de sangue eram do grupo sanguíneo do tipo A?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "25",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "30",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "33",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "55",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.19448,
+      "escala": 619,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [
+      "https://enem.dev/2014/questions/79/9e4960c8-af7a-4b51-8137-440c6fbf2713.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 79,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/79",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 80,
+    "enunciado": "![](https://enem.dev/2014/questions/80/9dca1d8e-381f-4b07-ba36-17afcccfb4ad.png)\n\nConsiderando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Filtração.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Ventilação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Decantação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Evaporação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Destilação fracionada.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.57513,
+      "escala": 558,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2014/questions/80/9dca1d8e-381f-4b07-ba36-17afcccfb4ad.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 80,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/80",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 81,
+    "enunciado": "Os parasitoides (misto de parasitas e predadores) são insetos diminutos que têm hábitos muito peculiares: suas larvas podem se desenvolver dentro do corpo de outros organismos, como mostra a figura. A forma adulta se alimenta de pólen e açúcares. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.\n\n![](https://enem.dev/2014/questions/81/f14d3e16-c628-4fcb-92d6-66e38f74247c.jpg)\n\nA forma larval do parasitoide assume qual papel nessa cadeia alimentar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Consumidor primário, pois ataca diretamente uma espécie herbívora.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.9016,
+      "escala": 590,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [
+      "https://enem.dev/2014/questions/81/f14d3e16-c628-4fcb-92d6-66e38f74247c.jpg"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 81,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/81",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 82,
+    "enunciado": "![](https://enem.dev/2014/questions/82/6b5305c0-7fe2-4433-93e4-bf49a2641968.png)\n\nDesprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nulo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Paralelo à sua velocidade linear e no mesmo sentido.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Paralelo à sua velocidade linear e no sentido oposto.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Perpendicular à sua velocidade linear e dirigido para o centro da Terra.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.26688,
+      "escala": 727,
+      "faixa": "Difícil"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2014/questions/82/6b5305c0-7fe2-4433-93e4-bf49a2641968.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 82,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/82",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 83,
+    "enunciado": "![](https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png)\n\nO ambiente que necessita de biorremediação é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solo I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Solo II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Água I.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Água II.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Água III.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.07065,
+      "escala": 607,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 83,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/83",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 84,
+    "enunciado": "Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.\n\nO fenômeno descrito é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difração.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Refração.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Polarização.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Interferência.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ressonância.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.85878,
+      "escala": 686,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 84,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/84",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 85,
+    "enunciado": "![](https://enem.dev/2014/questions/85/115d18ee-069d-4b89-9d94-9ce280c41de8.png)\n\nEmbora sejam produzidos e utilizados em situações distintas, os imunobiológicos I e II atuam de forma semelhante nos humanos e equinos, pois",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conferem imunidade passiva.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Transferem células de defesa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Suprimem a resposta imunológica.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Estimulam a produção de anticorpos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Desencadeiam a produção de antígenos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": -0.05127,
+      "escala": 495,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [
+      "https://enem.dev/2014/questions/85/115d18ee-069d-4b89-9d94-9ce280c41de8.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 85,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/85",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 86,
+    "enunciado": "Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.\n\nSILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem… A química do mau cheiro. **Química Nova na Escola**, v. 33, n. 1, fev. 2011 (adaptado).\n\nA eficiência do uso do vinagre nesse caso se explica pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sobreposição de odor, propiciada pelo cheiro característico do vinagre.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Solubilidade da piridina, de caráter ácido, na solução ácida empregada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Inibição da proliferação das bactérias presentes, devido à ação do ácido acético.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.90174,
+      "escala": 590,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 86,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/86",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 87,
+    "enunciado": "Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.\n\nO ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identificar notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.\n\nLENT, R. **O cérebro do meu professor de acordeão**. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 15 ago. 2012 (adaptado).\n\nNo contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Frequência.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Intensidade.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Forma de onda.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Amplitude de onda.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Velocidade de propagação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.80341,
+      "escala": 580,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 87,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/87",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 88,
+    "enunciado": "Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).\n\nCaCO3(s) + SO2(g) → CaSO3(s) + CO2(g) (1)\n\nPor sua vez, o sulfito de cálcio formado por ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.\n\n2 CaSO3(s) + O2(g) → 2CaSO4(s) (2)\n\nAs massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol e 40 g/mol, respectivamente.\n\nBAIRD, C. **Química ambiental**. Porto Alegre: Bookman, 2002 (adaptado).\n\nConsiderando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "64.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "108.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "122.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "136.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "245.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.77915,
+      "escala": 678,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 88,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/88",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 89,
+    "enunciado": "Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.\n\nO poder terapêutico dessas células baseia-se em sua capacidade de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Multiplicação lenta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Comunicação entre células.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Adesão a diferentes tecidos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diferenciação em células especializadas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reconhecimento de células semelhantes.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.3958,
+      "escala": 640,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 89,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/89",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  },
+  {
+    "numero": 90,
+    "enunciado": "Durante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados.\n\n![](https://enem.dev/2014/questions/90/6f80414f-5fcb-4eac-8dac-2c6c829c91fe.png)\n\nConsiderando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.10564,
+      "escala": 611,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2014/questions/90/6f80414f-5fcb-4eac-8dac-2c6c829c91fe.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2014,
+      "area": "CN",
+      "cor": "Azul",
+      "numero": 90,
+      "provaMicrodados": "199",
+      "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/90",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+    }
+  }
+]

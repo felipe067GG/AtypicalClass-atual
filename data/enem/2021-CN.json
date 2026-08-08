@@ -1,0 +1,2256 @@
+[
+  {
+    "numero": 91,
+    "enunciado": "No cultivo por hidroponia, são utilizados soluções nutritivas contendo macronutrientes e micronutrientes essenciais. Além dos nutrientes, o pH é um parâmetro de extrema importância, uma vez que ele afeta a preparação da solução nutritiva e a absorção dos nutrientes pelas plantas. Para o cultivo de alface, valores de pH entre 5,5 e 6,5 são ideais para o seu desenvolvimento. As correções de pH são feitas pela adição de compostos ácidos ou básicos, mas não devem introduzir elementos nocivos às plantas. Na tabela, são apresentados alguns dados da composição da solução nutritiva de referência para esse cultivo. Também é apresentada a composição de uma solução preparada por um produtor de cultivo hidropônico.\n\n![](https://enem.dev/2021/questions/91/1dc57326-df5b-4852-aedc-5839a54129ec.png)\n\nLENZI, E; FAVERO, L. O. B; LUCHESE, E. B. **Introdução à química da água:** ciência, vida e sobrevivência. Rio de Janeiro: LTC, 2012 (adaptado).\n\nPara correção do pH da solução nutritiva preparada, esse produtor pode empregar uma solução de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/91/0cd7f916-3dc7-48f8-b5df-b84c91755f2a.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/91/cade51a2-4217-4ca2-960d-be2ee1e8bd2e.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/91/560b8732-72e1-4c95-8022-67102ebf31ec.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/91/6b02a86e-77a0-4ba0-8829-a91c987e4e7b.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/91/cac9eb61-efc4-42a4-8163-2e4a4c6d2f1e.png"
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.34841,
+      "escala": 635,
+      "faixa": "Médio"
+    },
+    "habilidade": 12,
+    "imagens": [
+      "https://enem.dev/2021/questions/91/1dc57326-df5b-4852-aedc-5839a54129ec.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 91,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/91",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 92,
+    "enunciado": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.\n\n![](https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png)\n\nConsidere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.\n\nAs relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F1< f2 e v1 < v2.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "F1 < f2 e v1 = v2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "F1< f2 e v1 > v2.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "F1 > f2 e v1 = v2.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "F1 > f2 e v1 > v2.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.65693,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 92,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/92",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 93,
+    "enunciado": "O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos. Frequentemente, muda a orientação de seus tentáculos, assemelhando-se a alguns animais. As imagens 1, 3, e 5 apresentam polvos mimetizando, respectivamente, um peixe-linguado (2), um peixe-leão (4) e uma serpente-marinha (6).\n\n![](https://enem.dev/2021/questions/93/63fd588f-0f17-4c2b-b0cb-ed3acf8b7f70.png)\n\nNORMAN, M. D.; FINN, J.; TREGENZA, T. Dynamic mimicry in an Indo-Malayan octopus. In: Proceedings of the Royal Society B: Biological Sciences, n. 268, out. 2021.\n\nDisponível em: www.researchgate.net. Acesso em: 15 mar. 2014 (adaptado).\n\nDo ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Originaram-se do mesmo ancestral que esses animais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Passaram por mutações similares a esses organismos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Observaram esses animais em seus nichos ecológicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Resultaram de convergência adaptativa com essas espécies.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sobrevivem às pressões seletivas com esses comportamentos",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.64628,
+      "escala": 565,
+      "faixa": "Médio"
+    },
+    "habilidade": 28,
+    "imagens": [
+      "https://enem.dev/2021/questions/93/63fd588f-0f17-4c2b-b0cb-ed3acf8b7f70.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 93,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/93",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 94,
+    "enunciado": "A figura foi extraída de um antigo jogo de computadores, chamado _Bang! Bang!_\n\n![](https://enem.dev/2021/questions/94/5a37495e-68a2-43fb-ac41-13a2fcc55e79.png)\n\nNo jogo, dois competidores controlam os canhões  **A**  e  **B**  , disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo de velocidade inicial de disparo ![](https://enem.dev/2021/questions/94/435840f2-c28e-427b-82f4-c210044547ee.png)   e para o ângulo de disparo ![](https://enem.dev/2021/questions/94/708a0541-6e2f-4256-ab6e-24d3b0a9a668.png).\n\nEm determinado momento de uma partida, o competidor  **B**  deve disparar; ele sabe que a bala disparada anteriormente, = 53 °, Passou tangenciando o Ponto  **P**  .\n\nNo jogo,  ![](https://enem.dev/2021/questions/94/c86c266a-40df-44d7-bc37-00fb42361fd1.png) é igual a 10 m / s 2. Considere sen 53 ° = 0,8, cos 53 ° = 0,6 e desprezível a ação de dissipativas.\n\nDisponível em:  [http://mebdownloads.butzke.net.br](http://mebdownloads.butzke.net.br/) . Acesso em: 18 abr. 2015 (adaptado).\n\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de   ![](https://enem.dev/2021/questions/94/0fea5329-7b51-4107-b32c-9e80dbb06407.png) que permitiria ao disparo pelo canhão  **B**  atingir o canhão  **A?**\n\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de que permitiria ao disparo pelo canhão  B  atingir o canhão  A?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 m/s",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "35 m/s",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "40 m/s",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "45 m/s",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "50 m/s",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 3.24395,
+      "escala": 824,
+      "faixa": "Difícil"
+    },
+    "habilidade": 20,
+    "imagens": [
+      "https://enem.dev/2021/questions/94/5a37495e-68a2-43fb-ac41-13a2fcc55e79.png",
+      "https://enem.dev/2021/questions/94/435840f2-c28e-427b-82f4-c210044547ee.png",
+      "https://enem.dev/2021/questions/94/708a0541-6e2f-4256-ab6e-24d3b0a9a668.png",
+      "https://enem.dev/2021/questions/94/c86c266a-40df-44d7-bc37-00fb42361fd1.png",
+      "https://enem.dev/2021/questions/94/0fea5329-7b51-4107-b32c-9e80dbb06407.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 94,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/94",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 95,
+    "enunciado": "Os pesticidas organoclorados foram amplamente empregados na agricultura, contudo, em razão das suas elevadas toxicidades e persistências no meio ambiente, eles foram banidos. Considere a aplicação de 500 g de um pesticida organoclorado em uma cultura e que, em certas condições, o tempo de meia-vida do pesticida no solo seja de 5 anos.\n\nA massa do pesticida no decorrer de 35 anos será mais próxima de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3,9 g.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "31, 2 g.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "62,5 g.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "125,0 g.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "250,0 g.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.76309,
+      "escala": 576,
+      "faixa": "Médio"
+    },
+    "habilidade": 27,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 95,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/95",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 96,
+    "enunciado": "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir\n\n![](https://enem.dev/2021/questions/96/5b6529ba-c1eb-4122-b4de-a281d26d7c5c.png)\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os códons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.\n\nQual mutação produzirá a menor proteína?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deleção de G no códon 3.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Substituição de C por U no códon 4.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Substituição de G por C no códon 6.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Substituição de A por G no códon 7.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Deleção dos dois primeiros nucleotídeos no códon 5.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.12828,
+      "escala": 613,
+      "faixa": "Médio"
+    },
+    "habilidade": 15,
+    "imagens": [
+      "https://enem.dev/2021/questions/96/5b6529ba-c1eb-4122-b4de-a281d26d7c5c.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 96,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/96",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 97,
+    "enunciado": "A simples atitude de não jogar direto no lixo ou no ralo da pia o óleo de cozinha usado pode contribuir para a redução da poluição ambiental. Mas o que fazer com o óleo vegetal que não será mais usado? Não existe um modelo ideal de descarte, mas uma alternativa simples tem sido reaproveitá-lo para fazer sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica.\n\nLOBO, I. **Sabão feito com óleo de cozinha**. Disponível em: http://pga.pgr.mpf.gov.br. Acesso em: 29 fev. 2012 (adaptado).\n\nCom base no texto, a reação química que permite o reaproveitamento do óleo vegetal é denominada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Epoxidação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Substituição.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Esterificação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Saponificação.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 0.97623,
+      "escala": 598,
+      "faixa": "Médio"
+    },
+    "habilidade": 19,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 97,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/97",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 98,
+    "enunciado": "Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os átrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação não causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o nascimento.\n\nOs prejuízos no período embrionário são evitados porque a circulação fetal se assemelha à dos (as)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aves, porque a pequena circulação e a grande circulação estão presentes.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Répteis, porque a mistura de sangue é minimizada por um metabolismo lento.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 3.81485,
+      "escala": 881,
+      "faixa": "Difícil"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 98,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/98",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 99,
+    "enunciado": "Na cidade de São Paulo, as ilhas de calor são responsáveis pela alteração da direção do fluxo da brisa marítima que deveria atingir a região de mananciais. Mas, ao cruzar a ilha de calor, a brisa marítima agora encontra um fluxo de ar vertical, que transfere para ela energia térmica absorvidas das superfícies quentes da cidade, deslocando-a para altas altitudes. Dessa maneira, há condensação e chuvas fortes no centro da cidade, em vez de na região de mananciais. A imagem apresenta os três subsistemas que trocam energia nesse fenômeno.\n\nNo processo de fortes chuvas no centro da cidade de São Paulo,  há dois mecanismos dominantes de transferência de calor: entre o Sol e ilha de calor, e entre a ilha de calor e a brisa marítima.\n\nVIVEIROS, M. **Ilhas de calor afastam chuvas de represas.**\n\nDisponível em: www2.feis.unesp.br. Acesso em: 3 de dez. 2019 (adaptado).\n\n![](https://enem.dev/2021/questions/99/0fa56a37-800a-48a2-9fea-f9447e6455eb.png)\n\nEsses mecanismos são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Irradiação e convecção.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Irradiação e irradiação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Condução e irradiação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Convecção e irradiação.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Convecção e convecção.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.51395,
+      "escala": 551,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [
+      "https://enem.dev/2021/questions/99/0fa56a37-800a-48a2-9fea-f9447e6455eb.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 99,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/99",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 100,
+    "enunciado": "No seu estudo sobre a queda dos corpos, Aristóteles afirmava que se abandonarmos corpos leves e pesados de uma mesma altura, o mais pesado chegaria mais rápido ao solo. Essa ideia está apoiada em algo que é difícil de refutar, a observação direta da realidade baseada no senso comum.\n\nApós, uma aula de física, dois colegas estavam discutindo sobre a queda dos corpos, e um tentava convencer o outro de que tinha razão:\n\nColega A: “O corpo mais pesado cai mais rápido que um menos pesado, quando largado de uma mesma altura. Eu provo, largando uma pedra e uma rolha. A pedra chega antes. Pronto! Tá provado!”.\n\nColega B: “Eu não acho! Peguei uma folha de papel esticado e deixei cair. Quando amassei, ela caiu mais rápido. Como isso é possível? Se era a mesma folha de papel, deveria cair do mesmo jeito. Tem que ter outra explicação!”.\n\nHÜLSENDEGER, M. Uma análise das concepções dos alunos sobre a queda dos corpos. Caderno Brasileiro de Ensino de Física, n. 3, dez. 2004 (adaptado).\n\nO aspecto físico comum que explica a diferença de comportamento dos corpos em queda nessa discussão é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peso dos corpos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Resistência do ar.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Massa dos corpos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Densidade dos corpos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aceleração da gravidade.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.6514,
+      "escala": 565,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 100,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/100",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 101,
+    "enunciado": "A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.\n\n![](https://enem.dev/2021/questions/101/0fe7f1b0-85ec-430e-b869-2956e9707dba.png)\n\nEm uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL. O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.\n\nO volume de etanol, em litro, obtido nesse processo é mais próximo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "25.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "64.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "100.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.61387,
+      "escala": 661,
+      "faixa": "Médio"
+    },
+    "habilidade": 25,
+    "imagens": [
+      "https://enem.dev/2021/questions/101/0fe7f1b0-85ec-430e-b869-2956e9707dba.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 101,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/101",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 102,
+    "enunciado": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.\n\n![](https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg)\n\nUtilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/102/35f28219-f7b0-4365-a7fc-58c08c95b366.jpg"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/102/a1addbaa-02a6-44a3-9499-fec69b941fb5.jpg"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/102/cf629285-ed23-44ed-8e08-fa20b10594c2.jpg"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/102/b1484eea-6e7c-4966-93fb-08f6170457d2.jpg"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/102/be16054b-4b26-4819-b0cb-b9f6b17c3f36.jpg"
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.17427,
+      "escala": 617,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 102,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/102",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 103,
+    "enunciado": "Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulosa (componentes inertes). O técnico realizou os seguintes testes:\n\n1) obtenção da massa do comprimido;  \n2) medição da densidade do comprimido;  \n3) verificação do pH com papel indicador;  \n4) determinação da temperatura de fusão do comprimido;  \n5) titulação com solução aquosa de NaOH.\n\nApós a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.\n\n![](https://enem.dev/2021/questions/103/6edd1246-645b-4642-8af9-1a528c701dfc.png)\n\nO teste permitiu reprovar o lote de analgésicos foi o de número",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.66345,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 7,
+    "imagens": [
+      "https://enem.dev/2021/questions/103/6edd1246-645b-4642-8af9-1a528c701dfc.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 103,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/103",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 104,
+    "enunciado": "O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.\n\nFRAINER, G.; SICILIANO, S.; TAVARES, D. C. Fransciscana calls for help: \\[…\\]. **International Whaling Commission, Conference Paper**, jun. 2016 (adaptado)\n\nConcentrações mais elevadas dos compostos citados são encontradas em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esponjas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Golfinhos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Fitoplâncton.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Peixes herbívoros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Algas macroscópicas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.21839,
+      "escala": 622,
+      "faixa": "Médio"
+    },
+    "habilidade": 10,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 104,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/104",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 106,
+    "enunciado": "A icterícia, popularmente conhecida por amarelão, é uma patologia frequente em recém-nascidos. Um bebê com icterícia não consegue metabolizar e excretar de forma eficiente a bilirrubina. Com isso, o acúmulo dessa substância deixa-o com a pele amarelada. A fototerapia é um tratamento de icterícia neonatal, que consiste na irradiação de luz no bebê. Na presença de luz, a bilirrubina é convertida no seu isômero lumirrubina que, por ser mais solúvel em água, é excretada pela bile ou pela urina. A imagem ilustra o que ocorre nesse tratamento.\n\nMOREIRA, M. et. al. O recém-nascido de alto risco: teoria e prática do cuidar \\[on-line\\]. Rio de Janeiro: Fiocruz, 2004 (adaptado).\n\n![](https://enem.dev/2021/questions/106/71d07d1a-9ecf-401c-bd00-2dae5366c8f8.png)\n\nNa fototerapia, a luz provoca a conversão de bilirrubina no seu isômero",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ótico",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Funcional",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "De cadeia",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "De posição",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Geométrico",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.29106,
+      "escala": 729,
+      "faixa": "Difícil"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2021/questions/106/71d07d1a-9ecf-401c-bd00-2dae5366c8f8.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 106,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/106",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 107,
+    "enunciado": "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.\n\nConsiderando desprezível a resistência do ar, qual versão apresenta a maior potência?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Como a versão a gasolina atinge a maior valor de energia cinética, esta é a que desenvolve a maior potência.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.77374,
+      "escala": 677,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 107,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/107",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 108,
+    "enunciado": "**TEXTO I**\n\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\n\nA distância em relação  \nAo nosso planeta amado  \nPouco menos que a do Sol  \nEle está distanciado  \nE menos denso que a água  \nQuando no normal estado\n\nMEDEIROS, A.; AGRA, J. T. M., A astronomia na literatura de cordel,\n\n**Física na Escola,** n. 1, abr. 2010 (fragmento)\n\n**TEXTO II**\n\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\n**Características dos planetas.** Disponível em: www.astronoo.com.\n\nAcesso em: 8 de nov. 2019 (adaptado)\n\nConsiderando os versos de sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mercúrio",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Júpiter",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Urano",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Saturno",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Netuno",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 0.71695,
+      "escala": 572,
+      "faixa": "Médio"
+    },
+    "habilidade": 3,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 108,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/108",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 109,
+    "enunciado": "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo).\n\n![](https://enem.dev/2021/questions/109/0ab7fc90-d04f-4f68-b31e-61c943c94208.jpg)\n\nWEBER, S. B. et al. Ohm1s Law Survivers to the atomice sacle.\n\n**Science**, n. 335, jan. 2012 (adaptado)\n\nAs resistências elétricas dos fios, em ordem crescente, são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R1 < R2 < R3< R4",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R2 < R1 < R3< R4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R2 < R3 < R1< R4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R4 < R1 < R3< R2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R4 < R3 < R2< R1",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.66716,
+      "escala": 667,
+      "faixa": "Médio"
+    },
+    "habilidade": 17,
+    "imagens": [
+      "https://enem.dev/2021/questions/109/0ab7fc90-d04f-4f68-b31e-61c943c94208.jpg"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 109,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/109",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 110,
+    "enunciado": "Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.\n\nO processo metabólico associado à expressão combustíveis ambientais é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fotossíntese.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fermentação.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Quimiossíntese.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Respiração aeróbica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fosforilação oxidativa.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.40589,
+      "escala": 641,
+      "faixa": "Médio"
+    },
+    "habilidade": 9,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 110,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/110",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 111,
+    "enunciado": "Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:\n\n1) Sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\n\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\n\n3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.\n\nPara completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Filmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Divulgar na rádio local, no local impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 0.30941,
+      "escala": 531,
+      "faixa": "Fácil"
+    },
+    "habilidade": 4,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 111,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/111",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 112,
+    "enunciado": "Os búfalos são animais considerados rústicos pelos criadores e, por isso, são deixados no campo sem controle reprodutivo. Por causa desse tipo de criação, a consanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas.\n\nDAME,M. C. F. RIET-CORREA, F: SCHILF, A. L; **Pesq. Vet. Bras.**, n. 7. 2013 (adaptado).\n\nQual procedimento biotecnológico prévio é recomendado nessa situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transgenia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Terapia gênica.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina de DNA.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Clonagem terapêutica.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mapeamento genético.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": -0.72714,
+      "escala": 427,
+      "faixa": "Fácil"
+    },
+    "habilidade": 11,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 112,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/112",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 113,
+    "enunciado": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao seu estado inicial ao final do ciclo.\n\n![](https://enem.dev/2021/questions/113/38fbcbee-5f16-4758-a90a-94f670c1f5a0.png)\n\nA reação de redução do cobre ocorre na etapa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.38461,
+      "escala": 638,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2021/questions/113/38fbcbee-5f16-4758-a90a-94f670c1f5a0.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 113,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/113",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 114,
+    "enunciado": "Um dos exames clínicos mais tradicionais para medir a capacidade reflexa dos indivíduos é o exame do reflexo patelar. Esse exame consiste na estimulação da patela, um pequeno osso localizado na parte anterior da articulação do joelho, com um pequeno martelo. A resposta reflexa ao estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado.\n\nQual região específica do sistema nervoso coordena essa resposta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ponte.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Medula.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cerebelo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotálamo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Neuro-hipófise.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.65732,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 14,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 114,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/114",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 115,
+    "enunciado": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material da sua área A, da diferença de temperatura ![](https://enem.dev/2021/questions/115/2d6e91e5-edc0-42dc-8b15-14cf474b9dff.png)T e da espessura d do material, sendo dada pela relação ![](https://enem.dev/2021/questions/115/cdd13f89-f9a8-4c42-9a4b-2a687770790a.jpg). Em panelas com dois materiais, a taxa de condução é dada por ![](https://enem.dev/2021/questions/115/196bcb78-55e8-43c8-bd2c-4e6634418379.jpg), em que ![](https://enem.dev/2021/questions/115/e648c99c-9415-48a9-9b60-81d772fe7be5.jpg) e ![](https://enem.dev/2021/questions/115/db100305-3044-4e95-951d-2a7f9486e2fc.jpg) são as espessuras dos dois materiais, e ![](https://enem.dev/2021/questions/115/c00b2af8-4e60-4741-9aea-ec1ced38dc3c.jpg) e ![](https://enem.dev/2021/questions/115/03cf9ca5-959a-491c-bf13-23843a84270c.jpg) são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro (k = 8 W/m K) e ao aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\n\nCompara-se uma panela de ferro, uma de alumínio e uma composta de ![](https://enem.dev/2021/questions/115/6022cc3f-b163-4fd4-b19d-c53afe7aa71b.jpg) da espessura em cobre e ![](https://enem.dev/2021/questions/115/6f91e72e-1734-445a-8e8d-13678bcefe0e.jpg) da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.\n\nA ordem crescente da mais econômica para a menos econômica é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cobre-aço, alumínio e ferro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Alumínio, cobre-aço e ferro",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cobre-aço, ferro e alumínio",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Alumínio, ferro e cobre-aço",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ferro, alumínio e cobre-aço",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.99105,
+      "escala": 699,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [
+      "https://enem.dev/2021/questions/115/2d6e91e5-edc0-42dc-8b15-14cf474b9dff.png",
+      "https://enem.dev/2021/questions/115/cdd13f89-f9a8-4c42-9a4b-2a687770790a.jpg",
+      "https://enem.dev/2021/questions/115/196bcb78-55e8-43c8-bd2c-4e6634418379.jpg",
+      "https://enem.dev/2021/questions/115/e648c99c-9415-48a9-9b60-81d772fe7be5.jpg",
+      "https://enem.dev/2021/questions/115/db100305-3044-4e95-951d-2a7f9486e2fc.jpg",
+      "https://enem.dev/2021/questions/115/c00b2af8-4e60-4741-9aea-ec1ced38dc3c.jpg",
+      "https://enem.dev/2021/questions/115/03cf9ca5-959a-491c-bf13-23843a84270c.jpg",
+      "https://enem.dev/2021/questions/115/6022cc3f-b163-4fd4-b19d-c53afe7aa71b.jpg",
+      "https://enem.dev/2021/questions/115/6f91e72e-1734-445a-8e8d-13678bcefe0e.jpg"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 115,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/115",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 116,
+    "enunciado": "As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricultura. Entre as várias substâncias usualmente encontradas, algumas são apresentadas na figura. A distinção dessas substâncias pode ser feita por meio de uma análise química qualitativa, ou seja, determinando sua presença mediante a adição de um reagente específico. O hidróxido de sódio é capaz de identificar a presença de um desses pesticidas pela reação ácido-base de Brönsted-Lowry.\n\n![](https://enem.dev/2021/questions/116/203d51e2-8b23-40bc-8962-2a8ad628c649.png)\n\nO teste positivo será observado com o pesticida",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 2.43316,
+      "escala": 743,
+      "faixa": "Difícil"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2021/questions/116/203d51e2-8b23-40bc-8962-2a8ad628c649.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 116,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/116",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 117,
+    "enunciado": "Com o aumento da população de suínos no Brasil, torna-se necessária a adoção de métodos para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são 200 vezes mais poluentes. Sendo assim, a utilização desses resíduos como matéria-prima na obtenção de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que parte dos recursos hídricos do país são preservados.\n\nBECK, A. M. Resíduos suínos como alternativa energética sustentável. XXVII Encontro Nacional de Engenharia de Produção. Anais ENEGEP, Foz do Iguaçu, 2007 (adaptado).\n\nO biocombustível a que se refere o texto é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Etanol",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Biogás",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Butano",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Metanol",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Biodiesel",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.79781,
+      "escala": 680,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 117,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/117",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 119,
+    "enunciado": "Com o objetivo de identificar a melhor espécie produtora de madeira para construção 9com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\n![](https://enem.dev/2021/questions/119/10bb6002-7436-4c10-b35c-8f90cd159c56.png)\n\nQual espécie corresponde ao objetivo proposto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 2.4095,
+      "escala": 741,
+      "faixa": "Difícil"
+    },
+    "habilidade": 19,
+    "imagens": [
+      "https://enem.dev/2021/questions/119/10bb6002-7436-4c10-b35c-8f90cd159c56.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 119,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/119",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 120,
+    "enunciado": "No outono, as folhas de árvores mudam de cor, de verde para tons de amarelo, castanho, laranja e vermelho. A cor de verde das folhas deve-se ao pigmento clorofila. Nas plantas de folhas caducas, a produção de clorofila diminui e o tom verde desvanece, permitindo assim que outros pigmentos, como o caroteno, de coloração amarelo-alaranjado, e a antocianina, de tons avermelhados, passem a dominar a tonalidade das folhas. A coloração observada se dá em função da interação desses pigmentos com a radiação solar.\n\nConforme apresentado no espectro de absorção, as moléculas de clorofila absorvem a radiação solar nas regiões do azul e do vermelho, assim a luz refletida pelas folhas tem falta desses dois tons e as vemos na cor verde. Já as antocianinas absorvem a luz desde o azul até o verde. Nesse caso, a luz refletida pelas folhas que contêm antocianinas aparece conforme as cores complementares, ou seja, vermelho-alaranjado.\n\n![](https://enem.dev/2021/questions/120/958924b2-26fa-4dbd-b73e-385bb284062f.png)\n\nDisponível em: https://vidauniversoydemas.wordpress.com. Acesso em: 6 dez. 2017 (adaptado)\n\nEm qual faixa do espectro visível os carotenos absorvem majoritariamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre o violeta e o azul.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Entre o azul e o verde.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Entre o verde e o amarelo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Entre o amarelo e o laranja.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Entre o laranja e o vermelho.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 1.39005,
+      "escala": 639,
+      "faixa": "Médio"
+    },
+    "habilidade": 22,
+    "imagens": [
+      "https://enem.dev/2021/questions/120/958924b2-26fa-4dbd-b73e-385bb284062f.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 120,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/120",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 121,
+    "enunciado": "Entre 2014 e 2016, as regiões central e oeste da África sofreram um grave epidemia de febre hemorrágica causada pelo vírus ebola, que se manifesta em até 21 dias após a infecção e cuja taxa de letalidade (enfermos que vão a óbito) pode chegar a 90%. Em regiões de clima tropical e subtropical, um outro vírus também pode causar febre hemorrágica: o vírus da dengue, que, embora tenha período de incubação menor (até 10 dias), apresenta taxa de letalidade abaixo de 1%.\n\nDisponível em: www.who.int. Acesso em: 1 fev. 2017 (adaptado).\n\nSegundo as informações do texto e aplicando princípios de evolução biológica às relações do tipo patógeno-hospedeiro, qual dos dois vírus infecta seres humanos há mais tempo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro.",
+        "imagem": null
+      }
+    ],
+    "resposta": "E",
+    "dificuldade": {
+      "b": 1.76469,
+      "escala": 676,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 121,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/121",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 122,
+    "enunciado": "A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.\n\n![](https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png)\n\nTAVARES, K. **Estações de tratamento de esgoto individuais permitem a reutilização da água.** Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).\n\nEm qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.67271,
+      "escala": 567,
+      "faixa": "Médio"
+    },
+    "habilidade": 8,
+    "imagens": [
+      "https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 122,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/122",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 123,
+    "enunciado": "O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar o caule das roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.\n\nA utilização de auxinas no método de estaquia das roseiras contribui para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Floração da planta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Produção de gemas laterais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Formação de folhas maiores.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Formação de raízes adventícias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Produção de compostos energéticos.",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.72446,
+      "escala": 672,
+      "faixa": "Médio"
+    },
+    "habilidade": 29,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 123,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/123",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 124,
+    "enunciado": "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\n![](https://enem.dev/2021/questions/124/df5d7675-a414-4e3d-914e-116d7bd061ac.png)\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\n\nTHOMAS, S; ZALBOWITZ, M. **Full cells**: green power. Losalamos National Laboratory. Los Alamos, NM, 1999 (adaptado).\n\nA tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "AFC.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "MSFC.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "PEM.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "PAFC.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "SOFC.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 0.59099,
+      "escala": 559,
+      "faixa": "Médio"
+    },
+    "habilidade": 2,
+    "imagens": [
+      "https://enem.dev/2021/questions/124/df5d7675-a414-4e3d-914e-116d7bd061ac.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 124,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/124",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 125,
+    "enunciado": "Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.\n\n![](https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png)\n\nO incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias úmidos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A temperatura do vapor-d'água presente no ar é alta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O suor apresenta maior dificuldade para evaporar do corpo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "A taxa de absorção de radiação pelo corpo torna-se maior.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O ar torna-se mau condutor e dificulta o processo de liberação de calor.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O vapor-d'água presente no ar condensa-se ao entrar em contato com a pele.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.93672,
+      "escala": 694,
+      "faixa": "Médio"
+    },
+    "habilidade": 21,
+    "imagens": [
+      "https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 125,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/125",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 126,
+    "enunciado": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.\n\n![](https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png)\n\nO garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/126/25d6d416-c4fd-44ab-a585-e6bfc841f167.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/126/0a7dfcb5-69d0-4c21-b3e9-8d8c3e3855d6.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/126/870e3957-2d89-4115-ba0b-653d28d95f19.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/126/1557b1da-03f1-4bd4-a456-05a62bebb592.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/126/d9e73712-b6a3-4e5d-afd8-ce5a8cfa379f.png"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 2.12158,
+      "escala": 712,
+      "faixa": "Difícil"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 126,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/126",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 127,
+    "enunciado": "Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.\n\nBICUDO, F. Jardineiro da pesada. Ecologia. **Pesquisa Fapesp**, ed. 231, maio 2015 (adaptado).\n\nO evento descrito com a flora ocorreu em razão da redução",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da produção de flores.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Do tamanho das plantas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "De fatores de disseminação das sementes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Da quantidade de semente por fruto.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dos hábitats disponíveis para as plantas.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": -0.23373,
+      "escala": 477,
+      "faixa": "Fácil"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 127,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/127",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 128,
+    "enunciado": "Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais  lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas.\n\nApós realizar um percurso de 110km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador ideal que opera a uma tensão de 220 V e é percorrido por uma corrente de 20 A.\n\nQuantas horas são necessárias para recarregar a energia utilizadas nesse percurso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,005",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,125",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8,0",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.65567,
+      "escala": 666,
+      "faixa": "Médio"
+    },
+    "habilidade": 23,
+    "imagens": [],
+    "materia": "Física",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 128,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/128",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 129,
+    "enunciado": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.\n\nEssa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nutrição para o fruto.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Reserva para o embrião.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Revestimento para a semente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Proteção para o megagametófito.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Vascularização para a planta jovem.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.87858,
+      "escala": 688,
+      "faixa": "Médio"
+    },
+    "habilidade": 16,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 129,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/129",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 130,
+    "enunciado": "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as apresentadas no quadro.\n\n![](https://enem.dev/2021/questions/130/dd0ea14c-aaa3-49b0-94c5-a514996ea0f6.png)\n\nO aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica saturada é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Kiwi.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Banana.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pêssego.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Rum.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Uva.",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.86924,
+      "escala": 687,
+      "faixa": "Médio"
+    },
+    "habilidade": 24,
+    "imagens": [
+      "https://enem.dev/2021/questions/130/dd0ea14c-aaa3-49b0-94c5-a514996ea0f6.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 130,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/130",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 131,
+    "enunciado": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.\n\n![](https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png)\n\nDe acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "60",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "100",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "120",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "180",
+        "imagem": null
+      }
+    ],
+    "resposta": "B",
+    "dificuldade": {
+      "b": 1.23172,
+      "escala": 623,
+      "faixa": "Médio"
+    },
+    "habilidade": 1,
+    "imagens": [
+      "https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png"
+    ],
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 131,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/131",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 132,
+    "enunciado": "A deficiência de lipase ácida lisossômica é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores dos genes da doença até o nascimento do primeiro filho afetado. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença.\n\nANDERSON, R. A. et. al. In: Situ Localization of the Genetic Locus Encoding the Lysosomal Acid Lipase/Cholesteryl Esterase (LIPA) Deficient in Wolman Disease to Chromosome 10q23.2-q23.3. **Genomics**, n. 1, jan, 1993 (adaptado).\n\nEssa é uma doença hereditária de caráter",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recessivo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dominante.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Codominante.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Poligênico.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Polialélico.",
+        "imagem": null
+      }
+    ],
+    "resposta": "A",
+    "dificuldade": {
+      "b": 0.44934,
+      "escala": 545,
+      "faixa": "Fácil"
+    },
+    "habilidade": 13,
+    "imagens": [],
+    "materia": "Biologia",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 132,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/132",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 133,
+    "enunciado": "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\n![](https://enem.dev/2021/questions/133/7c6e4c3d-7d86-480f-9b8d-7724ac2f3928.png)\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\n![](https://enem.dev/2021/questions/133/4e5f2e9f-79d3-4a10-a4dc-cbff60aaa875.png)\n\nEssa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.96749,
+      "escala": 697,
+      "faixa": "Médio"
+    },
+    "habilidade": 5,
+    "imagens": [
+      "https://enem.dev/2021/questions/133/7c6e4c3d-7d86-480f-9b8d-7724ac2f3928.png",
+      "https://enem.dev/2021/questions/133/4e5f2e9f-79d3-4a10-a4dc-cbff60aaa875.png"
+    ],
+    "materia": "Química",
+    "origemDaMateria": "vocabulário",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 133,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/133",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 134,
+    "enunciado": "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0º GL a 100ºGL, com divisões de 0,1ºGL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20ºC, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\n![](https://enem.dev/2021/questions/134/7c4c3c55-a6c0-4f80-a379-f316fb889544.png)\n\n**Manual alcoolômetro Gay Lussac**. Disponível em: www.incoterm.com.br. Acesso em: 4 dez. 2018 (adaptado).\n\nÉ necessário a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da dissociação da água.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da densidade da água e do álcool.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mudança do volume dos materiais por dilatação.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da concentração de álcool durante a medida.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Alteração das propriedades químicas da mistura álcool e água.",
+        "imagem": null
+      }
+    ],
+    "resposta": "C",
+    "dificuldade": {
+      "b": 1.40697,
+      "escala": 641,
+      "faixa": "Médio"
+    },
+    "habilidade": 6,
+    "imagens": [
+      "https://enem.dev/2021/questions/134/7c4c3c55-a6c0-4f80-a379-f316fb889544.png"
+    ],
+    "materia": "Física",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 134,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/134",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  },
+  {
+    "numero": 135,
+    "enunciado": "O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.\n\nROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. **Química Nova na Escola**. n. 12, 2000 (adaptado).\n\nUm exemplo desse polímero é representado pela estrutura",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/135/92f582f4-0041-4251-a9d7-8feabaaa8bfa.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/135/1d579e5b-921a-4afb-90f1-49618e3a2269.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/135/94c80fa9-2e44-4853-8079-0ae4478a6016.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/135/33d1ee01-ba72-4108-97ce-5e4307659fff.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/135/99804a25-fcf0-4a95-be82-d601f1e98a33.png"
+      }
+    ],
+    "resposta": "D",
+    "dificuldade": {
+      "b": 1.53283,
+      "escala": 653,
+      "faixa": "Médio"
+    },
+    "habilidade": 18,
+    "imagens": [],
+    "materia": "Química",
+    "origemDaMateria": "leitura",
+    "fonte": {
+      "exame": "ENEM",
+      "ano": 2021,
+      "area": "CN",
+      "cor": "AZUL",
+      "numero": 135,
+      "provaMicrodados": "909",
+      "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/135",
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip"
+    }
+  }
+]
