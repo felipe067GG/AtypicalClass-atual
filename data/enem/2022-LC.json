@@ -52,7 +52,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/1?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 1,
@@ -105,7 +106,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/1?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 2,
@@ -158,7 +160,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/2?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 2,
@@ -211,7 +214,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/2?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 3,
@@ -264,7 +268,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/3?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 3,
@@ -319,7 +324,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/3?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Tirinha apresentada em quatro quadrinhos. O primeiro quadrinho apresenta um castelo localizado no alto de uma colina, cercado por floresta e montanhas. O sol está baixo. Duas pessoas conversam dentro dele. Uma delas diz: “Now that you are my bride, you will never leave this castle!”. A outra exclama: “Wow! Your library is amazing!”. No segundo quadrinho, apresentados de forma estilizada, estão um homem grandalhão usando chapéu e segurando um bastão, e uma mulher com os cabelos presos em rabo de cavalo e usando um vestido. Ele fala: “Beyond the castle is a high wall with no gate, and beyond that is a deep, dark forest with no path”. A mulher, que está retirando um livro de uma estante alta e repleta de livros, comenta: “I suppose it’s my library too, now we’re married”. No terceiro quadrinho, o homem ergue o dedo indicador e diz: “The forest is crawling with ravenous wolves, malignant birds and the spirits of long-dead travellers.”. A mulher passa por ele carregando três livros e exclama: “So many books! I can’t believe my luck!”. No último quadrinho, o homem, que está transformado em um ser com asas e patas e voando em direção contrária à da mulher, fala: “When the sun sets, I transform into a wild beast and soar into the night, seized by a terrible bloodlust!”. A mulher está sentada em um banco ao lado de dois livros. Ela segura um terceiro livro nas mãos à frente do rosto enquanto fala: “Ok. I’ll stay here and read. See you in the morning.”."
+    ]
   },
   {
     "numero": 4,
@@ -372,7 +380,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/4?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 4,
@@ -425,7 +434,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/4?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 5,
@@ -480,7 +490,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/5?language=espanhol",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 5,
@@ -533,7 +544,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/5?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 6,
@@ -586,7 +598,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/6",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 7,
@@ -641,7 +654,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/7",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Cartaz que apresenta a fotografia de um cachorro e um gato abraçados e deitados no chão, ao lado de uma placa com o texto: “Adote um animal de rua”. Do lado direito do cartaz, em destaque, a seguinte mensagem: “Ei... me leve para sua casa!!! Décima quarta feira de adoção de cães e gatos”. Na parte inferior, uma caixa de texto informa: “Documentos obrigatórios para adoção: carteira de identidade, CPF, comprovante de residência” e, logo abaixo, um complemento: “E muito amor!!”."
+    ]
   },
   {
     "numero": 8,
@@ -694,7 +710,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/8",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 9,
@@ -749,7 +766,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/9",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Peça publicitária que apresenta duas imagens, uma ao lado da outra. A da esquerda é a fotografia de uma mulher que está cobrindo o rosto com as mãos. Sobre suas mãos está escrito: “Arrependimento”. A imagem da direita é uma via de asfalto onde está escrito: “Causar um acidente é algo que você leva para o resto da vida. Não beba se for dirigir.”. Abaixo, o logotipo do Detran do Espírito Santo."
+    ]
   },
   {
     "numero": 10,
@@ -802,7 +822,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/10",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 11,
@@ -855,7 +876,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/11",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 12,
@@ -908,7 +930,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/12",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 13,
@@ -961,7 +984,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/13",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 14,
@@ -1014,7 +1038,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/14",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 15,
@@ -1069,7 +1094,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/15",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Posicionado sob três grandes luminárias, um outdoor apresenta a seguinte mensagem: “Quanto custou? Proposta obriga órgão público a divulgar gasto com anúncio na própria peça publicitária. Qual sua opinião?”. O trecho “Quanto custou” está destacado com caixa alta e fonte maior."
+    ]
   },
   {
     "numero": 16,
@@ -1122,7 +1150,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/16",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 17,
@@ -1175,7 +1204,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/17",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 18,
@@ -1228,7 +1258,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/18",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 19,
@@ -1281,7 +1312,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/19",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 20,
@@ -1334,7 +1366,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/20",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 21,
@@ -1387,7 +1420,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/21",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 22,
@@ -1440,7 +1474,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/22",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 23,
@@ -1493,7 +1528,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/23",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 24,
@@ -1546,7 +1582,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/24",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 25,
@@ -1599,7 +1636,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/25",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 26,
@@ -1652,7 +1690,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/26",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 27,
@@ -1707,7 +1746,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/27",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Cartaz dividido verticalmente, que apresenta fotografias e textos. Do lado esquerdo, está a fotografia de uma mulher sentada ao volante de um carro e a mensagem: “Mulher ao volante, perigo constante”. O trecho “perigo constante” está riscado e, logo abaixo, está escrito “tem estrada para andar”. A fotografia da direita é do rosto de um homem com o desenho de uma lágrima logo abaixo de um olho. Ao lado do homem, a mensagem: “Os homens não choram”, com o desenho de um grande X sobre a palavra “não”."
+    ]
   },
   {
     "numero": 28,
@@ -1760,7 +1802,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/28",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 29,
@@ -1813,7 +1856,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/29",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 30,
@@ -1866,7 +1910,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/30",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 31,
@@ -1919,7 +1964,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/31",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 32,
@@ -1974,7 +2020,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/32",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Texto intitulado Manual de Orientação: o primeiro guia prático da Sociedade Brasileira de Pediatria para ajudar pais e pediatras no desafio de educar nativos digitais. Na sequência, entre duas linhas pontilhadas e onduladas, está escrito: “Trabalho de base”. Logo abaixo, acompanhadas de imagens, há três colunas com informações de acordo com três faixas etárias de crianças.“Até 2 anos: A criança não deve ser exposta passivamente às telas — TV, tablet, celular etc.—, principalmente durante as refeições e até 2 horas antes de dormir.”.“De 2 a 5 anos: O tempo de exposição às telas deve ser limitado a 1 hora por dia. Crianças dessa faixa etária devem ser mais protegidas da violência virtual, pois não sabem separar fantasia de realidade.”.“Até 10 anos: Devem ter acesso controlado a computadores e dispositivos móveis. Crianças de até 10 anos não devem usar TV ou computador no próprio quarto.”.MANUAL DE ORIENTAÇÃOO primeiro guia prático da Sociedade Brasileira de Pediatria para ajudar pais e pediatras no desafio de educar nativos digitaisAté 2 anosA criança não deve ser exposta passivamente às telas — TV, tablet, celular etc. —, principalmente durante as refeições e até 2 horas antes de dormir.O tempo de exposição às telas deve ser limitado a 1 hora por dia. Crianças dessa faixa etária devem ser mais protegidas da violência virtual, pois não sabem separar fantasia de realidade.Devem ter acesso controlado a computadores e dispositivos móveis. Crianças de até 10 anos não devem usar TV ou computador no próprio quarto."
+    ]
   },
   {
     "numero": 33,
@@ -2027,7 +2076,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/33",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 34,
@@ -2080,7 +2130,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/34",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 35,
@@ -2133,7 +2184,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/35",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 36,
@@ -2186,7 +2238,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/36",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 37,
@@ -2239,7 +2292,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/37",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 38,
@@ -2294,7 +2348,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/38",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Obra intitulada Laocoonte, de El Greco, em óleo sobre tela, que apresenta, em primeiro plano, o desenho de cinco figuras humanas nuas posicionadas em uma área rochosa, que tem ao fundo uma cidade. Na parte central da imagem, dois homens estão deitados com as costas no chão rochoso, cabeças próximas, em sentidos opostos. Um tem cabelos brancos e barba branca e está segurando com a mão direita o pescoço de uma serpente, e com a mão esquerda, a parte central do corpo do animal. A serpente está com a boca bem aberta próxima à cabeça do homem tentando picá-lo. À direita da imagem, estão duas figuras humanas em pé. Uma está de costas, e a outra está com o corpo voltado para frente e o rosto para o lado. Do lado esquerdo da tela, há a figura de um homem, de corpo esguio, genitália à mostra. Ele tem o braço direito dobrado para cima e para trás, o braço esquerdo está esticado na lateral do corpo, segurando uma serpente pelo meio e pela cauda, a qual parece picá-lo à altura do abdômen."
+    ]
   },
   {
     "numero": 39,
@@ -2349,7 +2406,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/39",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Obra, sem título, de Donald Judd, de 1969, composta de dez blocos retangulares, que parecem estar fixados numa parede, um acima do outro, numa distância simétrica entre si. O formato dos blocos remete a caixas."
+    ]
   },
   {
     "numero": 40,
@@ -2402,7 +2462,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/40",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 41,
@@ -2455,7 +2516,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/41",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 42,
@@ -2508,7 +2570,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/42",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 43,
@@ -2561,7 +2624,8 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/43",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 44,
@@ -2616,7 +2680,10 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/44",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: Instalação intitulada In absentia, de Regina Silveira, de 1983, que apresenta a projeção da imagem de uma roda de bicicleta montada sobre um banquinho. Há no chão uma caixa branca, a partir da qual começa a projeção."
+    ]
   },
   {
     "numero": 45,
@@ -2669,6 +2736,7 @@
       "provaMicrodados": "1065",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/45",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   }
 ]

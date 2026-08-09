@@ -52,7 +52,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/136",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da imagem: A imagem é formada por duas figuras. A figura à esquerda apresenta um cone circular reto, com diâmetro da base igual a 18 centímetros e altura igual a 36 centímetros. Nele está destacado um cone circular reto, de mesmo vértice e mesmo eixo de simetria mas altura menor, e cujo diâmetro da base é igual a 6 centímetros. A figura à direita mostra o tronco de cone, obtido pela retirada do cone de altura menor do cone de altura maior, do qual foi removido também um cilindro circular reto, de diâmetro igual a 6 centímetros, com o mesmo eixo de simetria que o cone original."
+    ]
   },
   {
     "numero": 137,
@@ -107,7 +110,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/137",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 138,
@@ -160,7 +164,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/138",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 139,
@@ -215,7 +220,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/139",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 140,
@@ -270,7 +276,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/140",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do gráfico: Gráfico de barras que associa o número de viagens realizadas à quantidade de motoristas que realizaram essas viagens. 1 viagem: 10 motoristas; 2 viagens: 10 motoristas 3 viagens: 55 motoristas; 4 viagens: 25 motoristas; 5 viagens: 0 motorista; 6 viagens: 50 motoristas; 7 viagens: 10 motoristas"
+    ]
   },
   {
     "numero": 141,
@@ -323,7 +332,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/141",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 143,
@@ -376,7 +386,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/143",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 144,
@@ -432,7 +443,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/144",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da foto: Foto em preto e branco de pessoas construindo uma cisterna em frente a uma casa."
+    ]
   },
   {
     "numero": 145,
@@ -487,7 +501,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/145",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: A figura apresenta um campo de futebol, no qual os pontos A e B marcam as extremidades de uma das traves; o ponto Q1 é vértice do triângulo A, Q1, B, e o ângulo A, Q1, B mede alfa graus. A figura apresenta, também, cinco circunferências: circunferência 1 passa pelos pontos A, Q4 e B; circunferência 2 passa pelos pontos A, Q2 e B; circunferência 3 passa pelos pontos A, Q3, Q1 e B; circunferência 4 passa pelos pontos A, Q5 e B; circunferência 5 passa pelos pontos A, Q6 e B. O raio da circunferência 1 é menor que o raio da circunferência 2, que é menor que o raio da circunferência 3, que é menor que o raio da circunferência 4, que é menor que o raio da circunferência 5."
+    ]
   },
   {
     "numero": 146,
@@ -542,7 +559,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/146",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: A figura apresenta um triângulo. Em cada vértice e em cada ponto médio dos lados do triângulo, há um círculo."
+    ]
   },
   {
     "numero": 147,
@@ -595,7 +615,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/147",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 148,
@@ -650,7 +671,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/148",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: A figura representa o mastro de uma bandeira instalado perpendicularmente ao solo de uma região plana. No mastro há um ponto P, a uma altura h do solo, que é vértice comum a três triângulos; os outros dois vértices de cada triângulo são: o ponto de fixação do mastro no chão e o ponto de fixação de um cabo no chão. Em cada triângulo, o ângulo oposto ao lado que contém parte do mastro mede alfa."
+    ]
   },
   {
     "numero": 149,
@@ -705,7 +729,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/149",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do gráfico: Gráfico cartesiano, em que o eixo horizontal indica a distância, e o eixo vertical indica a altitude, sendo a unidade de medida em cada um dos eixos igual à medida do lado do quadradinho da malha que é igual a 1 centímetro. O gráfico é formado por cinco segmentos de reta que representam a trajetória desde o ponto de origem do voo até seu ponto de destino. Segmento 1: de (0 ; 0) a (2 ; 1). Segmento 2: de (2 ; 1) a (7 ; 1). Segmento 4: de (9 ; 0,5) a (10 ; 0,5). Segmento 5: de (10 ; 0,5) a (12 ; 0)."
+    ]
   },
   {
     "numero": 150,
@@ -758,7 +785,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/150",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 151,
@@ -813,7 +841,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/151",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do gráfico: Gráfico cartesiano que relaciona os valores, em milhar de real, de duas criptomoedas, A e B, com o tempo, em hora, no qual estão destacados nove pontos que representam valores dessas criptomoedas em nove instantes. O eixo horizontal representa os valores da criptomoeda A, e o eixo vertical, os valores da criptomoeda B para esses nove instantes.9 horas: (3 ; 0,5). 10 horas: (2 ; 2). 11 horas: (4 ; 4). 12 horas: (5,5 ; 3). 13 horas: (6 ; 1,5). 14 horas: (3,5 ; 2). 15 horas: (2,5 ; 4). 16 horas: (1 ; 5). 17 horas: (0,5 ; 3,5)"
+    ]
   },
   {
     "numero": 152,
@@ -871,7 +902,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/152",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 153,
@@ -924,7 +956,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/153",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 154,
@@ -979,7 +1012,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/154",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do quadro: Quadro com três figuras que representam as silhuetas de parte de três torres de um castelo em frente à lua cheia. As torres têm a forma de um retângulo com um triângulo equilátero no topo. O triângulo que representa o telhado da torre mais alta está sobreposto ao círculo, tem um vértice coincidente com o centro do círculo e o lado oposto a esse vértice é um segmento de reta externo ao círculo."
+    ]
   },
   {
     "numero": 155,
@@ -1034,7 +1070,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/155",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: Figura de um quadrado representando uma piscina, emoldurado por uma faixa de largura constante igual a 5 metros, representando a calçada."
+    ]
   },
   {
     "numero": 156,
@@ -1089,7 +1128,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/156",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do gráfico: Gráfico cartesiano sobre uma malha quadriculada, em que o eixo horizontal representa o tempo, em minuto, graduado de 0 a 30, de 2 em 2 unidades; e o eixo vertical representa a intensidade do sinal de internet. Os segmentos de reta que formam o gráfico são: Segmento 1: une os pontos (0; 5) a (2; 5); Segmento 2: une os pontos (2; 5) a (6; 2); Segmento 3: une os pontos (6; 2) a (8; 2); Segmento 4: une os pontos (8; 2) a (10; 0); Segmento 5: une os pontos (10; 0) a (12; 0); Segmento 6: une os pontos (12; 0) a (14; 4); Segmento 7: une os pontos (14; 4) a (16; 0); Segmento 8: une os pontos (16; 0) a (20; 0); Segmento 9: une os pontos (20; 0) a (22; 3); Segmento 10: une os pontos (22; 3) a (24; 3); Segmento 11: une os pontos (24; 3) a (26; 2); Segmento 12: une os pontos (26; 2) a (28; 5); Segmento 13: une os pontos (28; 5) a (30; 5)."
+    ]
   },
   {
     "numero": 157,
@@ -1144,7 +1186,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/157",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do gráfico: Gráfico de pontos com o eixo horizontal indicando a massa corporal, em quilograma; e o eixo vertical, a altura, em metro. Os pontos do gráfico têm as seguintes coordenadas: Ponto 1: (50; 1,6). Ponto 2: (58; 1,65). Ponto 3: (60; 1,65). Ponto 4: (65; 1,68). Ponto 5: (70; 1,7). Ponto 6: (88; 1,5). Ponto 7: (88; 1,65). Ponto 8: (93; 1,63). Ponto 9: (108; 1,75). Ponto 10: (120; 1,7)"
+    ]
   },
   {
     "numero": 158,
@@ -1197,7 +1242,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/158",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 159,
@@ -1250,7 +1296,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/159",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 160,
@@ -1305,7 +1352,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/160",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 162,
@@ -1358,7 +1406,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/162",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 163,
@@ -1413,7 +1462,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/163",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 165,
@@ -1468,7 +1518,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/165",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: Figura de uma escada com três degraus, localizada em frente a uma porta. Cada degrau tem piso e espelho em forma de retângulo e suas laterais são retangulares. O piso de cada degrau mede 1,0 metro por 0,25 metro, e o espelho de cada degrau mede 1,0 metro por 0,20 metro. Cada uma das duas paredes laterais da escada é formada por três retângulos justapostos: o primeiro mede 0,25 metro por 0,20 metro; o segundo mede 0,25 metro por 0,40 metro e o terceiro mede 0,25 metro por 0,60 metro."
+    ]
   },
   {
     "numero": 166,
@@ -1524,7 +1577,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/166",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 167,
@@ -1577,7 +1631,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/167",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 168,
@@ -1630,7 +1685,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/168",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 169,
@@ -1686,7 +1742,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/169",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do esquema: O esquema apresenta a intensidade luminosa de acordo com a profundidade, em metro, de um rio. A 0 metro: L0; a 1 metro: dois terços de L0; a 2 metros: quatro nonos de L0; e a 3 metros: oito vinte e sete avos de L0."
+    ]
   },
   {
     "numero": 170,
@@ -1743,7 +1802,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/170",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 171,
@@ -1796,7 +1856,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/171",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 172,
@@ -1852,7 +1913,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/172",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: A figura apresenta um triângulo retângulo de lados a, b e c; o círculo C1, que tem o lado a do triângulo como diâmetro; o círculo C2, que tem o lado b do triângulo como diâmetro, e o círculo C3, que tem o lado c do triângulo como diâmetro.,Descrição da figura: Figura de um triângulo, em que um dos ângulos tem medida igual a alfa e cada um de seus lados é diâmetro de um semicírculo. O semicírculo, cujo diâmetro é o lado oposto ao ângulo alfa, representa a meia pizza do professor de matemática; os outros dois semicírculos representam a meia pizza do amigo 1 e a meia pizza do amigo 2."
+    ]
   },
   {
     "numero": 173,
@@ -1905,7 +1969,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/173",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 175,
@@ -1958,7 +2023,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/175",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 176,
@@ -2013,7 +2079,8 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/176",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   },
   {
     "numero": 177,
@@ -2068,7 +2135,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/177",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição da figura: A figura representa uma roda-gigante, cujos suportes estão apoiados ao solo, no instante em que a cadeira onde se encontra uma pessoa P está no ponto mais alto dessa roda. Uma seta indica que a roda-gigante gira no sentido horário.,Descrição das alternativas: Em cada alternativa há a representação de um gráfico cartesiano, em que o eixo horizontal representa o tempo; e o eixo vertical representa a altura da cadeira onde está a pessoa P em relação ao solo. Todos os gráficos são curvas contínuas que oscilam de um valor máximo a um valor mínimo, sendo o valor mínimo positivo, e iniciam no ponto de abscissa 0 e ordenada igual ao valor máximo.,O gráfico é representado por uma cossenoide.,O gráfico é representado por uma linha poligonal formada por 4 segmentos de reta de mesmo comprimento, decrescentes e crescentes alternadamente.,O gráfico é representado por uma linha poligonal formada por 7 segmentos de reta, 4 deles decrescentes e crescentes alternadamente e de mesmo comprimento, interligados por 3 segmentos de reta horizontais de mesmo comprimento.,O gráfico é representado por 3 arcos de parábolas com concavidades para baixo, formando uma única curva contínua.,O gráfico é representado por 2 arcos de parábolas com concavidades para cima, formando uma única curva contínua."
+    ]
   },
   {
     "numero": 178,
@@ -2121,7 +2191,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/178",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição das alternativas: Em cada alternativa há a representação de um gráfico cartesiano em uma malha quadriculada, em que o eixo horizontal representa o tempo em segundo, de 0 a 12 segundos; e o eixo vertical representa o volume de água, em litro.,O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 4).,O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 2) e (8 ; 2) e o terceiro liga os pontos (8 ; 2) e (11 ; 4).,O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 2) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 2).,O gráfico é formado por um segmento de reta que liga os pontos (0 ; 0) e (11 ; 4).,O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 0) e (11 ; 4)."
+    ]
   },
   {
     "numero": 179,
@@ -2176,7 +2249,10 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/179",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Descrição do quadrinho: Quadrinho com seis personagens, cada personagem mostra com os dedos um número e diz o nome desse número. Abaixo de cada um deles há, em arábico, o número dito. Os números que aparecem na figura e os seus respectivos nomes falados pelos personagens são: 1: Urapum! 2: Okosa! 3: Okosa urapum! 4: Okosa okosa! 5: não consta o nome do número. 6: Okosa okosa okosa!"
+    ]
   },
   {
     "numero": 180,
@@ -2229,6 +2305,7 @@
       "provaMicrodados": "1211",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/180",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
-    }
+    },
+    "descricoesDeFiguras": []
   }
 ]
