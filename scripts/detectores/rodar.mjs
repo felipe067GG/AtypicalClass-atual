@@ -26,6 +26,22 @@ const VOCABULARIO = join(process.cwd(), "lib", "adaptacao", "barreiras.ts")
 
 const problemas = []
 
+/**
+ * Lê um arquivo de código-fonte já com quebra de linha normalizada.
+ *
+ * No Windows, `core.autocrlf` grava CRLF na cópia de trabalho embora o índice
+ * guarde LF — então o arquivo que o site compila e o que este script lê têm
+ * bytes diferentes. Uma expressão ancorada em `\n\n` deixa de casar, e o efeito
+ * não é o script falhar: é ele ler o vocabulário como vazio e acusar que
+ * *nenhum* dos oito detectores existe em `barreiras.ts`. Foi exatamente isso
+ * que aconteceu depois de trocar de branch, e a leitura do erro apontava para o
+ * lugar errado — o vocabulário estava intacto.
+ *
+ * Normalizar na leitura é mais barato do que lembrar de escrever `\r?\n` em
+ * cada expressão nova, e vale para as três fontes lidas aqui.
+ */
+const lerFonte = async (caminho) => (await readFile(caminho, "utf8")).replace(/\r\n/g, "\n")
+
 // --- Carregar o acervo -------------------------------------------------------
 
 async function carregar() {
@@ -114,7 +130,7 @@ for (const { questao, arquivo } of acervo) {
  * `.ts` daqui. É o preço de não ter build nos scripts, e a conferência é o que
  * torna esse preço aceitável.
  */
-const fonteDoVocabulario = await readFile(VOCABULARIO, "utf8")
+const fonteDoVocabulario = await lerFonte(VOCABULARIO)
 const uniao = fonteDoVocabulario.match(/export type BarreiraId =([\s\S]*?)\n\n/)?.[1] ?? ""
 const idsNoTypeScript = [...uniao.matchAll(/"([a-z-]+)"/g)].map((m) => m[1])
 
@@ -143,8 +159,8 @@ for (const id of idsNoTypeScript) {
 const MATRIZ_TS = join(process.cwd(), "lib", "adaptacao", "matriz.ts")
 const ESPECIALIDADES_TS = join(process.cwd(), "lib", "specialties.ts")
 
-const fonteDaMatriz = await readFile(MATRIZ_TS, "utf8")
-const slugs = [...(await readFile(ESPECIALIDADES_TS, "utf8")).matchAll(/^\s*slug: "([a-z-]+)",$/gm)].map((m) => m[1])
+const fonteDaMatriz = await lerFonte(MATRIZ_TS)
+const slugs = [...(await lerFonte(ESPECIALIDADES_TS)).matchAll(/^\s*slug: "([a-z-]+)",$/gm)].map((m) => m[1])
 
 const celulas = [
   ...fonteDaMatriz.matchAll(

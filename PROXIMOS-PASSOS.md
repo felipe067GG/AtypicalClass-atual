@@ -1,7 +1,11 @@
 # Banco de questões — onde parou e o que vem
 
-Escrito em 08/08/2026, na branch `importador-enem`. Serve para retomar sem
-precisar reconstruir o raciocínio.
+Escrito em 08/08/2026 na branch `importador-enem`; o trabalho está na `main`
+desde 09/08/2026. Serve para retomar sem precisar reconstruir o raciocínio.
+
+Conferido de ponta a ponta em 09/08/2026, na `main`: os quatro verificadores
+passam, os 103 links respondem, e o banco tem as linhas que esta página diz que
+tem. O que não passava está no fim, em "Armadilhas".
 
 ## Estado
 
@@ -168,9 +172,21 @@ exige a declaração dos dois acervos.
 A matriz **não vai para o banco**: vive em `lib/adaptacao/matriz.ts` e é lida
 pelo site, porque é conteúdo com fonte e muda com revisão, não com importação.
 
-Aproveitar para corrigir o `✓` que vaza o gabarito dentro do texto da
-alternativa nas 43 antigas — o mantenedor considera aceitável, porque o público
-é professor e não aluno, mas o banco novo não repete isso.
+## O que sobrou
+
+**Escrever mais células da matriz** — é o único trabalho aberto, e o número que
+diz onde está o buraco é o alcance por especialidade, não a contagem de células:
+
+- **altas habilidades, saúde mental e disgrafia**: 10% cada, uma célula cada.
+  Três alunos para quem a adaptação por questão praticamente não existe ainda.
+- **deficiência física** (25%) e **discalculia** (35%) vêm em seguida.
+
+As 72 células ausentes continuam sendo lacuna declarada, não rascunho — a regra
+de não inventar par que não faz sentido vale. Mas uma célula por especialidade
+em três delas é pouco para o alcance ficar de pé, e é onde continuar.
+
+Cada célula nova exige fonte que o `npm run check:links` valide, e `npm run
+detectores` reimprime o alcance, então dá para medir o efeito de cada uma.
 
 ## Regras que valem para qualquer conteúdo novo
 
@@ -201,6 +217,22 @@ alternativa nas 43 antigas — o mantenedor considera aceitável, porque o públ
   deslocamento de 29 no código do caractere, três convenções de nome de arquivo
   e a prova digital disfarçada de impressa. A API resolveu tudo isso e ainda
   triplicou o acervo.
+- **CRLF quebrou o conferidor dos detectores, e o erro apontou para o lugar
+  errado.** No Windows o `core.autocrlf` grava CRLF na cópia de trabalho embora
+  o índice guarde LF, então trocar de branch reescreve os `.ts` que os scripts
+  leem como texto. Em `rodar.mjs`, a expressão que lê o `BarreiraId` terminava
+  em `\n\n`, deixou de casar, e o script acusou que **nenhum dos oito
+  detectores existia** em `barreiras.ts` — com o vocabulário intacto o tempo
+  inteiro. `npm run detectores` saía com código 1 e não gravava nada. Corrigido
+  normalizando a quebra de linha na leitura (`lerFonte`), o que também protege
+  as outras duas fontes lidas ali. Script que lê `.ts` como texto normaliza na
+  leitura; não adianta lembrar de escrever `\r?\n` em cada expressão nova.
+- **`npm run enviar -- --confirmar` sem `--rehospedar-enem` desfaz a
+  rehospedagem.** Os JSON locais ainda guardam as URLs do `enem.dev` — o que
+  mudou foi o banco, não o acervo em disco. Rodar o envio sem a flag reescreve
+  802 linhas de volta para `imagens_em = 'externo'` e derruba a afirmação de que
+  nenhuma questão com figura depende de terceiro. **A forma completa é a
+  correta**; a curta só serve quando nada de imagem mudou.
 - **2016 e 2017 do ENEM ficam de fora**: a numeração da API não corresponde a
   caderno nenhum desses anos (bate 31% e 28%, contra 20% do acaso). 2009 não
   tem microdados no endereço padrão.
@@ -218,6 +250,6 @@ npm run autorais                                   # confere as 280 questões au
 npm run bncc                                       # confere os códigos da BNCC no PDF oficial
 npm run check:links                                # valida todas as fontes
 npm run enviar                                     # ensaio: relata sem escrever
-npm run enviar -- --confirmar                      # grava no Supabase de verdade
-npm run enviar -- --confirmar --rehospedar-enem    # idem, trazendo as imagens do ENEM
+npm run enviar -- --confirmar --rehospedar-enem    # grava no Supabase (forma correta)
+npm run enviar -- --confirmar                      # sem a flag acima, devolve 802 linhas para 'externo'
 ```
