@@ -7,6 +7,29 @@ Conferido de ponta a ponta em 09/08/2026, na `main`: os quatro verificadores
 passam, os 103 links respondem, e o banco tem as linhas que esta página diz que
 tem. O que não passava está no fim, em "Armadilhas".
 
+## Retomar aqui
+
+Parei em 09/08/2026 com **nada pendente e nada pela metade**. `main` em
+`72ae9ca`, empurrada, árvore limpa, site respondendo. Não há trabalho
+interrompido para reconstruir: dá para começar pelo próximo assunto sem ler o
+resto desta página.
+
+Para conferir em trinta segundos que continua assim:
+
+```bash
+git status --short          # vazio
+npm run detectores          # código 0
+```
+
+**A única frente aberta é conteúdo, não código**: escrever células da matriz
+para as três especialidades em 10% de alcance — está em "O que sobrou", e é
+onde continuar quando o assunto voltar a ser questões.
+
+Uma ressalva sobre o último commit: ele mexeu só em documentação, no
+`rodar.mjs` e nos arquivos que o `next dev` gera. Nada em `app/` ou `lib/`, então
+o deploy que ele disparou produz a mesma página de antes — se o site parecer
+inalterado, é isso, e não deploy que não subiu.
+
 ## Estado
 
 **3.495 questões reais**, em `data/`, todas com conferência limpa
