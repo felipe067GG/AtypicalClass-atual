@@ -1,0 +1,275 @@
+{
+  "materia": "Literatura",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13LGG301",
+      "enunciado": "Quem escreveu o romance Dom Casmurro, narrado por Bentinho e marcado pela dúvida sobre Capitu?",
+      "alternativas": [
+        "Machado de Assis",
+        "José de Alencar",
+        "Aluísio Azevedo",
+        "Jorge Amado",
+        "Érico Veríssimo"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13LGG302",
+      "enunciado": "Obras como Iracema e O Guarani idealizam a figura do indígena como herói nacional. A que movimento literário elas pertencem?",
+      "alternativas": [
+        "ao Barroco",
+        "ao Romantismo",
+        "ao Realismo",
+        "ao Modernismo",
+        "ao Arcadismo"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13LGG302",
+      "enunciado": "Quem é o autor de Os Lusíadas, epopeia que narra as navegações portuguesas?",
+      "alternativas": [
+        "Fernando Pessoa",
+        "Gil Vicente",
+        "Luís de Camões",
+        "Eça de Queirós",
+        "Almeida Garrett"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13LGG301",
+      "enunciado": "Autor de poemas como \"No meio do caminho\" e \"E agora, José?\", Carlos Drummond de Andrade é reconhecido como",
+      "alternativas": [
+        "romancista do Realismo",
+        "dramaturgo do Barroco",
+        "cronista do Arcadismo",
+        "poeta do Modernismo",
+        "ensaísta do Simbolismo"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13LGG303",
+      "enunciado": "A Semana de Arte Moderna, realizada no Teatro Municipal de São Paulo, marcou o início do Modernismo no Brasil. Em que ano ela ocorreu?",
+      "alternativas": [
+        "1888",
+        "1889",
+        "1930",
+        "1945",
+        "1922"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13LGG302",
+      "enunciado": "Que características marcam a literatura do Barroco?",
+      "alternativas": [
+        "o uso de antíteses, contrastes e linguagem rebuscada",
+        "a linguagem simples e a valorização do campo",
+        "a objetividade científica na descrição social",
+        "a ruptura com a métrica e o verso livre",
+        "o culto ao indígena como herói nacional"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13LGG301",
+      "enunciado": "Quem escreveu Vidas Secas, romance que acompanha Fabiano e sua família em fuga da seca no sertão?",
+      "alternativas": [
+        "Guimarães Rosa",
+        "Graciliano Ramos",
+        "Rachel de Queiroz",
+        "Mário de Andrade",
+        "Lima Barreto"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13LGG302",
+      "enunciado": "Em que o Realismo se opõe ao Romantismo que o antecedeu?",
+      "alternativas": [
+        "por idealizar o amor e a natureza brasileira",
+        "por recusar qualquer descrição da sociedade",
+        "por retratar a sociedade de modo crítico e objetivo",
+        "por abandonar a prosa em favor da poesia",
+        "por escrever apenas sobre temas medievais"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13LGG304",
+      "enunciado": "A literatura de cordel, vendida em folhetos pendurados em barbantes nas feiras, é uma tradição de que região do Brasil?",
+      "alternativas": [
+        "do Sul",
+        "do Sudeste",
+        "do Centro-Oeste",
+        "do Nordeste",
+        "do Norte"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13LGG301",
+      "enunciado": "Autora de A Hora da Estrela e de contos como \"Amor\", Clarice Lispector é conhecida por que traço de sua escrita?",
+      "alternativas": [
+        "pelo relato histórico das guerras coloniais",
+        "pelo humor satírico dos costumes urbanos",
+        "pela reconstituição documental do sertão",
+        "pela defesa dos ideais indianistas",
+        "pela narrativa introspectiva dos personagens"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13LGG301",
+      "enunciado": "Quem escreveu O Cortiço, romance que retrata a vida coletiva de um conjunto de moradias no Rio de Janeiro?",
+      "alternativas": [
+        "Aluísio Azevedo",
+        "Machado de Assis",
+        "José de Alencar",
+        "Manuel Antônio de Almeida",
+        "Raul Pompeia"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13LGG304",
+      "enunciado": "Quantos versos tem um soneto, forma fixa muito usada da Renascença ao Parnasianismo?",
+      "alternativas": [
+        "dez versos",
+        "quatorze versos",
+        "doze versos",
+        "dezesseis versos",
+        "vinte versos"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13LGG302",
+      "enunciado": "As cantigas de amigo e de amor, escritas em galego-português, pertencem a que período literário?",
+      "alternativas": [
+        "ao Classicismo renascentista",
+        "ao Barroco seiscentista",
+        "ao Trovadorismo medieval",
+        "ao Arcadismo setecentista",
+        "ao Romantismo oitocentista"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13LGG303",
+      "enunciado": "Autor de \"O Navio Negreiro\", poema que denuncia o tráfico de pessoas escravizadas, Castro Alves ficou conhecido como",
+      "alternativas": [
+        "o poeta do indianismo",
+        "o poeta do cotidiano urbano",
+        "o cronista da corte imperial",
+        "o poeta dos escravizados",
+        "o autor da prosa naturalista"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13LGG303",
+      "enunciado": "O que o Modernismo brasileiro buscou em sua primeira fase?",
+      "alternativas": [
+        "retomar a métrica rígida dos parnasianos",
+        "imitar os modelos literários portugueses",
+        "escrever apenas sobre temas religiosos",
+        "recuperar a linguagem dos trovadores",
+        "liberdade formal e temas da vida brasileira"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13LGG301",
+      "enunciado": "Quem escreveu Grande Sertão: Veredas, obra narrada por Riobaldo e marcada pela invenção de palavras?",
+      "alternativas": [
+        "Guimarães Rosa",
+        "Jorge Amado",
+        "Graciliano Ramos",
+        "Érico Veríssimo",
+        "Osman Lins"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13LGG302",
+      "enunciado": "O Arcadismo, também chamado de Neoclassicismo, valorizava em seus poemas",
+      "alternativas": [
+        "o exagero das imagens religiosas",
+        "a vida simples e a natureza no campo",
+        "a denúncia das desigualdades urbanas",
+        "a experimentação com o verso livre",
+        "o registro documental das cidades"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13LGG301",
+      "enunciado": "Quem escreveu Triste Fim de Policarpo Quaresma, romance que satiriza o nacionalismo ingênuo na Primeira República?",
+      "alternativas": [
+        "Machado de Assis",
+        "Euclides da Cunha",
+        "Lima Barreto",
+        "Coelho Neto",
+        "Monteiro Lobato"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13LGG304",
+      "enunciado": "Conto e romance são dois gêneros narrativos em prosa, mas não se confundem. O que distingue o conto do romance?",
+      "alternativas": [
+        "o conto sempre traz um narrador em primeira pessoa",
+        "o conto não apresenta conflito entre personagens",
+        "o conto é escrito somente em versos livres",
+        "o conto é mais curto e concentra poucos personagens",
+        "o conto se passa obrigatoriamente no presente"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13LGG303",
+      "enunciado": "Autora de Romanceiro da Inconfidência e de poemas de forte musicalidade, Cecília Meireles integra que geração literária?",
+      "alternativas": [
+        "a geração romântica de 1830",
+        "a geração parnasiana do século XIX",
+        "a geração simbolista de 1890",
+        "a geração naturalista brasileira",
+        "a segunda geração modernista, de 1930"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

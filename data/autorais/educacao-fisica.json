@@ -1,0 +1,275 @@
+{
+  "materia": "Educação Física",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13LGG501",
+      "enunciado": "Antes de uma partida ou treino, é recomendado fazer aquecimento. Para que serve essa prática?",
+      "alternativas": [
+        "preparar o corpo e reduzir o risco de lesões",
+        "aumentar a duração total da atividade",
+        "substituir o treino técnico do dia",
+        "eliminar a necessidade de hidratação",
+        "encerrar a atividade de forma gradual"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13LGG502",
+      "enunciado": "Quantos jogadores de cada equipe atuam simultaneamente em quadra numa partida oficial de voleibol?",
+      "alternativas": [
+        "cinco",
+        "seis",
+        "sete",
+        "onze",
+        "quatro"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13LGG501",
+      "enunciado": "Durante uma corrida, o coração passa a bater mais rápido. Por que isso acontece?",
+      "alternativas": [
+        "porque o corpo reduz o consumo de energia",
+        "porque a temperatura corporal diminui",
+        "porque os músculos precisam de mais oxigênio",
+        "porque a respiração fica mais lenta",
+        "porque o sangue circula em menor volume"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13LGG502",
+      "enunciado": "Em que espaço é disputada uma partida oficial de futsal?",
+      "alternativas": [
+        "em campo de grama natural",
+        "em campo de areia",
+        "em pista de atletismo",
+        "em quadra",
+        "em piscina rasa"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13LGG501",
+      "enunciado": "Que capacidade física é desenvolvida principalmente com exercícios de alongamento?",
+      "alternativas": [
+        "a força máxima",
+        "a velocidade de reação",
+        "a resistência aeróbica",
+        "a coordenação motora fina",
+        "a flexibilidade"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13LGG502",
+      "enunciado": "No basquete, em que situação um arremesso convertido vale três pontos?",
+      "alternativas": [
+        "quando é feito de fora da linha de três pontos",
+        "quando é feito durante um contra-ataque",
+        "quando é feito nos segundos finais do jogo",
+        "quando o jogador salta antes de arremessar",
+        "quando a bola toca a tabela antes da cesta"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13LGG502",
+      "enunciado": "No handebol, os jogadores de linha conduzem e arremessam a bola usando principalmente qual parte do corpo?",
+      "alternativas": [
+        "os pés",
+        "as mãos",
+        "a cabeça",
+        "os joelhos",
+        "os ombros"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13LGG503",
+      "enunciado": "O sedentarismo, entendido como a falta prolongada de atividade física, é apontado como fator de risco para quais problemas?",
+      "alternativas": [
+        "para lesões causadas por excesso de treino",
+        "para o aumento excessivo da flexibilidade",
+        "para doenças cardiovasculares e obesidade",
+        "para a redução do tempo de sono diário",
+        "para o desgaste precoce dos calçados"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13LGG503",
+      "enunciado": "A capoeira, manifestação cultural de origem afro-brasileira, combina quais elementos numa mesma prática?",
+      "alternativas": [
+        "apenas movimentos de luta corporal",
+        "somente passos de dança em roda",
+        "apenas o canto acompanhado de palmas",
+        "luta, dança e música numa mesma roda",
+        "somente a execução instrumental do berimbau"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13LGG501",
+      "enunciado": "Por que é importante beber água durante uma atividade física prolongada?",
+      "alternativas": [
+        "para aumentar a massa muscular",
+        "para reduzir a frequência dos treinos",
+        "para diminuir a temperatura do ambiente",
+        "para substituir a alimentação do dia",
+        "para repor os líquidos perdidos pelo suor"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13LGG502",
+      "enunciado": "Qual das modalidades a seguir é um esporte coletivo?",
+      "alternativas": [
+        "o futebol",
+        "a natação individual",
+        "o salto em distância",
+        "o arco e flecha",
+        "a ginástica artística individual"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13LGG503",
+      "enunciado": "O Índice de Massa Corporal, usado em avaliações de saúde, relaciona quais medidas de uma pessoa?",
+      "alternativas": [
+        "a idade e a frequência cardíaca",
+        "a massa corporal e a altura",
+        "a força e a flexibilidade",
+        "a altura e o comprimento das pernas",
+        "o tempo de treino e o peso levantado"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13LGG502",
+      "enunciado": "O atletismo reúne diferentes provas num mesmo conjunto de modalidades. Quais são os três grandes grupos dessas provas?",
+      "alternativas": [
+        "natação, ciclismo e corrida",
+        "esgrima, tiro e hipismo",
+        "corridas, saltos e lançamentos",
+        "ginástica, dança e acrobacia",
+        "remo, canoagem e vela"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13LGG503",
+      "enunciado": "De quantos em quantos anos são realizados os Jogos Olímpicos de verão?",
+      "alternativas": [
+        "de dois em dois anos",
+        "de três em três anos",
+        "de cinco em cinco anos",
+        "de quatro em quatro anos",
+        "de seis em seis anos"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13LGG501",
+      "enunciado": "Qual das atividades a seguir é um exemplo típico de exercício aeróbico?",
+      "alternativas": [
+        "o levantamento de peso máximo",
+        "o arremesso de peso",
+        "o salto vertical isolado",
+        "o alongamento estático prolongado",
+        "a caminhada em ritmo contínuo"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13LGG502",
+      "enunciado": "No voleibol, quantos toques uma equipe pode dar na bola antes de enviá-la para o outro lado da rede?",
+      "alternativas": [
+        "três",
+        "dois",
+        "quatro",
+        "cinco",
+        "apenas um"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13LGG503",
+      "enunciado": "A entorse, lesão comum na prática esportiva, atinge que estrutura do corpo?",
+      "alternativas": [
+        "o músculo, por contração excessiva",
+        "a articulação, por movimento além do limite",
+        "o osso, por impacto direto",
+        "a pele, por atrito com o solo",
+        "o tendão, por corte acidental"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13LGG502",
+      "enunciado": "O que caracteriza uma modalidade paralímpica?",
+      "alternativas": [
+        "ser disputada apenas por atletas amadores",
+        "ser praticada somente em ambientes fechados",
+        "ser adaptada para atletas com deficiência",
+        "ser realizada sem qualquer regra oficial",
+        "ser exclusiva de competições escolares"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13LGG503",
+      "enunciado": "Na Constituição brasileira, o lazer e a prática esportiva são tratados de que forma?",
+      "alternativas": [
+        "como atividades proibidas em horário escolar",
+        "como obrigações do trabalhador com a empresa",
+        "como serviços exclusivamente pagos",
+        "como direitos sociais dos cidadãos",
+        "como privilégios de atletas profissionais"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13LGG503",
+      "enunciado": "Manter a postura correta ao sentar, caminhar e carregar peso ajuda a prevenir que problema?",
+      "alternativas": [
+        "a perda de audição",
+        "a redução da visão",
+        "o aumento da frequência cardíaca",
+        "a queda da temperatura corporal",
+        "as dores na coluna"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

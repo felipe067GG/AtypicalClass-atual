@@ -51,7 +51,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/136",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Figura representa um sistema de coordenadas cartesianas, com eixo horizontal t, em hora, e eixo vertical T, em grau Celsius. No eixo horizontal, estão indicadas as abscissas 0 e 10. No eixo vertical, estão indicadas as ordenadas −2, 0, 2 e 4. O traçado do gráfico é uma curva contínua, iniciando num ponto de abscissa 0 e ordenada maior que 2 e menor que 4. Cresce até um ponto de ordenada 4, decresce até um ponto de ordenada −2, cresce até um ponto de ordenada 0, decresce até um ponto com ordenada −2, cresce até um ponto com ordenada 0, decresce até um ponto de ordenada −2, cresce até um ponto de ordenada maior que 2 e menor que 4, e decresce até o ponto de abscissa 10 e ordenada maior que 2 e menor que 4, finalizando nesse ponto."
@@ -109,7 +110,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/137",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -165,7 +167,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/138",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Gráfico de colunas duplas, em que o eixo horizontal corresponde aos meses do ano e o eixo vertical corresponde aos totais de receitas e despesas, em milhão de reais, mostra os seguintes dados: Janeiro: receita, 6; despesa, 3; Fevereiro: receita, 4; despesa, 5; Março: receita, 3; despesa, 2; Abril: receita, 5; despesa, 6; Maio: receita, 6; despesa, 1; Junho: receita, 5; despesa, 2; Julho: receita, 6; despesa, 4; Agosto: receita, 2; despesa, 4; Setembro: receita, 7; despesa, 3; Outubro: receita, 2; despesa, 4; Novembro: receita, 8; despesa, 7; Dezembro: receita, 6; despesa, 2."
@@ -221,7 +224,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/139",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -275,7 +279,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/140",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -329,7 +334,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/142",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -383,7 +389,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/145",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -437,7 +444,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/146",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -491,7 +499,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/147",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -547,7 +556,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/148",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -603,7 +613,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/149",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -660,7 +671,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/150",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Figura representa uma quadra de voleibol no formato de um retângulo, com a figura de um jogador que irá realizar um saque cuja trajetória da bola descreverá uma parábola a partir do instante em que é atingida pelo jogador até cair na quadra da equipe adversária. A parábola está referenciada em um sistema de eixos cartesianos, cujo eixo x está localizado a 1,5 metro acima do piso da quadra e é paralelo às suas laterais, e o eixo y está situado no mesmo plano da rede."
@@ -716,7 +728,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/151",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -772,7 +785,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/152",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Figura distribuída em dois esquemas em que, o esquema à esquerda apresenta um trapézio isósceles. A figura à esquerda apresenta um trapézio isósceles cuja base menor mede L e cuja altura mede Daceitável igual a 2,9 vezes L. Esse trapézio é seccionado por dois segmentos de reta paralelos às bases, o primeiro a uma distância da tela de Dmínimo igual a 0,6 vezes L, representando o alinhamento dos encostos das poltronas já instaladas da primeira fileira, e o segundo, a uma distância da tela Dmáximo igual a 2 vezes L, indicando o alinhamento dos encostos das poltronas da última fileira já instalada.Há uma região destacada, compreendida entre o segundo segmento e a base maior do trapézio, denominada Área de instalação de novas poltronas. A figura à direita apresenta parte de 3 fileiras de poltronas, indicando a distância de 1 metro entre os encostos das poltronas de fileiras consecutivas."
@@ -830,7 +844,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/153",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -884,7 +899,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/154",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -938,7 +954,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/155",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -997,7 +1014,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/156",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1054,7 +1072,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/158",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1116,7 +1135,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/159",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1172,7 +1192,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/160",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1228,7 +1249,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/161",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Figura representa uma planta baixa de uma casa na escala de 1 para 50. Essa planta tem o formato de um retângulo, disposto com a maior dimensão na horizontal e a menor, na vertical. Na parte externa do retângulo que representa a casa, há uma região hexagonal em formato de L, representando a varanda, na qual quaisquer dois de seus lados adjacentes são perpendiculares, com quatro de seus lados medindo, consecutivamente, 4 centímetros, 18,4 centímetros, 16 centímetros e 5 centímetros. Os dois lados cujas medidas não estão fornecidas estão justapostos ao contorno da planta, na sua lateral esquerda e em parte do seu lado superior. O lado de medida 18,4 centímetros é paralelo à lateral esquerda da planta, enquanto o lado de medida 16 centímetros é paralelo ao lado superior da planta. O lado de 5 centímetros é perpendicular ao lado de 16 centímetros, e o lado de 4 centímetros é perpendicular ao lado de 18,4 centímetros."
@@ -1286,7 +1308,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/162",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Gráfico em que o eixo horizontal de referência corresponde a dias, de 10 a 30, em intervalos de 10 em 10, apresentando dois segmentos de reta descendentes, um referente ao volume de vendas do setor adulto, com extremidades nos pontos (10, 18 000) e (20, 15 000), e o outro ao do setor infantil, com extremidades nos pontos (10, 8 000) e (20, 7 000)."
@@ -1342,7 +1365,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/163",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1396,7 +1420,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/164",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1450,7 +1475,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/165",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1504,7 +1530,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/167",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1560,7 +1587,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/168",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Figura de uma malha quadriculada com 7 linhas horizontais e 7 verticais, sobre a qual está traçado um trajeto poligonal, por meio de uma linha contínua sobre as linhas de grade da malha, unindo o ponto inicial P, localizado na segunda linha vertical, da esquerda para a direita, e entre a sexta e a sétima linhas horizontais, de cima para baixo, ao ponto final Q, que está localizado entre a sexta e a sétima linhas verticais, da esquerda para a direita, e sobre a segunda linha horizontal, de cima para baixo. O caminho poligonal está traçado segundo deslocamentos nos sentidos norte, sul e leste a partir do ponto P. A sequência de deslocamentos é: De P até o primeiro cruzamento no sentido norte;Desse ponto segue até o segundo cruzamento no sentido leste; Em seguida, toma o sentido norte até o segundo cruzamento; Posteriormente, toma o sentido leste até o próximo cruzamento; Depois, segue no sentido sul até o cruzamento seguinte; Segue para leste até o próximo cruzamento; Desse ponto, toma o sentido norte até o terceiro cruzamento; Por fim, toma o sentido leste até alcançar o ponto Q."
@@ -1616,7 +1644,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/169",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1672,7 +1701,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/170",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Dois gráficos de coluna. O primeiro gráfico, que apresenta os anos no eixo horizontal e o valor mensal do aluguel em real no eixo vertical, mostra os seguintes dados: 2005: 630; 2007: 960; 2009: 1 350; 2011: 1 800; 2013: 3 240. O segundo gráfico, que apresenta os anos no eixo horizontal e o valor de mercado do imóvel, em milhar de reais no eixo vertical, mostra os seguintes dados: 2005: 90; 2007: 120; 2009: 270; 2011: 450; 2013: 540."
@@ -1730,7 +1760,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/171",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1784,7 +1815,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/172",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1840,7 +1872,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/173",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1894,7 +1927,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/174",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1948,7 +1982,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/175",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2004,7 +2039,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/176",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Gráfico apresenta um sistema de eixos cartesianos em que ambos os eixos têm o quilômetro como unidade de medida. O eixo x se situa sobre a Rodovia 003. A cidade A está situada no ponto de coordenadas (20; 40), e a cidade B está situada no ponto de coordenadas (50; 20). Há cinco pontos marcados sobre o eixo x, que indicam cinco sugestões para o ponto de conexão entre as três rodovias. Os trajetos sugeridos para a Rodovia 001 estão representados por segmentos de reta tracejados, e para a Rodovia 002 estão representados por segmentos de reta cheios. Coordenadas dos pontos de conexão: Ponto 1: (20; 0); Ponto 2: (30; 0); Ponto 3: (35; 0); Ponto 4: (40; 0); Ponto 5: (50; 0)."
@@ -2062,7 +2098,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/177",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2116,7 +2153,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/178",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2172,7 +2210,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/179",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Gráfico intitulado Esperança de vida ao nascer, em que o eixo horizontal refere-se aos anos de 2008 a 2013 e eixo vertical refere-se às idades de 72 a 75 anos, é formado por segmentos de reta ascendentes. O gráfico inicia-se no ponto (2008; 72,78), ascende até (2009; 73,09), ascende até (2010; 73,4), ascende até (2011; 73,67), ascende até (2012; 73,95) e ascende até o ponto final (2013; 74,23)."
@@ -2230,7 +2269,8 @@
       "idioma": null,
       "provaMicrodados": "1075",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/180",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   }

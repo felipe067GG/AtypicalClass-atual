@@ -1,0 +1,275 @@
+{
+  "materia": "Espanhol",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13LGG401",
+      "enunciado": "Em que momento do dia se usa a saudação \"Buenos días\" em espanhol?",
+      "alternativas": [
+        "pela manhã",
+        "à tarde",
+        "à noite",
+        "na despedida",
+        "na madrugada"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13LGG402",
+      "enunciado": "O que significa a palavra \"libro\" em português?",
+      "alternativas": [
+        "libra",
+        "livro",
+        "livre",
+        "libélula",
+        "letra"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13LGG403",
+      "enunciado": "Qual é a forma plural correta de \"el lápiz\" em espanhol?",
+      "alternativas": [
+        "los lápizes",
+        "los lápiz",
+        "los lápices",
+        "las lápices",
+        "los lapizes"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13LGG401",
+      "enunciado": "Uma pessoa pergunta: \"¿Cómo te llamas?\". O que ela quer saber?",
+      "alternativas": [
+        "a idade da pessoa",
+        "o endereço da pessoa",
+        "a profissão da pessoa",
+        "o nome da pessoa",
+        "a nacionalidade da pessoa"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13LGG402",
+      "enunciado": "O que significa a palavra \"ayer\" em português?",
+      "alternativas": [
+        "hoje",
+        "amanhã",
+        "agora",
+        "depois",
+        "ontem"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13LGG402",
+      "enunciado": "O que significa a palavra \"muchacho\" em português?",
+      "alternativas": [
+        "rapaz",
+        "muito",
+        "mochila",
+        "senhor",
+        "amigo"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13LGG402",
+      "enunciado": "A palavra espanhola \"embarazada\" é um falso cognato do português. O que ela significa de fato?",
+      "alternativas": [
+        "envergonhada",
+        "grávida",
+        "atrapalhada",
+        "embaraçada nos cabelos",
+        "apressada"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13LGG403",
+      "enunciado": "Na frase \"Yo tengo dos hermanos\", o verbo \"tener\" corresponde a que verbo em português?",
+      "alternativas": [
+        "vir",
+        "ser",
+        "ter",
+        "ver",
+        "ir"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13LGG403",
+      "enunciado": "Em espanhol, escreve-se \"la mesa\". Como essa expressão é traduzida para o português?",
+      "alternativas": [
+        "o mês",
+        "a missa",
+        "o mesmo",
+        "a mesa",
+        "a massa"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13LGG402",
+      "enunciado": "Que cor é indicada pela palavra \"rojo\" em espanhol?",
+      "alternativas": [
+        "roxo",
+        "rosa",
+        "laranja",
+        "amarelo",
+        "vermelho"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13LGG401",
+      "enunciado": "Uma pessoa pergunta: \"¿Dónde vives?\". O que ela quer saber?",
+      "alternativas": [
+        "onde a pessoa mora",
+        "quando a pessoa chega",
+        "por que a pessoa saiu",
+        "quanto a pessoa pagou",
+        "com quem a pessoa foi"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13LGG402",
+      "enunciado": "O que significa a palavra \"hoy\" em português?",
+      "alternativas": [
+        "ontem",
+        "hoje",
+        "amanhã",
+        "ainda",
+        "logo"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13LGG402",
+      "enunciado": "Na frase \"Espera un rato, por favor\", a palavra \"rato\" é um falso cognato. O que ela significa?",
+      "alternativas": [
+        "um animal roedor",
+        "um objeto pequeno",
+        "um momento breve",
+        "um erro cometido",
+        "um caminho estreito"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13LGG403",
+      "enunciado": "O que significa o verbo \"hablar\" em português?",
+      "alternativas": [
+        "habitar",
+        "trabalhar",
+        "estudar",
+        "falar",
+        "brincar"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13LGG401",
+      "enunciado": "Alguém agradece dizendo \"Gracias\". Qual é a resposta mais comum em espanhol?",
+      "alternativas": [
+        "Hasta luego",
+        "Buenas noches",
+        "Por favor",
+        "Lo siento",
+        "De nada"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13LGG402",
+      "enunciado": "O que significa a palavra \"niño\" em português?",
+      "alternativas": [
+        "menino",
+        "ninho",
+        "nenhum",
+        "senhor",
+        "vizinho"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13LGG402",
+      "enunciado": "Ao dizer que uma comida está \"exquisita\", um falante de espanhol quer dizer que ela está",
+      "alternativas": [
+        "estranha ao paladar",
+        "deliciosa",
+        "mal preparada",
+        "muito apimentada",
+        "sem tempero algum"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13LGG403",
+      "enunciado": "Qual forma completa corretamente a frase \"Nosotros ___ estudiantes\"?",
+      "alternativas": [
+        "soy",
+        "eres",
+        "somos",
+        "son",
+        "sois"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13LGG402",
+      "enunciado": "Na frase \"Nos vemos mañana por la mañana\", a palavra \"mañana\" aparece duas vezes com sentidos diferentes. Quais são eles?",
+      "alternativas": [
+        "ontem e hoje",
+        "hoje e depois",
+        "cedo e tarde",
+        "amanhã e manhã",
+        "sempre e nunca"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13LGG402",
+      "enunciado": "Na frase \"La escuela está cerca de mi casa\", o que significa \"cerca\"?",
+      "alternativas": [
+        "cercada por muros",
+        "fechada no momento",
+        "cerca de arame",
+        "aproximadamente",
+        "perto"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

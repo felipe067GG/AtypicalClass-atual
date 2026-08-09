@@ -1,0 +1,275 @@
+{
+  "materia": "Filosofia",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CHS501",
+      "enunciado": "A frase \"só sei que nada sei\" resume a atitude de um filósofo grego que percorria Atenas fazendo perguntas aos cidadãos. Quem era ele?",
+      "alternativas": [
+        "Sócrates",
+        "Tales de Mileto",
+        "Epicuro",
+        "Heráclito",
+        "Pitágoras"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CHS501",
+      "enunciado": "Discípulo de Sócrates, escreveu diálogos como A República e fundou a Academia em Atenas. De quem se trata?",
+      "alternativas": [
+        "Aristóteles",
+        "Platão",
+        "Demócrito",
+        "Zenão",
+        "Parmênides"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CHS502",
+      "enunciado": "Uma pessoa se pergunta se é certo mentir para proteger um amigo. Que área da filosofia se ocupa desse tipo de questão?",
+      "alternativas": [
+        "a lógica",
+        "a estética",
+        "a ética",
+        "a cosmologia",
+        "a semântica"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CHS503",
+      "enunciado": "A frase \"penso, logo existo\" foi o ponto de partida de um filósofo moderno que decidiu duvidar de tudo até encontrar uma certeza. Quem a formulou?",
+      "alternativas": [
+        "Sócrates",
+        "Aristóteles",
+        "Nietzsche",
+        "Descartes",
+        "Agostinho"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CHS502",
+      "enunciado": "Ao examinar se a conclusão de um raciocínio realmente decorre de suas premissas, estamos no campo de qual área da filosofia?",
+      "alternativas": [
+        "da estética",
+        "da ética",
+        "da política",
+        "da metafísica",
+        "da lógica"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CHS501",
+      "enunciado": "Aristóteles estudou por vinte anos na Academia, com o filósofo que a havia fundado. De quem ele foi discípulo?",
+      "alternativas": [
+        "de Platão",
+        "de Sócrates",
+        "de Tales",
+        "de Epicuro",
+        "de Sêneca"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CHS501",
+      "enunciado": "Em que região e período a filosofia ocidental teve origem, com pensadores que buscavam explicar a natureza sem recorrer aos mitos?",
+      "alternativas": [
+        "na Roma imperial",
+        "na Grécia Antiga",
+        "no Egito faraônico",
+        "na Europa medieval",
+        "na China clássica"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CHS502",
+      "enunciado": "A passagem do mito à filosofia marcou uma mudança na forma de explicar o mundo. Em que a explicação filosófica passou a se apoiar?",
+      "alternativas": [
+        "na autoridade dos poetas antigos",
+        "na tradição transmitida pelos anciãos",
+        "na razão e nos argumentos",
+        "na revelação dos oráculos",
+        "na força dos governantes"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CHS502",
+      "enunciado": "Immanuel Kant propôs que devemos agir apenas segundo uma regra que possamos desejar que valha para todos. Esse princípio pertence a que campo?",
+      "alternativas": [
+        "à estética",
+        "à lógica formal",
+        "à filosofia da natureza",
+        "à moral",
+        "à retórica"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CHS504",
+      "enunciado": "A democracia ateniense é lembrada como a primeira experiência democrática, mas era restrita. Quem estava excluído da participação política?",
+      "alternativas": [
+        "apenas os estrangeiros ricos",
+        "apenas os cidadãos mais jovens",
+        "apenas os comerciantes",
+        "somente os camponeses",
+        "mulheres, escravizados e estrangeiros"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CHS503",
+      "enunciado": "Perguntar como sabemos aquilo que dizemos saber, e o que distingue conhecimento de simples opinião, é tarefa de que área da filosofia?",
+      "alternativas": [
+        "da epistemologia",
+        "da estética",
+        "da ética aplicada",
+        "da filosofia política",
+        "da cosmologia antiga"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CHS502",
+      "enunciado": "Numa discussão, alguém ataca a pessoa que argumenta em vez de responder ao argumento apresentado. Como se chama esse tipo de erro?",
+      "alternativas": [
+        "um silogismo válido",
+        "uma falácia",
+        "uma premissa verdadeira",
+        "uma dedução necessária",
+        "uma tese demonstrada"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CHS503",
+      "enunciado": "O debate sobre o livre-arbítrio discute uma questão específica sobre a ação humana. Qual é ela?",
+      "alternativas": [
+        "se as leis da física são universais",
+        "se a beleza é objetiva ou subjetiva",
+        "se somos livres para escolher nossas ações",
+        "se o Estado deve ser laico ou religioso",
+        "se a linguagem representa o mundo"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CHS504",
+      "enunciado": "Um filósofo do contrato social defendeu que o ser humano nasce bom e é corrompido pela sociedade. Quem sustentou essa tese?",
+      "alternativas": [
+        "Thomas Hobbes",
+        "John Locke",
+        "Maquiavel",
+        "Rousseau",
+        "Montesquieu"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CHS502",
+      "enunciado": "Discutir o que torna uma obra bela, e se o gosto pode ser discutido, é tarefa de que área da filosofia?",
+      "alternativas": [
+        "da lógica",
+        "da epistemologia",
+        "da filosofia política",
+        "da metafísica",
+        "da estética"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CHS501",
+      "enunciado": "A maiêutica é um método em que o filósofo, por meio de perguntas sucessivas, leva o interlocutor a examinar as próprias certezas. Quem a praticava?",
+      "alternativas": [
+        "Sócrates",
+        "Aristóteles",
+        "Descartes",
+        "Kant",
+        "Marx"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CHS503",
+      "enunciado": "Perguntas como \"o que existe de fato?\" e \"o que é ser?\" pertencem a que área da filosofia?",
+      "alternativas": [
+        "à ética normativa",
+        "à metafísica",
+        "à lógica proposicional",
+        "à estética contemporânea",
+        "à filosofia da educação"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CHS504",
+      "enunciado": "Thomas Hobbes descreveu uma situação hipotética anterior ao Estado, em que haveria \"guerra de todos contra todos\". Como ele chamou essa situação?",
+      "alternativas": [
+        "contrato social",
+        "sociedade civil",
+        "estado de natureza",
+        "vontade geral",
+        "separação de poderes"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CHS502",
+      "enunciado": "\"Todo ser humano é mortal; Sócrates é humano; logo, Sócrates é mortal.\" Que tipo de raciocínio é esse?",
+      "alternativas": [
+        "indutivo, do particular ao geral",
+        "analógico, por semelhança de casos",
+        "abdutivo, pela melhor explicação",
+        "dedutivo, do geral ao particular",
+        "retórico, por persuasão do público"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CHS504",
+      "enunciado": "Qual é o objeto de estudo da filosofia política?",
+      "alternativas": [
+        "a origem das espécies vivas",
+        "a estrutura interna da linguagem",
+        "os critérios do gosto artístico",
+        "os fundamentos do conhecimento",
+        "o poder, a justiça e a organização da sociedade"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

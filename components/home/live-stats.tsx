@@ -49,12 +49,20 @@ export function LiveStats() {
   useEffect(() => {
     const supabase = createClient()
 
+    // O número de questões soma os dois lugares onde elas vivem: o acervo
+    // (`questoes` — provas reais e autorais) e a tabela antiga (`questions` —
+    // contribuições de professor e as 43 primeiras). Contar só uma delas daria
+    // um número que não corresponde ao que a página de questões oferece.
     Promise.all([
+      supabase.from("questoes").select("id", { count: "exact", head: true }),
       supabase.from("questions").select("id", { count: "exact", head: true }),
       supabase.from("content").select("id", { count: "exact", head: true }),
     ])
-      .then(([questions, contents]) =>
-        setCounts({ questions: questions.count ?? 0, contents: contents.count ?? 0 }),
+      .then(([acervo, antigas, contents]) =>
+        setCounts({
+          questions: (acervo.count ?? 0) + (antigas.count ?? 0),
+          contents: contents.count ?? 0,
+        }),
       )
       .catch(() => setCounts({ questions: 0, contents: 0 }))
   }, [])

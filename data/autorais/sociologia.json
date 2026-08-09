@@ -1,0 +1,275 @@
+{
+  "materia": "Sociologia",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CHS601",
+      "enunciado": "A sociologia se consolidou como ciência no século XIX, com um objeto de estudo próprio. Qual é esse objeto?",
+      "alternativas": [
+        "a vida em sociedade e suas relações",
+        "o funcionamento interno do corpo humano",
+        "a composição química dos materiais",
+        "o movimento dos corpos celestes",
+        "a estrutura das línguas antigas"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CHS601",
+      "enunciado": "Quem criou o termo \"sociologia\" e é considerado um dos fundadores dessa ciência?",
+      "alternativas": [
+        "Karl Marx",
+        "Auguste Comte",
+        "Max Weber",
+        "Émile Durkheim",
+        "Adam Smith"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CHS602",
+      "enunciado": "Desde criança, uma pessoa aprende a falar, a se comportar à mesa e a respeitar regras. Como a sociologia chama esse processo de aprendizagem?",
+      "alternativas": [
+        "estratificação",
+        "mobilidade social",
+        "socialização",
+        "alienação",
+        "burocratização"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CHS603",
+      "enunciado": "Karl Marx explicou os conflitos das sociedades industriais a partir da divisão entre quem possui os meios de produção e quem vende sua força de trabalho. Que conceito organiza essa análise?",
+      "alternativas": [
+        "o fato social",
+        "a ação social",
+        "a solidariedade orgânica",
+        "as classes sociais",
+        "o tipo ideal"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CHS604",
+      "enunciado": "Em sociologia, o que se entende por cultura?",
+      "alternativas": [
+        "apenas as obras de arte de um povo",
+        "somente o conhecimento escolar formal",
+        "apenas as tradições religiosas antigas",
+        "somente a produção literária de um país",
+        "o conjunto de costumes, saberes e valores de um grupo"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CHS601",
+      "enunciado": "Émile Durkheim definiu como fato social aquilo que existe fora do indivíduo e exerce pressão sobre ele, como a língua ou as leis. Que característica marca o fato social?",
+      "alternativas": [
+        "ser exterior ao indivíduo e coercitivo",
+        "ser criado livremente por cada pessoa",
+        "existir apenas nas sociedades antigas",
+        "depender da vontade de quem o pratica",
+        "ser exclusivo das relações familiares"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CHS604",
+      "enunciado": "Uma pessoa considera estranhos ou inferiores os hábitos alimentares de outro povo, tomando os próprios como naturais. Como se chama essa atitude?",
+      "alternativas": [
+        "relativismo cultural",
+        "etnocentrismo",
+        "sincretismo religioso",
+        "difusão cultural",
+        "aculturação planejada"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CHS603",
+      "enunciado": "Ao comparar dois bairros de uma mesma cidade, observa-se diferença no acesso a saneamento, escolas e transporte. Que fenômeno essa comparação evidencia?",
+      "alternativas": [
+        "a homogeneidade cultural urbana",
+        "a mobilidade social ascendente",
+        "a desigualdade social",
+        "a integração plena dos serviços",
+        "a padronização dos territórios"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CHS605",
+      "enunciado": "Um grupo se organiza, ocupa espaços públicos e reivindica moradia junto ao poder público. Como a sociologia classifica essa forma de ação?",
+      "alternativas": [
+        "uma instituição estatal",
+        "uma empresa privada",
+        "um partido político",
+        "um movimento social",
+        "uma corporação profissional"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CHS601",
+      "enunciado": "Max Weber propôs que a sociologia deve compreender o sentido que as pessoas atribuem ao que fazem. Que conceito central expressa essa proposta?",
+      "alternativas": [
+        "o fato social coercitivo",
+        "a luta de classes",
+        "a divisão do trabalho social",
+        "a mais-valia industrial",
+        "a ação social dotada de sentido"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CHS602",
+      "enunciado": "Instituições sociais são estruturas duradouras que organizam a vida coletiva e transmitem normas. Qual dos exemplos a seguir é uma instituição social?",
+      "alternativas": [
+        "a família",
+        "uma conversa casual",
+        "um encontro fortuito",
+        "uma preferência pessoal",
+        "um gosto musical"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CHS603",
+      "enunciado": "O que caracteriza o trabalho formal no Brasil?",
+      "alternativas": [
+        "a ausência de qualquer vínculo com o empregador",
+        "o registro em carteira e o acesso a direitos trabalhistas",
+        "o pagamento feito exclusivamente por produção diária",
+        "a realização do trabalho apenas em ambiente doméstico",
+        "a inexistência de jornada definida em contrato"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CHS604",
+      "enunciado": "Uma pessoa forma opinião negativa sobre alguém antes de conhecê-lo, apenas por pertencer a determinado grupo. Como se chama isso?",
+      "alternativas": [
+        "diversidade",
+        "tolerância",
+        "preconceito",
+        "empatia",
+        "solidariedade"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CHS605",
+      "enunciado": "O conceito de cidadania, tal como usado hoje no Brasil, envolve o quê?",
+      "alternativas": [
+        "apenas o direito de votar em eleições",
+        "somente o dever de pagar impostos",
+        "apenas a posse de documentos oficiais",
+        "o conjunto de direitos e deveres na sociedade",
+        "somente o serviço militar obrigatório"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CHS604",
+      "enunciado": "Pensadores da Escola de Frankfurt criaram um conceito para criticar a produção cultural feita em série e voltada ao consumo. Que conceito é esse?",
+      "alternativas": [
+        "cultura popular",
+        "patrimônio imaterial",
+        "capital social",
+        "identidade nacional",
+        "indústria cultural"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CHS603",
+      "enunciado": "Filha de trabalhadores rurais, uma pessoa se forma na universidade e passa a exercer profissão de nível superior. Que fenômeno sociológico esse percurso ilustra?",
+      "alternativas": [
+        "a mobilidade social",
+        "o etnocentrismo cultural",
+        "a anomia coletiva",
+        "a burocracia estatal",
+        "a alienação do trabalho"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CHS603",
+      "enunciado": "O Brasil é definido como um Estado laico. O que isso significa?",
+      "alternativas": [
+        "que o país proíbe a prática de religiões",
+        "que o Estado não adota uma religião oficial",
+        "que apenas uma religião pode ser ensinada",
+        "que o Estado financia todos os templos",
+        "que só religiosos podem ocupar cargos públicos"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CHS603",
+      "enunciado": "Numa democracia representativa, como os cidadãos participam das decisões políticas?",
+      "alternativas": [
+        "decidindo todas as leis em assembleia",
+        "sorteando os ocupantes dos cargos",
+        "elegendo representantes para governar",
+        "delegando as decisões aos militares",
+        "aceitando a sucessão hereditária"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CHS604",
+      "enunciado": "A diversidade cultural brasileira é resultado do encontro, muitas vezes violento, de diferentes povos ao longo da história. Que povos formaram essa base?",
+      "alternativas": [
+        "apenas os colonizadores portugueses",
+        "somente os imigrantes do século XX",
+        "apenas os povos originários do território",
+        "os povos indígenas, africanos e europeus",
+        "somente os habitantes das grandes cidades"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CHS604",
+      "enunciado": "Nas ciências sociais, o conceito de gênero é usado para tratar de quê?",
+      "alternativas": [
+        "das diferenças anatômicas entre corpos",
+        "da classificação biológica das espécies",
+        "dos tipos textuais usados na literatura",
+        "das faixas etárias de uma população",
+        "da construção social dos papéis atribuídos às pessoas"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

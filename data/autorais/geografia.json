@@ -1,0 +1,275 @@
+{
+  "materia": "Geografia",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CHS201",
+      "enunciado": "Qual é o maior bioma brasileiro em extensão territorial, ocupando boa parte da região Norte?",
+      "alternativas": [
+        "a Amazônia",
+        "o Cerrado",
+        "a Caatinga",
+        "a Mata Atlântica",
+        "o Pampa"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CHS202",
+      "enunciado": "Qual linha imaginária divide a Terra em hemisfério Norte e hemisfério Sul?",
+      "alternativas": [
+        "o Trópico de Câncer",
+        "a linha do Equador",
+        "o meridiano de Greenwich",
+        "o Círculo Polar Ártico",
+        "o Trópico de Capricórnio"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CHS201",
+      "enunciado": "No interior do Nordeste brasileiro, as chuvas são escassas e concentradas em poucos meses do ano. Que tipo de clima predomina nessa região?",
+      "alternativas": [
+        "equatorial",
+        "tropical de altitude",
+        "semiárido",
+        "subtropical",
+        "polar"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CHS202",
+      "enunciado": "A sucessão de dias e noites acontece porque a Terra gira em torno de si mesma. Como se chama esse movimento?",
+      "alternativas": [
+        "translação",
+        "precessão",
+        "revolução solar",
+        "rotação",
+        "inclinação"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CHS202",
+      "enunciado": "As estações do ano acontecem porque a Terra percorre uma órbita ao redor do Sol, com o eixo inclinado. Como se chama esse movimento?",
+      "alternativas": [
+        "rotação",
+        "maré",
+        "vento solar",
+        "deriva continental",
+        "translação"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CHS203",
+      "enunciado": "Como se chama a camada de gases que envolve o planeta e onde acontecem os fenômenos do tempo, como as chuvas e os ventos?",
+      "alternativas": [
+        "a atmosfera",
+        "a hidrosfera",
+        "a litosfera",
+        "a biosfera",
+        "o manto"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CHS204",
+      "enunciado": "O aquecimento global está relacionado à concentração crescente de certos gases na atmosfera. Que gases são esses?",
+      "alternativas": [
+        "os gases nobres, como o argônio e o neônio",
+        "os gases de efeito estufa, como o gás carbônico",
+        "os gases usados na refrigeração de alimentos",
+        "o vapor de água presente nas nuvens altas",
+        "o nitrogênio, que é o gás mais abundante do ar"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CHS202",
+      "enunciado": "Qual é o maior oceano do planeta em extensão, banhando a costa oeste das Américas?",
+      "alternativas": [
+        "o Atlântico",
+        "o Índico",
+        "o Pacífico",
+        "o Ártico",
+        "o Antártico"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CHS205",
+      "enunciado": "Ao longo do século XX, milhões de brasileiros deixaram a zona rural e se mudaram para as cidades. Como se chama esse deslocamento?",
+      "alternativas": [
+        "imigração internacional",
+        "migração pendular diária",
+        "transumância sazonal",
+        "êxodo rural",
+        "refúgio ambiental"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CHS202",
+      "enunciado": "Qual instrumento é usado para orientação, indicando a direção do norte magnético?",
+      "alternativas": [
+        "o termômetro",
+        "o barômetro",
+        "o altímetro",
+        "o pluviômetro",
+        "a bússola"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CHS205",
+      "enunciado": "Qual é o país mais populoso da América do Sul?",
+      "alternativas": [
+        "o Brasil",
+        "a Argentina",
+        "a Colômbia",
+        "o Peru",
+        "o Chile"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CHS201",
+      "enunciado": "O Pantanal é a maior planície alagável do mundo e fica principalmente em Mato Grosso e Mato Grosso do Sul. Em que região do Brasil ele está?",
+      "alternativas": [
+        "no Norte",
+        "no Centro-Oeste",
+        "no Nordeste",
+        "no Sudeste",
+        "no Sul"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CHS204",
+      "enunciado": "A erosão do solo se intensifica quando a chuva atinge o terreno sem nenhuma proteção. Que ação humana mais contribui para isso?",
+      "alternativas": [
+        "o plantio de árvores nas encostas",
+        "a construção de curvas de nível",
+        "a retirada da vegetação que cobre o solo",
+        "a rotação de culturas nas lavouras",
+        "a adubação orgânica dos terrenos"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CHS204",
+      "enunciado": "Um recurso natural renovável é aquele que se repõe naturalmente em curto prazo. Qual das fontes a seguir é renovável?",
+      "alternativas": [
+        "o petróleo",
+        "o carvão mineral",
+        "o gás natural",
+        "a energia solar",
+        "o urânio"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CHS203",
+      "enunciado": "A crosta terrestre é dividida em grandes blocos que se movimentam lentamente. O encontro entre esses blocos provoca principalmente",
+      "alternativas": [
+        "a formação de desertos",
+        "o aumento das marés",
+        "a mudança das estações",
+        "a alteração dos fusos",
+        "terremotos e vulcões"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CHS201",
+      "enunciado": "Qual é o rio de maior volume de água do mundo, que atravessa a região Norte do Brasil?",
+      "alternativas": [
+        "o rio Amazonas",
+        "o rio São Francisco",
+        "o rio Paraná",
+        "o rio Tocantins",
+        "o rio Madeira"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CHS205",
+      "enunciado": "O que significa dizer que um país passou por um intenso processo de urbanização?",
+      "alternativas": [
+        "que sua população rural cresceu mais que a urbana",
+        "que a maior parte da população passou a viver em cidades",
+        "que o país reduziu o número total de habitantes",
+        "que as cidades foram transferidas para o interior",
+        "que a agricultura deixou completamente de existir"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CHS201",
+      "enunciado": "Que bioma brasileiro ocupa o interior do Nordeste e reúne plantas adaptadas a longos períodos de estiagem, como o mandacaru?",
+      "alternativas": [
+        "o Cerrado",
+        "o Pampa",
+        "a Caatinga",
+        "a Mata Atlântica",
+        "a Amazônia"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CHS202",
+      "enunciado": "Nas coordenadas geográficas, a latitude mede a distância de um ponto em relação a qual referência?",
+      "alternativas": [
+        "ao meridiano de Greenwich",
+        "ao Polo Norte magnético",
+        "ao Trópico de Capricórnio",
+        "à linha do Equador",
+        "à costa mais próxima"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CHS204",
+      "enunciado": "As usinas hidrelétricas respondem por boa parte da energia produzida no Brasil. Que recurso elas utilizam para gerar eletricidade?",
+      "alternativas": [
+        "o vento",
+        "o carvão",
+        "o gás natural",
+        "o calor do subsolo",
+        "a força da água"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

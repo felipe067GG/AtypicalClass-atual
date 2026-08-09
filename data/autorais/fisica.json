@@ -1,0 +1,275 @@
+{
+  "materia": "Física",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CNT101",
+      "enunciado": "Um atleta percorre 100 metros em 20 segundos, mantendo o ritmo constante. Qual foi a sua velocidade média?",
+      "alternativas": [
+        "5 m/s",
+        "20 m/s",
+        "2.000 m/s",
+        "80 m/s",
+        "0,2 m/s"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CNT102",
+      "enunciado": "No Sistema Internacional de Unidades, qual é a unidade usada para medir força?",
+      "alternativas": [
+        "joule",
+        "newton",
+        "watt",
+        "pascal",
+        "ampère"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CNT103",
+      "enunciado": "Ao nível do mar, o gelo derrete e a água líquida congela na mesma temperatura. Que temperatura é essa?",
+      "alternativas": [
+        "100 °C",
+        "50 °C",
+        "0 °C",
+        "-100 °C",
+        "37 °C"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CNT101",
+      "enunciado": "Uma pessoa solta uma bola e ela cai em direção ao chão. Que força atua sobre a bola e provoca essa queda?",
+      "alternativas": [
+        "a força de atrito com o ar",
+        "a força de empuxo da atmosfera",
+        "a força magnética da Terra",
+        "a força peso, devida à gravidade",
+        "a força elétrica entre as cargas"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CNT104",
+      "enunciado": "Uma pessoa se vê ao olhar para um espelho plano. Que fenômeno da luz explica a formação dessa imagem?",
+      "alternativas": [
+        "refração",
+        "difração",
+        "absorção",
+        "dispersão",
+        "reflexão"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CNT201",
+      "enunciado": "Uma lâmpada incandescente acesa fica quente ao toque, além de iluminar o ambiente. Em que formas de energia a energia elétrica está sendo transformada?",
+      "alternativas": [
+        "em energia luminosa e em energia térmica",
+        "apenas em energia sonora dentro do vidro",
+        "em energia química armazenada no filamento",
+        "em energia nuclear liberada pelo material",
+        "somente em energia mecânica de rotação"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CNT202",
+      "enunciado": "Um bloco tem massa de 200 gramas e ocupa um volume de 100 centímetros cúbicos. Qual é a densidade desse bloco?",
+      "alternativas": [
+        "0,5 g/cm³",
+        "2 g/cm³",
+        "20 g/cm³",
+        "100 g/cm³",
+        "300 g/cm³"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CNT104",
+      "enunciado": "O som precisa de um meio material para se propagar. Em qual dos meios a seguir o som NÃO consegue se propagar?",
+      "alternativas": [
+        "no ar",
+        "na água",
+        "no vácuo",
+        "no ferro",
+        "na madeira"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CNT101",
+      "enunciado": "Um passageiro em pé no ônibus é jogado para a frente quando o motorista freia bruscamente. Que princípio da física explica isso?",
+      "alternativas": [
+        "o princípio da ação e reação",
+        "a lei da gravitação universal",
+        "a conservação da carga elétrica",
+        "o princípio da inércia",
+        "a lei de Ohm dos circuitos"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CNT203",
+      "enunciado": "Numa antiga fila de lâmpadas de árvore de Natal, ligadas em série, uma das lâmpadas queima. O que acontece com as demais?",
+      "alternativas": [
+        "apenas a lâmpada queimada apaga",
+        "todas passam a brilhar mais forte",
+        "as lâmpadas invertem o brilho entre si",
+        "as lâmpadas ficam com brilho mais fraco",
+        "todas as lâmpadas do fio se apagam"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CNT202",
+      "enunciado": "Uma colher de metal esquenta ao ser deixada dentro de uma panela com água fervendo. Como o calor chegou até a ponta da colher?",
+      "alternativas": [
+        "por condução",
+        "por evaporação",
+        "por sublimação",
+        "por solidificação",
+        "por ionização"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CNT205",
+      "enunciado": "Um astronauta pesa menos na Lua do que na Terra, embora seja a mesma pessoa. Qual é a razão disso?",
+      "alternativas": [
+        "a massa do astronauta diminui durante a viagem",
+        "a gravidade na Lua é menor que a da Terra",
+        "não existe ar na Lua para sustentar o corpo",
+        "a temperatura na Lua é muito mais baixa",
+        "a Lua está mais distante do Sol que a Terra"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CNT104",
+      "enunciado": "Numa tempestade, vemos o relâmpago alguns segundos antes de ouvir o trovão, embora os dois aconteçam ao mesmo tempo. Por quê?",
+      "alternativas": [
+        "porque o som viaja mais rápido que a luz",
+        "porque o trovão acontece depois do relâmpago",
+        "porque a luz viaja mais rápido que o som",
+        "porque o trovão é um som muito fraco",
+        "porque o relâmpago é mais forte que o trovão"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CNT201",
+      "enunciado": "Um carro em movimento freia até parar, e os freios ficam muito quentes. Em que forma de energia a energia do movimento foi transformada?",
+      "alternativas": [
+        "em energia química",
+        "em energia nuclear",
+        "em energia elétrica",
+        "em energia térmica",
+        "em energia luminosa"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CNT101",
+      "enunciado": "Nos cálculos escolares, costuma-se usar um valor aproximado para a aceleração da gravidade na superfície da Terra. Qual é esse valor?",
+      "alternativas": [
+        "1 m/s²",
+        "3 m/s²",
+        "100 m/s²",
+        "50 m/s²",
+        "10 m/s²"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CNT203",
+      "enunciado": "Qual é a unidade usada para medir a intensidade da corrente elétrica?",
+      "alternativas": [
+        "ampère",
+        "volt",
+        "watt",
+        "ohm",
+        "joule"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CNT202",
+      "enunciado": "Um navio de aço, muito mais denso que a água, mesmo assim flutua. Que condição explica a flutuação de um corpo?",
+      "alternativas": [
+        "o corpo precisa ser mais pesado que a água",
+        "o empuxo precisa igualar ou superar o peso",
+        "o corpo precisa ser mais denso que a água",
+        "o corpo precisa ter o maior volume possível",
+        "o corpo precisa estar eletricamente carregado"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CNT104",
+      "enunciado": "Depois da chuva, a luz do Sol atravessa as gotas de água e forma um arco-íris, separando as cores. Que fenômeno é esse?",
+      "alternativas": [
+        "reflexão total",
+        "absorção seletiva",
+        "dispersão da luz",
+        "difração sonora",
+        "ionização do ar"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CNT104",
+      "enunciado": "Qual é a unidade usada para medir a frequência de uma onda?",
+      "alternativas": [
+        "metro",
+        "segundo",
+        "joule",
+        "hertz",
+        "newton"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CNT101",
+      "enunciado": "Um carrinho de 2 quilogramas recebe uma aceleração de 3 metros por segundo ao quadrado. Qual é a intensidade da força aplicada sobre ele?",
+      "alternativas": [
+        "1,5 N",
+        "2 N",
+        "5 N",
+        "3 N",
+        "6 N"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

@@ -49,7 +49,8 @@
       "numero": 91,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/91",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição das equações químicas da figura: O radical SO4 de carga negativa provoca as reações a seguir: o reagente TCE (ligação dupla entre os carbonos de número 1 e 2, dois Cl ligados ao carbono de número 1 e um Cl e um H ligados ao carbono de número 2) forma o ácido dicloroetanoico (ligação simples entre o grupo COOH e um carbono ligado a dois Cl e um H), que forma o ácido etanodioico (dois grupos COOH ligados entre si). O ácido etanodioico forma o ácido metanoico (COOH ligado ao H), que forma, como produtos finais de degradação, H2O, CO2 e Cl de carga negativa."
@@ -103,7 +104,8 @@
       "numero": 92,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/92",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -155,7 +157,8 @@
       "numero": 93,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/93",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -209,7 +212,8 @@
       "numero": 94,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/94",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -263,7 +267,8 @@
       "numero": 95,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/95",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: A figura ilustra um plano sobre o qual há uma circunferência pontilhada onde estão os pontos A, B e C, respectivamente nas posições de 10 horas, 7 horas e 4 horas. No centro da circunferência, há uma reta, perpendicular ao plano, que representa o fio com uma seta para cima que indica o sentido da corrente elétrica. Ao lado dessa figura, há uma bússola que indica o Norte (na cor preta), na parte superior, e o Sul (na cor branca), na parte inferior.,Descrição da imagem: Todas as bússolas indicam o polo sul apontado para o centro da circunferência.,Descrição da imagem: Todas as bússolas indicam o polo norte apontado para o centro da circunferência.,Descrição da imagem: A bússola do ponto A está com o polo norte apontado no sentido horário. A bússola do ponto B está com o polo norte apontado para o centro da circunferência. A bússola do ponto C está com o polo norte apontado no sentido anti-horário.,Descrição da imagem: As bússolas dos pontos A, B e C estão com o polo norte apontado no sentido anti-horário.,Descrição da imagem: As bússolas dos pontos A, B e C estão com o polo norte apontado no sentido horário."
@@ -319,7 +324,8 @@
       "numero": 96,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/96",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da associação de baterias: O ponto A está ligado ao polo positivo da primeira bateria, o polo negativo da primeira bateria está ligado ao polo positivo da segunda bateria, e o polo negativo da segunda bateria está ligado ao ponto B.,Descrição da associação de baterias: O ponto A está ligado ao polo positivo da primeira bateria, o polo negativo da primeira bateria está ligado ao polo negativo da segunda bateria, e o polo positivo da segunda bateria está ligado ao ponto B.,Descrição da associação de baterias: O ponto A está ligado ao polo negativo da primeira bateria, que está ligado ao polo negativo da segunda bateria. O polo positivo da primeira bateria está ligado ao polo positivo da segunda bateria, que está ligado ao ponto B.,Descrição da associação de baterias: O ponto A está ligado ao polo negativo da primeira bateria, o polo positivo da primeira bateria está ligado ao polo positivo da segunda bateria, e o polo negativo da segunda bateria está ligado ao ponto B.,Descrição da associação de baterias: O ponto A está ligado ao polo positivo da primeira bateria e ao polo negativo da segunda bateria. O ponto B está ligado ao polo negativo da primeira bateria e ao polo positivo da segunda bateria."
@@ -373,7 +379,8 @@
       "numero": 97,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/97",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -425,7 +432,8 @@
       "numero": 98,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/98",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -477,7 +485,8 @@
       "numero": 99,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/99",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -531,7 +540,8 @@
       "numero": 100,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/100",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -586,7 +596,8 @@
       "numero": 101,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/101",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -638,7 +649,8 @@
       "numero": 102,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/102",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -697,7 +709,8 @@
       "numero": 103,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/103",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Ilustração de uma muleta como uma barra vertical apoiada sobre o chão. No centro da muleta, há a indicação do seu centro de massa (CM). Na extremidade superior da barra, há uma seta vertical para baixo com a indicação do vetor F.,Descrição do esquema: Na extremidade superior da barra, há uma seta vertical para baixo com a indicação do vetor F. No ponto onde a barra toca o chão, há três setas: uma vertical para cima, indicando o vetor N, uma horizontal para a direita, indicando o vetor f , e uma vertical para baixo, indicando o vetor P.,Descrição do esquema: Na extremidade superior da barra, há uma seta vertical para baixo com a indicação do vetor F. No centro de massa há duas setas, uma vertical para cima, indicando vetor N, e uma vertical para baixo indicando o vetor P. No ponto onde a barra toca o chão, há uma seta horizontal para a esquerda, indicando o vetor fe.,Descrição do esquema: Na extremidade superior da barra, há uma seta com a mesma direção da barra e sentido da extremidade inferior, com a indicação do vetor F. No ponto onde a barra toca o chão, há três setas: uma vertical para cima, indicando o vetor N, uma seta vertical para baixo, indicando vetor P, e uma horizontal para a direita, indicando o vetor fe.,Descrição do esquema: Na extremidade superior da barra, há uma seta com a mesma direção da barra e sentido da extremidade inferior, com a indicação do vetor F. No centro de massa, há duas setas: uma vertical para cima, indicando o vetor N, e uma vertical para baixo, indicando o vetor P. No ponto onde a barra toca o chão, há uma seta horizontal para a esquerda, indicando o vetor fe.,Descrição do esquema: Na extremidade superior da barra, há uma seta com a mesma direção da barra e sentido da extremidade inferior, com a indicação do vetor F. No centro de massa, há uma seta vertical para baixo, indicando o vetor P. No ponto onde a barra toca o chão, há duas setas: uma vertical para cima, indicando o vetor N, e uma horizontal para a direita, indicando o vetor fe."
@@ -751,7 +764,8 @@
       "numero": 104,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/104",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -803,7 +817,8 @@
       "numero": 105,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/105",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -857,7 +872,8 @@
       "numero": 106,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/106",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da estrutura química da penicilamina: No centro da estrutura representada, há 2 átomos de carbono com ligação simples entre si. Cada carbono faz três ligações simples com outros grupos. No primeiro carbono, estão ligados: um grupo SH, um grupo CH3 e outro grupo CH3. No segundo carbono, estão ligados: um grupo H, um grupo COOH e um grupo NH2.,Descrição da estrutura química: Estrutura derivada da penicilamina com os grupos: S de carga negativa, COO de carga negativa e NH2.,Descrição da estrutura química: Estrutura derivada da penicilamina com os grupos: S de carga negativa, COOH e NH2.,Descrição da estrutura química: Estrutura derivada da penicilamina com os grupos: SH, COO de carga negativa e NH3 de carga positiva.,Descrição da estrutura química: Estrutura derivada da penicilamina com os grupos: S de carga negativa, COOH e NH3 de carga positiva.,Descrição da estrutura química: Estrutura derivada da penicilamina com os grupos: SH, COOH e NH3 de carga positiva."
@@ -913,7 +929,8 @@
       "numero": 107,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/107",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição do esquema: Estrutura química de um polissacarídeo, com os grupos funcionais C ligação simples OH e C ligação simples O, ligação simples C, com foco nas ligações entre hidrogênio e oxigênio. Esse polissacarídeo é convertido, em três etapas, em mono e dissacarídeos, envolvendo a participação do íon H, de carga positiva, como reagente na primeira etapa e como produto na última etapa."
@@ -969,7 +986,8 @@
       "numero": 108,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/108",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da equação química: Um mol de ácido tartárico, cuja massa molar é igual a 150 gramas por mol, reage com 2 mols de NaOH formando um sal orgânico e água."
@@ -1025,7 +1043,8 @@
       "numero": 109,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/109",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1077,7 +1096,8 @@
       "numero": 110,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/110",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1132,7 +1152,8 @@
       "numero": 111,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/111",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Representação esquemática do globo terrestre em 21 de dezembro. O globo é representado por um círculo dividido ao meio por uma linha vertical, com a incidência direta de raios solares ao meio-dia, representados por setas horizontais da esquerda para a direita. A metade esquerda representa a parte iluminada (dia) e a metade direita representa a parte sombreada (noite). O eixo de rotação da Terra está inclinado em relação à vertical e é representado por uma reta com a metade superior na parte sombreada e a metade inferior na parte iluminada. Perpendicularmente ao eixo de rotação estão indicados, de cima para baixo, o Polo Norte, com o Círculo Polar Ártico, o Trópico de Câncer, a Linha do Equador, o Trópico de Capricórnio e o Polo Sul, com o Círculo Polar Antártico.,Descrição da imagem: Gráfico de barras verticais. No eixo horizontal, estão quatro dias do ano e, no eixo vertical, está a energia total produzida pela placa fotovoltaica. Da esquerda para direita, estão posicionadas quatro barras, correspondentes aos dias 10 de janeiro; 10 de abril; 10 de julho e 10 de outubro. A barra correspondente ao dia 10 de janeiro é a maior de todas. A barra correspondente ao dia 10 de julho é a menor de todas. As barras correspondentes aos dias 10 de abril e 10 de outubro têm alturas semelhantes, sendo a de 10 de abril um pouco maior que a do dia 10 de outubro."
@@ -1186,7 +1207,8 @@
       "numero": 114,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/114",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1240,7 +1262,8 @@
       "numero": 115,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/115",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1294,7 +1317,8 @@
       "numero": 116,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/116",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1348,7 +1372,8 @@
       "numero": 117,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/117",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1402,7 +1427,8 @@
       "numero": 118,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/118",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Gráfico de barras que indica a concentração do hormônio, em nanograma por mililitro, para três grupos de sapos: machos controle, machos expostos à atrazina e fêmeas controle. Machos controle: 4. Machos expostos à atrazina: 0,3. Fêmeas controle: 0,5."
@@ -1458,7 +1484,8 @@
       "numero": 120,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/120",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1512,7 +1539,8 @@
       "numero": 121,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/121",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1564,7 +1592,8 @@
       "numero": 122,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/122",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1616,7 +1645,8 @@
       "numero": 123,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/123",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1668,7 +1698,8 @@
       "numero": 124,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/124",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1722,7 +1753,8 @@
       "numero": 125,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/125",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da figura: Ilustração de um corpo humano feminino com as legendas Células com cromossomo X paterno inativado, em cor preta, e Células com cromossomo X materno inativado, em cor branca. Do corpo humano feminino partem setas que indicam amostras de células corporais (três em cor branca e três em cor preta). Ao lado estão representados o gameta masculino (22+X), por um espermatozoide em cor preta, e o gameta feminino (22+X), representado por um círculo em cor branca. Esses gametas se unem para formar o zigoto (44+XX), representado por uma célula com metade do núcleo em cor preta e metade em cor branca. Uma seta parte do zigoto indicando a formação da blástula (44+XX). A blástula é formada por algumas células em cor preta e outras em cor branca. Uma seta associa uma das células da blástula de cor preta a uma das amostras de células corporais em cor preta. Uma seta associa uma das células da blástula em cor branca a uma amostra de células corporais em cor branca."
@@ -1776,7 +1808,8 @@
       "numero": 126,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/126",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1828,7 +1861,8 @@
       "numero": 127,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/127",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1882,7 +1916,8 @@
       "numero": 128,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/128",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1936,7 +1971,8 @@
       "numero": 129,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/129",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Esquema com decompositores, um coelho e duas plantas (com foco na parte aérea e subterrânea delas). De uma planta, partem duas setas, uma para o coelho e outra para os decompositores (fungos e bactérias aeróbicas e anaeróbicas). Do coelho, também parte uma seta para esses mesmos decompositores. De decompositores, parte uma seta para amônia (NH3) e amônio (NH4 de carga positiva). As bactérias nitrificantes fazem a nitrificação da amônia e amônio com uma seta que vai para nitritos (NO2 de carga negativa). As bactérias nitrificantes transformam nitritos em nitratos (NO3 de carga negativa). Dos nitratos, partem duas setas, uma que indica assimilação pelas plantas e outra que indica bactérias desnitrificantes. Das bactérias desnitrificantes, a seta continua para o ar e retorna ao ciclo para bactérias fixadoras de N2, nos nódulos das raízes de leguminosas. Dessas mesmas bactérias, uma seta indica que elas farão, no solo, a amonificação, seguindo a seta para amônia (NH3) e amônio (NH4 de carga positiva), fechando o ciclo."
@@ -1990,7 +2026,8 @@
       "numero": 130,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/130",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2044,7 +2081,8 @@
       "numero": 131,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/131",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição das estruturas químicas: Benzaldeído (no óleo de amêndoas): Anel aromático com o grupo C ligação dupla O, ligação simples H. Salicilato de metila (no óleo de gaultéria): Anel aromático com dois grupos: Primeiro grupo: C ligação dupla O, ligação simples O, ligação simples CH3; Segundo grupo: ligação simples OH. Anetol (no óleo de anis): Anel aromático com dois grupos: Primeiro grupo: O ligação simples CH3; Segundo grupo: C ligação dupla C, ligação simples CH3. Vanilina (no óleo de baunilha): Anel aromático com três grupos: Primeiro grupo: C ligação dupla O, ligação simples H; Segundo grupo: O ligação simples CH3; Terceiro grupo: ligação simples OH. Eugenol (no óleo de cravos): Anel aromático com três grupos: Primeiro grupo: CH2 ligação simples CH, ligação dupla CH2; Segundo grupo: O ligação simples CH3; Terceiro grupo: ligação simples OH. Cinamaldeído (no óleo de canela): Anel aromático com o grupo CH ligação dupla CH, ligação simples C, ligação dupla O ligação simples H."
@@ -2098,7 +2136,8 @@
       "numero": 132,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/132",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2150,7 +2189,8 @@
       "numero": 133,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/133",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2204,7 +2244,8 @@
       "numero": 135,
       "provaMicrodados": "1085",
       "questaoApi": "https://api.enem.dev/v1/exams/2022/questions/135",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da imagem: Duas fotografias dispostas lado a lado. A da esquerda destaca uma garrafa PET com água emitindo luz. A da direita mostra várias garrafas fixadas no teto iluminando o ambiente fechado, onde se encontra um homem sentado."

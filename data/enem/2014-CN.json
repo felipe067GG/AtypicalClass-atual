@@ -47,7 +47,8 @@
       "numero": 46,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/46",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -98,7 +99,8 @@
       "numero": 47,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/47",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -151,7 +153,8 @@
       "numero": 48,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/48",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -202,7 +205,8 @@
       "numero": 49,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/49",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -253,7 +257,8 @@
       "numero": 50,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/50",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -304,7 +309,8 @@
       "numero": 52,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/52",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -357,7 +363,8 @@
       "numero": 54,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/54",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -410,7 +417,8 @@
       "numero": 55,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/55",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -461,7 +469,8 @@
       "numero": 56,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/56",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -514,7 +523,8 @@
       "numero": 57,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/57",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -565,7 +575,8 @@
       "numero": 58,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/58",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -618,7 +629,8 @@
       "numero": 59,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/59",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -669,7 +681,8 @@
       "numero": 60,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/60",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -722,7 +735,8 @@
       "numero": 61,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/61",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -775,7 +789,8 @@
       "numero": 62,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/62",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -828,7 +843,8 @@
       "numero": 63,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/63",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -881,7 +897,8 @@
       "numero": 64,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/64",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -932,7 +949,8 @@
       "numero": 65,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/65",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -983,7 +1001,8 @@
       "numero": 66,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/66",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1036,7 +1055,8 @@
       "numero": 67,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/67",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1087,7 +1107,8 @@
       "numero": 68,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/68",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1140,7 +1161,8 @@
       "numero": 69,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/69",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1193,7 +1215,8 @@
       "numero": 71,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/71",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1246,7 +1269,8 @@
       "numero": 72,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/72",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1297,7 +1321,8 @@
       "numero": 73,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/73",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1350,7 +1375,8 @@
       "numero": 74,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/74",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1401,7 +1427,8 @@
       "numero": 76,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/76",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1452,7 +1479,8 @@
       "numero": 78,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/78",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1505,7 +1533,8 @@
       "numero": 79,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/79",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1558,7 +1587,8 @@
       "numero": 80,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/80",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1611,7 +1641,8 @@
       "numero": 81,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/81",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1664,7 +1695,8 @@
       "numero": 82,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/82",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1717,7 +1749,8 @@
       "numero": 83,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/83",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1768,7 +1801,8 @@
       "numero": 84,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/84",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1821,7 +1855,8 @@
       "numero": 85,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/85",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1872,7 +1907,8 @@
       "numero": 86,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/86",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1923,7 +1959,8 @@
       "numero": 87,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/87",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1974,7 +2011,8 @@
       "numero": 88,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/88",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2025,7 +2063,8 @@
       "numero": 89,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/89",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2078,7 +2117,8 @@
       "numero": 90,
       "provaMicrodados": "199",
       "questaoApi": "https://api.enem.dev/v1/exams/2014/questions/90",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2014.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   }
 ]

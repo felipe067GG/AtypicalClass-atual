@@ -8,7 +8,11 @@
     "lint": "eslint .",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "check:links": "node scripts/check-links.mjs"
+    "check:links": "node scripts/check-links.mjs",
+    "detectores": "node scripts/detectores/rodar.mjs",
+    "autorais": "node scripts/autorais/conferir.mjs",
+    "bncc": "node scripts/autorais/conferir-bncc.mjs",
+    "enviar": "node scripts/import-supabase/enviar.mjs"
   },
   "dependencies": {
     "@ai-sdk/google": "^4.0.39",

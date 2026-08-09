@@ -1,0 +1,275 @@
+{
+  "materia": "Química",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CNT301",
+      "enunciado": "Na tabela periódica, cada elemento químico é representado por um símbolo. Qual é o símbolo do oxigênio?",
+      "alternativas": [
+        "O",
+        "Ox",
+        "Og",
+        "Os",
+        "Oe"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CNT302",
+      "enunciado": "A escala de pH vai de 0 a 14. Uma solução com pH igual a 7, como a água pura, é classificada como",
+      "alternativas": [
+        "ácida",
+        "neutra",
+        "básica",
+        "salina",
+        "alcalina forte"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CNT301",
+      "enunciado": "A fórmula da água é H₂O. Quais elementos químicos formam a molécula de água?",
+      "alternativas": [
+        "carbono e oxigênio",
+        "hidrogênio e carbono",
+        "hidrogênio e oxigênio",
+        "nitrogênio e oxigênio",
+        "hélio e oxigênio"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CNT303",
+      "enunciado": "Uma poça de água desaparece do chão em um dia de sol forte. Que mudança de estado físico aconteceu com essa água?",
+      "alternativas": [
+        "fusão",
+        "solidificação",
+        "condensação",
+        "vaporização",
+        "sublimação"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CNT301",
+      "enunciado": "A tabela periódica moderna coloca os elementos numa ordem crescente. Qual é o critério dessa ordenação?",
+      "alternativas": [
+        "a massa do átomo",
+        "a cor da substância",
+        "o tamanho do átomo",
+        "a data de descoberta",
+        "o número atômico"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CNT304",
+      "enunciado": "A substância de fórmula NaCl está presente na cozinha de qualquer casa. De que substância se trata?",
+      "alternativas": [
+        "do cloreto de sódio, o sal de cozinha",
+        "do açúcar comum usado no café",
+        "do bicarbonato de sódio de farmácia",
+        "do vinagre usado para temperar",
+        "do álcool usado para limpeza"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CNT302",
+      "enunciado": "O suco de limão tem sabor azedo e é uma substância ácida. Qual é o valor esperado para o seu pH?",
+      "alternativas": [
+        "igual a 7",
+        "menor que 7",
+        "maior que 7",
+        "igual a 14",
+        "igual a 10"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CNT305",
+      "enunciado": "Numa reação química realizada em recipiente fechado, a massa dos reagentes é comparada com a massa dos produtos. O que se observa?",
+      "alternativas": [
+        "a massa total aumenta",
+        "a massa total diminui",
+        "a massa total se conserva",
+        "a massa total dobra sempre",
+        "a massa depende da cor"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CNT301",
+      "enunciado": "O gás liberado na respiração e absorvido pelas plantas na fotossíntese é o gás carbônico. Qual é a sua fórmula?",
+      "alternativas": [
+        "CO",
+        "C₂O",
+        "O₂C",
+        "CO₂",
+        "CaO"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CNT306",
+      "enunciado": "Para separar areia de água, sem perder nenhuma das duas, qual processo é o mais adequado?",
+      "alternativas": [
+        "destilação",
+        "fusão",
+        "catação",
+        "evaporação",
+        "filtração"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CNT301",
+      "enunciado": "Dentro do átomo existem partículas com cargas elétricas diferentes. Qual delas tem carga negativa?",
+      "alternativas": [
+        "o elétron",
+        "o próton",
+        "o nêutron",
+        "o núcleo",
+        "o isótopo"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CNT306",
+      "enunciado": "Ao misturar álcool e água, não é possível distinguir as duas substâncias a olho nu nem no microscópio comum. Essa mistura é classificada como",
+      "alternativas": [
+        "heterogênea, com duas fases visíveis",
+        "homogênea, com uma única fase",
+        "um composto químico novo",
+        "uma substância pura simples",
+        "uma mistura de três fases"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CNT305",
+      "enunciado": "Para que uma vela permaneça acesa, é preciso que um gás da atmosfera participe da combustão. Que gás é esse?",
+      "alternativas": [
+        "nitrogênio",
+        "hidrogênio",
+        "oxigênio",
+        "hélio",
+        "argônio"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CNT305",
+      "enunciado": "Ao misturar vinagre com bicarbonato de sódio, forma-se espuma e libera-se um gás que não existia antes. O que aconteceu?",
+      "alternativas": [
+        "apenas uma mudança de estado físico",
+        "apenas a dissolução de um no outro",
+        "uma filtração dos dois materiais",
+        "uma reação química entre eles",
+        "uma sublimação do bicarbonato"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CNT307",
+      "enunciado": "Um mol de qualquer substância contém sempre o mesmo número de partículas, conhecido como número de Avogadro. Qual é esse valor aproximado?",
+      "alternativas": [
+        "1.000",
+        "100",
+        "6 milhões",
+        "6 × 10³",
+        "6 × 10²³"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CNT304",
+      "enunciado": "Fios elétricos costumam ser feitos de um material que conduz bem a corrente. Qual dos materiais a seguir é um bom condutor elétrico?",
+      "alternativas": [
+        "cobre",
+        "plástico",
+        "borracha",
+        "vidro",
+        "madeira"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CNT301",
+      "enunciado": "O gás oxigênio (O₂) é formado por átomos de um único elemento químico. Como se classifica esse tipo de substância?",
+      "alternativas": [
+        "substância composta",
+        "substância simples",
+        "mistura homogênea",
+        "solução concentrada",
+        "liga metálica"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CNT308",
+      "enunciado": "A chuva ácida se forma quando certos gases poluentes reagem com a água da atmosfera. Que gases são os principais responsáveis?",
+      "alternativas": [
+        "o oxigênio puro do ar",
+        "o vapor de água das nuvens",
+        "os óxidos de enxofre e de nitrogênio",
+        "os gases nobres da atmosfera",
+        "apenas o ozônio da estratosfera"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CNT303",
+      "enunciado": "Qual estado físico da matéria tem, ao mesmo tempo, forma própria e volume definido?",
+      "alternativas": [
+        "líquido",
+        "gasoso",
+        "plasma",
+        "sólido",
+        "vapor"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CNT306",
+      "enunciado": "Ao preparar um copo de água com açúcar, a água é o solvente. O que é o soluto nessa solução?",
+      "alternativas": [
+        "o recipiente que contém a mistura",
+        "a substância que dissolve a outra",
+        "a temperatura em que se dissolve",
+        "o filtro usado para separar",
+        "a substância que foi dissolvida"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

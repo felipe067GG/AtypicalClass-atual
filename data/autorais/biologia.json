@@ -1,0 +1,275 @@
+{
+  "materia": "Biologia",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CNT201",
+      "enunciado": "A respiração celular é o processo que libera energia para a célula a partir dos alimentos. Em que estrutura da célula isso acontece principalmente?",
+      "alternativas": [
+        "na mitocôndria",
+        "no ribossomo",
+        "no lisossomo",
+        "no vacúolo",
+        "no cloroplasto"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CNT201",
+      "enunciado": "As plantas produzem seu próprio alimento usando a luz do Sol. Em que estrutura da célula vegetal ocorre a fotossíntese?",
+      "alternativas": [
+        "no núcleo",
+        "no cloroplasto",
+        "na mitocôndria",
+        "na membrana",
+        "no citoplasma"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CNT202",
+      "enunciado": "O DNA guarda as informações que a célula usa para funcionar e se reproduzir. Em que parte da célula com núcleo ele está principalmente guardado?",
+      "alternativas": [
+        "no citoplasma",
+        "na parede celular",
+        "no núcleo",
+        "no vacúolo",
+        "na membrana"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CNT202",
+      "enunciado": "Um ser vivo unicelular é formado por uma única célula. Qual dos seres a seguir é unicelular?",
+      "alternativas": [
+        "o cachorro",
+        "a samambaia",
+        "o cogumelo",
+        "a bactéria",
+        "a abelha"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CNT206",
+      "enunciado": "Numa cadeia alimentar, existe sempre um grupo que ocupa o primeiro nível, por produzir o próprio alimento. Que grupo é esse?",
+      "alternativas": [
+        "os carnívoros",
+        "os decompositores",
+        "os herbívoros",
+        "os onívoros",
+        "os produtores"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CNT204",
+      "enunciado": "Uma pessoa vacinada fica protegida contra determinada doença. Como a vacina produz essa proteção?",
+      "alternativas": [
+        "estimula o corpo a produzir anticorpos",
+        "elimina todos os micro-organismos do ambiente onde a pessoa vive",
+        "substitui o sangue por uma versão mais resistente à doença",
+        "funciona como um antibiótico de efeito permanente no corpo",
+        "impede que a pessoa tenha qualquer outra doença na vida"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CNT203",
+      "enunciado": "Qual órgão do corpo humano é responsável por bombear o sangue para todo o organismo?",
+      "alternativas": [
+        "o pulmão",
+        "o coração",
+        "o fígado",
+        "o rim",
+        "o estômago"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CNT203",
+      "enunciado": "No sistema respiratório humano, a troca de gases entre o ar e o sangue acontece em pequenas bolsas dos pulmões. Como se chamam essas estruturas?",
+      "alternativas": [
+        "brônquios",
+        "traqueia",
+        "alvéolos",
+        "diafragma",
+        "laringe"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CNT202",
+      "enunciado": "Características como a cor dos olhos passam de pais para filhos. O que transmite essas características de uma geração para outra?",
+      "alternativas": [
+        "os hábitos diários",
+        "a alimentação",
+        "o clima da região",
+        "os genes",
+        "os exercícios físicos"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CNT204",
+      "enunciado": "Uma infecção causada por bactérias, quando indicada pelo médico, costuma ser tratada com um tipo específico de medicamento. Qual é ele?",
+      "alternativas": [
+        "antitérmico",
+        "analgésico",
+        "antialérgico",
+        "anti-inflamatório",
+        "antibiótico"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CNT206",
+      "enunciado": "Os fungos não fazem fotossíntese nem capturam presas. Como eles obtêm seus nutrientes?",
+      "alternativas": [
+        "por absorção de matéria orgânica",
+        "por fotossíntese nas folhas e caules do ambiente",
+        "por quimiossíntese a partir de minerais do solo profundo",
+        "por captura e ingestão de pequenos animais do solo",
+        "por fixação direta do nitrogênio presente na atmosfera"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CNT206",
+      "enunciado": "Em ecologia, o termo população tem um significado preciso. O que é uma população?",
+      "alternativas": [
+        "o conjunto de todos os seres vivos e do ambiente físico de um lugar",
+        "o conjunto de indivíduos da mesma espécie num lugar",
+        "o conjunto formado apenas pelas plantas de uma região",
+        "o ambiente físico onde os seres vivos se encontram",
+        "a soma de todos os ecossistemas de um continente"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CNT202",
+      "enunciado": "Os anfíbios passam parte da vida na água e parte na terra. Qual dos animais a seguir é um anfíbio?",
+      "alternativas": [
+        "o lagarto",
+        "a tartaruga",
+        "o sapo",
+        "a cobra",
+        "o jacaré"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CNT206",
+      "enunciado": "O desmatamento de uma área de floresta destrói o ambiente onde muitas espécies vivem. Qual é a principal consequência disso?",
+      "alternativas": [
+        "o aumento do número de espécies do local",
+        "o aumento garantido das chuvas na região",
+        "a fertilidade permanente do solo exposto",
+        "a perda de biodiversidade da região",
+        "a redução completa da erosão do solo"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CNT203",
+      "enunciado": "Qual órgão do corpo humano filtra o sangue e produz a urina?",
+      "alternativas": [
+        "o fígado",
+        "o baço",
+        "o pâncreas",
+        "a bexiga",
+        "o rim"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CNT201",
+      "enunciado": "A célula vegetal tem uma estrutura rígida que a célula animal não possui. Que estrutura é essa?",
+      "alternativas": [
+        "a parede celular",
+        "o núcleo",
+        "a membrana",
+        "a mitocôndria",
+        "o ribossomo"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CNT205",
+      "enunciado": "A reprodução sexuada combina material genético de dois indivíduos. Qual é a principal consequência disso para a espécie?",
+      "alternativas": [
+        "gera descendentes geneticamente idênticos entre si e aos pais",
+        "gera descendentes com variabilidade genética",
+        "faz com que nasçam apenas indivíduos fêmeas",
+        "elimina qualquer diferença entre as gerações",
+        "reduz a capacidade de adaptação da espécie"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CNT204",
+      "enunciado": "Os vírus não conseguem se multiplicar sozinhos. Em que condição um vírus consegue se reproduzir?",
+      "alternativas": [
+        "quando está no solo úmido",
+        "quando está na água parada",
+        "quando está dentro de uma célula hospedeira",
+        "quando está suspenso no ar",
+        "quando está sobre uma superfície limpa"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CNT203",
+      "enunciado": "Numa refeição equilibrada, é importante incluir alimentos ricos em proteínas. Qual dos alimentos a seguir é uma boa fonte de proteína?",
+      "alternativas": [
+        "o arroz",
+        "a batata",
+        "o açúcar",
+        "o feijão",
+        "o óleo"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CNT206",
+      "enunciado": "Uma espécie classificada como ameaçada de extinção está em que situação?",
+      "alternativas": [
+        "já desapareceu completamente da natureza",
+        "tem população crescendo rapidamente",
+        "foi domesticada pelo ser humano",
+        "recebeu uma nova classificação científica",
+        "corre risco de desaparecer da natureza"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "materia": "Matemática",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13MAT101",
+      "enunciado": "Uma loja anuncia que vai doar 20% do valor arrecadado num dia para uma escola do bairro. Naquele dia, a loja arrecadou R$ 350,00. Quanto será doado à escola?",
+      "alternativas": [
+        "R$ 70,00",
+        "R$ 35,00",
+        "R$ 7,00",
+        "R$ 175,00",
+        "R$ 65,00"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13MAT102",
+      "enunciado": "Em quatro partidas, um time marcou 4, 6, 8 e 10 gols. Qual foi a média de gols por partida?",
+      "alternativas": [
+        "6 gols",
+        "7 gols",
+        "8 gols",
+        "9 gols",
+        "28 gols"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13MAT301",
+      "enunciado": "Uma horta retangular tem 5 metros de comprimento e 3 metros de largura. Quantos metros de cerca são necessários para contorná-la inteira?",
+      "alternativas": [
+        "8 metros",
+        "15 metros",
+        "16 metros",
+        "30 metros",
+        "12 metros"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13MAT103",
+      "enunciado": "Uma turma tem 60 alunos, e 3/4 deles já entregaram o trabalho. Quantos alunos entregaram o trabalho?",
+      "alternativas": [
+        "15 alunos",
+        "20 alunos",
+        "40 alunos",
+        "45 alunos",
+        "50 alunos"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13MAT302",
+      "enunciado": "Pedro tinha algumas figurinhas e ganhou mais 7, ficando com 19 no total. Quantas figurinhas ele tinha antes?",
+      "alternativas": [
+        "26 figurinhas",
+        "7 figurinhas",
+        "19 figurinhas",
+        "13 figurinhas",
+        "12 figurinhas"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13MAT303",
+      "enunciado": "Um piso quadrado tem 9 metros de lado. Qual é a área desse piso, em metros quadrados?",
+      "alternativas": [
+        "81 m²",
+        "36 m²",
+        "18 m²",
+        "90 m²",
+        "72 m²"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13MAT104",
+      "enunciado": "Três canetas iguais custam R$ 12,00. Mantido o mesmo preço por caneta, quanto custam sete dessas canetas?",
+      "alternativas": [
+        "R$ 21,00",
+        "R$ 28,00",
+        "R$ 24,00",
+        "R$ 36,00",
+        "R$ 32,00"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13MAT311",
+      "enunciado": "Um dado comum, de seis faces numeradas de 1 a 6, é lançado uma vez. Qual é a probabilidade de sair um número par?",
+      "alternativas": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3",
+        "1/4"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13MAT203",
+      "enunciado": "Uma pessoa aplicou R$ 1.000,00 a juros simples de 2% ao mês. Quanto ela terá recebido de juros ao final de 5 meses?",
+      "alternativas": [
+        "R$ 20,00",
+        "R$ 50,00",
+        "R$ 200,00",
+        "R$ 100,00",
+        "R$ 120,00"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13MAT101",
+      "enunciado": "Um produto que custava R$ 80,00 recebeu desconto de 25%. Qual passou a ser o preço do produto?",
+      "alternativas": [
+        "R$ 55,00",
+        "R$ 20,00",
+        "R$ 75,00",
+        "R$ 65,00",
+        "R$ 60,00"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13MAT105",
+      "enunciado": "Dois ônibus saem do mesmo ponto: um a cada 4 minutos e outro a cada 6 minutos. Se saírem juntos agora, em quantos minutos voltarão a sair juntos?",
+      "alternativas": [
+        "12 minutos",
+        "24 minutos",
+        "10 minutos",
+        "6 minutos",
+        "8 minutos"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13MAT305",
+      "enunciado": "Uma bactéria se divide em duas a cada hora. Começando com uma bactéria, quantas existirão depois de 5 horas? Isso corresponde a calcular 2 elevado a 5.",
+      "alternativas": [
+        "10",
+        "32",
+        "25",
+        "16",
+        "64"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13MAT201",
+      "enunciado": "Num mapa de escala 1:100, cada centímetro no papel corresponde a 100 centímetros reais. Um muro aparece no mapa com 3 centímetros. Qual é o comprimento real do muro?",
+      "alternativas": [
+        "30 centímetros",
+        "1 metro",
+        "3 metros",
+        "30 metros",
+        "300 metros"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13MAT104",
+      "enunciado": "Um ônibus percorreu 240 quilômetros em 3 horas, sempre na mesma velocidade. Qual foi a velocidade média da viagem?",
+      "alternativas": [
+        "40 km/h",
+        "60 km/h",
+        "720 km/h",
+        "80 km/h",
+        "120 km/h"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13MAT401",
+      "enunciado": "Uma corrida de táxi custa R$ 3,00 fixos mais R$ 2,00 por quilômetro rodado. Quanto custa uma corrida de 4 quilômetros?",
+      "alternativas": [
+        "R$ 8,00",
+        "R$ 9,00",
+        "R$ 14,00",
+        "R$ 24,00",
+        "R$ 11,00"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13MAT202",
+      "enunciado": "Uma garrafa tem 1,5 litro de suco. A quantos mililitros isso corresponde, sabendo que 1 litro tem 1.000 mililitros?",
+      "alternativas": [
+        "1.500 mL",
+        "150 mL",
+        "15 mL",
+        "15.000 mL",
+        "105 mL"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13MAT101",
+      "enunciado": "Numa turma de 40 alunos, 25% faltaram na segunda-feira. Quantos alunos estiveram presentes nesse dia?",
+      "alternativas": [
+        "10 alunos",
+        "30 alunos",
+        "15 alunos",
+        "35 alunos",
+        "25 alunos"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13MAT309",
+      "enunciado": "Uma escada está apoiada formando um triângulo retângulo com a parede e o chão. O lado junto à parede mede 4 metros e o lado no chão mede 3 metros. Quanto mede a escada?",
+      "alternativas": [
+        "3 metros",
+        "4 metros",
+        "5 metros",
+        "7 metros",
+        "12 metros"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13MAT104",
+      "enunciado": "Duas pessoas vão dividir R$ 30,00 na razão de 2 para 3. Quanto recebe quem fica com a menor parte?",
+      "alternativas": [
+        "R$ 10,00",
+        "R$ 15,00",
+        "R$ 6,00",
+        "R$ 12,00",
+        "R$ 18,00"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13MAT103",
+      "enunciado": "Numa promoção, a etiqueta indica que o desconto é de 0,25 do valor do produto. Que fração corresponde a esse número decimal?",
+      "alternativas": [
+        "1/2",
+        "2/5",
+        "1/5",
+        "25/10",
+        "1/4"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

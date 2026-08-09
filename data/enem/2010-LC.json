@@ -49,7 +49,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/91?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -104,7 +105,8 @@
       "idioma": "ingles",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/91?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -157,7 +159,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/92?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -210,7 +213,8 @@
       "idioma": "ingles",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/92?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -263,7 +267,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/93?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -316,7 +321,8 @@
       "idioma": "ingles",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/93?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -369,7 +375,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/94?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -424,7 +431,8 @@
       "idioma": "ingles",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/94?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -479,7 +487,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/95?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -534,7 +543,8 @@
       "idioma": "ingles",
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/95?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -589,7 +599,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/96",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -642,7 +653,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/97",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -695,7 +707,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/98",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -748,7 +761,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/99",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -801,7 +815,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/100",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -856,7 +871,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/101",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -909,7 +925,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/102",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -962,7 +979,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/103",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1015,7 +1033,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/104",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1070,7 +1089,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/105",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1123,7 +1143,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/106",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1176,7 +1197,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/107",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1232,7 +1254,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/108",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1285,7 +1308,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/109",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1340,7 +1364,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/110",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1395,7 +1420,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/111",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1448,7 +1474,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/113",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1501,7 +1528,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/115",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1556,7 +1584,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/116",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1609,7 +1638,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/118",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1662,7 +1692,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/119",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1717,7 +1748,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/120",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1770,7 +1802,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/121",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1825,7 +1858,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/122",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1878,7 +1912,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/123",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1931,7 +1966,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/124",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1984,7 +2020,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/125",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2037,7 +2074,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/126",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2090,7 +2128,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/127",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2143,7 +2182,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/129",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2196,7 +2236,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/130",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2249,7 +2290,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/131",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2304,7 +2346,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/132",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2357,7 +2400,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/133",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2410,7 +2454,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/134",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2463,7 +2508,8 @@
       "idioma": null,
       "provaMicrodados": "95",
       "questaoApi": "https://api.enem.dev/v1/exams/2010/questions/135",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2010.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   }
 ]

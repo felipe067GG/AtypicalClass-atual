@@ -49,7 +49,8 @@
       "numero": 91,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/91",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -100,7 +101,8 @@
       "numero": 92,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/92",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -151,7 +153,8 @@
       "numero": 93,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/93",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -204,7 +207,8 @@
       "numero": 94,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/94",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -255,7 +259,8 @@
       "numero": 95,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/95",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -306,7 +311,8 @@
       "numero": 96,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/96",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -357,7 +363,8 @@
       "numero": 97,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/97",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -408,7 +415,8 @@
       "numero": 98,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/98",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -461,7 +469,8 @@
       "numero": 99,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/99",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -514,7 +523,8 @@
       "numero": 100,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/100",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -567,7 +577,8 @@
       "numero": 101,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/101",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -620,7 +631,8 @@
       "numero": 102,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/102",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -671,7 +683,8 @@
       "numero": 103,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/103",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -722,7 +735,8 @@
       "numero": 104,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/104",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -773,7 +787,8 @@
       "numero": 105,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/105",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -829,7 +844,8 @@
       "numero": 106,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/106",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -882,7 +898,8 @@
       "numero": 107,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/107",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -933,7 +950,8 @@
       "numero": 108,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/108",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -984,7 +1002,8 @@
       "numero": 109,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/109",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1035,7 +1054,8 @@
       "numero": 110,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/110",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1086,7 +1106,8 @@
       "numero": 111,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/111",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1137,7 +1158,8 @@
       "numero": 113,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/113",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1188,7 +1210,8 @@
       "numero": 114,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/114",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1239,7 +1262,8 @@
       "numero": 115,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/115",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1292,7 +1316,8 @@
       "numero": 116,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/116",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1343,7 +1368,8 @@
       "numero": 117,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/117",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1396,7 +1422,8 @@
       "numero": 119,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/119",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1447,7 +1474,8 @@
       "numero": 120,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/120",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1500,7 +1528,8 @@
       "numero": 121,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/121",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1553,7 +1582,8 @@
       "numero": 122,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/122",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1606,7 +1636,8 @@
       "numero": 123,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/123",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1659,7 +1690,8 @@
       "numero": 125,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/125",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1710,7 +1742,8 @@
       "numero": 126,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/126",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1761,7 +1794,8 @@
       "numero": 127,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/127",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1812,7 +1846,8 @@
       "numero": 128,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/128",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1865,7 +1900,8 @@
       "numero": 129,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/129",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1918,7 +1954,8 @@
       "numero": 130,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/130",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1969,7 +2006,8 @@
       "numero": 132,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/132",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2020,7 +2058,8 @@
       "numero": 133,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/133",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2073,7 +2112,8 @@
       "numero": 134,
       "provaMicrodados": "597",
       "questaoApi": "https://api.enem.dev/v1/exams/2020/questions/134",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2020.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   }
 ]

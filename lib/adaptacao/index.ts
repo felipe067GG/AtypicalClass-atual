@@ -1,6 +1,13 @@
 import { SPECIALTIES } from "@/lib/specialties"
 import type { GuiaDeAdaptacao } from "./tipos"
 import { matematicaDiscalculia } from "./matematica-discalculia"
+import { BARREIRAS } from "./barreiras"
+import { MATRIZ, coberturaDaMatriz } from "./matriz"
+
+export { BARREIRAS, barreiraDe } from "./barreiras"
+export type { Barreira, BarreiraId } from "./barreiras"
+export { MATRIZ, celulasDe, coberturaDaMatriz } from "./matriz"
+export type { CelulaDaMatriz } from "./matriz"
 
 /**
  * Registro dos guias de adaptação.
@@ -37,6 +44,14 @@ export function guiaDe(materia: string, especialidade: string): GuiaDeAdaptacao 
 export function cobertura() {
   const total = MATERIAS.length * SPECIALTIES.length
   return { escritos: GUIAS.length, total, faltam: total - GUIAS.length }
+}
+
+/** Quantas células da matriz barreira × especialidade estão escritas. */
+export function coberturaDasBarreiras() {
+  return coberturaDaMatriz(
+    SPECIALTIES.map((s) => s.slug),
+    BARREIRAS.map((b) => b.id),
+  )
 }
 
 /**
@@ -76,6 +91,41 @@ export function conferirGuias(): string[] {
     for (const estrategia of guia.estrategias) {
       if (!estrategia.citations?.length) problemas.push(`${onde}: estratégia sem fonte`)
     }
+  }
+
+  return problemas
+}
+
+/**
+ * Confere a matriz barreira × especialidade.
+ *
+ * Mesma lógica de `conferirGuias()`, e pelo mesmo motivo: o tipo obriga
+ * `citations` a existir, mas um array vazio compila. A diferença é que aqui há
+ * quarenta células e elas serão dezenas mais — quanto mais entradas, mais
+ * provável que a primeira sem fonte entre por distração, não por decisão.
+ *
+ * Também confere que barreira e especialidade existem. Uma célula apontando
+ * para "comando-negativo", barreira que foi medida e descartada, nunca
+ * apareceria para o professor: o detector não emite esse id, então a célula
+ * ficaria órfã sem que nada quebrasse.
+ */
+export function conferirMatriz(): string[] {
+  const problemas: string[] = []
+  const slugs = new Set(SPECIALTIES.map((s) => s.slug))
+  const ids = new Set<string>(BARREIRAS.map((b) => b.id))
+  const vistos = new Set<string>()
+
+  for (const celula of MATRIZ) {
+    const onde = `${celula.barreira} × ${celula.especialidade}`
+
+    if (!ids.has(celula.barreira)) problemas.push(`${onde}: barreira não existe em BARREIRAS`)
+    if (!slugs.has(celula.especialidade)) problemas.push(`${onde}: especialidade não existe em SPECIALTIES`)
+
+    const chave = `${celula.barreira}|${celula.especialidade}`
+    if (vistos.has(chave)) problemas.push(`${onde}: célula duplicada`)
+    vistos.add(chave)
+
+    if (!celula.citations?.length) problemas.push(`${onde}: célula sem fonte`)
   }
 
   return problemas

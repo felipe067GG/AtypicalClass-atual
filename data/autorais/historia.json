@@ -1,0 +1,275 @@
+{
+  "materia": "História",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13CHS101",
+      "enunciado": "O Brasil deixou de ser um império e passou a ser uma república por meio de um golpe militar liderado pelo marechal Deodoro da Fonseca. Em que ano isso aconteceu?",
+      "alternativas": [
+        "1889",
+        "1822",
+        "1500",
+        "1930",
+        "1964"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13CHS101",
+      "enunciado": "Dom Pedro I declarou a independência do Brasil em relação a Portugal às margens do rio Ipiranga. Em que ano ocorreu esse episódio?",
+      "alternativas": [
+        "1889",
+        "1822",
+        "1808",
+        "1500",
+        "1891"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13CHS102",
+      "enunciado": "A Lei Áurea aboliu oficialmente a escravidão no Brasil, que foi o último país das Américas a tomar essa medida. Em que ano ela foi assinada?",
+      "alternativas": [
+        "1822",
+        "1889",
+        "1888",
+        "1850",
+        "1871"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13CHS101",
+      "enunciado": "Em abril de 1500, uma esquadra portuguesa chegou ao litoral do que hoje é a Bahia. Quem comandava essa esquadra?",
+      "alternativas": [
+        "Cristóvão Colombo",
+        "Américo Vespúcio",
+        "Fernão de Magalhães",
+        "Pedro Álvares Cabral",
+        "Dom João VI"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13CHS103",
+      "enunciado": "A Segunda Guerra Mundial envolveu dezenas de países e terminou com a rendição da Alemanha e do Japão. Em que ano ela terminou?",
+      "alternativas": [
+        "1918",
+        "1939",
+        "1929",
+        "1950",
+        "1945"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13CHS104",
+      "enunciado": "A Revolução Francesa de 1789 difundiu pelo mundo um lema de três palavras que resumia seus ideais. Que lema era esse?",
+      "alternativas": [
+        "liberdade, igualdade e fraternidade",
+        "ordem, disciplina e obediência",
+        "fé, tradição e monarquia",
+        "terra, trabalho e herança",
+        "honra, glória e conquista"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13CHS105",
+      "enunciado": "Um golpe militar depôs o presidente João Goulart e deu início a um período de vinte e um anos de ditadura no Brasil. Em que ano começou esse período?",
+      "alternativas": [
+        "1930",
+        "1964",
+        "1985",
+        "1988",
+        "1945"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13CHS102",
+      "enunciado": "Durante o século XIX, a economia brasileira girou em torno das grandes fazendas de café do Sudeste. Que tipo de mão de obra sustentou essa produção?",
+      "alternativas": [
+        "apenas o trabalho assalariado urbano",
+        "somente o trabalho familiar dos proprietários",
+        "o trabalho escravizado e, depois, o de imigrantes",
+        "exclusivamente o trabalho indígena aldeado",
+        "apenas o trabalho voluntário de religiosos"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13CHS106",
+      "enunciado": "Após o fim da ditadura militar, o Brasil promulgou uma nova Constituição, conhecida como Constituição Cidadã. De que ano ela é?",
+      "alternativas": [
+        "1964",
+        "1985",
+        "1946",
+        "1988",
+        "1994"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13CHS103",
+      "enunciado": "O Império Romano dominou boa parte da Europa e do Mediterrâneo, e sua língua deu origem ao português. Que língua era essa?",
+      "alternativas": [
+        "o grego",
+        "o árabe",
+        "o germânico",
+        "o hebraico",
+        "o latim"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13CHS102",
+      "enunciado": "O Quilombo dos Palmares resistiu por quase um século no interior de Alagoas. Qual foi o seu líder mais conhecido, morto em 1695?",
+      "alternativas": [
+        "Zumbi",
+        "Tiradentes",
+        "Chico Rei",
+        "Luís Gama",
+        "André Rebouças"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13CHS103",
+      "enunciado": "No feudalismo europeu, o senhor feudal cedia o uso da terra em troca de trabalho e parte da produção. Como era chamado quem trabalhava nessa terra?",
+      "alternativas": [
+        "o burguês",
+        "o servo",
+        "o escravo romano",
+        "o assalariado",
+        "o mercador"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13CHS105",
+      "enunciado": "Getúlio Vargas governou o Brasil de 1937 a 1945 sob um regime autoritário, sem eleições e com censura à imprensa. Como ficou conhecido esse período?",
+      "alternativas": [
+        "República Velha",
+        "Regência",
+        "Estado Novo",
+        "República da Espada",
+        "Segundo Reinado"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13CHS103",
+      "enunciado": "A Primeira Guerra Mundial dividiu a Europa em dois blocos e durou quatro anos. Em que período ela ocorreu?",
+      "alternativas": [
+        "de 1889 a 1893",
+        "de 1929 a 1933",
+        "de 1939 a 1945",
+        "de 1914 a 1918",
+        "de 1900 a 1904"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13CHS101",
+      "enunciado": "Antes da chegada dos portugueses em 1500, o território que hoje é o Brasil já era habitado por milhões de pessoas. Quem eram esses habitantes?",
+      "alternativas": [
+        "os africanos escravizados",
+        "os colonos espanhóis",
+        "os imigrantes europeus",
+        "os comerciantes árabes",
+        "os povos indígenas"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13CHS104",
+      "enunciado": "A Revolução Industrial transformou a produção com a introdução das máquinas e das fábricas, a partir do século XVIII. Em que país ela começou?",
+      "alternativas": [
+        "na Inglaterra",
+        "na França",
+        "na Alemanha",
+        "nos Estados Unidos",
+        "em Portugal"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13CHS103",
+      "enunciado": "A queda do Muro de Berlim marcou simbolicamente o fim da divisão da Europa entre blocos capitalista e socialista. Em que ano o muro caiu?",
+      "alternativas": [
+        "1961",
+        "1989",
+        "1945",
+        "1991",
+        "1975"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13CHS102",
+      "enunciado": "Entre os séculos XVI e XIX, milhões de pessoas foram sequestradas na África e levadas à força para as Américas. Como esse processo ficou conhecido?",
+      "alternativas": [
+        "a migração voluntária transatlântica",
+        "o intercâmbio comercial entre continentes",
+        "o tráfico transatlântico de pessoas escravizadas",
+        "a expedição científica pelo Atlântico Sul",
+        "a colonização pacífica do litoral africano"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13CHS106",
+      "enunciado": "Em 1984, comícios reuniram multidões nas ruas das grandes cidades brasileiras pedindo uma mudança nas regras eleitorais. O que o movimento Diretas Já reivindicava?",
+      "alternativas": [
+        "o fim imediato do Congresso Nacional",
+        "a volta da monarquia como forma de governo",
+        "a criação de um novo partido único",
+        "eleições diretas para presidente da República",
+        "a redução da idade mínima para votar"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13CHS104",
+      "enunciado": "Na Atenas do século V a.C., os cidadãos se reuniam em praça pública para decidir os rumos da cidade. Que forma de governo nasceu ali?",
+      "alternativas": [
+        "a monarquia",
+        "a teocracia",
+        "o feudalismo",
+        "a oligarquia militar",
+        "a democracia"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

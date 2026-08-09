@@ -15,6 +15,7 @@ import { readdir, readFile } from "node:fs/promises"
 import { join } from "node:path"
 
 import { MATERIAS_POR_AREA } from "./materia.mjs"
+import { VALIDACAO_ENEM, VALIDACAO_VESTIBULAR } from "./validacao.mjs"
 
 const PASTA = join(process.cwd(), "data", "enem")
 const LETRAS = ["A", "B", "C", "D", "E"]
@@ -95,6 +96,14 @@ for (const arquivo of arquivos) {
     // "![](https://...)" no meio da frase.
     if (/!\[[^\]]*\]\(/.test(q.enunciado ?? "")) problemas.push(`${onde}: markdown de imagem no enunciado`)
 
+    // O outro resíduo do mesmo markdown: `![](url "legenda")` deixava a legenda
+    // colada na URL. Uma só passou, em 2010 q168, e ficou invisível por meses
+    // porque o endereço quebrado só falha quando alguém tenta buscar a imagem —
+    // na tela, uma figura que não carrega parece problema de rede.
+    for (const imagem of [...(q.imagens ?? []), ...(q.alternativas ?? []).map((a) => a.imagem)]) {
+      if (imagem && /[\s"]/.test(imagem)) problemas.push(`${onde}: URL de imagem malformada (${imagem.slice(0, 60)})`)
+    }
+
     if (q.materia && !(MATERIAS_POR_AREA[area] ?? []).includes(q.materia)) {
       problemas.push(`${onde}: matéria "${q.materia}" não pertence a ${area}`)
     }
@@ -103,6 +112,14 @@ for (const arquivo of arquivos) {
       problemas.push(`${onde}: procedência incompleta`)
     }
     if (q.fonte?.ano !== Number(ano)) problemas.push(`${onde}: ano da fonte (${q.fonte?.ano}) diverge do arquivo`)
+
+    // O nível de garantia é declarado nos dois acervos, e não só no de
+    // vestibular. Enquanto só um declarava, uma questão sem declaração podia ser
+    // tanto uma do ENEM — conferida contra duas fontes — quanto um descuido, e
+    // as duas ficavam iguais na leitura. Ver `declarar-validacao.mjs`.
+    if (q.fonte?.validacao !== VALIDACAO_ENEM) {
+      problemas.push(`${onde}: nível de validação não declarado`)
+    }
   }
 }
 
@@ -159,7 +176,7 @@ try {
       if (!letras.includes(q.resposta)) problemas.push(`${onde}: resposta ${q.resposta} sem alternativa`)
       if (!q.enunciado) problemas.push(`${onde}: enunciado vazio`)
       if (!q.materia) problemas.push(`${onde}: sem matéria`)
-      if (q.fonte?.validacao !== "fonte única (BLUEX)") {
+      if (q.fonte?.validacao !== VALIDACAO_VESTIBULAR) {
         problemas.push(`${onde}: nível de validação não declarado`)
       }
     }

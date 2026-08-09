@@ -1,0 +1,275 @@
+{
+  "materia": "Inglês",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13LGG701",
+      "enunciado": "Ao encontrar alguém pela primeira vez, uma pessoa diz: \"Hello! My name is Ana.\" Qual é a intenção dessa fala?",
+      "alternativas": [
+        "apresentar-se a alguém",
+        "pedir uma informação",
+        "recusar um convite",
+        "encerrar uma conversa",
+        "pedir desculpas"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13LGG702",
+      "enunciado": "Qual é a forma plural da palavra \"child\" em inglês?",
+      "alternativas": [
+        "childs",
+        "children",
+        "childes",
+        "childrens",
+        "childies"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13LGG702",
+      "enunciado": "Qual forma verbal completa corretamente a frase \"She ___ to school every day\"?",
+      "alternativas": [
+        "go",
+        "going",
+        "goes",
+        "gone",
+        "went"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13LGG703",
+      "enunciado": "Na frase \"I forgot my book at home\", o que significa a palavra \"book\"?",
+      "alternativas": [
+        "mochila",
+        "caderno",
+        "caneta",
+        "livro",
+        "borracha"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13LGG702",
+      "enunciado": "Qual é a forma de passado do verbo \"go\" em inglês?",
+      "alternativas": [
+        "goed",
+        "gone",
+        "goes",
+        "going",
+        "went"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13LGG701",
+      "enunciado": "Em que momento do dia se usa a saudação \"Good morning\"?",
+      "alternativas": [
+        "pela manhã",
+        "à tarde",
+        "à noite",
+        "na madrugada",
+        "ao anoitecer"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13LGG701",
+      "enunciado": "Uma pessoa pergunta: \"How old are you?\". O que ela quer saber?",
+      "alternativas": [
+        "o nome do interlocutor",
+        "a idade do interlocutor",
+        "o endereço do interlocutor",
+        "a profissão do interlocutor",
+        "a nacionalidade do interlocutor"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13LGG702",
+      "enunciado": "Na frase \"They are happy today\", a palavra \"are\" é uma forma de que verbo?",
+      "alternativas": [
+        "to have",
+        "to do",
+        "to be",
+        "to go",
+        "to make"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13LGG703",
+      "enunciado": "O que significa a frase \"I don't like coffee\"?",
+      "alternativas": [
+        "eu adoro café",
+        "eu quero café",
+        "eu bebo café todo dia",
+        "eu não gosto de café",
+        "eu preciso de café"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13LGG702",
+      "enunciado": "Qual é o oposto do adjetivo \"big\" em inglês?",
+      "alternativas": [
+        "tall",
+        "huge",
+        "large",
+        "wide",
+        "small"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13LGG701",
+      "enunciado": "Uma pessoa pergunta: \"Where do you live?\". O que ela quer saber?",
+      "alternativas": [
+        "onde o interlocutor mora",
+        "quando o interlocutor nasceu",
+        "por que o interlocutor viajou",
+        "com quem o interlocutor trabalha",
+        "quanto o interlocutor pagou"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13LGG702",
+      "enunciado": "Na frase \"I can swim very well\", o que o verbo \"can\" expressa?",
+      "alternativas": [
+        "obrigação",
+        "capacidade",
+        "proibição",
+        "arrependimento",
+        "dúvida absoluta"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13LGG702",
+      "enunciado": "A que tempo se refere a palavra \"yesterday\" numa frase em inglês?",
+      "alternativas": [
+        "ao futuro próximo",
+        "ao momento atual",
+        "ao passado",
+        "a uma ação habitual",
+        "a um tempo indefinido"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13LGG703",
+      "enunciado": "Na frase \"My teacher is very patient\", o que significa a palavra \"teacher\"?",
+      "alternativas": [
+        "aluno",
+        "diretor",
+        "colega",
+        "professor",
+        "porteiro"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13LGG702",
+      "enunciado": "A expressão \"There is\" é usada para indicar a existência de quê?",
+      "alternativas": [
+        "de dois ou mais elementos",
+        "de uma ação já concluída",
+        "de uma ação futura marcada",
+        "de uma condição impossível",
+        "de um único elemento"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13LGG701",
+      "enunciado": "Alguém agradece dizendo \"Thank you\". Qual é a resposta mais comum em inglês?",
+      "alternativas": [
+        "You're welcome",
+        "See you later",
+        "How are you",
+        "Excuse me",
+        "Good night"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13LGG702",
+      "enunciado": "A forma \"reading\", usada em \"I am reading a book\", vem de qual verbo?",
+      "alternativas": [
+        "to write",
+        "to read",
+        "to ride",
+        "to run",
+        "to reach"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13LGG702",
+      "enunciado": "Na frase \"He is taller than me\", que tipo de construção está sendo usada?",
+      "alternativas": [
+        "uma pergunta indireta",
+        "uma negação enfática",
+        "uma comparação entre dois elementos",
+        "uma ordem no imperativo",
+        "uma condição hipotética"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13LGG701",
+      "enunciado": "Uma pessoa pergunta: \"What time is it?\". O que ela quer saber?",
+      "alternativas": [
+        "o dia da semana",
+        "o local do encontro",
+        "o preço do bilhete",
+        "as horas",
+        "o nome do lugar"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13LGG703",
+      "enunciado": "Na frase \"I never drink soda\", o que significa a palavra \"never\"?",
+      "alternativas": [
+        "sempre",
+        "às vezes",
+        "quase sempre",
+        "raramente",
+        "nunca"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

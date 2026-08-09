@@ -47,7 +47,8 @@
       "numero": 91,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/91",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -99,7 +100,8 @@
       "numero": 92,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/92",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -151,7 +153,8 @@
       "numero": 93,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/93",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -205,7 +208,8 @@
       "numero": 94,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/94",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -257,7 +261,8 @@
       "numero": 95,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/95",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -309,7 +314,8 @@
       "numero": 96,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/96",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -361,7 +367,8 @@
       "numero": 97,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/97",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -413,7 +420,8 @@
       "numero": 98,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/98",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -465,7 +473,8 @@
       "numero": 99,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/99",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -519,7 +528,8 @@
       "numero": 100,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/100",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -571,7 +581,8 @@
       "numero": 101,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/101",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -623,7 +634,8 @@
       "numero": 102,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/102",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -675,7 +687,8 @@
       "numero": 103,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/103",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -727,7 +740,8 @@
       "numero": 104,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/104",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -779,7 +793,8 @@
       "numero": 105,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/105",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -831,7 +846,8 @@
       "numero": 106,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/106",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -883,7 +899,8 @@
       "numero": 107,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/107",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -935,7 +952,8 @@
       "numero": 108,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/108",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -989,7 +1007,8 @@
       "numero": 109,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/109",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição das figuras: Duas figuras ilustram os aparelhos do tipo 1 e do tipo 2. Aparelho do tipo 1: um corpo de massa M1 está suspenso por uma extremidade de um cabo de aço vertical que passa por uma polia fixa no teto do aparelho. O cabo segue horizontalmente para outra polia fixa na lateral externa do aparelho. A partir dali, o cabo desce verticalmente passando por uma polia fixa à base do aparelho, e sobe verticalmente puxado por uma força F para cima. Aparelho do tipo 2: um cabo de aço preso ao teto do aparelho desce e contorna uma polia móvel que está presa a um corpo de massa M2. O cabo segue verticalmente para cima e passa por uma polia fixa no teto do aparelho. O cabo segue horizontalmente para outra polia fixa na lateral externa do aparelho. A partir dali, o cabo desce verticalmente passando por uma polia fixa à base do aparelho, e sobe verticalmente puxado por uma força F para cima."
@@ -1046,7 +1065,8 @@
       "numero": 110,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/110",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1100,7 +1120,8 @@
       "numero": 111,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/111",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da tirinha: Cebolinha e Cascão brincam, a uma certa distância um do outro, com duas latas conectadas por um barbante esticado. Cebolinha segura uma lata de conservas, e Cascão, uma lata de lixo. Eles utilizam esse dispositivo para ouvir a voz um do outro."
@@ -1154,7 +1175,8 @@
       "numero": 112,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/112",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1206,7 +1228,8 @@
       "numero": 113,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/113",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1260,7 +1283,8 @@
       "numero": 114,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/114",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da figura: Um caminhão com velocidade na horizontal para a direita (representada pelo vetor V). Na superfície central da sua carroceria encontra-se apoiada uma caixa M. A caixa está presa à parte traseira da carroceria pela corda horizontal 1 e, à parte dianteira, pela corda horizontal 2."
@@ -1314,7 +1338,8 @@
       "numero": 115,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/115",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1368,7 +1393,8 @@
       "numero": 116,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/116",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da figura: Gás nitrogênio é convertido em amônia por microrganismos do grupo 1. Detritos são convertidos em amônia por microrganismos do grupo 2. Amônia é convertida em nitrito por microrganismos do grupo 3. Nitrito é convertido em nitrato por microrganismos do grupo 4. Nitrato é convertido em gás nitrogênio por microrganismos do grupo 5."
@@ -1422,7 +1448,8 @@
       "numero": 117,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/117",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1476,7 +1503,8 @@
       "numero": 118,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/118",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1530,7 +1558,8 @@
       "numero": 119,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/119",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1584,7 +1613,8 @@
       "numero": 120,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/120",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da figura: Uma fonte de energia ligada a três conjuntos, dispostos em série no sentido horário, na seguinte sequência: o conjunto em paralelo de L1 e R, o conjunto em paralelo de L2 e R, e o conjunto em paralelo de L3 e R."
@@ -1641,7 +1671,8 @@
       "numero": 121,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/121",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da figura: No solo com biocarvão, ao grupo orgânico do tipo carboxilato é adicionado M de carga n positiva, formando no solo fertilizado o grupo orgânico com ligação simples COO de carga negativa que interage com M de carga n positiva."
@@ -1695,7 +1726,8 @@
       "numero": 122,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/122",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1750,7 +1782,8 @@
       "numero": 123,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/123",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1802,7 +1835,8 @@
       "numero": 124,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/124",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1854,7 +1888,8 @@
       "numero": 125,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/125",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1908,7 +1943,8 @@
       "numero": 126,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/126",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da equação química: O reagente R3N mais HCl formam o produto R3NH de carga positiva e Cl de carga negativa."
@@ -1964,7 +2000,8 @@
       "numero": 127,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/127",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição do esquema: Seis reações acopladas da cadeia respiratória, na seguinte sequência: Primeira reação: Substrato proveniente do nutriente gera CO2, enquanto NAD de carga positiva gera NADH. Segunda reação: NADH gera NAD de carga positiva, enquanto o transportador 1 passa da forma oxidada para a forma reduzida; Terceira reação: O transportador 1 passa da forma reduzida para a oxidada, enquanto o transportador 2 passa da oxidada para a reduzida; Quarta reação: O transportador 2 passa da forma reduzida para a oxidada, enquanto o transportador 3 passa da oxidada para a reduzida; Quinta reação: O transportador 3 passa da forma reduzida para a oxidada, enquanto o Fe de carga 3 positiva da citocromo c oxidase é convertido a Fe de carga 2 positiva. Sexta reação: Finalmente, acoplado à conversão de Fe de carga 2 positiva em Fe de carga 3 positiva, ocorre a produção de H2O a partir de O2."
@@ -2018,7 +2055,8 @@
       "numero": 128,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/128",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2072,7 +2110,8 @@
       "numero": 129,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/129",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da ilustração: Estrutura química da molécula de Aldrin. Essa ilustração não foi descrita, pois suas informações não foram solicitadas para a resolução da questão."
@@ -2126,7 +2165,8 @@
       "numero": 130,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/130",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2178,7 +2218,8 @@
       "numero": 131,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/131",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2232,7 +2273,8 @@
       "numero": 133,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/133",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da estrutura química: Estrutura do tensoativo não biodegradável, que tem como cadeia principal o grupo benzenossulfonato de sódio (anel aromático ligado a SO3 de carga negativa, que interage com o cátion Na de carga positiva). Ao anel aromático desse grupo encontra-se ligada uma ramificação com uma cadeia carbônica de sete átomos de carbono que contém, em seis deles, ramificações com grupos CH3."
@@ -2286,7 +2328,8 @@
       "numero": 134,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/134",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2340,7 +2383,8 @@
       "numero": 135,
       "provaMicrodados": "1221",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/135",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição do esquema: O esquema apresenta um corte transversal da crosta terrestre em que se tem, de cima para baixo, uma camada de rocha, uma camada de líquido e outra camada de rocha. A espessura da camada de líquido é de 450 metros. Na parte superior da crosta terrestre, tem-se a representação de um emissor e detector de pulsos."

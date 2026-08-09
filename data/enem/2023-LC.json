@@ -51,7 +51,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/1?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -105,7 +106,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/2?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -159,7 +161,8 @@
       "idioma": "ingles",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/2?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -213,7 +216,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/3?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -267,7 +271,8 @@
       "idioma": "ingles",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/3?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -321,7 +326,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/4?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -375,7 +381,8 @@
       "idioma": "ingles",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/4?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -429,7 +436,8 @@
       "idioma": "espanhol",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/5?language=espanhol",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -485,7 +493,8 @@
       "idioma": "ingles",
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/5?language=ingles",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição do cartum: Em um escritório, dois homens circulam segurando papéis e pastas, outros conversam em pares, e um está trabalhando em um computador. Todos têm as mesmas feições e características físicas e usam ternos, gravatas e sapatos iguais. Abaixo da imagem, o texto: “Oh, you’ll love working here. Nobody treats you any differently just because of your age, race, or gender”."
@@ -541,7 +550,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/6",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -595,7 +605,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/7",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -649,7 +660,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/8",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -703,7 +715,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/9",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -757,7 +770,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/10",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -811,7 +825,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/11",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -865,7 +880,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/12",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -919,7 +935,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/13",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -973,7 +990,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/14",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1027,7 +1045,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/15",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1081,7 +1100,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/16",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1135,7 +1155,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/17",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1189,7 +1210,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/18",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1243,7 +1265,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/19",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1297,7 +1320,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/20",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1351,7 +1375,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/21",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1405,7 +1430,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/22",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1459,7 +1485,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/23",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1515,7 +1542,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/24",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da peça publicitária: À esquerda da imagem, há três mulheres: uma asiática, uma negra e uma branca. Elas estão de máscaras que cobrem nariz e boca e olham para frente com expressão de confiança. Acima delas, está escrito: “Hashtag Juntas Somos Mais Fortes – Disque 180.” À direita da imagem, há o texto: “A Defensoria não para! Eu uso máscara mas não me calo! Em tempos de isolamento social por conta da pandemia de covid-19, a Defensoria Pública alerta para o aumento da violência contra a mulher! Não se cale! Denuncie!”."
@@ -1571,7 +1599,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/25",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1625,7 +1654,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/26",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1679,7 +1709,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/27",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1733,7 +1764,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/28",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1787,7 +1819,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/29",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1841,7 +1874,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/30",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1895,7 +1929,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/31",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -1949,7 +1984,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/32",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2005,7 +2041,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/33",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da pintura: Obra em óleo sobre tela intitulada Eternos caminhantes, de Lasar Segall. Cinco figuras humanas com cabeças e olhos grandes e desproporcionais ao corpo. As imagens se entrecruzam e os rostos retorcidos têm aspectos geométricos. Uma das figuras representa uma criança."
@@ -2061,7 +2098,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/35",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2115,7 +2153,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/36",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2169,7 +2208,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/37",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2223,7 +2263,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/38",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2277,7 +2318,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/39",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2331,7 +2373,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/40",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2385,7 +2428,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/41",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2439,7 +2483,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/42",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2493,7 +2538,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/43",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   },
@@ -2549,7 +2595,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/44",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": [
       "Descrição da campanha publicitária: Foto de uma mulher, com semblante satisfeito, amamentando seu bebê. Sob o título Por que é tão importante amamentar?, o seguinte texto: “O bebê recebe os anticorpos da mãe para proteção contra diversas doenças, como diarreia e infecções, principalmente respiratórias. Diminui o risco de asma, diabetes e obesidade em crianças. É um ótimo exercício para o desenvolvimento da face do bebê e para o crescimento de dentes fortes e bonitos. Desenvolve a fala e uma boa respiração”."
@@ -2605,7 +2652,8 @@
       "idioma": null,
       "provaMicrodados": "1201",
       "questaoApi": "https://api.enem.dev/v1/exams/2023/questions/45",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
     "descricoesDeFiguras": []
   }

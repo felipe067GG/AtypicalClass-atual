@@ -1,0 +1,275 @@
+{
+  "materia": "Artes",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13LGG601",
+      "enunciado": "Nas artes visuais, quais são consideradas as três cores primárias?",
+      "alternativas": [
+        "azul, vermelho e amarelo",
+        "verde, laranja e violeta",
+        "preto, branco e cinza",
+        "rosa, marrom e bege",
+        "azul, verde e amarelo"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13LGG602",
+      "enunciado": "Quem pintou o Abaporu, obra que inspirou o Movimento Antropofágico e é um dos quadros mais conhecidos do modernismo brasileiro?",
+      "alternativas": [
+        "Anita Malfatti",
+        "Tarsila do Amaral",
+        "Di Cavalcanti",
+        "Candido Portinari",
+        "Lasar Segall"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13LGG601",
+      "enunciado": "O que diferencia a escultura da pintura?",
+      "alternativas": [
+        "a escultura usa somente materiais naturais",
+        "a escultura é sempre feita ao ar livre",
+        "a escultura ocupa as três dimensões do espaço",
+        "a escultura não pode ser colorida",
+        "a escultura é sempre de tamanho reduzido"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13LGG603",
+      "enunciado": "O frevo, dança de passos rápidos executada com sombrinhas coloridas, é tradicional do carnaval de que estado?",
+      "alternativas": [
+        "da Bahia",
+        "do Rio de Janeiro",
+        "do Maranhão",
+        "de Pernambuco",
+        "do Pará"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13LGG604",
+      "enunciado": "Murais pintados com tinta spray em muros e viadutos das cidades caracterizam que forma de expressão?",
+      "alternativas": [
+        "a pintura renascentista",
+        "a gravura em metal",
+        "a escultura clássica",
+        "a tapeçaria medieval",
+        "a arte urbana"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13LGG601",
+      "enunciado": "Numa pintura, o uso da perspectiva serve para criar que efeito?",
+      "alternativas": [
+        "a sensação de profundidade no plano",
+        "o aumento do brilho das cores usadas",
+        "a repetição de um mesmo padrão",
+        "a eliminação das sombras da cena",
+        "o contorno preto ao redor das figuras"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13LGG602",
+      "enunciado": "Antônio Francisco Lisboa, o Aleijadinho, é reconhecido por seu trabalho nas igrejas de Minas Gerais. Que tipo de artista ele foi?",
+      "alternativas": [
+        "fotógrafo do século XIX",
+        "escultor e entalhador do Barroco",
+        "pintor do modernismo paulista",
+        "compositor da música colonial",
+        "arquiteto do movimento moderno paulista"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13LGG603",
+      "enunciado": "No teatro, como se chama o texto escrito para ser encenado por atores?",
+      "alternativas": [
+        "o roteiro de cinema",
+        "a partitura musical",
+        "o texto dramatúrgico",
+        "o libreto de dança",
+        "o argumento publicitário"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13LGG603",
+      "enunciado": "O samba, gênero musical reconhecido como patrimônio cultural brasileiro, tem raízes principalmente em que tradição?",
+      "alternativas": [
+        "na música erudita europeia",
+        "no canto gregoriano medieval",
+        "na ópera italiana do século XIX",
+        "nas tradições afro-brasileiras",
+        "na música indígena do Xingu"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13LGG604",
+      "enunciado": "Qual elemento é indispensável para que uma fotografia seja registrada?",
+      "alternativas": [
+        "o pincel",
+        "a argila",
+        "o cinzel",
+        "o verniz",
+        "a luz"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13LGG601",
+      "enunciado": "Na mistura de tintas, a combinação de azul com amarelo produz que cor?",
+      "alternativas": [
+        "o verde",
+        "o roxo",
+        "o laranja",
+        "o marrom",
+        "o cinza"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13LGG602",
+      "enunciado": "Candido Portinari pintou obras como Os Retirantes e Café. Que tema atravessa boa parte de sua produção?",
+      "alternativas": [
+        "as paisagens da Europa central",
+        "a vida e o trabalho do povo brasileiro",
+        "os retratos da nobreza portuguesa",
+        "as cenas mitológicas da Antiguidade clássica",
+        "as naturezas-mortas de estúdio"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13LGG603",
+      "enunciado": "Numa roda de samba, o pandeiro e o surdo marcam a batida que organiza a música. Esse elemento musical recebe que nome?",
+      "alternativas": [
+        "a altura em que uma nota soa",
+        "o volume com que se toca",
+        "a organização dos sons no tempo",
+        "a qualidade do som de cada instrumento",
+        "a quantidade de instrumentos usados"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13LGG603",
+      "enunciado": "O uso de máscaras para representar personagens é elemento tradicional de que linguagem artística?",
+      "alternativas": [
+        "da fotografia",
+        "da gravura",
+        "da arquitetura",
+        "do teatro",
+        "da tapeçaria"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13LGG604",
+      "enunciado": "Em que período o cinema surgiu como forma de arte e entretenimento?",
+      "alternativas": [
+        "no início do século XVII",
+        "em meados do século XVIII",
+        "no início do século XX",
+        "em meados do século XX",
+        "no fim do século XIX"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13LGG601",
+      "enunciado": "O que caracteriza um desenho de observação?",
+      "alternativas": [
+        "é feito a partir de algo real diante do artista",
+        "é criado apenas com o auxílio de computador",
+        "é copiado de outro desenho já pronto",
+        "é feito exclusivamente de memória",
+        "é produzido sempre em preto e branco"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13LGG603",
+      "enunciado": "O balé clássico se distingue de outras danças por qual característica?",
+      "alternativas": [
+        "por dispensar acompanhamento musical",
+        "por seguir uma técnica codificada de movimentos",
+        "por ser dançado apenas em espaços abertos",
+        "por não exigir preparação física prévia",
+        "por ser sempre improvisado pelos bailarinos"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13LGG602",
+      "enunciado": "A cestaria, a cerâmica e a arte plumária produzidas por povos indígenas brasileiros costumam empregar que tipo de material?",
+      "alternativas": [
+        "plásticos industrializados",
+        "metais fundidos em larga escala",
+        "materiais naturais da própria região",
+        "tintas sintéticas importadas",
+        "resinas produzidas em laboratório"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13LGG604",
+      "enunciado": "Um artista recorta pedaços de revista, tecido e papelão e os fixa sobre uma tela. Em que consiste essa técnica, chamada colagem?",
+      "alternativas": [
+        "em esculpir uma figura em bloco único",
+        "em imprimir a mesma imagem em série numerada",
+        "em pintar diretamente sobre a parede",
+        "em reunir materiais diversos numa superfície",
+        "em fotografar objetos em movimento"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13LGG602",
+      "enunciado": "Um museu de arte recebe obras, cuida da sua conservação e organiza exposições abertas ao público. Qual é, portanto, a sua função principal?",
+      "alternativas": [
+        "vender obras para colecionadores",
+        "produzir obras por encomenda",
+        "avaliar o preço de mercado das peças",
+        "restaurar apenas obras estrangeiras",
+        "preservar e expor um acervo ao público"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

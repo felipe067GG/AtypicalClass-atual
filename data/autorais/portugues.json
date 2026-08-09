@@ -1,0 +1,275 @@
+{
+  "materia": "Português",
+  "autoral": true,
+  "fonte": {
+    "autoria": "AtypicalClass",
+    "ano": 2026,
+    "validacao": "questão autoral do AtypicalClass — não é questão de prova real"
+  },
+  "bncc": {
+    "documento": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf",
+    "validacao": "código conferido contra o documento oficial da BNCC (npm run bncc)"
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "bncc": "EM13LP01",
+      "enunciado": "Um texto apresenta a lista de peças de um móvel e, em seguida, os passos numerados para montá-lo. Que tipo de texto é esse?",
+      "alternativas": [
+        "um texto instrucional",
+        "um texto narrativo",
+        "um texto poético",
+        "uma crônica de jornal",
+        "um verbete de dicionário"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 2,
+      "bncc": "EM13LP06",
+      "enunciado": "Na frase \"As crianças brincaram no parque durante a tarde\", qual é o sujeito?",
+      "alternativas": [
+        "no parque",
+        "as crianças",
+        "brincaram",
+        "durante a tarde",
+        "a tarde"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 3,
+      "bncc": "EM13LP12",
+      "enunciado": "Qual palavra pode substituir \"iniciar\" numa frase sem mudar o sentido?",
+      "alternativas": [
+        "encerrar",
+        "adiar",
+        "começar",
+        "interromper",
+        "repetir"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 4,
+      "bncc": "EM13LP07",
+      "enunciado": "Na frase \"Este é o bairro onde eu cresci\", a palavra \"onde\" indica",
+      "alternativas": [
+        "tempo",
+        "modo",
+        "causa",
+        "lugar",
+        "finalidade"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 5,
+      "bncc": "EM13LP02",
+      "enunciado": "Uma notícia publicada num jornal relata um acontecimento recente, com data, local e pessoas envolvidas. Qual é a principal função desse texto?",
+      "alternativas": [
+        "emocionar o leitor com uma história inventada",
+        "convencer o leitor a comprar um produto",
+        "ensinar o leitor a executar uma tarefa",
+        "divertir o leitor com um jogo de palavras",
+        "informar o leitor sobre um fato ocorrido"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 6,
+      "bncc": "EM13LP06",
+      "enunciado": "Na frase \"Ela cantou uma música linda na festa\", em que tempo verbal está a ação?",
+      "alternativas": [
+        "no passado",
+        "no presente",
+        "no futuro",
+        "no imperativo",
+        "no infinitivo"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 7,
+      "bncc": "EM13LP07",
+      "enunciado": "Na frase \"Estudei bastante, mas não consegui terminar a prova\", que relação a palavra \"mas\" estabelece?",
+      "alternativas": [
+        "de adição",
+        "de oposição",
+        "de conclusão",
+        "de explicação",
+        "de alternativa"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 8,
+      "bncc": "EM13LP02",
+      "enunciado": "Um anúncio publicitário usa imagens chamativas, frases curtas e verbos no imperativo. Qual é a sua principal intenção?",
+      "alternativas": [
+        "descrever um lugar em detalhes",
+        "narrar um acontecimento histórico",
+        "convencer o público a consumir algo",
+        "explicar um conceito científico",
+        "registrar um acordo entre duas partes"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 9,
+      "bncc": "EM13LP06",
+      "enunciado": "Qual é a forma correta do plural da palavra \"cidadão\"?",
+      "alternativas": [
+        "cidadães",
+        "cidadãoes",
+        "cidadons",
+        "cidadãos",
+        "cidadões"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 10,
+      "bncc": "EM13LP03",
+      "enunciado": "Um estudante vai escrever um requerimento para a secretaria da escola. Que variedade da língua é a mais adequada nessa situação?",
+      "alternativas": [
+        "a gíria usada entre amigos",
+        "a linguagem das mensagens de celular",
+        "a linguagem regional do dia a dia",
+        "a linguagem oral espontânea",
+        "a norma formal da língua escrita"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 11,
+      "bncc": "EM13LP06",
+      "enunciado": "Na frase \"A casa da esquina foi pintada de azul\", a palavra \"casa\" é",
+      "alternativas": [
+        "um substantivo",
+        "um adjetivo",
+        "um verbo",
+        "um advérbio",
+        "uma preposição"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 12,
+      "bncc": "EM13LP06",
+      "enunciado": "Qual forma verbal completa corretamente a frase \"Os alunos ___ cedo à escola\"?",
+      "alternativas": [
+        "chegou",
+        "chegaram",
+        "chegava",
+        "chegarás",
+        "chegaste"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 13,
+      "bncc": "EM13LP06",
+      "enunciado": "Na frase \"O time jogou rapidamente o contra-ataque\", a palavra \"rapidamente\" é",
+      "alternativas": [
+        "um substantivo",
+        "um adjetivo",
+        "um advérbio",
+        "um pronome",
+        "uma conjunção"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 14,
+      "bncc": "EM13LP14",
+      "enunciado": "Na frase \"Vou à escola de manhã\", o acento grave em \"à\" indica",
+      "alternativas": [
+        "o plural da palavra seguinte",
+        "a ênfase dada pelo falante",
+        "uma pergunta indireta",
+        "a fusão da preposição com o artigo",
+        "o tempo verbal da oração"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 15,
+      "bncc": "EM13LP31",
+      "enunciado": "Como se organiza tradicionalmente um poema na página?",
+      "alternativas": [
+        "em capítulos e parágrafos",
+        "em tópicos e subtítulos",
+        "em atos e cenas",
+        "em perguntas e respostas",
+        "em versos e estrofes"
+      ],
+      "resposta": "E"
+    },
+    {
+      "numero": 16,
+      "bncc": "EM13LP07",
+      "enunciado": "Na frase \"Fiquei em casa porque estava chovendo muito\", que relação a palavra \"porque\" estabelece?",
+      "alternativas": [
+        "indica a causa do que foi dito antes",
+        "indica uma oposição entre as ideias",
+        "indica uma escolha entre duas opções",
+        "indica a finalidade da ação realizada",
+        "indica a condição para o fato ocorrer"
+      ],
+      "resposta": "A"
+    },
+    {
+      "numero": 17,
+      "bncc": "EM13LP32",
+      "enunciado": "Narrador, personagens, enredo e espaço são elementos característicos de que tipo de texto?",
+      "alternativas": [
+        "do texto dissertativo",
+        "do texto narrativo",
+        "do texto instrucional",
+        "do verbete enciclopédico",
+        "do relatório técnico"
+      ],
+      "resposta": "B"
+    },
+    {
+      "numero": 18,
+      "bncc": "EM13LP17",
+      "enunciado": "A frase \"O menino viu o homem com o binóculo\" pode ser entendida de duas maneiras diferentes. Como se chama esse fenômeno?",
+      "alternativas": [
+        "redundância",
+        "concordância",
+        "ambiguidade",
+        "regência",
+        "hipérbole"
+      ],
+      "resposta": "C"
+    },
+    {
+      "numero": 19,
+      "bncc": "EM13LP07",
+      "enunciado": "Na frase \"Ele não veio à reunião porque estava doente\", o trecho \"porque estava doente\" expressa",
+      "alternativas": [
+        "a finalidade da ausência",
+        "a condição para o comparecimento",
+        "a comparação entre duas situações",
+        "a causa da ausência",
+        "a concessão feita pelo falante"
+      ],
+      "resposta": "D"
+    },
+    {
+      "numero": 20,
+      "bncc": "EM13LP21",
+      "enunciado": "Ao escrever o resumo de um texto lido, o que deve ser preservado?",
+      "alternativas": [
+        "todos os exemplos citados pelo autor",
+        "as opiniões pessoais de quem resume",
+        "a mesma quantidade de parágrafos",
+        "cada palavra do texto original",
+        "as ideias principais do texto"
+      ],
+      "resposta": "E"
+    }
+  ]
+}

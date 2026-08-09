@@ -51,7 +51,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/136",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -106,7 +107,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/137",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -159,7 +161,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/138",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -214,7 +217,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/140",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -269,7 +273,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/141",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -324,7 +329,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/142",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -379,7 +385,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/143",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -434,7 +441,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/144",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -489,7 +497,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/145",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -544,7 +553,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/146",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -599,7 +609,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/147",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -652,7 +663,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/148",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -707,7 +719,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/149",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -760,7 +773,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/150",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -813,7 +827,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/151",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -869,7 +884,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/152",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -922,7 +938,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/153",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -978,7 +995,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/154",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1031,7 +1049,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/155",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1084,7 +1103,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/156",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1139,7 +1159,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/157",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1192,7 +1213,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/158",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1245,7 +1267,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/159",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1300,7 +1323,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/161",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1355,7 +1379,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/162",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1408,7 +1433,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/163",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1463,7 +1489,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/164",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1518,7 +1545,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/165",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1571,7 +1599,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/167",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1626,7 +1655,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/168",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1681,7 +1711,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/169",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1734,7 +1765,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/170",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1789,7 +1821,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/172",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1842,7 +1875,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/173",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1897,7 +1931,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/174",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -1952,7 +1987,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/175",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2007,7 +2043,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/176",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2062,7 +2099,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/177",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2117,7 +2155,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/178",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2172,7 +2211,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/179",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   },
   {
@@ -2227,7 +2267,8 @@
       "idioma": null,
       "provaMicrodados": "181",
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/180",
-      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip"
+      "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     }
   }
 ]
