@@ -129,6 +129,47 @@ console.log(`Por matéria:${JSON.stringify(porMateria)}`)
 console.log(`Sem matéria:${semMateria}`)
 console.log(`Com imagem: ${comImagem}`)
 
+/**
+ * O acervo de vestibular tem forma própria e é conferido em separado.
+ *
+ * Ele não tem dificuldade (não existe TRI publicada para essas provas), a
+ * matéria é oficial e a numeração não segue blocos de 45. O que continua
+ * valendo é o essencial: alternativas coerentes, resposta apontando para uma
+ * que existe, enunciado presente e procedência completa.
+ *
+ * A validação da resposta é de fonte única aqui, contra duas fontes
+ * independentes no ENEM, e o campo `fonte.validacao` precisa dizer isso em
+ * toda questão — misturar os dois níveis de garantia sem avisar seria o pior
+ * dos dois mundos.
+ */
+const PASTA_VESTIBULAR = join(process.cwd(), "data", "vestibular")
+let totalVestibular = 0
+
+try {
+  const arquivosVest = (await readdir(PASTA_VESTIBULAR)).filter((n) => n.endsWith(".json"))
+
+  for (const arquivo of arquivosVest) {
+    for (const q of JSON.parse(await readFile(join(PASTA_VESTIBULAR, arquivo), "utf8"))) {
+      totalVestibular += 1
+      const onde = `${arquivo} q${q.numero}`
+
+      const letras = (q.alternativas ?? []).map((a) => a.letra)
+      if (letras.length < 4) problemas.push(`${onde}: ${letras.length} alternativas`)
+      if (new Set(letras).size !== letras.length) problemas.push(`${onde}: letras repetidas`)
+      if (!letras.includes(q.resposta)) problemas.push(`${onde}: resposta ${q.resposta} sem alternativa`)
+      if (!q.enunciado) problemas.push(`${onde}: enunciado vazio`)
+      if (!q.materia) problemas.push(`${onde}: sem matéria`)
+      if (q.fonte?.validacao !== "fonte única (BLUEX)") {
+        problemas.push(`${onde}: nível de validação não declarado`)
+      }
+    }
+  }
+
+  console.log(`Vestibular: ${totalVestibular} questões em ${arquivosVest.length} provas`)
+} catch {
+  console.log("Vestibular: nenhum acervo encontrado")
+}
+
 if (problemas.length) {
   console.log(`\n${problemas.length} problema(s):`)
   for (const p of problemas.slice(0, 30)) console.log(`  ${p}`)
