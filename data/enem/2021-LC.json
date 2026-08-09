@@ -571,9 +571,9 @@
     },
     "habilidade": 1,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -730,9 +730,9 @@
     },
     "habilidade": 20,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -836,9 +836,9 @@
     },
     "habilidade": 20,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -891,9 +891,9 @@
     "imagens": [
       "https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -946,9 +946,9 @@
     "imagens": [
       "https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1054,9 +1054,9 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1162,9 +1162,9 @@
     "imagens": [
       "https://enem.dev/2021/questions/18/d3122745-1e96-431c-a368-b901c0e3dd5d.jpg"
     ],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1215,9 +1215,9 @@
     },
     "habilidade": 9,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1321,9 +1321,9 @@
     },
     "habilidade": 22,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1374,9 +1374,9 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1535,9 +1535,9 @@
     "imagens": [
       "https://enem.dev/2021/questions/27/bce50f89-8fb3-4929-8065-7c7710a91f39.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1588,9 +1588,9 @@
     },
     "habilidade": 28,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1694,9 +1694,9 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1747,9 +1747,9 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1855,9 +1855,9 @@
     "imagens": [
       "https://enem.dev/2021/questions/33/3f0c8ec0-de44-43da-a545-967701e6128f.jpg"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -1910,9 +1910,9 @@
     "imagens": [
       "https://enem.dev/2021/questions/34/5b366c12-2eaa-4383-87b3-22400a733b71.jpeg"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,
@@ -2071,9 +2071,9 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2021,

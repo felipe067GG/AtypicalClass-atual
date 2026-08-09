@@ -39,8 +39,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -90,8 +90,8 @@
     },
     "habilidade": 19,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -141,8 +141,8 @@
     },
     "habilidade": 5,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -194,8 +194,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/94/cd807044-741c-49d0-893a-9d11bfd1e72b.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -557,8 +557,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -610,8 +610,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -712,8 +712,8 @@
     },
     "habilidade": 14,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -763,8 +763,8 @@
     },
     "habilidade": 6,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -872,8 +872,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/107/c7f2aee2-29a9-4890-a8ac-7e5b0a2c774d.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1490,8 +1490,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/121/b5782e2b-1313-47af-9d6d-7cf3d59851a9.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1543,8 +1543,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1596,8 +1596,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/123/f756b27e-21a4-4da1-a7c6-6b456d828c24.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1649,8 +1649,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1700,8 +1700,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1802,8 +1802,8 @@
     },
     "habilidade": 6,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1959,8 +1959,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -2010,8 +2010,8 @@
     },
     "habilidade": 21,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -2063,8 +2063,8 @@
     "imagens": [
       "https://enem.dev/2020/questions/134/7910dbb6-4184-4a58-96eb-1068360a01b3.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,

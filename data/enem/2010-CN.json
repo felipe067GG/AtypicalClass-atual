@@ -294,8 +294,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2010,

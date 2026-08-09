@@ -632,9 +632,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/97/d2cbf9da-51c9-46aa-af58-bcc2e998418d.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -738,9 +738,9 @@
     },
     "habilidade": 25,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -897,9 +897,9 @@
     },
     "habilidade": 18,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1005,9 +1005,9 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1058,9 +1058,9 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1113,9 +1113,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/106/b78a40b0-2de8-405e-b703-6d75231e6814.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1168,9 +1168,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/107/2ac634d8-e5aa-4c62-a144-f90965fd3c2c.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1223,9 +1223,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/108/15fc4d74-0535-4c12-85d6-9ea734e2ba78.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1653,9 +1653,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/116/13c70287-9094-4ed9-ac83-833d323390a4.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1706,9 +1706,9 @@
     },
     "habilidade": 17,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1865,9 +1865,9 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -1975,9 +1975,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/122/56b6ba08-f28d-4c6e-9548-dae589b81f9c.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -2134,9 +2134,9 @@
     },
     "habilidade": 28,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -2187,9 +2187,9 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -2454,9 +2454,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/131/b9d98d9e-3a0b-4ec3-88f4-05fc7d517e47.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -2507,9 +2507,9 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,
@@ -2562,9 +2562,9 @@
     "imagens": [
       "https://enem.dev/2012/questions/133/882acc28-987a-4ffa-9dbb-d7b96a263b60.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2012,

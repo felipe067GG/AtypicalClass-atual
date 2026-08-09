@@ -196,8 +196,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/49/f89f293e-0067-4618-80d8-facffa61b33e.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -249,8 +249,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -455,8 +455,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/54/64333d1a-422a-4677-b3bf-911c48bf81fd.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -610,8 +610,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/58/d80676e3-424b-494d-bbf9-eac96350b56b.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -714,8 +714,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/60/4d540a4d-d54f-4c26-836a-710921f4cbbd.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -818,8 +818,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -872,8 +872,8 @@
       "https://enem.dev/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png",
       "https://enem.dev/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -925,8 +925,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/64/9d597bbb-7e1e-4be9-8724-a983ffe36ac7.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -1182,8 +1182,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/70/5c44faae-09d8-42ab-bbe6-723d5385de19.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -1498,8 +1498,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/78/321e751e-8b01-4e24-b49e-c72ed36b4df7.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -1651,8 +1651,8 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -1704,8 +1704,8 @@
     "imagens": [
       "https://enem.dev/2011/questions/84/743d09d0-e545-4055-8c2b-210fe3d75118.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Física",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -1755,8 +1755,8 @@
     },
     "habilidade": 10,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Química",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,
@@ -1859,8 +1859,8 @@
     },
     "habilidade": 16,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Biologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2011,

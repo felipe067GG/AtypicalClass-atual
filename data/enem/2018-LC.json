@@ -569,9 +569,9 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -677,9 +677,9 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -730,9 +730,9 @@
     },
     "habilidade": 28,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -999,9 +999,9 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1158,9 +1158,9 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1213,9 +1213,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/19/e9e97833-6ef2-45a7-b0c7-d33310784f2c.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1266,9 +1266,9 @@
     },
     "habilidade": 17,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1319,9 +1319,9 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1374,9 +1374,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/22/9fda69dd-562b-4b15-a5b2-1fa227a84fe7.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1480,9 +1480,9 @@
     },
     "habilidade": 19,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1535,9 +1535,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/25/19eb3de3-07ba-4000-89ca-e2e07755b526.png"
     ],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1641,9 +1641,9 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1696,9 +1696,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/28/63a801c5-ebb7-4094-8bac-6c625e98f18d.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2021,9 +2021,9 @@
       "https://enem.dev/2018/questions/34/130be5aa-d690-4cab-8638-157201849604.png",
       "https://enem.dev/2018/questions/34/4d43079a-6004-4294-8b08-8cf432e941f1.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2127,9 +2127,9 @@
     },
     "habilidade": 22,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2233,9 +2233,9 @@
     },
     "habilidade": 18,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2288,9 +2288,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/39/eabfb56c-3b85-4116-8d13-645cbf5f0a13.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2396,9 +2396,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/41/a991a226-d7fd-4f72-8e96-b32ce8bb0036.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2555,9 +2555,9 @@
     },
     "habilidade": 29,
     "imagens": [],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2610,9 +2610,9 @@
     "imagens": [
       "https://enem.dev/2018/questions/45/40054947-ada4-41a2-b1fe-0bb9db118b2f.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
