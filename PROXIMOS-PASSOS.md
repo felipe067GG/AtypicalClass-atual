@@ -4,15 +4,14 @@ Escrito em 08/08/2026 na branch `importador-enem`; o trabalho está na `main`
 desde 09/08/2026. Serve para retomar sem precisar reconstruir o raciocínio.
 
 Conferido de ponta a ponta em 09/08/2026, na `main`: os quatro verificadores
-passam, os 103 links respondem, e o banco tem as linhas que esta página diz que
+passam, os 105 links respondem, e o banco tem as linhas que esta página diz que
 tem. O que não passava está no fim, em "Armadilhas".
 
 ## Retomar aqui
 
-Parei em 09/08/2026 com **nada pendente e nada pela metade**. `main` em
-`72ae9ca`, empurrada, árvore limpa, site respondendo. Não há trabalho
-interrompido para reconstruir: dá para começar pelo próximo assunto sem ler o
-resto desta página.
+Parei em 09/08/2026 com **nada pendente e nada pela metade**: árvore limpa, site
+respondendo, e a matriz de adaptação completa. Não há trabalho interrompido para
+reconstruir — dá para começar pelo próximo assunto sem ler o resto desta página.
 
 Para conferir em trinta segundos que continua assim:
 
@@ -21,14 +20,15 @@ git status --short          # vazio
 npm run detectores          # código 0
 ```
 
-**A única frente aberta é conteúdo, não código**: escrever células da matriz
-para as três especialidades em 10% de alcance — está em "O que sobrou", e é
-onde continuar quando o assunto voltar a ser questões.
+**A matriz de adaptação foi completada em 09/08/2026**: 112 células dos 112
+pares, as catorze especialidades no teto de 87% de alcance — teto porque 470
+questões não disparam barreira nenhuma. A frente seguinte é outra, e está em
+"O que sobrou": as 723 questões com figura e sem audiodescrição.
 
-Uma ressalva sobre o último commit: ele mexeu só em documentação, no
-`rodar.mjs` e nos arquivos que o `next dev` gera. Nada em `app/` ou `lib/`, então
-o deploy que ele disparou produz a mesma página de antes — se o site parecer
-inalterado, é isso, e não deploy que não subiu.
+O último commit mexeu em `lib/adaptacao/matriz.ts`, e a mudança é visível no
+site: o filtro por especialidade em `/questoes` passa a devolver 3.025 questões
+para qualquer um dos catorze alunos, contra as 351 a 2.598 de antes. Se o número
+na tela não bater com isso, o deploy é que não subiu.
 
 ## Estado
 
@@ -80,16 +80,49 @@ hoje ao lado deles para que nenhum envelheça em silêncio.
 de 40% — `rodar.mjs` derruba o build se alguma passar de 60% ou cair abaixo de
 1%, porque detector que acusa tudo não separa nada.
 
-**Matriz** (`lib/adaptacao/matriz.ts`) — 40 células escritas dos 112 pares
-possíveis, cada uma com fonte que o `check:links` valida. As 72 ausentes são
-lacuna declarada, não rascunho: enunciado longo não é barreira central em altas
-habilidades, e forçar texto ali produziria o conselho genérico que este trabalho
-existe para evitar. Todas as 14 especialidades têm ao menos uma célula.
+**Matriz** (`lib/adaptacao/matriz.ts`) — **as 112 células dos 112 pares estão
+escritas**, cada uma com fonte que o `check:links` valida. A matriz saiu de 40
+para 112 em 09/08/2026, em três rodadas: 12 células para tirar do chão as três
+especialidades que estavam em 10%, 57 para preencher o resto, e 3 para fechar.
 
-O alcance por especialidade — quantas das 3.495 já têm ao menos uma orientação
-escrita — vai de 74% (deficiência intelectual) a 10% (altas habilidades, saúde
-mental e disgrafia, com uma célula cada). É o número que diz se a matriz saiu do
-papel, e é onde continuar.
+**As catorze especialidades bateram o teto de alcance: 87%.** O teto não é 100%
+porque 470 das 3.495 questões (13%) não disparam barreira nenhuma — para elas
+não há o que orientar, e é assim que deve ser. Quem vir 87% e tentar "completar"
+vai acabar escrevendo o conselho genérico que a matriz existe para evitar.
+
+**As três últimas células valem por um registro sobre método.** Elas ficaram
+declaradas como lacuna por algumas horas — período longo e vocabulário denso em
+disgrafia, e período longo em deficiência física — com o argumento de que
+comprimento de frase e palavra longa "não passam pela mão". O argumento estava
+errado, e o erro é o que interessa: ele tratava a especialidade pelo sintoma
+mais visível.
+
+- **Disgrafia não é só traçado.** Quem escreve com esforço produz frases curtas,
+  e o período longo é a construção que essa escrita não exercita. E a palavra
+  longa é o pior caso da ortografia: ela é *evitada*, não errada — o aluno troca
+  "biodisponibilidade" por "aquilo do remédio", e o que se registra é que ele não
+  domina o termo.
+- **Deficiência física não é só custo de acionamento.** Linha longa é onde o
+  acompanhamento visual se perde quando sustentar cabeça e tronco custa esforço,
+  e um período de 25 palavras lido em voz alta pede fôlego que nem toda condição
+  neuromuscular tem.
+
+Lacuna declarada continua sendo opção legítima — mas precisa sobreviver a uma
+segunda leitura, e estas três não sobreviveram.
+
+Duas linhas ficaram com desenho próprio. Em **altas habilidades**, cinco das oito
+células não descrevem dificuldade e sim o contrário — a barreira que trava a
+turma costuma ser o único ponto da questão que ainda exige algo desse aluno, e a
+adaptação é aprofundar ali em vez de aliviar. As outras três são dificuldade de
+verdade, por motivos que não valem para mais ninguém: ler rápido demais e pular
+a condição da última linha, ler a mais e escolher a alternativa mais elaborada,
+e não conhecer a convenção da melhor alternativa. Em **deficiência auditiva**,
+a célula de alternativas numéricas diz o contrário do que a barreira diz para
+todo mundo: é o único lugar da questão sem segunda língua, e por isso o erro ali
+é informativo.
+
+Foram 22 fontes novas, todas já validadas em `lib/specialty-data/` antes de
+entrarem aqui — o `check:links` foi de 103 para 105 endereços distintos.
 
 **Uma barreira foi medida e descartada**: comando pela negativa ("assinale a
 incorreta"). Existe 1 caso em 3.495 — o ENEM desaconselha item pela negativa na
@@ -197,16 +230,22 @@ pelo site, porque é conteúdo com fonte e muda com revisão, não com importaç
 
 ## O que sobrou
 
-**Escrever mais células da matriz** — é o único trabalho aberto, e o número que
-diz onde está o buraco é o alcance por especialidade, não a contagem de células:
+**A matriz deixou de ser a frente aberta.** Está completa: 112 de 112 pares, as
+catorze especialidades no teto de alcance, nada declarado como lacuna.
 
-- **altas habilidades, saúde mental e disgrafia**: 10% cada, uma célula cada.
-  Três alunos para quem a adaptação por questão praticamente não existe ainda.
-- **deficiência física** (25%) e **discalculia** (35%) vêm em seguida.
+O que existe daqui para a frente é de outra natureza, e nada disso está
+começado:
 
-As 72 células ausentes continuam sendo lacuna declarada, não rascunho — a regra
-de não inventar par que não faz sentido vale. Mas uma célula por especialidade
-em três delas é pouco para o alcance ficar de pé, e é onde continuar.
+- **As 723 questões com figura e sem audiodescrição** (de 1.409 com figura).
+  Enquanto não têm descrição, para um aluno cego não são questões difíceis: são
+  questões indisponíveis, como diz a célula de figura × deficiência visual.
+  É o maior buraco de acessibilidade que resta no acervo.
+- **Revisar as células com o professor que usa.** As 109 foram escritas a partir
+  das fontes e da medida; nenhuma passou ainda pelo teste de alguém aplicando em
+  sala e dizendo o que não serviu.
+- **Uma nona barreira**, se o uso mostrar que falta alguma. A régua está em
+  `medir.mjs`: mede-se primeiro, e só entra o que separar questões de verdade —
+  foi assim que o comando pela negativa foi medido e descartado.
 
 Cada célula nova exige fonte que o `npm run check:links` valide, e `npm run
 detectores` reimprime o alcance, então dá para medir o efeito de cada uma.
