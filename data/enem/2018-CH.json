@@ -139,8 +139,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -244,8 +244,8 @@
       "https://enem.dev/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png",
       "https://enem.dev/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -499,8 +499,8 @@
     },
     "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -550,8 +550,8 @@
     },
     "habilidade": 6,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -652,8 +652,8 @@
     },
     "habilidade": 13,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -858,8 +858,8 @@
     "imagens": [
       "https://enem.dev/2018/questions/63/888e599a-8ed5-4860-8751-5dd9a2be81ab.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -960,8 +960,8 @@
     },
     "habilidade": 17,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1115,8 +1115,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1166,8 +1166,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1319,8 +1319,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1525,8 +1525,8 @@
     },
     "habilidade": 12,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1576,8 +1576,8 @@
     },
     "habilidade": 30,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1884,8 +1884,8 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -1986,8 +1986,8 @@
     },
     "habilidade": 19,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2092,8 +2092,8 @@
     "imagens": [
       "https://enem.dev/2018/questions/88/7f3cead2-0224-45e5-89bf-cb7b399307cb.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,
@@ -2143,8 +2143,8 @@
     },
     "habilidade": 30,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2018,

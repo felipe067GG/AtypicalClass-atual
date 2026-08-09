@@ -37,8 +37,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -90,8 +90,8 @@
     "imagens": [
       "https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -141,8 +141,8 @@
     },
     "habilidade": 30,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -192,8 +192,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -345,8 +345,8 @@
     },
     "habilidade": 9,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -447,8 +447,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -498,8 +498,8 @@
     },
     "habilidade": 17,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -655,8 +655,8 @@
     "imagens": [
       "https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -706,8 +706,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -757,8 +757,8 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -808,8 +808,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -859,8 +859,8 @@
     },
     "habilidade": 14,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -910,8 +910,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1318,8 +1318,8 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1369,8 +1369,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1420,8 +1420,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1471,8 +1471,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1575,8 +1575,8 @@
     "imagens": [
       "https://enem.dev/2019/questions/77/8a228abe-5656-40e1-94bf-8be1b85e8ab2.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1677,8 +1677,8 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1728,8 +1728,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1932,8 +1932,8 @@
     },
     "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -1985,8 +1985,8 @@
     "imagens": [
       "https://enem.dev/2019/questions/85/fb718e6d-3e97-4d5a-9d80-0ffecdd14d2c.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -2087,8 +2087,8 @@
     },
     "habilidade": 25,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,
@@ -2138,8 +2138,8 @@
     },
     "habilidade": 8,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2019,

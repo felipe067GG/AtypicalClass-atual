@@ -39,8 +39,8 @@
     "imagens": [
       "https://enem.dev/2023/questions/46/4eac436b-15be-438c-8219-f2043ab21946.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -141,8 +141,8 @@
     },
     "habilidade": 17,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -294,8 +294,8 @@
     },
     "habilidade": 1,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -345,8 +345,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -551,8 +551,8 @@
     "imagens": [
       "https://enem.dev/broken-image.svg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -602,8 +602,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -755,8 +755,8 @@
     },
     "habilidade": 22,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -806,8 +806,8 @@
     },
     "habilidade": 16,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -857,8 +857,8 @@
     },
     "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -959,8 +959,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1012,8 +1012,8 @@
     "imagens": [
       "https://enem.dev/broken-image.svg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1063,8 +1063,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1114,8 +1114,8 @@
     },
     "habilidade": 30,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1216,8 +1216,8 @@
     },
     "habilidade": 12,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1267,8 +1267,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1371,8 +1371,8 @@
     "imagens": [
       "https://enem.dev/2023/questions/72/19b09a90-8898-4d03-b11a-eedae69b1e1d.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1473,8 +1473,8 @@
     },
     "habilidade": 9,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1524,8 +1524,8 @@
     },
     "habilidade": 10,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1577,8 +1577,8 @@
     "imagens": [
       "https://enem.dev/2023/questions/76/4b3eb253-249e-4bc3-bb08-5d48b44c53c1.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1628,8 +1628,8 @@
     },
     "habilidade": 8,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1730,8 +1730,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1781,8 +1781,8 @@
     },
     "habilidade": 22,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -1985,8 +1985,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -2087,8 +2087,8 @@
     },
     "habilidade": 25,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -2138,8 +2138,8 @@
     },
     "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -2189,8 +2189,8 @@
     },
     "habilidade": 18,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -2242,8 +2242,8 @@
     "imagens": [
       "https://enem.dev/2023/questions/89/9bf9cf75-4df7-495a-8f99-bb6bac2abe2e.PNG"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
@@ -2293,8 +2293,8 @@
     },
     "habilidade": 4,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2023,
