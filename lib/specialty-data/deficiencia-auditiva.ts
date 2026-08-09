@@ -36,9 +36,14 @@ const UDL: Citation = {
 }
 
 /** Lei 14.191/2021: Libras como primeira língua, português escrito como segunda. */
+// Apontava para a notícia da Câmara sobre a sanção, e ela passou a responder
+// 500. O texto no Planalto seria a fonte primária, mas o servidor dele recusa
+// a conexão do verificador — responde ao curl e falha no fetch do Node, o que
+// deixaria o build vermelho por motivo que não é do link. O Senado noticia a
+// mesma lei e responde de forma estável.
 const LEI_BILINGUE: Citation = {
-  label: "Lei 14.191/2021 — educação bilíngue de surdos passa a integrar a LDB (Câmara dos Deputados)",
-  url: "https://www.camara.leg.br/noticias/789357-SANCIONADA-LEI-QUE-REGULAMENTA-EDUCACAO-BILINGUE-DE-SURDOS",
+  label: "Lei 14.191/2021 — educação bilíngue de surdos passa a integrar a LDB (Senado Federal)",
+  url: "https://www12.senado.leg.br/noticias/materias/2021/08/04/nova-lei-inclui-educacao-bilingue-de-surdos-como-modalidade-na-ldb",
 }
 
 const LEI_SENADO: Citation = {

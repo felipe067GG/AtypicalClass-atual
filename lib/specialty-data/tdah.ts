@@ -38,9 +38,13 @@ const SCHOOL_RCT: Citation = {
   url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1611145/full",
 }
 
+// Apontava para o CHADD, que é referência na área mas passou a não responder
+// de nenhum ponto testado — domínio inteiro fora, não só a página. Diferente
+// dos casos de 403, aqui não há o que confirmar no navegador: não há resposta.
+// A Understood cobre o mesmo terreno, adaptações de sala para TDAH, e verifica.
 const CHADD: Citation = {
-  label: "CHADD — materiais para educadores",
-  url: "https://chadd.org/for-educators/overview/",
+  label: "Understood — adaptações de sala de aula para alunos com TDAH",
+  url: "https://www.understood.org/en/articles/classroom-accommodations-for-adhd",
 }
 
 const BASICO = ml("Básico", "Basic", "Básico")
@@ -630,8 +634,8 @@ export function tdahData(_t: Translate): SpecialtyData {
         "Organización de referencia en TDAH, con material específico para docentes.",
       ),
       featured: false,
-      url: "https://chadd.org/for-educators/overview/",
-      publisher: "CHADD",
+      url: "https://www.understood.org/en/articles/classroom-accommodations-for-adhd",
+      publisher: "Understood",
       language: "en" as const,
       format: "Site" as const,
     },

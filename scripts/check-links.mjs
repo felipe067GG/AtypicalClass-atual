@@ -11,7 +11,7 @@
 import { readdir, readFile } from "node:fs/promises"
 import { join } from "node:path"
 
-const DIRS = ["lib/specialty-data", "lib"]
+const DIRS = ["lib/specialty-data", "lib/adaptacao", "lib"]
 const TIMEOUT_MS = 20000
 const CONCURRENCY = 10
 
@@ -68,7 +68,32 @@ async function collectUrls() {
   return found
 }
 
+/**
+ * Tenta algumas vezes antes de condenar um link.
+ *
+ * Sem isto, uma oscilação de rede vira "link quebrado" e derruba o build por
+ * motivo que não existe. Aconteceu com o texto da lei no Planalto: responde 200
+ * com retentativa e falhava aqui na primeira tentativa. Um verificador que
+ * acusa falso positivo é pior que nenhum, porque ensina a ignorá-lo.
+ */
+const TENTATIVAS = 3
+
 async function check(url) {
+  let ultimo = null
+
+  for (let tentativa = 1; tentativa <= TENTATIVAS; tentativa += 1) {
+    ultimo = await tentar(url)
+    // Só insiste quando a falha é de transporte ou do servidor. 404 e 403 são
+    // respostas, e repetir não muda o que dizem.
+    const valeRepetir = !ultimo.ok && (ultimo.status === 0 || ultimo.status >= 500)
+    if (!valeRepetir) return ultimo
+    if (tentativa < TENTATIVAS) await new Promise((resolve) => setTimeout(resolve, 1500 * tentativa))
+  }
+
+  return ultimo
+}
+
+async function tentar(url) {
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS)
   try {
