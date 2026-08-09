@@ -573,9 +573,9 @@
     "imagens": [
       "https://enem.dev/2020/questions/7/8cae3db7-3d36-4e39-a58d-1ae299222289.png"
     ],
-    "materia": null,
+    "materia": "Português",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -785,9 +785,9 @@
     },
     "habilidade": 16,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -891,9 +891,9 @@
     },
     "habilidade": 28,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -946,9 +946,9 @@
     "imagens": [
       "https://enem.dev/2020/questions/14/242f89ec-6963-40c2-b02b-8f8f4f20167e.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1001,9 +1001,9 @@
     "imagens": [
       "https://enem.dev/2020/questions/15/9aee0809-7e40-49d8-9230-57a7ae6d6374.png"
     ],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1107,9 +1107,9 @@
     },
     "habilidade": 10,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1319,9 +1319,9 @@
     },
     "habilidade": 13,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1374,9 +1374,9 @@
     "imagens": [
       "https://enem.dev/2020/questions/22/e2bb4218-b673-46d0-8ba4-70eefe576fae.png"
     ],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1427,9 +1427,9 @@
     },
     "habilidade": 22,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1535,9 +1535,9 @@
     "imagens": [
       "https://enem.dev/2020/questions/25/600a478d-bf8d-46fb-9e38-cd71bcf3464c.png"
     ],
-    "materia": null,
+    "materia": "Artes",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -1749,9 +1749,9 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -2071,9 +2071,9 @@
     },
     "habilidade": 9,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -2124,9 +2124,9 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -2391,9 +2391,9 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
+    "materia": "Literatura",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,
@@ -2444,9 +2444,9 @@
     },
     "habilidade": 10,
     "imagens": [],
-    "materia": null,
+    "materia": "Educação Física",
     "idioma": null,
-    "origemDaMateria": null,
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2020,

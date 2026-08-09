@@ -39,8 +39,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -90,8 +90,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -141,8 +141,8 @@
     },
     "habilidade": 5,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -192,8 +192,8 @@
     },
     "habilidade": 4,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -243,8 +243,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -294,8 +294,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -347,8 +347,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/7/e7849157-525a-481c-873b-9d0abe4b1e46.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -398,8 +398,8 @@
     },
     "habilidade": 13,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -449,8 +449,8 @@
     },
     "habilidade": 18,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -500,8 +500,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -551,8 +551,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -602,8 +602,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -655,8 +655,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -706,8 +706,8 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -757,8 +757,8 @@
     },
     "habilidade": 15,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -808,8 +808,8 @@
     },
     "habilidade": 16,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -861,8 +861,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -912,8 +912,8 @@
     },
     "habilidade": 2,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -963,8 +963,8 @@
     },
     "habilidade": 8,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1016,8 +1016,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1067,8 +1067,8 @@
     },
     "habilidade": 7,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1118,8 +1118,8 @@
     },
     "habilidade": 12,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1169,8 +1169,8 @@
     },
     "habilidade": 14,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1220,8 +1220,8 @@
     },
     "habilidade": 12,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1273,8 +1273,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/25/0bcd59f3-aebb-450e-87ea-d0683f7f9ab3.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1324,8 +1324,8 @@
     },
     "habilidade": 22,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1375,8 +1375,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1428,8 +1428,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/28/08a633cb-8395-4b5c-888d-8a55fc5bfa73.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1479,8 +1479,8 @@
     },
     "habilidade": 1,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1530,8 +1530,8 @@
     },
     "habilidade": 14,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1581,8 +1581,8 @@
     },
     "habilidade": 25,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1632,8 +1632,8 @@
     },
     "habilidade": 8,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1686,8 +1686,8 @@
       "https://enem.dev/2013/questions/33/ffa5354f-47ee-4462-b8e4-5cedcb6a0f85.jpg",
       "https://enem.dev/2013/questions/33/90593acb-2106-40e9-8a7a-c4045b333394.jpg"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1737,8 +1737,8 @@
     },
     "habilidade": 9,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1788,8 +1788,8 @@
     },
     "habilidade": 13,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1839,8 +1839,8 @@
     },
     "habilidade": 1,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1890,8 +1890,8 @@
     },
     "habilidade": 19,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1941,8 +1941,8 @@
     },
     "habilidade": 5,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -1994,8 +1994,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/39/426ea99b-86b9-4ee1-bc65-5aca65b373f9.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -2045,8 +2045,8 @@
     },
     "habilidade": 4,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -2096,8 +2096,8 @@
     },
     "habilidade": 20,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -2149,8 +2149,8 @@
     "imagens": [
       "https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -2200,8 +2200,8 @@
     },
     "habilidade": 28,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "leitura",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -2251,8 +2251,8 @@
     },
     "habilidade": 13,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,
@@ -2302,8 +2302,8 @@
     },
     "habilidade": 10,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2013,

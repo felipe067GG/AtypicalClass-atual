@@ -37,8 +37,8 @@
     },
     "habilidade": 26,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -139,8 +139,8 @@
     },
     "habilidade": 24,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -294,8 +294,8 @@
     },
     "habilidade": 17,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -498,8 +498,8 @@
     },
     "habilidade": 28,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -551,8 +551,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/56/0a4f1ebf-a011-4562-9d7d-c09766683612.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -602,8 +602,8 @@
     },
     "habilidade": 23,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -653,8 +653,8 @@
     },
     "habilidade": 14,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -908,8 +908,8 @@
     },
     "habilidade": 11,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -961,8 +961,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/65/976097b0-d433-498d-946f-1770a46340fb.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1116,8 +1116,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/68/f472fda8-7fa2-43b7-bcc3-72db46b0d92d.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1373,8 +1373,8 @@
     },
     "habilidade": 13,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1426,8 +1426,8 @@
     "imagens": [
       "https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png"
     ],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1528,8 +1528,8 @@
     },
     "habilidade": 29,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1579,8 +1579,8 @@
     },
     "habilidade": 27,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1734,8 +1734,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1940,8 +1940,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Filosofia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -1991,8 +1991,8 @@
     },
     "habilidade": 4,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "História",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -2093,8 +2093,8 @@
     },
     "habilidade": 19,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Geografia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,
@@ -2246,8 +2246,8 @@
     },
     "habilidade": 3,
     "imagens": [],
-    "materia": null,
-    "origemDaMateria": null,
+    "materia": "Sociologia",
+    "origemDaMateria": "vocabulário",
     "fonte": {
       "exame": "ENEM",
       "ano": 2022,

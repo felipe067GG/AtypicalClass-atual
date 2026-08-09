@@ -48,6 +48,48 @@ const LEXICO = {
     2: ["organismo", "tecido", "membrana", "reprodução", "metabolismo", "população", "biodiversidade", "vacina", "imunidade", "proteína", "espécie", "evolução", "bactéria", "vírus", "predador", "cadeia trófica", "polinização", "germinação", "hábitat", "nutriente", "digestão", "sangue", "neurônio"],
     1: ["ambiente", "planta", "animal", "vida", "saúde"],
   },
+
+  História: {
+    3: ["idade média", "idade moderna", "antiguidade", "feudalismo", "absolutismo", "revolução francesa", "revolução industrial", "primeira guerra", "segunda guerra", "guerra fria", "escravidão", "abolição", "colonização", "período colonial", "império romano", "renascimento", "cruzadas", "inquisição", "estado novo", "ditadura militar", "proclamação da república", "independência do brasil", "getúlio vargas", "revolução russa", "nazismo", "fascismo", "descolonização", "iluminismo"],
+    2: ["século xix", "século xx", "século xviii", "monarquia", "revolta", "tratado", "conquista", "metrópole e colônia", "senhores de engenho", "quilombo", "imigração", "república velha", "guerra civil", "revolução", "império"],
+    1: ["história", "passado", "época", "período"],
+  },
+  Geografia: {
+    3: ["urbanização", "êxodo rural", "relevo", "bacia hidrográfica", "clima tropical", "zona rural", "agronegócio", "industrialização", "globalização", "blocos econômicos", "densidade demográfica", "pirâmide etária", "desmatamento", "recursos hídricos", "cartografia", "latitude", "longitude", "escala do mapa", "placas tectônicas", "erosão", "aquecimento global", "matriz energética", "rede urbana", "metropolização"],
+    2: ["território", "fronteira", "migração", "população urbana", "clima", "solo", "vegetação", "produção agrícola", "mineração", "transporte", "região", "espaço geográfico", "crescimento demográfico", "favela", "periferia"],
+    1: ["mapa", "país", "cidade", "estado", "região"],
+  },
+  Filosofia: {
+    3: ["platão", "aristóteles", "sócrates", "kant", "nietzsche", "descartes", "hegel", "hobbes", "rousseau", "john locke", "epicuro", "santo agostinho", "tomás de aquino", "contrato social", "imperativo categórico", "maiêutica", "mito da caverna", "existencialismo", "empirismo", "racionalismo", "metafísica", "epistemologia", "ética aristotélica", "livre-arbítrio"],
+    2: ["filósofo", "filosofia", "ética", "moral", "virtude", "razão", "conhecimento verdadeiro", "essência", "existência", "dialética", "ceticismo", "senso comum"],
+    1: ["pensamento", "reflexão", "verdade"],
+  },
+  Sociologia: {
+    3: ["durkheim", "max weber", "bourdieu", "movimento social", "estratificação social", "mobilidade social", "classe social", "desigualdade social", "divisão do trabalho", "fato social", "indústria cultural", "alienação", "mais-valia", "burocracia", "cidadania", "direitos sociais", "exclusão social", "políticas afirmativas", "sindicato"],
+    2: ["sociedade", "cultura", "identidade cultural", "trabalho assalariado", "capitalismo", "consumo", "mídia", "democracia", "poder político", "minorias", "preconceito", "estereótipo"],
+    1: ["social", "grupo", "comunidade"],
+  },
+
+  Português: {
+    3: ["variação linguística", "norma culta", "norma padrão", "função da linguagem", "figura de linguagem", "coesão textual", "coerência textual", "ambiguidade", "polissemia", "regência verbal", "concordância verbal", "oração subordinada", "sujeito e predicado", "registro formal", "linguagem coloquial", "gíria", "regionalismo", "intertextualidade", "gênero textual", "tipologia textual"],
+    2: ["gramática", "sintaxe", "semântica", "morfologia", "pronome", "verbo", "advérbio", "conjunção", "sentido conotativo", "sentido denotativo", "argumentação", "oralidade", "dialeto", "sotaque"],
+    1: ["texto", "palavra", "frase", "leitura"],
+  },
+  Literatura: {
+    3: ["romantismo", "modernismo", "barroco literário", "arcadismo", "realismo", "naturalismo", "parnasianismo", "simbolismo", "semana de arte moderna", "machado de assis", "carlos drummond", "clarice lispector", "guimarães rosa", "castro alves", "manuel bandeira", "mário de andrade", "oswald de andrade", "graciliano ramos", "cecília meireles", "soneto", "estrofe", "eu lírico", "narrador-personagem"],
+    2: ["poema", "poesia", "verso", "romance", "conto", "crônica", "prosa", "personagem", "narrador", "obra literária", "escritor", "literatura brasileira", "cordel"],
+    1: ["autor", "livro", "escrita"],
+  },
+  Artes: {
+    3: ["artes visuais", "artista plástico", "obra de arte", "escultura", "pintura a óleo", "instalação artística", "performance artística", "arte contemporânea", "arte moderna", "grafite", "museu de arte", "bienal", "estética visual", "artes cênicas", "dramaturgia", "cenografia"],
+    2: ["pintura", "quadro", "tela", "exposição", "museu", "teatro", "espetáculo", "dança", "coreografia", "música popular", "cinema", "fotografia", "desenho"],
+    1: ["arte", "artístico", "criação"],
+  },
+  "Educação Física": {
+    3: ["atividade física", "aptidão física", "sedentarismo", "treinamento físico", "esporte olímpico", "jogos olímpicos", "modalidade esportiva", "ginástica artística", "capoeira", "educação física escolar", "esporte de rendimento", "lazer e recreação"],
+    2: ["esporte", "atleta", "exercício", "corrida", "futebol", "vôlei", "basquete", "natação", "luta", "competição esportiva", "movimento corporal"],
+    1: ["jogo", "corpo", "prática"],
+  },
 }
 
 /**

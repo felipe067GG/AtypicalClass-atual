@@ -301,7 +301,18 @@ export async function importar({ ano, area, lidas = {} }) {
     // uma leitura feita num caderno aplicada a outro rotularia a questão
     // errada, e em silêncio, que é o pior modo de errar aqui.
     const lida = lidas[`${ano}-${caderno.cor}-${posicao}`] ?? null
-    const materia = oficialDoIdioma ?? automatica.materia ?? lida
+    /**
+     * A ordem importa: oficial, depois leitura, depois vocabulário.
+     *
+     * A leitura vem antes do palpite automático porque olhou o enunciado
+     * inteiro, enquanto o classificador conta palavras e erra em questão de
+     * fronteira. Estava invertido, e o efeito era silencioso: onde eu tinha
+     * lido, o vocabulário decidia primeiro e a leitura era ignorada.
+     *
+     * Nas 211 questões em que ambos opinaram, os dois concordaram — o que é
+     * bom sinal para o léxico, mas não muda qual deve prevalecer.
+     */
+    const materia = oficialDoIdioma ?? lida ?? automatica.materia
 
     if (materia && !materiaCabeNaArea(materia, area)) {
       rejeitadas.push({ numero: posicao, motivos: [`matéria "${materia}" não pertence à área ${area}`] })
@@ -320,7 +331,7 @@ export async function importar({ ano, area, lidas = {} }) {
       // De onde veio o rótulo de matéria. "oficial" só existe onde a própria
       // banca separou a prova por disciplina, o que o ENEM não faz.
       idioma,
-      origemDaMateria: oficialDoIdioma ? "oficial" : automatica.materia ? "vocabulário" : lida ? "leitura" : null,
+      origemDaMateria: oficialDoIdioma ? "oficial" : lida ? "leitura" : automatica.materia ? "vocabulário" : null,
       fonte: {
         exame: "ENEM",
         ano,
