@@ -244,6 +244,19 @@ for (const c of conteudos) {
       acusar(c, `vídeo não verificado (rode: npm run videos): ${v.url}`)
     }
     if (!v.revisado) anotar(c, `vídeo aguardando alguém assistir: ${v.titulo ?? v.url}`)
+    // Vídeo que existe por causa de uma especialidade — aula em Libras, versão
+    // com audiodescrição — declara qual. Sem isso ele fica indistinguível, na
+    // lista, de uma videoaula comum, e o professor que procura material
+    // acessível precisa abrir um por um.
+    if (v.paraEspecialidade && !ESPECIALIDADES.includes(v.paraEspecialidade)) {
+      acusar(c, `vídeo para especialidade desconhecida: "${v.paraEspecialidade}"`)
+    }
+    if (v.paraEspecialidade && !v.recursoDeAcessibilidade?.trim()) {
+      acusar(c, `vídeo declara especialidade e não diz o que o torna acessível: ${v.url}`)
+    }
+    if (v.recursoDeAcessibilidade && !v.paraEspecialidade) {
+      acusar(c, `vídeo diz o recurso de acessibilidade e não diz a quem ele serve: ${v.url}`)
+    }
   }
 
   // --- Notas específicas

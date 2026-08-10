@@ -1,7 +1,101 @@
-# Banco de questões — onde parou e o que vem
+# Banco de questões e biblioteca de conteúdos — onde parou e o que vem
 
 Escrito em 08/08/2026 na branch `importador-enem`; o trabalho está na `main`
 desde 09/08/2026. Serve para retomar sem precisar reconstruir o raciocínio.
+
+---
+
+# ⏵ RETOMAR AQUI — biblioteca de conteúdos (10/08/2026)
+
+**A frente aberta é a biblioteca de conteúdos, e ela não está no ar.** O banco de
+questões está fechado; a parte de baixo desta página é sobre ele e não precisa
+ser lida para continuar.
+
+## O próximo passo, já decidido
+
+**Ligar vídeos formativos do [DIVERSA](https://diversa.org.br/) às 98 células da
+matriz de conteúdos.** O mantenedor escolheu esta opção em 10/08/2026, entre:
+
+1. ✅ **escolhida** — vídeo formativo por célula da matriz, cobrindo as catorze
+   especialidades com material sobre *como aplicar* aquela adaptação;
+2. ❌ parar a curadoria com uma especialidade servida e as treze restantes
+   contando só com a matriz escrita.
+
+O que isso implica, e ainda não foi feito: **vídeo passa a existir em dois
+lugares** — no conteúdo (aula da matéria acessível ao aluno) e na célula da
+matriz (formação do professor). São dois papéis diferentes e o modelo precisa
+distingui-los, como já distingue `paraEspecialidade` de vídeo geral.
+
+O DIVERSA é do Instituto Rodrigo Mendes, é institucional, e tem canal no
+YouTube. **Falta descobrir como obter os ids**: página de canal e playlist do
+YouTube são renderizadas por JavaScript e não devolvem nada — foi assim que a
+curadoria de Matemática só funcionou pelo portal do IMPA, que é HTML comum com
+os vídeos embutidos. Procure páginas do `diversa.org.br` que embutam o vídeo.
+
+## Estado em 10/08/2026
+
+| peça | estado |
+|---|---|
+| 156 conteúdos, 13 das 14 matérias | ✅ na `main` |
+| matriz de conteúdos, 98 de 98 células | ✅ na `main` |
+| verificadores (`conteudos`, `videos`, BNCC EF+EM) | ✅ na `main` |
+| 17 vídeos verificados, **todos aguardando revisão** | ✅ na `main` |
+| vídeos formativos por célula (passo escolhido) | ❌ não começado |
+| tabela `conteudos` no Supabase | ❌ não começado |
+| página `/conteudos` | ❌ ainda lê as 11 linhas antigas |
+
+Educação Física fica em zero por decisão do mantenedor — o conferidor a lista
+como "nenhum", que é lacuna declarada e não esquecimento.
+
+**Nada foi enviado ao Supabase de propósito.** O mantenedor decidiu subir só
+quando tudo estiver pronto, e é por isso que a página continua com as onze
+linhas antigas mesmo com 156 conteúdos no repositório.
+
+## Os 17 vídeos esperam alguém assistir
+
+Nenhum vai ao ar antes disso — é regra do envio, não recomendação.
+
+```bash
+npm run videos -- --fila    # lista com link e duração
+```
+
+São 9 do **TV INES** (Libras, INES/MEC) e 8 do **Portal da Matemática
+OBMEP/IMPA**. Para aprovar, marque `revisado: true` no JSON do conteúdo.
+
+## Três armadilhas desta frente, todas já pagas
+
+- **A página do portal do IMPA lista os títulos deslocados em um** em relação
+  aos ids. Os oito vídeos de Matemática entrariam com nome errado se o título
+  tivesse sido copiado da página. Por isso `videos.mjs` lê da API e sobrescreve:
+  **título de vídeo nunca é digitado.**
+- **O YouTube responde 429 depois de algumas dezenas de requisições**, com uma
+  página de três mil bytes e nenhuma duração. A primeira versão tratava isso
+  como "não consegui ler a duração", que se parece com vídeo defeituoso, e teria
+  feito o conferidor recusar treze vídeos perfeitos. Agora há repetição com
+  espera crescente e a mensagem diz o que houve.
+- **Ler-modificar-escrever apagou um vídeo.** O script rodava em segundo plano
+  enquanto novos vídeos eram acrescentados aos mesmos arquivos; a regravação do
+  objeto em memória sobrescreveu o que tinha entrado depois da leitura. Perdeu-se
+  o vídeo de DNA, e só apareceu porque a contagem não bateu. `videos.mjs` agora
+  relê o arquivo imediatamente antes de gravar.
+
+## O verificador de conteúdos erra por sentido de palavra
+
+`npm run conteudos` levanta sinais por palavra e **acerta pouco sozinho**. Na
+primeira execução foram nove avisos e os nove eram falsos — "quadra" dentro de
+*quadrado*, "conto" dentro de *desconto*, "meça" dentro de *começa*. Depois
+vieram falsos por negação ("sem manipulação", "sem relatório") e por outro
+sentido ("fórmula" como estrutura de produto cultural, "esquema de rimas").
+
+Quando um sinal for legítimo, declare a exigência. Quando não for, use
+`sinaisDispensados` **com o motivo escrito** — o verificador recusa dispensa sem
+motivo e dispensa sem sinal correspondente. São 9 dispensas registradas.
+
+---
+
+# Banco de questões — fechado
+
+
 
 Conferido de ponta a ponta em 09/08/2026, na `main`: os quatro verificadores
 passam, os 105 links respondem, e o banco tem as linhas que esta página diz que

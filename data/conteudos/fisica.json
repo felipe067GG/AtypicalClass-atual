@@ -69,7 +69,18 @@
    ],
    "sinaisDispensados": {
     "abstracao-simbolica": "\"variáveis\" aqui são grandezas observadas (direção e comprimento da sombra); no 6º ano não se opera com símbolo nenhum"
-   }
+   },
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=ZZYmnubbBnQ",
+     "titulo": "O Sistema Solar - DE OLHO NA CIÊNCIA",
+     "canal": "TV INES",
+     "duracaoSegundos": 1036,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
+   ]
   },
   {
    "id": "fisica-fontes-de-energia",
@@ -320,6 +331,17 @@
     {
      "label": "Educação Pública / CECIERJ — experimentação no ensino de Física",
      "url": "https://educacaopublica.cecierj.edu.br/artigos/18/9/experimentao-no-ensino-e-aprendizagem-de-fsica"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=qw1Y5W9ePfA",
+     "titulo": "A HISTÓRIA DAS COISAS – LUZ (TV INES / LIBRAS)",
+     "canal": "TV INES",
+     "duracaoSegundos": 321,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
     }
    ]
   },

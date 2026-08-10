@@ -567,6 +567,17 @@
      "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
      "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
     }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=Cg6qUk-UN98",
+     "titulo": "A Importância da Água  – Parte 1 - DE OLHO NA CIÊNCIA",
+     "canal": "TV INES",
+     "duracaoSegundos": 845,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   },
   {

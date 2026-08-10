@@ -7,17 +7,41 @@
    "ano": "1ª série",
    "titulo": "O que separa um argumento de uma opinião",
    "descricao": "O aluno identifica premissas e conclusão num texto e reconhece quando uma afirmação está apenas declarada.",
-   "bncc": ["EM13CHS103"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS103"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno reescreve três afirmações no formato premissa-premissa-conclusão.",
     "duracao": 50,
-    "materiais": ["Trechos de opinião publicada", "Ficha de reconstrução de argumento"],
+    "materiais": [
+     "Trechos de opinião publicada",
+     "Ficha de reconstrução de argumento"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Achar a conclusão", "comoFazer": "Em cada trecho, o que o autor quer que se aceite? A conclusão nem sempre vem no fim, e localizá-la é o primeiro passo." },
-     { "minutos": 13, "titulo": "Achar o que a sustenta", "comoFazer": "As premissas são o que resta quando se tira a conclusão. Trecho sem premissa é declaração, e dizer isso não é ofensa." },
-     { "minutos": 15, "titulo": "Reconstruir em três linhas", "comoFazer": "Premissa, premissa, conclusão. O formato despe o texto de retórica e mostra o esqueleto." },
-     { "minutos": 10, "titulo": "Onde ele falha", "comoFazer": "Com o esqueleto à vista, a premissa frágil aparece. Crítica passa a ter endereço." }
+     {
+      "minutos": 12,
+      "titulo": "Achar a conclusão",
+      "comoFazer": "Em cada trecho, o que o autor quer que se aceite? A conclusão nem sempre vem no fim, e localizá-la é o primeiro passo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Achar o que a sustenta",
+      "comoFazer": "As premissas são o que resta quando se tira a conclusão. Trecho sem premissa é declaração, e dizer isso não é ofensa."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Reconstruir em três linhas",
+      "comoFazer": "Premissa, premissa, conclusão. O formato despe o texto de retórica e mostra o esqueleto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Onde ele falha",
+      "comoFazer": "Com o esqueleto à vista, a premissa frágil aparece. Crítica passa a ter endereço."
+     }
     ],
     "comoAvaliar": "As três reconstruções. Reescrever mantendo os adjetivos indica que a retórica não foi separada do argumento.",
     "errosComuns": [
@@ -27,8 +51,14 @@
     ]
    },
    "fontes": [
-    { "label": "ANPOF — Associação Nacional de Pós-Graduação em Filosofia", "url": "https://www.anpof.org/" },
-    { "label": "Trans/Form/Ação — revista de filosofia, acesso aberto", "url": "https://www.scielo.br/j/trans/" }
+    {
+     "label": "ANPOF — Associação Nacional de Pós-Graduação em Filosofia",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "Trans/Form/Ação — revista de filosofia, acesso aberto",
+     "url": "https://www.scielo.br/j/trans/"
+    }
    ]
   },
   {
@@ -37,17 +67,41 @@
    "ano": "1ª série",
    "titulo": "Falácias: quando o argumento parece funcionar e não funciona",
    "descricao": "O aluno reconhece falácias comuns em discursos reais e explica por que a conclusão não se sustenta.",
-   "bncc": ["EM13CHS103"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS103"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno nomeia três falácias em material real e explica o defeito de cada uma.",
     "duracao": 50,
-    "materiais": ["Postagens e propagandas reais", "Cartões com quatro falácias"],
+    "materiais": [
+     "Postagens e propagandas reais",
+     "Cartões com quatro falácias"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Quatro, e só quatro", "comoFazer": "Ad hominem, apelo à autoridade indevida, falso dilema, generalização apressada. Lista curta e bem trabalhada rende mais que catálogo." },
-     { "minutos": 13, "titulo": "Caçar em material real", "comoFazer": "Postagens e propagandas, não exemplos de manual. A falácia de manual é fácil demais e não transfere." },
-     { "minutos": 15, "titulo": "Explicar o defeito", "comoFazer": "Nomear não basta: é preciso dizer por que a conclusão não decorre. Rotular sem explicar é outra falácia." },
-     { "minutos": 10, "titulo": "A armadilha do rótulo", "comoFazer": "Discuta o uso de 'isso é falácia' como forma de encerrar debate sem argumentar." }
+     {
+      "minutos": 12,
+      "titulo": "Quatro, e só quatro",
+      "comoFazer": "Ad hominem, apelo à autoridade indevida, falso dilema, generalização apressada. Lista curta e bem trabalhada rende mais que catálogo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Caçar em material real",
+      "comoFazer": "Postagens e propagandas, não exemplos de manual. A falácia de manual é fácil demais e não transfere."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Explicar o defeito",
+      "comoFazer": "Nomear não basta: é preciso dizer por que a conclusão não decorre. Rotular sem explicar é outra falácia."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A armadilha do rótulo",
+      "comoFazer": "Discuta o uso de 'isso é falácia' como forma de encerrar debate sem argumentar."
+     }
     ],
     "comoAvaliar": "Os três casos com explicação. Nomear corretamente sem explicar o defeito não cumpre.",
     "errosComuns": [
@@ -57,8 +111,14 @@
     ]
    },
    "fontes": [
-    { "label": "ANPOF", "url": "https://www.anpof.org/" },
-    { "label": "Trans/Form/Ação — revista de filosofia", "url": "https://www.scielo.br/j/trans/" }
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "Trans/Form/Ação — revista de filosofia",
+     "url": "https://www.scielo.br/j/trans/"
+    }
    ]
   },
   {
@@ -67,17 +127,41 @@
    "ano": "1ª série",
    "titulo": "Fundamentos da ética em diferentes culturas",
    "descricao": "O aluno compara fundamentos da ética em tradições distintas e identifica o que cada uma toma como critério do agir correto.",
-   "bncc": ["EM13CHS501"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS501"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno aplica dois critérios éticos diferentes ao mesmo caso e mostra que levam a respostas distintas.",
     "duracao": 50,
-    "materiais": ["Trechos curtos de três tradições éticas", "Dilema concreto impresso"],
+    "materiais": [
+     "Trechos curtos de três tradições éticas",
+     "Dilema concreto impresso"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "O caso primeiro", "comoFazer": "Apresente o dilema e peça a resposta intuitiva da turma, por escrito. Ela será confrontada." },
-     { "minutos": 13, "titulo": "Três critérios", "comoFazer": "Consequência, dever, caráter. Cada um com um trecho curto — a teoria entra a serviço do caso." },
-     { "minutos": 15, "titulo": "Aplicar dois deles", "comoFazer": "O mesmo dilema, dois critérios. Quando as respostas divergem, a estrutura do desacordo fica visível." },
-     { "minutos": 10, "titulo": "Rever a intuição", "comoFazer": "Cada aluno volta à resposta inicial e identifica qual critério ela usava sem saber." }
+     {
+      "minutos": 12,
+      "titulo": "O caso primeiro",
+      "comoFazer": "Apresente o dilema e peça a resposta intuitiva da turma, por escrito. Ela será confrontada."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Três critérios",
+      "comoFazer": "Consequência, dever, caráter. Cada um com um trecho curto — a teoria entra a serviço do caso."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Aplicar dois deles",
+      "comoFazer": "O mesmo dilema, dois critérios. Quando as respostas divergem, a estrutura do desacordo fica visível."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Rever a intuição",
+      "comoFazer": "Cada aluno volta à resposta inicial e identifica qual critério ela usava sem saber."
+     }
     ],
     "comoAvaliar": "As duas aplicações com respostas distintas. Aplicar os dois e chegar ao mesmo lugar sem perceber a diferença indica aplicação superficial.",
     "errosComuns": [
@@ -87,9 +171,18 @@
     ]
    },
    "fontes": [
-    { "label": "ANPOF", "url": "https://www.anpof.org/" },
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "BNCC — Ensino Médio (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf" }
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
    ]
   },
   {
@@ -98,17 +191,41 @@
    "ano": "2ª série",
    "titulo": "Desnaturalizar o cotidiano: por que fazemos o que fazemos",
    "descricao": "O aluno problematiza hábitos, valores e condutas da vida cotidiana, reconhecendo o que neles é histórico e não natural.",
-   "bncc": ["EM13CHS502"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS502"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno mostra que um hábito que parece natural tem data e razão de existir.",
     "duracao": 50,
-    "materiais": ["Lista de hábitos cotidianos", "Fontes sobre a origem de dois deles"],
+    "materiais": [
+     "Lista de hábitos cotidianos",
+     "Fontes sobre a origem de dois deles"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Listar o óbvio", "comoFazer": "Horários de refeição, uso do relógio, roupa por gênero. Coisas que ninguém pensa em justificar." },
-     { "minutos": 13, "titulo": "Perguntar desde quando", "comoFazer": "Escolha dois da lista e investigue a origem. Ter data já desfaz a naturalidade." },
-     { "minutos": 15, "titulo": "A quem serve", "comoFazer": "Todo hábito instituído organiza algo para alguém. Perguntar isso é o passo filosófico, e não apenas histórico." },
-     { "minutos": 10, "titulo": "O limite da crítica", "comoFazer": "Nem todo hábito precisa cair por ser construído. Desnaturalizar é poder escolher, não obrigar a rejeitar." }
+     {
+      "minutos": 12,
+      "titulo": "Listar o óbvio",
+      "comoFazer": "Horários de refeição, uso do relógio, roupa por gênero. Coisas que ninguém pensa em justificar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Perguntar desde quando",
+      "comoFazer": "Escolha dois da lista e investigue a origem. Ter data já desfaz a naturalidade."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A quem serve",
+      "comoFazer": "Todo hábito instituído organiza algo para alguém. Perguntar isso é o passo filosófico, e não apenas histórico."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O limite da crítica",
+      "comoFazer": "Nem todo hábito precisa cair por ser construído. Desnaturalizar é poder escolher, não obrigar a rejeitar."
+     }
     ],
     "comoAvaliar": "O hábito com origem datada e a análise de a quem serve. Só a data é curiosidade histórica.",
     "errosComuns": [
@@ -118,8 +235,14 @@
     ]
    },
    "fontes": [
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "ANPOF", "url": "https://www.anpof.org/" }
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    }
    ]
   },
   {
@@ -128,17 +251,42 @@
    "ano": "2ª série",
    "titulo": "Como se justifica que algo é verdade",
    "descricao": "O aluno distingue crença, opinião justificada e conhecimento, e discute critérios de justificação.",
-   "bncc": ["EM13CHS103", "EM13CHS501"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS103",
+    "EM13CHS501"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno classifica cinco afirmações e diz o que faltaria para cada uma virar conhecimento.",
     "duracao": 50,
-    "materiais": ["Cinco afirmações variadas", "Ficha de classificação"],
+    "materiais": [
+     "Cinco afirmações variadas",
+     "Ficha de classificação"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Acreditar não basta", "comoFazer": "Um caso de crença verdadeira por sorte. A intuição de que isso não é conhecimento aparece sozinha, e é o começo do problema." },
-     { "minutos": 13, "titulo": "O que é justificar", "comoFazer": "Evidência, método, coerência. Três critérios que funcionam de modo diferente conforme o tipo de afirmação." },
-     { "minutos": 15, "titulo": "Classificar as cinco", "comoFazer": "Para cada uma, o que sustenta e o que falta. Afirmação matemática e afirmação histórica se justificam de modos distintos." },
-     { "minutos": 10, "titulo": "E o que não se decide", "comoFazer": "Há afirmações de valor que não se resolvem por evidência. Reconhecer isso não é relativismo — é precisão." }
+     {
+      "minutos": 12,
+      "titulo": "Acreditar não basta",
+      "comoFazer": "Um caso de crença verdadeira por sorte. A intuição de que isso não é conhecimento aparece sozinha, e é o começo do problema."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que é justificar",
+      "comoFazer": "Evidência, método, coerência. Três critérios que funcionam de modo diferente conforme o tipo de afirmação."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Classificar as cinco",
+      "comoFazer": "Para cada uma, o que sustenta e o que falta. Afirmação matemática e afirmação histórica se justificam de modos distintos."
+     },
+     {
+      "minutos": 10,
+      "titulo": "E o que não se decide",
+      "comoFazer": "Há afirmações de valor que não se resolvem por evidência. Reconhecer isso não é relativismo — é precisão."
+     }
     ],
     "comoAvaliar": "A ficha com o que falta a cada afirmação. Classificar tudo como opinião indica que os critérios não foram aplicados.",
     "errosComuns": [
@@ -148,8 +296,14 @@
     ]
    },
    "fontes": [
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "ANPOF", "url": "https://www.anpof.org/" }
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    }
    ]
   },
   {
@@ -158,17 +312,41 @@
    "ano": "2ª série",
    "titulo": "Somos livres? Liberdade, determinação e responsabilidade",
    "descricao": "O aluno discute em que medida escolhas são livres e o que isso implica para a atribuição de responsabilidade.",
-   "bncc": ["EM13CHS504"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS504"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno defende uma posição e responde à objeção mais forte contra ela.",
     "duracao": 50,
-    "materiais": ["Casos limite (compulsão, coação, influência)", "Ficha de posição"],
+    "materiais": [
+     "Casos limite (compulsão, coação, influência)",
+     "Ficha de posição"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Os casos limite", "comoFazer": "Três situações em que a liberdade é discutível. Começar pelos casos difíceis evita a discussão abstrata." },
-     { "minutos": 13, "titulo": "O que muda a responsabilidade", "comoFazer": "Se a escolha não foi livre, o julgamento muda. A questão deixa de ser especulativa e passa a ter consequência prática." },
-     { "minutos": 15, "titulo": "Tomar posição", "comoFazer": "Cada aluno escreve sua posição em uma frase e duas razões." },
-     { "minutos": 10, "titulo": "Receber a objeção", "comoFazer": "Um colega apresenta a objeção mais forte, e o autor precisa respondê-la por escrito." }
+     {
+      "minutos": 12,
+      "titulo": "Os casos limite",
+      "comoFazer": "Três situações em que a liberdade é discutível. Começar pelos casos difíceis evita a discussão abstrata."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que muda a responsabilidade",
+      "comoFazer": "Se a escolha não foi livre, o julgamento muda. A questão deixa de ser especulativa e passa a ter consequência prática."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Tomar posição",
+      "comoFazer": "Cada aluno escreve sua posição em uma frase e duas razões."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Receber a objeção",
+      "comoFazer": "Um colega apresenta a objeção mais forte, e o autor precisa respondê-la por escrito."
+     }
     ],
     "comoAvaliar": "A resposta à objeção. Posição sem resposta à objeção é declaração.",
     "errosComuns": [
@@ -178,8 +356,14 @@
     ]
    },
    "fontes": [
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "ANPOF", "url": "https://www.anpof.org/" }
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    }
    ]
   },
   {
@@ -188,17 +372,42 @@
    "ano": "3ª série",
    "titulo": "O que torna uma distribuição justa",
    "descricao": "O aluno analisa critérios de justiça distributiva e os aplica a situações concretas de desigualdade.",
-   "bncc": ["EM13CHS504", "EM13CHS502"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS504",
+    "EM13CHS502"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno distribui um recurso escasso por três critérios diferentes e defende um deles.",
     "duracao": 50,
-    "materiais": ["Situação de recurso escasso", "Cartões com critérios de distribuição"],
+    "materiais": [
+     "Situação de recurso escasso",
+     "Cartões com critérios de distribuição"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Distribuir sem critério", "comoFazer": "Apresente o problema e peça a solução imediata. As soluções divergem, e a divergência é o assunto." },
-     { "minutos": 13, "titulo": "Nomear os critérios usados", "comoFazer": "Necessidade, mérito, igualdade, sorteio. A turma já usou alguns sem nomear." },
-     { "minutos": 15, "titulo": "Distribuir por três critérios", "comoFazer": "O mesmo recurso, três resultados. A comparação mostra que 'justo' não é uma coisa só." },
-     { "minutos": 10, "titulo": "Defender um", "comoFazer": "Escolha com justificativa, incluindo o que ela custa a quem perde." }
+     {
+      "minutos": 12,
+      "titulo": "Distribuir sem critério",
+      "comoFazer": "Apresente o problema e peça a solução imediata. As soluções divergem, e a divergência é o assunto."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nomear os critérios usados",
+      "comoFazer": "Necessidade, mérito, igualdade, sorteio. A turma já usou alguns sem nomear."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Distribuir por três critérios",
+      "comoFazer": "O mesmo recurso, três resultados. A comparação mostra que 'justo' não é uma coisa só."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Defender um",
+      "comoFazer": "Escolha com justificativa, incluindo o que ela custa a quem perde."
+     }
     ],
     "comoAvaliar": "As três distribuições e a defesa com o custo assumido. Defender sem reconhecer o custo é escolha sem consequência.",
     "errosComuns": [
@@ -208,9 +417,18 @@
     ]
    },
    "fontes": [
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "ANPOF", "url": "https://www.anpof.org/" },
-    { "label": "BNCC — Ensino Médio (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf" }
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
    ]
   },
   {
@@ -219,17 +437,41 @@
    "ano": "3ª série",
    "titulo": "A técnica decide sozinha? Impasses ético-políticos da tecnologia",
    "descricao": "O aluno analisa impasses ético-políticos decorrentes de transformações tecnológicas contemporâneas.",
-   "bncc": ["EM13CHS504"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS504"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno identifica, num caso de tecnologia atual, uma decisão de valor apresentada como decisão técnica.",
     "duracao": 50,
-    "materiais": ["Caso sobre algoritmo de recomendação ou reconhecimento facial", "Ficha de análise"],
+    "materiais": [
+     "Caso sobre algoritmo de recomendação ou reconhecimento facial",
+     "Ficha de análise"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Como funciona", "comoFazer": "Entenda o mecanismo antes de julgá-lo. Crítica de tecnologia sem entender o funcionamento erra o alvo." },
-     { "minutos": 13, "titulo": "Onde alguém escolheu", "comoFazer": "Todo sistema embute escolhas: o que otimizar, quem tem prioridade. Localizar a escolha é o exercício." },
-     { "minutos": 15, "titulo": "Quem ganha e quem perde", "comoFazer": "Liste os afetados, inclusive os que não usam o sistema." },
-     { "minutos": 10, "titulo": "Poderia ser diferente", "comoFazer": "Proponha uma escolha alternativa e o que ela mudaria. Alternativa concreta é o que separa crítica de lamento." }
+     {
+      "minutos": 12,
+      "titulo": "Como funciona",
+      "comoFazer": "Entenda o mecanismo antes de julgá-lo. Crítica de tecnologia sem entender o funcionamento erra o alvo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Onde alguém escolheu",
+      "comoFazer": "Todo sistema embute escolhas: o que otimizar, quem tem prioridade. Localizar a escolha é o exercício."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Quem ganha e quem perde",
+      "comoFazer": "Liste os afetados, inclusive os que não usam o sistema."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Poderia ser diferente",
+      "comoFazer": "Proponha uma escolha alternativa e o que ela mudaria. Alternativa concreta é o que separa crítica de lamento."
+     }
     ],
     "comoAvaliar": "A decisão de valor identificada e a alternativa proposta. Dizer que 'a tecnologia é neutra' ou 'é toda ruim' são os dois extremos a evitar.",
     "errosComuns": [
@@ -239,8 +481,14 @@
     ]
    },
    "fontes": [
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "ANPOF", "url": "https://www.anpof.org/" }
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    }
    ]
   },
   {
@@ -249,17 +497,41 @@
    "ano": "3ª série",
    "titulo": "Conceitos políticos básicos e o que se perde ao confundi-los",
    "descricao": "O aluno compreende e aplica conceitos como Estado, poder, formas e sistemas de governo.",
-   "bncc": ["EM13CHS603"],
-   "exigencias": ["vocabulario-tecnico", "leitura-extensa"],
+   "bncc": [
+    "EM13CHS603"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno usa corretamente quatro conceitos ao analisar uma notícia política.",
     "duracao": 50,
-    "materiais": ["Notícia política atual", "Quadro de conceitos"],
+    "materiais": [
+     "Notícia política atual",
+     "Quadro de conceitos"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Distinguir os pares", "comoFazer": "Estado e governo, forma e sistema, poder e autoridade. Trabalhar em pares evita a lista decorada." },
-     { "minutos": 13, "titulo": "Um exemplo por conceito", "comoFazer": "Cada conceito precisa de um caso real. Definição sem caso não sobrevive à prova." },
-     { "minutos": 15, "titulo": "Aplicar à notícia", "comoFazer": "Marque na notícia onde cada conceito aparece — e onde o texto os confunde." },
-     { "minutos": 10, "titulo": "Reescrever a manchete", "comoFazer": "Com os conceitos corretos. A imprecisão conceitual muda o que a notícia afirma." }
+     {
+      "minutos": 12,
+      "titulo": "Distinguir os pares",
+      "comoFazer": "Estado e governo, forma e sistema, poder e autoridade. Trabalhar em pares evita a lista decorada."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Um exemplo por conceito",
+      "comoFazer": "Cada conceito precisa de um caso real. Definição sem caso não sobrevive à prova."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Aplicar à notícia",
+      "comoFazer": "Marque na notícia onde cada conceito aparece — e onde o texto os confunde."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Reescrever a manchete",
+      "comoFazer": "Com os conceitos corretos. A imprecisão conceitual muda o que a notícia afirma."
+     }
     ],
     "comoAvaliar": "A análise da notícia com os quatro conceitos. Usar 'governo' para tudo é o ponto de partida esperado.",
     "errosComuns": [
@@ -269,8 +541,14 @@
     ]
    },
    "fontes": [
-    { "label": "ANPOF", "url": "https://www.anpof.org/" },
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" }
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    }
    ]
   },
   {
@@ -279,17 +557,41 @@
    "ano": "3ª série",
    "titulo": "Direitos humanos: fundamento, universalidade e objeções",
    "descricao": "O aluno discute a fundamentação dos direitos humanos e responde às objeções mais frequentes a eles.",
-   "bncc": ["EM13CHS605"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS605"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno responde à objeção 'direitos humanos para humanos direitos' com argumento, e não com indignação.",
     "duracao": 50,
-    "materiais": ["Declaração Universal, trechos", "Objeções comuns listadas"],
+    "materiais": [
+     "Declaração Universal, trechos",
+     "Objeções comuns listadas"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ler o documento", "comoFazer": "Trechos da Declaração. Muita discussão acontece sem que ninguém tenha lido o texto." },
-     { "minutos": 13, "titulo": "Qual é o fundamento", "comoFazer": "Dignidade, reciprocidade, contrato. Diferentes fundamentações levam a diferentes respostas às objeções." },
-     { "minutos": 15, "titulo": "Enfrentar a objeção", "comoFazer": "A objeção mais comum é sobre quem 'merece'. Responder exige o fundamento, e não o tom." },
-     { "minutos": 10, "titulo": "O caso difícil", "comoFazer": "Direito de quem cometeu crime grave. É onde o princípio se testa, e evitá-lo enfraquece a aula." }
+     {
+      "minutos": 12,
+      "titulo": "Ler o documento",
+      "comoFazer": "Trechos da Declaração. Muita discussão acontece sem que ninguém tenha lido o texto."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Qual é o fundamento",
+      "comoFazer": "Dignidade, reciprocidade, contrato. Diferentes fundamentações levam a diferentes respostas às objeções."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Enfrentar a objeção",
+      "comoFazer": "A objeção mais comum é sobre quem 'merece'. Responder exige o fundamento, e não o tom."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O caso difícil",
+      "comoFazer": "Direito de quem cometeu crime grave. É onde o princípio se testa, e evitá-lo enfraquece a aula."
+     }
     ],
     "comoAvaliar": "A resposta à objeção com fundamento explicitado. Resposta indignada sem argumento não cumpre.",
     "errosComuns": [
@@ -299,9 +601,18 @@
     ]
    },
    "fontes": [
-    { "label": "ANPOF", "url": "https://www.anpof.org/" },
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "BNCC — Ensino Médio (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf" }
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
    ]
   },
   {
@@ -310,17 +621,41 @@
    "ano": "2ª série",
    "titulo": "Filosofia produzida no Brasil e por brasileiros",
    "descricao": "O aluno reconhece a produção filosófica brasileira e afro-brasileira e a relaciona a questões do país.",
-   "bncc": ["EM13CHS601"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS601"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno relaciona um conceito de autoria brasileira a uma situação concreta do país.",
     "duracao": 50,
-    "materiais": ["Trechos de pensadores brasileiros", "Casos atuais"],
+    "materiais": [
+     "Trechos de pensadores brasileiros",
+     "Casos atuais"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ler sem hierarquia", "comoFazer": "Os trechos entram como filosofia, e não como estudo local. A moldura importa tanto quanto o texto." },
-     { "minutos": 13, "titulo": "Qual problema o texto enfrenta", "comoFazer": "Todo conceito responde a um problema. Identificá-lo evita a leitura decorativa." },
-     { "minutos": 15, "titulo": "Aplicar ao presente", "comoFazer": "O conceito serve para ler o quê, hoje? A aplicação é o teste de que o conceito foi entendido." },
-     { "minutos": 10, "titulo": "Comparar com o cânone", "comoFazer": "Onde dialoga e onde diverge da tradição europeia. Comparação sem subordinação." }
+     {
+      "minutos": 12,
+      "titulo": "Ler sem hierarquia",
+      "comoFazer": "Os trechos entram como filosofia, e não como estudo local. A moldura importa tanto quanto o texto."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Qual problema o texto enfrenta",
+      "comoFazer": "Todo conceito responde a um problema. Identificá-lo evita a leitura decorativa."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Aplicar ao presente",
+      "comoFazer": "O conceito serve para ler o quê, hoje? A aplicação é o teste de que o conceito foi entendido."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar com o cânone",
+      "comoFazer": "Onde dialoga e onde diverge da tradição europeia. Comparação sem subordinação."
+     }
     ],
     "comoAvaliar": "A aplicação do conceito a um caso concreto. Repetir a definição não mostra compreensão.",
     "errosComuns": [
@@ -330,8 +665,14 @@
     ]
    },
    "fontes": [
-    { "label": "ANPOF", "url": "https://www.anpof.org/" },
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" }
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    },
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    }
    ]
   },
   {
@@ -340,17 +681,41 @@
    "ano": "1ª série",
    "titulo": "Consumo e descarte: problematizar hábitos coletivos",
    "descricao": "O aluno problematiza hábitos individuais e coletivos de produção e descarte, e avalia a distribuição de responsabilidades.",
-   "bncc": ["EM13CHS301"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS301"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno distingue o que é responsabilidade individual do que é decisão de produção, com um exemplo de cada.",
     "duracao": 50,
-    "materiais": ["Dados de resíduo da escola", "Peça publicitária sobre reciclagem"],
+    "materiais": [
+     "Dados de resíduo da escola",
+     "Peça publicitária sobre reciclagem"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Pesar o próprio lixo", "comoFazer": "Um dia de resíduo da sala, separado por tipo. Dado próprio muda a conversa." },
-     { "minutos": 13, "titulo": "Quem decidiu a embalagem", "comoFazer": "O consumidor escolhe entre o que existe. A escolha anterior, de quem produz, define o campo." },
-     { "minutos": 15, "titulo": "Ler a propaganda", "comoFazer": "Muita campanha desloca a responsabilidade para o consumidor. Identificar esse deslocamento é o exercício filosófico." },
-     { "minutos": 10, "titulo": "Duas ações", "comoFazer": "Uma individual e uma coletiva, com o alcance de cada uma estimado." }
+     {
+      "minutos": 12,
+      "titulo": "Pesar o próprio lixo",
+      "comoFazer": "Um dia de resíduo da sala, separado por tipo. Dado próprio muda a conversa."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Quem decidiu a embalagem",
+      "comoFazer": "O consumidor escolhe entre o que existe. A escolha anterior, de quem produz, define o campo."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler a propaganda",
+      "comoFazer": "Muita campanha desloca a responsabilidade para o consumidor. Identificar esse deslocamento é o exercício filosófico."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Duas ações",
+      "comoFazer": "Uma individual e uma coletiva, com o alcance de cada uma estimado."
+     }
     ],
     "comoAvaliar": "Os dois exemplos com a distinção clara. Propor só ação individual indica que o deslocamento não foi percebido.",
     "errosComuns": [
@@ -360,8 +725,25 @@
     ]
    },
    "fontes": [
-    { "label": "Trans/Form/Ação", "url": "https://www.scielo.br/j/trans/" },
-    { "label": "ANPOF", "url": "https://www.anpof.org/" }
+    {
+     "label": "Trans/Form/Ação",
+     "url": "https://www.scielo.br/j/trans/"
+    },
+    {
+     "label": "ANPOF",
+     "url": "https://www.anpof.org/"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=1I8ft5BCVMU",
+     "titulo": "A produção de lixo e seus impactos (Parte 1) - DE OLHO NA CIÊNCIA",
+     "canal": "TV INES",
+     "duracaoSegundos": 775,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   }
  ]

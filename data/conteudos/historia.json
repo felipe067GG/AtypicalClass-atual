@@ -7,17 +7,43 @@
    "ano": "3º ano",
    "titulo": "Um mesmo acontecimento, dois pontos de vista",
    "descricao": "O aluno consulta fontes de naturezas diferentes sobre um evento da própria cidade e compara os pontos de vista que elas registram.",
-   "bncc": ["EF03HI02", "EF03HI03"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EF03HI02",
+    "EF03HI03"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno diz, sobre duas fontes do mesmo evento, quem produziu cada uma e o que cada uma deixou de fora.",
     "duracao": 50,
-    "materiais": ["Duas notícias antigas sobre um fato local", "Depoimento de um morador, gravado ou transcrito", "Foto do lugar hoje"],
+    "materiais": [
+     "Duas notícias antigas sobre um fato local",
+     "Depoimento de um morador, gravado ou transcrito",
+     "Foto do lugar hoje"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Duas versões do mesmo dia", "comoFazer": "Leia as duas fontes sem dizer qual é a certa. A pergunta inicial é só uma: o que cada uma conta?" },
-     { "minutos": 13, "titulo": "Quem escreveu isto", "comoFazer": "Para cada fonte, responda três coisas: quem fez, quando, para quem. É a pergunta que transforma texto em fonte, e ela cabe no 3º ano." },
-     { "minutos": 15, "titulo": "O que não está lá", "comoFazer": "Liste o que uma fonte conta e a outra não. A ausência é informação — e é mais fácil de perceber comparando do que lendo uma só." },
-     { "minutos": 10, "titulo": "Registrar a comparação", "comoFazer": "Cada aluno escreve duas frases: uma sobre o que as fontes concordam, outra sobre o que discordam." }
+     {
+      "minutos": 12,
+      "titulo": "Duas versões do mesmo dia",
+      "comoFazer": "Leia as duas fontes sem dizer qual é a certa. A pergunta inicial é só uma: o que cada uma conta?"
+     },
+     {
+      "minutos": 13,
+      "titulo": "Quem escreveu isto",
+      "comoFazer": "Para cada fonte, responda três coisas: quem fez, quando, para quem. É a pergunta que transforma texto em fonte, e ela cabe no 3º ano."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que não está lá",
+      "comoFazer": "Liste o que uma fonte conta e a outra não. A ausência é informação — e é mais fácil de perceber comparando do que lendo uma só."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Registrar a comparação",
+      "comoFazer": "Cada aluno escreve duas frases: uma sobre o que as fontes concordam, outra sobre o que discordam."
+     }
     ],
     "comoAvaliar": "As duas frases finais. Escrever que uma fonte 'está errada' em vez de 'conta de outro lugar' mostra que a noção de ponto de vista ainda não entrou.",
     "errosComuns": [
@@ -27,9 +53,18 @@
     ]
    },
    "fontes": [
-    { "label": "Arquivo Nacional — instituição responsável pela guarda do acervo documental federal", "url": "https://www.gov.br/arquivonacional/pt-br" },
-    { "label": "Biblioteca Digital do Arquivo Nacional — acervo digitalizado e consultável", "url": "https://bdan.an.gov.br/" },
-    { "label": "Portal do Professor (MEC) — planos de aula e recursos", "url": "https://portaldoprofessor.mec.gov.br/" }
+    {
+     "label": "Arquivo Nacional — instituição responsável pela guarda do acervo documental federal",
+     "url": "https://www.gov.br/arquivonacional/pt-br"
+    },
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional — acervo digitalizado e consultável",
+     "url": "https://bdan.an.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC) — planos de aula e recursos",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
    ]
   },
   {
@@ -38,17 +73,42 @@
    "ano": "4º ano",
    "titulo": "Como as notícias chegavam antes: transformações nos meios de comunicação",
    "descricao": "O aluno identifica as mudanças na comunicação — da cultura oral à imprensa, ao rádio e à televisão — e o que cada mudança tornou possível.",
-   "bncc": ["EF04HI08"],
-   "exigencias": ["representacao-visual", "leitura-extensa"],
+   "bncc": [
+    "EF04HI08"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno monta uma linha do tempo com quatro meios e diz, para cada um, o que ele permitiu que antes não dava.",
     "duracao": 50,
-    "materiais": ["Imagens de jornal antigo, rádio, TV e celular", "Papel kraft para a linha do tempo", "Depoimento de um familiar sobre como recebia notícias"],
+    "materiais": [
+     "Imagens de jornal antigo, rádio, TV e celular",
+     "Papel kraft para a linha do tempo",
+     "Depoimento de um familiar sobre como recebia notícias"
+    ],
     "etapas": [
-     { "minutos": 10, "titulo": "Perguntar em casa", "comoFazer": "A tarefa da véspera: perguntar a alguém mais velho como soube de uma notícia importante. A aula começa com dados que a turma trouxe." },
-     { "minutos": 15, "titulo": "Ordenar as imagens", "comoFazer": "Sem datas, só pela ordem. Discutir por que uma vem antes da outra é mais útil que receber a linha pronta." },
-     { "minutos": 15, "titulo": "O que cada um permitiu", "comoFazer": "Ao lado de cada meio, escreva uma coisa nova que ele possibilitou — alcance, velocidade, som, resposta imediata. A linha do tempo deixa de ser decorativa." },
-     { "minutos": 10, "titulo": "E o que se perdeu", "comoFazer": "Pergunte o que deixou de existir a cada mudança. Mudança que só ganha é história contada pela metade." }
+     {
+      "minutos": 10,
+      "titulo": "Perguntar em casa",
+      "comoFazer": "A tarefa da véspera: perguntar a alguém mais velho como soube de uma notícia importante. A aula começa com dados que a turma trouxe."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ordenar as imagens",
+      "comoFazer": "Sem datas, só pela ordem. Discutir por que uma vem antes da outra é mais útil que receber a linha pronta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que cada um permitiu",
+      "comoFazer": "Ao lado de cada meio, escreva uma coisa nova que ele possibilitou — alcance, velocidade, som, resposta imediata. A linha do tempo deixa de ser decorativa."
+     },
+     {
+      "minutos": 10,
+      "titulo": "E o que se perdeu",
+      "comoFazer": "Pergunte o que deixou de existir a cada mudança. Mudança que só ganha é história contada pela metade."
+     }
     ],
     "comoAvaliar": "A linha do tempo precisa ter, em cada meio, o que ele permitiu. Ordem correta sem essa coluna é memorização de sequência.",
     "errosComuns": [
@@ -58,9 +118,18 @@
     ]
    },
    "fontes": [
-    { "label": "Biblioteca Digital do Arquivo Nacional", "url": "https://bdan.an.gov.br/" },
-    { "label": "Portal do Professor (MEC)", "url": "https://portaldoprofessor.mec.gov.br/" },
-    { "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf" }
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional",
+     "url": "https://bdan.an.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
    ]
   },
   {
@@ -69,17 +138,42 @@
    "ano": "5º ano",
    "titulo": "Formas de marcar o tempo em diferentes povos",
    "descricao": "O aluno compara maneiras de registrar a passagem do tempo em sociedades diversas, incluindo povos indígenas e africanos.",
-   "bncc": ["EF05HI08"],
-   "exigencias": ["representacao-visual", "vocabulario-tecnico"],
+   "bncc": [
+    "EF05HI08"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "vocabulario-tecnico"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica que o calendário que usa é uma convenção entre outras possíveis, e cita duas diferentes.",
     "duracao": 50,
-    "materiais": ["Calendário comum", "Imagens de marcadores de tempo de povos diversos", "Cartolina"],
+    "materiais": [
+     "Calendário comum",
+     "Imagens de marcadores de tempo de povos diversos",
+     "Cartolina"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "De onde vem a semana", "comoFazer": "Pergunte por que a semana tem sete dias. A ausência de resposta óbvia é o começo: nosso calendário também foi inventado por alguém." },
-     { "minutos": 13, "titulo": "Tempo pelo que acontece", "comoFazer": "Apresente marcações ligadas a cheia de rio, colheita e lua. O tempo pode ser contado por eventos, e não só por números." },
-     { "minutos": 15, "titulo": "Construir um marcador", "comoFazer": "Cada grupo cria um calendário para a própria turma, com os eventos que importam a ela. Fazer um mostra que fazer é possível." },
-     { "minutos": 10, "titulo": "Comparar sem hierarquia", "comoFazer": "Ponha os calendários lado a lado. A pergunta não é qual é melhor, e sim o que cada um serve para organizar." }
+     {
+      "minutos": 12,
+      "titulo": "De onde vem a semana",
+      "comoFazer": "Pergunte por que a semana tem sete dias. A ausência de resposta óbvia é o começo: nosso calendário também foi inventado por alguém."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Tempo pelo que acontece",
+      "comoFazer": "Apresente marcações ligadas a cheia de rio, colheita e lua. O tempo pode ser contado por eventos, e não só por números."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Construir um marcador",
+      "comoFazer": "Cada grupo cria um calendário para a própria turma, com os eventos que importam a ela. Fazer um mostra que fazer é possível."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar sem hierarquia",
+      "comoFazer": "Ponha os calendários lado a lado. A pergunta não é qual é melhor, e sim o que cada um serve para organizar."
+     }
     ],
     "comoAvaliar": "Peça a explicação do calendário criado pelo grupo. Dizer que os outros povos 'não tinham calendário' é o erro que esta aula existe para desfazer.",
     "errosComuns": [
@@ -89,9 +183,29 @@
     ]
    },
    "fontes": [
-    { "label": "Revista História Hoje — ANPUH, associação nacional de professores de História", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" },
-    { "label": "ANPUH — Associação Nacional de História", "url": "https://www.anpuh.org/" },
-    { "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf" }
+    {
+     "label": "Revista História Hoje — ANPUH, associação nacional de professores de História",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    },
+    {
+     "label": "ANPUH — Associação Nacional de História",
+     "url": "https://www.anpuh.org/"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=OImy0v_JmBU",
+     "titulo": "A HISTÓRIA DAS COISAS – O RELÓGIO DE PULSO (TV INES / LIBRAS)",
+     "canal": "TV INES",
+     "duracaoSegundos": 300,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   },
   {
@@ -100,17 +214,41 @@
    "ano": "6º ano",
    "titulo": "O que faz de um objeto uma fonte histórica",
    "descricao": "O aluno identifica o que originou determinados registros e reconhece que a fonte não fala sozinha — ela responde a perguntas.",
-   "bncc": ["EF06HI02"],
-   "exigencias": ["leitura-extensa", "vocabulario-tecnico"],
+   "bncc": [
+    "EF06HI02"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "vocabulario-tecnico"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno formula duas perguntas que um mesmo objeto pode responder e uma que ele não pode.",
     "duracao": 50,
-    "materiais": ["Objetos cotidianos (bilhete, embalagem, foto)", "Documento digitalizado do acervo do Arquivo Nacional"],
+    "materiais": [
+     "Objetos cotidianos (bilhete, embalagem, foto)",
+     "Documento digitalizado do acervo do Arquivo Nacional"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "A mochila como sítio arqueológico", "comoFazer": "Com objetos de uma mochila, pergunte o que eles dizem sobre quem a carrega. A operação do historiador aparece antes do vocabulário." },
-     { "minutos": 13, "titulo": "A pergunta faz a fonte", "comoFazer": "O mesmo bilhete responde a perguntas diferentes conforme quem pergunta. Fonte não é categoria do objeto — é relação entre objeto e pergunta." },
-     { "minutos": 15, "titulo": "Um documento de verdade", "comoFazer": "Abra um documento digitalizado do acervo nacional. Identifique data, autor, destinatário e finalidade antes de discutir o conteúdo." },
-     { "minutos": 10, "titulo": "O que ele não pode dizer", "comoFazer": "Peça uma pergunta que aquele documento não responde. Reconhecer o limite da fonte é o que separa história de opinião com data." }
+     {
+      "minutos": 12,
+      "titulo": "A mochila como sítio arqueológico",
+      "comoFazer": "Com objetos de uma mochila, pergunte o que eles dizem sobre quem a carrega. A operação do historiador aparece antes do vocabulário."
+     },
+     {
+      "minutos": 13,
+      "titulo": "A pergunta faz a fonte",
+      "comoFazer": "O mesmo bilhete responde a perguntas diferentes conforme quem pergunta. Fonte não é categoria do objeto — é relação entre objeto e pergunta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Um documento de verdade",
+      "comoFazer": "Abra um documento digitalizado do acervo nacional. Identifique data, autor, destinatário e finalidade antes de discutir o conteúdo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que ele não pode dizer",
+      "comoFazer": "Peça uma pergunta que aquele documento não responde. Reconhecer o limite da fonte é o que separa história de opinião com data."
+     }
     ],
     "comoAvaliar": "As três perguntas formuladas. Só perguntas que a fonte responde indica leitura ainda ingênua do documento.",
     "errosComuns": [
@@ -120,9 +258,18 @@
     ]
    },
    "fontes": [
-    { "label": "Biblioteca Digital do Arquivo Nacional — documentos digitalizados", "url": "https://bdan.an.gov.br/" },
-    { "label": "Arquivo Nacional", "url": "https://www.gov.br/arquivonacional/pt-br" },
-    { "label": "Revista História Hoje — ANPUH: o Arquivo Nacional na sala de aula", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" }
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional — documentos digitalizados",
+     "url": "https://bdan.an.gov.br/"
+    },
+    {
+     "label": "Arquivo Nacional",
+     "url": "https://www.gov.br/arquivonacional/pt-br"
+    },
+    {
+     "label": "Revista História Hoje — ANPUH: o Arquivo Nacional na sala de aula",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    }
    ]
   },
   {
@@ -131,17 +278,42 @@
    "ano": "6º ano",
    "titulo": "Escravidão, servidão e trabalho livre no mundo antigo",
    "descricao": "O aluno diferencia formas de trabalho compulsório na Antiguidade e evita transportar para elas a escravidão racial moderna.",
-   "bncc": ["EF06HI17", "EF06HI16"],
-   "exigencias": ["leitura-extensa", "vocabulario-tecnico"],
+   "bncc": [
+    "EF06HI17",
+    "EF06HI16"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "vocabulario-tecnico"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno preenche um quadro com três formas de trabalho e o que distingue cada uma quanto a liberdade, propriedade e saída.",
     "duracao": 50,
-    "materiais": ["Trechos curtos de fontes antigas traduzidas", "Quadro comparativo em branco"],
+    "materiais": [
+     "Trechos curtos de fontes antigas traduzidas",
+     "Quadro comparativo em branco"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Três perguntas fixas", "comoFazer": "Para cada forma: a pessoa é propriedade? pode sair? o que herda o filho? As mesmas três perguntas em todas evitam comparação vaga." },
-     { "minutos": 15, "titulo": "Ler a fonte antiga", "comoFazer": "Um trecho curto por forma de trabalho. Ler a fonte é o que impede a aula de virar definição decorada." },
-     { "minutos": 13, "titulo": "Preencher o quadro", "comoFazer": "O quadro se preenche com as respostas às três perguntas, e não com adjetivos. Fica evidente onde as formas se aproximam e onde não." },
-     { "minutos": 10, "titulo": "O que não vale transportar", "comoFazer": "Diga explicitamente que a escravidão racial moderna tem base distinta. Sem esse aviso, o aluno conclui que sempre foi a mesma coisa." }
+     {
+      "minutos": 12,
+      "titulo": "Três perguntas fixas",
+      "comoFazer": "Para cada forma: a pessoa é propriedade? pode sair? o que herda o filho? As mesmas três perguntas em todas evitam comparação vaga."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler a fonte antiga",
+      "comoFazer": "Um trecho curto por forma de trabalho. Ler a fonte é o que impede a aula de virar definição decorada."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Preencher o quadro",
+      "comoFazer": "O quadro se preenche com as respostas às três perguntas, e não com adjetivos. Fica evidente onde as formas se aproximam e onde não."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que não vale transportar",
+      "comoFazer": "Diga explicitamente que a escravidão racial moderna tem base distinta. Sem esse aviso, o aluno conclui que sempre foi a mesma coisa."
+     }
     ],
     "comoAvaliar": "O quadro preenchido. Colunas iguais para as três formas indicam que a distinção não foi feita.",
     "errosComuns": [
@@ -151,9 +323,18 @@
     ]
    },
    "fontes": [
-    { "label": "Revista História Hoje — ANPUH", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" },
-    { "label": "ANPUH — Associação Nacional de História", "url": "https://www.anpuh.org/" },
-    { "label": "Portal do Professor (MEC)", "url": "https://portaldoprofessor.mec.gov.br/" }
+    {
+     "label": "Revista História Hoje — ANPUH",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    },
+    {
+     "label": "ANPUH — Associação Nacional de História",
+     "url": "https://www.anpuh.org/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
    ]
   },
   {
@@ -162,17 +343,43 @@
    "ano": "7º ano",
    "titulo": "O tráfico de escravizados no mundo atlântico",
    "descricao": "O aluno discute o conceito de escravidão moderna e descreve as fases do tráfico, os responsáveis e as regiões envolvidas.",
-   "bncc": ["EF07HI15", "EF07HI16"],
-   "exigencias": ["representacao-visual", "leitura-extensa"],
+   "bncc": [
+    "EF07HI15",
+    "EF07HI16"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno localiza no mapa as regiões de origem e destino e nomeia dois agentes do tráfico além do traficante europeu.",
     "duracao": 50,
-    "materiais": ["Mapa do Atlântico em branco", "Dados de volume do tráfico por período", "Registros de embarque digitalizados"],
+    "materiais": [
+     "Mapa do Atlântico em branco",
+     "Dados de volume do tráfico por período",
+     "Registros de embarque digitalizados"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "O mapa antes do texto", "comoFazer": "Marque origens e destinos. A escala geográfica do tráfico é a primeira coisa que costuma surpreender, e ela se vê." },
-     { "minutos": 13, "titulo": "Números que são pessoas", "comoFazer": "Trabalhe os volumes por período. Trate cada número como o que é: pessoas. Dizer isso em voz alta muda como a tabela é lida." },
-     { "minutos": 15, "titulo": "Quem participava", "comoFazer": "Identifique os agentes nos vários pontos da rota. A simplificação de um único culpado apaga a rede que sustentou o sistema por séculos." },
-     { "minutos": 10, "titulo": "Resistência não é exceção", "comoFazer": "Registre formas de resistência já nesta aula. Deixá-las para o fim da unidade ensina que a resistência foi episódica." }
+     {
+      "minutos": 12,
+      "titulo": "O mapa antes do texto",
+      "comoFazer": "Marque origens e destinos. A escala geográfica do tráfico é a primeira coisa que costuma surpreender, e ela se vê."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Números que são pessoas",
+      "comoFazer": "Trabalhe os volumes por período. Trate cada número como o que é: pessoas. Dizer isso em voz alta muda como a tabela é lida."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Quem participava",
+      "comoFazer": "Identifique os agentes nos vários pontos da rota. A simplificação de um único culpado apaga a rede que sustentou o sistema por séculos."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Resistência não é exceção",
+      "comoFazer": "Registre formas de resistência já nesta aula. Deixá-las para o fim da unidade ensina que a resistência foi episódica."
+     }
     ],
     "comoAvaliar": "O mapa preenchido e a lista de agentes. Mapa correto com um único agente indica que a rede não foi compreendida.",
     "errosComuns": [
@@ -182,9 +389,18 @@
     ]
    },
    "fontes": [
-    { "label": "Biblioteca Digital do Arquivo Nacional", "url": "https://bdan.an.gov.br/" },
-    { "label": "Revista História Hoje — ANPUH", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" },
-    { "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf" }
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional",
+     "url": "https://bdan.an.gov.br/"
+    },
+    {
+     "label": "Revista História Hoje — ANPUH",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
    ]
   },
   {
@@ -193,17 +409,41 @@
    "ano": "8º ano",
    "titulo": "Independências na América Latina: por que os caminhos foram diferentes",
    "descricao": "O aluno analisa os processos de independência em diferentes países latino-americanos e compara as formas de governo que se seguiram.",
-   "bncc": ["EF08HI13"],
-   "exigencias": ["representacao-visual", "leitura-extensa"],
+   "bncc": [
+    "EF08HI13"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica por que o Brasil manteve a monarquia enquanto vizinhos viraram repúblicas.",
     "duracao": 50,
-    "materiais": ["Mapa da América em 1800 e em 1830", "Quadro comparativo de três países"],
+    "materiais": [
+     "Mapa da América em 1800 e em 1830",
+     "Quadro comparativo de três países"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Dois mapas, trinta anos", "comoFazer": "Compare os mapas. A quantidade de fronteiras novas levanta a pergunta da aula sem que ela precise ser feita." },
-     { "minutos": 15, "titulo": "Três países, mesmas perguntas", "comoFazer": "Quem liderou? Houve guerra? Quem ficou no poder depois? As mesmas perguntas para os três tornam a comparação possível." },
-     { "minutos": 13, "titulo": "O caso brasileiro", "comoFazer": "Com o quadro pronto, o Brasil aparece como exceção e a pergunta fica precisa: por que o herdeiro do trono português vira imperador?" },
-     { "minutos": 10, "titulo": "O que não mudou", "comoFazer": "Liste o que permaneceu depois da independência — escravidão, concentração de terra. Independência política não é ruptura social." }
+     {
+      "minutos": 12,
+      "titulo": "Dois mapas, trinta anos",
+      "comoFazer": "Compare os mapas. A quantidade de fronteiras novas levanta a pergunta da aula sem que ela precise ser feita."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Três países, mesmas perguntas",
+      "comoFazer": "Quem liderou? Houve guerra? Quem ficou no poder depois? As mesmas perguntas para os três tornam a comparação possível."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O caso brasileiro",
+      "comoFazer": "Com o quadro pronto, o Brasil aparece como exceção e a pergunta fica precisa: por que o herdeiro do trono português vira imperador?"
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que não mudou",
+      "comoFazer": "Liste o que permaneceu depois da independência — escravidão, concentração de terra. Independência política não é ruptura social."
+     }
     ],
     "comoAvaliar": "A explicação do caso brasileiro apoiada no quadro. Resposta sem comparação indica narrativa decorada.",
     "errosComuns": [
@@ -213,9 +453,18 @@
     ]
    },
    "fontes": [
-    { "label": "ANPUH — Associação Nacional de História", "url": "https://www.anpuh.org/" },
-    { "label": "Arquivo Nacional", "url": "https://www.gov.br/arquivonacional/pt-br" },
-    { "label": "Portal do Professor (MEC)", "url": "https://portaldoprofessor.mec.gov.br/" }
+    {
+     "label": "ANPUH — Associação Nacional de História",
+     "url": "https://www.anpuh.org/"
+    },
+    {
+     "label": "Arquivo Nacional",
+     "url": "https://www.gov.br/arquivonacional/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
    ]
   },
   {
@@ -224,17 +473,42 @@
    "ano": "8º ano",
    "titulo": "O discurso científico do século XIX e as respostas a ele",
    "descricao": "O aluno contextualiza o pensamento racial oitocentista e identifica formas de resistência e crítica que lhe foram contemporâneas.",
-   "bncc": ["EF08HI26"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EF08HI26"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica por que uma teoria pode ter aparência científica e ser falsa, e cita uma crítica feita na própria época.",
     "duracao": 50,
-    "materiais": ["Trecho de texto racialista do século XIX", "Texto de crítica contemporânea a ele", "Ficha de análise"],
+    "materiais": [
+     "Trecho de texto racialista do século XIX",
+     "Texto de crítica contemporânea a ele",
+     "Ficha de análise"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ler com aviso", "comoFazer": "Anuncie antes o que o texto contém e por que será lido. Ler documento racista sem enquadramento fere e não ensina." },
-     { "minutos": 13, "titulo": "Onde está o salto", "comoFazer": "Peça a identificação do ponto em que o texto sai da observação para a conclusão. O erro é localizável, e localizá-lo é o exercício." },
-     { "minutos": 15, "titulo": "A crítica é da época", "comoFazer": "Apresente a resposta contemporânea. Saber que houve contestação naquele momento desfaz a ideia de que 'todos pensavam assim'." },
-     { "minutos": 10, "titulo": "O que sobrou", "comoFazer": "Relacione com formulações atuais. O objetivo não é condenar o passado, é reconhecer a estrutura do argumento quando ela reaparece." }
+     {
+      "minutos": 12,
+      "titulo": "Ler com aviso",
+      "comoFazer": "Anuncie antes o que o texto contém e por que será lido. Ler documento racista sem enquadramento fere e não ensina."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Onde está o salto",
+      "comoFazer": "Peça a identificação do ponto em que o texto sai da observação para a conclusão. O erro é localizável, e localizá-lo é o exercício."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A crítica é da época",
+      "comoFazer": "Apresente a resposta contemporânea. Saber que houve contestação naquele momento desfaz a ideia de que 'todos pensavam assim'."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que sobrou",
+      "comoFazer": "Relacione com formulações atuais. O objetivo não é condenar o passado, é reconhecer a estrutura do argumento quando ela reaparece."
+     }
     ],
     "comoAvaliar": "A ficha com o salto lógico apontado e uma crítica de época citada. Resposta que só condena moralmente não cumpre o objetivo.",
     "errosComuns": [
@@ -244,8 +518,14 @@
     ]
    },
    "fontes": [
-    { "label": "Revista História Hoje — ANPUH", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" },
-    { "label": "Biblioteca Digital do Arquivo Nacional", "url": "https://bdan.an.gov.br/" }
+    {
+     "label": "Revista História Hoje — ANPUH",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    },
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional",
+     "url": "https://bdan.an.gov.br/"
+    }
    ]
   },
   {
@@ -254,17 +534,41 @@
    "ano": "9º ano",
    "titulo": "A emergência da República no Brasil: quem participou e quem ficou de fora",
    "descricao": "O aluno descreve os contextos social, cultural, econômico e político da proclamação e avalia quem teve direito de voto.",
-   "bncc": ["EF09HI01"],
-   "exigencias": ["leitura-extensa", "representacao-visual"],
+   "bncc": [
+    "EF09HI01"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "representacao-visual"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno calcula a proporção da população com direito a voto na Primeira República e comenta o resultado.",
     "duracao": 50,
-    "materiais": ["Dados populacionais e eleitorais do período", "Imagem da proclamação e sua legenda original"],
+    "materiais": [
+     "Dados populacionais e eleitorais do período",
+     "Imagem da proclamação e sua legenda original"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "A cena e a legenda", "comoFazer": "Mostre a imagem clássica e pergunte quem aparece e quem não aparece. A composição da cena já responde parte da aula." },
-     { "minutos": 15, "titulo": "Fazer a conta", "comoFazer": "Com os dados, calcule a fração de eleitores sobre a população. O número é pequeno o bastante para dispensar comentário." },
-     { "minutos": 13, "titulo": "Quem estava excluído", "comoFazer": "Liste os critérios de exclusão: analfabetos, mulheres, praças. A república nasce com uma definição estreita de cidadão." },
-     { "minutos": 10, "titulo": "Comparar com hoje", "comoFazer": "Ponha lado a lado com o eleitorado atual. A comparação dá dimensão à conquista do voto e ao que ela custou." }
+     {
+      "minutos": 12,
+      "titulo": "A cena e a legenda",
+      "comoFazer": "Mostre a imagem clássica e pergunte quem aparece e quem não aparece. A composição da cena já responde parte da aula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Fazer a conta",
+      "comoFazer": "Com os dados, calcule a fração de eleitores sobre a população. O número é pequeno o bastante para dispensar comentário."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Quem estava excluído",
+      "comoFazer": "Liste os critérios de exclusão: analfabetos, mulheres, praças. A república nasce com uma definição estreita de cidadão."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar com hoje",
+      "comoFazer": "Ponha lado a lado com o eleitorado atual. A comparação dá dimensão à conquista do voto e ao que ela custou."
+     }
     ],
     "comoAvaliar": "O cálculo e o comentário. Número certo sem leitura política é conta, não história.",
     "errosComuns": [
@@ -274,9 +578,18 @@
     ]
    },
    "fontes": [
-    { "label": "Arquivo Nacional", "url": "https://www.gov.br/arquivonacional/pt-br" },
-    { "label": "Biblioteca Digital do Arquivo Nacional", "url": "https://bdan.an.gov.br/" },
-    { "label": "Portal do Professor (MEC)", "url": "https://portaldoprofessor.mec.gov.br/" }
+    {
+     "label": "Arquivo Nacional",
+     "url": "https://www.gov.br/arquivonacional/pt-br"
+    },
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional",
+     "url": "https://bdan.an.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
    ]
   },
   {
@@ -285,17 +598,42 @@
    "ano": "9º ano",
    "titulo": "O trabalhismo como força política e social",
    "descricao": "O aluno identifica o papel do trabalhismo no Brasil e relaciona as leis trabalhistas ao contexto político em que foram criadas.",
-   "bncc": ["EF09HI06"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EF09HI06"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica um direito trabalhista atual a partir do contexto em que foi conquistado.",
     "duracao": 50,
-    "materiais": ["Trechos da CLT", "Cartaz ou jornal de época", "Relato de trabalhador do período"],
+    "materiais": [
+     "Trechos da CLT",
+     "Cartaz ou jornal de época",
+     "Relato de trabalhador do período"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "O direito que já existe", "comoFazer": "Comece por um direito que a turma conhece — férias, jornada. Perguntar desde quando existe abre a aula pela experiência." },
-     { "minutos": 13, "titulo": "Concessão ou conquista", "comoFazer": "Apresente as duas leituras com fontes de cada uma. A disputa interpretativa é o conteúdo, não um detalhe." },
-     { "minutos": 15, "titulo": "Ler o cartaz de época", "comoFazer": "A propaganda oficial mostra como o Estado quis ser visto. Ler propaganda como fonte é ler o que ela quer produzir." },
-     { "minutos": 10, "titulo": "Escrever a explicação", "comoFazer": "Cada aluno escreve um parágrafo ligando um direito atual ao seu contexto de origem." }
+     {
+      "minutos": 12,
+      "titulo": "O direito que já existe",
+      "comoFazer": "Comece por um direito que a turma conhece — férias, jornada. Perguntar desde quando existe abre a aula pela experiência."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Concessão ou conquista",
+      "comoFazer": "Apresente as duas leituras com fontes de cada uma. A disputa interpretativa é o conteúdo, não um detalhe."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler o cartaz de época",
+      "comoFazer": "A propaganda oficial mostra como o Estado quis ser visto. Ler propaganda como fonte é ler o que ela quer produzir."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever a explicação",
+      "comoFazer": "Cada aluno escreve um parágrafo ligando um direito atual ao seu contexto de origem."
+     }
     ],
     "comoAvaliar": "O parágrafo final. Explicar o direito sem contexto, ou o contexto sem o direito, deixa a ligação por fazer.",
     "errosComuns": [
@@ -305,8 +643,14 @@
     ]
    },
    "fontes": [
-    { "label": "Arquivo Nacional", "url": "https://www.gov.br/arquivonacional/pt-br" },
-    { "label": "Revista História Hoje — ANPUH", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" }
+    {
+     "label": "Arquivo Nacional",
+     "url": "https://www.gov.br/arquivonacional/pt-br"
+    },
+    {
+     "label": "Revista História Hoje — ANPUH",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    }
    ]
   },
   {
@@ -315,17 +659,41 @@
    "ano": "1ª série",
    "titulo": "Comparar fontes e narrativas em diferentes linguagens",
    "descricao": "O aluno analisa fontes de naturezas distintas sobre o mesmo processo histórico e avalia o que cada linguagem permite e limita.",
-   "bncc": ["EM13CHS101"],
-   "exigencias": ["leitura-extensa", "representacao-visual"],
+   "bncc": [
+    "EM13CHS101"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "representacao-visual"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno confronta três fontes de linguagens diferentes e escreve qual afirmação se sustenta nas três.",
     "duracao": 50,
-    "materiais": ["Documento escrito, fotografia e registro audiovisual sobre o mesmo processo", "Ficha de confronto"],
+    "materiais": [
+     "Documento escrito, fotografia e registro audiovisual sobre o mesmo processo",
+     "Ficha de confronto"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Cada uma por vez", "comoFazer": "Analise as três separadamente antes de comparar. Confrontar sem ter lido cada uma produz comparação de impressões." },
-     { "minutos": 13, "titulo": "O que só uma diz", "comoFazer": "Liste as afirmações exclusivas de cada fonte. É onde se vê o que cada linguagem alcança." },
-     { "minutos": 15, "titulo": "O que as três sustentam", "comoFazer": "A interseção é o que se pode afirmar com mais segurança. O método fica explícito, e é transferível para qualquer tema." },
-     { "minutos": 10, "titulo": "O silêncio comum", "comoFazer": "Pergunte sobre o que nenhuma das três fala. Ausência compartilhada costuma indicar quem não teve registro produzido." }
+     {
+      "minutos": 12,
+      "titulo": "Cada uma por vez",
+      "comoFazer": "Analise as três separadamente antes de comparar. Confrontar sem ter lido cada uma produz comparação de impressões."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que só uma diz",
+      "comoFazer": "Liste as afirmações exclusivas de cada fonte. É onde se vê o que cada linguagem alcança."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que as três sustentam",
+      "comoFazer": "A interseção é o que se pode afirmar com mais segurança. O método fica explícito, e é transferível para qualquer tema."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O silêncio comum",
+      "comoFazer": "Pergunte sobre o que nenhuma das três fala. Ausência compartilhada costuma indicar quem não teve registro produzido."
+     }
     ],
     "comoAvaliar": "A ficha de confronto. Afirmação na interseção sem sustentação em alguma das fontes é o erro a apontar.",
     "errosComuns": [
@@ -335,9 +703,18 @@
     ]
    },
    "fontes": [
-    { "label": "Biblioteca Digital do Arquivo Nacional", "url": "https://bdan.an.gov.br/" },
-    { "label": "Revista História Hoje — ANPUH", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" },
-    { "label": "BNCC — Ensino Médio (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf" }
+    {
+     "label": "Biblioteca Digital do Arquivo Nacional",
+     "url": "https://bdan.an.gov.br/"
+    },
+    {
+     "label": "Revista História Hoje — ANPUH",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
    ]
   },
   {
@@ -346,17 +723,41 @@
    "ano": "2ª série",
    "titulo": "Hipótese, evidência e argumento em História",
    "descricao": "O aluno elabora hipóteses sobre um processo histórico, seleciona evidências e compõe um argumento que possa ser contestado.",
-   "bncc": ["EM13CHS103"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CHS103"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno entrega uma hipótese, duas evidências e a indicação do que a refutaria.",
     "duracao": 50,
-    "materiais": ["Dossiê com cinco fontes sobre um mesmo processo", "Ficha de hipótese"],
+    "materiais": [
+     "Dossiê com cinco fontes sobre um mesmo processo",
+     "Ficha de hipótese"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Formular antes de procurar", "comoFazer": "A hipótese vem primeiro, por escrito. Procurar evidência sem hipótese produz colagem de citações." },
-     { "minutos": 15, "titulo": "Escolher a evidência", "comoFazer": "Duas fontes do dossiê, e a justificativa de por que sustentam a hipótese — e não apenas de que falam do assunto." },
-     { "minutos": 13, "titulo": "O que derrubaria", "comoFazer": "Peça o que precisaria ser encontrado para a hipótese cair. Hipótese que nada refuta não é hipótese." },
-     { "minutos": 10, "titulo": "Trocar e atacar", "comoFazer": "Cada aluno recebe a ficha de um colega e tenta refutá-la com o próprio dossiê. A crítica é parte do método, não punição." }
+     {
+      "minutos": 12,
+      "titulo": "Formular antes de procurar",
+      "comoFazer": "A hipótese vem primeiro, por escrito. Procurar evidência sem hipótese produz colagem de citações."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Escolher a evidência",
+      "comoFazer": "Duas fontes do dossiê, e a justificativa de por que sustentam a hipótese — e não apenas de que falam do assunto."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que derrubaria",
+      "comoFazer": "Peça o que precisaria ser encontrado para a hipótese cair. Hipótese que nada refuta não é hipótese."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar e atacar",
+      "comoFazer": "Cada aluno recebe a ficha de um colega e tenta refutá-la com o próprio dossiê. A crítica é parte do método, não punição."
+     }
     ],
     "comoAvaliar": "A ficha completa, com o critério de refutação preenchido. É o campo que mais fica vazio, e o mais importante.",
     "errosComuns": [
@@ -366,9 +767,18 @@
     ]
    },
    "fontes": [
-    { "label": "Revista História Hoje — ANPUH", "url": "https://rhhj.anpuh.org/RHHJ/article/view/365" },
-    { "label": "ANPUH — Associação Nacional de História", "url": "https://www.anpuh.org/" },
-    { "label": "BNCC — Ensino Médio (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf" }
+    {
+     "label": "Revista História Hoje — ANPUH",
+     "url": "https://rhhj.anpuh.org/RHHJ/article/view/365"
+    },
+    {
+     "label": "ANPUH — Associação Nacional de História",
+     "url": "https://www.anpuh.org/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
    ]
   }
  ]

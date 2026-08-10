@@ -129,6 +129,17 @@
      "label": "IBGE Educa",
      "url": "https://educa.ibge.gov.br/"
     }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=WeNaOUCgju4",
+     "titulo": "A HISTÓRIA DAS COISAS – O MAPA (TV INES / LIBRAS)",
+     "canal": "TV INES",
+     "duracaoSegundos": 240,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   },
   {

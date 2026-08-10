@@ -117,6 +117,20 @@ export interface Video {
   titulo: string
   canal: string
   duracaoSegundos: number
+  /**
+   * A especialidade a que este vídeo serve, quando ele existe por causa dela.
+   *
+   * Uma videoaula comum de fração serve a turma inteira e não declara nada
+   * aqui. Uma aula da mesma fração **em Libras** existe por causa do aluno
+   * surdo; uma com audiodescrição, por causa do aluno cego. Sem este campo, os
+   * dois casos ficam indistinguíveis na lista, e o professor que procura
+   * material acessível precisa abrir um por um para descobrir qual é qual.
+   *
+   * Slug da especialidade, como em `SPECIALTIES`.
+   */
+  paraEspecialidade?: string
+  /** O que torna este vídeo acessível — "aula em Libras", "com audiodescrição". */
+  recursoDeAcessibilidade?: string
   /** Alguém assistiu e aprovou. Sem isto, o vídeo não é publicado. */
   revisado: boolean
   /** Quem revisou e quando — preenchido junto com `revisado`. */

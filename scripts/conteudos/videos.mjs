@@ -59,6 +59,11 @@ const CANAIS_INSTITUCIONAIS = [
   "Portal da Matemática",
   "Fiocruz",
   "Museu da Língua Portuguesa",
+  // TV INES é a televisão do Instituto Nacional de Educação de Surdos, do MEC,
+  // com toda a programação em Libras, legenda e narração. É a fonte mais
+  // relevante para vídeo de conteúdo escolar acessível ao aluno surdo.
+  "TV INES",
+  "INES",
 ]
 
 function idDoVideo(url) {
@@ -91,15 +96,57 @@ async function oembed(url) {
  * está no JSON que a própria página embute. Se o YouTube mudar o formato, isto
  * para de achar — e por isso a falha aqui é reportada, e não silenciosa: sem
  * duração o conferidor recusa o vídeo, em vez de publicá-lo sem ela.
+ *
+ * ## O 429 não é vídeo quebrado
+ *
+ * Numa curadoria de oito vídeos seguidos, o YouTube passou a responder **429**
+ * — limite de taxa — com uma página de três mil bytes e nenhuma duração. A
+ * primeira versão deste script tratava isso como "não consegui ler a duração",
+ * que se parece com vídeo defeituoso e não com "tente daqui a pouco", e teria
+ * feito o conferidor recusar oito vídeos que estão perfeitos.
+ *
+ * Agora o 429 e os erros de servidor são repetidos com espera crescente, e a
+ * falha final diz qual foi o status. O intervalo entre vídeos existe pelo mesmo
+ * motivo: pedir devagar é mais rápido que ser bloqueado.
  */
+const TENTATIVAS = 4
+const ESPERA_ENTRE_VIDEOS_MS = 1500
+
+const dormir = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+
 async function duracao(id) {
-  const resposta = await fetch(`https://www.youtube.com/watch?v=${id}`, {
-    headers: { "User-Agent": "Mozilla/5.0 (compatible; AtypicalClass-VideoCheck/1.0)" },
-  })
-  if (!resposta.ok) return null
-  const html = await resposta.text()
-  const achado = html.match(/"lengthSeconds":"(\d+)"/)
-  return achado ? Number(achado[1]) : null
+  let ultimoStatus = 0
+
+  for (let tentativa = 1; tentativa <= TENTATIVAS; tentativa += 1) {
+    const resposta = await fetch(`https://www.youtube.com/watch?v=${id}`, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "Accept-Language": "pt-BR,pt;q=0.9",
+      },
+    })
+    ultimoStatus = resposta.status
+
+    if (resposta.ok) {
+      const html = await resposta.text()
+      const achado = html.match(/"lengthSeconds":"(\d+)"/)
+      if (achado) return { segundos: Number(achado[1]) }
+      // Respondeu 200 e não trouxe a duração: aí é mudança de formato, e
+      // repetir não resolve.
+      return { erro: "a página respondeu 200 sem `lengthSeconds` — o formato do YouTube pode ter mudado" }
+    }
+
+    const valeRepetir = resposta.status === 429 || resposta.status >= 500
+    if (!valeRepetir) break
+    if (tentativa < TENTATIVAS) await dormir(3000 * tentativa)
+  }
+
+  return {
+    erro:
+      ultimoStatus === 429
+        ? "limite de taxa do YouTube (429) mesmo após as tentativas — rode de novo daqui a alguns minutos"
+        : `a página do vídeo respondeu ${ultimoStatus}`,
+  }
 }
 
 // --- Percorrer o acervo ------------------------------------------------------
@@ -116,9 +163,42 @@ const falhas = []
 let verificados = 0
 let alterados = 0
 
+/**
+ * Grava as atualizações relendo o arquivo primeiro.
+ *
+ * A primeira versão lia o JSON, alterava em memória e regravava o objeto
+ * inteiro. Parece inofensivo num script de um usuário só, e não é: numa
+ * curadoria em que este script rodava em segundo plano enquanto novos vídeos
+ * eram acrescentados aos mesmos arquivos, a regravação **apagou um vídeo
+ * recém-adicionado** — o objeto em memória era de antes da adição.
+ *
+ * Reler imediatamente antes de gravar e aplicar só os campos que este script
+ * apura, casando por URL, faz a perda deixar de ser possível. O custo é uma
+ * leitura a mais por arquivo.
+ */
+async function gravarAtualizacoes(caminho, atualizacoes) {
+  const atual = JSON.parse(await readFile(caminho, "utf8"))
+  let aplicadas = 0
+
+  for (const conteudo of atual.conteudos ?? []) {
+    for (const video of conteudo.videos ?? []) {
+      const nova = atualizacoes.get(video.url)
+      if (!nova) continue
+      video.titulo = nova.titulo
+      video.canal = nova.canal
+      video.duracaoSegundos = nova.duracaoSegundos
+      aplicadas += 1
+    }
+  }
+
+  await writeFile(caminho, `${JSON.stringify(atual, null, 1)}\n`)
+  return aplicadas
+}
+
 for (const arquivo of arquivos) {
   const caminho = join(PASTA, arquivo)
   const acervo = JSON.parse(await readFile(caminho, "utf8"))
+  const atualizacoes = new Map()
   let mudou = false
 
   for (const conteudo of acervo.conteudos ?? []) {
@@ -141,19 +221,24 @@ for (const arquivo of arquivos) {
         continue
       }
 
-      const segundos = await duracao(id)
-      if (!segundos) {
-        falhas.push(`${arquivo} :: ${conteudo.id} — ${video.url}: não consegui ler a duração`)
+      const medida = await duracao(id)
+      await dormir(ESPERA_ENTRE_VIDEOS_MS)
+      if (medida.erro) {
+        falhas.push(`${arquivo} :: ${conteudo.id} — ${video.url}: ${medida.erro}`)
         continue
       }
+      const segundos = medida.segundos
 
       if (video.titulo !== info.titulo || video.canal !== info.canal || video.duracaoSegundos !== segundos) {
-        video.titulo = info.titulo
-        video.canal = info.canal
-        video.duracaoSegundos = segundos
+        atualizacoes.set(video.url, { titulo: info.titulo, canal: info.canal, duracaoSegundos: segundos })
         mudou = true
         alterados += 1
       }
+      // A fila é montada com o que a API acabou de responder, e não com o que
+      // está no arquivo — que só será atualizado no fim.
+      video.titulo = info.titulo
+      video.canal = info.canal
+      video.duracaoSegundos = segundos
 
       const institucional = CANAIS_INSTITUCIONAIS.some((c) => info.canal?.toLowerCase().includes(c.toLowerCase()))
       if (!video.revisado) {
@@ -165,7 +250,7 @@ for (const arquivo of arquivos) {
     }
   }
 
-  if (mudou) await writeFile(caminho, `${JSON.stringify(acervo, null, 1)}\n`)
+  if (mudou) await gravarAtualizacoes(caminho, atualizacoes)
 }
 
 // --- Relatório ---------------------------------------------------------------

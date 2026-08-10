@@ -7,17 +7,43 @@
    "ano": "6º ano",
    "titulo": "A célula como unidade estrutural e funcional dos seres vivos",
    "descricao": "O aluno explica a organização básica das células e reconhece que estruturas muito diferentes compartilham a mesma unidade.",
-   "bncc": ["EF06CI05"],
-   "exigencias": ["pratica-concreta", "representacao-visual", "vocabulario-tecnico"],
+   "bncc": [
+    "EF06CI05"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual",
+    "vocabulario-tecnico"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno desenha o que observou ao microscópio e nomeia três estruturas comuns às células vistas.",
     "duracao": 50,
-    "materiais": ["Microscópio ou lupa de bolso", "Cebola, folha de elódea, mucosa bucal (se houver protocolo)", "Lâminas e corante"],
+    "materiais": [
+     "Microscópio ou lupa de bolso",
+     "Cebola, folha de elódea, mucosa bucal (se houver protocolo)",
+     "Lâminas e corante"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ver antes de nomear", "comoFazer": "Monte a lâmina de cebola e observe. O primeiro contato é com a imagem real, não com o desenho do livro — que é bonito demais e por isso engana." },
-     { "minutos": 13, "titulo": "Desenhar o observado", "comoFazer": "Cada aluno desenha o que viu, e não o que sabe que deveria ver. A diferença entre os dois desenhos é material de discussão." },
-     { "minutos": 15, "titulo": "Comparar dois tecidos", "comoFazer": "Cebola e elódea lado a lado. O que se repete nas duas é candidato a estrutura universal; o que muda é especialização." },
-     { "minutos": 10, "titulo": "Nomear o que se repete", "comoFazer": "Parede, membrana, núcleo, citoplasma. O nome entra depois da observação repetida, e por isso adere." }
+     {
+      "minutos": 12,
+      "titulo": "Ver antes de nomear",
+      "comoFazer": "Monte a lâmina de cebola e observe. O primeiro contato é com a imagem real, não com o desenho do livro — que é bonito demais e por isso engana."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Desenhar o observado",
+      "comoFazer": "Cada aluno desenha o que viu, e não o que sabe que deveria ver. A diferença entre os dois desenhos é material de discussão."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar dois tecidos",
+      "comoFazer": "Cebola e elódea lado a lado. O que se repete nas duas é candidato a estrutura universal; o que muda é especialização."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Nomear o que se repete",
+      "comoFazer": "Parede, membrana, núcleo, citoplasma. O nome entra depois da observação repetida, e por isso adere."
+     }
     ],
     "comoAvaliar": "O desenho com três estruturas nomeadas. Desenho idêntico ao do livro indica que a observação não aconteceu.",
     "errosComuns": [
@@ -27,9 +53,18 @@
     ]
    },
    "fontes": [
-    { "label": "Fiocruz — instituição pública de pesquisa e ensino em saúde", "url": "https://portal.fiocruz.br/" },
-    { "label": "InVivo / Fiocruz — divulgação científica para a escola", "url": "https://www.invivo.fiocruz.br/" },
-    { "label": "Portal do Professor (MEC)", "url": "https://portaldoprofessor.mec.gov.br/" }
+    {
+     "label": "Fiocruz — instituição pública de pesquisa e ensino em saúde",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "InVivo / Fiocruz — divulgação científica para a escola",
+     "url": "https://www.invivo.fiocruz.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
    ]
   },
   {
@@ -38,17 +73,42 @@
    "ano": "6º ano",
    "titulo": "Do órgão ao organismo: por que os sistemas dependem uns dos outros",
    "descricao": "O aluno conclui, com base em modelos e demonstrações, que os organismos são sistemas integrados e não peças isoladas.",
-   "bncc": ["EF06CI06"],
-   "exigencias": ["representacao-visual", "pratica-concreta"],
+   "bncc": [
+    "EF06CI06"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "pratica-concreta"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno traça o caminho de um nutriente do prato até a célula, nomeando três sistemas envolvidos.",
     "duracao": 50,
-    "materiais": ["Modelo ou esquema do corpo humano", "Barbante e fichas para representar o percurso", "Cartolina"],
+    "materiais": [
+     "Modelo ou esquema do corpo humano",
+     "Barbante e fichas para representar o percurso",
+     "Cartolina"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Onde começa o alimento", "comoFazer": "Peça o percurso do pão. As respostas costumam parar no estômago, e é justamente aí que a aula começa." },
-     { "minutos": 13, "titulo": "Passar o bastão", "comoFazer": "Com barbante, ligue digestório, circulatório e respiratório. O nutriente muda de sistema, e a passagem é o conceito." },
-     { "minutos": 15, "titulo": "Tirar um sistema", "comoFazer": "Pergunte o que acontece se um deles falhar. A dependência fica evidente na falha, não na descrição." },
-     { "minutos": 10, "titulo": "Registrar o percurso", "comoFazer": "Cada aluno desenha o caminho com os três sistemas nomeados." }
+     {
+      "minutos": 12,
+      "titulo": "Onde começa o alimento",
+      "comoFazer": "Peça o percurso do pão. As respostas costumam parar no estômago, e é justamente aí que a aula começa."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Passar o bastão",
+      "comoFazer": "Com barbante, ligue digestório, circulatório e respiratório. O nutriente muda de sistema, e a passagem é o conceito."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Tirar um sistema",
+      "comoFazer": "Pergunte o que acontece se um deles falhar. A dependência fica evidente na falha, não na descrição."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Registrar o percurso",
+      "comoFazer": "Cada aluno desenha o caminho com os três sistemas nomeados."
+     }
     ],
     "comoAvaliar": "O percurso desenhado. Caminho que termina no estômago mostra que a integração ainda não foi feita.",
     "errosComuns": [
@@ -58,8 +118,25 @@
     ]
    },
    "fontes": [
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "InVivo / Fiocruz — divulgação científica para a escola", "url": "https://www.invivo.fiocruz.br/" }
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "InVivo / Fiocruz — divulgação científica para a escola",
+     "url": "https://www.invivo.fiocruz.br/"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=Wu82yBjIMJU",
+     "titulo": "Metabolismo Energético (Parte 1) - DE OLHO NA CIÊNCIA",
+     "canal": "TV INES",
+     "duracaoSegundos": 735,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   },
   {
@@ -68,17 +145,43 @@
    "ano": "6º ano",
    "titulo": "Sistema nervoso: da percepção à resposta",
    "descricao": "O aluno justifica o papel do sistema nervoso na coordenação das ações motoras e sensoriais do corpo.",
-   "bncc": ["EF06CI07", "EF06CI08"],
-   "exigencias": ["pratica-concreta", "representacao-visual"],
+   "bncc": [
+    "EF06CI07",
+    "EF06CI08"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno descreve o caminho estímulo-resposta de um reflexo medido por ele mesmo.",
     "duracao": 50,
-    "materiais": ["Régua para o teste de tempo de reação", "Cronômetro", "Vendas"],
+    "materiais": [
+     "Régua para o teste de tempo de reação",
+     "Cronômetro",
+     "Vendas"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Medir a reação", "comoFazer": "Um solta a régua, o outro pega. A distância percorrida vira tempo — e o tempo de reação deixa de ser abstração." },
-     { "minutos": 13, "titulo": "Mudar o canal", "comoFazer": "Repita com aviso sonoro em vez de visual. Os tempos diferem, e a diferença mostra que o caminho não é o mesmo." },
-     { "minutos": 15, "titulo": "Desenhar o circuito", "comoFazer": "Receptor, condução, processamento, resposta. O esquema é o mesmo para qualquer reflexo, e é isso que se generaliza." },
-     { "minutos": 10, "titulo": "O reflexo que não passa pelo cérebro", "comoFazer": "Discuta o reflexo medular. Nem toda resposta espera a decisão consciente, e isso explica por que a mão sai do quente antes de doer." }
+     {
+      "minutos": 12,
+      "titulo": "Medir a reação",
+      "comoFazer": "Um solta a régua, o outro pega. A distância percorrida vira tempo — e o tempo de reação deixa de ser abstração."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Mudar o canal",
+      "comoFazer": "Repita com aviso sonoro em vez de visual. Os tempos diferem, e a diferença mostra que o caminho não é o mesmo."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Desenhar o circuito",
+      "comoFazer": "Receptor, condução, processamento, resposta. O esquema é o mesmo para qualquer reflexo, e é isso que se generaliza."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O reflexo que não passa pelo cérebro",
+      "comoFazer": "Discuta o reflexo medular. Nem toda resposta espera a decisão consciente, e isso explica por que a mão sai do quente antes de doer."
+     }
     ],
     "comoAvaliar": "O esquema com as quatro etapas e os dois tempos medidos. Esquema sem a etapa de condução costuma indicar cópia.",
     "errosComuns": [
@@ -88,9 +191,18 @@
     ]
    },
    "fontes": [
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "InVivo / Fiocruz", "url": "https://www.invivo.fiocruz.br/" },
-    { "label": "Portal do Professor (MEC)", "url": "https://portaldoprofessor.mec.gov.br/" }
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "InVivo / Fiocruz",
+     "url": "https://www.invivo.fiocruz.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
    ]
   },
   {
@@ -99,17 +211,42 @@
    "ano": "8º ano",
    "titulo": "Reprodução sexuada e assexuada: o que cada uma oferece",
    "descricao": "O aluno compara processos reprodutivos em relação aos mecanismos adaptativos e à variabilidade que produzem.",
-   "bncc": ["EF08CI07"],
-   "exigencias": ["representacao-visual", "leitura-extensa"],
+   "bncc": [
+    "EF08CI07"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica por que a variabilidade importa, usando um caso de doença que atinge uma plantação clonal.",
     "duracao": 50,
-    "materiais": ["Caso real de monocultura atingida por praga", "Cartões coloridos para simular variabilidade", "Quadro comparativo"],
+    "materiais": [
+     "Caso real de monocultura atingida por praga",
+     "Cartões coloridos para simular variabilidade",
+     "Quadro comparativo"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Duas populações", "comoFazer": "Cartões todos iguais contra cartões variados. A simulação prepara o argumento sem que ele precise ser dito antes." },
-     { "minutos": 13, "titulo": "Passar a praga", "comoFazer": "Uma característica é eliminada. Na população clonal, some tudo; na variada, sobra parte. O resultado é visual e imediato." },
-     { "minutos": 15, "titulo": "O caso real", "comoFazer": "Leia o caso da monocultura. A simulação ganha lastro, e o aluno vê que isso não é hipótese de sala de aula." },
-     { "minutos": 10, "titulo": "E as vantagens da assexuada", "comoFazer": "Rapidez e independência de parceiro. Comparação honesta mostra vantagem dos dois lados." }
+     {
+      "minutos": 12,
+      "titulo": "Duas populações",
+      "comoFazer": "Cartões todos iguais contra cartões variados. A simulação prepara o argumento sem que ele precise ser dito antes."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Passar a praga",
+      "comoFazer": "Uma característica é eliminada. Na população clonal, some tudo; na variada, sobra parte. O resultado é visual e imediato."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O caso real",
+      "comoFazer": "Leia o caso da monocultura. A simulação ganha lastro, e o aluno vê que isso não é hipótese de sala de aula."
+     },
+     {
+      "minutos": 10,
+      "titulo": "E as vantagens da assexuada",
+      "comoFazer": "Rapidez e independência de parceiro. Comparação honesta mostra vantagem dos dois lados."
+     }
     ],
     "comoAvaliar": "A explicação com o caso. Dizer que a sexuada é 'melhor' sem citar contexto indica comparação sem critério.",
     "errosComuns": [
@@ -119,8 +256,14 @@
     ]
    },
    "fontes": [
-    { "label": "Embrapa — pesquisa agropecuária brasileira", "url": "https://www.embrapa.br/" },
-    { "label": "Sociedade Brasileira de Genética (SBG)", "url": "https://www.sbg.org.br/" }
+    {
+     "label": "Embrapa — pesquisa agropecuária brasileira",
+     "url": "https://www.embrapa.br/"
+    },
+    {
+     "label": "Sociedade Brasileira de Genética (SBG)",
+     "url": "https://www.sbg.org.br/"
+    }
    ]
   },
   {
@@ -129,17 +272,43 @@
    "ano": "9º ano",
    "titulo": "Como as características passam de uma geração à outra",
    "descricao": "O aluno associa os gametas à transmissão das características hereditárias e estabelece as relações entre ancestrais e descendentes.",
-   "bncc": ["EF09CI08", "EF09CI09"],
-   "exigencias": ["representacao-visual", "abstracao-simbolica"],
+   "bncc": [
+    "EF09CI08",
+    "EF09CI09"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "abstracao-simbolica"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno monta o quadro de cruzamento de uma característica e prevê as proporções na descendência.",
     "duracao": 50,
-    "materiais": ["Fichas de duas cores representando alelos", "Sacos opacos", "Quadro de cruzamento impresso"],
+    "materiais": [
+     "Fichas de duas cores representando alelos",
+     "Sacos opacos",
+     "Quadro de cruzamento impresso"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Sortear os gametas", "comoFazer": "Cada saco tem duas fichas, e cada sorteio produz um descendente. A aleatoriedade se vive antes de virar fração." },
-     { "minutos": 13, "titulo": "Contar os resultados", "comoFazer": "Com trinta sorteios da turma, as proporções aparecem. Amostra pequena não bate; a grande se aproxima, e isso também é conteúdo." },
-     { "minutos": 15, "titulo": "Do sorteio ao quadro", "comoFazer": "O quadro de cruzamento organiza o que os sorteios fizeram. A ferramenta chega para resumir uma experiência, e não do nada." },
-     { "minutos": 10, "titulo": "Prever e conferir", "comoFazer": "Com outro cruzamento, a previsão vem primeiro e o sorteio confere." }
+     {
+      "minutos": 12,
+      "titulo": "Sortear os gametas",
+      "comoFazer": "Cada saco tem duas fichas, e cada sorteio produz um descendente. A aleatoriedade se vive antes de virar fração."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Contar os resultados",
+      "comoFazer": "Com trinta sorteios da turma, as proporções aparecem. Amostra pequena não bate; a grande se aproxima, e isso também é conteúdo."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Do sorteio ao quadro",
+      "comoFazer": "O quadro de cruzamento organiza o que os sorteios fizeram. A ferramenta chega para resumir uma experiência, e não do nada."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Prever e conferir",
+      "comoFazer": "Com outro cruzamento, a previsão vem primeiro e o sorteio confere."
+     }
     ],
     "comoAvaliar": "O quadro preenchido com as proporções. Proporção certa sem entender que é probabilidade, e não garantia, é o erro a caçar.",
     "errosComuns": [
@@ -149,9 +318,29 @@
     ]
    },
    "fontes": [
-    { "label": "Sociedade Brasileira de Genética (SBG)", "url": "https://www.sbg.org.br/" },
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf" }
+    {
+     "label": "Sociedade Brasileira de Genética (SBG)",
+     "url": "https://www.sbg.org.br/"
+    },
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=SqAJjiAY7fo",
+     "titulo": "A HISTÓRIA DAS COISAS – DNA (TV INES / LIBRAS)",
+     "canal": "TV INES",
+     "duracaoSegundos": 391,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   },
   {
@@ -160,17 +349,41 @@
    "ano": "9º ano",
    "titulo": "Lamarck e Darwin: duas explicações para o mesmo fato",
    "descricao": "O aluno compara as ideias evolucionistas de Lamarck e Darwin e identifica em que ponto elas divergem.",
-   "bncc": ["EF09CI10"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EF09CI10"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica o mesmo exemplo pelas duas teorias e aponta qual evidência distingue uma da outra.",
     "duracao": 50,
-    "materiais": ["Trechos curtos dos dois autores", "Ficha de comparação com o mesmo exemplo"],
+    "materiais": [
+     "Trechos curtos dos dois autores",
+     "Ficha de comparação com o mesmo exemplo"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Um exemplo, duas versões", "comoFazer": "Use o mesmo caso — o pescoço da girafa — nas duas explicações. Comparar exige o mesmo objeto nos dois lados." },
-     { "minutos": 13, "titulo": "Onde elas divergem", "comoFazer": "A diferença está na origem da variação, não no resultado. Localizar o ponto exato evita a caricatura das duas." },
-     { "minutos": 15, "titulo": "O que decidiu", "comoFazer": "Traga a evidência da herança: característica adquirida em vida não passa aos gametas. A disputa se resolveu por dado, e não por votação." },
-     { "minutos": 10, "titulo": "Escrever as duas", "comoFazer": "Cada aluno escreve as duas explicações para um novo exemplo, sem julgar qual é a certa até o fim." }
+     {
+      "minutos": 12,
+      "titulo": "Um exemplo, duas versões",
+      "comoFazer": "Use o mesmo caso — o pescoço da girafa — nas duas explicações. Comparar exige o mesmo objeto nos dois lados."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Onde elas divergem",
+      "comoFazer": "A diferença está na origem da variação, não no resultado. Localizar o ponto exato evita a caricatura das duas."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que decidiu",
+      "comoFazer": "Traga a evidência da herança: característica adquirida em vida não passa aos gametas. A disputa se resolveu por dado, e não por votação."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever as duas",
+      "comoFazer": "Cada aluno escreve as duas explicações para um novo exemplo, sem julgar qual é a certa até o fim."
+     }
     ],
     "comoAvaliar": "As duas explicações escritas. Caricaturar Lamarck ('ele achava que esforço muda o corpo') mostra que a comparação não foi feita com o texto.",
     "errosComuns": [
@@ -180,8 +393,14 @@
     ]
    },
    "fontes": [
-    { "label": "Sociedade Brasileira de Genética (SBG)", "url": "https://www.sbg.org.br/" },
-    { "label": "Biota Neotropica — periódico de biodiversidade, acesso aberto", "url": "https://www.scielo.br/j/bn/" }
+    {
+     "label": "Sociedade Brasileira de Genética (SBG)",
+     "url": "https://www.sbg.org.br/"
+    },
+    {
+     "label": "Biota Neotropica — periódico de biodiversidade, acesso aberto",
+     "url": "https://www.scielo.br/j/bn/"
+    }
    ]
   },
   {
@@ -190,17 +409,42 @@
    "ano": "9º ano",
    "titulo": "Seleção natural em ação: resistência a antibióticos",
    "descricao": "O aluno discute a evolução e a diversificação das espécies com base na atuação da seleção natural sobre a variabilidade.",
-   "bncc": ["EF09CI11"],
-   "exigencias": ["pratica-concreta", "leitura-extensa"],
+   "bncc": [
+    "EF09CI11"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica por que interromper o antibiótico antes do fim favorece bactérias resistentes.",
     "duracao": 50,
-    "materiais": ["Feijões de duas cores para simular a população", "Cronômetro", "Texto sobre resistência antimicrobiana"],
+    "materiais": [
+     "Feijões de duas cores para simular a população",
+     "Cronômetro",
+     "Texto sobre resistência antimicrobiana"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Simular a população", "comoFazer": "Feijões representam bactérias, com uma minoria resistente. A variabilidade existe antes do antibiótico — este é o ponto que a aula precisa fixar." },
-     { "minutos": 13, "titulo": "Aplicar a pressão", "comoFazer": "Remova as sensíveis e deixe as resistentes se multiplicarem. Em três rodadas a população inverte, e o efeito é visual." },
-     { "minutos": 15, "titulo": "Ler o caso real", "comoFazer": "Com o texto sobre resistência, ligue a simulação ao problema de saúde pública. A biologia da sala vira decisão de farmácia." },
-     { "minutos": 10, "titulo": "O erro que a intuição produz", "comoFazer": "Discuta a ideia de que a bactéria 'aprende'. A seleção não cria a resistência — ela seleciona a que já existia." }
+     {
+      "minutos": 12,
+      "titulo": "Simular a população",
+      "comoFazer": "Feijões representam bactérias, com uma minoria resistente. A variabilidade existe antes do antibiótico — este é o ponto que a aula precisa fixar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Aplicar a pressão",
+      "comoFazer": "Remova as sensíveis e deixe as resistentes se multiplicarem. Em três rodadas a população inverte, e o efeito é visual."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler o caso real",
+      "comoFazer": "Com o texto sobre resistência, ligue a simulação ao problema de saúde pública. A biologia da sala vira decisão de farmácia."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O erro que a intuição produz",
+      "comoFazer": "Discuta a ideia de que a bactéria 'aprende'. A seleção não cria a resistência — ela seleciona a que já existia."
+     }
     ],
     "comoAvaliar": "A explicação da interrupção do tratamento. Dizer que a bactéria se acostuma indica a concepção lamarckista, que é o alvo da aula.",
     "errosComuns": [
@@ -210,9 +454,18 @@
     ]
    },
    "fontes": [
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "InVivo / Fiocruz", "url": "https://www.invivo.fiocruz.br/" },
-    { "label": "Sociedade Brasileira de Genética (SBG)", "url": "https://www.sbg.org.br/" }
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "InVivo / Fiocruz",
+     "url": "https://www.invivo.fiocruz.br/"
+    },
+    {
+     "label": "Sociedade Brasileira de Genética (SBG)",
+     "url": "https://www.sbg.org.br/"
+    }
    ]
   },
   {
@@ -221,17 +474,41 @@
    "ano": "1ª série",
    "titulo": "Níveis de organização da vida: da molécula à biosfera",
    "descricao": "O aluno interpreta formas de manifestação da vida considerando seus diferentes níveis de organização.",
-   "bncc": ["EM13CNT202"],
-   "exigencias": ["representacao-visual", "vocabulario-tecnico"],
+   "bncc": [
+    "EM13CNT202"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "vocabulario-tecnico"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno localiza um fenômeno biológico no nível de organização correto e diz o que se perde ao mudar de nível.",
     "duracao": 50,
-    "materiais": ["Fichas com fenômenos biológicos variados", "Escala de níveis impressa"],
+    "materiais": [
+     "Fichas com fenômenos biológicos variados",
+     "Escala de níveis impressa"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ordenar os níveis", "comoFazer": "Da molécula à biosfera, com as fichas. A ordem é fácil; o que vem depois é que não." },
-     { "minutos": 13, "titulo": "Encaixar fenômenos", "comoFazer": "Fotossíntese, migração, mutação, extinção. Cada um tem seu nível, e alguns aparecem em mais de um." },
-     { "minutos": 15, "titulo": "O que emerge", "comoFazer": "Propriedades que existem num nível e não no anterior. Uma célula está viva, uma molécula não — e é aí que o conceito de emergência entra." },
-     { "minutos": 10, "titulo": "Mudar de nível de propósito", "comoFazer": "Explique a mesma doença no nível molecular e no populacional. As duas são verdadeiras e servem a perguntas diferentes." }
+     {
+      "minutos": 12,
+      "titulo": "Ordenar os níveis",
+      "comoFazer": "Da molécula à biosfera, com as fichas. A ordem é fácil; o que vem depois é que não."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Encaixar fenômenos",
+      "comoFazer": "Fotossíntese, migração, mutação, extinção. Cada um tem seu nível, e alguns aparecem em mais de um."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que emerge",
+      "comoFazer": "Propriedades que existem num nível e não no anterior. Uma célula está viva, uma molécula não — e é aí que o conceito de emergência entra."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mudar de nível de propósito",
+      "comoFazer": "Explique a mesma doença no nível molecular e no populacional. As duas são verdadeiras e servem a perguntas diferentes."
+     }
     ],
     "comoAvaliar": "O encaixe dos fenômenos com a justificativa. Encaixar tudo no nível celular indica que a escala não foi incorporada.",
     "errosComuns": [
@@ -241,9 +518,18 @@
     ]
    },
    "fontes": [
-    { "label": "Biota Neotropica — periódico de biodiversidade", "url": "https://www.scielo.br/j/bn/" },
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "BNCC — Ensino Médio (PDF oficial do MEC)", "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf" }
+    {
+     "label": "Biota Neotropica — periódico de biodiversidade",
+     "url": "https://www.scielo.br/j/bn/"
+    },
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
    ]
   },
   {
@@ -252,17 +538,42 @@
    "ano": "2ª série",
    "titulo": "Prever efeitos de intervenções em ecossistemas",
    "descricao": "O aluno avalia e prevê consequências de intervenções humanas sobre ecossistemas e seres vivos.",
-   "bncc": ["EM13CNT203"],
-   "exigencias": ["representacao-visual", "leitura-extensa"],
+   "bncc": [
+    "EM13CNT203"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno prevê dois efeitos indiretos da remoção de uma espécie de uma teia alimentar real.",
     "duracao": 50,
-    "materiais": ["Teia alimentar de um bioma brasileiro", "Barbante e fichas", "Caso de introdução de espécie exótica"],
+    "materiais": [
+     "Teia alimentar de um bioma brasileiro",
+     "Barbante e fichas",
+     "Caso de introdução de espécie exótica"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Montar a teia com barbante", "comoFazer": "Cada aluno é uma espécie e segura os barbantes que a ligam às outras. A teia física mostra conexões que o desenho esconde." },
-     { "minutos": 13, "titulo": "Remover uma espécie", "comoFazer": "Um aluno solta os barbantes. O tranco chega a quem não estava ligado diretamente, e é isso que se quer que se sinta." },
-     { "minutos": 15, "titulo": "O caso real", "comoFazer": "Leia um caso de espécie exótica introduzida. Efeitos indiretos e atrasados são a regra, e não a exceção." },
-     { "minutos": 10, "titulo": "Escrever a previsão", "comoFazer": "Cada aluno escreve dois efeitos indiretos com a cadeia causal que os liga." }
+     {
+      "minutos": 12,
+      "titulo": "Montar a teia com barbante",
+      "comoFazer": "Cada aluno é uma espécie e segura os barbantes que a ligam às outras. A teia física mostra conexões que o desenho esconde."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Remover uma espécie",
+      "comoFazer": "Um aluno solta os barbantes. O tranco chega a quem não estava ligado diretamente, e é isso que se quer que se sinta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O caso real",
+      "comoFazer": "Leia um caso de espécie exótica introduzida. Efeitos indiretos e atrasados são a regra, e não a exceção."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever a previsão",
+      "comoFazer": "Cada aluno escreve dois efeitos indiretos com a cadeia causal que os liga."
+     }
     ],
     "comoAvaliar": "As duas previsões com a cadeia causal. Prever só o efeito direto mostra que a teia não foi usada.",
     "errosComuns": [
@@ -272,9 +583,18 @@
     ]
    },
    "fontes": [
-    { "label": "ICMBio — Instituto Chico Mendes de Conservação da Biodiversidade", "url": "https://www.gov.br/icmbio/pt-br" },
-    { "label": "Biota Neotropica", "url": "https://www.scielo.br/j/bn/" },
-    { "label": "Embrapa", "url": "https://www.embrapa.br/" }
+    {
+     "label": "ICMBio — Instituto Chico Mendes de Conservação da Biodiversidade",
+     "url": "https://www.gov.br/icmbio/pt-br"
+    },
+    {
+     "label": "Biota Neotropica",
+     "url": "https://www.scielo.br/j/bn/"
+    },
+    {
+     "label": "Embrapa",
+     "url": "https://www.embrapa.br/"
+    }
    ]
   },
   {
@@ -283,17 +603,42 @@
    "ano": "2ª série",
    "titulo": "Conservação da biodiversidade: escolher com critério e com dado",
    "descricao": "O aluno justifica ações de preservação e conservação considerando parâmetros qualitativos e quantitativos.",
-   "bncc": ["EM13CNT206"],
-   "exigencias": ["representacao-visual", "producao-do-aluno"],
+   "bncc": [
+    "EM13CNT206"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno propõe uma prioridade de conservação para uma área e a justifica com dois parâmetros.",
     "duracao": 50,
-    "materiais": ["Dados de espécies ameaçadas de um bioma", "Mapa de unidades de conservação", "Ficha de decisão"],
+    "materiais": [
+     "Dados de espécies ameaçadas de um bioma",
+     "Mapa de unidades de conservação",
+     "Ficha de decisão"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ler a lista", "comoFazer": "Com a lista de espécies ameaçadas, veja quais critérios definem o grau de ameaça. Categoria não é opinião — tem definição." },
-     { "minutos": 13, "titulo": "Nem tudo cabe", "comoFazer": "Com recursos limitados, é preciso priorizar. A restrição é o que transforma a aula em decisão, e não em declaração de intenção." },
-     { "minutos": 15, "titulo": "Dois parâmetros", "comoFazer": "Um quantitativo (número de indivíduos, área) e um qualitativo (papel ecológico, endemismo). Decidir com os dois é o exercício." },
-     { "minutos": 10, "titulo": "Defender a escolha", "comoFazer": "Cada grupo apresenta a prioridade e responde a uma objeção de outro grupo." }
+     {
+      "minutos": 12,
+      "titulo": "Ler a lista",
+      "comoFazer": "Com a lista de espécies ameaçadas, veja quais critérios definem o grau de ameaça. Categoria não é opinião — tem definição."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nem tudo cabe",
+      "comoFazer": "Com recursos limitados, é preciso priorizar. A restrição é o que transforma a aula em decisão, e não em declaração de intenção."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Dois parâmetros",
+      "comoFazer": "Um quantitativo (número de indivíduos, área) e um qualitativo (papel ecológico, endemismo). Decidir com os dois é o exercício."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Defender a escolha",
+      "comoFazer": "Cada grupo apresenta a prioridade e responde a uma objeção de outro grupo."
+     }
     ],
     "comoAvaliar": "A ficha de decisão com os dois parâmetros. Justificar só por 'é importante preservar' não cumpre.",
     "errosComuns": [
@@ -303,8 +648,25 @@
     ]
    },
    "fontes": [
-    { "label": "ICMBio — Instituto Chico Mendes de Conservação da Biodiversidade", "url": "https://www.gov.br/icmbio/pt-br" },
-    { "label": "Biota Neotropica", "url": "https://www.scielo.br/j/bn/" }
+    {
+     "label": "ICMBio — Instituto Chico Mendes de Conservação da Biodiversidade",
+     "url": "https://www.gov.br/icmbio/pt-br"
+    },
+    {
+     "label": "Biota Neotropica",
+     "url": "https://www.scielo.br/j/bn/"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=tqWAOCc5J1A",
+     "titulo": "Biodiversidade (Parte 1) - DE OLHO NA CIÊNCIA",
+     "canal": "TV INES",
+     "duracaoSegundos": 718,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
+     "revisado": false
+    }
    ]
   },
   {
@@ -313,17 +675,42 @@
    "ano": "3ª série",
    "titulo": "Saúde não é só o corpo: dimensões física, psíquica e social",
    "descricao": "O aluno analisa condições a que jovens estão expostos considerando as dimensões física, psíquica e social, e discute prevenção.",
-   "bncc": ["EM13CNT207"],
-   "exigencias": ["leitura-extensa", "producao-do-aluno"],
+   "bncc": [
+    "EM13CNT207"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno analisa uma situação de saúde nas três dimensões e propõe uma ação para cada uma.",
     "duracao": 50,
-    "materiais": ["Dados de saúde do adolescente", "Casos anonimizados", "Ficha de três colunas"],
+    "materiais": [
+     "Dados de saúde do adolescente",
+     "Casos anonimizados",
+     "Ficha de três colunas"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "Ampliar a definição", "comoFazer": "Comece perguntando o que é ter saúde. As respostas costumam ser só ausência de doença, e a ampliação é a aula." },
-     { "minutos": 13, "titulo": "Três colunas", "comoFazer": "Analise um caso nas três dimensões. O que parecia problema individual passa a ter componente social visível." },
-     { "minutos": 15, "titulo": "Onde intervir", "comoFazer": "Uma ação por dimensão — individual, coletiva e de política pública. Prevenção deixa de ser só conselho de comportamento." },
-     { "minutos": 10, "titulo": "Onde pedir ajuda", "comoFazer": "Liste serviços reais disponíveis na cidade. Aula de saúde sem endereço de serviço é informação sem porta de saída." }
+     {
+      "minutos": 12,
+      "titulo": "Ampliar a definição",
+      "comoFazer": "Comece perguntando o que é ter saúde. As respostas costumam ser só ausência de doença, e a ampliação é a aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Três colunas",
+      "comoFazer": "Analise um caso nas três dimensões. O que parecia problema individual passa a ter componente social visível."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Onde intervir",
+      "comoFazer": "Uma ação por dimensão — individual, coletiva e de política pública. Prevenção deixa de ser só conselho de comportamento."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Onde pedir ajuda",
+      "comoFazer": "Liste serviços reais disponíveis na cidade. Aula de saúde sem endereço de serviço é informação sem porta de saída."
+     }
     ],
     "comoAvaliar": "A ficha com uma ação por dimensão. Três ações individuais indicam que a dimensão social não foi incorporada.",
     "errosComuns": [
@@ -333,9 +720,18 @@
     ]
    },
    "fontes": [
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "InVivo / Fiocruz", "url": "https://www.invivo.fiocruz.br/" },
-    { "label": "CDC — saúde mental e bem-estar na escola", "url": "https://www.cdc.gov/healthy-youth/mental-health/index.html" }
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "InVivo / Fiocruz",
+     "url": "https://www.invivo.fiocruz.br/"
+    },
+    {
+     "label": "CDC — saúde mental e bem-estar na escola",
+     "url": "https://www.cdc.gov/healthy-youth/mental-health/index.html"
+    }
    ]
   },
   {
@@ -344,17 +740,43 @@
    "ano": "3ª série",
    "titulo": "Como a vacina funciona, e por que a cobertura coletiva importa",
    "descricao": "O aluno explica o mecanismo da imunização e avalia dados de cobertura vacinal e seus efeitos na população.",
-   "bncc": ["EM13CNT207", "EM13CNT203"],
-   "exigencias": ["representacao-visual", "leitura-extensa"],
+   "bncc": [
+    "EM13CNT207",
+    "EM13CNT203"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
    "plano": {
     "objetivo": "Ao final, o aluno explica por que a queda da cobertura afeta quem não pode se vacinar.",
     "duracao": 50,
-    "materiais": ["Dados de cobertura vacinal do município", "Fichas para simular a população", "Notícia sobre retorno de doença"],
+    "materiais": [
+     "Dados de cobertura vacinal do município",
+     "Fichas para simular a população",
+     "Notícia sobre retorno de doença"
+    ],
     "etapas": [
-     { "minutos": 12, "titulo": "O mecanismo primeiro", "comoFazer": "Antígeno, memória imunológica, resposta rápida. A explicação individual precisa estar de pé antes da coletiva." },
-     { "minutos": 13, "titulo": "Simular a transmissão", "comoFazer": "Com fichas, compare a propagação em população com alta e baixa cobertura. O efeito coletivo aparece como diferença de alcance." },
-     { "minutos": 15, "titulo": "Quem depende dos outros", "comoFazer": "Bebês, imunossuprimidos, alérgicos. A cobertura é o que os protege, e essa é a razão pela qual a decisão não é apenas individual." },
-     { "minutos": 10, "titulo": "Ler o dado local", "comoFazer": "Com a cobertura do município, compare com a meta. Dado da própria cidade encerra a discussão em outro lugar." }
+     {
+      "minutos": 12,
+      "titulo": "O mecanismo primeiro",
+      "comoFazer": "Antígeno, memória imunológica, resposta rápida. A explicação individual precisa estar de pé antes da coletiva."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Simular a transmissão",
+      "comoFazer": "Com fichas, compare a propagação em população com alta e baixa cobertura. O efeito coletivo aparece como diferença de alcance."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Quem depende dos outros",
+      "comoFazer": "Bebês, imunossuprimidos, alérgicos. A cobertura é o que os protege, e essa é a razão pela qual a decisão não é apenas individual."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Ler o dado local",
+      "comoFazer": "Com a cobertura do município, compare com a meta. Dado da própria cidade encerra a discussão em outro lugar."
+     }
     ],
     "comoAvaliar": "A explicação sobre quem não pode se vacinar. Explicar só o mecanismo individual deixa metade do conteúdo de fora.",
     "errosComuns": [
@@ -364,9 +786,18 @@
     ]
    },
    "fontes": [
-    { "label": "Fiocruz", "url": "https://portal.fiocruz.br/" },
-    { "label": "InVivo / Fiocruz", "url": "https://www.invivo.fiocruz.br/" },
-    { "label": "Organização Mundial da Saúde — saúde do adolescente", "url": "https://www.who.int/health-topics/adolescent-health" }
+    {
+     "label": "Fiocruz",
+     "url": "https://portal.fiocruz.br/"
+    },
+    {
+     "label": "InVivo / Fiocruz",
+     "url": "https://www.invivo.fiocruz.br/"
+    },
+    {
+     "label": "Organização Mundial da Saúde — saúde do adolescente",
+     "url": "https://www.who.int/health-topics/adolescent-health"
+    }
    ]
   }
  ]
