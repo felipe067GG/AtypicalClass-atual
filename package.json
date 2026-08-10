@@ -12,6 +12,9 @@
     "detectores": "node scripts/detectores/rodar.mjs",
     "autorais": "node scripts/autorais/conferir.mjs",
     "bncc": "node scripts/autorais/conferir-bncc.mjs",
+    "bncc:catalogo": "node scripts/bncc/documentos.mjs",
+    "conteudos": "node scripts/conteudos/conferir.mjs",
+    "videos": "node scripts/conteudos/videos.mjs",
     "enviar": "node scripts/import-supabase/enviar.mjs"
   },
   "dependencies": {

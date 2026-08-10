@@ -1,0 +1,746 @@
+{
+ "materia": "Artes",
+ "conteudos": [
+  {
+   "id": "artes-elementos-visuais",
+   "etapa": "EF1",
+   "ano": "1º ao 5º ano",
+   "titulo": "Ponto, linha, forma e cor: os elementos com que se olha",
+   "descricao": "O aluno explora e reconhece os elementos constitutivos das artes visuais em obras e na própria produção.",
+   "bncc": [
+    "EF15AR02",
+    "EF15AR04"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno aponta três elementos visuais numa obra e os usa numa produção própria.",
+    "duracao": 50,
+    "materiais": [
+     "Reproduções de obras variadas",
+     "Papel, lápis, tinta, barbante"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Caçar o elemento",
+      "comoFazer": "Nas reproduções, procure só linhas. Depois só cores. Isolar um elemento por vez ensina a ver por partes."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Fazer com um elemento só",
+      "comoFazer": "Uma produção usando apenas linha. A restrição é o que força a exploração."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Combinar dois",
+      "comoFazer": "Linha e cor juntas. A combinação muda o resultado, e a mudança é observada, não explicada."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mostrar e nomear",
+      "comoFazer": "Cada aluno mostra a produção e nomeia os elementos usados."
+     }
+    ],
+    "comoAvaliar": "Os três elementos apontados na obra e usados na produção. Produção livre sem uso consciente do elemento não cumpre.",
+    "errosComuns": [
+     "Avaliar arte de criança por semelhança com o real.",
+     "Corrigir a produção em vez de conversar sobre as escolhas.",
+     "Tratar o elemento visual como conteúdo a decorar."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte — Fundação Nacional de Artes",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-matrizes-culturais",
+   "etapa": "EF1",
+   "ano": "1º ao 5º ano",
+   "titulo": "De onde vem o que chamamos de arte: matrizes estéticas e culturais",
+   "descricao": "O aluno reconhece distintas matrizes estéticas e culturais nas manifestações artísticas, incluindo indígenas e afro-brasileiras.",
+   "bncc": [
+    "EF15AR03",
+    "EF15AR01"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno relaciona um padrão gráfico a uma matriz cultural e explica o que ele representa.",
+    "duracao": 50,
+    "materiais": [
+     "Imagens de grafismos indígenas, africanos e europeus",
+     "Papel para reprodução livre"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ver sem legenda",
+      "comoFazer": "As imagens sem identificação. A turma agrupa por semelhança, e os agrupamentos revelam critérios próprios."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Cada padrão diz algo",
+      "comoFazer": "Grafismo indígena costuma ter significado preciso, não é enfeite. Dizer isso desfaz a leitura decorativa."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Experimentar o traço",
+      "comoFazer": "Reproduzir livremente um padrão para sentir o gesto. Sem copiar como se fosse molde — o objetivo é a experiência."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quem pode usar o quê",
+      "comoFazer": "Conversa sobre apropriação: reproduzir para aprender é diferente de usar como enfeite comercial."
+     }
+    ],
+    "comoAvaliar": "A relação padrão-matriz com o significado explicado. Tratar todos como 'desenho bonito' é o que a aula desfaz.",
+    "errosComuns": [
+     "Apresentar arte indígena e africana como artesanato e a europeia como arte.",
+     "Copiar grafismos sagrados sem contexto nem cuidado.",
+     "Tratar matriz cultural como estilo do passado."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-processo-colaborativo",
+   "etapa": "EF1",
+   "ano": "1º ao 5º ano",
+   "titulo": "Criar em grupo, ocupando o espaço da escola",
+   "descricao": "O aluno experimenta a criação em processo coletivo e colaborativo, explorando espaços da escola.",
+   "bncc": [
+    "EF15AR05"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, a turma produz uma intervenção coletiva num espaço da escola, com a contribuição de cada um identificável.",
+    "duracao": 50,
+    "materiais": [
+     "Materiais recicláveis, tecido, papel",
+     "Fita adesiva",
+     "Autorização para uso do espaço"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Escolher o espaço",
+      "comoFazer": "Percorrer a escola e escolher um lugar esquecido. A escolha do lugar já é decisão artística."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Combinar a regra",
+      "comoFazer": "Uma regra comum — uma cor só, um material só. A restrição dá unidade sem impor um resultado."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Produzir junto",
+      "comoFazer": "Cada um contribui dentro da regra. Trabalho coletivo não é dividir tarefa: é produzir no mesmo objeto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Olhar de longe",
+      "comoFazer": "A turma se afasta e vê o conjunto. Ver o resultado coletivo é parte da experiência."
+     }
+    ],
+    "comoAvaliar": "A intervenção realizada com contribuição de todos. Trabalho em que dois fazem e o resto assiste não cumpre o objetivo.",
+    "errosComuns": [
+     "Transformar colaboração em divisão de tarefas isoladas.",
+     "Definir o resultado antes, o que anula a criação.",
+     "Ocupar espaço sem combinar com a escola, o que inviabiliza a próxima."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-estilos-no-tempo",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Estilos visuais no tempo e no espaço",
+   "descricao": "O aluno pesquisa e analisa diferentes estilos visuais, contextualizando-os no tempo e no espaço.",
+   "bncc": [
+    "EF69AR02",
+    "EF69AR01"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno situa três obras em períodos diferentes usando marcas visuais, não datas decoradas.",
+    "duracao": 50,
+    "materiais": [
+     "Reproduções de três períodos",
+     "Linha do tempo em branco"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ordenar sem data",
+      "comoFazer": "Três obras, ordenadas por intuição. A discussão sobre a ordem já mobiliza as marcas visuais."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que mudou no olhar",
+      "comoFazer": "Perspectiva, cor, tema, quem é retratado. As marcas se listam a partir da comparação."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Situar na linha",
+      "comoFazer": "Datas e contexto entram agora, para confirmar ou corrigir o que já foi observado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que o estilo permitia",
+      "comoFazer": "Todo estilo torna algumas coisas possíveis e outras não. Essa é a leitura que vai além do rótulo."
+     }
+    ],
+    "comoAvaliar": "A ordenação justificada por marcas visuais. Acertar a data sem apontar a marca é memorização.",
+    "errosComuns": [
+     "Decorar sequência de movimentos sem olhar as obras.",
+     "Achar que arte evolui do pior para o melhor.",
+     "Confundir estilo com técnica."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Brasiliana Fotográfica — acervo da Biblioteca Nacional",
+     "url": "https://brasilianafotografica.bn.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-audiovisual-e-grafico",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Quando as artes visuais viram audiovisual e gráfico",
+   "descricao": "O aluno analisa como as artes visuais se integram às linguagens audiovisuais e gráficas do cotidiano.",
+   "bncc": [
+    "EF69AR03"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica, numa peça audiovisual, três decisões visuais e o efeito de cada uma.",
+    "duracao": 50,
+    "materiais": [
+     "Vídeo curto ou peça publicitária",
+     "Celular para produção"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Pausar e olhar",
+      "comoFazer": "Pare o vídeo em três quadros. Enquadramento, cor e composição existem em cada frame parado."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nomear a decisão",
+      "comoFazer": "Plano fechado, cor dominante, posição do sujeito. Cada uma produz um efeito nomeável."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Refazer diferente",
+      "comoFazer": "Grave o mesmo plano com outra decisão. A comparação entre as duas versões é o aprendizado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mostrar as duas",
+      "comoFazer": "A turma diz o que mudou sem saber qual decisão foi alterada."
+     }
+    ],
+    "comoAvaliar": "As três decisões com efeitos e a refilmagem. Descrever o conteúdo do vídeo não é analisar a decisão visual.",
+    "errosComuns": [
+     "Analisar o assunto do vídeo em vez das escolhas visuais.",
+     "Achar que só equipamento caro produz decisão estética.",
+     "Confundir gosto pessoal com análise do efeito."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-elementos-constitutivos",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Composição: como o olhar é conduzido dentro da imagem",
+   "descricao": "O aluno analisa os elementos constitutivos das artes visuais na composição de obras e imagens.",
+   "bncc": [
+    "EF69AR04"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno traça o percurso do olhar numa imagem e explica o que o conduz.",
+    "duracao": 50,
+    "materiais": [
+     "Reproduções de obras",
+     "Papel vegetal ou acetato",
+     "Câmera de celular"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Onde olhei primeiro",
+      "comoFazer": "Cada aluno marca no vegetal, sobre a obra, o ponto em que o olho caiu primeiro. Os pontos coincidem mais do que se espera."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que puxa o olhar",
+      "comoFazer": "Contraste, direção de linha, rosto humano. A condução é construída, e não acidental."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Compor uma foto",
+      "comoFazer": "Cada aluno faz uma foto com um ponto de atenção deliberado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Testar no colega",
+      "comoFazer": "O colega diz onde olhou primeiro. Se coincidir com a intenção, a composição funcionou."
+     }
+    ],
+    "comoAvaliar": "O teste do colega. Foto bonita sem condução deliberada não cumpre o objetivo.",
+    "errosComuns": [
+     "Centralizar tudo por hábito.",
+     "Achar que composição é regra fixa a obedecer.",
+     "Ignorar o que a moldura corta."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Brasiliana Fotográfica",
+     "url": "https://brasilianafotografica.bn.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-expressao-em-varias-formas",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "A mesma ideia em desenho, pintura e escultura",
+   "descricao": "O aluno experimenta diferentes formas de expressão artística e percebe o que cada suporte permite.",
+   "bncc": [
+    "EF69AR05"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno realiza a mesma ideia em dois suportes e diz o que cada um acrescentou ou impediu.",
+    "duracao": 50,
+    "materiais": [
+     "Papel e lápis",
+     "Tinta",
+     "Argila ou massa de modelar"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Uma ideia simples",
+      "comoFazer": "Uma palavra sorteada — peso, movimento, silêncio. Ideia abstrata evita a ilustração literal."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Primeiro suporte",
+      "comoFazer": "Desenho, dez minutos. Tempo curto impede o excesso de acabamento."
+     },
+     {
+      "minutos": 17,
+      "titulo": "Segundo suporte",
+      "comoFazer": "A mesma ideia em volume. O material impõe outras decisões, e é isso que se quer sentir."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar os dois",
+      "comoFazer": "O que o volume fez que o papel não fazia? A comparação é o conteúdo da aula."
+     }
+    ],
+    "comoAvaliar": "As duas realizações e a comparação entre suportes. Reproduzir o desenho em três dimensões não é o objetivo.",
+    "errosComuns": [
+     "Repetir a mesma solução nos dois suportes.",
+     "Buscar acabamento em vez de exploração.",
+     "Julgar o resultado pelo realismo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-diversidade-e-corpo",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Corpo, som e imagem: as linguagens em diálogo",
+   "descricao": "O aluno aprecia e analisa manifestações artísticas em diferentes linguagens, valorizando a diversidade cultural.",
+   "bncc": [
+    "EM13LGG201"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica, numa manifestação artística, o que vem do corpo, do som e da imagem.",
+    "duracao": 50,
+    "materiais": [
+     "Registro de manifestação popular brasileira",
+     "Ficha de decomposição"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ver inteiro",
+      "comoFazer": "Assistir sem análise. A manifestação existe como conjunto, e desmontá-la antes de vê-la inteira empobrece."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Separar as camadas",
+      "comoFazer": "O que é gesto, o que é som, o que é indumentária. A decomposição mostra a complexidade do que parece simples."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Tirar uma camada",
+      "comoFazer": "Assista sem som. A ausência revela a função de cada camada melhor que a descrição."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quem faz e por quê",
+      "comoFazer": "Contexto de origem e função social. Manifestação popular não é espetáculo produzido para plateia escolar."
+     }
+    ],
+    "comoAvaliar": "A ficha com as três camadas e a função de cada uma. Descrever só o que se vê deixa som e contexto de fora.",
+    "errosComuns": [
+     "Tratar manifestação popular como folclore congelado.",
+     "Analisar sem saber a função social da prática.",
+     "Reduzir a análise à indumentária."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Brasiliana Fotográfica",
+     "url": "https://brasilianafotografica.bn.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-poder-nas-imagens",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Quem aparece e quem não aparece nas imagens",
+   "descricao": "O aluno analisa interesses, relações de poder e perspectivas de mundo em produções artísticas e visuais.",
+   "bncc": [
+    "EM13LGG202"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno analisa um conjunto de imagens e identifica quem é representado, como e por quem.",
+    "duracao": 50,
+    "materiais": [
+     "Conjunto de retratos de época",
+     "Publicidade atual",
+     "Ficha de análise"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Quem está no quadro",
+      "comoFazer": "Nos retratos antigos, quem podia ser retratado. O acesso ao retrato era acesso à memória."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Quem está fora",
+      "comoFazer": "A ausência é sistemática, não acidental. Identificar quem não aparece é a operação central."
+     },
+     {
+      "minutos": 15,
+      "titulo": "E hoje",
+      "comoFazer": "Na publicidade atual, repita as duas perguntas. As respostas mudaram — e o quanto mudaram é o assunto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Produzir a contra-imagem",
+      "comoFazer": "Cada aluno produz uma imagem que corrija uma ausência que identificou."
+     }
+    ],
+    "comoAvaliar": "A análise com ausência identificada e a contra-imagem. Análise sem produção deixa a crítica sem consequência.",
+    "errosComuns": [
+     "Analisar só o que está na imagem.",
+     "Julgar imagem antiga pelos critérios de hoje sem reconstruir o contexto.",
+     "Achar que representação numérica resolve sozinha a questão."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Brasiliana Fotográfica",
+     "url": "https://brasilianafotografica.bn.gov.br/"
+    },
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "artes-remidiacao",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Remidiação: a mesma obra em outra mídia",
+   "descricao": "O aluno analisa e experimenta processos de remidiação, levando uma produção de um suporte a outro.",
+   "bncc": [
+    "EM13LGG105"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno transpõe uma obra para outra mídia e explica o que precisou mudar.",
+    "duracao": 50,
+    "materiais": [
+     "Obra de partida (poema, pintura, música)",
+     "Recursos da mídia de chegada"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que a obra faz",
+      "comoFazer": "Antes de transpor, identifique o efeito central. Transpor sem isso produz cópia decorativa."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que a nova mídia permite",
+      "comoFazer": "Tempo, som, interação, escala. Cada mídia tem recursos que a outra não tem."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Transpor",
+      "comoFazer": "Produzir a versão nova, buscando o mesmo efeito por outros meios."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que se perdeu",
+      "comoFazer": "Nomear a perda é parte do trabalho. Transposição sem perda não existe."
+     }
+    ],
+    "comoAvaliar": "A versão nova com o efeito preservado e a perda nomeada. Transposição literal não cumpre.",
+    "errosComuns": [
+     "Ilustrar a obra em vez de transpô-la.",
+     "Achar que a versão nova precisa ser fiel ao detalhe.",
+     "Escolher mídia de chegada sem considerar seus recursos."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    }
+   ],
+   "sinaisDispensados": {
+    "leitura-extensa": "\"poema\" é uma das três obras de partida possíveis, ao lado de pintura e música — a aula é de transposição entre mídias, não de leitura"
+   }
+  },
+  {
+   "id": "artes-patrimonio",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Patrimônio: o que se decide preservar",
+   "descricao": "O aluno analisa o que é considerado patrimônio cultural e por quem essa decisão é tomada.",
+   "bncc": [
+    "EM13LGG203",
+    "EM13LGG201"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno propõe um bem local para reconhecimento e justifica com critérios de patrimônio.",
+    "duracao": 50,
+    "materiais": [
+     "Lista de bens tombados da região",
+     "Critérios de tombamento"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que já é patrimônio aqui",
+      "comoFazer": "Consultar a lista local. A maioria da turma não sabe o que existe na própria cidade."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Por que esses",
+      "comoFazer": "Critérios de valor histórico, artístico, afetivo. A escolha revela quem decidiu e o que valorizava."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que ficou de fora",
+      "comoFazer": "Prática, festa, ofício, lugar de memória popular. Patrimônio imaterial amplia o que conta."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Propor um bem",
+      "comoFazer": "Cada grupo propõe e justifica com ao menos dois critérios."
+     }
+    ],
+    "comoAvaliar": "A proposta com dois critérios. Propor sem critério é indicação de gosto.",
+    "errosComuns": [
+     "Achar que patrimônio é só construção antiga e bonita.",
+     "Ignorar o patrimônio imaterial.",
+     "Confundir preservação com proibição de uso."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Brasiliana Fotográfica",
+     "url": "https://brasilianafotografica.bn.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "artes-projeto-autoral",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Projeto artístico autoral: da intenção à mostra",
+   "descricao": "O aluno concebe e realiza um projeto artístico próprio, com intenção declarada e apresentação pública.",
+   "bncc": [
+    "EM13LGG104",
+    "EM13LGG201"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega um projeto com intenção, meio, público e cronograma.",
+    "duracao": 50,
+    "materiais": [
+     "Ficha de projeto",
+     "Exemplos de projetos artísticos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Partir de uma questão",
+      "comoFazer": "Projeto artístico nasce de uma pergunta ou incômodo, e não de uma técnica. A ordem importa."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Escolher o meio",
+      "comoFazer": "O meio serve à questão. Escolher a técnica primeiro é o que produz obra sem assunto."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Definir público e lugar",
+      "comoFazer": "Para quem, onde, quando. Sem isso o projeto não sai do caderno."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Cronograma honesto",
+      "comoFazer": "O que dá para fazer no tempo disponível. Projeto irrealizável é a forma mais comum de não fazer nada."
+     }
+    ],
+    "comoAvaliar": "A ficha completa, com cronograma realista. Projeto ambicioso sem cronograma é o que mais aparece e menos se realiza.",
+    "errosComuns": [
+     "Escolher a técnica antes da questão.",
+     "Planejar sem considerar material e tempo reais.",
+     "Deixar a apresentação pública de fora do projeto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  }
+ ]
+}

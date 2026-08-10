@@ -85,307 +85,307 @@ export interface CelulaDaMatriz {
 // mantém a matriz apoiada no mesmo critério do conteúdo das especialidades —
 // IES/What Works Clearinghouse, NCII, ERIC, órgãos oficiais.
 
-const WWC_MATEMATICA_2021: Citation = {
+export const WWC_MATEMATICA_2021: Citation = {
   label: "IES / What Works Clearinghouse — Assisting Students Struggling with Mathematics (guia de 2021, PDF)",
   url: "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf",
 }
 
-const WWC_RESOLUCAO: Citation = {
+export const WWC_RESOLUCAO: Citation = {
   label: "IES / What Works Clearinghouse — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
   url: "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf",
 }
 
-const WWC_MATEMATICA_INICIAIS: Citation = {
+export const WWC_MATEMATICA_INICIAIS: Citation = {
   label: "WWC — Assisting Students Struggling with Mathematics: intervenção nos anos iniciais",
   url: "https://ies.ed.gov/ncee/wwc/practiceguide/26",
 }
 
-const WWC_ESCRITA_FINAIS: Citation = {
+export const WWC_ESCRITA_FINAIS: Citation = {
   label: "WWC — guia prático de escrita para os anos finais",
   url: "https://ies.ed.gov/ncee/wwc/practiceguide/28",
 }
 
-const WWC_ESCRITA_INICIAIS: Citation = {
+export const WWC_ESCRITA_INICIAIS: Citation = {
   label: "IES / WWC — Teaching Elementary School Students to Be Effective Writers",
   url: "https://ies.ed.gov/ncee/wwc/practiceguide/17",
 }
 
-const WWC_ESCRITA_RESUMO: Citation = {
+export const WWC_ESCRITA_RESUMO: Citation = {
   label: "WWC — resumo do guia de escrita (PDF)",
   url: "https://ies.ed.gov/ncee/wwc/Docs/practiceguide/wwc_writingpg_summary_092314.pdf",
 }
 
-const READING_ROCKETS_ESCRITA: Citation = {
+export const READING_ROCKETS_ESCRITA: Citation = {
   label: "Reading Rockets — escrita: artigos e estratégias",
   url: "https://www.readingrockets.org/topics/writing",
 }
 
-const WWC_RTI_MATEMATICA: Citation = {
+export const WWC_RTI_MATEMATICA: Citation = {
   label: "WWC — resposta à intervenção em matemática, ensino fundamental (guia de 2009)",
   url: "https://ies.ed.gov/ncee/wwc/practiceguide/2",
 }
 
-const ERIC_RTI_MATEMATICA: Citation = {
+export const ERIC_RTI_MATEMATICA: Citation = {
   label: "ERIC — registro completo do guia de resposta à intervenção em matemática",
   url: "https://eric.ed.gov/?id=ED504995",
 }
 
-const NCII: Citation = {
+export const NCII: Citation = {
   label: "NCII — National Center on Intensive Intervention",
   url: "https://intensiveintervention.org/",
 }
 
-const NCII_MATEMATICA: Citation = {
+export const NCII_MATEMATICA: Citation = {
   label: "NCII — princípios para desenhar intervenção em matemática",
   url: "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics",
 }
 
-const NCIL_DEFICIENCIA_INTELECTUAL: Citation = {
+export const NCIL_DEFICIENCIA_INTELECTUAL: Citation = {
   label: "National Center on Improving Literacy — planejar o ensino de leitura na deficiência intelectual",
   url: "https://improvingliteracy.org/resource/considerations-when-planning-literacy-instruction-for-students-with-intellectual-disabilities/",
 }
 
-const NCIL_STRUCTURED_LITERACY: Citation = {
+export const NCIL_STRUCTURED_LITERACY: Citation = {
   label: "National Center on Improving Literacy — os traços do ensino estruturado de leitura",
   url: "https://improvingliteracy.org/resource/features-of-structured-literacy-instruction/",
 }
 
-const READING_ROCKETS_SL: Citation = {
+export const READING_ROCKETS_SL: Citation = {
   label: "Reading Rockets — Structured Literacy: os fundamentos",
   url: "https://www.readingrockets.org/topics/about-reading/articles/structured-literacy-instruction-basics",
 }
 
-const UNDERSTOOD_TDAH: Citation = {
+export const UNDERSTOOD_TDAH: Citation = {
   label: "Understood — adaptações de sala de aula para alunos com TDAH",
   url: "https://www.understood.org/en/articles/classroom-accommodations-for-adhd",
 }
 
-const CDC_TDAH: Citation = {
+export const CDC_TDAH: Citation = {
   label: "CDC — ADHD in the Classroom: estratégias de manejo comportamental",
   url: "https://www.cdc.gov/adhd/treatment/classroom.html",
 }
 
-const CDC_SAUDE_MENTAL: Citation = {
+export const CDC_SAUDE_MENTAL: Citation = {
   label: "CDC — saúde mental e bem-estar na escola",
   url: "https://www.cdc.gov/healthy-youth/mental-health/index.html",
 }
 
-const CDC_SAUDE_MENTAL_AULA: Citation = {
+export const CDC_SAUDE_MENTAL_AULA: Citation = {
   label: "CDC — educação em saúde mental em sala de aula",
   url: "https://www.cdc.gov/healthy-youth/mental-health/mental-health-education.html",
 }
 
-const OMS_ADOLESCENTE: Citation = {
+export const OMS_ADOLESCENTE: Citation = {
   label: "Organização Mundial da Saúde — saúde do adolescente",
   url: "https://www.who.int/health-topics/adolescent-health",
 }
 
-const CAST_UDL: Citation = {
+export const CAST_UDL: Citation = {
   label: "CAST — Diretrizes do Desenho Universal para a Aprendizagem",
   url: "https://udlguidelines.cast.org/",
 }
 
-const PATHS_BRAILLE: Citation = {
+export const PATHS_BRAILLE: Citation = {
   label: "Paths to Literacy — braille: estratégias, pré-braille e gráficos táteis",
   url: "https://www.pathstoliteracy.org/braille/",
 }
 
-const PATHS_SURDOCEGUEIRA: Citation = {
+export const PATHS_SURDOCEGUEIRA: Citation = {
   label: "Paths to Literacy — letramento e surdocegueira",
   url: "https://www.pathstoliteracy.org/deafblindness/",
 }
 
-const PATHS_TECNOLOGIA: Citation = {
+export const PATHS_TECNOLOGIA: Citation = {
   label: "Paths to Literacy — tecnologia assistiva para leitura",
   url: "https://www.pathstoliteracy.org/technology/",
 }
 
-const APH: Citation = {
+export const APH: Citation = {
   label: "American Printing House — recursos educacionais",
   url: "https://www.aph.org/educational-resources/",
 }
 
-const NCDB_MODULOS: Citation = {
+export const NCDB_MODULOS: Citation = {
   label: "NCDB — módulos Open Hands, Open Access para interventores",
   url: "https://moodle.nationaldb.org/course/index.php",
 }
 
-const DSE_LEITURA: Citation = {
+export const DSE_LEITURA: Citation = {
   label: "DSE — ensinar a ler na síndrome de Down",
   url: "https://www.down-syndrome.org/en-us/library/research-practice/01/1/teaching-down-syndrome-read/",
 }
 
-const DSE_MEMORIA: Citation = {
+export const DSE_MEMORIA: Citation = {
   label: "DSE — efeito do ensino de leitura sobre linguagem e memória (estudo de 4 anos)",
   url: "https://www.down-syndrome.org/en-us/library/research-practice/03/2/influence-reading-instruction-language-memory-development-down-syndrome/",
 }
 
-const IES_DOWN: Citation = {
+export const IES_DOWN: Citation = {
   label: "IES — ensino de leitura para crianças com síndrome de Down",
   url: "https://ies.ed.gov/learn/blog/enhancing-reading-instruction-children-down-syndrome",
 }
 
-const RADLD: Citation = {
+export const RADLD: Citation = {
   label: "RADLD — campanha internacional de conscientização sobre TDL",
   url: "https://radld.org/",
 }
 
-const DLD_PROJECT: Citation = {
+export const DLD_PROJECT: Citation = {
   label: "The DLD Project — formação baseada em evidência sobre TDL",
   url: "https://thedldproject.com/dld-training/",
 }
 
-const ASHA: Citation = {
+export const ASHA: Citation = {
   label: "ASHA — American Speech-Language-Hearing Association",
   url: "https://www.asha.org/",
 }
 
-const AFIRM_APOIOS_VISUAIS: Citation = {
+export const AFIRM_APOIOS_VISUAIS: Citation = {
   label: "AFIRM (FPG / UNC) — apoios visuais como prática com evidência no TEA",
   url: "https://afirm.fpg.unc.edu/visual-supports",
 }
 
-const NCAEP: Citation = {
+export const NCAEP: Citation = {
   label: "NCAEP (2020) — 28 práticas com evidência para TEA, revisão 1990–2017",
   url: "https://autismpdc.fpg.unc.edu/ebps/",
 }
 
-const INES_DEBASI: Citation = {
+export const INES_DEBASI: Citation = {
   label: "INES — biblioteca digital com material em Libras e Português",
   url: "https://debasi.ines.gov.br/",
 }
 
-const INES: Citation = {
+export const INES: Citation = {
   label: "INES — Instituto Nacional de Educação de Surdos (MEC)",
   url: "https://www.ines.gov.br/",
 }
 
-const UCONN_SEM: Citation = {
+export const UCONN_SEM: Citation = {
   label: "UConn / Renzulli Center — pesquisa sobre o Schoolwide Enrichment Model",
   url: "https://gifted.uconn.edu/schoolwide-enrichment-model/semresearch/",
 }
 
-const UCONN_SEM_ARTIGOS: Citation = {
+export const UCONN_SEM_ARTIGOS: Citation = {
   label: "Renzulli Center / UConn — artigos e apresentações do Schoolwide Enrichment Model",
   url: "https://gifted.uconn.edu/schoolwide-enrichment-model/semart/",
 }
 
-const RENZULLI_SEM_PDF: Citation = {
+export const RENZULLI_SEM_PDF: Citation = {
   label: "The Schoolwide Enrichment Model — visão geral do modelo (PDF)",
   url: "https://renzullilearning.com/wp-content/uploads/2018/07/The-Schoolwide-Enrichment-Model.pdf",
 }
 
-const ERIC_ENRIQUECIMENTO: Citation = {
+export const ERIC_ENRIQUECIMENTO: Citation = {
   label: "Enriquecimento e pedagogia da educação de superdotados (ERIC, PDF)",
   url: "https://files.eric.ed.gov/fulltext/EJ1317646.pdf",
 }
 
-const CEEDAR_ALTERNATIVO: Citation = {
+export const CEEDAR_ALTERNATIVO: Citation = {
   label: "CEEDAR / Univ. da Flórida — práticas com evidência para deficiências severas (PDF)",
   url: "https://ceedar.education.ufl.edu/wp-content/uploads/2014/03/Evidence-based-Practices-for-Students-with-Severe-Disabilities.pdf",
 }
 
-const PROMOTING_PROGRESS: Citation = {
+export const PROMOTING_PROGRESS: Citation = {
   label: "Promoting Progress — práticas de ensino com evidência",
   url: "https://promotingprogress.org/resource-collections/evidence-based-instructional-practices",
 }
 
-const TIES_PARTICIPACAO: Citation = {
+export const TIES_PARTICIPACAO: Citation = {
   label: "TIES Center / Univ. de Minnesota — práticas instrucionais e participação (PDF)",
   url: "https://ici-s.umn.edu/files/YtCaKA6y-K?fileGroup=pdf",
 }
 
-const AFIRM_ANALISE_DE_TAREFA: Citation = {
+export const AFIRM_ANALISE_DE_TAREFA: Citation = {
   label: "AFIRM (FPG / UNC) — análise de tarefa como prática com evidência no TEA",
   url: "https://afirm.fpg.unc.edu/task-analysis",
 }
 
-const AFIRM_ANTECEDENTES: Citation = {
+export const AFIRM_ANTECEDENTES: Citation = {
   label: "AFIRM (FPG / UNC) — intervenções baseadas em antecedentes",
   url: "https://afirm.fpg.unc.edu/antecedent-based-interventions",
 }
 
-const AFIRM_NARRATIVAS: Citation = {
+export const AFIRM_NARRATIVAS: Citation = {
   label: "AFIRM (FPG / UNC) — narrativas sociais",
   url: "https://afirm.fpg.unc.edu/social-narratives",
 }
 
-const NAGC: Citation = {
+export const NAGC: Citation = {
   label: "NAGC — National Association for Gifted Children",
   url: "https://www.nagc.org/",
 }
 
-const APH_RECURSOS: Citation = {
+export const APH_RECURSOS: Citation = {
   label: "American Printing House for the Blind — recursos para educadores",
   url: "https://www.aph.org/resources/",
 }
 
-const PATHS_LETRAMENTO: Citation = {
+export const PATHS_LETRAMENTO: Citation = {
   label: "Paths to Literacy — comunidade de prática em letramento para cegueira e baixa visão",
   url: "https://www.pathstoliteracy.org/",
 }
 
-const NCIL: Citation = {
+export const NCIL: Citation = {
   label: "National Center on Improving Literacy",
   url: "https://improvingliteracy.org/",
 }
 
-const UNDERSTOOD_LITERACIA: Citation = {
+export const UNDERSTOOD_LITERACIA: Citation = {
   label: "Understood — o que é Structured Literacy, em linguagem para famílias e professores",
   url: "https://www.understood.org/en/articles/what-is-structured-literacy",
 }
 
-const READING_ROCKETS_FONOLOGIA: Citation = {
+export const READING_ROCKETS_FONOLOGIA: Citation = {
   label: "Reading Rockets — consciência fonológica e fonêmica",
   url: "https://www.readingrockets.org/topics/phonological-and-phonemic-awareness",
 }
 
-const DSRF_LEITURA: Citation = {
+export const DSRF_LEITURA: Citation = {
   label: "Down Syndrome Resource Foundation — leitura",
   url: "https://dsrf.org/resources/information/education/reading/",
 }
 
-const PMC_TDL_LEITURA: Citation = {
+export const PMC_TDL_LEITURA: Citation = {
   label: "Estratégias de leitura para crianças com TDL — revisão (PMC)",
   url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9688349/",
 }
 
-const PMC_TDAH_REVISAO: Citation = {
+export const PMC_TDAH_REVISAO: Citation = {
   label: "Revisão de intervenções psicossociais com evidência para TDAH (2024)",
   url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11162428/",
 }
 
-const INES_MATERIAIS: Citation = {
+export const INES_MATERIAIS: Citation = {
   label: "INES — materiais didáticos para uso em sala",
   url: "https://debasi.ines.gov.br/materiais-did%C3%A1ticos",
 }
 
-const CADEAFBLIND_INTERVENTOR: Citation = {
+export const CADEAFBLIND_INTERVENTOR: Citation = {
   label: "California Deafblind Services — o papel do interventor",
   url: "https://cadeafblind.org/interveners/",
 }
 
-const USU_INTERVENTOR: Citation = {
+export const USU_INTERVENTOR: Citation = {
   label: "Utah State University — recursos de formação de interventores",
   url: "https://idrpp.usu.edu/projects/intervener/niaa-resources/index.php",
 }
 
-const NCDB_MOODLE: Citation = {
+export const NCDB_MOODLE: Citation = {
   label: "NCDB — plataforma de cursos Open Hands, Open Access",
   url: "https://moodle.nationaldb.org/",
 }
 
-const AAC_APRENDER: Citation = {
+export const AAC_APRENDER: Citation = {
   label: "AssistiveWare — Learn AAC: guia prático sobre comunicação alternativa",
   url: "https://www.assistiveware.com/learn-aac",
 }
 
-const AAC_INSTITUTE: Citation = {
+export const AAC_INSTITUTE: Citation = {
   label: "AAC Institute — comunicação aumentativa e alternativa",
   url: "https://www.aacinstitute.org/",
 }
 
-const UNDERSTOOD_MATEMATICA: Citation = {
+export const UNDERSTOOD_MATEMATICA: Citation = {
   label: "Understood — ensino de matemática com evidência para alunos com dificuldade",
   url: "https://www.understood.org/en/articles/evidence-based-math-instruction-for-struggling-students",
 }

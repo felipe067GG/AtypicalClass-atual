@@ -1,0 +1,880 @@
+{
+ "materia": "Matemática",
+ "conteudos": [
+  {
+   "id": "matematica-comparar-numeros-ate-mil",
+   "etapa": "EF1",
+   "ano": "3º ano",
+   "titulo": "Comparar e ordenar números naturais até 1.000",
+   "descricao": "O aluno lê, escreve e decide qual de dois números é maior, justificando pela posição de cada algarismo e não pela quantidade de dígitos.",
+   "bncc": [
+    "EF03MA01"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno ordena cinco números de três algarismos e diz em voz alta qual algarismo decidiu a comparação.",
+    "duracao": 50,
+    "materiais": [
+     "Material dourado ou canudos em maços de 100 e 10",
+     "Fita métrica de 0 a 1.000 colada na parede",
+     "Cartões com números de três algarismos"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Montar dois números",
+      "comoFazer": "Entregue dois cartões e peça que cada número seja montado com o material: 342 vira 3 placas, 4 barras e 2 cubinhos. Ninguém compara nada ainda."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar pelo maior valor posicional",
+      "comoFazer": "Pergunte qual monte tem mais placas. Só quando houver empate nas placas se olha para as barras. Diga em voz alta a regra que está sendo usada, uma vez por comparação."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Levar para a reta",
+      "comoFazer": "Cada dupla prende seus dois cartões na fita métrica da parede, na posição aproximada. A ordem fica visível de longe, e o erro aparece como cartão fora de lugar."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Fechar com o caso difícil",
+      "comoFazer": "Compare 89 com 342 e depois 98 com 102. O caso de dígitos diferentes é onde a regra 'mais algarismos é maior' funciona por acaso; peça a justificativa pela posição, não pelo tamanho."
+     }
+    ],
+    "comoAvaliar": "Peça a ordenação de cinco cartões e a frase 'olhei primeiro para as ___'. Ordenar certo sem saber dizer o que decidiu indica comparação pelo tamanho do número escrito, que falha assim que aparecer o zero intercalado.",
+    "errosComuns": [
+     "Comparar pela quantidade de algarismos, o que acerta quase sempre e falha em 98 contra 102.",
+     "Ler 507 como 'cinquenta e sete' — o zero intercalado é o ponto em que a leitura posicional se desfaz.",
+     "Comparar o algarismo da direita primeiro, arrastando o hábito de somar da direita para a esquerda."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Assisting Students Struggling with Mathematics: intervenção nos anos iniciais",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/26"
+    },
+    {
+     "label": "WWC — resumo do guia de matemática do ensino fundamental (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC-PraxGuide-Elementary-Math-Summary-508c.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ]
+  },
+  {
+   "id": "matematica-fracoes-unitarias-reta",
+   "etapa": "EF1",
+   "ano": "4º ano",
+   "titulo": "Frações unitárias na reta numérica",
+   "descricao": "O aluno reconhece 1/2, 1/3, 1/4, 1/5, 1/10 e 1/100 como parte de um todo e as localiza na reta numérica.",
+   "bncc": [
+    "EF04MA09"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "abstracao-simbolica",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno marca 1/2, 1/4 e 1/3 numa reta de 0 a 1 e explica por que 1/3 fica à direita de 1/4.",
+    "duracao": 50,
+    "materiais": [
+     "Tiras de papel iguais, várias por aluno",
+     "Régua",
+     "Retas de 0 a 1 impressas, sem marcas intermediárias"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Dobrar, não desenhar",
+      "comoFazer": "Cada aluno dobra tiras iguais em 2, 4 e 3 partes. A tira dobrada em 3 não sai exata na primeira tentativa, e é isso que mostra que as partes precisam ser iguais para valer como fração."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nomear a parte",
+      "comoFazer": "Escreva 1/4 ao lado de uma parte da tira dobrada em quatro. O de baixo diz em quantas partes o inteiro foi dividido; o de cima, quantas se tomou. Diga essa frase toda vez, com a tira na mão."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Transportar para a reta",
+      "comoFazer": "A tira vira a distância de 0 a 1 na reta impressa. O aluno usa a própria tira dobrada como medida para marcar 1/4 e 1/3 — não estima a olho."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A comparação que contraria a intuição",
+      "comoFazer": "Pergunte qual é maior, 1/3 ou 1/4. Com as tiras lado a lado, a resposta é visível. Só depois discuta por que o número maior embaixo dá pedaço menor."
+     }
+    ],
+    "comoAvaliar": "Dê uma reta em branco e peça 1/2, 1/5 e 1/10. Errar a ordem de 1/5 e 1/10 é o sinal de que a comparação está sendo feita pelo denominador como se fosse quantidade.",
+    "errosComuns": [
+     "Ler 1/3 como maior que 1/4 porque 3 é menor que 4 — o denominador funciona ao contrário da intuição.",
+     "Dividir o inteiro em partes desiguais e ainda assim chamar de fração.",
+     "Tratar a reta numérica como uma régua de contar objetos, marcando 1/4 no quarto tracinho em vez de a um quarto da distância."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Developing Effective Fractions Instruction for Kindergarten Through 8th Grade",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/15"
+    },
+    {
+     "label": "WWC — guia de frações (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/fractions_pg_093010.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — módulo \"Frações, o Primeiro Contato\", com videoaulas e material do professor",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=28"
+    },
+    {
+     "label": "Livro Aberto de Frações — sequência didática com orientações ao professor apoiadas em pesquisa, financiada por IMPA e OBMEP",
+     "url": "https://github.com/livro-aberto/livro-de-fracoes"
+    }
+   ],
+   "notas": [
+    {
+     "especialidade": "discalculia",
+     "texto": "A reta numérica é o recurso de fração com mais respaldo em intervenção, e aqui ela não é ilustração: é o instrumento de medida. Mantenha a mesma reta, com o mesmo comprimento de inteiro, em todas as aulas de fração do ano — trocar o tamanho do inteiro entre uma aula e outra é o que faz o aluno concluir que 1/4 é um lugar fixo no papel.",
+     "citations": [
+      {
+       "label": "IES / WWC — Developing Effective Fractions Instruction (recomendação da reta numérica)",
+       "url": "https://ies.ed.gov/ncee/wwc/practiceguide/15"
+      },
+      {
+       "label": "NCII — princípios para desenhar intervenção em matemática",
+       "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=j1Rd_2k2vBQ",
+     "titulo": "Aula 02 - Representando numericamente as partes",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 592,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-fracoes-maiores-que-a-unidade",
+   "etapa": "EF1",
+   "ano": "5º ano",
+   "titulo": "Frações menores e maiores que a unidade",
+   "descricao": "O aluno representa frações como 7/4 e as associa ao resultado de uma divisão, localizando-as na reta numérica além do 1.",
+   "bncc": [
+    "EF05MA03"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno posiciona 7/4 na reta e escreve o mesmo valor como 1 inteiro e 3/4.",
+    "duracao": 50,
+    "materiais": [
+     "Retas de 0 a 3 impressas",
+     "Tiras de papel iguais",
+     "Cartões com frações impróprias"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Retomar o inteiro",
+      "comoFazer": "Antes de qualquer fração maior que 1, fixe onde está o 1 na reta e quanto vale um quarto. Sem isso, a reta de 0 a 3 vira uma régua sem escala."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Passar do 1",
+      "comoFazer": "Peça 5/4 com as tiras: quatro quartos formam um inteiro, e sobra um quarto. O aluno vê que a fração não parou de fazer sentido depois do 1."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Duas escritas, um valor",
+      "comoFazer": "Escreva 5/4 e 1 e 1/4 lado a lado, apontando para o mesmo ponto da reta. As duas formas ficam associadas a um lugar, e não a duas contas diferentes."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Fração como divisão",
+      "comoFazer": "Divida 7 folhas entre 4 alunos. Cada um fica com 7/4 de folha. É a mesma fração, agora como resultado de uma divisão que não é exata."
+     }
+    ],
+    "comoAvaliar": "Peça a localização de 9/4 e a escrita mista correspondente. Marcar 9/4 antes do 1 revela que a fração ainda está sendo lida como 'parte de um todo' apenas.",
+    "errosComuns": [
+     "Achar que fração é sempre menor que 1, e recusar 7/4 como fração legítima.",
+     "Converter 7/4 em 1,75 sem saber por quê, decorando o algoritmo da divisão sem ligá-lo à reta.",
+     "Marcar 7/4 no sétimo tracinho de uma reta dividida em quartos, contando tracinhos em vez de medir distâncias."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Developing Effective Fractions Instruction for Kindergarten Through 8th Grade",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/15"
+    },
+    {
+     "label": "WWC — guia de frações (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/fractions_pg_093010.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — módulo \"Frações, o Primeiro Contato\", com videoaulas e material do professor",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=28"
+    },
+    {
+     "label": "Livro Aberto de Frações — sequência didática com orientações ao professor apoiadas em pesquisa, financiada por IMPA e OBMEP",
+     "url": "https://github.com/livro-aberto/livro-de-fracoes"
+    }
+   ]
+  },
+  {
+   "id": "matematica-racionais-tres-representacoes",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Fração, decimal e porcentagem: três escritas do mesmo número",
+   "descricao": "O aluno converte entre as três representações de um racional positivo e reconhece que 1/4, 0,25 e 25% são o mesmo ponto da reta.",
+   "bncc": [
+    "EF06MA08"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno completa uma tabela de três colunas para cinco valores e localiza cada um na mesma reta.",
+    "duracao": 50,
+    "materiais": [
+     "Malha quadriculada 10×10 impressa",
+     "Retas de 0 a 1",
+     "Calculadora simples"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Uma malha, três leituras",
+      "comoFazer": "Pinte 25 quadradinhos dos 100. Escreva ao lado: 25/100, 0,25 e 25%. O aluno não converteu nada — leu a mesma figura de três jeitos."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Simplificar sem mudar o ponto",
+      "comoFazer": "Mostre que 25/100 e 1/4 pintam a mesma área. Marque os dois no mesmo lugar da reta. Simplificar deixa de ser regra e passa a ser trocar o nome sem sair do lugar."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Conversões nos dois sentidos",
+      "comoFazer": "Complete a tabela para 1/2, 3/4, 1/10 e 3/5. Deixe a calculadora à mão: o objetivo é a relação entre as escritas, não a divisão."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O caso que quebra a regra decorada",
+      "comoFazer": "Peça 1/3. A escrita decimal não termina, e é aí que 'fração vira decimal dividindo' mostra o que significa. Registre 0,333… e discuta por que a fração é a escrita exata."
+     }
+    ],
+    "comoAvaliar": "Dê 0,4 e peça as outras duas escritas mais a posição na reta. Responder 4/10 sem conseguir dizer que é o mesmo ponto que 40% indica conversão mecânica.",
+    "errosComuns": [
+     "Ler 0,25 como 'zero vírgula vinte e cinco' e concluir que é maior que 0,3.",
+     "Tratar porcentagem como uma quarta espécie de número, e não como fração de denominador 100.",
+     "Aplicar a regra de multiplicar por 100 sem saber para que lado ela vai, trocando 0,25 por 0,0025."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Developing Effective Fractions Instruction for Kindergarten Through 8th Grade",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/15"
+    },
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — módulo \"Frações, o Primeiro Contato\", com videoaulas e material do professor",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=28"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=7EZ0LVfvww8",
+     "titulo": "Aula 03 - Frações equivalentes",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 599,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-razao-e-proporcao",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Razão e proporção na resolução de problemas",
+   "descricao": "O aluno usa a razão entre duas grandezas para resolver problemas de proporcionalidade direta, reconhecendo quando a proporcionalidade não vale.",
+   "bncc": [
+    "EF07MA09"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "sequencia-de-passos",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno resolve um problema de proporção justificando por que as grandezas são proporcionais, e aponta um caso em que não são.",
+    "duracao": 50,
+    "materiais": [
+     "Receita culinária impressa",
+     "Tabelas de duas colunas em branco"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Dobrar a receita",
+      "comoFazer": "Com a receita para 4 pessoas, peça a versão para 8 e para 6. O contexto sustenta a relação antes de qualquer notação."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A tabela antes da conta",
+      "comoFazer": "Monte a tabela de duas colunas com os pares conhecidos e a incógnita. A tabela mostra a estrutura do problema, e é ela que se preenche — não uma fórmula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Da tabela para a razão",
+      "comoFazer": "Mostre que a razão entre as duas colunas se mantém. Só aqui entra a escrita de proporção, já apoiada em quatro números que o aluno reconhece."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Onde a regra de três mente",
+      "comoFazer": "Se 1 pedreiro leva 10 dias, 2 levam 5 — mas 10 pedreiros não levam 1 dia, e 1 bebê não nasce em 1 mês com 9 mães. Peça que digam por que estes casos são diferentes."
+     }
+    ],
+    "comoAvaliar": "Dê dois problemas, um proporcional e um não. Aplicar a regra de três nos dois é o resultado a evitar, e é o mais comum quando a proporção é ensinada como procedimento.",
+    "errosComuns": [
+     "Aplicar regra de três em situação que não é proporcional, porque o formato do enunciado se parece.",
+     "Trocar a ordem das colunas ao montar a proporção, invertendo a razão.",
+     "Multiplicar em cruz sem saber o que a igualdade afirma, o que impede perceber resultado absurdo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=BJeEFFBc8xc",
+     "titulo": "Razões - Aula 52",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 763,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-numeros-inteiros-negativos",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Operações com números inteiros negativos",
+   "descricao": "O aluno resolve problemas com números negativos apoiado na reta numérica e em contextos de dívida e temperatura.",
+   "bncc": [
+    "EF07MA04"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno calcula somas e subtrações com negativos e explica o resultado como deslocamento na reta.",
+    "duracao": 50,
+    "materiais": [
+     "Reta numérica de -20 a 20 na parede",
+     "Extrato bancário fictício",
+     "Fichas de duas cores"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "O negativo antes da conta",
+      "comoFazer": "Comece por temperatura e saldo devedor. O aluno já sabe que -5 °C é mais frio que -1 °C; a ordem dos negativos vem daí, e não de uma regra."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Somar é andar",
+      "comoFazer": "Toda operação vira deslocamento na reta da parede: somar positivo anda para a direita, somar negativo para a esquerda. Um aluno anda, os outros conferem."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Subtrair o negativo",
+      "comoFazer": "Use as fichas de duas cores: tirar uma dívida de 3 deixa o saldo maior. O caso mais decorado do ano passa a ter uma ação correspondente."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Separar sinal de operação",
+      "comoFazer": "Escreva -3 - (-5) e leia em voz alta o que é sinal do número e o que é operação. Confundir os dois é a origem da maior parte dos erros aqui."
+     }
+    ],
+    "comoAvaliar": "Peça o resultado de -7 + 4 e de -7 - (-4), com a justificativa pelo deslocamento. Acertar as contas sem saber apontar na reta indica regra decorada.",
+    "errosComuns": [
+     "Concluir que -5 é maior que -1 porque 5 é maior que 1.",
+     "Aplicar 'menos com menos dá mais' também na soma, transformando -3 + (-5) em 8.",
+     "Perder o sinal ao copiar a expressão para o caderno, o que faz o erro parecer de cálculo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=nA0suQy_ELg",
+     "titulo": "Introdução aos números inteiros - Aula 01",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 834,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-valor-numerico-expressoes",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Valor numérico de expressões algébricas",
+   "descricao": "O aluno substitui valores numa expressão algébrica e calcula o resultado, distinguindo a letra que representa um número de uma abreviação.",
+   "bncc": [
+    "EF08MA06"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno calcula o valor de 3x² - 2y para valores dados, com a substituição escrita passo a passo.",
+    "duracao": 50,
+    "materiais": [
+     "Fichas com valores para x e y",
+     "Folha com a substituição em três linhas separadas"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "A letra é um número",
+      "comoFazer": "Diga qual número a letra está representando hoje e escreva 'x = 4' num cartão à vista. A letra como abreviação de palavra — m de metro — é a confusão a desfazer aqui."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Substituir com parênteses",
+      "comoFazer": "Escreva 3(4)² e não 34². Os parênteses são obrigatórios na substituição e resolvem, sozinhos, boa parte dos erros de sinal e de potência."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Uma linha por operação",
+      "comoFazer": "A folha tem três linhas: substituir, resolver potências, resolver o resto. Cada linha se confere sozinha, e o erro fica localizado numa delas."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar o valor, manter a expressão",
+      "comoFazer": "Com x = -2, o mesmo caminho. Ver a expressão fixa e o valor variando é o que dá sentido ao nome 'variável'."
+     }
+    ],
+    "comoAvaliar": "Dê 2a² - b com a = -3 e b = 5. O sinal do quadrado de um negativo é o ponto que separa quem substituiu com parênteses de quem substituiu por cima.",
+    "errosComuns": [
+     "Ler 3x como 'trinta e x' ou juntar o coeficiente ao valor substituído, virando 34².",
+     "Calcular (-3)² como -9, por não ter usado parênteses na substituição.",
+     "Tratar x e y como se fossem sempre inteiros positivos, e travar quando o valor é fracionário."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Teaching Strategies for Improving Algebra Knowledge in Middle and High School Students",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/20"
+    },
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    }
+   ]
+  },
+  {
+   "id": "matematica-produtos-notaveis-fatoracao",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Produtos notáveis e fatoração de expressões algébricas",
+   "descricao": "O aluno reconhece o quadrado da soma e a diferença de quadrados, e usa essas formas para fatorar expressões.",
+   "bncc": [
+    "EF09MA09"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual",
+    "sequencia-de-passos",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno fatora x² - 9 e x² + 6x + 9, dizendo qual forma reconheceu em cada uma.",
+    "duracao": 50,
+    "materiais": [
+     "Malha quadriculada",
+     "Peças de área: quadrados e retângulos recortados"
+    ],
+    "etapas": [
+     {
+      "minutos": 15,
+      "titulo": "O quadrado da soma tem área",
+      "comoFazer": "Monte um quadrado de lado (a+b) com as peças. Ele contém a², b² e dois retângulos ab. O termo do meio deixa de ser decorado e passa a ser uma área que se vê."
+     },
+     {
+      "minutos": 12,
+      "titulo": "Escrever o que foi montado",
+      "comoFazer": "Só depois da montagem, escreva (a+b)² = a² + 2ab + b². A escrita é o registro do que está na mesa, na ordem em que foi construído."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ler ao contrário",
+      "comoFazer": "Apresente x² + 6x + 9 e pergunte que quadrado teria essa área. Fatorar passa a ser reconhecer a forma, e não aplicar um roteiro."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A diferença de quadrados",
+      "comoFazer": "Recorte um quadrado menor de um maior e rearranje o que sobra num retângulo de lados (a+b) e (a-b). É a demonstração inteira, sem álgebra."
+     }
+    ],
+    "comoAvaliar": "Peça a fatoração de 4x² - 25 e a justificativa de por que não dá para fatorar x² + 25 do mesmo jeito. A segunda pergunta separa reconhecimento de forma de aplicação cega.",
+    "errosComuns": [
+     "Escrever (a+b)² = a² + b², esquecendo o termo do meio — o erro mais persistente do 9º ano.",
+     "Tentar aplicar a diferença de quadrados a uma soma de quadrados.",
+     "Fatorar corretamente e não reconhecer que o resultado pode ser conferido multiplicando de volta."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Teaching Strategies for Improving Algebra Knowledge in Middle and High School Students",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/20"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=AvNnnTpwLug",
+     "titulo": "Produtos Notáveis: Parte 1 - Aula 25",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 894,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-funcao-afim",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Função afim: taxa de variação e gráfico",
+   "descricao": "O aluno converte entre a lei da função, a tabela e o gráfico da função afim, e interpreta o coeficiente angular como taxa de variação.",
+   "bncc": [
+    "EM13MAT401",
+    "EM13MAT101"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno lê um gráfico de função afim e escreve a lei correspondente, dizendo o que a inclinação significa no contexto.",
+    "duracao": 50,
+    "materiais": [
+     "Conta de água ou tarifa de aplicativo de transporte, real",
+     "Papel quadriculado",
+     "Planilha, se houver computador"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Começar pela tabela real",
+      "comoFazer": "Com a tarifa em mãos, monte a tabela de custo por quilômetro. A bandeirada é o valor quando x é zero, e o aluno vê isso antes de qualquer notação."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Do acréscimo constante à lei",
+      "comoFazer": "Peça a diferença entre linhas consecutivas da tabela. Ela é sempre a mesma, e é essa constância que define a função afim — a lei é escrita depois de observada."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O gráfico como terceira escrita",
+      "comoFazer": "Marque os pontos da tabela. A reta aparece, e a inclinação é o mesmo acréscimo que já estava na coluna. Três representações do mesmo objeto, lado a lado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Ler o gráfico de volta",
+      "comoFazer": "Entregue um gráfico sem lei e peça a lei. Sem a tabela, o aluno precisa achar o valor inicial e a taxa direto na figura."
+     }
+    ],
+    "comoAvaliar": "Dê um gráfico com b negativo e peça a lei mais a interpretação da inclinação no contexto. Escrever a lei sem dizer o que a taxa significa indica leitura decorada do formato y = ax + b.",
+    "errosComuns": [
+     "Trocar coeficiente angular e linear ao ler o gráfico.",
+     "Ler o valor inicial no ponto onde a reta cruza o eixo horizontal, e não o vertical.",
+     "Achar que toda reta no plano é função afim, incluindo a reta vertical."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Teaching Strategies for Improving Algebra Knowledge in Middle and High School Students",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/20"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=eKbehcUu1fA",
+     "titulo": "Função Afim: Definição e Propriedades Básicas - Aula 69",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 841,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-funcao-quadratica",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Função quadrática: raízes, vértice e o que o gráfico informa",
+   "descricao": "O aluno resolve problemas com função de 2º grau e relaciona raízes, vértice e concavidade ao contexto do problema.",
+   "bncc": [
+    "EM13MAT302",
+    "EM13MAT402"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno encontra o ponto de máximo de uma situação real e diz o que ele significa fora da matemática.",
+    "duracao": 50,
+    "materiais": [
+     "Vídeo ou registro do lançamento de uma bola",
+     "Papel quadriculado",
+     "Calculadora"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A trajetória antes da fórmula",
+      "comoFazer": "Marque a altura da bola em alguns instantes. A curva aparece dos dados, e a pergunta 'quando ela estava mais alta' nasce antes de existir vértice."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Raízes são respostas, não passos",
+      "comoFazer": "As raízes são os instantes em que a altura é zero — a saída e a chegada ao chão. Resolva a equação já sabendo o que os dois números vão significar."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O vértice pelo meio das raízes",
+      "comoFazer": "O ponto de máximo está a meio caminho entre as raízes. Chegue ao vértice por simetria antes de apresentar a fórmula, que passa a ser um atalho do que já se entendeu."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quando a resposta não serve",
+      "comoFazer": "Discuta a raiz negativa numa situação de tempo. Nem toda solução da equação é solução do problema, e essa distinção é o que a fórmula sozinha apaga."
+     }
+    ],
+    "comoAvaliar": "Dê um problema de área máxima com perímetro fixo. Chegar ao vértice e não saber dizer que ele responde a pergunta é o sinal de que o procedimento foi aplicado sem leitura.",
+    "errosComuns": [
+     "Usar a fórmula de Bhaskara com o sinal de b trocado.",
+     "Apresentar as duas raízes como resposta de um problema em que só uma faz sentido.",
+     "Confundir o valor de x do vértice com o valor máximo, que é o y."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Teaching Strategies for Improving Algebra Knowledge in Middle and High School Students",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/20"
+    },
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=NbFFMlXlm3o",
+     "titulo": "Aula 41 - Função Quadrática: Definição, Máximos e Mínimos",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 786,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-porcentagem-e-juros",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Porcentagem e juros compostos em situações reais",
+   "descricao": "O aluno resolve problemas de porcentagem e compara juros simples e compostos em situações de crédito e poupança.",
+   "bncc": [
+    "EM13MAT303"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "sequencia-de-passos",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno calcula o total pago numa compra parcelada e compara com o preço à vista.",
+    "duracao": 50,
+    "materiais": [
+     "Anúncio real de parcelamento",
+     "Calculadora",
+     "Planilha, se houver computador"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Aumento sobre o novo valor",
+      "comoFazer": "Dois aumentos de 10% não dão 20%. Faça a conta em duas etapas com um valor concreto, e o efeito composto aparece antes de qualquer fórmula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O fator multiplicativo",
+      "comoFazer": "Aumentar 10% é multiplicar por 1,1. Substituir 'somar a porcentagem' por 'multiplicar pelo fator' encurta a conta e é o que torna o composto natural."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Simples contra composto",
+      "comoFazer": "Monte as duas colunas para 12 meses. A diferença cresce devagar e depois dispara — a tabela mostra isso melhor que a fórmula."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O anúncio real",
+      "comoFazer": "Com o anúncio em mãos, calcule quanto custa o parcelamento 'sem juros'. É a aplicação que muda decisão fora da sala."
+     }
+    ],
+    "comoAvaliar": "Peça o total pago em 10 parcelas com juros de 2% ao mês e a comparação com o valor à vista. A conta certa com conclusão ausente indica exercício resolvido sem leitura do contexto.",
+    "errosComuns": [
+     "Somar porcentagens de bases diferentes, tratando 10% de 200 e 10% de 300 como comparáveis.",
+     "Aplicar desconto e aumento na ordem inversa esperando o valor original de volta.",
+     "Usar juros simples num contexto que é composto porque a conta é mais fácil."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=E5Y2D1A0rVs",
+     "titulo": "Aumentos ou descontos sucessivo - Aula 15",
+     "canal": "Portal da Matemática OBMEP",
+     "duracaoSegundos": 574,
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "id": "matematica-probabilidade-eventos",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Probabilidade de eventos aleatórios",
+   "descricao": "O aluno calcula a probabilidade de eventos simples e reconhece por que a intuição erra em situações de repetição.",
+   "bncc": [
+    "EM13MAT311"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "pratica-concreta",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno calcula a probabilidade de um evento e a compara com a frequência observada em cinquenta repetições.",
+    "duracao": 50,
+    "materiais": [
+     "Dados e moedas",
+     "Folha de registro de frequência",
+     "Malha para o diagrama de árvore"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Antes de calcular, apostar",
+      "comoFazer": "Peça o palpite para 'sair pelo menos uma cara em dois lançamentos'. Registre os palpites: eles vão ser confrontados com o resultado, e é o confronto que ensina."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Listar o que pode acontecer",
+      "comoFazer": "Monte a árvore dos quatro resultados possíveis. A probabilidade sai da contagem, e o denominador deixa de ser um número que apareceu."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Repetir de verdade",
+      "comoFazer": "Cinquenta lançamentos por dupla, com registro. A frequência observada chega perto da calculada, e a distância entre as duas é o assunto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A moeda não tem memória",
+      "comoFazer": "Depois de cinco caras seguidas, qual a chance da próxima? A resposta contraria a intuição de todo mundo, e é o ponto que fica."
+     }
+    ],
+    "comoAvaliar": "Peça a probabilidade de um evento com dois dados e a explicação do espaço amostral. Acertar 1/36 sem saber listar os casos indica fórmula sem contagem.",
+    "errosComuns": [
+     "Achar que depois de vários resultados iguais o próximo é mais provável.",
+     "Contar o espaço amostral de dois dados como 21 casos, ignorando a ordem.",
+     "Confundir probabilidade com frequência observada numa amostra pequena."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    }
+   ]
+  }
+ ]
+}

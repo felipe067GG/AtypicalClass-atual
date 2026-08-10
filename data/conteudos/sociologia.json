@@ -1,0 +1,753 @@
+{
+ "materia": "Sociologia",
+ "conteudos": [
+  {
+   "id": "sociologia-estranhar-o-familiar",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Estranhar o familiar: o olhar sociológico",
+   "descricao": "O aluno desnaturaliza práticas do próprio cotidiano e reconhece nelas regras sociais que ninguém escreveu.",
+   "bncc": [
+    "EM13CHS502"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno descreve uma cena cotidiana da escola como se fosse um observador de fora, listando três regras não escritas.",
+    "duracao": 50,
+    "materiais": [
+     "Caderno de campo",
+     "Trecho de etnografia curta"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler um estranho descrevendo o comum",
+      "comoFazer": "Um trecho etnográfico sobre prática banal. O efeito de estranhamento aparece na leitura, antes de virar método."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Observar o recreio",
+      "comoFazer": "Vinte minutos de observação com caderno, sem interpretar. Registrar antes de explicar é a regra do ofício."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Achar as regras",
+      "comoFazer": "Quem senta com quem, quem fala primeiro, o que não se faz. Regras não escritas se revelam nas exceções."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever de fora",
+      "comoFazer": "A descrição precisa funcionar para quem nunca esteve na escola."
+     }
+    ],
+    "comoAvaliar": "As três regras com a observação que as sustenta. Regra afirmada sem registro é senso comum.",
+    "errosComuns": [
+     "Julgar em vez de descrever.",
+     "Confundir regra social com regra do regimento escolar.",
+     "Achar que o que é comum não precisa ser explicado."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    },
+    {
+     "label": "Sociologias — periódico de acesso aberto",
+     "url": "https://www.scielo.br/j/soc/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-trabalho-e-renda",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Ler indicadores de trabalho, emprego e renda",
+   "descricao": "O aluno analisa e compara indicadores de emprego, trabalho e renda em diferentes espaços e grupos.",
+   "bncc": [
+    "EM13CHS402"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno compara a taxa de desemprego entre dois grupos e explica o que a média nacional esconde.",
+    "duracao": 50,
+    "materiais": [
+     "Dados do IBGE por sexo, cor e idade",
+     "Papel para gráficos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A média nacional",
+      "comoFazer": "Comece pelo número único que sai no noticiário. Ele é o ponto de partida e o que será decomposto."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Abrir por grupo",
+      "comoFazer": "Sexo, cor, faixa etária, região. A desagregação é a operação central da sociologia com dados."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Desenhar as barras",
+      "comoFazer": "As diferenças ficam visíveis. O gráfico não é ilustração: é o que torna a desigualdade legível."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que o indicador não mede",
+      "comoFazer": "Desalento, subocupação, trabalho não remunerado. Todo indicador escolhe o que contar."
+     }
+    ],
+    "comoAvaliar": "A comparação com a explicação sobre a média. Repetir o número nacional sem desagregar não cumpre.",
+    "errosComuns": [
+     "Tomar a média como retrato de todos.",
+     "Confundir desemprego com informalidade.",
+     "Ignorar o trabalho doméstico não remunerado por não aparecer no indicador."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-classes-e-grupos",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Sujeitos, grupos e classes diante das transformações sociais",
+   "descricao": "O aluno analisa relações entre sujeitos, grupos e classes sociais diante de transformações econômicas e tecnológicas.",
+   "bncc": [
+    "EM13CHS401"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica quem ganhou e quem perdeu com uma transformação recente, e por quê.",
+    "duracao": 50,
+    "materiais": [
+     "Caso de mudança tecnológica no trabalho",
+     "Ficha de posições"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Escolher a transformação",
+      "comoFazer": "Aplicativos de entrega, automação bancária, trabalho remoto. Casos vivos e conhecidos pela turma."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Mapear as posições",
+      "comoFazer": "Quem trabalha, quem contrata, quem consome, quem regula. Quatro posições com interesses distintos."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ganhos e perdas",
+      "comoFazer": "Cada posição, o que ganhou e o que perdeu. A resposta raramente é a mesma para as quatro."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que se organizou",
+      "comoFazer": "Houve reação coletiva? Identificar a organização — ou a ausência dela — completa a análise."
+     }
+    ],
+    "comoAvaliar": "A ficha com as quatro posições. Analisar só do ponto de vista do consumidor é o padrão inicial.",
+    "errosComuns": [
+     "Analisar a mudança apenas como avanço ou apenas como perda.",
+     "Confundir classe social com faixa de renda.",
+     "Ignorar quem não aparece no debate público sobre o tema."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-desigualdades-e-combate",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Identificar desigualdades e avaliar mecanismos de combate",
+   "descricao": "O aluno identifica formas de desigualdade e avalia mecanismos propostos para enfrentá-las.",
+   "bncc": [
+    "EM13CHS503"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno avalia uma política pública de redução de desigualdade pelo que ela mede e pelo que deixa de fora.",
+    "duracao": 50,
+    "materiais": [
+     "Descrição de uma política pública",
+     "Dados antes e depois"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Qual desigualdade",
+      "comoFazer": "Renda, acesso, reconhecimento. Nomear qual está em jogo evita a discussão genérica."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Como a política age",
+      "comoFazer": "Transferência, cota, regulação. Cada mecanismo age num ponto diferente da cadeia."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler o antes e o depois",
+      "comoFazer": "Com os dados, veja o que mudou. Correlação não é causa, e essa ressalva entra aqui."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O efeito não previsto",
+      "comoFazer": "Toda política produz efeitos que não estavam no desenho. Antecipar dois é o exercício."
+     }
+    ],
+    "comoAvaliar": "A avaliação com o que a política mede e o que ignora. Aprovar ou reprovar sem critério não cumpre.",
+    "errosComuns": [
+     "Avaliar política pela intenção, e não pelo resultado.",
+     "Confundir igualdade de oportunidade com igualdade de resultado.",
+     "Ignorar o custo de implementação e de focalização."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-cultura-de-massa",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Indústria cultural e cultura de massa",
+   "descricao": "O aluno debate e avalia o papel da indústria cultural e das culturas de massa no estímulo ao consumo.",
+   "bncc": [
+    "EM13CHS303"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno analisa um produto cultural que consome, identificando o que nele é padronizado e o que é singular.",
+    "duracao": 50,
+    "materiais": [
+     "Produtos culturais trazidos pela turma",
+     "Ficha de análise"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Trazer o que se consome",
+      "comoFazer": "Série, música, jogo. Analisar o próprio consumo é mais desconfortável e mais produtivo que analisar o alheio."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Achar a fórmula",
+      "comoFazer": "Estrutura repetida, duração padronizada, ganchos previsíveis. A fórmula existe e é identificável."
+     },
+     {
+      "minutos": 15,
+      "titulo": "E o que escapa",
+      "comoFazer": "Nem tudo é padronização. Reconhecer o que há de singular evita a crítica que despreza quem consome."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quem decide o que chega",
+      "comoFazer": "Plataforma, algoritmo, distribuidora. A oferta é filtrada antes de a escolha existir."
+     }
+    ],
+    "comoAvaliar": "A análise com padronização e singularidade identificadas. Só condenar o produto indica crítica sem análise.",
+    "errosComuns": [
+     "Tratar quem consome cultura de massa como alienado.",
+     "Achar que produto popular é necessariamente ruim.",
+     "Ignorar a mediação das plataformas na oferta."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ],
+   "sinaisDispensados": {
+    "abstracao-simbolica": "\"fórmula\" aqui é a estrutura repetida do produto cultural, não símbolo matemático"
+   }
+  },
+  {
+   "id": "sociologia-instituicoes",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Impactos das instituições sobre a vida das pessoas",
+   "descricao": "O aluno analisa os impactos decorrentes de práticas de instituições governamentais e não governamentais.",
+   "bncc": [
+    "EM13CHS304"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno rastreia como uma decisão institucional chegou até a vida de alguém concreto.",
+    "duracao": 50,
+    "materiais": [
+     "Caso de decisão administrativa com efeito local",
+     "Ficha de rastreio"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A decisão no papel",
+      "comoFazer": "Leia o ato — portaria, resolução, edital. Instituição age por documento, e ler o documento é acessar a engrenagem."
+     },
+     {
+      "minutos": 13,
+      "titulo": "A cadeia até a pessoa",
+      "comoFazer": "Da decisão ao efeito, passo a passo. Cada passo tem um responsável identificável."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Quem tinha como saber",
+      "comoFazer": "Publicidade do ato, prazo de consulta, canal de participação. Acesso à informação é parte do impacto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Onde caberia influência",
+      "comoFazer": "Identifique o ponto da cadeia em que a participação social seria possível."
+     }
+    ],
+    "comoAvaliar": "A cadeia rastreada com responsáveis. Dizer que 'o governo decidiu' sem identificar o ato é o que a aula desfaz.",
+    "errosComuns": [
+     "Tratar instituição como entidade abstrata sem pessoas.",
+     "Confundir Estado com o governo do momento.",
+     "Achar que decisão administrativa não é política."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-movimentos-sociais",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Movimentos sociais: como se organizam e o que conquistam",
+   "descricao": "O aluno analisa formas de organização coletiva e relaciona repertórios de ação a resultados obtidos.",
+   "bncc": [
+    "EM13CHS601",
+    "EM13CHS401"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno relaciona uma forma de ação a um resultado concreto, com a fonte que o comprova.",
+    "duracao": 50,
+    "materiais": [
+     "Dois casos de movimento social brasileiro",
+     "Linha do tempo em branco"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Do que se trata",
+      "comoFazer": "Pauta, quem participa, contra quem. Três perguntas que evitam a discussão sobre 'ser a favor ou contra'."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Repertório de ação",
+      "comoFazer": "Marcha, ocupação, litígio, campanha. Cada forma serve a um objetivo diferente."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que mudou",
+      "comoFazer": "Lei, política pública, opinião. Ligue a ação ao resultado com fonte."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que não mudou",
+      "comoFazer": "Conquistas parciais são a regra. Reconhecer isso evita tanto a idealização quanto o descarte."
+     }
+    ],
+    "comoAvaliar": "O par ação-resultado com fonte. Afirmação sem fonte não entra, como no resto do acervo.",
+    "errosComuns": [
+     "Avaliar movimento social apenas pela simpatia que desperta.",
+     "Achar que só a forma pacífica é legítima, sem examinar o repertório histórico.",
+     "Atribuir mudanças a um só fator."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-paternalismo-e-autoritarismo",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Paternalismo e autoritarismo nas relações sociais brasileiras",
+   "descricao": "O aluno identifica e relaciona a presença do paternalismo e do autoritarismo em práticas sociais brasileiras.",
+   "bncc": [
+    "EM13CHS602"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica uma prática cotidiana que reproduz relação de favor no lugar de direito.",
+    "duracao": 50,
+    "materiais": [
+     "Casos de atendimento público",
+     "Texto sobre favor e direito"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Favor ou direito",
+      "comoFazer": "A mesma coisa pode ser entregue como favor ou como direito. A diferença está na relação, não no serviço."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Como se reconhece",
+      "comoFazer": "Gratidão esperada, pessoalização, dependência. Três marcas identificáveis na fala e no gesto."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Achar no cotidiano",
+      "comoFazer": "Cada aluno traz um caso observado. O material vem da vida, e não do manual."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Como seria como direito",
+      "comoFazer": "Reescreva a cena com a relação invertida. A alternativa concreta é o que dá consequência à análise."
+     }
+    ],
+    "comoAvaliar": "O caso trazido com as marcas identificadas. Caso genérico indica que a observação não aconteceu.",
+    "errosComuns": [
+     "Confundir gentileza com paternalismo.",
+     "Tratar o tema como característica do passado.",
+     "Achar que reconhecer a estrutura é acusar as pessoas envolvidas."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-organismos-internacionais",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Organismos internacionais: o que podem e o que não podem",
+   "descricao": "O aluno conhece a atuação de organismos internacionais e avalia seus limites.",
+   "bncc": [
+    "EM13CHS604"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica por que uma decisão de organismo internacional pode não ser cumprida.",
+    "duracao": 50,
+    "materiais": [
+     "Caso de decisão internacional",
+     "Esquema de organismos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Quem são e o que fazem",
+      "comoFazer": "ONU, OMS, OIT, cortes regionais. Mandato e composição de cada um, em uma linha."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Como se decide",
+      "comoFazer": "Voto, consenso, veto. O procedimento explica boa parte dos resultados."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O caso concreto",
+      "comoFazer": "Uma decisão específica e o que aconteceu depois. Aqui aparece a distância entre decidir e fazer cumprir."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que dá força",
+      "comoFazer": "Sanção, pressão diplomática, opinião pública. Enumerar os mecanismos evita as duas caricaturas — a de onipotência e a de irrelevância."
+     }
+    ],
+    "comoAvaliar": "A explicação do não cumprimento. Dizer que 'não servem para nada' sem examinar o mecanismo é descarte.",
+    "errosComuns": [
+     "Achar que organismo internacional tem poder de polícia.",
+     "Confundir recomendação com norma vinculante.",
+     "Ignorar que os países-membros são quem decide."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-modelos-economicos",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Comparar modelos econômicos pelos seus efeitos",
+   "descricao": "O aluno contextualiza, compara e avalia impactos de diferentes modelos econômicos sobre a vida social.",
+   "bncc": [
+    "EM13CHS306",
+    "EM13CHS302"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno compara dois países em três indicadores e relaciona as diferenças a escolhas de modelo.",
+    "duracao": 50,
+    "materiais": [
+     "Indicadores de dois países",
+     "Quadro comparativo"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Escolher os indicadores",
+      "comoFazer": "PIB per capita, desigualdade, expectativa de vida. Três indicadores que às vezes discordam entre si."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Comparar",
+      "comoFazer": "Os países podem liderar em um e ficar atrás em outro. A discordância entre indicadores é o achado."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ligar a escolhas",
+      "comoFazer": "Tributação, gasto social, regulação. A ligação precisa ser argumentada, não decretada."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que não se explica pelo modelo",
+      "comoFazer": "História, recursos, população. Nem tudo é escolha de política econômica."
+     }
+    ],
+    "comoAvaliar": "A comparação com a ligação argumentada e o limite reconhecido. Atribuir tudo ao modelo é simplificação.",
+    "errosComuns": [
+     "Comparar países ignorando ponto de partida histórico.",
+     "Tomar PIB como medida de bem-estar.",
+     "Tratar modelos econômicos como blocos puros, sem misturas reais."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-cidadania-e-participacao",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Participação para além do voto",
+   "descricao": "O aluno reconhece formas de participação social e avalia canais concretos de incidência.",
+   "bncc": [
+    "EM13CHS603",
+    "EM13CHS605"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica um canal real de participação disponível na própria cidade e o que é preciso para usá-lo.",
+    "duracao": 50,
+    "materiais": [
+     "Lista de conselhos e audiências do município",
+     "Ficha de canal"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que existe além do voto",
+      "comoFazer": "Conselhos, audiências, consultas, ouvidorias. A maioria existe e quase ninguém sabe."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Procurar de verdade",
+      "comoFazer": "No site da prefeitura, achar um canal ativo. Se não achar, isso também é um resultado."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que é preciso para participar",
+      "comoFazer": "Prazo, inscrição, documento, horário. Barreiras práticas explicam a baixa participação melhor que desinteresse."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Uma pauta",
+      "comoFazer": "Cada grupo formula uma pauta que levaria ao canal escolhido."
+     }
+    ],
+    "comoAvaliar": "O canal identificado com os requisitos reais. Canal genérico sem verificação não cumpre.",
+    "errosComuns": [
+     "Reduzir cidadania a votar.",
+     "Achar que participação é sempre acessível a quem trabalha em horário comercial.",
+     "Confundir consulta pública com decisão vinculante."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    },
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sociologia-pesquisa-de-campo",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Fazer uma pesquisa: da pergunta ao dado",
+   "descricao": "O aluno planeja e executa uma pesquisa simples, escolhendo instrumento e reconhecendo os limites da amostra.",
+   "bncc": [
+    "EM13CHS103",
+    "EM13CHS502"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega uma pergunta de pesquisa, o instrumento e a delimitação de quem será ouvido.",
+    "duracao": 50,
+    "materiais": [
+     "Exemplos de questionário e de roteiro de entrevista",
+     "Ficha de projeto"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A pergunta que se responde",
+      "comoFazer": "Pergunta ampla demais não vira pesquisa. Recortar é o trabalho mais difícil e o mais decisivo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Questionário ou entrevista",
+      "comoFazer": "Cada instrumento responde a um tipo de pergunta. Escolher antes evita coletar dado que não serve."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Quem será ouvido",
+      "comoFazer": "Quantos, quais, por que esses. A delimitação é o que permite dizer o que a pesquisa alcança."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que não poderei afirmar",
+      "comoFazer": "Escrever os limites antes de coletar evita a conclusão que a amostra não sustenta."
+     }
+    ],
+    "comoAvaliar": "A ficha com pergunta, instrumento, amostra e limites. O campo dos limites é o que mais fica em branco.",
+    "errosComuns": [
+     "Fazer pergunta que induz a resposta.",
+     "Generalizar para a cidade a partir de dez colegas.",
+     "Escolher o instrumento antes de definir a pergunta."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociedade Brasileira de Sociologia (SBS)",
+     "url": "https://www.sbsociologia.com.br/"
+    },
+    {
+     "label": "Sociologias",
+     "url": "https://www.scielo.br/j/soc/"
+    },
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    }
+   ]
+  }
+ ]
+}

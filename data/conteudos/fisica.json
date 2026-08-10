@@ -1,0 +1,774 @@
+{
+ "materia": "Física",
+ "conteudos": [
+  {
+   "id": "fisica-sombra-da-vara",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "A sombra da vara: evidência do movimento entre Terra e Sol",
+   "descricao": "O aluno infere, a partir da sombra de uma vara ao longo do dia, os movimentos relativos entre a Terra e o Sol.",
+   "bncc": [
+    "EF06CI14",
+    "EF06CI13"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica, com o próprio registro de sombras, por que o Sol aparenta se mover.",
+    "duracao": 50,
+    "materiais": [
+     "Vara ou cabo de vassoura fixado no pátio",
+     "Giz",
+     "Relógio",
+     "Papel para o registro"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Fincar e marcar",
+      "comoFazer": "Fixe a vara no pátio e marque a ponta da sombra com giz, anotando a hora. A primeira marca não explica nada — e é essa a graça."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Voltar de hora em hora",
+      "comoFazer": "Ao longo do dia, a turma volta e marca de novo. A aula acontece em intervalos, e o registro é o que sustenta a inferência depois."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler as marcas",
+      "comoFazer": "Com o traçado no chão, discuta o que mudou: direção e comprimento. Duas variáveis, e cada uma diz uma coisa diferente."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Quem se mexe",
+      "comoFazer": "Com uma lanterna e um globo, reproduza o observado. A explicação heliocêntrica é testada contra o dado que a turma coletou, e não recebida pronta."
+     }
+    ],
+    "comoAvaliar": "A explicação apoiada no traçado. Repetir 'a Terra gira' sem ligar ao registro de sombras é resposta decorada.",
+    "errosComuns": [
+     "Concluir que o Sol se move porque é o que se vê — e não perceber que a observação é compatível com as duas hipóteses.",
+     "Marcar a sombra sem anotar a hora, o que inutiliza o traçado.",
+     "Achar que a sombra mais curta é ao meio-dia do relógio, sem considerar o horário de verão e o fuso."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF) — periódico de acesso aberto sobre ensino de Física",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "SBF — Revista Brasileira de Ensino de Física, materiais didáticos",
+     "url": "http://www.sbfisica.org.br/v1/portalpion/index.php/materiais-didaticos/215-revista-brasileira-de-ensino-de-fisica"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ],
+   "sinaisDispensados": {
+    "abstracao-simbolica": "\"variáveis\" aqui são grandezas observadas (direção e comprimento da sombra); no 6º ano não se opera com símbolo nenhum"
+   }
+  },
+  {
+   "id": "fisica-fontes-de-energia",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Fontes de energia: renováveis, não renováveis e o custo de cada uma",
+   "descricao": "O aluno classifica fontes de energia e avalia as formas de geração de eletricidade quanto a impacto e disponibilidade.",
+   "bncc": [
+    "EF08CI01",
+    "EF08CI06"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno classifica cinco fontes e aponta, para duas delas, um impacto que a classificação sozinha não mostra.",
+    "duracao": 50,
+    "materiais": [
+     "Dados da matriz elétrica brasileira",
+     "Fichas com fontes de energia",
+     "Cartolina para o quadro comparativo"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Classificar primeiro",
+      "comoFazer": "Separe as fichas em renovável e não renovável. A classificação é rápida e é justamente o que a aula vai complicar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Renovável não é sinônimo de limpo",
+      "comoFazer": "Discuta o alagamento de uma hidrelétrica. A distinção entre renovável e de baixo impacto é o conceito central desta aula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A matriz brasileira",
+      "comoFazer": "Com os dados, veja a composição real. O Brasil não é a média do mundo, e o dado local muda a discussão."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escolher com critério",
+      "comoFazer": "Peça a escolha de uma fonte para uma cidade fictícia, com justificativa em dois critérios. Decisão obriga a hierarquizar."
+     }
+    ],
+    "comoAvaliar": "A classificação mais os dois impactos apontados. Classificar corretamente sem problematizar deixa a aula pela metade.",
+    "errosComuns": [
+     "Igualar renovável a não poluente.",
+     "Ignorar o impacto social do deslocamento de populações.",
+     "Tratar a matriz elétrica como sinônimo de matriz energética."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "Educação Pública / CECIERJ — experimentação no ensino e aprendizagem de Física",
+     "url": "https://educacaopublica.cecierj.edu.br/artigos/18/9/experimentao-no-ensino-e-aprendizagem-de-fsica"
+    }
+   ]
+  },
+  {
+   "id": "fisica-circuitos-eletricos",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Construir circuitos elétricos e comparar série com paralelo",
+   "descricao": "O aluno monta circuitos com pilha, fios e lâmpadas, comparando o comportamento em série e em paralelo.",
+   "bncc": [
+    "EF08CI02"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual",
+    "sequencia-de-passos",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno prevê o que acontece ao retirar uma lâmpada de cada tipo de circuito, e confirma montando.",
+    "duracao": 50,
+    "materiais": [
+     "Pilhas, suportes, fios com garra",
+     "Lâmpadas pequenas e soquetes",
+     "Papel para o esquema"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Acender uma",
+      "comoFazer": "Antes de qualquer nome, o desafio é acender uma lâmpada com uma pilha e um fio. Descobrir o caminho fechado vale mais que ouvir a definição."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Duas em fila",
+      "comoFazer": "Monte o circuito em série. Peça a previsão do brilho antes de fechar o circuito — previsão escrita, para poder ser confrontada."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Duas em paralelo",
+      "comoFazer": "Monte o paralelo e compare. Retirar uma lâmpada de cada montagem é o teste que separa as duas de forma inesquecível."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Desenhar o que montou",
+      "comoFazer": "Cada aluno desenha o esquema dos dois circuitos. O símbolo entra depois do objeto, e não antes."
+     }
+    ],
+    "comoAvaliar": "A previsão escrita comparada com o resultado. Errar a previsão e reconhecer por quê vale mais que acertar por sorte.",
+    "errosComuns": [
+     "Achar que o circuito funciona com um fio só, sem caminho de volta.",
+     "Concluir que em paralelo as lâmpadas brilham menos, generalizando do caso em série.",
+     "Desenhar o esquema com fios cruzando sem indicar se há ligação."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF) — atividades experimentais com material acessível",
+     "url": "https://www.scielo.br/j/rbef/a/PLkjm3N5KjnXKgDsXw5Dy4R/?lang=pt"
+    },
+    {
+     "label": "Educação Pública / CECIERJ — experimentação no ensino de Física",
+     "url": "https://educacaopublica.cecierj.edu.br/artigos/18/9/experimentao-no-ensino-e-aprendizagem-de-fsica"
+    },
+    {
+     "label": "SBF — materiais didáticos",
+     "url": "http://www.sbfisica.org.br/v1/portalpion/index.php/materiais-didaticos/215-revista-brasileira-de-ensino-de-fisica"
+    }
+   ]
+  },
+  {
+   "id": "fisica-consumo-eletrico-de-casa",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Quanto gasta cada aparelho: potência, tempo e conta de luz",
+   "descricao": "O aluno classifica equipamentos elétricos residenciais pela potência e estima o consumo mensal a partir do tempo de uso.",
+   "bncc": [
+    "EF08CI03"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno estima o consumo mensal de dois aparelhos de casa e compara com a conta de luz real.",
+    "duracao": 50,
+    "materiais": [
+     "Conta de luz de verdade",
+     "Etiquetas de potência de aparelhos",
+     "Calculadora"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Achar a potência",
+      "comoFazer": "Nas etiquetas, localize os watts. O número está no aparelho, e encontrá-lo já desfaz a ideia de que consumo é mistério."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Potência não é consumo",
+      "comoFazer": "O chuveiro tem potência alta e uso curto; a geladeira, o contrário. Aqui se separa o que a intuição junta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Estimar o mês",
+      "comoFazer": "Potência vezes horas por dia vezes trinta, convertendo para quilowatt-hora. Cada aluno faz para dois aparelhos da própria casa."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar com a conta",
+      "comoFazer": "Some as estimativas e compare com o total da conta. A diferença é assunto: o que ficou de fora?"
+     }
+    ],
+    "comoAvaliar": "A estimativa com a unidade correta e a comparação. Resultado em watts e não em quilowatt-hora indica que a variável tempo não entrou.",
+    "errosComuns": [
+     "Confundir potência com consumo — o aparelho de maior potência nem sempre é o que mais gasta no mês.",
+     "Esquecer de converter watt para quilowatt antes de multiplicar pelas horas.",
+     "Achar que aparelho desligado no botão não consome nada."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "fisica-cores-da-luz",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "A luz branca é composta: experimento com o disco e o prisma",
+   "descricao": "O aluno planeja e executa experimentos que evidenciam que a luz branca é composta por várias cores.",
+   "bncc": [
+    "EF09CI04"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno demonstra a decomposição da luz e explica por que o disco de Newton girando parece branco.",
+    "duracao": 50,
+    "materiais": [
+     "Prisma ou CD velho",
+     "Lanterna branca",
+     "Disco de Newton em papelão",
+     "Bacia com água e espelho"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Decompor",
+      "comoFazer": "Com o prisma ou o CD, projete o espectro numa parede clara. Ver o arco-íris sair da luz branca é o fato central, e ele precisa acontecer antes da explicação."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Recompor",
+      "comoFazer": "Gire o disco de Newton. As cores somem e o disco parece branco — a operação inversa, e a que convence."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Repetir com outro arranjo",
+      "comoFazer": "Espelho inclinado dentro da bacia com água. Reproduzir com outro material mostra que o efeito é do fenômeno, não do equipamento."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Explicar o céu",
+      "comoFazer": "Com o espectro em mente, discuta por que o céu é azul. A pergunta liga o experimento ao mundo fora da sala."
+     }
+    ],
+    "comoAvaliar": "A explicação do disco girando. Dizer que 'as cores se misturam e viram branco' sem citar a velocidade e o olho deixa o mecanismo de fora.",
+    "errosComuns": [
+     "Achar que o prisma pinta a luz, em vez de separar o que já estava lá.",
+     "Confundir mistura de luzes com mistura de tintas — as regras são diferentes.",
+     "Desistir quando o espectro não aparece por falta de fundo escuro ou de sala penumbrosa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF) — atividades experimentais, diferentes enfoques e finalidades",
+     "url": "https://www.scielo.br/j/rbef/a/PLkjm3N5KjnXKgDsXw5Dy4R/?lang=pt"
+    },
+    {
+     "label": "Educação Pública / CECIERJ — experimentação no ensino de Física",
+     "url": "https://educacaopublica.cecierj.edu.br/artigos/18/9/experimentao-no-ensino-e-aprendizagem-de-fsica"
+    }
+   ]
+  },
+  {
+   "id": "fisica-transmissao-imagem-e-som",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Como imagem e som viajam: das ondas ao aparelho",
+   "descricao": "O aluno investiga os processos envolvidos na transmissão e recepção de imagem e som que transformaram a comunicação.",
+   "bncc": [
+    "EF09CI05"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno descreve a cadeia emissor-meio-receptor de um aparelho que usa, nomeando o que é convertido em quê.",
+    "duracao": 50,
+    "materiais": [
+     "Telefone de copos com barbante",
+     "Rádio portátil",
+     "Celular"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O telefone de copos",
+      "comoFazer": "Monte e teste. Com o barbante frouxo não funciona, e essa falha ensina que o som precisa de meio para se propagar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Converter para transmitir",
+      "comoFazer": "No rádio, o som vira sinal e volta a ser som. Nomeie as três etapas: converter, transmitir, reconverter."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar três aparelhos",
+      "comoFazer": "Preencha a mesma tabela emissor-meio-receptor para copos, rádio e celular. A estrutura é a mesma, e é isso que se quer mostrar."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Onde falha",
+      "comoFazer": "Discuta por que o sinal cai em certos lugares. A falha revela o meio, que é a parte invisível da cadeia."
+     }
+    ],
+    "comoAvaliar": "A tabela preenchida para os três. Descrever o celular como mágica indica que a cadeia não foi transferida.",
+    "errosComuns": [
+     "Achar que o som viaja no vácuo como a luz.",
+     "Confundir o meio de propagação com o aparelho.",
+     "Tratar sinal digital como algo que não é físico."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "SBF — materiais didáticos",
+     "url": "http://www.sbfisica.org.br/v1/portalpion/index.php/materiais-didaticos/215-revista-brasileira-de-ensino-de-fisica"
+    }
+   ],
+   "sinaisDispensados": {
+    "representacao-visual": "a tabela emissor-meio-receptor é organizadora: o mesmo conteúdo se diz em palavras sem perda, que é o critério da exigência"
+   }
+  },
+  {
+   "id": "fisica-conservacao-de-energia",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Transformações e conservação de energia em sistemas reais",
+   "descricao": "O aluno analisa e representa as transformações de energia num sistema, identificando o que se conserva e o que se dissipa.",
+   "bncc": [
+    "EM13CNT101"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno desenha o diagrama de transformações de um sistema real e aponta onde a energia se dissipa.",
+    "duracao": 50,
+    "materiais": [
+     "Bola de borracha",
+     "Régua ou trena",
+     "Papel para o diagrama"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A bola que não volta ao mesmo lugar",
+      "comoFazer": "Solte a bola de uma altura marcada e meça o quique. Ela volta mais baixo, sempre. O dado contraria 'a energia se conserva' na leitura ingênua."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Para onde foi",
+      "comoFazer": "Liste os destinos: som, calor, deformação. Conservação só faz sentido quando o sistema é definido, e é isso que se ensina aqui."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Desenhar o diagrama",
+      "comoFazer": "Caixas e setas com as formas de energia em cada etapa. A largura da seta pode indicar quantidade, e aí o diagrama informa."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Aplicar a outro sistema",
+      "comoFazer": "Repita o diagrama para um ventilador ou um chuveiro. A transferência para outro caso é o que fixa o método."
+     }
+    ],
+    "comoAvaliar": "O diagrama com a dissipação indicada. Diagrama sem perda mostra que a conservação foi entendida como 'nada muda'.",
+    "errosComuns": [
+     "Dizer que 'a energia se perdeu', em vez de identificar para que forma foi.",
+     "Aplicar a conservação sem definir o sistema e a fronteira.",
+     "Confundir energia com força."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "fisica-movimentos-na-terra-e-no-ceu",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Prever movimentos: da queda de um corpo à órbita de um satélite",
+   "descricao": "O aluno elabora explicações e previsões sobre movimentos de objetos na Terra e no Sistema Solar com base em modelos.",
+   "bncc": [
+    "EM13CNT204"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual",
+    "sequencia-de-passos",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno prevê o alcance de um lançamento e compara com o medido, explicando a diferença.",
+    "duracao": 50,
+    "materiais": [
+     "Bolinha e rampa",
+     "Trena",
+     "Cronômetro ou aplicativo de vídeo quadro a quadro"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Prever antes de lançar",
+      "comoFazer": "Com a altura da mesa e a velocidade estimada, cada grupo escreve o alcance previsto. A previsão registrada é o que torna o experimento um teste."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Lançar e medir",
+      "comoFazer": "Três lançamentos, e a média. Repetir é parte do método, e a dispersão entre as três medidas já introduz incerteza."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar e explicar",
+      "comoFazer": "A diferença entre previsto e medido não é fracasso: é a medida de quanto o modelo simplifica. Liste o que foi desprezado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Do lançamento à órbita",
+      "comoFazer": "Aumente mentalmente a velocidade até a queda contornar a Terra. É o argumento de Newton, e ele fecha a aula ligando os dois casos."
+     }
+    ],
+    "comoAvaliar": "A previsão, a medida e a explicação da diferença. Só a medida, sem previsão anterior, transforma o experimento em demonstração.",
+    "errosComuns": [
+     "Tratar a discordância entre previsto e medido como erro do aluno.",
+     "Achar que corpos mais pesados caem mais rápido, sem testar.",
+     "Aplicar a fórmula sem verificar se as unidades são compatíveis."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "SBF — materiais didáticos",
+     "url": "http://www.sbfisica.org.br/v1/portalpion/index.php/materiais-didaticos/215-revista-brasileira-de-ensino-de-fisica"
+    }
+   ]
+  },
+  {
+   "id": "fisica-medida-e-incerteza",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Toda medida tem incerteza, e dizer qual é faz parte do resultado",
+   "descricao": "O aluno usa noções de probabilidade e incerteza para interpretar resultados de atividades experimentais.",
+   "bncc": [
+    "EM13CNT205"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno apresenta uma medida com a incerteza associada e justifica o número de algarismos usados.",
+    "duracao": 50,
+    "materiais": [
+     "Réguas de resoluções diferentes",
+     "Objeto a ser medido",
+     "Planilha ou papel para a tabela"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Todo mundo mede o mesmo",
+      "comoFazer": "A turma inteira mede o mesmo objeto. Os valores diferem, e a dispersão é o dado inicial da aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "De onde vem a diferença",
+      "comoFazer": "Separe o que é resolução do instrumento, o que é procedimento e o que é do objeto. Três causas distintas, tratadas de modos distintos."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Escrever a medida certa",
+      "comoFazer": "Valor mais incerteza, com algarismos coerentes. Escrever 12,3456 cm com régua de milímetro é afirmar precisão que não existe."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar de régua",
+      "comoFazer": "Repita com um instrumento de outra resolução. A incerteza muda, e isso torna concreto que ela vem do arranjo, não do acaso."
+     }
+    ],
+    "comoAvaliar": "A medida escrita com incerteza e a justificativa dos algarismos. Excesso de casas decimais é o erro mais frequente e o mais informativo.",
+    "errosComuns": [
+     "Confundir precisão com exatidão.",
+     "Copiar todos os dígitos que a calculadora mostra.",
+     "Tratar incerteza como sinônimo de erro cometido por descuido."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF) — atividades experimentais",
+     "url": "https://www.scielo.br/j/rbef/a/PLkjm3N5KjnXKgDsXw5Dy4R/?lang=pt"
+    },
+    {
+     "label": "Educação Pública / CECIERJ — experimentação no ensino de Física",
+     "url": "https://educacaopublica.cecierj.edu.br/artigos/18/9/experimentao-no-ensino-e-aprendizagem-de-fsica"
+    }
+   ],
+   "sinaisDispensados": {
+    "representacao-visual": "a tabela guarda as medidas da turma; a dispersão se lê nos números, não numa forma espacial"
+   }
+  },
+  {
+   "id": "fisica-hipotese-e-investigacao",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Construir a pergunta investigável",
+   "descricao": "O aluno formula questões, hipóteses e previsões, e planeja um procedimento capaz de testá-las.",
+   "bncc": [
+    "EM13CNT301"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega uma pergunta investigável, a variável que vai mudar e a que vai medir.",
+    "duracao": 50,
+    "materiais": [
+     "Lista de perguntas cotidianas",
+     "Ficha de planejamento experimental"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Nem toda pergunta se testa",
+      "comoFazer": "Classifique dez perguntas em investigáveis e não investigáveis. O critério aparece da comparação, e não de uma definição."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Uma variável por vez",
+      "comoFazer": "Transforme uma pergunta ampla numa versão com uma variável só. É a operação que mais falta em projeto de feira de ciências."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Planejar o teste",
+      "comoFazer": "O que muda, o que se mede, o que se mantém igual. As três colunas da ficha impedem o experimento sem controle."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar e criticar",
+      "comoFazer": "Cada grupo aponta, na ficha do outro, uma variável que ficou solta."
+     }
+    ],
+    "comoAvaliar": "A ficha com as três colunas preenchidas. Coluna 'o que mantenho igual' vazia é o achado mais comum.",
+    "errosComuns": [
+     "Formular pergunta que só se responde por opinião.",
+     "Mudar duas variáveis ao mesmo tempo e não poder concluir nada.",
+     "Confundir hipótese com o resultado esperado sem justificativa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ],
+   "sinaisDispensados": {
+    "pratica-concreta": "a aula planeja o experimento e não o executa — nada é manipulado nos 50 minutos",
+    "abstracao-simbolica": "\"variável\" aqui é controle de variáveis, decisão de método; não há símbolo a operar"
+   }
+  },
+  {
+   "id": "fisica-riscos-do-cotidiano",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Avaliar riscos do cotidiano com física: choque, queda e frenagem",
+   "descricao": "O aluno aplica conhecimentos de física para avaliar riscos em atividades cotidianas e justificar medidas de segurança.",
+   "bncc": [
+    "EM13CNT306"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica com números por que a distância de frenagem cresce mais que a velocidade.",
+    "duracao": 50,
+    "materiais": [
+     "Tabela de distância de frenagem por velocidade",
+     "Papel quadriculado",
+     "Dados de acidentes"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O gráfico não é reta",
+      "comoFazer": "Com a tabela, marque os pontos. A curva sobe mais rápido que a velocidade, e essa forma é o conteúdo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Por que ao quadrado",
+      "comoFazer": "Ligue a energia cinética à distância de parada. A relação quadrática deixa de ser fórmula e passa a explicar a curva do gráfico."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Aplicar a um caso",
+      "comoFazer": "Compare 60 e 80 km/h no mesmo trecho. Uma diferença de 33% na velocidade não dá 33% na distância — o número surpreende."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Justificar a regra",
+      "comoFazer": "Discuta limites de velocidade em zona escolar com o gráfico à mão. A norma passa a ter razão física, e não só legal."
+     }
+    ],
+    "comoAvaliar": "A explicação da relação quadrática com o gráfico. Repetir a fórmula sem ligá-la à curva não cumpre.",
+    "errosComuns": [
+     "Achar que dobrar a velocidade dobra a distância de frenagem.",
+     "Esquecer o tempo de reação, que é linear, somado à frenagem, que é quadrática.",
+     "Tratar o cinto de segurança como proteção contra o choque, e não contra a desaceleração do corpo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "fisica-equipamentos-e-redes",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "O que acontece dentro dos equipamentos elétricos e das redes",
+   "descricao": "O aluno analisa o funcionamento de equipamentos elétricos e eletrônicos e de redes, relacionando-o a princípios físicos.",
+   "bncc": [
+    "EM13CNT308"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "vocabulario-tecnico",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica por que o disjuntor desarma e o que isso protege.",
+    "duracao": 50,
+    "materiais": [
+     "Quadro de disjuntores (foto ou real, sem manipulação)",
+     "Diagrama de instalação residencial",
+     "Etiquetas de aparelhos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler o quadro",
+      "comoFazer": "Identifique os circuitos e a corrente de cada disjuntor. O número no disjuntor é a chave da aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Somar as cargas",
+      "comoFazer": "Com as etiquetas, some a corrente dos aparelhos de um circuito. O limite aparece como conta, e não como aviso."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Por que desarma",
+      "comoFazer": "Relacione corrente, aquecimento do condutor e risco de incêndio. O disjuntor protege a fiação, e não o aparelho — essa inversão é comum."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O caso do benjamim",
+      "comoFazer": "Analise o adaptador com vários aparelhos. A prática cotidiana passa a ter uma explicação quantitativa."
+     }
+    ],
+    "comoAvaliar": "A explicação do que o disjuntor protege. Dizer que ele protege o aparelho é o erro conceitual esperado, e é corrigível com a conta feita.",
+    "errosComuns": [
+     "Achar que o disjuntor protege os equipamentos ligados.",
+     "Trocar disjuntor por um de amperagem maior para 'parar de desarmar'.",
+     "Confundir tensão com corrente ao ler a etiqueta."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    },
+    {
+     "label": "SBF — materiais didáticos",
+     "url": "http://www.sbfisica.org.br/v1/portalpion/index.php/materiais-didaticos/215-revista-brasileira-de-ensino-de-fisica"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ],
+   "sinaisDispensados": {
+    "pratica-concreta": "o sinal casou dentro de \"sem manipulação\" — a instrução é justamente a de não manipular o quadro elétrico, e a heurística não enxerga negação"
+   }
+  }
+ ]
+}

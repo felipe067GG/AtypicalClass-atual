@@ -50,3 +50,7 @@ Thumbs.db
 # PDFs baixados pelo importador do ENEM (ate 8 MB cada)
 .cache/
 .bncc-em.pdf
+# Os PDFs oficiais da BNCC, baixados sob demanda por scripts/bncc/documentos.mjs.
+# São 20 MB de documento do MEC que se rebaixa em segundos; o que entra no git é
+# `data/bncc/codigos.json`, o resultado da extração.
+data/bncc/*.pdf

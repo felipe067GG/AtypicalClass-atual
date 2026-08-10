@@ -1,0 +1,766 @@
+{
+ "materia": "Geografia",
+ "conteudos": [
+  {
+   "id": "geografia-visao-vertical",
+   "etapa": "EF1",
+   "ano": "2º ano",
+   "titulo": "Visão vertical: por que o mapa mostra as coisas de cima",
+   "descricao": "O aluno representa lugares de vivência em desenho, mapa mental e maquete, e reconhece a diferença entre ver de frente e ver de cima.",
+   "bncc": [
+    "EF02GE08",
+    "EF02GE09"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "pratica-concreta",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno desenha a própria mesa vista de cima e identifica, num mapa simples, o que cada forma representa.",
+    "duracao": 50,
+    "materiais": [
+     "Objetos da mesa",
+     "Papel e lápis",
+     "Caixa de sapato para a maquete da sala"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Desenhar de frente",
+      "comoFazer": "Cada aluno desenha a mesa como a vê sentado. Guarde os desenhos — eles serão comparados, e a comparação é a aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Subir na cadeira",
+      "comoFazer": "Com o professor segurando, cada aluno olha a mesa de cima e desenha de novo. Ver antes de desenhar é o que faz a diferença aparecer sozinha."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar os dois",
+      "comoFazer": "Lado a lado, os desenhos mostram que o copo virou círculo e o caderno virou retângulo. A projeção deixa de ser regra e passa a ser algo observado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A sala em caixa",
+      "comoFazer": "Monte a maquete da sala e depois desenhe-a de cima. É a ponte entre o objeto real e a planta."
+     }
+    ],
+    "comoAvaliar": "O desenho da mesa vista de cima. Desenhar objetos de frente dentro de uma vista superior é o erro esperado, e mostra exatamente o que ainda falta.",
+    "errosComuns": [
+     "Misturar as duas vistas no mesmo desenho — a mesa de cima com os copos de lado.",
+     "Achar que mapa é foto, e não representação escolhida.",
+     "Desenhar o que sabe que existe em vez do que se vê da posição adotada."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa — material do IBGE para estudantes e professores",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-legenda-do-mapa",
+   "etapa": "EF1",
+   "ano": "3º ano",
+   "titulo": "Legenda: os símbolos que fazem o mapa falar",
+   "descricao": "O aluno interpreta diferentes representações cartográficas e elabora legendas com símbolos próprios.",
+   "bncc": [
+    "EF03GE06",
+    "EF03GE07"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno cria a legenda de um mapa do bairro e outro aluno consegue usá-la sem explicação.",
+    "duracao": 50,
+    "materiais": [
+     "Mapas variados com legendas",
+     "Papel quadriculado",
+     "Canetas coloridas"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Mapa sem legenda",
+      "comoFazer": "Entregue um mapa com a legenda coberta e peça a interpretação. A dificuldade cria a necessidade da legenda antes de defini-la."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Comparar legendas",
+      "comoFazer": "Em três mapas diferentes, veja como cada um representa água, estrada e construção. Não há símbolo natural — há convenção."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Criar a própria",
+      "comoFazer": "Cada dupla mapeia o caminho de casa à escola e inventa os símbolos de que precisar."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O teste do colega",
+      "comoFazer": "Troque os mapas. Se o colega não entender sem explicação, a legenda está incompleta — e é ele quem descobre, não o professor."
+     }
+    ],
+    "comoAvaliar": "O teste do colega é a avaliação. Mapa bonito que ninguém lê não cumpriu a função.",
+    "errosComuns": [
+     "Criar símbolo diferente para cada ocorrência, em vez de para cada tipo.",
+     "Esquecer de incluir na legenda um símbolo que usou no mapa.",
+     "Achar que a legenda é enfeite, e não a chave de leitura."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    },
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-direcoes-e-paisagem",
+   "etapa": "EF1",
+   "ano": "4º ano",
+   "titulo": "Direções cardeais e os elementos da paisagem rural e urbana",
+   "descricao": "O aluno usa as direções cardeais para localizar componentes físicos e humanos em paisagens do campo e da cidade.",
+   "bncc": [
+    "EF04GE09"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno descreve a localização de três pontos da escola usando as direções cardeais.",
+    "duracao": 50,
+    "materiais": [
+     "Bússola ou aplicativo de bússola",
+     "Fotos de paisagem rural e urbana",
+     "Rosa dos ventos impressa"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Achar o norte no pátio",
+      "comoFazer": "Com a bússola, a turma marca o norte no chão do pátio. A direção deixa de ser palavra e vira lugar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Onde fica o quê",
+      "comoFazer": "Cada aluno diz onde estão portão, quadra e cantina em relação ao norte marcado. Repetir com o corpo é o que fixa."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler as duas paisagens",
+      "comoFazer": "Nas fotos, liste o que é elemento natural e o que é construído. A distinção prepara a leitura de qualquer paisagem."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Descrever com direção",
+      "comoFazer": "Escreva uma frase localizando um elemento da foto em relação a outro, usando as direções."
+     }
+    ],
+    "comoAvaliar": "As três localizações. Usar 'em cima' e 'do lado' em vez das direções indica que a rosa dos ventos ainda não foi incorporada.",
+    "errosComuns": [
+     "Achar que o norte é sempre para cima na realidade porque é assim no mapa.",
+     "Confundir esquerda/direita, que dependem de quem olha, com leste/oeste, que não dependem.",
+     "Classificar como natural o que foi plantado por alguém."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    },
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-cidade-e-campo",
+   "etapa": "EF1",
+   "ano": "5º ano",
+   "titulo": "Cidade e campo: relação, e não oposição",
+   "descricao": "O aluno identifica as características das cidades e as relações entre cidade e campo, incluindo o que circula entre elas.",
+   "bncc": [
+    "EF05GE03",
+    "EF05GE04"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno traça o caminho de um alimento do campo até a própria mesa, nomeando ao menos três etapas.",
+    "duracao": 50,
+    "materiais": [
+     "Embalagem de um alimento com procedência",
+     "Mapa do estado",
+     "Papel para o fluxo"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "De onde veio o almoço",
+      "comoFazer": "Leia a procedência na embalagem e localize no mapa. O conteúdo começa na mochila da criança."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Desenhar o caminho",
+      "comoFazer": "Do produtor ao consumidor, com as etapas intermediárias. O que parecia direto tem transporte, armazenagem e comércio."
+     },
+     {
+      "minutos": 15,
+      "titulo": "E o que vai na volta",
+      "comoFazer": "Liste o que a cidade envia ao campo — máquinas, remédio, serviço. Sem isso, a relação parece de mão única."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Nem sempre longe",
+      "comoFazer": "Discuta a produção próxima e as feiras. Nem todo alimento faz o percurso longo, e isso também é geografia."
+     }
+    ],
+    "comoAvaliar": "O fluxo desenhado com três etapas nomeadas. Ligar produtor a consumidor com uma seta só indica que os intermediários ainda são invisíveis.",
+    "errosComuns": [
+     "Tratar campo como atrasado e cidade como moderna.",
+     "Achar que a comida 'vem do mercado'.",
+     "Ignorar que muita gente da cidade trabalha para o campo e vice-versa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-transformacao-da-paisagem",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "A mesma paisagem em tempos diferentes",
+   "descricao": "O aluno compara modificações de paisagens em diferentes tempos e lugares, com destaque para a presença dos povos originários.",
+   "bncc": [
+    "EF06GE01",
+    "EF06GE02"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno lista três transformações visíveis entre duas imagens do mesmo lugar e propõe uma causa para cada uma.",
+    "duracao": 50,
+    "materiais": [
+     "Duas imagens do mesmo lugar em décadas diferentes",
+     "Imagens de satélite atuais",
+     "Ficha de comparação"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que mudou",
+      "comoFazer": "Sem legenda, liste as diferenças entre as duas imagens. Observação antes de explicação."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Quem mudou",
+      "comoFazer": "Para cada diferença, uma hipótese de causa e de agente. Paisagem não muda sozinha — alguém decidiu."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que estava antes",
+      "comoFazer": "Investigue a ocupação anterior do lugar, incluindo povos originários. O 'antes' das fotos raramente é o começo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "E daqui a vinte anos",
+      "comoFazer": "Cada aluno escreve uma previsão fundamentada em uma tendência que observou."
+     }
+    ],
+    "comoAvaliar": "A ficha com transformação, causa e agente. Causa sem agente ('a cidade cresceu') indica leitura despolitizada da paisagem.",
+    "errosComuns": [
+     "Descrever a mudança sem atribuir agente.",
+     "Tratar toda transformação como progresso ou como destruição, sem análise.",
+     "Considerar que a paisagem antes da foto mais antiga era intocada."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Brasiliana Fotográfica — acervo fotográfico histórico da Biblioteca Nacional",
+     "url": "https://brasilianafotografica.bn.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-territorialidades-indigenas",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Territorialidades dos povos indígenas e comunidades tradicionais",
+   "descricao": "O aluno seleciona argumentos que reconhecem as territorialidades dos povos originários e de comunidades tradicionais.",
+   "bncc": [
+    "EF07GE03"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica a diferença entre terra como propriedade e território como modo de vida, com um exemplo.",
+    "duracao": 50,
+    "materiais": [
+     "Mapa de terras indígenas do Brasil",
+     "Trecho da Constituição sobre direitos indígenas",
+     "Depoimento de liderança"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O mapa que surpreende",
+      "comoFazer": "Mostre o mapa de terras indígenas. A distribuição e a extensão costumam contrariar a expectativa da turma, e essa surpresa é o começo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que diz a Constituição",
+      "comoFazer": "Leia o trecho constitucional. Direito territorial indígena é lei brasileira, e não opinião — isso precisa estar claro antes do debate."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Território não é lote",
+      "comoFazer": "Com o depoimento, identifique usos do território que não cabem na ideia de propriedade: caça, cemitério, lugar sagrado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Selecionar o argumento",
+      "comoFazer": "Cada aluno escolhe um argumento e diz em que fonte ele se apoia. Argumento sem fonte fica de fora."
+     }
+    ],
+    "comoAvaliar": "A explicação da diferença com exemplo. Repetir 'eles têm direito' sem apoiar em fonte ou uso concreto não cumpre.",
+    "errosComuns": [
+     "Falar em 'índio' no singular, apagando a diversidade de mais de duas centenas de povos.",
+     "Tratar os povos originários apenas no passado.",
+     "Confundir demarcação com doação de terra."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-mapas-tematicos",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Mapas temáticos: todo mapa escolhe o que mostrar",
+   "descricao": "O aluno interpreta e elabora mapas temáticos e históricos, percebendo que a escolha do recorte e da escala altera a leitura.",
+   "bncc": [
+    "EF07GE09"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno produz dois mapas do mesmo dado com classes diferentes e explica por que a leitura muda.",
+    "duracao": 50,
+    "materiais": [
+     "Tabela de dados por estado (IBGE)",
+     "Mapas do Brasil em branco",
+     "Lápis de cor"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Do número ao tom",
+      "comoFazer": "Com a tabela, defina quatro classes e pinte. A conversão de número em cor é a operação central do mapa temático."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Mudar as classes",
+      "comoFazer": "Refaça com outro corte de classes. O mapa muda de aparência com os mesmos dados, e é isso que o aluno precisa ver com as próprias mãos."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Qual dos dois mente",
+      "comoFazer": "Nenhum, e os dois. Discuta como a escolha de classes pode enfatizar ou esconder — sem falsificar nenhum número."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Ler mapa de jornal",
+      "comoFazer": "Aplique a suspeita a um mapa publicado: quais classes ele usou, e o que essa escolha destaca?"
+     }
+    ],
+    "comoAvaliar": "Os dois mapas e a explicação da diferença. Produzir os dois sem perceber o efeito é execução sem leitura.",
+    "errosComuns": [
+     "Achar que existe um mapa neutro.",
+     "Usar cores sem ordem para representar dado quantitativo.",
+     "Comparar dois mapas com legendas diferentes como se fossem comparáveis."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-fluxos-migratorios",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Fluxos migratórios: quem sai, por que sai e para onde vai",
+   "descricao": "O aluno descreve os principais fluxos migratórios em diferentes períodos e compreende os movimentos na América Latina.",
+   "bncc": [
+    "EF08GE01",
+    "EF08GE04"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno distingue migração voluntária de forçada com um exemplo de cada e nomeia dois fatores de expulsão.",
+    "duracao": 50,
+    "materiais": [
+     "Mapa-múndi",
+     "Dados de migração recentes",
+     "História de vida de um migrante"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Começar por alguém",
+      "comoFazer": "Leia uma história de vida antes de qualquer número. A migração é feita de pessoas, e a ordem inversa produz a aula de estatística."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Empurra e puxa",
+      "comoFazer": "Liste os fatores que expulsam e os que atraem no caso lido. O par de conceitos se aplica a todos os fluxos seguintes."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Traçar no mapa",
+      "comoFazer": "Marque três fluxos de períodos diferentes. As setas mostram permanências e mudanças de direção ao longo do tempo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Voluntário até que ponto",
+      "comoFazer": "Discuta o limite entre escolher sair e ser obrigado a sair. A fronteira é menos nítida do que a classificação sugere."
+     }
+    ],
+    "comoAvaliar": "Os dois exemplos e os fatores nomeados. Classificar sem justificar pelo contexto indica uso mecânico dos rótulos.",
+    "errosComuns": [
+     "Tratar migrante como sinônimo de refugiado.",
+     "Explicar a migração só por fatores econômicos.",
+     "Achar que os fluxos migratórios do passado não têm relação com os atuais."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-estado-nacao-territorio",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Estado, nação, território, governo e país: cinco palavras que não são sinônimos",
+   "descricao": "O aluno aplica esses conceitos para entender conflitos e disputas territoriais concretos.",
+   "bncc": [
+    "EF08GE05"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica um conflito territorial usando corretamente ao menos três dos cinco conceitos.",
+    "duracao": 50,
+    "materiais": [
+     "Quadro dos cinco conceitos",
+     "Dois casos de disputa territorial",
+     "Mapa político"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Um exemplo por conceito",
+      "comoFazer": "Dê um caso em que nação e Estado não coincidem. A definição isolada não fixa; o caso que contraria, sim."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Montar o quadro",
+      "comoFazer": "Cada conceito com uma frase e um exemplo, escrito pelo aluno. Quadro copiado não se usa depois."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Aplicar ao caso",
+      "comoFazer": "No conflito escolhido, identifique o que é disputa de território, o que é de governo e o que é de reconhecimento nacional."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar de caso",
+      "comoFazer": "Aplicar ao segundo caso, mais rápido. A transferência é o que mostra que o conceito foi apreendido."
+     }
+    ],
+    "comoAvaliar": "A explicação do conflito. Usar 'país' para tudo é o padrão inicial, e a mudança é mensurável.",
+    "errosComuns": [
+     "Tratar nação como sinônimo de país.",
+     "Confundir governo com Estado, e concluir que trocar de governo é trocar de Estado.",
+     "Achar que todo território é reconhecido internacionalmente."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-integracao-mundial",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Integração mundial: o que circula, e o que não circula",
+   "descricao": "O aluno analisa a integração econômica, política e cultural do mundo e identifica o que ela distribui de forma desigual.",
+   "bncc": [
+    "EF09GE05"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno rastreia a origem dos componentes de um objeto que usa e comenta o que não circula com a mesma facilidade.",
+    "duracao": 50,
+    "materiais": [
+     "Um celular ou sua ficha técnica",
+     "Mapa-múndi",
+     "Dados de comércio internacional"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "De onde vem este aparelho",
+      "comoFazer": "Rastreie componentes e montagem. Um objeto na mão da turma é feito por muitos países, e isso se vê na ficha técnica."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Marcar no mapa",
+      "comoFazer": "As setas de matéria-prima, fabricação e consumo. O desenho mostra a divisão internacional do trabalho sem que ela precise ser definida."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que não atravessa",
+      "comoFazer": "Mercadoria circula com facilidade; pessoas, não. Compare as regras para as duas coisas. É a assimetria central do tema."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quem fica com o quê",
+      "comoFazer": "Com os dados, veja onde fica a maior parte do valor. Integração não significa distribuição igual."
+     }
+    ],
+    "comoAvaliar": "O rastreio com o comentário sobre a assimetria. Mapa completo sem essa leitura fica em curiosidade.",
+    "errosComuns": [
+     "Tratar globalização como processo sem sujeitos.",
+     "Achar que integração econômica implica integração cultural equivalente.",
+     "Ignorar que a circulação de pessoas é regulada de forma muito mais restritiva que a de mercadorias."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "geografia-cidade-campo-natureza-cultura",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Desfazer as dicotomias: cidade/campo, cultura/natureza",
+   "descricao": "O aluno identifica e problematiza classificações dicotômicas do espaço, reconhecendo o que elas escondem.",
+   "bncc": [
+    "EM13CHS105"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno apresenta um caso concreto que não cabe em nenhum dos dois lados de uma dicotomia.",
+    "duracao": 50,
+    "materiais": [
+     "Textos curtos com as duas classificações",
+     "Imagens de espaços híbridos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Classificar rápido",
+      "comoFazer": "Peça a classificação de dez imagens em campo ou cidade. A rapidez é proposital — e as dúvidas que aparecem são o material da aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Os casos que travam",
+      "comoFazer": "Volte às imagens que geraram discordância. É onde a dicotomia falha, e falhar é o que se quer mostrar."
+     },
+     {
+      "minutos": 15,
+      "titulo": "De onde vem a divisão",
+      "comoFazer": "Discuta quem se beneficia de classificar assim. Dicotomia não é erro inocente: ela organiza política pública e investimento."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trazer um caso",
+      "comoFazer": "Cada aluno traz um exemplo da própria cidade que não cabe na divisão."
+     }
+    ],
+    "comoAvaliar": "O caso apresentado. Exemplo genérico indica que a crítica ficou no discurso.",
+    "errosComuns": [
+     "Substituir a dicotomia por outra igualmente rígida.",
+     "Concluir que, se a classificação falha, ela é inútil.",
+     "Tratar 'natureza' como o que não tem presença humana."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "geografia-ler-dado-e-infografico",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Ler o dado e o infográfico com desconfiança produtiva",
+   "descricao": "O aluno analisa informação apresentada em diferentes gêneros e linguagens e avalia criticamente sua construção.",
+   "bncc": [
+    "EM13CHS106"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno aponta, num infográfico publicado, uma escolha de representação que induz a leitura.",
+    "duracao": 50,
+    "materiais": [
+     "Três infográficos de veículos diferentes",
+     "Dados brutos correspondentes a um deles"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler a fonte antes do gráfico",
+      "comoFazer": "Comece pela linha de crédito: quem produziu, com que dado, de quando. É o passo mais pulado e o mais decisivo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Conferir contra o dado bruto",
+      "comoFazer": "Com os dados de um deles, refaça a leitura. A distância entre o dado e a peça publicada é o conteúdo da aula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Achar a escolha",
+      "comoFazer": "Eixo truncado, área usada para representar valor linear, cores que sugerem juízo — catalogue as escolhas encontradas."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Refazer honesto",
+      "comoFazer": "Cada aluno redesenha um dos gráficos sem a distorção apontada."
+     }
+    ],
+    "comoAvaliar": "A escolha apontada e o gráfico refeito. Apontar sem refazer deixa a crítica sem consequência.",
+    "errosComuns": [
+     "Confundir gráfico feio com gráfico enganoso.",
+     "Aceitar o dado porque a fonte é conhecida.",
+     "Achar que todo eixo precisa começar em zero, sem considerar o tipo de dado."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IBGE Educa",
+     "url": "https://educa.ibge.gov.br/"
+    },
+    {
+     "label": "Atlas Escolar do IBGE",
+     "url": "https://atlasescolar.ibge.gov.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  }
+ ]
+}

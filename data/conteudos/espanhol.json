@@ -1,0 +1,739 @@
+{
+ "materia": "Espanhol",
+ "conteudos": [
+  {
+   "id": "espanhol-falsos-amigos",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Falsos amigos: a proximidade que atrapalha",
+   "descricao": "O aluno reconhece que a semelhança entre português e espanhol acelera a leitura e produz erros específicos, e aprende a desconfiar no ponto certo.",
+   "bncc": [
+    "EM13LGG104"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica cinco falsos amigos num texto autêntico e corrige a leitura de cada um.",
+    "duracao": 50,
+    "materiais": [
+     "Notícia curta em espanhol",
+     "Lista de falsos amigos frequentes",
+     "Dicionário"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler achando que entendeu",
+      "comoFazer": "Leitura corrida da notícia e resumo oral. A compreensão parece alta — e é essa confiança que a aula vai testar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Onde o sentido não fecha",
+      "comoFazer": "Volte às frases em que o resumo ficou estranho. O falso amigo raramente trava a leitura: ele a desvia sem aviso."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Os cinco casos",
+      "comoFazer": "Trabalhe 'embarazada', 'exquisito', 'rato', 'salsa', 'largo'. Cada um com a frase de origem, e não como lista solta."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Reler o resumo",
+      "comoFazer": "Corrija o resumo inicial com os cinco casos resolvidos. A diferença entre as duas versões é a medida da aula."
+     }
+    ],
+    "comoAvaliar": "A correção do próprio resumo. Aluno que não muda nada não localizou os desvios.",
+    "errosComuns": [
+     "Confiar na semelhança e não conferir nunca.",
+     "Passar a desconfiar de tudo, o que trava a leitura que a proximidade facilitava.",
+     "Decorar a lista sem as frases de contexto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes — recursos do Instituto Cervantes para ensino de espanhol",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada — acesso aberto",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-variedades-do-espanhol",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Não existe um espanhol só: variedades e escolhas",
+   "descricao": "O aluno reconhece variedades do espanhol e compreende que escolher uma é uma decisão, não uma correção.",
+   "bncc": [
+    "EM13LGG201"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica de que região é um áudio ou texto e nomeia duas marcas que usou.",
+    "duracao": 50,
+    "materiais": [
+     "Áudios de falantes de países diferentes",
+     "Textos com vocabulário regional"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ouvir três falantes",
+      "comoFazer": "Sem dizer a origem. A turma percebe que soam diferente antes de saber por quê."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Marcas que denunciam",
+      "comoFazer": "Voseo, seseo, vocabulário próprio. Cada marca com o exemplo ouvido, e não como definição."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A mesma coisa, nomes diferentes",
+      "comoFazer": "Ônibus tem meia dúzia de nomes no mundo hispânico. A variação lexical é a mais fácil de ver e a mais divertida."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escolher uma variedade",
+      "comoFazer": "Cada aluno escolhe uma para usar e diz por quê. Escolha declarada evita a mistura involuntária."
+     }
+    ],
+    "comoAvaliar": "A identificação com as duas marcas. Dizer que uma variedade é 'mais correta' é o que a aula existe para desfazer.",
+    "errosComuns": [
+     "Tratar o espanhol da Espanha como o padrão e os demais como desvio.",
+     "Achar que variedade é sotaque apenas, ignorando gramática e léxico.",
+     "Misturar variedades no mesmo texto sem perceber."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-ler-noticia",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Ler notícia em espanhol: estrutura antes de vocabulário",
+   "descricao": "O aluno compreende textos jornalísticos em espanhol apoiando-se na estrutura do gênero e nas pistas do contexto.",
+   "bncc": [
+    "EM13LGG101"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno responde quem, o quê, quando e onde de uma notícia em espanhol que nunca viu.",
+    "duracao": 50,
+    "materiais": [
+     "Duas notícias de jornais hispano-americanos",
+     "Ficha das quatro perguntas"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Só o primeiro parágrafo",
+      "comoFazer": "A notícia concentra o essencial na abertura. Ler só isso já responde as quatro perguntas, em qualquer língua."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Preencher a ficha",
+      "comoFazer": "As quatro perguntas, com a linha do texto que sustenta cada resposta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Descer no texto",
+      "comoFazer": "Os parágrafos seguintes trazem detalhe e contexto. A estrutura de pirâmide invertida deixa de ser teoria."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Segunda notícia, sozinho",
+      "comoFazer": "Repetir com outro texto, agora sem apoio. A transferência é o objetivo."
+     }
+    ],
+    "comoAvaliar": "A ficha da segunda notícia. Precisar do dicionário a cada linha indica que a estratégia de estrutura não foi adotada.",
+    "errosComuns": [
+     "Traduzir palavra por palavra desde a primeira linha.",
+     "Ignorar título, subtítulo e legenda, que já entregam metade.",
+     "Achar que não entendeu porque não sabe todas as palavras."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-apresentar-se",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Apresentar-se e sustentar uma conversa curta",
+   "descricao": "O aluno produz interação oral básica em espanhol, com atenção ao registro formal e informal.",
+   "bncc": [
+    "EM13LGG104",
+    "EM13LGG201"
+   ],
+   "exigencias": [
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno sustenta um diálogo de dois minutos e escolhe entre tú e usted conforme a situação.",
+    "duracao": 50,
+    "materiais": [
+     "Cartões de situação (entrevista, festa, atendimento)",
+     "Roteiro de apoio"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Tú ou usted",
+      "comoFazer": "A escolha do tratamento vem antes das frases. Errar o registro custa mais que errar o verbo, e quase nunca é ensinado primeiro."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ensaiar em dupla",
+      "comoFazer": "Com o roteiro, cada dupla treina uma das situações."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Trocar de situação",
+      "comoFazer": "A mesma dupla refaz o diálogo em contexto formal. O conteúdo é o mesmo e a forma muda inteira."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Apresentar para outra dupla",
+      "comoFazer": "Público pequeno, exposição baixa, fala real."
+     }
+    ],
+    "comoAvaliar": "O diálogo com o tratamento adequado à situação. Pronúncia não é o critério.",
+    "errosComuns": [
+     "Usar 'usted' com verbo de segunda pessoa.",
+     "Transportar o 'você' português como se fosse sempre 'tú'.",
+     "Decorar o diálogo e travar quando o colega improvisa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-passado-simples-composto",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Pretérito indefinido e perfecto: quando cada um entra",
+   "descricao": "O aluno distingue os dois passados do espanhol e escolhe conforme o marcador temporal e a variedade.",
+   "bncc": [
+    "EM13LGG104"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escolhe o tempo correto em dez frases e justifica pelo marcador temporal.",
+    "duracao": 50,
+    "materiais": [
+     "Frases com marcadores temporais",
+     "Linha do tempo impressa"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O marcador manda",
+      "comoFazer": "'Hoy' e 'ayer' decidem o tempo verbal. A regra é de marcador, e isso a torna operável."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Marcar na linha",
+      "comoFazer": "Cada frase vai para a linha do tempo: dentro ou fora do período em curso. A distinção fica espacial."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Completar as dez",
+      "comoFazer": "Cada escolha vem com o marcador sublinhado ao lado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "E na América",
+      "comoFazer": "Em boa parte da América hispânica o indefinido cobre os dois usos. A regra da Espanha não é universal, e dizer isso evita corrigir aluno que está certo."
+     }
+    ],
+    "comoAvaliar": "As dez escolhas com o marcador identificado. Acertar sem o marcador pode ser transferência do português.",
+    "errosComuns": [
+     "Transportar o uso do português, que não distingue da mesma forma.",
+     "Ignorar a variação regional e corrigir como erro o que é uso legítimo.",
+     "Decorar a lista de marcadores sem entender o critério."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-literatura-hispanica",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Ler um conto hispano-americano no original",
+   "descricao": "O aluno lê literatura em espanhol e percebe o que se perde e o que se ganha em relação à tradução.",
+   "bncc": [
+    "EM13LGG202"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno aponta uma passagem em que a tradução não dá conta e explica por quê.",
+    "duracao": 50,
+    "materiais": [
+     "Conto curto em espanhol",
+     "Tradução do mesmo conto"
+    ],
+    "etapas": [
+     {
+      "minutos": 15,
+      "titulo": "Ler no original",
+      "comoFazer": "Leitura integral, aceitando não entender tudo. A experiência de ler literatura em outra língua é o conteúdo."
+     },
+     {
+      "minutos": 12,
+      "titulo": "Comparar com a tradução",
+      "comoFazer": "Trechos lado a lado. As escolhas do tradutor ficam visíveis quando há os dois textos."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que não atravessa",
+      "comoFazer": "Jogo sonoro, expressão regional, ambiguidade. Nem tudo tem correspondente, e reconhecer isso é ler bem."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Propor outra tradução",
+      "comoFazer": "Cada aluno propõe sua versão de uma frase e defende a escolha."
+     }
+    ],
+    "comoAvaliar": "A passagem apontada com a justificativa. Dizer que 'a tradução está errada' sem argumento não cumpre.",
+    "errosComuns": [
+     "Achar que existe tradução perfeita.",
+     "Desistir do original na primeira dificuldade.",
+     "Julgar o tradutor sem considerar as restrições dele."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-america-latina-em-espanhol",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Ler sobre o Brasil em jornal hispano-americano",
+   "descricao": "O aluno analisa como discursos em espanhol representam o Brasil e reflete sobre perspectivas e interesses.",
+   "bncc": [
+    "EM13LGG202"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno compara uma notícia sobre o Brasil em espanhol com uma em português e nomeia uma diferença de enquadramento.",
+    "duracao": 50,
+    "materiais": [
+     "Notícia em espanhol sobre o Brasil",
+     "Notícia brasileira sobre o mesmo fato"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler a de fora",
+      "comoFazer": "Como o país é apresentado a quem não vive nele? O que precisa ser explicado revela o que é estranho ao leitor."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ler a de dentro",
+      "comoFazer": "A mesma notícia em português. O que a versão brasileira supõe conhecido é o que a outra explicou."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar enquadramentos",
+      "comoFazer": "Marque adjetivos, escolha de fontes e o que cada uma omite."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever a observação",
+      "comoFazer": "Um parágrafo em espanhol, curto, sobre a diferença encontrada."
+     }
+    ],
+    "comoAvaliar": "A diferença de enquadramento nomeada, com a marca no texto. Conclusão sem marca é impressão.",
+    "errosComuns": [
+     "Achar que a visão de fora é mais imparcial.",
+     "Confundir explicação de contexto com condescendência.",
+     "Analisar só o conteúdo, ignorando as escolhas de palavra."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-subjuntivo",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Subjuntivo: o modo do que não é fato",
+   "descricao": "O aluno emprega o modo subjuntivo em espanhol reconhecendo os contextos que o exigem.",
+   "bncc": [
+    "EM13LGG104"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno completa oito frases com o modo adequado e explica a escolha pelo tipo de oração.",
+    "duracao": 50,
+    "materiais": [
+     "Frases com orações subordinadas",
+     "Lista de expressões que pedem subjuntivo"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Fato ou não fato",
+      "comoFazer": "A oposição indicativo/subjuntivo é de fato contra desejo, dúvida e hipótese. O critério semântico vem antes da lista."
+     },
+     {
+      "minutos": 13,
+      "titulo": "As expressões que exigem",
+      "comoFazer": "'Espero que', 'ojalá', 'aunque'. Cada uma com um exemplo, e a razão pela qual pede o modo."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Completar as oito",
+      "comoFazer": "Escolha do modo mais a marca da oração que a justifica."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar com o português",
+      "comoFazer": "O português também tem subjuntivo, e em muitos casos coincide. Partir do que já se sabe reduz o trabalho pela metade."
+     }
+    ],
+    "comoAvaliar": "As oito frases com justificativa. Acertar por semelhança com o português é legítimo — mas precisa ser dito.",
+    "errosComuns": [
+     "Usar indicativo depois de expressões de desejo.",
+     "Achar que subjuntivo é sempre mais formal.",
+     "Não reconhecer que o português tem estrutura equivalente."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-producao-multimodal",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Produzir peça multimodal em espanhol",
+   "descricao": "O aluno combina linguagens para produzir uma peça em espanhol com função e público definidos.",
+   "bncc": [
+    "EM13LGG105"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega uma peça curta em espanhol com público e função declarados.",
+    "duracao": 50,
+    "materiais": [
+     "Exemplos de campanhas em espanhol",
+     "Material de produção"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Analisar campanhas",
+      "comoFazer": "Nas peças de exemplo, identifique público e função. O que funciona num país pode não funcionar em outro."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Definir antes de criar",
+      "comoFazer": "Público e função por escrito. Sem isso, a peça sai bonita e sem destino."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Produzir",
+      "comoFazer": "Texto curto em espanhol mais imagem ou áudio."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Testar com um leitor",
+      "comoFazer": "Alguém que não participou precisa entender sem explicação."
+     }
+    ],
+    "comoAvaliar": "A peça com público e função declarados e o teste feito. Peça sem destinatário não pode ser avaliada.",
+    "errosComuns": [
+     "Traduzir do português mantendo a estrutura.",
+     "Ignorar diferenças culturais entre públicos hispânicos.",
+     "Deixar a revisão da língua para depois de tudo pronto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-integracao-latino-americana",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Por que aprender espanhol muda a leitura do continente",
+   "descricao": "O aluno compreende o lugar do espanhol na integração latino-americana e reflete sobre o acesso que a língua abre.",
+   "bncc": [
+    "EM13LGG101",
+    "EM13LGG203"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica três coisas a que passa a ter acesso sabendo espanhol, com exemplo de cada.",
+    "duracao": 50,
+    "materiais": [
+     "Mapa da América",
+     "Exemplos de produção cultural e científica em espanhol"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Quantos vizinhos",
+      "comoFazer": "No mapa, conte os países hispano-falantes que fazem fronteira com o Brasil. O número costuma surpreender."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que se publica",
+      "comoFazer": "Ciência, literatura, jornalismo. Mostre acervo real em espanhol acessível de graça."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que não é traduzido",
+      "comoFazer": "Boa parte da produção vizinha nunca chega em português. A língua é o acesso, e não um enfeite curricular."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escolher um acesso",
+      "comoFazer": "Cada aluno escolhe uma coisa que quer acessar e busca uma fonte em espanhol sobre ela."
+     }
+    ],
+    "comoAvaliar": "Os três acessos com exemplo concreto. Resposta genérica sobre 'mercado de trabalho' não cumpre.",
+    "errosComuns": [
+     "Achar que o inglês basta para tudo.",
+     "Reduzir a utilidade da língua a emprego.",
+     "Tratar a América hispânica como bloco homogêneo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "SciELO Brasil — periódicos de acesso aberto, muitos em espanhol",
+     "url": "https://www.scielo.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-escuta-e-legenda",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Escutar espanhol sem legenda, aos poucos",
+   "descricao": "O aluno desenvolve compreensão oral em espanhol com retirada progressiva do apoio escrito.",
+   "bncc": [
+    "EM13LGG104"
+   ],
+   "exigencias": [
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno responde três perguntas sobre um áudio curto ouvido sem legenda.",
+    "duracao": 50,
+    "materiais": [
+     "Áudio ou vídeo curto com legendas em espanhol e sem legenda",
+     "Ficha de escuta"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Com legenda em espanhol",
+      "comoFazer": "Primeira escuta com apoio escrito na mesma língua — nunca em português, que faz a atenção migrar para a tradução."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Sem legenda, mesmo trecho",
+      "comoFazer": "Repetir o trecho já conhecido. Reconhecer o que já se viu é o passo intermediário que costuma ser pulado."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Trecho novo, sem apoio",
+      "comoFazer": "Três perguntas de compreensão global, não de detalhe."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que ajudou",
+      "comoFazer": "Liste as estratégias que funcionaram: palavra conhecida, entonação, contexto visual."
+     }
+    ],
+    "comoAvaliar": "As três respostas do trecho novo. Perguntar detalhe literal mede memória, não compreensão.",
+    "errosComuns": [
+     "Usar legenda em português, que impede a escuta.",
+     "Cobrar compreensão de cada palavra.",
+     "Escolher áudio longo demais para a etapa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "espanhol-genero-textual-carta",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Escrever uma mensagem formal em espanhol",
+   "descricao": "O aluno produz texto formal em espanhol adequado a um destinatário e a uma finalidade.",
+   "bncc": [
+    "EM13LGG104",
+    "EM13LGG101"
+   ],
+   "exigencias": [
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escreve uma mensagem formal de dez linhas com abertura, pedido e fecho adequados.",
+    "duracao": 50,
+    "materiais": [
+     "Modelos de mensagem formal em espanhol",
+     "Situação-problema definida"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Anatomia do modelo",
+      "comoFazer": "Nos modelos, marque abertura, corpo e fecho. As fórmulas fixas são o que mais varia entre línguas próximas."
+     },
+     {
+      "minutos": 13,
+      "titulo": "As fórmulas de cortesia",
+      "comoFazer": "'Estimado', 'le agradezco', 'quedo a la espera'. Traduzir do português produz texto que soa errado sem estar incorreto."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Escrever",
+      "comoFazer": "Dez linhas, com a situação dada. Curto para dar tempo de revisar."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Revisar em dupla",
+      "comoFazer": "O colega confere só três coisas: tratamento, fórmulas e clareza do pedido."
+     }
+    ],
+    "comoAvaliar": "A mensagem com as três partes e o tratamento coerente. Pedido implícito é o erro mais comum e o mais custoso na vida real.",
+    "errosComuns": [
+     "Traduzir 'atenciosamente' literalmente.",
+     "Misturar tú e usted no mesmo texto.",
+     "Deixar o pedido para o fim, ou não o formular claramente."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Centro Virtual Cervantes",
+     "url": "https://cvc.cervantes.es/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ],
+   "sinaisDispensados": {
+    "abstracao-simbolica": "\"fórmulas de cortesia\" são expressões fixas da língua, não símbolo matemático a operar"
+   }
+  }
+ ]
+}

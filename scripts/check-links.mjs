@@ -11,7 +11,28 @@
 import { readdir, readFile } from "node:fs/promises"
 import { join } from "node:path"
 
-const DIRS = ["lib/specialty-data", "lib/adaptacao", "lib"]
+const DIRS = ["lib/specialty-data", "lib/adaptacao", "lib/conteudos", "lib", "data/conteudos"]
+
+/**
+ * A biblioteca de conteúdos mora em JSON, e não em `.ts`.
+ *
+ * Ela ficou em `data/conteudos/` pelo mesmo motivo que o acervo de questões:
+ * são centenas de registros, e um arquivo TypeScript de trezentos conteúdos não
+ * se revisa. Mas as fontes deles precisam passar por aqui exatamente como as
+ * dos guias — a regra do site é uma só, e conteúdo em outro formato não é
+ * conteúdo com outra regra.
+ */
+const EXTENSAO_POR_DIR = { "data/conteudos": ".json" }
+
+/**
+ * Endereços que não são fonte e não devem ser cobrados como tal.
+ *
+ * O YouTube tem verificador próprio (`npm run videos`), que confere existência,
+ * título, canal e duração pela API — e ainda exige que alguém tenha assistido
+ * antes de publicar. Cobrar os mesmos endereços aqui duplicaria a checagem e
+ * traria os 429 do YouTube para dentro de um script que derruba o build.
+ */
+const IGNORADOS = [/^https?:\/\/(www\.)?(youtube\.com|youtu\.be)\//i]
 const TIMEOUT_MS = 20000
 const CONCURRENCY = 10
 
@@ -40,6 +61,21 @@ const CONFIRMED_BLOCKED = new Map([
   ["https://www.nagc.org/", "National Association for Gifted Children"],
   ["https://www.asha.org/", "American Speech-Language-Hearing Association"],
   ["https://www.nationaldb.org/about-us/ncdb-services/", "National Center on Deafblindness"],
+  // Portal do Professor do MEC — responde 403 a qualquer requisição
+  // automatizada. Confirmado no navegador pelo mantenedor em 09/08/2026.
+  // Vale só para esta página; qualquer outra do mesmo site continua passando
+  // pela verificação normal.
+  ["https://portaldoprofessor.mec.gov.br/", "Portal do Professor (MEC)"],
+  // Acervos digitais da Biblioteca Nacional e do IBGE. Todos respondem 403 a
+  // requisição automatizada e foram abertos no navegador pelo mantenedor em
+  // 09/08/2026. Como as demais, a exceção vale por endereço exato.
+  ["https://memoria.bn.gov.br/", "Hemeroteca Digital Brasileira (Biblioteca Nacional)"],
+  ["https://bndigital.bn.gov.br/", "BNDigital (Biblioteca Nacional)"],
+  ["https://brasilianafotografica.bn.gov.br/", "Brasiliana Fotográfica (Biblioteca Nacional)"],
+  ["https://educa.ibge.gov.br/", "IBGE Educa"],
+  // Domínio Público — biblioteca do MEC com obras literárias de domínio
+  // público. Confirmado no navegador pelo mantenedor em 09/08/2026.
+  ["https://www.dominiopublico.gov.br/", "Domínio Público (MEC)"],
 ])
 
 async function collectUrls() {
@@ -54,11 +90,12 @@ async function collectUrls() {
     }
 
     for (const entry of entries) {
-      if (!entry.isFile() || !entry.name.endsWith(".ts")) continue
+      if (!entry.isFile() || !entry.name.endsWith(EXTENSAO_POR_DIR[dir] ?? ".ts")) continue
       const path = join(dir, entry.name)
       const src = await readFile(path, "utf8")
       for (const match of src.matchAll(/"(https?:\/\/[^"\s]+)"/g)) {
         const url = match[1]
+        if (IGNORADOS.some((padrao) => padrao.test(url))) continue
         if (!found.has(url)) found.set(url, new Set())
         found.get(url).add(path)
       }

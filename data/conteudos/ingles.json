@@ -1,0 +1,750 @@
+{
+ "materia": "Inglês",
+ "conteudos": [
+  {
+   "id": "ingles-cognatas-e-contexto",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Ler sem entender tudo: cognatas e pistas de contexto",
+   "descricao": "O aluno reconhece o sentido geral de um texto apoiado em palavras cognatas e em pistas do contexto, sem traduzir palavra por palavra.",
+   "bncc": [
+    "EF06LI04",
+    "EF06LI09"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno diz o assunto de um texto novo em inglês tendo entendido menos da metade das palavras.",
+    "duracao": 50,
+    "materiais": [
+     "Cartaz ou anúncio autêntico em inglês",
+     "Marcadores de duas cores"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Marcar o que já se entende",
+      "comoFazer": "Uma cor para palavras parecidas com o português. A quantidade costuma surpreender a turma, e a surpresa é o motor da aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Adivinhar pelo lugar",
+      "comoFazer": "O que está grande no cartaz é o título; o que está embaixo em letra miúda é a condição. A estrutura informa antes do vocabulário."
+     },
+     {
+      "minutos": 15,
+      "titulo": "As falsas amigas",
+      "comoFazer": "Trabalhe três: 'push', 'pretend', 'actually'. Ensinar a estratégia sem o limite dela produz erro confiante."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Dizer o assunto",
+      "comoFazer": "Cada aluno escreve, em português, do que trata o texto. O objetivo é o sentido geral, e dizer isso em voz alta tira a ansiedade de traduzir tudo."
+     }
+    ],
+    "comoAvaliar": "A frase sobre o assunto do texto. Pedir tradução completa mede outra coisa, e não é o objetivo desta habilidade.",
+    "errosComuns": [
+     "Travar na primeira palavra desconhecida e não seguir adiante.",
+     "Confiar em falsa cognata e inverter o sentido da frase.",
+     "Achar que compreender exige traduzir tudo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "British Council Brasil — instituição oficial britânica de relações culturais e educacionais",
+     "url": "https://www.britishcouncil.org.br/"
+    },
+    {
+     "label": "LearnEnglish — British Council: materiais gratuitos por nível",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada — acesso aberto",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-hipotese-pela-estrutura",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Prever o conteúdo pela forma do texto",
+   "descricao": "O aluno formula hipóteses sobre o texto a partir da estrutura, da organização textual e do suporte em que aparece.",
+   "bncc": [
+    "EF06LI07",
+    "EF06LI08"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno prevê o gênero e o assunto de três textos em inglês antes de lê-los, e confere as previsões.",
+    "duracao": 50,
+    "materiais": [
+     "Receita, bilhete e notícia em inglês",
+     "Ficha de previsão"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ver de longe",
+      "comoFazer": "Mostre os três textos de longe, sem que se leia nada. A forma na página já diz o gênero, e isso funciona em qualquer idioma."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Registrar a previsão",
+      "comoFazer": "Gênero e assunto, por escrito, antes de ler. Previsão registrada é o que permite confrontar depois."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ler e conferir",
+      "comoFazer": "Leitura rápida só para confirmar ou corrigir. Errar a previsão e descobrir por quê ensina mais que acertar."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que denunciou o gênero",
+      "comoFazer": "Liste as pistas usadas: números em coluna, saudação, manchete. A lista serve para o próximo texto."
+     }
+    ],
+    "comoAvaliar": "A ficha de previsão com as pistas nomeadas. Previsão certa sem pista identificada é palpite.",
+    "errosComuns": [
+     "Ignorar imagem, título e formato e ir direto ao texto corrido.",
+     "Achar que a previsão precisa estar certa para ter valor.",
+     "Confundir gênero com assunto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada — acesso aberto",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-falar-de-si",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Perguntar e responder sobre si: a primeira conversa que se sustenta",
+   "descricao": "O aluno coleta informações do grupo perguntando e respondendo sobre família, gostos e rotina.",
+   "bncc": [
+    "EF06LI02",
+    "EF06LI05",
+    "EF06LI01"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno faz e responde cinco perguntas em inglês e registra as respostas de três colegas.",
+    "duracao": 50,
+    "materiais": [
+     "Ficha de entrevista com as perguntas",
+     "Cartões com apoio de vocabulário"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ensaiar em dupla",
+      "comoFazer": "Antes de circular, cada dupla treina as cinco perguntas. Ensaio reduz a exposição, que é o que trava a fala em língua estrangeira."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Entrevistar três colegas",
+      "comoFazer": "Circular pela sala com a ficha. O aluno fala com quem escolhe, e o registro dá função à conversa."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Relatar um colega",
+      "comoFazer": "Cada aluno conta ao grupo o que descobriu sobre um dos entrevistados, usando a terceira pessoa."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que faltou dizer",
+      "comoFazer": "Liste o que se quis dizer e não se soube. Essa lista é o vocabulário da próxima aula, escolhido pela turma."
+     }
+    ],
+    "comoAvaliar": "A ficha preenchida e o relato oral. Pronúncia não é o critério aqui — a habilidade é interagir e registrar.",
+    "errosComuns": [
+     "Corrigir a pronúncia durante a fala, o que interrompe a interação e ensina a não falar.",
+     "Traduzir a pergunta antes de fazê-la, o que quebra o ritmo da conversa.",
+     "Responder só sim ou não, sem a informação pedida."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "British Council Brasil",
+     "url": "https://www.britishcouncil.org.br/"
+    },
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-dicionario-e-repertorio",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Usar o dicionário sem cair na primeira acepção",
+   "descricao": "O aluno constrói repertório lexical com apoio de dicionário impresso ou on-line, escolhendo a acepção pelo contexto.",
+   "bncc": [
+    "EF06LI10"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escolhe a acepção correta de três palavras polissêmicas e justifica pela frase.",
+    "duracao": 50,
+    "materiais": [
+     "Dicionários bilíngues ou acesso on-line",
+     "Frases com palavras polissêmicas"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A primeira acepção engana",
+      "comoFazer": "Procure 'run' e leia as dez primeiras. A quantidade de sentidos é o argumento de que a escolha depende do contexto."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ler a frase inteira antes",
+      "comoFazer": "A ordem certa é: ler a frase, decidir a classe da palavra, depois procurar. Procurar antes de ler é o que produz a tradução absurda."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Três casos",
+      "comoFazer": "Cada aluno resolve três frases e escreve a justificativa da escolha ao lado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Montar o caderno de vocabulário",
+      "comoFazer": "Palavra, frase de origem e sentido escolhido. Palavra anotada sem frase é palavra que não volta."
+     }
+    ],
+    "comoAvaliar": "As três escolhas com justificativa. Escolha certa sem justificativa pode ser acaso.",
+    "errosComuns": [
+     "Pegar sempre a primeira tradução listada.",
+     "Ignorar a classe gramatical indicada no verbete.",
+     "Anotar a palavra sozinha, sem o contexto em que apareceu."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-passado-continuo",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Passado contínuo: a ação que estava acontecendo",
+   "descricao": "O aluno usa o passado contínuo para produzir textos orais e escritos, distinguindo-o do passado simples.",
+   "bncc": [
+    "EF07LI18"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno narra um episódio combinando as duas formas, com a ação em curso interrompida por outra.",
+    "duracao": 50,
+    "materiais": [
+     "Tirinha ou sequência de imagens",
+     "Linha do tempo em branco"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Duas ações, um instante",
+      "comoFazer": "Na tirinha, uma ação estava em curso e outra a interrompeu. A diferença de aspecto se vê na imagem antes de ser nomeada."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Marcar na linha do tempo",
+      "comoFazer": "A ação contínua vira um traço; a pontual, um X. A representação separa o que a tradução para o português mistura."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Construir a forma",
+      "comoFazer": "Was/were + verbo com -ing. A forma entra depois da função, e não antes."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Narrar um episódio",
+      "comoFazer": "Cada aluno escreve três frases sobre algo que estava fazendo quando algo aconteceu."
+     }
+    ],
+    "comoAvaliar": "As três frases com as duas formas combinadas. Usar só o passado simples indica que a distinção de aspecto não entrou.",
+    "errosComuns": [
+     "Usar o passado simples para tudo, porque em português a diferença é menos marcada.",
+     "Esquecer o verbo auxiliar was/were.",
+     "Aplicar -ing a verbos de estado, onde o contínuo não cabe."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-sujeito-e-objeto",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Quem faz e quem recebe: pronomes de sujeito e de objeto",
+   "descricao": "O aluno discrimina sujeito de objeto usando os pronomes correspondentes.",
+   "bncc": [
+    "EF07LI19"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno completa dez frases com o pronome correto e explica a escolha pela posição.",
+    "duracao": 50,
+    "materiais": [
+     "Cartões com pronomes das duas séries",
+     "Frases com lacunas"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Antes ou depois do verbo",
+      "comoFazer": "A posição decide a série. Uma regra posicional é mais operante que a lista decorada de he/him."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Trocar de papel",
+      "comoFazer": "Na mesma frase, inverta quem faz e quem recebe. O pronome muda, e a mudança fica visível."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Completar com critério",
+      "comoFazer": "Dez frases, e ao lado de cada uma a marca de antes/depois do verbo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Produzir três frases",
+      "comoFazer": "Cada aluno escreve frases sobre a própria rotina usando as duas séries."
+     }
+    ],
+    "comoAvaliar": "As dez lacunas com a marca posicional. Acertar sem a marca pode ser memorização de pares.",
+    "errosComuns": [
+     "Usar 'he' depois de preposição, onde cabe 'him'.",
+     "Traduzir literalmente do português, que omite o sujeito e o inglês não.",
+     "Decorar a lista sem a regra de posição."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "British Council Brasil",
+     "url": "https://www.britishcouncil.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-comparativos",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Comparar e classificar: comparativos e superlativos",
+   "descricao": "O aluno utiliza formas comparativas e superlativas de adjetivos para comparar qualidades e quantidades.",
+   "bncc": [
+    "EF08LI15"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno produz cinco comparações a partir de dados reais e uma frase com superlativo.",
+    "duracao": 50,
+    "materiais": [
+     "Tabela de dados (cidades, animais, países)",
+     "Cartões com adjetivos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Comparar dados de verdade",
+      "comoFazer": "Com a tabela, as comparações são verificáveis. Comparar coisas inventadas produz frase correta sem conteúdo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Curto e longo",
+      "comoFazer": "Adjetivo de uma sílaba leva -er; os longos levam 'more'. A regra depende do tamanho da palavra, e isso precisa ser dito explicitamente."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Do comparativo ao superlativo",
+      "comoFazer": "Comparar dois é uma coisa; destacar um entre todos é outra. Use a tabela para os dois casos."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever as cinco",
+      "comoFazer": "Cada aluno escreve cinco comparações e confere se o dado sustenta cada uma."
+     }
+    ],
+    "comoAvaliar": "As cinco frases confrontadas com a tabela. Frase correta com dado errado é meio acerto e merece ser apontada.",
+    "errosComuns": [
+     "Usar 'more' junto com -er na mesma palavra.",
+     "Esquecer o 'the' antes do superlativo.",
+     "Errar as formas irregulares (good/better/best) por aplicar a regra geral."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "British Council Brasil",
+     "url": "https://www.britishcouncil.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-pronomes-relativos",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Juntar duas frases numa: pronomes relativos",
+   "descricao": "O aluno emprega who, which, that e whose para construir períodos com orações relativas.",
+   "bncc": [
+    "EF08LI17"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno junta cinco pares de frases usando o relativo adequado a cada referente.",
+    "duracao": 50,
+    "materiais": [
+     "Tiras com pares de frases curtas",
+     "Cartões com os relativos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Duas frases repetidas",
+      "comoFazer": "Cada par repete um termo. A repetição é o que o relativo elimina, e vê-la primeiro dá função à estrutura."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Pessoa ou coisa",
+      "comoFazer": "Who para pessoa, which para coisa, that para os dois em uso corrente. A escolha depende do referente, não do gosto."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Juntar os cinco pares",
+      "comoFazer": "Cada aluno junta e sublinha o termo que deixou de ser repetido."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Whose, o caso difícil",
+      "comoFazer": "Posse dentro da relativa. Trabalhe dois exemplos, sem cobrar produção autônoma ainda."
+     }
+    ],
+    "comoAvaliar": "Os cinco pares unidos. Manter o termo repetido depois do relativo é o erro esperado, e é fácil de mostrar.",
+    "errosComuns": [
+     "Repetir o pronome pessoal depois do relativo ('the man who he works').",
+     "Usar 'which' para pessoas.",
+     "Traduzir 'que' do português sempre como 'that', sem checar o referente."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-apresentacao-oral",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Planejar e apresentar: falar em inglês com roteiro",
+   "descricao": "O aluno planeja e realiza uma apresentação curta sobre a família, a comunidade ou a escola.",
+   "bncc": [
+    "EF06LI06"
+   ],
+   "exigencias": [
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno apresenta por dois minutos com apoio de roteiro escrito e imagens.",
+    "duracao": 50,
+    "materiais": [
+     "Cartolina ou slides simples",
+     "Roteiro impresso com lacunas",
+     "Cronômetro"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Preencher o roteiro",
+      "comoFazer": "O roteiro tem as estruturas prontas e as lacunas com o conteúdo pessoal. Estrutura dada libera atenção para o conteúdo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ensaiar para uma pessoa",
+      "comoFazer": "Em duplas, cada um apresenta ao colega. Falar pela primeira vez para a turma inteira é o que produz o branco."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Apresentar em grupos pequenos",
+      "comoFazer": "Grupos de quatro, e não a sala inteira. A exposição diminui e a quantidade de fala por aluno aumenta."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Um elogio e uma sugestão",
+      "comoFazer": "Cada ouvinte diz uma coisa boa e uma melhoria. Retorno estruturado evita tanto o silêncio quanto a chacota."
+     }
+    ],
+    "comoAvaliar": "Os dois minutos com o roteiro cumprido. O critério é comunicar, e não pronunciar como falante nativo.",
+    "errosComuns": [
+     "Ler o texto inteiro de cabeça baixa, sem olhar para ninguém.",
+     "Decorar sem entender, o que quebra ao primeiro esquecimento.",
+     "Avaliar sotaque em vez de comunicação."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "British Council Brasil",
+     "url": "https://www.britishcouncil.org.br/"
+    },
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-quem-produz-e-quem-circula",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Quem produz o que circula em inglês nas redes",
+   "descricao": "O aluno compreende processos de produção e circulação de discursos em diferentes linguagens e reflete sobre o alcance do inglês.",
+   "bncc": [
+    "EM13LGG101"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica quem produziu e quem financia um conteúdo em inglês que ele consome.",
+    "duracao": 50,
+    "materiais": [
+     "Postagens e vídeos em inglês de perfis diferentes",
+     "Ficha de rastreio"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Escolher o que já consome",
+      "comoFazer": "Cada aluno traz um conteúdo em inglês que acompanha. Partir do consumo real é o que impede a aula abstrata."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Rastrear a origem",
+      "comoFazer": "Quem publica, onde está sediado, como se sustenta. Três perguntas que quase nunca são feitas ao conteúdo em língua estrangeira."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Por que em inglês",
+      "comoFazer": "Discuta o alcance e o que fica de fora quando a língua franca é uma só."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever o achado",
+      "comoFazer": "Um parágrafo, em português ou inglês, sobre o que descobriu do próprio consumo."
+     }
+    ],
+    "comoAvaliar": "A ficha de rastreio preenchida. Não achar o produtor também é resultado, e vale ser discutido.",
+    "errosComuns": [
+     "Tratar conteúdo em inglês como automaticamente mais confiável.",
+     "Confundir alcance global com neutralidade.",
+     "Não distinguir criador de plataforma."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    },
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "ingles-linguagens-para-compreender",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Combinar linguagens para compreender e produzir",
+   "descricao": "O aluno utiliza diferentes linguagens, considerando seus contextos, para compreender e produzir sentidos em inglês.",
+   "bncc": [
+    "EM13LGG104"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno produz uma peça curta que combine texto em inglês e imagem, com função declarada.",
+    "duracao": 50,
+    "materiais": [
+     "Exemplos de peças multimodais em inglês",
+     "Ferramenta simples de edição ou papel"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que a imagem faz",
+      "comoFazer": "Nas peças de exemplo, separe o que o texto diz do que a imagem diz. Às vezes elas se contradizem de propósito."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Escolher a função",
+      "comoFazer": "Informar, convencer, provocar. A função escolhida antes é o que impede a peça bonita e sem propósito."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Produzir",
+      "comoFazer": "Texto curto em inglês mais imagem. Curto é requisito: peça multimodal com parágrafo longo perde o efeito."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Testar com quem não sabe",
+      "comoFazer": "Mostre a um colega de outra turma. Se a mensagem chega sem explicação, a combinação funcionou."
+     }
+    ],
+    "comoAvaliar": "A peça com a função declarada e o teste com um leitor externo. Peça sem função declarada não pode ser avaliada.",
+    "errosComuns": [
+     "Usar a imagem como enfeite, sem função no sentido.",
+     "Escrever em inglês traduzindo do português estrutura por estrutura.",
+     "Achar que peça multimodal dispensa revisão da língua."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "LearnEnglish — British Council",
+     "url": "https://learnenglish.britishcouncil.org/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    }
+   ]
+  },
+  {
+   "id": "ingles-poder-nos-discursos",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Interesses e relações de poder no discurso em língua estrangeira",
+   "descricao": "O aluno analisa interesses, relações de poder e perspectivas de mundo presentes em discursos produzidos em inglês.",
+   "bncc": [
+    "EM13LGG202"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno compara duas coberturas do mesmo fato em inglês e identifica a perspectiva de cada uma.",
+    "duracao": 50,
+    "materiais": [
+     "Duas notícias em inglês sobre o mesmo evento, de países diferentes",
+     "Ficha de comparação"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler as duas manchetes",
+      "comoFazer": "As escolhas de verbo e de sujeito já diferem. Manchete é o lugar mais denso de decisão editorial."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Quem aparece como agente",
+      "comoFazer": "Voz passiva esconde o agente. Marque nas duas notícias quem faz e quem sofre a ação."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O que só uma diz",
+      "comoFazer": "Liste a informação exclusiva de cada uma. Ausência é escolha, e ela vira visível na comparação."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever a terceira",
+      "comoFazer": "Cada aluno escreve uma manchete que considere mais equilibrada, e explica por quê."
+     }
+    ],
+    "comoAvaliar": "A ficha e a manchete reescrita. Concluir que 'toda notícia é tendenciosa' sem apontar a marca linguística é descarte, não análise.",
+    "errosComuns": [
+     "Buscar a notícia 'neutra' em vez de identificar as perspectivas.",
+     "Ignorar que a escolha entre voz ativa e passiva carrega efeito.",
+     "Julgar pela fonte antes de ler o texto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Trabalhos em Linguística Aplicada",
+     "url": "https://www.scielo.br/j/tla/"
+    },
+    {
+     "label": "Revista Brasileira de Linguística Aplicada",
+     "url": "https://www.scielo.br/j/rbla/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  }
+ ]
+}

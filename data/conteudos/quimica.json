@@ -1,0 +1,759 @@
+{
+ "materia": "Química",
+ "conteudos": [
+  {
+   "id": "quimica-misturas-homogeneas-heterogeneas",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Misturas homogêneas e heterogêneas: o critério é o que se vê",
+   "descricao": "O aluno classifica misturas conforme a possibilidade de distinguir os componentes, e reconhece que a resposta depende da escala de observação.",
+   "bncc": [
+    "EF06CI01"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno classifica seis misturas e explica por que uma delas muda de classificação ao ser observada de perto.",
+    "duracao": 50,
+    "materiais": [
+     "Copos transparentes",
+     "Água, óleo, açúcar, areia, leite, terra",
+     "Lupa"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Preparar as seis",
+      "comoFazer": "Cada grupo monta as misturas nos copos. Preparar com as próprias mãos evita que o aluno classifique de memória."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Classificar a olho nu",
+      "comoFazer": "Uma fase ou mais de uma? Registre a classificação antes de usar qualquer instrumento — ela vai ser revista."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Olhar com lupa",
+      "comoFazer": "O leite parece homogêneo e não é. A classificação depende do instrumento, e essa é a ideia mais importante da aula."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever o critério",
+      "comoFazer": "Cada aluno escreve o critério com a ressalva da escala. Definição sem a ressalva produz o erro do leite para o resto da vida escolar."
+     }
+    ],
+    "comoAvaliar": "A classificação das seis mais a explicação do caso do leite. Classificar tudo certo sem mencionar a escala indica regra decorada.",
+    "errosComuns": [
+     "Classificar o leite como homogêneo e nunca revisar.",
+     "Confundir mistura com substância pura — água com açúcar dissolvido continua sendo mistura.",
+     "Achar que homogêneo é sinônimo de líquido transparente."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    },
+    {
+     "label": "Química Nova — periódico da SBQ, acesso aberto",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-evidencias-de-transformacao",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Como saber se houve transformação química",
+   "descricao": "O aluno identifica evidências de transformação química ao misturar materiais e distingue transformação de mudança de aparência.",
+   "bncc": [
+    "EF06CI02"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno nomeia três evidências de transformação química e aponta um caso em que a aparência mudou sem transformação.",
+    "duracao": 50,
+    "materiais": [
+     "Bicarbonato e vinagre",
+     "Água e açúcar",
+     "Palha de aço e água",
+     "Copos e colheres"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Misturar e observar",
+      "comoFazer": "Três misturas, e o registro do que acontece em cada uma — sem nomear nada ainda. Observação antes de classificação."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Listar as evidências",
+      "comoFazer": "Gás, calor, mudança de cor, sólido novo. A lista sai do que a turma observou, e por isso é lembrada."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O caso que engana",
+      "comoFazer": "Açúcar na água some, e não houve transformação química. Dissolver não é transformar, e essa é a distinção que a aula precisa deixar de pé."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A palha de aço no dia seguinte",
+      "comoFazer": "Deixe a palha molhada e retome na aula seguinte. A ferrugem mostra que há transformação lenta, que a aula de 50 minutos esconde."
+     }
+    ],
+    "comoAvaliar": "As três evidências e o contraexemplo. Citar 'mudou de cor' sem o contraexemplo deixa a distinção incompleta.",
+    "errosComuns": [
+     "Achar que toda mudança visível é transformação química.",
+     "Concluir que, se nada aparece em cinco minutos, nada aconteceu.",
+     "Tratar dissolução como reação."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-metodos-de-separacao",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Separar misturas: escolher o método pela propriedade",
+   "descricao": "O aluno seleciona métodos de separação adequados a diferentes misturas heterogêneas, justificando pela propriedade explorada.",
+   "bncc": [
+    "EF06CI03"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno separa uma mistura de três componentes e justifica cada etapa pela propriedade usada.",
+    "duracao": 50,
+    "materiais": [
+     "Areia, sal, limalha de ferro",
+     "Ímã, peneira, filtro de papel, funil",
+     "Fonte de calor ou local ensolarado"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Receber o problema",
+      "comoFazer": "Entregue a mistura dos três e o desafio de separá-los. Sem receita — o planejamento é a parte que ensina."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Planejar a ordem",
+      "comoFazer": "Cada grupo escreve a sequência antes de agir. Trocar a ordem estraga o resultado, e descobrir isso no papel custa menos que na bancada."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Executar",
+      "comoFazer": "Ímã para o ferro, água e filtragem para a areia, evaporação para o sal. Cada etapa explora uma propriedade diferente, e é isso que se registra."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Nomear a propriedade",
+      "comoFazer": "Ao lado de cada método, escreva a propriedade que ele usa. Nome do método sem a propriedade vira lista a decorar."
+     }
+    ],
+    "comoAvaliar": "A sequência planejada e a justificativa por propriedade. Separar por tentativa sem justificar não cumpre o objetivo.",
+    "errosComuns": [
+     "Tentar filtrar o sal dissolvido, sem perceber que ele passa pelo filtro.",
+     "Usar o ímã depois de molhar tudo, perdendo eficiência.",
+     "Decorar nomes de métodos sem ligá-los a uma propriedade dos materiais."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    },
+    {
+     "label": "Portal do Professor (MEC)",
+     "url": "https://portaldoprofessor.mec.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-mudancas-de-estado",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Mudanças de estado físico e o que acontece com as partículas",
+   "descricao": "O aluno investiga mudanças de estado físico da matéria e as explica pela constituição e movimento das partículas.",
+   "bncc": [
+    "EF09CI01"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual",
+    "abstracao-simbolica",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno desenha o arranjo das partículas nos três estados e explica por que a temperatura fica constante durante a fusão.",
+    "duracao": 50,
+    "materiais": [
+     "Gelo, béquer, termômetro",
+     "Fonte de calor",
+     "Papel para o gráfico"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Medir enquanto derrete",
+      "comoFazer": "Anote a temperatura a cada minuto, do gelo à água fervendo. O patamar aparece nos dados, e é ele que gera a pergunta."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O gráfico que tem degrau",
+      "comoFazer": "Marque os pontos. A temperatura para de subir com o fogo aceso — o dado contraria a intuição e por isso ensina."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Modelar as partículas",
+      "comoFazer": "Desenhe o arranjo nos três estados. A energia entra para separar partículas, e não para aquecer, durante a mudança."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Prever com o modelo",
+      "comoFazer": "Peça a previsão para outra substância. Modelo que só explica o caso visto não é modelo."
+     }
+    ],
+    "comoAvaliar": "O gráfico com o patamar e a explicação pelo modelo de partículas. Explicar sem citar o patamar indica que o dado não foi usado.",
+    "errosComuns": [
+     "Achar que a temperatura sobe continuamente enquanto há fogo.",
+     "Desenhar as partículas mudando de tamanho ao mudar de estado.",
+     "Confundir evaporação com ebulição."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF) — experimentação com material acessível",
+     "url": "https://www.scielo.br/j/rbef/a/PLkjm3N5KjnXKgDsXw5Dy4R/?lang=pt"
+    }
+   ]
+  },
+  {
+   "id": "quimica-reagentes-e-produtos",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Reagentes e produtos: a massa se conserva",
+   "descricao": "O aluno compara quantidades de reagentes e produtos em transformações químicas e estabelece a relação entre elas.",
+   "bncc": [
+    "EF09CI02"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "abstracao-simbolica",
+    "sequencia-de-passos"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica por que uma reação em recipiente aberto parece perder massa, e prevê o resultado em recipiente fechado.",
+    "duracao": 50,
+    "materiais": [
+     "Balança",
+     "Bicarbonato e vinagre",
+     "Frasco com tampa e frasco aberto"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Pesar antes",
+      "comoFazer": "Massa total dos reagentes com o recipiente. Registrar antes é o que torna a comparação possível — e é o passo mais pulado."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Reagir aberto",
+      "comoFazer": "A massa cai. O resultado contraria a lei que será enunciada, e a contradição é proposital."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Reagir fechado",
+      "comoFazer": "Mesma reação, frasco tampado. A massa se mantém — e a diferença entre os dois é o gás que escapou no primeiro."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Enunciar depois",
+      "comoFazer": "Só agora a conservação da massa é enunciada, como conclusão dos dois experimentos e não como frase a decorar."
+     }
+    ],
+    "comoAvaliar": "A previsão para o frasco fechado, feita antes do segundo experimento. Acertar depois de ver não mede nada.",
+    "errosComuns": [
+     "Concluir que a massa desaparece em reações com liberação de gás.",
+     "Esquecer de incluir a massa do recipiente na comparação.",
+     "Achar que conservação de massa vale só em reações 'controladas'."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-estrutura-da-materia",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Modelos de átomo: por que eles mudaram",
+   "descricao": "O aluno reconhece os modelos que explicam a estrutura da matéria e entende que cada um respondeu a evidências novas.",
+   "bncc": [
+    "EF09CI03"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "vocabulario-tecnico",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica que evidência derrubou o modelo da bola de bilhar e o que o modelo seguinte passou a explicar.",
+    "duracao": 50,
+    "materiais": [
+     "Caixa fechada com objeto dentro",
+     "Imagens dos modelos atômicos",
+     "Linha do tempo em branco"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "A caixa preta",
+      "comoFazer": "Cada grupo recebe uma caixa fechada e precisa descrever o que há dentro sem abrir. É o que os cientistas fizeram com o átomo, e a experiência antecede a história."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Modelo é hipótese útil",
+      "comoFazer": "Compare as descrições dos grupos. Modelos diferentes explicam os mesmos dados, e isso não é falha — é como a ciência anda."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A linha dos modelos",
+      "comoFazer": "Para cada modelo, a evidência que o motivou. A linha do tempo é de evidências, e não de nomes e datas."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que o atual não explica",
+      "comoFazer": "Diga que o modelo de hoje também tem limites. Ciência apresentada como acabada é ciência que não se pode continuar."
+     }
+    ],
+    "comoAvaliar": "A ligação entre evidência e mudança de modelo. Recitar a ordem dos modelos sem as evidências é o resultado a evitar.",
+    "errosComuns": [
+     "Tratar os modelos como erros sucessivos, e não como respostas a evidências disponíveis.",
+     "Achar que o átomo se parece com o desenho de bolinhas e órbitas.",
+     "Confundir modelo com fotografia da realidade."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ]
+  },
+  {
+   "id": "quimica-modelos-em-diferentes-epocas",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Modelos explicativos propostos em épocas e culturas diferentes",
+   "descricao": "O aluno analisa modelos propostos em diferentes momentos para avaliar como cada um respondia às perguntas do seu tempo.",
+   "bncc": [
+    "EM13CNT201"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica um modelo antigo pelos critérios da própria época, sem julgá-lo pelos de hoje.",
+    "duracao": 50,
+    "materiais": [
+     "Textos curtos sobre alquimia e sobre química moderna",
+     "Ficha de comparação"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que ele explicava bem",
+      "comoFazer": "Comece pelo que o modelo antigo dava conta. Começar pelo erro impede entender por que alguém acreditou nele."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que ele não explicava",
+      "comoFazer": "Identifique o fenômeno que o modelo não cobria. Aí a substituição deixa de ser progresso automático e passa a ter causa."
+     },
+     {
+      "minutos": 15,
+      "titulo": "As técnicas que ficaram",
+      "comoFazer": "Destilação, filtração e cristalização vêm da alquimia. Ruptura teórica com continuidade técnica é a história real."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever sem anacronismo",
+      "comoFazer": "Cada aluno escreve um parágrafo explicando o modelo antigo sem usar 'eles não sabiam'."
+     }
+    ],
+    "comoAvaliar": "O parágrafo sem anacronismo. Julgar o passado com o conhecimento de hoje é o padrão inicial, e a mudança é visível.",
+    "errosComuns": [
+     "Tratar a alquimia como superstição sem método.",
+     "Achar que a ciência avança apenas acumulando acertos.",
+     "Confundir mudança de modelo com descoberta de fraude."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "quimica-materiais-e-saude",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Avaliar prejuízos de materiais e produtos à saúde e ao ambiente",
+   "descricao": "O aluno avalia potenciais danos de diferentes materiais e produtos de uso cotidiano, com base em composição e dose.",
+   "bncc": [
+    "EM13CNT104"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno lê o rótulo de um produto doméstico e explica por que a dose importa tanto quanto a substância.",
+    "duracao": 50,
+    "materiais": [
+     "Rótulos de produtos de limpeza e de alimentos",
+     "Fichas de segurança de substâncias"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler o rótulo inteiro",
+      "comoFazer": "Composição, advertências, telefone de emergência. O rótulo é documento técnico, e quase ninguém o lê até o fim."
+     },
+     {
+      "minutos": 13,
+      "titulo": "A dose faz o veneno",
+      "comoFazer": "Compare a mesma substância em concentrações diferentes. 'Natural' e 'químico' deixam de ser critério, e a concentração assume o lugar."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A mistura perigosa",
+      "comoFazer": "Discuta por que não se mistura água sanitária com amoníaco — sem demonstrar. Aqui o conhecimento químico previne acidente doméstico real."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Reescrever o alerta",
+      "comoFazer": "Cada aluno reescreve a advertência do rótulo em linguagem que a própria família entenda."
+     }
+    ],
+    "comoAvaliar": "A explicação pela dose e o alerta reescrito. Classificar produtos em bons e ruins indica que o critério de dose não entrou.",
+    "errosComuns": [
+     "Associar 'natural' a seguro e 'químico' a perigoso.",
+     "Ignorar que a mistura de produtos domésticos pode gerar gases tóxicos.",
+     "Achar que ausência de cheiro significa ausência de risco."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-compostos-no-ambiente",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Compostos químicos no solo, na água e na atmosfera",
+   "descricao": "O aluno analisa a presença de compostos químicos nos compartimentos ambientais e interpreta os efeitos sobre os seres vivos.",
+   "bncc": [
+    "EM13CNT105"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno traça o caminho de um poluente do lançamento até o organismo humano, nomeando dois compartimentos.",
+    "duracao": 50,
+    "materiais": [
+     "Dados de qualidade da água da região",
+     "Esquema de ciclo em branco",
+     "Notícia sobre contaminação"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Partir do dado local",
+      "comoFazer": "Com os dados da região, veja o que é medido e o que não é. O que não se mede é parte do problema."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Desenhar o caminho",
+      "comoFazer": "Do lançamento ao consumo, passando pelos compartimentos. O esquema torna visível o que a notícia trata como evento isolado."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Por que acumula",
+      "comoFazer": "Introduza bioacumulação com um exemplo de cadeia. A concentração cresce ao longo da cadeia, e isso não é intuitivo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Onde intervir",
+      "comoFazer": "Peça a indicação de dois pontos da cadeia em que a intervenção seria mais eficaz."
+     }
+    ],
+    "comoAvaliar": "O caminho traçado com os compartimentos nomeados. Esquema que vai direto do cano à pessoa perde a parte que explica.",
+    "errosComuns": [
+     "Achar que diluir resolve — a bioacumulação contraria essa intuição.",
+     "Tratar solo, água e ar como compartimentos independentes.",
+     "Confundir concentração com quantidade total."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "quimica-propriedades-dos-materiais",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Escolher o material pela propriedade: por que a panela é de alumínio",
+   "descricao": "O aluno analisa propriedades dos materiais para avaliar a adequação de cada um a usos cotidianos e arquitetônicos.",
+   "bncc": [
+    "EM13CNT307"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escolhe o material para três usos e justifica cada escolha por uma propriedade medida ou consultada.",
+    "duracao": 50,
+    "materiais": [
+     "Amostras de metal, plástico, madeira, vidro",
+     "Água quente e termômetro",
+     "Tabela de propriedades"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Sentir a condução",
+      "comoFazer": "Colheres de materiais diferentes na água quente. A diferença de condução se percebe pelo tato em segundos."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Consultar a tabela",
+      "comoFazer": "A sensação vira número. Comparar o percebido com o tabelado ensina o valor e o limite da percepção."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Um uso, várias propriedades",
+      "comoFazer": "Para a panela, entram condução, ponto de fusão, custo, toxicidade e peso. Escolha real é sempre multicritério."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Justificar três escolhas",
+      "comoFazer": "Panela, janela e fiação. Cada uma privilegia uma propriedade diferente, e é isso que se quer explicitar."
+     }
+    ],
+    "comoAvaliar": "As três escolhas com a propriedade citada. Justificar por 'é melhor' sem nomear propriedade não cumpre.",
+    "errosComuns": [
+     "Confundir sensação térmica com temperatura.",
+     "Escolher material por uma propriedade só, ignorando custo e segurança.",
+     "Achar que metal é sempre melhor condutor que qualquer não metal, sem consultar."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "Revista Brasileira de Ensino de Física (SBF)",
+     "url": "https://www.scielo.br/j/rbef/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-ler-divulgacao-cientifica",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Ler divulgação científica sem engolir nem descartar",
+   "descricao": "O aluno interpreta textos de divulgação sobre temas de ciências e avalia a distância entre o estudo e a manchete.",
+   "bncc": [
+    "EM13CNT303"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno compara uma manchete com o resumo do estudo e aponta o que a manchete acrescentou.",
+    "duracao": 50,
+    "materiais": [
+     "Manchete sobre um estudo",
+     "Resumo do estudo original",
+     "Ficha de comparação"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler só a manchete",
+      "comoFazer": "Registre o que a turma entendeu. Essa é a informação que a maioria das pessoas recebe, e é ela que será testada."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ler o resumo",
+      "comoFazer": "Tamanho da amostra, população estudada, o que foi medido. Três dados que a manchete raramente traz."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Achar o salto",
+      "comoFazer": "Correlação virou causa? Rato virou pessoa? Localize a frase exata em que a manchete foi além do estudo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Reescrever honesto",
+      "comoFazer": "Cada aluno escreve uma manchete fiel ao estudo — e percebe que ela é menos atraente, o que também é conteúdo."
+     }
+    ],
+    "comoAvaliar": "A manchete reescrita e o salto apontado. Concluir que 'a imprensa mente' sem localizar o salto é descarte, não leitura crítica.",
+    "errosComuns": [
+     "Rejeitar todo achado divulgado, o que é tão acrítico quanto aceitar tudo.",
+     "Confundir correlação com causa por seguir a manchete.",
+     "Ignorar o tamanho da amostra e a população estudada."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Química Nova — periódico da SBQ",
+     "url": "https://www.scielo.br/j/qn/"
+    },
+    {
+     "label": "SciELO Brasil — biblioteca de periódicos científicos de acesso aberto",
+     "url": "https://www.scielo.br/"
+    }
+   ]
+  },
+  {
+   "id": "quimica-controversias-cientificas",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Debater controvérsias sobre aplicação de conhecimento científico",
+   "descricao": "O aluno analisa situações controversas envolvendo aplicações da ciência e distingue o que é disputa técnica do que é disputa de valores.",
+   "bncc": [
+    "EM13CNT304"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno separa, num caso concreto, o que a ciência responde do que depende de decisão política.",
+    "duracao": 50,
+    "materiais": [
+     "Dossiê sobre um caso (agrotóxico, mineração ou vacina)",
+     "Quadro de duas colunas"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler o caso",
+      "comoFazer": "O dossiê traz posições divergentes com suas fontes. Ler as duas antes de opinar é a condição da aula."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Duas colunas",
+      "comoFazer": "O que é pergunta empírica e o que é pergunta de valor. Separar as duas é a operação central, e quase nunca é ensinada."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Onde há consenso",
+      "comoFazer": "Identifique o que a comunidade científica já resolveu. Consenso existente não é opinião de um lado do debate."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Posicionar-se com critério",
+      "comoFazer": "Cada aluno escreve sua posição indicando em qual coluna ela se apoia."
+     }
+    ],
+    "comoAvaliar": "O quadro de duas colunas. Colocar tudo numa coluna só indica que a distinção não foi feita.",
+    "errosComuns": [
+     "Tratar consenso científico como uma opinião entre outras.",
+     "Achar que dado técnico decide sozinho uma questão política.",
+     "Confundir incerteza científica com ausência de conhecimento."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "SciELO Brasil — periódicos científicos de acesso aberto",
+     "url": "https://www.scielo.br/"
+    },
+    {
+     "label": "Sociedade Brasileira de Química (SBQ)",
+     "url": "https://www.sbq.org.br/"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,762 @@
+{
+ "materia": "Português",
+ "conteudos": [
+  {
+   "id": "portugues-silabas-e-sons-iniciais",
+   "etapa": "EF1",
+   "ano": "1º ano",
+   "titulo": "Segmentar palavras em sílabas e comparar sons iniciais",
+   "descricao": "O aluno separa oralmente palavras em sílabas e identifica quais começam com o mesmo som, antes de qualquer escrita.",
+   "bncc": [
+    "EF01LP06",
+    "EF01LP09"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno bate palmas na quantidade certa de sílabas de dez palavras e agrupa três que começam com o mesmo som.",
+    "duracao": 40,
+    "materiais": [
+     "Fichas com figuras (sem palavra escrita)",
+     "Caixa ou saco para sorteio",
+     "Fichas coloridas para marcar cada sílaba"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Bater a palavra",
+      "comoFazer": "Sorteie uma figura e diga o nome devagar. A turma bate uma palma por sílaba. Nada é escrito: o trabalho aqui é com o som, e escrever no quadro nesta etapa desvia para a letra."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Uma ficha por sílaba",
+      "comoFazer": "Cada aluno põe uma ficha colorida na mesa para cada sílaba que ouviu. A quantidade de sílabas vira algo que se vê e se conta, e não uma resposta a acertar."
+     },
+     {
+      "minutos": 12,
+      "titulo": "Começa igual",
+      "comoFazer": "Espalhe seis figuras e peça as que começam com o mesmo som. Pronuncie prolongando o início — 'ssssapato' — para que o som inicial se destaque sem precisar de explicação."
+     },
+     {
+      "minutos": 8,
+      "titulo": "Tirar a primeira sílaba",
+      "comoFazer": "Diga 'bolo sem o bo'. A criança responde 'lo'. É a operação que sustenta a leitura depois: manipular pedaços da palavra falada."
+     }
+    ],
+    "comoAvaliar": "Peça a contagem de sílabas de cinco palavras novas e o agrupamento por som inicial. Acertar a contagem e errar o agrupamento indica que a sílaba já se destaca, mas o fonema inicial ainda não.",
+    "errosComuns": [
+     "Contar letras em vez de sílabas quando a palavra é conhecida na forma escrita.",
+     "Confundir sílaba com fonema — 'pra' é uma sílaba, e a criança que aprendeu a soletrar tende a marcar três.",
+     "Trabalhar com a palavra escrita à vista, o que transforma a tarefa sonora numa tarefa visual."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CEALE / UFMG — Glossário Ceale: termos de alfabetização, leitura e escrita para educadores",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    },
+    {
+     "label": "CEALE / UFMG — verbete \"Alfabetização\"",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/verbetes/alfabetizacao"
+    },
+    {
+     "label": "Reading Rockets — consciência fonológica e fonêmica",
+     "url": "https://www.readingrockets.org/topics/phonological-and-phonemic-awareness"
+    }
+   ]
+  },
+  {
+   "id": "portugues-poema-rima-e-ritmo",
+   "etapa": "EF1",
+   "ano": "3º ao 5º ano",
+   "titulo": "Ler e apreciar poemas: rima, ritmo e jogo sonoro",
+   "descricao": "O aluno lê poemas observando rimas, aliterações e a divisão em versos, e declama um deles com entonação.",
+   "bncc": [
+    "EF35LP23",
+    "EF35LP27",
+    "EF35LP28"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno aponta as rimas de um poema curto e o declama marcando as pausas de fim de verso.",
+    "duracao": 50,
+    "materiais": [
+     "Três poemas curtos impressos, um por aluno",
+     "Lápis de cor"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Ouvir antes de ler",
+      "comoFazer": "Leia o poema em voz alta duas vezes, sem comentar. A primeira coisa que um poema faz é soar, e discutir antes de ouvir troca a ordem."
+     },
+     {
+      "minutos": 12,
+      "titulo": "Pintar o que rima",
+      "comoFazer": "Cada par de palavras que rima recebe uma cor. O padrão aparece na página, e o aluno descobre o esquema sem que ninguém o nomeie primeiro."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Onde a linha termina",
+      "comoFazer": "Compare o mesmo texto escrito em prosa e em versos. Ler os dois em voz alta mostra que a quebra da linha manda na respiração — o verso não é um enfeite de formatação."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Declamar",
+      "comoFazer": "Cada aluno escolhe um poema e declama para um colega, com a marcação de pausa que ele mesmo fez. Declamar para um só reduz a exposição sem tirar a tarefa."
+     }
+    ],
+    "comoAvaliar": "Peça a marcação das rimas de um poema novo e a leitura em voz alta. Ler ignorando as quebras de verso indica que a divisão ainda é vista como formatação.",
+    "errosComuns": [
+     "Achar que todo poema rima, e não reconhecer como poema o que não rima.",
+     "Ler em voz alta emendando os versos, como se fosse prosa impressa em coluna estreita.",
+     "Procurar a rima só no fim das palavras escritas, ignorando que ela é um fato de som — 'cidade' e 'idade' rimam, 'cidade' e 'grande' não."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — Olimpíada de Língua Portuguesa: material e metodologia por gênero, em parceria com MEC e Itaú Social",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "CENPEC — Biblioteca: conteúdos para a prática pedagógica",
+     "url": "https://www.cenpec.org.br/biblioteca/"
+    },
+    {
+     "label": "CEALE / UFMG — Glossário Ceale",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    }
+   ],
+   "sinaisDispensados": {
+    "representacao-visual": "\"esquema de rimas\" é padrão sonoro, não figura — a informação do poema não está em forma espacial"
+   }
+  },
+  {
+   "id": "portugues-coesao-retomar-sem-repetir",
+   "etapa": "EF1",
+   "ano": "5º ano",
+   "titulo": "Retomar sem repetir: pronomes e substituições no próprio texto",
+   "descricao": "O aluno usa pronomes e sinônimos para evitar repetição ao escrever, mantendo claro a quem cada retomada se refere.",
+   "bncc": [
+    "EF05LP27",
+    "EF35LP08"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno reescreve um parágrafo repetitivo usando três retomadas diferentes e diz a que cada uma se refere.",
+    "duracao": 50,
+    "materiais": [
+     "Parágrafo curto com repetição proposital, impresso",
+     "Setas de papel ou post-its"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Ouvir a repetição",
+      "comoFazer": "Leia em voz alta um parágrafo que repete o mesmo substantivo cinco vezes. A turma percebe o incômodo antes de existir a palavra 'coesão'."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Trocar e conferir",
+      "comoFazer": "Substitua uma ocorrência por 'ela'. Depois pergunte: ela quem? Toda troca vem com essa pergunta, porque é a pergunta que o leitor faz."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Desenhar a seta",
+      "comoFazer": "Cada pronome recebe uma seta apontando para o que retoma. Quando duas setas apontam para lugares diferentes na mesma frase, achamos a ambiguidade."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar demais também quebra",
+      "comoFazer": "Mostre um texto em que tudo virou pronome e ninguém entende quem faz o quê. Retomar é equilíbrio, não regra de nunca repetir."
+     }
+    ],
+    "comoAvaliar": "Dê um texto do próprio aluno e peça as setas. Não conseguir apontar o referente de um pronome que ele mesmo escreveu é o achado mais útil desta aula.",
+    "errosComuns": [
+     "Trocar por pronome sem verificar se há mais de um candidato a referente, criando ambiguidade.",
+     "Substituir por sinônimo que muda o sentido — 'casa' por 'lar' num texto sobre imóveis.",
+     "Aprender a regra como 'nunca repetir palavra', e produzir texto artificial cheio de perífrases."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CEALE / UFMG — Glossário Ceale: termos de alfabetização, leitura e escrita",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    },
+    {
+     "label": "IES / WWC — Teaching Elementary School Students to Be Effective Writers",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/17"
+    }
+   ]
+  },
+  {
+   "id": "portugues-coesao-referencial-nome-e-pronome",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Coesão referencial: nome e pronome amarrando o texto",
+   "descricao": "O aluno usa recursos de coesão referencial ao produzir texto e identifica a cadeia de retomadas de um texto lido.",
+   "bncc": [
+    "EF06LP12",
+    "EF67LP36"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno marca a cadeia referencial de uma notícia e reescreve um trecho corrigindo uma retomada ambígua.",
+    "duracao": 50,
+    "materiais": [
+     "Notícia curta impressa",
+     "Marcadores de duas cores"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Uma cor por personagem",
+      "comoFazer": "Numa notícia com duas pessoas, cada uma recebe uma cor. Marque todas as formas de citá-las: nome, cargo, pronome, 'o suspeito'. A cadeia fica visível."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Por que o jornal troca de nome",
+      "comoFazer": "Discuta por que o texto diz 'a prefeita' numa linha e 'ela' na outra. A retomada não é só para não repetir: ela acrescenta informação e ponto de vista."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Achar o defeito",
+      "comoFazer": "Entregue um parágrafo com retomada ambígua e peça a correção. Corrigir é mais revelador que produzir do zero, porque expõe o critério."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Aplicar no próprio texto",
+      "comoFazer": "Cada aluno pega um parágrafo que escreveu antes e marca a cadeia. É onde a aula deixa de ser sobre a notícia dos outros."
+     }
+    ],
+    "comoAvaliar": "Peça a cadeia referencial de um texto novo e a justificativa de uma das trocas. Marcar corretamente sem saber dizer por que o autor trocou indica identificação mecânica.",
+    "errosComuns": [
+     "Considerar coesão apenas o uso de pronomes, ignorando as retomadas por nome ('o animal', 'a espécie').",
+     "Não perceber que uma retomada por nome pode carregar julgamento — 'o criminoso' antes do julgamento.",
+     "Marcar a cadeia certa no texto dos outros e não conseguir fazê-lo no próprio."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — material e metodologia da Olimpíada de Língua Portuguesa",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "CEALE / UFMG — Glossário Ceale",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ]
+  },
+  {
+   "id": "portugues-substituicao-lexical",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Substituição lexical: sinônimos, hiperônimos e o que muda no sentido",
+   "descricao": "O aluno reconhece substituições lexicais como recurso de coesão e avalia o efeito de sentido de cada escolha.",
+   "bncc": [
+    "EF07LP12",
+    "EF07LP13"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno lista três substituições possíveis para um termo e explica o que cada uma acrescenta.",
+    "duracao": 50,
+    "materiais": [
+     "Texto de divulgação científica curto",
+     "Dicionário ou acesso a dicionário on-line"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Do específico ao geral",
+      "comoFazer": "Parta de 'jacaré' e suba: réptil, animal, ser vivo. Cada degrau é uma retomada possível, e cada um perde precisão de propósito."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Sinônimo não é igual",
+      "comoFazer": "Compare 'morrer', 'falecer' e 'partir' no mesmo parágrafo. A troca muda registro e emoção — sinônimo perfeito quase não existe."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Caçar substituições no texto",
+      "comoFazer": "No texto de divulgação, liste todas as formas usadas para o mesmo referente. Textos científicos usam muito hiperônimo, e isso se vê contando."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escolher com critério",
+      "comoFazer": "Peça a reescrita de um parágrafo com substituições que mantenham a precisão. Aqui a escolha passa a ter justificativa."
+     }
+    ],
+    "comoAvaliar": "Dê um termo técnico e peça três retomadas com o efeito de cada uma. Listar sinônimos sem comentar o efeito indica troca mecânica.",
+    "errosComuns": [
+     "Tratar sinônimos como intercambiáveis, o que produz erro de registro em texto formal.",
+     "Subir demais na generalização e perder o referente — 'o ser vivo' num texto sobre uma espécie específica.",
+     "Buscar sinônimo no dicionário sem checar se ele cabe naquele contexto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CEALE / UFMG — Glossário Ceale",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    },
+    {
+     "label": "IES / WWC — guia prático de escrita para os anos finais",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/28"
+    }
+   ]
+  },
+  {
+   "id": "portugues-coesao-sequencial-conectivos",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Conectivos: o que muda quando se troca \"mas\" por \"portanto\"",
+   "descricao": "O aluno infere efeitos de sentido dos recursos de coesão sequencial e os emprega ao produzir texto.",
+   "bncc": [
+    "EF08LP13",
+    "EF08LP14"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno liga duas orações com três conectivos diferentes e explica a mudança de sentido de cada um.",
+    "duracao": 50,
+    "materiais": [
+     "Tiras de papel com orações soltas",
+     "Cartões com conectivos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Duas frases, muitas relações",
+      "comoFazer": "Com 'choveu' e 'o jogo aconteceu', teste 'e', 'mas', 'porque', 'portanto'. O par de frases não muda; a relação entre elas, sim."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nomear o que já se percebeu",
+      "comoFazer": "Só agora entram os nomes: oposição, causa, conclusão. A classificação chega depois do efeito percebido, e não antes."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O conectivo errado mente",
+      "comoFazer": "Mostre um trecho em que 'portanto' liga coisas sem relação de causa. O texto fica gramatical e falso — é o argumento que quebra, não a frase."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Revisar o próprio parágrafo",
+      "comoFazer": "Cada aluno circula os conectivos de um texto seu e confere se a relação anunciada é a que existe."
+     }
+    ],
+    "comoAvaliar": "Dê um par de orações e peça três ligações com o sentido de cada uma. Usar sempre 'e' e 'aí' indica repertório restrito, que é o alvo desta aula.",
+    "errosComuns": [
+     "Usar 'portanto' e 'assim' como enfeite de início de frase, sem relação de conclusão.",
+     "Empilhar conectivos ('mas porém contudo') achando que reforçam.",
+     "Aprender a lista de classificação sem conseguir usá-la ao escrever."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — guia prático de escrita para os anos finais",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/28"
+    },
+    {
+     "label": "WWC — resumo do guia de escrita (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/practiceguide/wwc_writingpg_summary_092314.pdf"
+    },
+    {
+     "label": "CEALE / UFMG — Glossário Ceale",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    }
+   ]
+  },
+  {
+   "id": "portugues-defesa-de-ponto-de-vista",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Defender um ponto de vista com argumento, e não com opinião repetida",
+   "descricao": "O aluno produz um texto que defende uma posição, distinguindo tese, argumento e exemplo.",
+   "bncc": [
+    "EF08LP03"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escreve um parágrafo com tese explícita, um argumento e um exemplo, e sabe apontar cada parte.",
+    "duracao": 50,
+    "materiais": [
+     "Duas cartas de leitor sobre o mesmo assunto",
+     "Folha com três caixas: tese, argumento, exemplo"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Separar as três coisas",
+      "comoFazer": "Nas cartas impressas, sublinhe a tese de uma cor, o argumento de outra e o exemplo de uma terceira. A distinção fica concreta antes de virar exigência."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Repetir não é argumentar",
+      "comoFazer": "Mostre um parágrafo que diz a mesma coisa três vezes com palavras diferentes. Peça que encontrem o argumento — não há, e é essa a descoberta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Escrever nas três caixas",
+      "comoFazer": "Cada aluno preenche as caixas antes de redigir. Escrever direto é o que produz o parágrafo circular; a caixa vazia mostra o que falta."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar com o colega",
+      "comoFazer": "O colega tenta identificar as três partes no texto do outro. Se não achar, o autor descobre onde não foi explícito."
+     }
+    ],
+    "comoAvaliar": "Peça o parágrafo e a identificação das três partes pelo próprio autor. Não conseguir apontar o argumento é o resultado mais comum, e é acionável.",
+    "errosComuns": [
+     "Confundir exemplo com argumento — o caso ilustra, mas não sustenta sozinho.",
+     "Escrever a tese só no fim, deixando o leitor sem saber o que está sendo defendido.",
+     "Trocar argumento por intensidade ('é absurdo', 'todo mundo sabe')."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — Olimpíada de Língua Portuguesa: sequência didática por gênero",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "IES / WWC — guia prático de escrita para os anos finais",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/28"
+    }
+   ]
+  },
+  {
+   "id": "portugues-cronica",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Crônica: transformar o cotidiano em texto",
+   "descricao": "O aluno cria uma crônica a partir de uma cena comum, usando os recursos do gênero — o narrador próximo, o detalhe pequeno e o fecho que reenquadra.",
+   "bncc": [
+    "EF89LP35"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escreve uma crônica de trinta linhas a partir de uma cena observada por ele mesmo.",
+    "duracao": 50,
+    "materiais": [
+     "Três crônicas curtas de autores diferentes",
+     "Caderno de anotações de campo"
+    ],
+    "etapas": [
+     {
+      "minutos": 15,
+      "titulo": "Ler três, comparar",
+      "comoFazer": "As três crônicas partem de cenas banais. Peça que apontem, em cada uma, qual foi a cena e em que momento o texto vira outra coisa."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Caçar a cena",
+      "comoFazer": "Cada aluno anota três cenas vistas na semana, em uma linha cada. Sem cena própria, a crônica vira redação sobre um tema."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Escrever o começo e o fim",
+      "comoFazer": "Só a primeira e a última frase, nesta etapa. O fecho é o que define a crônica, e escrevê-lo cedo evita o texto que não chega a lugar nenhum."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Encher o meio",
+      "comoFazer": "Com as duas pontas prontas, o meio é o percurso entre elas. É a ordem inversa da redação escolar, e é a que o gênero pede."
+     }
+    ],
+    "comoAvaliar": "A crônica precisa ter uma cena concreta identificável e um fecho que mude a leitura do começo. Texto que só narra o fato ficou em relato.",
+    "errosComuns": [
+     "Escolher tema em vez de cena — 'a violência' não é crônica, o ônibus da terça-feira é.",
+     "Terminar com moral explícita, transformando crônica em fábula.",
+     "Achar que crônica precisa ser engraçada."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — Olimpíada de Língua Portuguesa: o gênero crônica é o do 9º ano e da 1ª série",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "CENPEC — textos finalistas da Olimpíada de Língua Portuguesa, escritos por estudantes",
+     "url": "https://www.cenpec.org.br/pesquisa/textos-finalistas-olimpiada-de-lingua-portuguesa/"
+    },
+    {
+     "label": "SciELO — o desenvolvimento de multiletramentos na Olimpíada de Língua Portuguesa",
+     "url": "https://www.scielo.br/j/ld/a/WsX5ntgGjMGwtZZgVhBjV6G/?lang=pt"
+    }
+   ]
+  },
+  {
+   "id": "portugues-progressao-tematica",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Progressão temática: como um texto avança sem se perder",
+   "descricao": "O aluno usa retomadas anafóricas e progressão temática para encadear parágrafos, e reconhece quando um texto anda em círculo.",
+   "bncc": [
+    "EF89LP29",
+    "EF09LP11"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno resume cada parágrafo de um texto em uma frase e diz o que cada um acrescenta ao anterior.",
+    "duracao": 50,
+    "materiais": [
+     "Artigo de divulgação de quatro parágrafos",
+     "Tiras de papel para os resumos"
+    ],
+    "etapas": [
+     {
+      "minutos": 15,
+      "titulo": "Uma frase por parágrafo",
+      "comoFazer": "Resuma cada parágrafo numa tira. As quatro tiras lado a lado mostram o percurso do texto — ou mostram que ele repete."
+     },
+     {
+      "minutos": 12,
+      "titulo": "O que entra de novo",
+      "comoFazer": "Em cada tira, sublinhe a informação que não estava na anterior. Parágrafo sem sublinhado é parágrafo que não avançou."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Embaralhar",
+      "comoFazer": "Troque a ordem dos parágrafos e peça a reconstrução. As pistas para reordenar são justamente as retomadas — 'esse processo', 'por isso'."
+     },
+     {
+      "minutos": 10,
+      "titulo": "No próprio texto",
+      "comoFazer": "Cada aluno faz as tiras do texto que escreveu. Texto escolar que anda em círculo aparece aqui, e o autor vê sozinho."
+     }
+    ],
+    "comoAvaliar": "Peça as tiras de um texto do aluno. Dois parágrafos com o mesmo resumo é o diagnóstico, e é ele que orienta a reescrita.",
+    "errosComuns": [
+     "Trocar de assunto sem retomada, deixando um salto que o leitor não acompanha.",
+     "Repetir a mesma ideia com outras palavras e achar que o texto avançou.",
+     "Usar 'esse' e 'isso' sem que haja um referente claro no parágrafo anterior."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — guia prático de escrita para os anos finais",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/28"
+    },
+    {
+     "label": "CEALE / UFMG — Glossário Ceale",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    }
+   ]
+  },
+  {
+   "id": "portugues-colocacao-pronominal",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Colocação pronominal: a norma e o português que se fala",
+   "descricao": "O aluno compara as regras de colocação pronominal com o uso corrente no português brasileiro, sem tratar a fala como erro.",
+   "bncc": [
+    "EF09LP10"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno reescreve frases na norma padrão e explica por que a forma falada não é erro, e sim outro registro.",
+    "duracao": 50,
+    "materiais": [
+     "Frases coletadas da fala real dos alunos",
+     "Trecho de texto formal (lei, edital)"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Coletar a fala",
+      "comoFazer": "Anote como a turma realmente diz: 'me empresta', 'te falei'. Sem julgamento — o dado é o ponto de partida, e é dela que a comparação parte."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ver a norma no texto formal",
+      "comoFazer": "No edital ou na lei, ache os pronomes. A ênclise aparece onde ninguém fala assim, e isso mostra que a norma é de um registro, não da língua inteira."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Converter nos dois sentidos",
+      "comoFazer": "Passe a frase falada para a norma e a frase da lei para a fala. Traduzir nos dois sentidos impede a leitura de que um lado é certo e o outro errado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escolher pelo contexto",
+      "comoFazer": "Dê três situações — mensagem para amigo, redação, requerimento — e peça a forma adequada a cada uma. A competência é escolher, não obedecer."
+     }
+    ],
+    "comoAvaliar": "Peça a mesma frase em dois registros com a justificativa da escolha. Converter certo e chamar a fala de errada indica que a aula virou correção.",
+    "errosComuns": [
+     "Tratar a próclise brasileira como erro, o que ensina o aluno a ter vergonha da própria fala.",
+     "Decorar as regras de atração sem nunca aplicá-las na escrita.",
+     "Usar ênclise em texto informal por achar que é sempre mais correto, produzindo texto artificial."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CEALE / UFMG — Glossário Ceale: variação linguística e norma",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ]
+  },
+  {
+   "id": "portugues-debate-questoes-polemicas",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Debate regrado: sustentar posição e reconhecer o argumento do outro",
+   "descricao": "O aluno participa de um debate sobre questão polêmica, registrando os argumentos alheios antes de responder.",
+   "bncc": [
+    "EM13LGG303"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno enuncia o argumento mais forte do lado contrário antes de apresentar o seu.",
+    "duracao": 50,
+    "materiais": [
+     "Dois textos com posições opostas sobre o mesmo tema",
+     "Ficha de registro de argumentos",
+     "Cronômetro"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler os dois lados",
+      "comoFazer": "Cada aluno lê os dois textos, não só o do seu lado. Debater tendo lido apenas a própria posição é o que produz o debate que não se encontra."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Sortear o lado",
+      "comoFazer": "O lado é sorteado, não escolhido. Defender a posição que não é a sua é o que separa argumentar de brigar."
+     },
+     {
+      "minutos": 18,
+      "titulo": "Rodada com registro",
+      "comoFazer": "Cada fala tem dois minutos, e quem vai falar precisa antes dizer o argumento anterior em uma frase. Sem isso, não há debate — há dois monólogos."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que mudou",
+      "comoFazer": "Cada aluno escreve uma linha sobre o argumento contrário mais difícil de responder. Reconhecer isso é resultado, não derrota."
+     }
+    ],
+    "comoAvaliar": "A ficha de registro mostra se o aluno ouviu. Ficha vazia com boa fala indica discurso preparado, não debate.",
+    "errosComuns": [
+     "Preparar a fala inteira antes e não ajustar nada ao que foi dito.",
+     "Atacar a pessoa em vez do argumento quando o argumento é difícil.",
+     "Confundir volume e convicção com força argumentativa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — Olimpíada de Língua Portuguesa e ensino por gêneros",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "BNCC — Ensino Médio (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"
+    }
+   ]
+  },
+  {
+   "id": "portugues-artigo-de-opiniao",
+   "etapa": "EM",
+   "ano": "2ª e 3ª séries",
+   "titulo": "Artigo de opinião sobre tema de interesse público",
+   "descricao": "O aluno produz e socializa um artigo de opinião sobre um acontecimento relevante, com tese sustentada e interlocutor definido.",
+   "bncc": [
+    "EM13LP44"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega um artigo de opinião com tese, dois argumentos sustentados em dado verificável e um interlocutor declarado.",
+    "duracao": 50,
+    "materiais": [
+     "Três artigos de opinião de veículos diferentes",
+     "Acesso a fonte de dados pública"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Quem é o leitor",
+      "comoFazer": "Nos três artigos, identifique para quem cada um foi escrito. O mesmo tema muda de forma conforme o leitor, e essa é a primeira decisão do gênero."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Onde está o dado",
+      "comoFazer": "Sublinhe em cada artigo o que é dado verificável e o que é apreciação. Artigo sem nenhum dado é possível — e frágil, e o aluno vê isso comparando."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Montar o esqueleto",
+      "comoFazer": "Tese em uma frase, dois argumentos em uma frase cada, e a fonte de cada dado. Só depois se escreve, e é isso que impede o texto de virar desabafo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Contra-argumento obrigatório",
+      "comoFazer": "Cada artigo precisa reconhecer uma objeção real e responder a ela. É o que separa o artigo de opinião do manifesto."
+     }
+    ],
+    "comoAvaliar": "O artigo precisa ter interlocutor declarado, dado com fonte e uma objeção respondida. Texto que só afirma com veemência não cumpre o gênero.",
+    "errosComuns": [
+     "Escrever para 'a sociedade' em geral, e por isso não escolher nem vocabulário nem exemplo.",
+     "Usar dado sem fonte, ou fonte que não sustenta o que o texto afirma.",
+     "Tratar o contra-argumento como concessão retórica, sem responder de fato."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — Olimpíada de Língua Portuguesa: artigo de opinião é o gênero da 2ª e 3ª séries",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "CENPEC — textos finalistas escritos por estudantes",
+     "url": "https://www.cenpec.org.br/pesquisa/textos-finalistas-olimpiada-de-lingua-portuguesa/"
+    },
+    {
+     "label": "IES / WWC — guia prático de escrita para os anos finais",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/28"
+    }
+   ]
+  }
+ ]
+}

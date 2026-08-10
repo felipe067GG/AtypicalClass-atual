@@ -1,0 +1,753 @@
+{
+ "materia": "Literatura",
+ "conteudos": [
+  {
+   "id": "literatura-valores-no-texto",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Inferir os valores que um texto carrega sem dizer",
+   "descricao": "O aluno infere a presença de valores sociais e visões de mundo em obras literárias, distinguindo o que a obra afirma do que ela pressupõe.",
+   "bncc": [
+    "EF69LP44"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno aponta um valor que o texto pressupõe sem enunciar, e a passagem que o revela.",
+    "duracao": 50,
+    "materiais": [
+     "Conto curto de época distante",
+     "Ficha de leitura"
+    ],
+    "etapas": [
+     {
+      "minutos": 15,
+      "titulo": "Ler sem enquadrar",
+      "comoFazer": "Leitura integral do conto, sem apresentação de contexto. A primeira impressão importa e será revista."
+     },
+     {
+      "minutos": 12,
+      "titulo": "O que o texto acha óbvio",
+      "comoFazer": "Liste o que a narrativa trata como natural e não explica. O pressuposto é o que não precisa ser dito, e por isso passa despercebido."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Achar a passagem",
+      "comoFazer": "Cada valor listado precisa de uma linha do texto que o sustente. Sem a passagem, é projeção do leitor."
+     },
+     {
+      "minutos": 10,
+      "titulo": "E hoje",
+      "comoFazer": "Que pressupostos um texto nosso teria, lido daqui a cem anos? A pergunta desloca o julgamento fácil do passado."
+     }
+    ],
+    "comoAvaliar": "O par valor-passagem. Valor sem passagem indica leitura projetada; passagem sem valor, leitura literal.",
+    "errosComuns": [
+     "Julgar a obra pelos valores de hoje sem reconstruir os da época.",
+     "Confundir o que o narrador diz com o que o autor defende.",
+     "Achar que literatura de época distante não fala do presente."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC) — biblioteca digital com obras literárias integrais",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "Alea: Estudos Neolatinos — periódico de literatura, acesso aberto",
+     "url": "https://www.scielo.br/j/alea/"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-narrador-e-ponto-de-vista",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Quem conta a história muda a história",
+   "descricao": "O aluno analisa as formas de composição de narrativas ficcionais, com atenção ao foco narrativo e ao que ele permite ver.",
+   "bncc": [
+    "EF69LP47"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno reescreve um trecho trocando o narrador e aponta o que se ganha e o que se perde.",
+    "duracao": 50,
+    "materiais": [
+     "Trecho narrativo em primeira pessoa",
+     "Folha para reescrita"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Quem está contando",
+      "comoFazer": "No trecho, identifique quem narra e o que essa posição permite saber. Narrador não é o autor, e essa separação é o começo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que ele não pode saber",
+      "comoFazer": "Liste informações que o narrador não teria acesso. O limite do foco é o que dá forma à narrativa."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Trocar o narrador",
+      "comoFazer": "Reescreva o trecho em terceira pessoa onisciente. O mesmo enredo muda de efeito, e a mudança é sentida ao escrever."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Comparar as versões",
+      "comoFazer": "Em duplas, leia as duas em voz alta e nomeie o que cada uma entrega ao leitor."
+     }
+    ],
+    "comoAvaliar": "A reescrita mais a análise do ganho e da perda. Reescrita correta sem análise não cumpre o objetivo.",
+    "errosComuns": [
+     "Confundir narrador com autor.",
+     "Trocar o narrador e manter informações que o novo foco não alcançaria.",
+     "Achar que a terceira pessoa é sempre mais neutra."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-poema-recursos-sonoros",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "O som que produz sentido no poema",
+   "descricao": "O aluno interpreta, em poemas, os efeitos de sentido decorrentes de recursos expressivos sonoros.",
+   "bncc": [
+    "EF69LP48"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno associa um recurso sonoro do poema a um efeito de sentido, com a passagem que o comprova.",
+    "duracao": 50,
+    "materiais": [
+     "Dois poemas com sonoridades contrastantes",
+     "Gravador do celular"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler os dois em voz alta",
+      "comoFazer": "Um poema de consoantes duras e outro de vogais abertas. A diferença se ouve antes de se explicar."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Marcar a repetição",
+      "comoFazer": "Circule os sons que voltam. Aliteração e assonância deixam de ser nomes e passam a ser marcas na página."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Ligar som e sentido",
+      "comoFazer": "O que o som sugere no assunto do poema? A ligação precisa ser argumentada, e nem sempre existe — dizer isso também é honesto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Gravar a leitura",
+      "comoFazer": "Cada aluno grava sua leitura e ouve. Ouvir a própria leitura muda a próxima."
+     }
+    ],
+    "comoAvaliar": "O par recurso-efeito com a passagem. Nomear o recurso sem efeito é classificação vazia.",
+    "errosComuns": [
+     "Nomear aliteração sem dizer o que ela faz no poema.",
+     "Forçar sentido em toda repetição sonora.",
+     "Ler poema em voz alta como se fosse prosa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-compartilhar-leitura",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Recomendar um livro: a resenha que convence",
+   "descricao": "O aluno participa de práticas de compartilhamento de leitura e produz textos que apresentam obras a outros leitores.",
+   "bncc": [
+    "EF69LP46",
+    "EF69LP45"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno escreve uma recomendação de 120 palavras que não conta o final e diz para quem o livro serve.",
+    "duracao": 50,
+    "materiais": [
+     "Quartas-capas de vários livros",
+     "Livros lidos pela turma"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler quartas-capas",
+      "comoFazer": "O gênero tem regras: instiga sem entregar. Ler cinco delas revela o padrão sem que ele precise ser ditado."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Para quem serve",
+      "comoFazer": "Definir o leitor-alvo muda o texto inteiro. Recomendação sem destinatário vira resumo."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Escrever sem entregar",
+      "comoFazer": "120 palavras, sem spoiler. O limite obriga a escolher o que importa."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mural de recomendações",
+      "comoFazer": "As recomendações vão para um mural e a turma escolhe a próxima leitura por elas."
+     }
+    ],
+    "comoAvaliar": "A recomendação com destinatário definido e sem final entregue. Resumo de enredo não cumpre o gênero.",
+    "errosComuns": [
+     "Contar o final achando que assim convence.",
+     "Escrever 'é muito bom' sem dizer por quê e para quem.",
+     "Copiar a sinopse da editora."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "CENPEC — práticas de leitura e escrita por gênero",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-repertorio-e-escolha",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "Montar um repertório próprio de leitura",
+   "descricao": "O aluno seleciona obras do repertório artístico-literário contemporâneo e justifica as escolhas que compõem seu percurso de leitor.",
+   "bncc": [
+    "EM13LP50"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno monta uma lista de cinco obras com o critério de cada escolha declarado.",
+    "duracao": 50,
+    "materiais": [
+     "Catálogo de biblioteca ou acervo digital",
+     "Ficha de percurso"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que já leu e gostou",
+      "comoFazer": "Começar pelo que existe. Repertório se constrói a partir do que já há, e não do que deveria haver."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nomear o critério",
+      "comoFazer": "Tema, época, autoria, forma. Nomear o critério é o que transforma gosto em escolha."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Buscar no acervo",
+      "comoFazer": "Com o critério em mãos, procurar obras que o atendam. Aqui o acervo digital público entra como ferramenta."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Incluir um deslocamento",
+      "comoFazer": "Uma das cinco precisa contrariar o critério. Repertório que só confirma o gosto não amplia nada."
+     }
+    ],
+    "comoAvaliar": "A lista com critérios declarados e o item de deslocamento. Cinco obras do mesmo tipo indicam que o deslocamento não foi feito.",
+    "errosComuns": [
+     "Listar obras que nunca se pretendeu ler.",
+     "Confundir repertório com lista de vestibular.",
+     "Escolher só o que confirma o que já se pensa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    },
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-generos-literarios",
+   "etapa": "EM",
+   "ano": "1ª série",
+   "titulo": "O que distingue um gênero literário de outro",
+   "descricao": "O aluno percebe as peculiaridades estruturais e estilísticas de diferentes gêneros literários.",
+   "bncc": [
+    "EM13LP48"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica o gênero de três textos desconhecidos e nomeia as marcas que usou.",
+    "duracao": 50,
+    "materiais": [
+     "Trechos de conto, crônica, poema em prosa e romance",
+     "Quadro de marcas"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Classificar sem saber",
+      "comoFazer": "Entregue os trechos sem identificação. A classificação intuitiva vem primeiro, e ela costuma acertar mais do que a turma espera."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Nomear as marcas",
+      "comoFazer": "O que fez a turma decidir? Extensão, densidade temporal, presença de narrador. As marcas saem da prática."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Os casos de fronteira",
+      "comoFazer": "Poema em prosa e crônica narrativa. Gêneros não são caixas estanques, e os limites ensinam mais que os centros."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Testar com texto novo",
+      "comoFazer": "Um quarto trecho, agora com o quadro de marcas construído pela turma."
+     }
+    ],
+    "comoAvaliar": "A classificação com as marcas nomeadas. Acertar sem nomear a marca não permite transferir para o próximo texto.",
+    "errosComuns": [
+     "Classificar por tamanho apenas.",
+     "Achar que gênero literário é uma regra a obedecer, e não uma convenção histórica.",
+     "Ignorar que muitas obras existem justamente para romper o gênero."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    },
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-intertextualidade",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Uma obra que responde a outra: relações intertextuais",
+   "descricao": "O aluno analisa relações intertextuais e interdiscursivas entre obras de diferentes autores e épocas.",
+   "bncc": [
+    "EM13LP49"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno explica como uma obra dialoga com outra e o que o diálogo acrescenta a cada uma.",
+    "duracao": 50,
+    "materiais": [
+     "Um poema clássico e uma paródia ou releitura moderna",
+     "Ficha de comparação"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler a segunda primeiro",
+      "comoFazer": "Comece pela releitura. Ler sem conhecer o original mostra o que se perde sem a referência."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ler o original",
+      "comoFazer": "Agora o texto de partida. A releitura muda de sentido retroativamente, e a turma sente isso."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Marcar o que retorna",
+      "comoFazer": "Verso, estrutura, imagem. O que volta e o que foi trocado é onde o sentido novo se instala."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Escrever a análise",
+      "comoFazer": "Um parágrafo sobre o que o diálogo acrescenta às duas obras, e não só à segunda."
+     }
+    ],
+    "comoAvaliar": "O parágrafo de análise. Dizer apenas que 'a segunda copia a primeira' indica que a intertextualidade foi lida como plágio.",
+    "errosComuns": [
+     "Confundir intertextualidade com cópia.",
+     "Achar que a obra derivada é sempre inferior.",
+     "Analisar a releitura sem ler o original."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    },
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-constituicao-da-literatura-brasileira",
+   "etapa": "EM",
+   "ano": "2ª série",
+   "titulo": "Assimilações e rupturas na formação da literatura brasileira",
+   "descricao": "O aluno analisa continuidades e rupturas no processo de constituição da literatura brasileira.",
+   "bncc": [
+    "EM13LP47"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno localiza duas obras numa linha do tempo e explica o que a segunda rompeu em relação à primeira.",
+    "duracao": 50,
+    "materiais": [
+     "Trechos de dois momentos distintos",
+     "Linha do tempo em branco"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Ler os dois trechos",
+      "comoFazer": "Sem data e sem nome de escola literária. A diferença de linguagem se percebe antes do rótulo."
+     },
+     {
+      "minutos": 13,
+      "titulo": "O que mudou na língua",
+      "comoFazer": "Vocabulário, sintaxe, tema. A ruptura aparece no texto, e não na definição de movimento."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Situar na linha",
+      "comoFazer": "Agora entram datas e contexto. O rótulo chega para organizar o que já foi observado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "O que permaneceu",
+      "comoFazer": "Ruptura total não existe. Identificar a continuidade evita a história literária feita só de saltos."
+     }
+    ],
+    "comoAvaliar": "A explicação da ruptura apoiada nos trechos. Citar o nome do movimento sem marca textual é memorização.",
+    "errosComuns": [
+     "Decorar escolas literárias como listas de características.",
+     "Achar que cada movimento nega inteiramente o anterior.",
+     "Tratar a literatura brasileira como cópia atrasada da europeia."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    },
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    },
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-obras-significativas",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Ler uma obra significativa por inteiro",
+   "descricao": "O aluno analisa obras significativas da literatura brasileira e de outros países, sustentando a leitura no texto integral.",
+   "bncc": [
+    "EM13LP51"
+   ],
+   "exigencias": [
+    "leitura-extensa",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno sustenta uma interpretação com três passagens da obra lida integralmente.",
+    "duracao": 50,
+    "materiais": [
+     "Obra integral escolhida",
+     "Fichas de passagem"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Trazer a passagem marcada",
+      "comoFazer": "A aula pressupõe a leitura feita. Cada aluno chega com três trechos marcados e o motivo de cada marca."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Ler em voz alta",
+      "comoFazer": "As passagens escolhidas são lidas. O texto volta ao centro, e não o resumo dele."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Construir a interpretação",
+      "comoFazer": "A interpretação nasce das passagens, e não de opinião prévia sobre a obra."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Confrontar leituras",
+      "comoFazer": "Duas interpretações divergentes sobre o mesmo trecho. Divergência com base textual é o objetivo, não um problema."
+     }
+    ],
+    "comoAvaliar": "A interpretação com as três passagens. Interpretação sem passagem é resumo de análise alheia.",
+    "errosComuns": [
+     "Substituir a leitura da obra por resumo ou vídeo.",
+     "Buscar a interpretação 'certa' em vez de sustentar a própria.",
+     "Citar trecho que não sustenta a afirmação feita."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC) — obras integrais em acesso livre",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-comentario-critico",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Produzir comentário crítico sobre uma obra",
+   "descricao": "O aluno produz apresentações e comentários apreciativos e críticos sobre obras literárias.",
+   "bncc": [
+    "EM13LP52"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega um comentário crítico com tese, evidência textual e uma ressalva.",
+    "duracao": 50,
+    "materiais": [
+     "Dois comentários críticos publicados",
+     "Obra lida pela turma"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "O que faz um comentário crítico",
+      "comoFazer": "Nos textos publicados, separe descrição, avaliação e evidência. O gênero fica visível na anatomia."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Formular a tese",
+      "comoFazer": "Uma frase que possa ser contestada. 'É um bom livro' não é tese."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Sustentar e ressalvar",
+      "comoFazer": "Duas evidências textuais e uma ressalva honesta. Crítica sem ressalva é propaganda."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar e contestar",
+      "comoFazer": "Um colega tenta refutar a tese com outra passagem da mesma obra."
+     }
+    ],
+    "comoAvaliar": "O comentário com tese contestável, evidência e ressalva. Elogio genérico não cumpre o gênero.",
+    "errosComuns": [
+     "Confundir crítica com opinião sobre gostar ou não.",
+     "Resumir o enredo no lugar de avaliar.",
+     "Omitir o que não funcionou por achar que crítica é ataque."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Alea: Estudos Neolatinos",
+     "url": "https://www.scielo.br/j/alea/"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-criacao-autoral",
+   "etapa": "EM",
+   "ano": "3ª série",
+   "titulo": "Criar obra autoral em gênero e mídia escolhidos",
+   "descricao": "O aluno cria obras autorais em diferentes gêneros e mídias, mediante seleção e apropriação de recursos.",
+   "bncc": [
+    "EM13LP53",
+    "EM13LP46"
+   ],
+   "exigencias": [
+    "producao-do-aluno",
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno entrega uma obra curta e declara de que autor ou obra tomou um recurso emprestado.",
+    "duracao": 50,
+    "materiais": [
+     "Repertório de obras lidas no ano",
+     "Materiais da mídia escolhida"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Escolher o recurso",
+      "comoFazer": "Antes do tema, escolha o procedimento: repetição, corte brusco, narrador não confiável. Criar a partir de um recurso evita a página em branco."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Escolher a mídia",
+      "comoFazer": "Papel, áudio, vídeo curto. A mídia muda o recurso disponível, e a escolha é parte da criação."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Produzir",
+      "comoFazer": "Obra curta, prazo curto. Extensão pequena permite terminar e revisar dentro da aula."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Sarau ou mostra",
+      "comoFazer": "Compartilhamento com a turma, no formato que a mídia pedir. Obra sem público é exercício."
+     }
+    ],
+    "comoAvaliar": "A obra mais a declaração do recurso emprestado. Declarar a influência é parte do trabalho, e não confissão de falta de originalidade.",
+    "errosComuns": [
+     "Começar pelo tema e travar na escolha.",
+     "Achar que originalidade significa não dever nada a ninguém.",
+     "Produzir para a mídia errada — texto longo em formato de vídeo curto."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "CENPEC — produção por gênero e compartilhamento",
+     "url": "https://www.cenpec.org.br/tag/olimpiada-de-lingua-portuguesa"
+    },
+    {
+     "label": "Academia Brasileira de Letras",
+     "url": "https://www.academia.org.br/"
+    }
+   ]
+  },
+  {
+   "id": "literatura-leitura-por-prazer",
+   "etapa": "EF2",
+   "ano": "6º ao 9º ano",
+   "titulo": "Tempo de leitura sem cobrança: construir o hábito",
+   "descricao": "O aluno se envolve com a leitura de obras literárias em prática regular e sem avaliação imediata.",
+   "bncc": [
+    "EF69LP49"
+   ],
+   "exigencias": [
+    "leitura-extensa"
+   ],
+   "plano": {
+    "objetivo": "Ao final do período, o aluno terminou ao menos uma obra escolhida por ele mesmo.",
+    "duracao": 50,
+    "materiais": [
+     "Acervo variado disponível na sala",
+     "Marcadores de página"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Escolher e poder trocar",
+      "comoFazer": "Cada aluno escolhe um livro e pode abandoná-lo em até três dias sem justificar. Abandono permitido é o que torna a escolha real."
+     },
+     {
+      "minutos": 25,
+      "titulo": "Ler em silêncio",
+      "comoFazer": "Tempo protegido, sem tarefa associada. O professor também lê — a leitura de quem ensina é parte do que se ensina."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Conversar em duplas",
+      "comoFazer": "Dois minutos sobre o que está lendo. Conversa curta, sem relatório."
+     },
+     {
+      "minutos": 5,
+      "titulo": "Registrar só a página",
+      "comoFazer": "Anote onde parou. O único registro é quantitativo, e por isso não pesa sobre a leitura."
+     }
+    ],
+    "comoAvaliar": "A obra terminada por escolha própria. Ficha de leitura obrigatória, neste conteúdo, é justamente o que se quer evitar.",
+    "errosComuns": [
+     "Transformar o tempo de leitura em atividade avaliada, o que desfaz o objetivo.",
+     "Impor a mesma obra a todos e chamar isso de escolha.",
+     "Usar o tempo de leitura como punição ou como preenchimento de aula vaga."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "Domínio Público (MEC)",
+     "url": "https://www.dominiopublico.gov.br/"
+    },
+    {
+     "label": "CEALE / UFMG — Glossário Ceale",
+     "url": "https://ceale.fae.ufmg.br/glossarioceale/apresentacao"
+    },
+    {
+     "label": "CENPEC — Biblioteca",
+     "url": "https://www.cenpec.org.br/biblioteca/"
+    }
+   ],
+   "sinaisDispensados": {
+    "producao-do-aluno": "o sinal casou dentro de \"sem relatório\" — este conteúdo existe para proteger a leitura de qualquer produção cobrada, e a heurística não enxerga negação"
+   }
+  }
+ ]
+}
