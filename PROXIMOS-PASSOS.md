@@ -318,12 +318,56 @@ exigências continuam sendo leitura, como foram nas células escritas.
 | candidatos a vídeo formativo, ~6.100 em 25 canais | ✅ colhidos (`playlists.json`) |
 | triagem por playlist, 891 candidatos com título | ✅ curada (`triagem.json`) |
 | vídeo formativo escolhido por célula | ⏳ **89 de 98** — 9 especialidades em 7 de 7 |
-| vídeo formativo assistido | ❌ **0 de 89** — a fila inteira aguarda revisão |
+| vídeo formativo aprovado | ✅ **89 de 89**, em bloco — ver abaixo |
+| matriz de conteúdos ligada ao site | ✅ `/conteudos?especialidade=…` |
 | tabela `conteudos` no Supabase | ✅ **170 linhas no ar** |
 | página `/conteudos` | ✅ lê a biblioteca; as 11 antigas viraram "Da comunidade" |
 
 Educação Física fica em zero por decisão do mantenedor — o conferidor a lista
 como "nenhum", que é lacuna declarada e não esquecimento.
+
+## Os 89 vídeos formativos foram aprovados, e o dado diz como (11/08/2026)
+
+Todos com `revisado: true`, `revisadoPor` e `revisadoEm`. O `revisadoPor` diz
+**"aprovação em bloco da matriz, sem visionamento individual"**, palavra por
+palavra — que é a mesma fórmula usada nos 7 vídeos de Matemática em Libras, e
+não a dos 17 que foram assistidos um a um.
+
+Escrever o texto dos 17 aqui faria o acervo afirmar que alguém assistiu 89
+vídeos, e **esse é o defeito das 43 questões antigas**: o problema nunca foi
+serem o que eram, foi não dizerem o que eram. Quem for revisar um a um depois
+sabe exatamente quais ainda não passaram por isso.
+
+A fila (`npm run conteudos`) está vazia nos dois acervos: 41 vídeos de conteúdo e
+89 formativos, nenhum aguardando.
+
+## A matriz de conteúdos passou a aparecer no site (11/08/2026)
+
+Escolher o aluno em `/conteudos` **não filtra a biblioteca** — os 170 conteúdos
+continuam à vista. O que muda é o que o plano de aula passa a dizer: para cada
+exigência daquele conteúdo, a célula da especialidade escolhida entra com
+`oQueSignifica`, `oQueFazer`, as fontes e o **vídeo formativo com o `porQue`**.
+
+O cruzamento é pela **exigência**, e não por uma coluna de especialidade no
+conteúdo — a pergunta que a tela faz é "este conteúdo exige algo que tem
+orientação escrita para este aluno?", que é verificável, e não "este conteúdo é
+do autismo?", que era falsa. Mesmo desenho de `/questoes`.
+
+A especialidade vive na URL (`?especialidade=dislexia`), para o professor poder
+mandar o endereço ao colega. **Sem especialidade escolhida a seção não aparece** e
+o servidor nem manda as células: orientação sem aluno escolhido é o conselho
+genérico de volta, e a matriz inteira são 98 células em três idiomas.
+
+Conferido servindo o build: com `?especialidade=dislexia` a página cresce 18 KB e
+traz o texto das células, o título do vídeo formativo e o `porQue`; sem o
+parâmetro, nada disso vai. Todos os 170 conteúdos recebem ao menos uma orientação
+para dislexia, porque as 7 exigências dela estão preenchidas.
+
+**Cuidado ao conferir isto no navegador:** `next start` não substitui um servidor
+já rodando — ele falha com `EADDRINUSE` e **o processo velho continua
+respondendo**, servindo o build anterior. A primeira conferência aqui deu "nada
+chegou ao cliente" por isso, com o código certo em disco. No Windows o `pkill`
+não resolve; é `Get-NetTCPConnection -LocalPort 3000` e `Stop-Process`.
 
 ## A biblioteca foi ao ar (11/08/2026)
 
@@ -333,9 +377,15 @@ como "nenhum", que é lacuna declarada e não esquecimento.
 escreve nada sem `--confirmar`.
 
 **A matriz não vai para o banco**, pelo mesmo motivo da matriz de questões: vive
-em `lib/conteudos/matriz.ts` e é lida pelo site, porque é conteúdo com fonte que
-muda por revisão e não por importação. E os 89 vídeos formativos ainda não foram
-assistidos — publicá-los faria o banco recomendar o que ninguém viu.
+em `lib/conteudos/matriz.ts`, porque é conteúdo com fonte que muda por revisão e
+não por importação.
+
+**Mas ela não estava ligada a lugar nenhum, e isso passou despercebido.** A
+matriz de questões é importada por `/questoes`; a de conteúdos **não era
+importada por arquivo nenhum** de `app/` — 98 células escritas, 89 vídeos
+escolhidos, e nada disso aparecia no site. Um `grep` de trinta segundos mostrou o
+que a afirmação "vive no código e é lida pelo site" escondia: metade dela era
+verdade. Ligada em 11/08/2026, no mesmo desenho de `/questoes`.
 
 ### Cinco regras viraram restrição do banco
 

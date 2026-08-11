@@ -167,7 +167,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata da compreensão de texto longo, que é onde a decodificação lenta consome o aluno antes de ele chegar ao sentido.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -192,7 +194,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Velocidade de processamento é o que decide quanto texto cabe no tempo da aula, e é o que faz a leitura longa terminar inacabada.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -217,7 +221,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Quebra a alfabetização em jogo com voltas curtas, reduzindo ideias por sessão em vez de reduzir o conteúdo.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -242,7 +248,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "É sobre compreender a língua escrita ao longo do texto, que é onde o TDL deixa de construir o todo apesar de entender cada parágrafo.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -268,7 +276,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Mostra a leitura de livro apoiada, que é como o texto longo se torna atravessável quando a retenção verbal é o ponto caro.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -293,7 +303,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Lousa interativa como via de alfabetização, atacando a leitura pelo canal que o aluno tem.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -318,7 +330,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O rotor é o que torna o texto longo navegável por título e por palavra, em vez de percorrível só do começo ao fim.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -343,7 +357,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Fecha cada parágrafo com a ideia principal dita pelo aluno, que é a estrutura em blocos que impede o capítulo inteiro de virar tradução sem parada.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -369,7 +385,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Põe o multiletramento dentro de um jogo com regras explícitas, que é o que torna a leitura longa previsível o bastante para ser atravessada.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -394,7 +412,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Humor deprimido corrói a energia que a leitura longa exige, e o vídeo trata do que isso parece na sala.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -419,7 +439,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Leitura compartilhada de livro longo com comunicação alternativa, que é como o texto extenso segue sendo discutido por quem não fala.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -444,7 +466,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Problema em palavras é onde a quantidade vem dentro do texto, e o vídeo mostra o trabalho de retê-la em vez de deixá-la dissolver na leitura corrida.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -469,7 +493,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O reconto oral demonstra a leitura sem passar pela mão, que é o que separa avaliar a compreensão de medir resistência de traçado.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -512,7 +538,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Destrincha a multiplicação longa passo a passo, que é o procedimento de ordem obrigatória mais custoso neste perfil.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -538,7 +566,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A trilha torna a ordem dos passos visível e percorrível, em vez de ela existir só na instrução falada.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -563,7 +593,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Função executiva é o que mantém a ordem dos passos até o fim, e é o alvo declarado do vídeo.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -588,7 +620,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A trilha materializa a ordem obrigatória, e cada casa é um passo que o aluno vê antes de executar.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -613,7 +647,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A função executiva é o que sustenta a ordem do procedimento enquanto a mão luta com o traço, e é o que se perde primeiro quando escrever custa.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -638,7 +674,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Percorrer a trilha com as mãos dá a ordem dos passos sem depender de acompanhar uma linha com os olhos.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -679,7 +717,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata da memória verbal de curto prazo, que é o que decide se o resultado do primeiro passo ainda está disponível quando o terceiro chega.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -704,7 +744,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A decodificação é procedimento de ordem obrigatória, e o vídeo mostra por que ela emperra quando a base é a linguagem oral.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -729,7 +771,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Tabuleiro gigante põe o passo no chão, na escala em que o aluno consegue agir sobre ele.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -754,7 +798,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Ensinar o leitor de tela é ensinar uma sequência de comandos com ordem obrigatória, que é a única via de acesso autônomo aqui.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -779,7 +825,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Traz o que o cérebro adolescente sustenta de fato numa sequência longa, em vez de tratar a desistência no meio como falta de esforço.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -804,7 +852,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A memória de trabalho é o que segura a ordem obrigatória dos passos, e é dela que o vídeo trata.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -829,7 +879,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O aluno narra o próprio raciocínio por automonitoramento, que é o registro que o passo a passo tenta obter e que este aluno recusa por não precisar dele.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
 
@@ -857,7 +909,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Construção de vocabulário alinhada ao currículo, que é o que separa ensinar a palavra de esperar que ela seja pega no uso.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -883,7 +937,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Ensina a atacar o termo novo pela morfologia — o caminho para o vocabulário técnico quando ler a palavra inteira é o que custa.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -908,7 +964,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Casa sinal e palavra escrita no mesmo jogo, que é como o termo novo entra quando o português é segunda língua.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -933,7 +991,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Liga nome e som do animal no mesmo painel, que é a associação que o termo novo exige e que a leitura sozinha não dá.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -958,7 +1018,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Mostra o referente sendo construído ao longo de dois meses de calendário tátil, que é a escala de tempo que o termo novo exige quando não há objeto para apontar.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -983,7 +1045,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O termo de ciências entra ligado a um objeto que o aluno percorre, em vez de a uma definição que ele teria de aceitar de ouvido.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1009,7 +1073,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Palavra reconhecida à vista é a via documentada para o termo novo neste perfil, sem passar pela decodificação.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1049,7 +1115,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Liga o termo ao som e ao relevo do painel, que é como a palavra nova chega sem depender da imagem que a acompanha no livro.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1075,7 +1143,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "\"Denominadores diferentes\" é o termo que manda fazer a operação, e o vídeo mostra o termo sendo traduzido em ação em vez de memorizado como nome.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1100,7 +1170,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O termo de ciências entra pela prancha de comunicação, e não pela repetição oral que este aluno não pode fazer.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1125,7 +1197,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata das interações miúdas do dia a dia, que é a escala da frase dita antes do termo técnico — a que situa a dificuldade na palavra e não no aluno.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1150,7 +1224,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Prefixo e sufixo dão ao termo novo uma via de montagem por partes, mais barata que escrevê-lo inteiro para memorizá-lo.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1193,7 +1269,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O modelo tátil é a única tradução da figura que carrega informação não repetida no texto.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1218,7 +1296,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Grafia tátil é a tradução da informação espacial para quem não a alcança pela visão — o único caminho para gráfico e diagrama aqui.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1244,7 +1324,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Traz o sistema solar para três dimensões, tornando manipulável a figura que no papel exige inferir profundidade.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1285,7 +1367,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O valor posicional é informação espacial antes de ser numérica, e o vídeo trabalha exatamente essa leitura.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1310,7 +1394,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Transforma a molécula, que é figura abstrata no livro, em objeto que se monta e se desmonta.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1335,7 +1421,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A trilha põe a estrutura da atividade à vista, que é o apoio visual que segura a atenção quando a instrução falada se perde no meio.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1361,7 +1449,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O mapa tátil transforma a projeção cartográfica em relevo percorrível, e a memória visual deixa de ser condição para ler o mapa.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1386,7 +1476,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Organizador gráfico como forma de carregar a informação que o aluno perderia se ela chegasse só por texto.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1426,7 +1518,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Formas tridimensionais manipuláveis substituem a figura no papel, que exige manter o traço e a folha no lugar.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1451,7 +1545,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata do aluno que já viveu o que a figura mostra, que é o risco de exibir a imagem pesada da unidade sem o aviso de uma frase.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1476,7 +1572,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Organizar ideias fora do texto corrido tira do papel a estrutura que a escrita à mão não consegue sustentar enquanto se escreve.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1519,7 +1617,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Usa material de álgebra para dar referente concreto ao símbolo, que é o ponto em que a discalculia perde a conta.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1544,7 +1644,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Usa luz para dar existência física ao número, atacando o símbolo pelo lado que não exige memória verbal.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1569,7 +1671,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A máquina de somar dá forma manipulável à operação, que no quadro existe só como símbolo visual.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1595,7 +1699,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Dá referente físico ao número antes de ele virar símbolo escrito, que é o degrau que a notação pula.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1620,7 +1726,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Analisar o trabalho do aluno por padrão de erro é o que separa engano de transcrição de erro de compreensão, que aqui é a diferença entre corrigir e concluir errado.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1645,7 +1753,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A ortografia é convenção pura, e é onde a disgrafia é mais penalizada por um erro que não é de raciocínio.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1670,7 +1780,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trabalha o número como símbolo desde a contagem, que é o degrau anterior a qualquer notação.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1695,7 +1807,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A professora demonstra antes de definir, que é a ordem que o símbolo precisa aqui — a definição verbal é justamente o que o TDL não retém.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1720,7 +1834,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A roda das frações torna a notação manipulável, tirando a explicação do terreno falado.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1745,7 +1861,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Mostra como sustentar o símbolo algébrico com material multissensorial, quando a via verbal é justamente a mais cara para este aluno.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1785,7 +1903,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O símbolo abstrato costuma ser o primeiro ponto em que a ansiedade de desempenho aparece, porque nele não há contexto onde se apoiar.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1810,7 +1930,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Símbolo tátil é convenção pura sustentada pelo tato, e o vídeo trata de como ele passa a significar.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1835,7 +1957,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Compara estratégias diferentes para a mesma operação, que é o que transforma o caminho próprio deste aluno em objeto de aula em vez de desvio a corrigir.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
 
@@ -1863,7 +1987,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata da expressão escrita como produto, que é exatamente o que a disgrafia impede de mostrar.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1889,7 +2015,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Avaliação e intervenção em linguagem escrita, que é a forma de produção onde o TDL é mais confundido com desatenção.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1914,7 +2042,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata do que acontece com o desempenho em escrita quando a atenção falha no meio da produção.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1940,7 +2070,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "O RPG desloca a produção da escrita à mão para a narrativa construída em grupo.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1965,7 +2097,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata diretamente de fazer o aluno surdo escrever mais, que é a produção onde a distância entre Libras e português escrito aparece inteira.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -1990,7 +2124,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Produção com material de baixo custo, que muda o que se aceita como evidência de aprendizado.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2016,7 +2152,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Anotar em aula é produção escrita sob pressão de tempo, e é a forma de produção que a escrita disléxica menos sustenta sem estratégia.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2042,7 +2180,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Dá à criação de história um suporte físico com começo e fim visíveis, que é o que destrava a produção quando a folha em branco paralisa.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2067,7 +2207,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A entrega avaliada é onde a ansiedade de desempenho se materializa, e é disso que o vídeo trata.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2092,7 +2234,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "É sobre produção de fala, que é a forma de produção que a avaliação mais cobra e a que mais subestima este aluno.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2117,7 +2261,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Select-to-Speak relê o trecho escolhido em vez do texto inteiro, que é o que torna a revisão dirigida possível quando reler por voz é sequencial.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2142,7 +2288,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "É a aluna produzindo com o adulto ao lado, que é a cena exata em que a fronteira entre a voz dela e a de quem transcreve se decide.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2167,7 +2315,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "É o aluno resolvendo sozinho com o registro do cálculo à vista, que é a forma de produção pela qual a discalculia acaba avaliada duas vezes.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2192,7 +2342,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Trata de como o potencial criativo aparece no que a criança produz, que é onde este aluno mostra o que a prova não capta.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
 
@@ -2220,7 +2372,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Mancala adaptado para que a atividade prática caiba no alcance e no acionamento possíveis.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2245,7 +2399,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Kit construído pelos próprios colegas para que o experimento de física aconteça pelo tato.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2271,7 +2427,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Material sonoro construído para sustentar escuta e concentração na atividade prática, em vez de a atividade virar excesso sensorial.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2297,7 +2455,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A célula tátil põe na mão a estrutura que a aula normalmente só descreve.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2322,7 +2482,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Mostra como proximidade e movimento sustentam a atenção na atividade prática, em vez de a atividade prática virar dispersão.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2348,7 +2510,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Material sonoro operado com as mãos, que sustenta a atividade prática sem depender de instrução verbal retida.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2373,7 +2537,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Material construído para a aprendizagem de Libras acontecer com objeto na mão, e não por instrução oral traduzida.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2399,7 +2565,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Percorre a escolha de material manipulável, que é a via de acesso ao conteúdo quando nem visão nem audição sustentam a atividade.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2425,7 +2593,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Ensina a subtração por decomposição com material na mão, em vez de pela regra escrita.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2450,7 +2620,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "A parede de sons é material fixo na sala, consultado e manipulado, que dá apoio físico à correspondência entre som e letra.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2490,7 +2662,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Atividade prática é exposta e coletiva; sem ambiente seguro, ela vira o momento em que o aluno se retira.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2515,7 +2689,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Compara adaptadores de lápis — material na mão do aluno, que é o que muda a atividade prática para quem escreve com esforço.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
   {
@@ -2540,7 +2716,9 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       metadadosDe: "oEmbed",
       porQue:
         "Material interativo aberto, em que a atividade prática deixa de ter teto e passa a ser onde este aluno ainda encontra desafio.",
-      revisado: false,
+      revisado: true,
+      revisadoPor: "felipe067GG — aprovação em bloco da matriz, sem visionamento individual",
+      revisadoEm: "2026-08-11",
     },
   },
 ]

@@ -1,18 +1,31 @@
 "use client"
 
 import { useState, useMemo } from "react"
+import { useRouter, useSearchParams, usePathname } from "next/navigation"
 import { motion } from "framer-motion"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
-import { Search, BookOpen, FileText, AlertCircle, Clock, Users, Video, ExternalLink } from "lucide-react"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
+import {
+  Search,
+  BookOpen,
+  FileText,
+  AlertCircle,
+  Clock,
+  Users,
+  Video,
+  ExternalLink,
+  GraduationCap,
+} from "lucide-react"
 import Header from "@/app/components/header"
 import { useLanguage } from "@/lib/language-context"
 import { localizedField } from "@/lib/localized"
 import { staggerDelay } from "@/lib/motion"
 import { text } from "@/lib/i18n-content"
 import { exigenciaDe } from "@/lib/conteudos/exigencias"
+import type { CelulaDeConteudo } from "@/lib/conteudos/matriz"
 
 /** O que o professor contribui pelo site. Continua na tabela `content`. */
 export interface Content {
@@ -101,16 +114,46 @@ function duracaoLegivel(segundos: number) {
 export default function ConteudosClient({
   conteudos,
   contents,
+  especialidades,
+  celulas,
+  especialidadeEscolhida,
   loadError,
 }: {
   conteudos: ConteudoRow[]
   contents: Content[]
+  especialidades: { slug: string; nameKey: string }[]
+  celulas: CelulaDeConteudo[]
+  especialidadeEscolhida: string
   loadError: boolean
 }) {
   const [searchTerm, setSearchTerm] = useState("")
   const [selectedSubject, setSelectedSubject] = useState("all")
   const [selected, setSelected] = useState<ConteudoRow | null>(null)
   const { t, language } = useLanguage()
+  const router = useRouter()
+  const pathname = usePathname()
+  const searchParams = useSearchParams()
+
+  // A especialidade vive na URL, e não no estado: assim o professor manda o
+  // endereço ao colega e ele abre com o mesmo aluno escolhido — mesma decisão
+  // dos filtros de `/questoes`.
+  const escolherEspecialidade = (slug: string) => {
+    const params = new URLSearchParams(searchParams.toString())
+    if (slug) params.set("especialidade", slug)
+    else params.delete("especialidade")
+    router.push(params.toString() ? `${pathname}?${params.toString()}` : pathname)
+  }
+
+  /**
+   * As células que dizem algo sobre **este** conteúdo.
+   *
+   * O cruzamento é pela exigência: a matriz fala de "leitura extensa para o
+   * aluno com dislexia", e o conteúdo declara que exige leitura extensa. Sem
+   * especialidade escolhida a lista chega vazia do servidor, e a seção não
+   * aparece — orientação sem aluno escolhido é o conselho genérico de novo.
+   */
+  const orientacoesDe = (c: ConteudoRow) =>
+    celulas.filter((celula) => c.exigencias.includes(celula.exigencia))
 
   const subjects = useMemo(
     () =>
@@ -184,6 +227,28 @@ export default function ConteudosClient({
                 {subject === "all" ? `📚 ${t("all")}` : `${SUBJECT_ICONS[subject] ?? "📘"} ${subject}`}
               </Button>
             ))}
+          </div>
+
+          {/* Escolher o aluno não filtra a biblioteca — todo conteúdo continua
+              à vista. O que muda é o que o plano de aula passa a dizer. */}
+          <div className="max-w-sm">
+            <label className="text-sm text-muted-foreground mb-2 block">{t("chooseSpecialty")}</label>
+            <Select
+              value={especialidadeEscolhida || "all"}
+              onValueChange={(v) => escolherEspecialidade(v === "all" ? "" : v)}
+            >
+              <SelectTrigger className="bg-surface-2 border-border">
+                <SelectValue />
+              </SelectTrigger>
+              <SelectContent className="bg-surface-2 border-border">
+                <SelectItem value="all">{t("all")}</SelectItem>
+                {especialidades.map((e) => (
+                  <SelectItem key={e.slug} value={e.slug}>
+                    {t(e.nameKey)}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
           </div>
         </motion.div>
 
@@ -311,6 +376,88 @@ export default function ConteudosClient({
                     </div>
                   )}
                 </section>
+
+                {/* O que muda para o aluno escolhido. Vem da matriz de 98
+                    células, cruzada pela exigência — e não por uma coluna de
+                    especialidade no conteúdo, que é o que produzia texto
+                    genérico no acervo antigo. */}
+                {especialidadeEscolhida && orientacoesDe(selected).length > 0 && (
+                  <section>
+                    <div className="flex items-center gap-2 mb-3">
+                      <GraduationCap className="w-4 h-4 text-brand" />
+                      <h2 className="text-sm uppercase tracking-wide text-muted-foreground">
+                        {t("forThisStudent")}:{" "}
+                        {t(especialidades.find((e) => e.slug === especialidadeEscolhida)?.nameKey ?? "")}
+                      </h2>
+                    </div>
+                    <div className="space-y-4">
+                      {orientacoesDe(selected).map((celula) => (
+                        <div key={celula.exigencia} className="bg-surface-2 p-4 rounded-lg space-y-3">
+                          <Badge className="bg-success">
+                            {text(exigenciaDe(celula.exigencia)?.nome, language) || celula.exigencia}
+                          </Badge>
+
+                          <div>
+                            <h3 className="text-xs uppercase tracking-wide text-muted-foreground mb-1">
+                              {t("whatItMeans")}
+                            </h3>
+                            <p className="text-foreground">{text(celula.oQueSignifica, language)}</p>
+                          </div>
+
+                          <div>
+                            <h3 className="text-xs uppercase tracking-wide text-muted-foreground mb-1">
+                              {t("whatToDo")}
+                            </h3>
+                            <p className="text-foreground">{text(celula.oQueFazer, language)}</p>
+                          </div>
+
+                          {/* Formação do professor para esta célula. É outro
+                              papel do vídeo: o de cima é aula acessível ao
+                              aluno, este é sobre como ensinar. */}
+                          {celula.videoFormativo && (
+                            <a
+                              href={celula.videoFormativo.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="flex items-start gap-3 p-3 rounded-lg bg-surface hover:bg-surface/70 transition-colors"
+                            >
+                              <Video className="w-4 h-4 mt-1 shrink-0 text-brand" />
+                              <span className="flex-1">
+                                <span className="block text-xs uppercase tracking-wide text-muted-foreground mb-1">
+                                  {t("teacherTraining")}
+                                </span>
+                                <span className="block text-foreground">{celula.videoFormativo.titulo}</span>
+                                <span className="block text-muted-foreground text-sm">
+                                  {celula.videoFormativo.canal} ·{" "}
+                                  {duracaoLegivel(celula.videoFormativo.duracaoSegundos)}
+                                </span>
+                                <span className="block text-muted-foreground text-sm mt-1 italic">
+                                  {celula.videoFormativo.porQue}
+                                </span>
+                              </span>
+                            </a>
+                          )}
+
+                          <ul className="flex flex-wrap gap-x-4 gap-y-1">
+                            {celula.citations.map((citacao) => (
+                              <li key={citacao.url}>
+                                <a
+                                  href={citacao.url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="inline-flex items-center gap-1 text-brand text-sm hover:underline"
+                                >
+                                  {citacao.label}
+                                  <ExternalLink className="w-3 h-3" />
+                                </a>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      ))}
+                    </div>
+                  </section>
+                )}
 
                 {/* Vídeo só chega aqui depois de alguém ter assistido: o banco
                     recusa linha com vídeo não revisado. */}

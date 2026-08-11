@@ -1,4 +1,6 @@
 import { createClient } from "@/lib/supabase/server"
+import { MATRIZ_DE_CONTEUDOS } from "@/lib/conteudos/matriz"
+import { SPECIALTIES } from "@/lib/specialties"
 import ConteudosClient, { type Content, type ConteudoRow } from "./conteudos-client"
 
 // O `<title>` e a `description` vivem no `layout.tsx` desta rota, que os
@@ -19,8 +21,27 @@ import ConteudosClient, { type Content, type ConteudoRow } from "./conteudos-cli
  * alta. É o mesmo desenho de `/questoes`, e pelo mesmo motivo: apagar a
  * contribuição do professor para estrear a biblioteca seria trocar uma coisa por
  * outra sem ele ter pedido.
+ *
+ * ## A matriz entra por aqui, e não pelo banco
+ *
+ * `lib/conteudos/matriz.ts` fica no código, como `lib/adaptacao/matriz.ts`: é
+ * conteúdo com fonte, que muda por revisão e não por importação. O que a página
+ * recebe são **só as células da especialidade escolhida** — a matriz inteira são
+ * 98 células com texto em três idiomas, e mandá-la toda para o cliente a cada
+ * visita seria pagar por catorze alunos para mostrar um.
+ *
+ * Sem especialidade escolhida, a lista vai vazia: a biblioteca é útil sem ela, e
+ * escolher um aluno por padrão diria que a orientação vale para todos.
  */
-export default async function ConteudosPage() {
+export default async function ConteudosPage({
+  searchParams,
+}: {
+  searchParams: Promise<Record<string, string | string[] | undefined>>
+}) {
+  const params = await searchParams
+  const bruto = params.especialidade
+  const especialidade = (Array.isArray(bruto) ? bruto[0] : bruto) ?? ""
+
   const supabase = await createClient()
 
   const [biblioteca, comunidade] = await Promise.all([
@@ -35,6 +56,11 @@ export default async function ConteudosPage() {
     <ConteudosClient
       conteudos={(biblioteca.data as ConteudoRow[] | null) ?? []}
       contents={(comunidade.data as Content[] | null) ?? []}
+      especialidades={SPECIALTIES.map((s) => ({ slug: s.slug, nameKey: s.nameKey }))}
+      celulas={
+        especialidade ? MATRIZ_DE_CONTEUDOS.filter((c) => c.especialidade === especialidade) : []
+      }
+      especialidadeEscolhida={especialidade}
       loadError={Boolean(biblioteca.error)}
     />
   )
