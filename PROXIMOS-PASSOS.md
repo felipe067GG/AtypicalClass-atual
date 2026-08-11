@@ -5,29 +5,104 @@ desde 09/08/2026. Serve para retomar sem precisar reconstruir o raciocínio.
 
 ---
 
-# ⏵ RETOMAR AQUI — biblioteca de conteúdos (10/08/2026)
+# ⏵ RETOMAR AQUI — o adaptador automático (11/08/2026)
 
-**A frente aberta é a biblioteca de conteúdos, e ela não está no ar.** O banco de
-questões está fechado; a parte de baixo desta página é sobre ele e não precisa
-ser lida para continuar.
+**A biblioteca de conteúdos foi encerrada por ora e está no ar.** A frente nova é
+outra, e ainda não tem uma linha de código escrita: uma **IA que adapta o
+material do próprio professor**.
 
-## O próximo passo, já decidido
+## A ideia, como o mantenedor a formulou
 
-**Ligar vídeos formativos às 98 células da matriz de conteúdos.** O mantenedor
-escolheu esta opção em 10/08/2026, entre:
+O professor traz o que ele já usa — atividade, questão, conteúdo, plano de aula —,
+escolhe a especialidade, e recebe aquilo adaptado. Não é escolher no acervo do
+site: é o material dele, que já existe e que ele vai dar na aula de quinta.
 
-1. ✅ **escolhida** — vídeo formativo por célula da matriz, cobrindo as catorze
-   especialidades com material sobre *como aplicar* aquela adaptação;
-2. ❌ parar a curadoria com uma especialidade servida e as treze restantes
-   contando só com a matriz escrita.
+**É uma IA separada da Ravena, por decisão do mantenedor (11/08/2026).** A Ravena
+continua sendo a Ravena: assistente de navegação, em `app/api/chat/route.ts`, com
+o contexto montado por `lib/ravena/contexto.ts`. Misturar as duas faria a
+assistente de navegação carregar responsabilidade pedagógica, que é outro
+compromisso e outro risco.
 
-O que isso implica, e ainda não foi feito: **vídeo passa a existir em dois
-lugares** — no conteúdo (aula da matéria acessível ao aluno) e na célula da
-matriz (formação do professor). São dois papéis diferentes e o modelo precisa
-distingui-los, como já distingue `paraEspecialidade` de vídeo geral.
+## A decisão que define se isso presta
 
-**89 das 98 células já têm vídeo formativo** (10/08/2026), todas aguardando
-alguém assistir. O modelo está em `VideoFormativo`, em `lib/conteudos/matriz.ts`.
+Há dois desenhos possíveis, e eles não se parecem no resultado.
+
+**O caminho fácil:** o modelo lê a atividade e escreve a adaptação. Isso devolve
+"dê tempo estendido e leia em voz alta" — conselho que não adapta *aquela*
+atividade. Foi a crítica do mantenedor a uma proposta minha em 09/08/2026, é a
+razão de existirem os detectores e as duas matrizes, e ela vale contra a IA
+exatamente como valia contra mim.
+
+**O caminho que aproveita o que já existe: a matriz decide, o modelo transforma.**
+
+1. **Medir** — `medir(questao)` em `scripts/detectores/medir.mjs` devolve as 8
+   barreiras, por contagem e sem opinião. Aceita
+   `{ enunciado, alternativas, imagens, descricoesDeFiguras }`, que é a forma de
+   qualquer questão colada; as medidas de texto funcionam só com `enunciado`.
+2. **Consultar** — `MATRIZ` em `lib/adaptacao` devolve as células daquele par
+   barreira × especialidade. São 112 células já escritas, cada uma com fonte que
+   o `check:links` valida.
+3. **Transformar** — só aqui entra o modelo, e com trabalho fechado: aplicar
+   *aquela* instrução *àquele* texto. Reescrever o enunciado, quebrar a cadeia em
+   etapas, rascunhar a audiodescrição da figura.
+
+O modelo não opina sobre pedagogia; ele executa instrução que já tem procedência,
+e a saída sai com a fonte junto. É o que mantém a promessa do resto do site.
+
+## Três riscos, e o primeiro passo sai deles
+
+**1. Os limiares são percentis do ENEM, não do material de escola.** `LIMIARES`
+em `medir.mjs` vem da distribuição de 3.495 questões de prova real. Uma atividade
+de 4º ano quase nunca cruza `leitura-longa` — não porque seja fácil para o aluno,
+mas porque a régua foi calibrada noutro corpus. **Se isso não for medido antes, a
+ferramenta dirá "nenhuma barreira" para metade do que o professor colar.**
+
+**2. Conteúdo e plano de aula não têm detector.** As 7 exigências são declaradas
+por leitura humana. O que existe em `conferir.mjs` são heurísticas por palavra
+que erraram 9 de 9 na estreia ("quadra" dentro de *quadrado*). Para plano de
+aula, o caminho honesto é o modelo **propor** as exigências e o professor
+confirmar — não detectar sozinho.
+
+**3. A ferramenta precisa saber dizer "não achei nada".** 470 das 3.495 questões
+não disparam barreira alguma, e para elas não há o que orientar. IA que sempre
+produz adaptação vai inventar em 13% dos casos.
+
+**O primeiro passo, portanto, não é código: é medir.** Rodar os detectores sobre
+material de professor de verdade — atividade de anos iniciais, prova de escola,
+lista de exercícios — e ver o que dispara. Se a régua do ENEM não servir, isso
+muda o desenho inteiro, e é barato descobrir antes.
+
+## Perguntas em aberto, para decidir antes de construir
+
+- **Onde o material do professor fica?** Ele é dele. Guardar em banco levanta
+  posse e privacidade; não guardar impede histórico e melhoria. É decisão do
+  mantenedor, não efeito colateral de implementação.
+- **A saída é rascunho ou produto?** A disciplina do site é `revisado: false` até
+  alguém olhar. O mesmo deveria valer aqui: a IA entrega proposta que o professor
+  edita, e não material pronto com a marca do site.
+- **Que modelo, e a que custo?** A Ravena usa `gemini-2.5-flash` pela AI SDK. O
+  adaptador reescreve texto longo e é chamada mais cara; vale medir antes de
+  prometer.
+- **Entrada por colagem, arquivo ou foto?** Foto de folha impressa é o caso mais
+  comum na escola pública e o mais caro de resolver (OCR). Começar por colagem de
+  texto é o recorte que testa a ideia sem pagar isso.
+
+---
+
+# Biblioteca de conteúdos — no ar desde 11/08/2026
+
+O banco de questões está fechado; a parte de baixo desta página é sobre ele e não
+precisa ser lida para continuar.
+
+## O que ficou pronto nesta frente
+
+**Vídeo existe em dois lugares, e são papéis diferentes** — no conteúdo (aula da
+matéria acessível ao aluno) e na célula da matriz (formação do professor). O
+modelo os distingue, como já distinguia `paraEspecialidade` de vídeo geral.
+
+**89 das 98 células têm vídeo formativo**, todas aprovadas em bloco em
+11/08/2026. O modelo está em `VideoFormativo`, em `lib/conteudos/matriz.ts`. As
+9 restantes são lacuna medida — ver "As 9 restantes" adiante.
 
 ### O campo que impede o conselho genérico
 
