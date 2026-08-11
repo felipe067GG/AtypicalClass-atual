@@ -95,9 +95,16 @@ termo próprio antes de ser declarada lacuna**:
 a matriz. É aula em Libras **para o aluno**, e o `VideoFormativo` existe
 justamente para não se confundir com isso: vídeo de conteúdo mora em
 `data/conteudos`, vídeo de formação mora na célula. Pendurar "O Sistema Solar em
-Libras" numa célula colapsaria a distinção que o modelo inteiro sustenta. **Esse
-acervo deve ser lido como candidato a vídeo de conteúdo**, e é uma frente
-separada — Ciências em Libras é exatamente o que falta no acervo do aluno.
+Libras" numa célula colapsaria a distinção que o modelo inteiro sustenta. Esse
+acervo virou outra frente, e ela foi aberta — ver "O acervo em Libras" abaixo.
+
+**Altas habilidades foi verificada uma quinta vez.** O canal da UConn Neag School
+of Education, que abriga o Renzulli Center, foi consultado por busca dirigida e
+devolve prêmio de ex-aluno, perfil de docente e "Faculty Talk — Joseph Renzulli",
+que é perfil e não aula. Com NAGC, CTY, Belin-Blank e Purdue, são **cinco de
+cinco**. A didática de enriquecimento não parece existir em vídeo aberto, e
+procurar um sexto canal é repetir o resultado — quem retomar comece por outro
+formato (livro, curso, artigo), não por outro canal.
 
 Forçar as nove faria voltar o conselho genérico que o `porQue` existe para
 impedir, e estragaria as 89 que estão certas.
@@ -368,6 +375,44 @@ já rodando — ele falha com `EADDRINUSE` e **o processo velho continua
 respondendo**, servindo o build anterior. A primeira conferência aqui deu "nada
 chegou ao cliente" por isso, com o código certo em disco. No Windows o `pkill`
 não resolve; é `Get-NetTCPConnection -LocalPort 3000` e `Stop-Process`.
+
+## O acervo em Libras foi de 41 para 47 vídeos (11/08/2026)
+
+A frente aberta pelo TV INES rendeu, e o primeiro achado foi um defeito do que já
+existia: **o acervo tinha a Parte 1 de quatro séries e nenhuma Parte 2.** Quem
+assistisse "Biodiversidade (Parte 1)" não encontrava a continuação em lugar
+nenhum — a aula terminava no meio, e nada acusava.
+
+| conteúdo | vídeo que entrou |
+|---|---|
+| conservação da biodiversidade | Biodiversidade, Parte 2 |
+| consumo e descarte (Filosofia) | A Produção de Lixo e seus Impactos, Parte 2 |
+| do órgão ao organismo | Metabolismo Energético, Parte 2 |
+| compostos no ambiente (Química) | A Importância da Água, Parte 2 |
+| prever movimentos, da queda à órbita | Tecnologia Espacial, Partes 1 e 2 |
+
+"Tecnologia Espacial" entrou por casar de verdade: a descrição diz que é sobre a
+lei da ação e reação como princípio da propulsão de foguete, com experimento
+conduzido por alunos — que é o assunto do conteúdo de movimentos.
+
+**"A Origem da Vida" (2 partes) ficou de fora, e é lacuna declarada.** Não existe
+conteúdo sobre origem da vida na biblioteca; o mais próximo, Lamarck e Darwin,
+trata de mecanismo de adaptação, que é outra pergunta. É o mesmo caso dos 17
+vídeos de Matemática que não tinham onde entrar — o vídeo existe, a aula é que
+não foi escrita.
+
+### Língua de sinais não é universal, e o título esconde isso
+
+O DCMP tem "Vocabulary Builders in Sign Language", seis vídeos de vocabulário por
+matéria — Matemática, Ciências, História —, e parecia o achado da rodada. **É
+ASL, não Libras.** A descrição diz "commonly accepted by the Deaf community", e a
+comunidade é a americana: o DCMP é programa do Departamento de Educação dos EUA.
+
+Um aluno surdo brasileiro não lê ASL. Marcar aquilo com
+`recursoDeAcessibilidade` seria afirmar acessibilidade que não existe — o mesmo
+erro dos dois vídeos do Dicasdemat que ficaram de fora por não declararem Libras
+no título. **"Sign language" no título lê-se como acessível, e essa leitura é a
+armadilha.** Vale para qualquer fonte estrangeira de material para surdos.
 
 ## A biblioteca foi ao ar (11/08/2026)
 

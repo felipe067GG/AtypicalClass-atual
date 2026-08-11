@@ -312,11 +312,21 @@ const CANAIS = [
    * físico em geral, que caberia igual na célula de produção do aluno, e por
    * isso reprova no teste do `porQue`.
    *
-   * O **DCMP** é o único com material que se aproveita, e não para estas células:
-   * "Vocabulary Builders in Sign Language" tem seis vídeos por matéria
-   * (Matemática, Ciências, História) e "Captions Help Children Learn To Read"
-   * fala de legenda e leitura. Vocabulário × deficiência auditiva já está
-   * fechada; isto serve ao acervo do **aluno**, como o TV INES.
+   * O **DCMP** parecia o único aproveitável, e não é: "Vocabulary Builders in
+   * Sign Language" é **ASL**, não Libras. São línguas diferentes, e o aluno
+   * surdo brasileiro não lê ASL — marcar aquilo como recurso de acessibilidade
+   * seria afirmação falsa. Fica aqui porque "sign language" no título se lê como
+   * acessível, e essa leitura é a armadilha.
+   *
+   * **Altas habilidades foi verificada uma quinta vez, e o padrão é conclusão.**
+   * Além de NAGC, CTY, Belin-Blank e Purdue, o canal da UConn Neag School of
+   * Education — que abriga o Renzulli Center — foi consultado por busca dirigida
+   * (`/search?query=gifted`) e devolve prêmio de ex-aluno, perfil de docente e
+   * "Faculty Talk — Joseph Renzulli", que é perfil e não aula. Cinco de cinco.
+   * A didática de enriquecimento não parece existir em vídeo aberto; procurar um
+   * sexto canal é repetir o mesmo resultado. Não foi declarado aqui porque a
+   * consulta foi dirigida e não uma coleta — declarar canal que não se colheu
+   * faria a lista afirmar mais do que se apurou.
    */
   {
     especialidade: "altas-habilidades",
