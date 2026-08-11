@@ -75,19 +75,56 @@ As quatro que quebram são exatamente as **quatro de comprimento**, as únicas
 relativas ao corpus. `figura-essencial` deu 0% só porque as autorais não têm
 imagem — numa folha de atividade de escola é a que mais dispara.
 
-**O que falta é corpus de professor de verdade**, e as autorais são proxy com
-viés conhecido: fui eu que as escrevi curtas. Os candidatos são os itens
-liberados do **SAEB/Prova Brasil** (`portal.mec.gov.br/dmdocuments/saeb_matriz2.pdf`,
-Português e Matemática, 5º e 9º ano, amplo) e as provas da **OBMEP**. Em
-11/08/2026 os dois estavam inacessíveis: `download.inep.gov.br` e
-`portal.mec.gov.br` passaram a recusar conexão depois de eu baixar quinze
-cadernos do ledor no mesmo dia. É limitação de momento, não beco sem saída —
-e o `extrairTexto` já lê PDF de governo, agora sem comer a ligadura "fi".
+### A régua escolar existe, e só duas medidas precisaram de número novo
 
-**Não calibrar em OBMEP sozinha.** É olimpíada de matemática: daria régua de
-problema curto de matemática, e a metade do material de professor que é texto
-longo de Português e História ficaria de fora. Corpus estreito com número
-bonito é pior que nenhum, porque parece resolvido.
+O corpus é o **Encceja Ensino Fundamental**: 199 questões, 2018 e 2020, quatro
+matérias. É prova oficial do INEP de nível de 9º ano — não é o caderno do
+professor, mas é material de escola de verdade, amplo entre matérias e
+verificável. `npm run regua:escolar` rebaixa as provas e reimprime os percentis
+ao lado dos declarados, como `rodar.mjs` faz com os do ENEM; sai com código 1 se
+a distribuição andar mais de 10%.
+
+| medida | escolar | ENEM | |
+|---|---|---|---|
+| palavras por frase (p75) | 21,3 | 21,8 | **transfere** |
+| números distintos (p75) | 4 | 4 | **transfere** |
+| vocabulário denso (p90) | 0,0385 | 0,0385 | **transfere** |
+| caracteres (p75) | **604** | 868 | régua nova |
+| alternativas (p75) | **220** | 407 | régua nova |
+
+**Comprimento de frase, quantidade de dados e palavra longa são propriedades do
+português escrito para avaliação, não do nível da prova.** O que muda com o
+nível é o tamanho do texto e o das alternativas. Isso é bem mais estreito que a
+suspeita original de que a régua inteira estivesse errada — e explica por que as
+autorais deram 91% de zero-barreira: elas são curtas em tudo, inclusive no que
+transfere.
+
+Com `LIMIARES_ESCOLARES`, o Encceja dispara nas mesmas proporções do ENEM:
+
+| barreira | escolar | ENEM |
+|---|---|---|
+| leitura longa | 26% | 25% |
+| período longo | 27% | 26% |
+| alternativas longas | 26% | 25% |
+| muitos números | 30% | 26% |
+
+**O que este corpus não mede é figura.** O texto sai de PDF e imagem não
+atravessa: `figura-essencial` dá 0% ali, e isso é do extrator, não do material.
+Numa folha de atividade de escola é a barreira que mais dispara — e é por isso
+que os 26% sem barreira do Encceja não se comparam direto com os 13% do ENEM,
+onde a figura entra na conta.
+
+**Duas fontes ficaram para trás, e por motivos diferentes.** O caderno de itens
+do SAEB (`portal.mec.gov.br/dmdocuments/saeb_matriz2.pdf`) é o alvo certo — itens
+liberados com texto — mas `portal.mec.gov.br` não respondeu em 11/08/2026; o
+documento equivalente no INEP tem só descritores, sem uma questão. E **não
+calibrar em OBMEP sozinha**: é olimpíada de matemática, daria régua de problema
+curto e deixaria de fora o texto longo de Português e História.
+
+**Língua Portuguesa só entrou por 2020.** O caderno de 2018 que junta Português,
+Língua Estrangeira, Artes e Educação Física está publicado sob nome que não
+achei, e 2017, 2019, 2021, 2022, 2023 e 2024 não existem em nenhum dos dois
+padrões de endereço. Fica declarado para ninguém procurar de novo.
 
 **2. Conteúdo e plano de aula não têm detector. Agora tem, e ele está medido.**
 `npm run exigencias` roda o proponente de `scripts/conteudos/propor-exigencias.mjs`
@@ -129,13 +166,27 @@ que a outra decisão seria igualmente defensável — "O desenho com três estru
 nomeadas" foi lido como representação visual e não como produção do aluno. O
 número mede concordância com quem escreveu o acervo, que é o que interessa.
 
-**3. A ferramenta precisa saber dizer "não achei nada".** 470 das 3.495 questões
-não disparam barreira alguma, e para elas não há o que orientar. IA que sempre
-produz adaptação vai inventar em 13% dos casos — e, com a régua do ENEM em
-material de escola, em 91%. O conserto sai do risco 1: `medir()` já devolve
-`{ medidas, barreiras }`, e a ferramenta tem de mostrar **o que mediu e onde
-aquilo cai na distribuição** ("enunciado de 130 caracteres, p40 do acervo
-escolar"), nunca um veredito vazio.
+**3. A ferramenta precisa saber dizer "não achei nada". Resolvido no tipo de
+retorno.** 470 das 3.495 questões não disparam barreira alguma, e para elas não
+há o que orientar — mas há o que **relatar**.
+
+`medir()` passou a devolver `{ medidas, barreiras, relatorio }`, e `relatorio`
+diz onde cada medida cai na distribuição declarada:
+
+```
+caracteres                137 p25
+palavrasPorFrase           11 p25
+caracteresAlternativas     26 p25
+numeros                     2 p50
+```
+
+"Enunciado de 137 caracteres, p25 do material escolar" é informação. "Nenhuma
+barreira" parece laudo e é silêncio — e silêncio é o que faz uma ferramenta
+certa parecer quebrada. Quem consumir `medir()` não consegue mais ficar só com
+`barreiras` sem ver que havia o resto ali.
+
+`medirDeEscola(questao)` é o atalho para o caso do professor: régua escolar e
+percentis do material de escola, numa chamada.
 
 ## Perguntas em aberto, para decidir antes de construir
 
@@ -1136,6 +1187,7 @@ npm run canais -- --so dislexia                    # só uma especialidade, pres
 npm run detectores                                 # mede as 3.495 e confere a matriz
 npm run exigencias                                 # mede o proponente contra as 170 declaradas
 npm run exigencias -- --erros                      # lista os desacertos, para inspeção
+npm run regua:escolar                              # reconfere a régua escolar contra o Encceja EF
 npm run autorais                                   # confere as 280 questões autorais
 npm run bncc                                       # confere os códigos da BNCC no PDF oficial
 npm run check:links                                # valida todas as fontes

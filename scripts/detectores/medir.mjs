@@ -58,6 +58,119 @@ export const LIMIARES = {
 }
 
 /**
+ * A segunda régua: material de nível escolar.
+ *
+ * ## Por que ela existe
+ *
+ * Os limiares acima são percentis de prova de acesso ao ensino superior, e o
+ * adaptador vai receber o que o professor dá na aula de quinta. Medido em
+ * 11/08/2026 sobre as 280 questões autorais — escritas de propósito para quem
+ * ainda não alcança uma questão de ENEM —, **91% não disparavam barreira
+ * nenhuma**, contra 13% no acervo real. Uma ferramenta que responde "nenhuma
+ * barreira" para nove de cada dez atividades não serve para nada.
+ *
+ * ## De onde vêm estes números
+ *
+ * Das **199 questões do Encceja Ensino Fundamental**, 2018 e 2020, quatro
+ * matérias (Matemática, Ciências Naturais, História e Geografia, Língua
+ * Portuguesa). É prova oficial do INEP de nível de 9º ano — não é o caderno do
+ * professor, mas é material de escola de verdade, amplo entre matérias e
+ * verificável, que era o que faltava. As autorais serviram para acusar o
+ * problema e não servem para calibrar: fui eu que as escrevi curtas.
+ *
+ * **O que este corpus não mede:** figura. O texto sai de PDF, e imagem não
+ * atravessa — `figura-essencial` deu 0% aqui e isso é do extrator, não do
+ * material. Numa folha de atividade de escola é a barreira que mais dispara.
+ *
+ * ## Só duas medidas precisaram de número novo
+ *
+ * A comparação dos percentis é o achado, e ele é bem mais estreito do que
+ * "a régua está toda errada":
+ *
+ * | medida | escolar | ENEM | |
+ * |---|---|---|---|
+ * | palavras por frase (p75) | 21,3 | 21,8 | transfere |
+ * | números distintos (p75) | 4 | 4 | transfere |
+ * | vocabulário denso (p90) | 0,0385 | 0,0385 | transfere |
+ * | **caracteres (p75)** | **604** | 868 | régua nova |
+ * | **alternativas (p75)** | **220** | 407 | régua nova |
+ *
+ * Comprimento de frase, quantidade de dados e palavra longa são propriedades do
+ * português escrito para avaliação, e não do nível da prova. O que muda com o
+ * nível é o **tamanho** do texto e o das alternativas.
+ */
+export const LIMIARES_ESCOLARES = {
+  ...LIMIARES,
+  /** p75 dos caracteres do enunciado no Encceja EF. */
+  caracteres: 604,
+  /** p75 das palavras por frase; praticamente o mesmo do ENEM (21,8). */
+  palavrasPorFrase: 21.3,
+  /** p75 da soma das alternativas no Encceja EF. */
+  caracteresAlternativas: 220,
+}
+
+/**
+ * Onde cada medida cai na distribuição da régua.
+ *
+ * Existe para a ferramenta nunca responder "nenhuma barreira" e parar aí. 42%
+ * das questões do Encceja e 13% das do ENEM não disparam barreira alguma, e
+ * para elas não há o que orientar — mas há o que **relatar**. "Enunciado de 390
+ * caracteres, p40 do material escolar" é informação; "nenhuma barreira" parece
+ * laudo e é silêncio.
+ *
+ * Os percentis são os medidos em 11/08/2026, e a posição entre dois deles é
+ * interpolada. Não é a distribuição inteira: é o suficiente para situar.
+ */
+export const PERCENTIS = {
+  enem: {
+    caracteres: { 25: 377, 50: 622, 75: 868, 90: 1196, 95: 1396 },
+    palavrasPorFrase: { 25: 13.5, 50: 17.1, 75: 21.8, 90: 27, 95: 31 },
+    caracteresAlternativas: { 25: 55, 50: 223, 75: 406, 90: 634, 95: 777 },
+    numeros: { 25: 0, 50: 2, 75: 4, 90: 6, 95: 8 },
+    densidadeVocabulario: { 25: 0, 50: 0.0098, 75: 0.0227, 90: 0.0385, 95: 0.0507 },
+  },
+  escolar: {
+    caracteres: { 25: 238, 50: 418, 75: 604, 90: 755, 95: 823 },
+    palavrasPorFrase: { 25: 11, 50: 16.1, 75: 21.3, 90: 27.5, 95: 30.3 },
+    caracteresAlternativas: { 25: 70, 50: 144, 75: 220, 90: 321, 95: 391 },
+    numeros: { 25: 1, 50: 2, 75: 4, 90: 8, 95: 10 },
+    densidadeVocabulario: { 25: 0, 50: 0, 75: 0.0172, 90: 0.0385, 95: 0.05 },
+  },
+}
+
+/** O percentil aproximado de um valor, na distribuição declarada em `PERCENTIS`. */
+export function percentilDe(medida, valor, corpus = "enem") {
+  const marcos = PERCENTIS[corpus]?.[medida]
+  if (!marcos) return null
+  const pontos = Object.entries(marcos)
+    .map(([p, v]) => [Number(p), v])
+    .sort((a, b) => a[0] - b[0])
+  if (valor <= pontos[0][1]) return pontos[0][0]
+  for (let i = 1; i < pontos.length; i += 1) {
+    const [pAnterior, vAnterior] = pontos[i - 1]
+    const [pAtual, vAtual] = pontos[i]
+    if (valor <= vAtual) {
+      const fatia = vAtual === vAnterior ? 0 : (valor - vAnterior) / (vAtual - vAnterior)
+      return Math.round(pAnterior + fatia * (pAtual - pAnterior))
+    }
+  }
+  return pontos[pontos.length - 1][0]
+}
+
+/**
+ * O que se mediu, dito de um jeito que sobrevive a não haver barreira nenhuma.
+ *
+ * Devolve sempre alguma coisa. É a peça que impede o "não achei nada".
+ */
+export function relatar(m, corpus = "enem") {
+  return Object.keys(PERCENTIS[corpus] ?? {}).map((medida) => ({
+    medida,
+    valor: m[medida],
+    percentil: percentilDe(medida, m[medida], corpus),
+  }))
+}
+
+/**
  * Linhas que o aluno não lê como conteúdo.
  *
  * A atribuição de fonte ("Disponível em: ... Acesso em: 2 fev. 2015") aparece
@@ -179,36 +292,56 @@ export function medidas(questao) {
   }
 }
 
-/** Quais barreiras estas medidas configuram. */
-export function barreirasDe(m) {
+/**
+ * Quais barreiras estas medidas configuram, na régua escolhida.
+ *
+ * A régua entra por parâmetro e não por variável global porque as duas
+ * convivem: `rodar.mjs` mede as 3.495 questões de prova real e continua na do
+ * ENEM, enquanto o que o professor colar deve ser medido na escolar. Uma
+ * ferramenta que use a régua errada não erra por pouco — erra em 91% dos casos.
+ */
+export function barreirasDe(m, regua = LIMIARES) {
   const achadas = []
 
-  if (m.caracteres >= LIMIARES.caracteres) achadas.push("leitura-longa")
+  if (m.caracteres >= regua.caracteres) achadas.push("leitura-longa")
 
   // Medida separada do tamanho total, e não redundante com ele: das 878
   // questões de período longo, 657 têm enunciado curto. Um texto de 500
   // caracteres em duas frases exige mais de quem decodifica do que os mesmos
   // 500 caracteres em seis.
-  if (m.palavrasPorFrase >= LIMIARES.palavrasPorFrase) achadas.push("periodo-longo")
+  if (m.palavrasPorFrase >= regua.palavrasPorFrase) achadas.push("periodo-longo")
 
-  if (m.caracteresAlternativas >= LIMIARES.caracteresAlternativas) achadas.push("alternativas-longas")
-  if (m.numeros >= LIMIARES.numeros) achadas.push("muitos-numeros")
+  if (m.caracteresAlternativas >= regua.caracteresAlternativas) achadas.push("alternativas-longas")
+  if (m.numeros >= regua.numeros) achadas.push("muitos-numeros")
   if (m.temFigura) achadas.push("figura-essencial")
   if (m.alternativasSoNumero) achadas.push("alternativas-numericas")
 
   // Duas formas de encadeamento, e elas não se sobrepõem muito: o texto que
   // narra a sequência ("em seguida... ao final") e o cálculo que a impõe sem
   // narrar nada, típico de Matemática e Física.
-  const encadeiaPorTexto = m.marcadoresDeOrdem >= LIMIARES.marcadoresDeEtapa
-  const encadeiaPorConta = m.alternativasSoNumero && m.numeros >= LIMIARES.numerosParaCadeia
+  const encadeiaPorTexto = m.marcadoresDeOrdem >= regua.marcadoresDeEtapa
+  const encadeiaPorConta = m.alternativasSoNumero && m.numeros >= regua.numerosParaCadeia
   if (encadeiaPorTexto || encadeiaPorConta) achadas.push("cadeia-de-etapas")
 
-  if (m.densidadeVocabulario >= LIMIARES.densidadeVocabulario) achadas.push("vocabulario-denso")
+  if (m.densidadeVocabulario >= regua.densidadeVocabulario) achadas.push("vocabulario-denso")
 
   return achadas
 }
 
-export function medir(questao) {
+/**
+ * Medir uma questão na régua escolhida.
+ *
+ * `relatorio` vai junto de propósito: quem consumir isto não pode ficar só com
+ * `barreiras`, porque `barreiras` vazio é o caso mais comum em material de
+ * escola — 42% no Encceja — e "não achei nada" é a resposta que faz uma
+ * ferramenta parecer quebrada quando ela está certa.
+ */
+export function medir(questao, { regua = LIMIARES, corpus = "enem" } = {}) {
   const m = medidas(questao)
-  return { medidas: m, barreiras: barreirasDe(m) }
+  return { medidas: m, barreiras: barreirasDe(m, regua), relatorio: relatar(m, corpus) }
+}
+
+/** Medir como o professor colou: régua escolar e percentis do material de escola. */
+export function medirDeEscola(questao) {
+  return medir(questao, { regua: LIMIARES_ESCOLARES, corpus: "escolar" })
 }

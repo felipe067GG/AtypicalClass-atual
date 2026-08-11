@@ -58,3 +58,7 @@ data/bncc/*.pdf
 # Cadernos acessíveis do INEP, baixados por scripts/import-enem/ledor.mjs
 # São fonte pública e pesada (33 MB); o script rebaixa o que faltar.
 /data/ledor/
+
+# Provas do Encceja, baixadas por scripts/detectores/regua-escolar.mjs
+# Fonte pública e pesada (25 MB); o script rebaixa o que faltar.
+/data/encceja/
