@@ -102,6 +102,30 @@ separada — Ciências em Libras é exatamente o que falta no acervo do aluno.
 Forçar as nove faria voltar o conselho genérico que o `porQue` existe para
 impedir, e estragaria as 89 que estão certas.
 
+**Uma terceira rodada foi tentada e não fechou nenhuma.** Quatro canais novos,
+procurados desta vez **pelo assunto da célula** e não pelo rótulo de diagnóstico:
+Purdue GER2I, DCMP (US Dept. of Education), AEM Center (CAST) e DO-IT (UW). O
+resultado está comentado em `canais.mjs`, ao lado de cada um, e o mais útil é o
+que ele fecha como assunto:
+
+- **Altas habilidades é conclusão, não azar.** O Purdue tem uma playlist e ela é
+  lip sync de monitores e anuário. É o **quarto** canal de altas habilidades —
+  com NAGC, CTY e Belin-Blank — a publicar comunidade em vez de didática. A
+  didática de enriquecimento parece viver em livro, curso pago e artigo, não em
+  vídeo aberto. Quem tentar de novo comece por aí, e não por mais um canal.
+- **O AEM Center trata de obter material acessível**, não de produzir notação:
+  compra, PEI, autoadvocacia. É outra pergunta.
+- **O DO-IT tem "Alternative Keyboards"**, que é ergonomia e destreza — acesso
+  físico em geral, e caberia igual na célula de produção do aluno. Reprova no
+  mesmo teste dos outros três.
+- **O DCMP tem material bom que não serve a estas células**: "Vocabulary
+  Builders in Sign Language", seis vídeos por matéria, e "Captions Help Children
+  Learn To Read". Vocabulário × deficiência auditiva já está fechada — **isto vai
+  para o acervo do aluno**, junto com o TV INES.
+
+São **dez canais declarados em três rodadas** para estas nove células. A lacuna é
+de material publicado, e está medida.
+
 **O Clerc Center (Gallaudet) está declarado em `canais.mjs` e não serve.** Foi
 colhido — 26 vídeos em 3 playlists, dentro de `playlists.json` —, mas os 26
 títulos foram resolvidos um a um pelo oEmbed e **todos** são institucionais:

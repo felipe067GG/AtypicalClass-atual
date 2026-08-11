@@ -292,6 +292,56 @@ const CANAIS = [
     url: "https://www.youtube.com/channel/UCOrOffPtkQegDU494nxcHjQ",
     idioma: "en",
   },
+
+  /**
+   * Terceira rodada, para as nove que sobraram — e aqui a busca deixou de ser
+   * pela especialidade e passou a ser **pelo que a célula pede**.
+   *
+   * Não adiantava mais um canal sobre altas habilidades: NAGC, CTY e Belin-Blank
+   * já estavam dentro e os três publicam institucional. O que falta é material
+   * sobre aprofundar dentro da unidade, sobre rótulo de figura como segunda
+   * língua, sobre produzir notação por acionador. São assuntos, não rótulos de
+   * diagnóstico, e é assim que estes quatro foram procurados.
+   *
+   * **Nenhum dos quatro fechou célula, e ficam declarados por isso.** O Purdue
+   * GER2I tem uma playlist e ela é lip sync de monitores e anuário — o quarto
+   * canal de altas habilidades a publicar comunidade em vez de didática, o que
+   * torna o padrão uma conclusão e não um azar. O AEM Center trata de *obter*
+   * material acessível (compra, PEI, autoadvocacia), e não de produzir notação.
+   * O DO-IT tem "Alternative Keyboards", que é ergonomia e destreza — acesso
+   * físico em geral, que caberia igual na célula de produção do aluno, e por
+   * isso reprova no teste do `porQue`.
+   *
+   * O **DCMP** é o único com material que se aproveita, e não para estas células:
+   * "Vocabulary Builders in Sign Language" tem seis vídeos por matéria
+   * (Matemática, Ciências, História) e "Captions Help Children Learn To Read"
+   * fala de legenda e leitura. Vocabulário × deficiência auditiva já está
+   * fechada; isto serve ao acervo do **aluno**, como o TV INES.
+   */
+  {
+    especialidade: "altas-habilidades",
+    instituicao: "Purdue GER2I — Gifted Education Research and Resource Institute",
+    url: "https://www.youtube.com/channel/UCsB-4M8Utd0nr6N0HLe9ekw",
+    idioma: "en",
+  },
+  {
+    especialidade: "deficiencia-auditiva",
+    instituicao: "DCMP — Described and Captioned Media Program (US Dept. of Education)",
+    url: "https://www.youtube.com/channel/UCWSkTMzpdIbY6r6V6QoX_Jw",
+    idioma: "en",
+  },
+  {
+    especialidade: "deficiencia-fisica",
+    instituicao: "AEM Center — National Center on Accessible Educational Materials (CAST)",
+    url: "https://www.youtube.com/channel/UC430oh5VnS3pdBJ89ux2bZQ",
+    idioma: "en",
+  },
+  {
+    especialidade: "deficiencia-fisica",
+    instituicao: "DO-IT — University of Washington",
+    url: "https://www.youtube.com/channel/UC8NsdC6bvekxz5GgG9Ns_tA",
+    idioma: "en",
+  },
 ]
 
 // --- Rede --------------------------------------------------------------------
