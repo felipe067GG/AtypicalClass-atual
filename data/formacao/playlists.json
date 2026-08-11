@@ -1,0 +1,8124 @@
+{
+ "colhidoEm": "2026-08-11",
+ "comoFoiColhido": "playlists de cada canal, com o título de cada uma e os ids que ela contém. O título da playlist é a unidade de triagem; título por vídeo vem do npm run videos, quando o vídeo entrar numa célula.",
+ "canais": [
+  {
+   "especialidade": "dislexia",
+   "instituicao": "Instituto ABCD",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/@institutoabcd",
+   "playlists": [
+    {
+     "id": "PL0Bg-5OZQ0zu268zEREbXNQe1kjVUcgOl",
+     "titulo": "iABCD Cast",
+     "videos": [
+      "xq718bvpPZc",
+      "H-9lwvY98UA",
+      "sKUQKeMEHcA",
+      "DnmIJwGm4vM",
+      "lvhv0frZf1g",
+      "nCVpDlCDGeg"
+     ]
+    },
+    {
+     "id": "PL0Bg-5OZQ0ztzk-54kMSf-xOGeTfm5-yr",
+     "titulo": "Praça da Dislexia",
+     "videos": [
+      "fZkw78sGzIQ"
+     ]
+    },
+    {
+     "id": "PL0Bg-5OZQ0ztl8K8HGAUV72XEYvc7ypLD",
+     "titulo": "Como usar o EduEdu",
+     "videos": [
+      "TA-NanjtvGI"
+     ]
+    },
+    {
+     "id": "PL0Bg-5OZQ0zva30voLPKfInB-hJsKInCG",
+     "titulo": "Sobre Dislexia",
+     "videos": [
+      "rff_O9B9bUA",
+      "O6ZyWBVQyQ4",
+      "eJckWjo97BY",
+      "Tm-_KdkhcwA",
+      "sS_wb5ICK2Y",
+      "b3Q222yiI5M",
+      "_WZDO2lTvX8",
+      "qJJo8GrAhK8",
+      "9RTSoqFH3CQ",
+      "CXjsdjgBVcs"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "dislexia",
+   "instituicao": "International Dyslexia Association",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCcaAMbct0X6N9QrYK4t9Abg",
+   "playlists": [
+    {
+     "id": "PL9sWY9ILzun5h1JuHfh5-_DUw2B0bgG5d",
+     "titulo": "DyslexiaCon20",
+     "videos": [
+      "9xr-jSNgQBs"
+     ]
+    },
+    {
+     "id": "PL9sWY9ILzun4qAn6mdlrx2tT0XgBs84rn",
+     "titulo": "IDA Webinars",
+     "videos": [
+      "ML2Mn_9Kksg",
+      "JepPBSF3tRk",
+      "nUwB8Z7nfVM",
+      "IBKQsnKFNbQ",
+      "OF6405Z4myo",
+      "Ws3wDBc_Vus",
+      "IYNT-bXBZeE",
+      "6NjjawQye3o",
+      "oZi5am3Duww",
+      "nMu5SeHOitE",
+      "UGBqFF9l-gQ",
+      "7DEuTWa0g5E",
+      "g6NPJu0pvj8",
+      "Qtb36d857ZI"
+     ]
+    },
+    {
+     "id": "PL9sWY9ILzun40fcz6aEHqBdK_gO_8NcbI",
+     "titulo": "Previous DyslexiaCon Videos",
+     "videos": [
+      "PTV5EAl9FF8",
+      "6iAzt-y8xz4",
+      "I-8vaRgnyqw",
+      "lB6udGFqs-U",
+      "PWtu1E-NYJ8",
+      "4IZ1beCxFqs",
+      "DK5mxzOH1sM",
+      "wSY1VGlErWE",
+      "T96vpBoYN0A",
+      "xeQqGYUfs7Q",
+      "RZlPamkmSiI",
+      "lIsaBMBQZnM",
+      "CMKjNHWkL2Y",
+      "OZrgI3UyKa4",
+      "ACZNkF1xD4Y",
+      "6csIC5Iw1Uc",
+      "44ieGKyACTM",
+      "J0Kbt49zx8g",
+      "j22Pk-7sPSY",
+      "TuSFCU0Rc8g",
+      "G2-e6fF1AtE",
+      "QzxzCNOSObQ",
+      "3GF1cPR0t6A",
+      "wUKjSMSHbbU",
+      "KghkV07I9Ck"
+     ]
+    },
+    {
+     "id": "PL9sWY9ILzun6myRY5ziLMbjNX3WpYv8Vh",
+     "titulo": "Dollar Drive 2020",
+     "videos": [
+      "51hAVcXOplk",
+      "JgNykgrGJVk",
+      "azBDk07_nJg",
+      "u3Pz0eVlXcE",
+      "RNK0txFhX7E",
+      "I265CuyppFA",
+      "9SPpe3u_nYs"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "disgrafia",
+   "instituicao": "Understood",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@UnderstoodOrg",
+   "playlists": [
+    {
+     "id": "PL0Kjy0JtEbaTgLKYXdlDjUskbXlKMpHfu",
+     "titulo": "Understood News",
+     "videos": [
+      "6aNHDXef4M8",
+      "7ZUv8ZtNghw",
+      "xF0WXgDN6kc",
+      "MfodPp8d5oQ",
+      "uItqzRRfCd4",
+      "m4S18J3P_Nk",
+      "9aYmCxxNpiA",
+      "eVYZCZefAAs",
+      "ZF2fupaZ6mQ",
+      "sFfEDvGhDxg",
+      "PixizYOYTUE",
+      "JMCMDiJ_8qY",
+      "STj2_KLQVyY",
+      "Ue4pz9OC2wU",
+      "xAxqb77kgEU",
+      "xz6mKf8erAE",
+      "ur80ja668J4",
+      "_fOwRy7qPig",
+      "Aa_Okaop4rE",
+      "coyadN6xrvU",
+      "_9e-5QhXoic",
+      "v0OtJP3tMko",
+      "cH9ycgR2dq8",
+      "a55Fl3wdja8",
+      "sS_Ret9RW_8"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTA1vLoKOnJqon7gncLq7vI",
+     "titulo": "Positive Behavior Strategies for the Classroom",
+     "videos": [
+      "ZC9SsvoFbIM",
+      "E2MPSszRKzw",
+      "xSIFs5BLqgc",
+      "fQb1c4UoaZM",
+      "tf74yIIRALs"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaToG9WuPU5wgy3qqq6K-GJn",
+     "titulo": "Everyone Gets a Juice Box: For Parents of Neurodivergent Kids",
+     "videos": [
+      "OzB1vaUz144",
+      "I1Uy2goSAq0",
+      "357NRka4U4E",
+      "l3YdrcvWJKk",
+      "7ggyZQlENbE",
+      "6v6_xDUazDE",
+      "w9NBupK953Y",
+      "EGmPGK8oc0A",
+      "nURMeNHN3Mw",
+      "FFVmdBcETlU",
+      "f4CfwvSeCKE",
+      "Nhob4Q7wDvc",
+      "zO6Q0D-_1sM",
+      "sd7F0DktTkk",
+      "CXSdzFQQVEE",
+      "f6TmTf30fA4",
+      "E0AhNJV47S4",
+      "rLwql0L5Nh0"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaST0MN7s6UfH9f9DkiNAcvf",
+     "titulo": "ADHD and...",
+     "videos": [
+      "yxigzfaJkjQ",
+      "rdoLpZgYp3s",
+      "BC5YJ7FZm2M",
+      "35BdhVYvUXE",
+      "1p6avRRo-cU",
+      "Pyx7oDNSRcM",
+      "xFb-ExrRoKs",
+      "HU0LXVpEXlo",
+      "FJt0gYnWkVI",
+      "l5ty5pbL_A4",
+      "JmLA_SVoS0A",
+      "Ih1KqlvwRf8",
+      "RmcSpKmJnIw",
+      "Gkmv_MeCm60",
+      "V23aWAkoT70",
+      "WWWKFPk_9Nc",
+      "Gk8ceIDRn1A",
+      "qAxfhAvUifs",
+      "cD9n39ieVlk",
+      "TSlmQLoOgig",
+      "nwF_Ax32390",
+      "Zs7Y4BTNtH8",
+      "u1SYdc5cKcs",
+      "3pJDdN7NLHQ",
+      "q2EmJEvCbK0",
+      "MvbgKqAXX-s",
+      "wM6sHlclH7M",
+      "XofQ9q7euvA",
+      "CXiutm2WNJE",
+      "tLUOfIqj1KI",
+      "ksxn9itrtsw",
+      "okkEKy0h0PU",
+      "vOZRTqSchsY",
+      "sIRmYkBedSo",
+      "x40a3CxDReQ",
+      "XD4ozmX7IPI",
+      "74bwG0UffRw",
+      "pno77KQ-5kM",
+      "ynAIpx6hovk",
+      "f5MMI2MnbKg",
+      "ZfWLi0vw8-E",
+      "0QkM4caUrBc",
+      "jOPIhB-h6sM",
+      "OONIFvlnvyI",
+      "ye_td_TEBk0",
+      "ZQS4MOcaMX8",
+      "w4ofo3hR3xY",
+      "Fi0w-B9Mf_A",
+      "-fSFx8HXUEE"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTVgSCgIg72yDJQCvaw00Qt",
+     "titulo": "Climbing the Walls",
+     "videos": [
+      "ietGJRjCqrM",
+      "CLqhOpeiMwM",
+      "K-cbpvZcb3c",
+      "2ga2W0OMV6E",
+      "rcxPQf-SsBw",
+      "0Abzbaie_cA",
+      "7Frv8F7GmYc"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaQZh26Fz2ELwPEUqd5jGIiU",
+     "titulo": "Hyperfocus with Rae Jacobson",
+     "videos": [
+      "tlZulOveLKM",
+      "26YDfEsE4-g",
+      "-Lv7jmdqTUU",
+      "Dht7qxjz4wA",
+      "LXfpPg71mLY",
+      "YsTiwhrlQYY",
+      "Q2y8IS5mtKw",
+      "sAKi2h5E7AQ",
+      "RFfIQKIDqnU",
+      "oUi_5XYfbkI",
+      "6wZvy7yMN84",
+      "e6uRmZKlMoI",
+      "0P0ml7bp_TM",
+      "_rqT8wcfFEU",
+      "4hGJ3WCwRkQ",
+      "ophtjuwS46o",
+      "sLXY7L0woPc",
+      "qNh9-MHgcRM",
+      "OK4bfgJjnBA",
+      "z_3tITL0Clc",
+      "poCk8MmhSBY",
+      "Lkrf0YaAM3Q",
+      "jrUDjEVgMNk",
+      "Tylf1VtPkEc",
+      "qODYUajPNW4",
+      "NE8CWMabdmU",
+      "AKECkWrRNuE",
+      "M88VdFORoLA",
+      "cPDpDFEbusw",
+      "rz1BLJdTgT8",
+      "D4WNbhgeLS0",
+      "TLtEqR5QmaY",
+      "h21B9f3ArGQ",
+      "rlO55VHC3D0",
+      "3m9KIYld8-s",
+      "g3DDMMXDxLw",
+      "K5JEoz_JvP0",
+      "djLuTD1GSj4",
+      "6qTUXawQ2ps",
+      "4OTs3G4FyVY",
+      "sXnM1qSDtoE"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaRZFoXAKOiUgz_se7Aaa9O4",
+     "titulo": "Experts answer the internet's biggest questions",
+     "videos": [
+      "_4RlxIHvvCg",
+      "MMf3XmPsrvU",
+      "PaYASBbgexA",
+      "BOUt4OW16_Y",
+      "7WZsR3mbkRA",
+      "0XcppZUxxUo",
+      "KTaymb1e5W0",
+      "c4a47wBV_Cc",
+      "lsyVwDh99rQ",
+      "nxq5eA7quxw",
+      "a4eo_jHHcJ4",
+      "t2vpxXQfPFY",
+      "EP8plsgujZ0",
+      "QJPJz9ki5Cw",
+      "L7YJGecsf-s",
+      "Kx3AbX61XCI",
+      "ubv2eqGhBLc",
+      "Jj2xJEalgqU",
+      "9xYkmEW0cns",
+      "n-nsl9au2Q0",
+      "GKvXcJ8CpjU",
+      "lAD-NFcX4gM",
+      "32BZgV9Lqyw",
+      "hzskP2ZkzBE",
+      "sK-z4g7wNH8",
+      "fnvfacql5Cs",
+      "-mXZPqwqykU",
+      "V9KKhk-UhlY",
+      "qBAGVq_tJRE",
+      "IVmfBd3kFN4",
+      "tQrAuet72u0",
+      "rw3km7iVDVo",
+      "Ed6nhijPdu0",
+      "Y9fqLeAqhrg",
+      "QDzIpEI_RVQ",
+      "Sxb-sv5FyHU",
+      "1BQMR3fz3Tw",
+      "GFPGZajXkoM",
+      "O0qhREeEbBo",
+      "NvmadJmlKUY",
+      "IxX5ZnSArn4",
+      "aw9y2JFtK-Q",
+      "YL5N1Yx5994",
+      "59B_0JKQXIQ",
+      "yWJToLq2RMw",
+      "_p9nBxzxj2U"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaRMZAEw6FcmzRucO3FWdRTq",
+     "titulo": "The ADHD Channel for Women (formerly MissUnderstood)",
+     "videos": [
+      "yxigzfaJkjQ",
+      "J6-ZYugcOBA",
+      "tlZulOveLKM",
+      "f5aUsb5KHZc",
+      "rdoLpZgYp3s",
+      "26YDfEsE4-g",
+      "BC5YJ7FZm2M",
+      "vhAARNPEe7s",
+      "5OnBFwPQYjw",
+      "35BdhVYvUXE",
+      "-Lv7jmdqTUU",
+      "1p6avRRo-cU",
+      "VPhwmq1QnyY",
+      "vOC2oZrtqaU",
+      "Pyx7oDNSRcM",
+      "Dht7qxjz4wA",
+      "xFb-ExrRoKs",
+      "6u6aWaaSiu0",
+      "LXfpPg71mLY",
+      "sgUO22b6pMY",
+      "HU0LXVpEXlo",
+      "YsTiwhrlQYY",
+      "FJt0gYnWkVI",
+      "JDaa13BNRuY",
+      "Q2y8IS5mtKw",
+      "s8tIoar5R-U",
+      "l5ty5pbL_A4",
+      "sAKi2h5E7AQ",
+      "JmLA_SVoS0A",
+      "ALwJOLN1l5A",
+      "RFfIQKIDqnU",
+      "NveDZKpy9kw",
+      "BbKc10WXfWM",
+      "oUi_5XYfbkI",
+      "Ih1KqlvwRf8",
+      "xq3EZFHVtxs",
+      "6wZvy7yMN84",
+      "d333HOGzewQ",
+      "RmcSpKmJnIw",
+      "e6uRmZKlMoI",
+      "hd5PaMGdacU",
+      "Gkmv_MeCm60",
+      "0P0ml7bp_TM",
+      "it1n_2SHpIM",
+      "K18XybbIVjk",
+      "_rqT8wcfFEU",
+      "8Vm_USi8KrA",
+      "shgg5cPVwQM",
+      "4hGJ3WCwRkQ",
+      "vOZRTqSchsY",
+      "mRfmLVO1K0o",
+      "XD4ozmX7IPI",
+      "Nj2GKSbPMuE",
+      "ophtjuwS46o",
+      "XofQ9q7euvA",
+      "sLXY7L0woPc",
+      "pno77KQ-5kM",
+      "Y-0IC6jLQ9M",
+      "qNh9-MHgcRM",
+      "lvT7K-sNyiA",
+      "bmXCTN_NupE",
+      "ZfWLi0vw8-E",
+      "Cv0h1IIMWc8",
+      "OK4bfgJjnBA",
+      "BAk8cIB0w30",
+      "z_3tITL0Clc",
+      "nwF_Ax32390",
+      "9sJ7Nir_cf8",
+      "_oE4R3oqOFg",
+      "poCk8MmhSBY",
+      "TSlmQLoOgig",
+      "0jPr5AZnPmc",
+      "bFOEpcEK0mg",
+      "jOPIhB-h6sM",
+      "CbSvFUSu8OM",
+      "Dvikfgf8P4E",
+      "Lkrf0YaAM3Q",
+      "w4ofo3hR3xY",
+      "G8xUIjyuA4A",
+      "bLU1uqHG13A",
+      "qODYUajPNW4",
+      "w7ayDcHnt-0",
+      "Fi0w-B9Mf_A",
+      "aIrLObrQW1M",
+      "NE8CWMabdmU",
+      "ynAIpx6hovk",
+      "xZgIXxYqyhs",
+      "S33t89x8SRo",
+      "ZQS4MOcaMX8",
+      "B9n3pOxeev0",
+      "UFtpbna34EI",
+      "AKECkWrRNuE",
+      "sIRmYkBedSo",
+      "GHMX1syFCww",
+      "_Lt-_wmMFuE",
+      "M88VdFORoLA",
+      "sFVYlLYi894",
+      "ksxn9itrtsw",
+      "yRlWpcJwPbw",
+      "cPDpDFEbusw"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaQG26_d4num4Bh_VGY6b_RP",
+     "titulo": "Sorry, I Missed This: The Everything Guide to ADHD and Relationships with Cate Osborn",
+     "videos": [
+      "0Z-3hfsmVVI",
+      "Xoo-x6U5iiA",
+      "XiEIdBmLWQc",
+      "qbIJlK4up6M",
+      "j_6RPFuyjXM",
+      "fnV2DMwfY3E",
+      "QP2UjERzZkI",
+      "tZzzpgjQKdA",
+      "Ap5u6yLPSsM",
+      "jAToJ6MJ5rs",
+      "CHUn3vn5Fak",
+      "soLos55wDls",
+      "TBem4zAjcOM",
+      "NyqlYRJccg0",
+      "WiY77getRRM",
+      "czJwCik51lA",
+      "8lFfDaFA3DU",
+      "BRVxx-UviYU",
+      "EAKYMSk4TXs",
+      "4CTQraHm0EI",
+      "lPQ-4iac_b8",
+      "sFVYlLYi894",
+      "GHMX1syFCww",
+      "B9n3pOxeev0",
+      "xZgIXxYqyhs",
+      "w7ayDcHnt-0",
+      "G8xUIjyuA4A",
+      "CbSvFUSu8OM",
+      "0jPr5AZnPmc",
+      "9sJ7Nir_cf8",
+      "Cv0h1IIMWc8",
+      "lvT7K-sNyiA",
+      "Y-0IC6jLQ9M",
+      "kFplEuT4xOk",
+      "Nj2GKSbPMuE",
+      "mRfmLVO1K0o",
+      "shgg5cPVwQM",
+      "K18XybbIVjk",
+      "it1n_2SHpIM",
+      "hd5PaMGdacU",
+      "d333HOGzewQ",
+      "xq3EZFHVtxs",
+      "NveDZKpy9kw",
+      "ALwJOLN1l5A",
+      "s8tIoar5R-U",
+      "JDaa13BNRuY",
+      "sgUO22b6pMY",
+      "6u6aWaaSiu0",
+      "vOC2oZrtqaU",
+      "VPhwmq1QnyY",
+      "5OnBFwPQYjw",
+      "vhAARNPEe7s",
+      "f5aUsb5KHZc",
+      "J6-ZYugcOBA"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaSwT4PFpqs_qcEtmvvZ7DNh",
+     "titulo": "Understood Explains IEPs | Podcast",
+     "videos": [
+      "Wl7SthSDIdU",
+      "ee0DNATv5Ro",
+      "9Xqf7ezG4WM",
+      "batBs26rAZQ",
+      "aq-GFLi19Ik",
+      "_jtSrDXwkMs",
+      "OH93qFY6wpg",
+      "9kPbek75MNc",
+      "HOHsQkUKuhQ",
+      "gURUkcT5Hrw",
+      "_CVtL2RzqUA",
+      "pJqLbB373ho",
+      "Na0xAQ71N_k",
+      "9jUCYMoMMHE"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTB_TOwL7P6QG2XGHVjklQ3",
+     "titulo": "Understood Explica el IEP | Podcast",
+     "videos": [
+      "zTeadCexyTA",
+      "xBv2vZCReTQ",
+      "gu8Rt8sMOHY",
+      "eELAHL6YXa0",
+      "77B6op_fUuE",
+      "5ZHR3ObLvS8",
+      "ce2jrOgr6NI",
+      "-uq5Kn2NTQw",
+      "fVzSh9Y33c0",
+      "AAB0sERQo5U",
+      "KbvWRnIhSsA",
+      "EOr_Rgr-KRM",
+      "z2iX1yIOstM"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaRKLfhInH9W7aWjsuRmrFuX",
+     "titulo": "Parenting Problems",
+     "videos": [
+      "dXcTo-nUXzs",
+      "wamF3tLhX2I",
+      "DvtmhayASWQ",
+      "B0eq66rkoWE",
+      "ShzIm0n3EbA"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaRWz5vf6ukUoSezo6d-afOV",
+     "titulo": "Many Faces of Learning & Thinking Differences",
+     "videos": [
+      "Qo-woR0hzKk",
+      "a8IcH6kt1pU",
+      "y_tu1kS_6sI",
+      "A2HF-thcT_E",
+      "8N2NsF341F4",
+      "gVZjNJX0AdY",
+      "Dj1R83eFlHA",
+      "_xldybjmZHg",
+      "0zCXh-qzc4U",
+      "UqGcNez5TzE"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaRfyetTZccPjnup_fGmBiyC",
+     "titulo": "Parenting Behavior with Dr. Andy Kahn: Your Guide to Getting Through the Hard Stuff",
+     "videos": [
+      "i3-vmaPTJ2o",
+      "LQXbSKT1Pkc",
+      "4dcXfHRTlTY",
+      "fo9nhgv7P7M",
+      "6Qq1kSq485Y",
+      "nPu8oCAtogk",
+      "kEgzTRk3OeI",
+      "xonIHZ2rR7M",
+      "TV4lbaf16qk",
+      "CNQwmS9NXWo",
+      "XzQCNcERziM",
+      "76VFcA7hmog",
+      "9IsMztJswlE",
+      "5dFw8DPY198",
+      "7u9WKjmL0zs",
+      "XoBmscHLhYI",
+      "sxxOX4TKYMc",
+      "v_9YK7mdxRQ",
+      "meWw-1ZoXqM",
+      "JtOPNpwHxWE",
+      "wSJT08gIo-I",
+      "1yyIhNK4QOo",
+      "yVC8pQehToQ",
+      "Aam92wSYoKQ",
+      "pNW_bn2Teh4",
+      "ynvuqJPKA0s",
+      "-RnZMKe4tM0",
+      "OjCs8hPuxEQ",
+      "jg0WH0JucEU",
+      "kX2RRbpNNxs",
+      "OlD85lFgszw",
+      "hfhWIF5cyH8",
+      "v8ltvXxTr5c",
+      "bDtNk0IdDdI",
+      "sc2S4_-9U-k",
+      "z60T9tforkk",
+      "lD8-BukohX8"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTXq-qxVnCgTqp-HsenBM6D",
+     "titulo": "Understood Explains: ADHD Diagnosis in Adults | Podcast",
+     "videos": [
+      "fCVNjmK-Q68",
+      "cdBywSIOlxI",
+      "yGZyB7hbSP0",
+      "X_Xq0YSLj5s",
+      "ytfJeXBvYeQ",
+      "Cg_Oo6RIOZ0",
+      "Aw7Yt6dDDTo",
+      "C5-a0aKOVkQ",
+      "nWcD0CoJsv0",
+      "7V1oMK-xOu0"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTqkZuTMaZ_aMuaBFEEeWyw",
+     "titulo": "Our favorite TikTok videos 🎉",
+     "videos": [
+      "Qj7f57N23LQ",
+      "8yxnz59Koa4",
+      "Vc6R88ZRajE",
+      "rdwueAnKwSc",
+      "KZsFfiZ9kc4",
+      "TqPOX94rcqo",
+      "dRuY6lK7-k4",
+      "9R9sUYwQIEY",
+      "qbgdNrWtEx8",
+      "VifqlggXMe8",
+      "SsdupsqfCI8",
+      "YtzoFxz5AWw",
+      "PzwnHIH-3ak",
+      "58kbig0wF6w",
+      "F8j56PXbsfc",
+      "dFpRRgVIbNA",
+      "p9XRDPe3Q5I",
+      "VeInNRRqOfc",
+      "FDj8EbZT44g",
+      "xUOvGzycR_I",
+      "knzsE1YEmZQ",
+      "t2RnGI1GfmQ",
+      "Yecm4OF26qM",
+      "ahR7DPslTqU",
+      "QRlnG_kVPnw",
+      "6R_AutG928w",
+      "VLdl83uQXuo",
+      "s8vIMG-mO7I",
+      "E9KhTHZg_hE",
+      "EYYN_p6XC6o",
+      "0dtIGKVfojk",
+      "I8fiCIIFaUQ",
+      "BPPxuPByBBk",
+      "RlZIb4EgDe0",
+      "lq6QHJZNHpU",
+      "pNDyUk5lgCM",
+      "i1ojgEWdoJo",
+      "u2fQsRVBVbw",
+      "nKF0dampKUE",
+      "D2QMXcgaCeo",
+      "mlRwWFoha1k",
+      "5SI3yg5-s7c",
+      "RUF0n4niqBc",
+      "Zp9GRktJ26Q",
+      "h7dokNScGCE",
+      "YsbV0jNqbaM",
+      "XccZdPvuivw",
+      "90HGyrDF0sA",
+      "HHbHK3wJ8fE",
+      "ykUqU2a3nC8",
+      "Q24o6vmXpSw",
+      "UeDjBQhZ8Kg",
+      "nujGFT9cnn0",
+      "F6hPgaphNyo",
+      "P9MrrhX8xRo",
+      "2VOVhGbokMI",
+      "p2qlWUOgY6w",
+      "qEGrCHDD3w0",
+      "tCYcNVIHafs",
+      "ekKMaqpVx4s",
+      "WNEe4MTN2rM",
+      "yVyCM9csAaY",
+      "AaMIFOdCAVA",
+      "1wSEbW_nIrc",
+      "dV1hVDpSQM8",
+      "U7CTUEP4t5I",
+      "d_SqI1mRmoo",
+      "GB2IwfbKryw",
+      "Li0eN3Skzwc",
+      "6ndmhYtyNUU",
+      "PhpD0DS1els",
+      "Vz4Y446ZFeE",
+      "sx19Cx02nos",
+      "EQAgcAlkcG0",
+      "_F-RtneqApI",
+      "rz18Fh8Xp6M",
+      "zXl6xrbrSIM",
+      "aRXEAbC1KnM",
+      "3ekeau4o8JU",
+      "P76ouuFXYTc",
+      "gCG9iiatgFY",
+      "WAup4_O9bUE",
+      "uQTo-wbtAhc",
+      "LPTGau_H6C4",
+      "4tnsOT6bX3A",
+      "nK46cyp4na4",
+      "e6NM5TY38bQ",
+      "LJP3PgZDHVk",
+      "pC8Ta10r4cU",
+      "XO76zYtmG4Y",
+      "WVoOG-zac9U",
+      "-eAyHmkVHjU",
+      "JOOtDnF-Fmk",
+      "L6D32ZFUmes"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTs3L4hw9BfJQKKSn4uSyJ1",
+     "titulo": "Opportunity Gap | Podcast",
+     "videos": [
+      "epItTHL9rFg",
+      "k-zbEVzX5rE",
+      "kiCccrpdaYo",
+      "V9VI2d1nRxU",
+      "f0F2xO0UNpA",
+      "aT-130xg5ks",
+      "rXDmOcDD66M",
+      "ccmGX9AiYDI",
+      "QVvyQFlagUo",
+      "9CW_Hcf-bWA",
+      "zdrPzetAj8E",
+      "6Pe-q44F8SY",
+      "a0zUQK0nmhE",
+      "6caIBrnzSg0",
+      "n-Zj2P3Oooo",
+      "83-93F3mH68",
+      "lqufLcV3UxM",
+      "zSccfLugWBc",
+      "T_AERt4IUW8",
+      "opCmVIoNBzU",
+      "gHAORVWrgyI",
+      "Db-Q5EpwhrA",
+      "EZ_KYlTeR7M",
+      "CWhlut8rodc",
+      "iFk4lz6pf9g",
+      "sbTDJAxB7LU",
+      "X2SqrAOnZJM",
+      "S_g9LeQitq4",
+      "x5txYhDNc6U",
+      "psHf4EDn-wA",
+      "K5WQMRNFwW4",
+      "LNZrbXlq-uU",
+      "pCMbgxLkeWA",
+      "idigZ15uz1M",
+      "H4py1ItZ8jY",
+      "mG_GVg82RWw",
+      "a_zMVv4q5u4",
+      "ZVndT920D-4",
+      "HqAPZbVkiC4",
+      "lGbm0-g5vHc",
+      "_H7_iMmZrcI",
+      "fjG-xHr9xk8",
+      "bO-ZoegzKdU",
+      "8qC2uK_krrM",
+      "AIKK-MHqwog",
+      "yeOqvgt5VGA",
+      "cUQBHRjLGYA",
+      "MflTV8e8lHA",
+      "ApDS7x8Wac8",
+      "RD4ZIN-KIUQ",
+      "wil19FI3YZU",
+      "BMMiZWVkITw",
+      "pSOXdeNfD-c",
+      "mdbZHtBnkXw",
+      "jNHrtzA3jSA",
+      "kLq-4Z2xEsY",
+      "xRFqmQD5Jy4",
+      "UYvxeVLmbno",
+      "Z66iZMOTI9Y",
+      "nkZyF49b_YQ",
+      "d642EPTxgjU",
+      "aeJaYJ6PbDc",
+      "LKiWNOL15pk",
+      "_TSceZf75bA",
+      "jZoC30a_cUw",
+      "O9CtOM2fPdM",
+      "YylxhLbWAL4",
+      "S6n1xi88qT4",
+      "Oy5sIfq38lc",
+      "JP5Pa8g7f1E",
+      "Q8iYYvsmznY",
+      "M6haCol6ZBc",
+      "8t0TF9dB7kE",
+      "ER_cNA7N-UA",
+      "bDAA6Mlwv1A",
+      "fGmWN2G159I",
+      "hKU2gq1CrPo",
+      "40hoCBL5IRA",
+      "SNnSR6drQWE",
+      "ARFUH3j5fI8",
+      "tHR4QeewHPE",
+      "U_oqSWV47fY",
+      "oyoEvb47U0I",
+      "0qAJ2gNRS1w",
+      "i1RVss-l9F4",
+      "tW25muGbSNo",
+      "l0MgkySJ_TU"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTaz9xcbXzihEv-_yNiUEoV",
+     "titulo": "Understood Explains: Evaluations for Special Education | Podcast",
+     "videos": [
+      "kk_kIV5j51M",
+      "PxczseBTRzM",
+      "9NDECWvx26Q",
+      "fryc4GpGbq0",
+      "Z53oL_ptyOo",
+      "m2tyWW_2pEg",
+      "cRNa3L7Ov1c",
+      "VTkwRE5Sxx8",
+      "rqB5qKCHz6M",
+      "B4ACQ4yCeCw",
+      "quUy3TV0qdo"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTrAhKeAIeUYil04Tv9dTY-",
+     "titulo": "In It | Podcast",
+     "videos": [
+      "u4EZvjQRLFg",
+      "QnbDNT4Y9ik",
+      "TvbZqoKa6iY",
+      "8iQwiuoIIhM",
+      "J047f7DsLY0",
+      "Mkx_hRxWRzE",
+      "jWU8Omrutlk",
+      "cUiCJb1HcYs",
+      "6URVZieGm1Y",
+      "pkQvTBUqFDg",
+      "6Lka5Is5EAc",
+      "DSqO8DJx3SQ",
+      "yBMqiLVn4kk",
+      "0UFFcPR7UUY",
+      "Cy8uYLdOUZ0",
+      "lfdvCG6Vqcg",
+      "bc9owvQylUc",
+      "0ama7VverUw",
+      "rkHA482DIpQ",
+      "1bmmjYKExJ0",
+      "J-_5FiNcLZk",
+      "FeIbxbqN_4M",
+      "uhHcEvHknwk",
+      "PzK6E-Cmg6k",
+      "CvApg28fWkU",
+      "ap-7nF4pHcw",
+      "W89b11Z6yDo",
+      "l-_u96iJJGo",
+      "MtsBMjXRrYY",
+      "tAsbUaivHd4",
+      "Yehhlx9oXJg",
+      "yZMVx7Ftcg4",
+      "BQjFyBYkiaM",
+      "-2iU1HHFp8Q",
+      "pufyQAXnn4c",
+      "Mwp8g-snixY",
+      "z-ubx6zEzOA",
+      "vxVCL3wRIGE",
+      "WVwGZ8RZCVo",
+      "kBZi7kyU4IA",
+      "USFrltEWje4",
+      "ldMjO2Alp7w",
+      "0GYYoaxybLc",
+      "hpyo5FQ6WfU",
+      "X_MccE-YYFY",
+      "cI2_RD-U-gw",
+      "bkB8lH5y90Q",
+      "VntIA55VNBo",
+      "AGrCkM-e7QE",
+      "o_xJMJp9FG4",
+      "Enl0mtbe9Kg",
+      "1Iisl6dlIpY",
+      "cpbmPpz3H7A",
+      "ifJV4S50boc",
+      "Vg7kqamTe_s",
+      "vgNKHh4j-Ts",
+      "yWkiWOtuD7w",
+      "PsRMxmATHjU",
+      "a2nU1W4S0VU",
+      "KdNBpjEf5Pw",
+      "2NK4FdkC4gc",
+      "X1l4UueuJhs",
+      "35eXalBIAUk",
+      "NooYMkPJxIw",
+      "pYzqZcK5Hls",
+      "AI3Uw75CA8E",
+      "SqItQmWPaH0",
+      "zz7GKaDA6TU",
+      "0-_9uXbR3ts",
+      "StnVfFN0FqY",
+      "q_k9UDcSIkg",
+      "DqJufN20gUo",
+      "tSKuJ9xcx2Y",
+      "ALyviL57JgI",
+      "x8JHkTI6wfs",
+      "62fad2YRJe4",
+      "30RYoaB7RiA",
+      "XoWE7EwJKzc",
+      "6fW_v_X9HUo",
+      "mWNcajWo8FE",
+      "67wT22hxz1A",
+      "aS1-_2Wff_A",
+      "1G-07l9D1x8",
+      "vW8ztXcfJx8",
+      "O9XvGq3KV9k",
+      "A3h16TQC7jg",
+      "9dpJy9SvFLk",
+      "3lvBxLBoGII",
+      "vz42AkwoGWw",
+      "q71RMdkKxPU",
+      "xfhTipVb454",
+      "aIP-KIOhWW8",
+      "HjJlggjuc34",
+      "I3hjo2Ol6Xw",
+      "bsw8Y7yQM04",
+      "Ikh2YsihNr8",
+      "OM9V1zxut0M",
+      "-5v0vUpugV4",
+      "pR-LTv1kSWM",
+      "mQVqf_f4Omg"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaSI-1einslCUN3zaSHobBOV",
+     "titulo": "How’d You Get THAT Job?! | Podcast",
+     "videos": [
+      "jmqb_qr5ZnA",
+      "g3ExkcvSsXw",
+      "VvEtrFZW5GI",
+      "LEkmClASEns",
+      "EgNZNjtmRfk",
+      "6IqYWe90CQM",
+      "5c-p1K9bnfs",
+      "oZPV9gpnk8g",
+      "lzr_d9xPFOA",
+      "sLzMa4oqapw",
+      "NYyjl9PDvIE",
+      "pEH1HxIIKmU",
+      "Plt5nl9Bb_4",
+      "uRdZpYcE7c4",
+      "BPCR3ST7BbA",
+      "NSI7nHEa8rQ",
+      "Gc7x73vNzrM",
+      "eoiQ5PQMTU4",
+      "IH7mkKHhXGA",
+      "3g8mtl6N-_U",
+      "XM8DOE0rzJc",
+      "2grCrmU9BHc",
+      "PXIFVp2P4eg",
+      "FWY8bA1hq_g",
+      "ZjIx-hJA_F4",
+      "MZaKwHYX1HY",
+      "bjZ2NFgvaYE",
+      "voPpFdQ0isM",
+      "FMAPQ2eaRGU",
+      "sGmpGHDiMco",
+      "IaIPoLTG1TY",
+      "zdsTmKGjKTY",
+      "TXsKud101qM",
+      "viXfX_wbNzI",
+      "JzjsPT0x3qw",
+      "OWqmMG1dsYE",
+      "W8Hoh9oBRhw",
+      "gVNUNt6Pd-Q",
+      "vsUiLF2v7jI",
+      "tR8Sdn1nW3o",
+      "hX3uSv6w3V4",
+      "mLJbRPzBqoU",
+      "2pU7vpZng-A",
+      "NKzoBOI2-50",
+      "-GIfeLQiQpA",
+      "tcoJ9y5l6eE",
+      "lymISLbWfRU",
+      "DZgjEPELNwo"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaTDhm6Npx4BRKMWkQBKt2kO",
+     "titulo": "ADHD Aha! | Podcast",
+     "videos": [
+      "sYMgU-aS7wg",
+      "qXrCljGKzds",
+      "_MijwDD7kYo",
+      "stgwhAesOVY",
+      "YsWpJPNvz_I",
+      "KDtLd2CGYTc",
+      "aXnsTkgb4h0",
+      "fwcOO59yGp8",
+      "hrU57ij9BoQ",
+      "TaQ_r1MgFVE",
+      "ySuqy_Zd4nU",
+      "hy5TW6G9ltQ",
+      "C3ly4CRd1mM",
+      "sOHCpUTh-2I",
+      "5Yt9zdqMZvI",
+      "NL6nEoDWuBU",
+      "ZC27KAUfDtE",
+      "Zzk9Tr_ofvQ",
+      "37MEOBmUrNg",
+      "s7MwUfoMk68",
+      "0clRvluBG_E",
+      "CB0Xq8zOtbk",
+      "I1AVL0SZkMI",
+      "INg4fXesdhk",
+      "GOX-N73cP8w",
+      "2wvdQa-6cTI",
+      "ZskyOuSazb8",
+      "EjG2ySnjsG0",
+      "EQPlf2uvCyg",
+      "Jpi7GWKVQ4c",
+      "eZMlpM8aWzc",
+      "IFclo8N8gyM",
+      "1LloK1h2doo",
+      "mgV33BHMbXE",
+      "_M-CZ8L0Zz4",
+      "r2sOqZl-GXE",
+      "3Ppea7fJz2o",
+      "WQIr2M-KBnk",
+      "hikMbjcGSV8",
+      "GXYAjuKhdes",
+      "kC5hjsXE_20",
+      "QI4xIbXvqug",
+      "YpRqtKIarag",
+      "REnBSKIN1ck",
+      "f8nLAhY5A2g",
+      "WyM59nzRAnU",
+      "1bF7STIxm20",
+      "44UmeKjUyQ4",
+      "KFfaR3MoNYg",
+      "Wq8aNfPaobI",
+      "3vFzPAeRp4A",
+      "EwUyglwKBJg",
+      "EzHJx2iCwbM",
+      "6DcXeZJqz2k",
+      "SrctFb4Py4M",
+      "c6MKw6j4OJg",
+      "f7wfVQ7gk74",
+      "8p3GYjFrdh0",
+      "h_1NTIGrO5I",
+      "Z-1TVrjr5Ic",
+      "75KQaatXgxM",
+      "-7nfMMnhwPA",
+      "yimcfzwIUf8",
+      "SY230DCbhkI",
+      "TKpu6T05naY",
+      "NcJYkKZt2dY",
+      "gq4rRLNH7pM",
+      "s6oJlc9Hymc",
+      "yHlUGN0dbgg",
+      "EwKtQh7_jXo",
+      "iOzJD446jNk",
+      "K-LnDnMZZcY",
+      "WGzWQiIy04k",
+      "iCupUGeo8Pg",
+      "e58K5q2Wx9M",
+      "N5pk4A7FKy0",
+      "zFlCOlybeXk",
+      "QwY-RyLSh5k",
+      "ToIu7PU8zMY",
+      "q4nBytpW7FE",
+      "hfT-PgwJkRU",
+      "5I7rl4hZzvQ",
+      "0ZFyr7wQt3E",
+      "BVaF9zg5Sb8",
+      "fmc2W8VIY7w",
+      "jbVkmtqwOCs",
+      "DMcI32x5zJc",
+      "D3pZlf3-oWg",
+      "JoLAZeIj3DM",
+      "FMj-1hfntVM",
+      "KV9xsd2sYt0",
+      "nPXa8Wc7GV8",
+      "pbrOGdXrv78",
+      "XJmujrkm5rs",
+      "Ee3Lfz5ASKg",
+      "xL_3kJQHlyk",
+      "e0Bu7CBZEbk",
+      "0-p7RbLo94g",
+      "xQJoh8jpMjM",
+      "1qIGsiQSHLo"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaQzhpjPp9ZfCMdVTU7udOG1",
+     "titulo": "What To Do When",
+     "videos": [
+      "xNvx6-HAfJI",
+      "tst0_uX8RLw",
+      "0uBj_ysa6u8",
+      "gIDcYX3woAs"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaSRI8biH058x3Sryxarfwc_",
+     "titulo": "Quarantine Chronicles",
+     "videos": [
+      "QbhtxiOt9IE",
+      "0HzVGr-amj8",
+      "SxxKjXzUVaU",
+      "r0zn53QMPCg",
+      "CeRaHCJ1wGg",
+      "7BluviCHJhU",
+      "5pg5LD5nmEk",
+      "JcPEyRJ6hgA",
+      "SiSQg7o79jQ",
+      "hsKcjY_gkNw",
+      "AbW0QUahba8",
+      "g465Bau-Ty0",
+      "8bDeW19Frd0",
+      "NI4oQE9jGss",
+      "4mKLcRhYXcY",
+      "Hu9PTxsSHOk",
+      "fv_e4sWVKtw",
+      "cV64optOgts",
+      "DMLVCTIifLM",
+      "s3ZI7IPneIM"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaSoH19UYd-_49Pgzf0WGGyR",
+     "titulo": "From Our Family to Yours",
+     "videos": [
+      "F55Q30OcQlY",
+      "rVy397jNu-A",
+      "8PwPty7fClg",
+      "byoHxSLy2Hk",
+      "dIESz37h56A",
+      "ngp2fjy2BMs",
+      "zgjk6_xNbpg",
+      "XXHUB5XuBcU",
+      "2Q0MemX59NM",
+      "0vswuUIymec",
+      "3iGH1wBGXio",
+      "HVneksJyuYY",
+      "ecng2rGgyUo",
+      "iTab1RaGFf0",
+      "lN_IA9gQKK0",
+      "7jD2MmKZCAM",
+      "QgZCb5LKiM8",
+      "1zbaZeqcTtU",
+      "PgEBP_ijjU0",
+      "crWpDTjm_og",
+      "MxhO_XmGEms",
+      "cO8Mj0ExjWY",
+      "udDi-bvRqiI",
+      "csi0JV0dq-w",
+      "IPK4KevYiPw",
+      "EJnqykfkcZ8"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaQZGmKD582Wvbh4dXHLZByq",
+     "titulo": "Expert Chats",
+     "videos": [
+      "DfLjCFEqc4k",
+      "ldkp4LhPwZI",
+      "PJOpKC3ytl4",
+      "dikumCQHL9I",
+      "fy9TnMrdFUY",
+      "VtR3zEzkemA",
+      "SiKvkVFyrpc",
+      "IJUGQ4gSKB0",
+      "Ucy_1NC0ER0",
+      "6J_5YPJJTrU",
+      "20Gh48azhHY",
+      "pKn49WSYDVg",
+      "zzSwIRmcx8A",
+      "kD_OgWNAKcc",
+      "Q37uEn29-ko",
+      "LJCBd0iNKds",
+      "71rQZ9-q2eE",
+      "pPN-foAXezY",
+      "_65HEeKa3ZU"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaRc4UewaNRiIh56sIrI80FH",
+     "titulo": "IEP & 504 Plans",
+     "videos": [
+      "tGYO9XWhI2Y",
+      "A9TgDgHfdlY",
+      "7qkNsR6Cgsk",
+      "Sf3R3iGi4FY",
+      "OuljSHMujEA",
+      "3aL8Vpuntm4"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaSEmaVMM_wYX-hIAtuhfxEu",
+     "titulo": "Tips & Tools",
+     "videos": [
+      "KVf51TojK1U",
+      "7S_uCIOfSmc",
+      "hi3im9MH0yc",
+      "j-LDmi0s-Ys",
+      "v_RbzEA0Bzc",
+      "3a5n_Y6A9PA",
+      "uX11DR97lfU",
+      "MTCiTi_NaiQ"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaSsEgclPXSORU5_VBX-1zTu",
+     "titulo": "Learning & Thinking Differences",
+     "videos": [
+      "CYi2EzPkErs",
+      "_JYphwPhNp8",
+      "IezO567SKNM",
+      "GRJS-jeZ7Is",
+      "l93BTYyHG0c",
+      "fV3E9CRCCx4",
+      "8LDAyf27iBA",
+      "HFa33hpMU_I",
+      "nzOZnS4xdqo",
+      "z5wMXTb0Es0",
+      "K0G6teawxls"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaQ8qiTy7NKfm5Pn2C5YIZMP",
+     "titulo": "How To's",
+     "videos": [
+      "uTx5-C1VxVc",
+      "ZbhMinGwVHs",
+      "QLSzjztQVFo",
+      "ZacqrtwQ-aM",
+      "2e2N07-wCvQ",
+      "tY4VNAXu3k4",
+      "Ug3X1dn__FI",
+      "_DiF3lFzOeM",
+      "d5z3a60rEfg",
+      "WKaQ292QMz4",
+      "xBknCvTnhGw"
+     ]
+    },
+    {
+     "id": "PL0Kjy0JtEbaS9xyTAzF42Xyd7GzNg8TmO",
+     "titulo": "On Dyslexia",
+     "videos": [
+      "DNu4WiQaVTI",
+      "QrF6m1mRsCQ",
+      "DnTiPdzrw_o",
+      "kE3DqJP-nkI",
+      "wDE8FZ_W3lw",
+      "ex3X3IoPqXg",
+      "reU_mmrWmuw",
+      "vT3W7vkRd6w",
+      "n3ejfAWlMbI",
+      "S9Aftu2uZvc",
+      "lkOd0GFu5k0"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "surdocegueira",
+   "instituicao": "Perkins School for the Blind",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@PerkinsVision",
+   "playlists": [
+    {
+     "id": "PLLEUo5gL4-em6Fy3FecWPAWFAHyqoDBcn",
+     "titulo": "Early Connections Conference 2026",
+     "videos": [
+      "Xg_ACCIQEHc",
+      "dLBX20LCex8",
+      "WDNAA8vhFHs",
+      "cqgTJl4OSWM",
+      "WpqzDYOf23A",
+      "CcaRRDwye38",
+      "5bBWxsd0v8E",
+      "ySA8scg14Lc",
+      "qLP9Qyqq9bo",
+      "aad7r3O-gtY",
+      "67wLs0jnHDg"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-ek3HNZ3KyYF0_5RBqaPALaO",
+     "titulo": "CVI Protocol Parent Interview Excerpts",
+     "videos": [
+      "KrdpcVyE97Q",
+      "h5Xy8ey3zEI",
+      "9OczzM4s6Jk",
+      "82ied8PoAO0",
+      "KIj6FC59FZ8",
+      "XQ80F0JlGiM",
+      "OON1cpjJG9c",
+      "NsBFqhru3jM",
+      "QJGGjyMGs2c",
+      "dp7pSBemdJg"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elVqMpQYa_KnKI3dPCvtCmm",
+     "titulo": "Early Connections Conference 2025",
+     "videos": [
+      "1T5QOnUtBac",
+      "5zih99QN1Bc",
+      "A-DJ4mpip_8",
+      "aq1LVmvJtTI",
+      "TAennF5b36U",
+      "TjYov6RRK5A",
+      "agSlmArOAYI",
+      "oSL4dRkmL0I",
+      "zhyXWMqi4Lk",
+      "x4J06-FkXLg",
+      "8csb1sBdrGY",
+      "R08YQtkJ4Mg",
+      "JuP0IWLINOM"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-eneVKQhVy-R3BOpNahJBJgA",
+     "titulo": "Tech Equity and Access in Math: Resources",
+     "videos": [
+      "67sVA0f6YfM",
+      "lo3qXFOc3vk",
+      "5o7SSWjjO2E",
+      "ezOLAEkOZ70",
+      "-3-SG_985eQ",
+      "ZOGuv4GowSc",
+      "UFCMlDJropA"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elFaBsb8vHBGzjCLJgQyDcR",
+     "titulo": "CVI and Assistive Technology (AT)",
+     "videos": [
+      "FQYzAgdGdh0",
+      "Sl4uL7X-_y8",
+      "5r3boh7GEjA",
+      "fhkiaWeN_Bg",
+      "w4UcvLE13_Q",
+      "t0pmE3ljqig"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elKAaxJblwKmbQIClSzQTVK",
+     "titulo": "CVI in Kids with Epilepsy and Complex Needs (from CVI Now x DEE-P)",
+     "videos": [
+      "uj9bnNRFFOY",
+      "pzsjRw5sxA0",
+      "l6HtIBhrnAI",
+      "pz534NxM0sc",
+      "Ox35PvPeqd8",
+      "QnMZWNwzAIg",
+      "qUD7m0IcZ_k",
+      "ty4WmUR8Ew8"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-emLOKM1m3vtJcPUDghSA69S",
+     "titulo": "Early Connections Conference 2024",
+     "videos": [
+      "jTBqE86zGKk",
+      "SYjae11_YW0",
+      "HwgnE5JePk4",
+      "7ps5LJQXVtI",
+      "wdrqSBiCvwA",
+      "s4q6nSaNZgA",
+      "cqlUPT2eCgQ",
+      "mRQX9ROowU4",
+      "FVzScSzmiCs",
+      "ZQOg-r1p_Rg",
+      "2bGvwwfvfDg",
+      "0V2Uk5GAiS0",
+      "1rkJPFa150A"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elSAXr9ypyXRZeTMI4UNqgU",
+     "titulo": "CVI Now Music Showcase",
+     "videos": [
+      "DyNlDOAM-74",
+      "2iXV9ocQ90s",
+      "DLhR_yxStv0",
+      "py2hO7PKs7Q",
+      "YUiQZIOu68s",
+      "ZBQKtB2UJls",
+      "GHMW1O6epq0",
+      "MGAMwUtQmjc",
+      "r14uTpGvBOo",
+      "wGcKcpLvop0",
+      "W_c00aseO5Q",
+      "TdlIi39Tc4s",
+      "O3NFNVetJ2E"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elA9OrKkXRMWooGJemT-Kpu",
+     "titulo": "HackDisability: AI for Accessibility",
+     "videos": [
+      "mmoFfzuokjo",
+      "OX_bvBvveKk",
+      "SbQOgd8Au8k",
+      "NnjKzl6iYd0",
+      "z_VaYlBnRuw",
+      "LjqXvFmIzZA",
+      "94EUuftz3QM"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-ekiR4YjMJTHmsj_EkedAmiB",
+     "titulo": "Comportamientos Visuales Asociados a CVI",
+     "videos": [
+      "Qj14U8DSDTg",
+      "hDwDuzBun7U",
+      "LXBV280f67Q",
+      "d-6ElIQTtbc",
+      "plm0_DhrzO0",
+      "COr_S1DXhpM",
+      "1c-cVZ-IlzM",
+      "M032sezlIiY",
+      "K1EWIKS51hM",
+      "vWTXrImK45c",
+      "H7CRKN1B2fY",
+      "anhaCLcLfIk",
+      "kCdg98R9MF0",
+      "J7fDE4jUcE4",
+      "1qa2fCm5eeI",
+      "9l20RlgdkmM",
+      "4vrapOSAVok"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-enz9zjSqAalgogZ6tsxda2M",
+     "titulo": "Transition Talks workshop series",
+     "videos": [
+      "ayrunspQHEs",
+      "Ri8bwTt_0sE",
+      "C2Wph97GPQ8",
+      "0LdjAmGg8QA",
+      "BirnpWIzhQ4",
+      "x4FtPS5DOfA",
+      "hFgD-Hk19BQ",
+      "KgnKR4Z3_hg",
+      "1i3wCzpdZsk",
+      "KTKRgs1w_E4",
+      "bbMBNlWAUJI",
+      "p9RnE6HMxBI",
+      "IMreYtfBeCg",
+      "JHZYaudyDq4",
+      "I7ExmPALjZM",
+      "28YnPUP8kM4",
+      "pQdpz-qzJE8",
+      "nxvjU8WP0VA",
+      "XXk0XRlKEww",
+      "22HurY_wWRU",
+      "8_qIBjOm7Os",
+      "OrmZwJyum-Y",
+      "jmZTtkuQqMc",
+      "Lg4jV5DMRLk",
+      "FWSpW7rGNxg",
+      "baSVYm_841U",
+      "u1TxivxwYE4",
+      "NG5Ll9yW2Q8",
+      "e-kFzo5BlbM",
+      "x1iWA2Xyx18",
+      "yCddMJmCrjs",
+      "OrYVfV7sQO4",
+      "SweGVQTTa28",
+      "Tey5Qod8wUs",
+      "pZaGIDML0DM",
+      "UjeBOfBWBUw",
+      "pzy8dWzjpa4",
+      "h4DFoESgTGM"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elLOfJLEhLb_6E8Riq_uI2I",
+     "titulo": "College Success",
+     "videos": [
+      "o0QP0LWSlhM",
+      "TyzEczikf7g"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-ekGpfrKRc6Qb2oyjMoQXn9T",
+     "titulo": "Early Connections Conference 2023",
+     "videos": [
+      "NMAQ_qJlsbQ",
+      "wcFInruH1bU",
+      "ZYXIGnGyzLc",
+      "_Ce0VNnBNAs",
+      "I8iV-rVw3w0",
+      "7MPGc3P6HYw",
+      "3fJXlehHuYU",
+      "USAfA7SSxQY",
+      "tJeQ4VdNYlU",
+      "qlkMGxaIJF4",
+      "qbUz28S1cNc",
+      "p_WHjxFtIZs",
+      "OfE3aQOuMjk",
+      "Cy7G82-PfK0",
+      "GiB0nkqy7dI",
+      "qiicAgtofvs",
+      "gczTEmUfykw",
+      "p0YuNAW6cbU"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-ekp9mNcmc7ejeD1MkVKqu9r",
+     "titulo": "Do's and don'ts for interacting with a blind person",
+     "videos": [
+      "cW9oDPfG-YM",
+      "PMMVOuXQtXw",
+      "v5_kR3dQLVk",
+      "xpPGN8TptDU",
+      "_kdpxusZfbE",
+      "6a2Yci-8eKc"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-ekn_4R-hUKPw-_OkM48IlIB",
+     "titulo": "IT Walk Through - Grousbeck Large Conference Room",
+     "videos": [
+      "nfRSv1UpKH8",
+      "Y9JO_10q2rQ"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-enK0_po9QhdDlRvMpYYO6gA",
+     "titulo": "IT Walk Through - Grousbeck MPR",
+     "videos": [
+      "ndy5vcm814Y",
+      "IIgENMSRJzM"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-en2s3MYanvM40X_von_9j1H",
+     "titulo": "Women's History Month",
+     "videos": [
+      "2xXOsXOrs3g",
+      "DdmSVqiBn4U",
+      "e-Iy5fUWiCk"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elKb49_VV-mSD3xScmTW0Y6",
+     "titulo": "CVI Research and Clinical Practice",
+     "videos": [
+      "xlh0SFKHUtE",
+      "lvhF_IkBFeg",
+      "DVUVdcgQmJc",
+      "pOlowc1JC1U",
+      "m0mC-fCFTjM",
+      "2ym05LLzCY4",
+      "7rkti6OJcks",
+      "WuMDqkElfMk",
+      "XqVRbXdenLU",
+      "dAphy9j3NzU",
+      "-qWJf8BVdbc",
+      "bysREdQAHuo",
+      "1W1cjvJmKtY"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-enskVoAF02HJ26I4j7_oCsh",
+     "titulo": "Why I Love Working at Perkins",
+     "videos": [
+      "qdNXu2qZ7Y8",
+      "MeJzqeGEeLE",
+      "LSN907i5TFw",
+      "NGKWMypGjHs",
+      "E9qRYaW3U78",
+      "c0lwIiKtggE",
+      "q-GmGQH47HU",
+      "UOr1Qwjox9E"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-enEhpyzN_wlir9NsV-utBDu",
+     "titulo": "Trainings",
+     "videos": [
+      "F2CBB2l0uF4",
+      "cX2Zntip6nM",
+      "Prs90EmdjRc",
+      "4ohyvlXVWQU",
+      "7kDfNymf6BM",
+      "-geQMgb9Vco",
+      "0rzqgTH6GS0"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-en5LpJh0JX0z-0qIzPSnhUB",
+     "titulo": "CVI Visual Behaviors / Assessment Areas",
+     "videos": [
+      "sbQctx5BJAk",
+      "kMuN_BWdPuw",
+      "Qbr_Kphn_7U",
+      "-BcqQTi3YLk",
+      "egqxAKF4Iag",
+      "SExHuCcQz48",
+      "VoIsRd22oQo",
+      "KozB62n566E",
+      "WCBp3FV2cxg",
+      "uAIrhzbfQr0",
+      "nGVg9j_x5PA",
+      "M6kuStrwlmI",
+      "WVLPDjv191o",
+      "XktzzVIr7vI",
+      "d1l9KT8cM6I",
+      "ni2JXWzMZFI",
+      "asMvZt8OSqo",
+      "d6X8wdEZ_Zg",
+      "sNlGkObN33w"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-ek7QbZQkVigc6phqaqXiAe3",
+     "titulo": "Meet ELP's - class of 2022",
+     "videos": [
+      "Q4RAc6EjAQY",
+      "s7sy4SYgOPo",
+      "hd9wD9lUd-0",
+      "X09uQ7yZt5c",
+      "E4FxJ3GzTAk",
+      "CBz7K2VihKA",
+      "wYHhS82QxRg",
+      "qRwxcdFIHqw",
+      "RCowLObZF8w"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-emjBRn2kKfKpQov0zCmKv5Y",
+     "titulo": "Kids ask, Perkins answers",
+     "videos": [
+      "qIHQMAYskuw",
+      "K3J_6iZnVFc",
+      "C86kN-0qVoA",
+      "qM_5TFJuqx4",
+      "OM3YJT4sc1w"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-eljTYfhXOxM-Xu4Zk0BfHb5",
+     "titulo": "Assistive devices and their secrets",
+     "videos": [
+      "VRm8yp5ghbE",
+      "00L_zSlRSf0"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-elvf8EPBQsHpkw0R4ulikhI",
+     "titulo": "Tactile Symbols",
+     "videos": [
+      "yWlQDfBj5BM",
+      "-1j8QyHdAKY",
+      "jBTXJVsPUrY"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-emVhsIRWPfndCi5eomdjpy_",
+     "titulo": "Everybody In! Walk/Move for Perkins",
+     "videos": [
+      "XeQgyc-FRJA",
+      "9eSHVumJEOA",
+      "LzEadOepyP8"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-emXcwB10wgfGjUBmz6Mwjac",
+     "titulo": "38th Annual Early Connections -2021",
+     "videos": [
+      "-VFfnOsR_LI",
+      "_P-zzxK9-sY",
+      "TAfBOkIs_Xg",
+      "Zj2h8cBWyKY",
+      "Tjsn6YBc9-Q",
+      "mbDK_-oli_o",
+      "LJVnJqjZq5A",
+      "PwTUmve39Hg"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-emad00SjiSOP_uHOJLBmLU9",
+     "titulo": "2021 Perkins Perseveres",
+     "videos": [
+      "5HC_Kcxuxd0",
+      "d9yaWbLATcw"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-enEtTq4CpQ4kUIciO9V7dr3",
+     "titulo": "Planning for College and Career",
+     "videos": [
+      "-PvzqY7PxdM",
+      "Uh3_sNFxPLw",
+      "yJYpHh3RuLs",
+      "nZ62F5unNN0",
+      "luRYNwCb6ZE",
+      "JWzekca3UTc",
+      "ikWgzeVhWFU",
+      "I97T5BFqlW4",
+      "8rJOCspFdKA",
+      "hn1dgLouI3Q",
+      "HX_g2RiLkSc",
+      "qL-lK1PvOqc",
+      "sgE2ARbTxN0",
+      "_5kLs8QMIOs",
+      "KCZHbxBkA6I",
+      "Tr2n0N_2hZE",
+      "UYswQaz9_Ug",
+      "rgvOGqHfkRc",
+      "Ukk3L7rXR7k",
+      "6S8tV4hAkks",
+      "ysAHJt-hHBM",
+      "_IjgjG3cbv4",
+      "iS6TLzWdPUk",
+      "_iqfkKyn2k0",
+      "d0u4Mzf_Pcw",
+      "4OSEv2MEg4U",
+      "4KqKUcDn8wc"
+     ]
+    },
+    {
+     "id": "PLLEUo5gL4-emCcjf7eftM-X_zqOb_A2TO",
+     "titulo": "Perkins Access",
+     "videos": [
+      "zWMgp9ZMztQ",
+      "k251V562qnA",
+      "5TZe0rFoXZs",
+      "KxhRV18m-d8",
+      "OREKbkZjBDA",
+      "Q_XcnyYkrEs",
+      "AWPIbBYp4A8",
+      "vXeEl0I2gTM",
+      "xYHIIwkf19w",
+      "1Z62gDeU860",
+      "SxjX6vND3Yk",
+      "JgVmeA7WIAM",
+      "AE_Q5iWQ_zQ",
+      "A5SAf6J_wVo",
+      "d0gt6Ij5C1c",
+      "RM6xYV7Bu_w",
+      "l8nFLwTuc_Y"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "saude-mental",
+   "instituicao": "OPAS/OMS — Organização Pan-Americana da Saúde (PAHO TV)",
+   "idioma": "es/en/pt",
+   "url": "https://www.youtube.com/@pahotv",
+   "playlists": [
+    {
+     "id": "PL6hS8Moik7ksvfmu-aceTQYUzl29qcXJh",
+     "titulo": "Partnerships for Life Americas Virtual Summit",
+     "videos": [
+      "vG0NjBNuifI",
+      "uUg49PjcGmY",
+      "Gb0YEmwiH2A",
+      "GDLM-Yl4mzw",
+      "NPB4jn_qFEs",
+      "04jaMaR545o",
+      "hTmK1OfjS88",
+      "n5fv0_IcDhA"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksQliSRV_FEjWshtxlVe87q",
+     "titulo": "Shorts Podcast Hablemos de Salud",
+     "videos": [
+      "FoZq2zVg_Rk",
+      "ZeNWHMuRmVY",
+      "ygHGqhCI57M",
+      "tZ0qN3xOytY",
+      "_onCMBe9KmU",
+      "1NOlpUchpK4",
+      "JDcasT2Ee0Y",
+      "eFNAOPqO6_s",
+      "nv6FOkV76Ss",
+      "RjlrsAQkU0I",
+      "uSmXhfgt3no",
+      "cv69UGOWxNs",
+      "Pxjmwthohks",
+      "-3ZezBUXW7s",
+      "JeRY7J6KfP4",
+      "bDOiVCBmcTo",
+      "MZhSVEST1aM",
+      "osCTk07dHT4",
+      "3SP-N3vr1gY",
+      "e4Ysc8mR8Qs",
+      "lSm9N9qv9j8",
+      "IupAl-KBaQc",
+      "Q5aRDpdMyxE",
+      "LaRv-oCagKY",
+      "JRI2eFHaGQ0",
+      "CYq4NvleLdU",
+      "eJnh2cw0W6o",
+      "3M4DqepAbGE",
+      "cz7VnjvSIls",
+      "X2fHoJO_rao",
+      "-ksLEydPi8U",
+      "NU_LzvWHSvc",
+      "iE6voQ1aWPY",
+      "pmzZx5KwEQs",
+      "2qRJb-65O-I",
+      "1373HRw1OG4",
+      "11ixZIMyzqk",
+      "Ny1GIrLxxlc",
+      "iABBS1sbyPM",
+      "O4yblehsO9k",
+      "hMU9MMf0P60",
+      "klbCJX2ogxg",
+      "vBU_s-JCaro",
+      "P8vPs6N-fbI",
+      "xBM13WQXSAE",
+      "PS7tSFBtr0o",
+      "HOl51MADImU",
+      "bonSCe3rCoo",
+      "xn_pGrs6qc0",
+      "sy7iwycdGDc",
+      "JSH80hfr7BY",
+      "FetFnL9CreU",
+      "OrpRDduzjsw",
+      "tduIdgA4sAA",
+      "zNDOBQQ6Bn0",
+      "KxwG9SD144A",
+      "SyrZpSyuM5A",
+      "tj5MBVpWzPw",
+      "l8L_o4W2wDU",
+      "VQzkWb7cjOo",
+      "a7EQbnVSAM8",
+      "u2hyWnQ6u8E",
+      "iim-mgs_zv0",
+      "93j9OCVUbro",
+      "3VUTkvUrdVw",
+      "uAWNHFa5v4I",
+      "rTSNuF1cpcw",
+      "PrIzIow8OjQ",
+      "SksVrllX61U",
+      "LP9oHj5CmXM",
+      "eindMA_5P-Y",
+      "RQOBBT7NCYg",
+      "VGTYB12E4OM",
+      "kx2TP6G8f0o",
+      "qEwvtrtP-FU",
+      "62WeP9CBIhA",
+      "JiavxcElrFs",
+      "7KsFqBwLHeM",
+      "TNted-3Fr-s",
+      "5od5m2nGIDM",
+      "-7tStpL42Ig",
+      "T7OnPoN7JlQ",
+      "he5iLpY4CKw",
+      "3lHy1lyy8vA",
+      "eWNDFzKFavk",
+      "6aKBfUuGCNU",
+      "akIBTgXKtvI",
+      "1UGZLAkpxTs",
+      "-WApAZ93qTc",
+      "RKo3h8032kQ",
+      "fNYje6pHYiA",
+      "kVsAu5FEMxg",
+      "qECiVgO_dXU",
+      "pjMldZGuElQ",
+      "7XYihJWN4Xs",
+      "MxEG-BNLaYw",
+      "pmlOTBRF6Tc",
+      "2bKSLw9mB4A",
+      "d11_ENovsJE",
+      "ukgsSaLfBw4"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ku3Zld9k90vX-TXV5WXqr0b",
+     "titulo": "Video selection: 178th Session of the Executive Committee",
+     "videos": [
+      "htDm9bhu4rc",
+      "696c6N3Pwko",
+      "sLvyeVo-Kjg",
+      "mNcoS9eyXNw",
+      "I1246BOVxB4",
+      "dv6OS_WXFLk",
+      "AY7PPFfyxBo",
+      "JEINTY_0dTE",
+      "1XFBEgwUpJI",
+      "TZp3tOX-3Kc",
+      "dTfrJDBSEtg",
+      "plVfmreVknA",
+      "svFImbjGguA",
+      "aB02zscl3Mc",
+      "8v-jNIslFFo"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kttdWh2yFQaF5cA-xmVTnnb",
+     "titulo": "Kit ANIMA-AA: herramienta para equipos de salud ante situaciones de violencia",
+     "videos": [
+      "EnlzlvHIXhY",
+      "EJV9umY1mZo",
+      "swoQkrlUBJk",
+      "E1rzzB2tPAk",
+      "a_6fydi7SbQ",
+      "IQ4nfcpbkuM",
+      "BDOQkL9bqY8",
+      "XVpSkxYKQWM"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ku0qViOb3LIYWrjqUelnt5c",
+     "titulo": "Mirar al Futuro",
+     "videos": [
+      "s2UXU6Y2X8I",
+      "plOzzkYoNrA",
+      "npltj7z_3WE",
+      "lYCMIMnZsck",
+      "Tb4yNvSAhIA",
+      "Lxl6njmzFho",
+      "YT1dJcvWmAc",
+      "RwiN3bLQlxI",
+      "OzpVW0gwMw8",
+      "7hB0PDj_cDw"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksDCP5MPevIE4Hqu2Dr7sba",
+     "titulo": "ICD-11 Mortality Coding Web Training Series for Caribbean countries",
+     "videos": [
+      "cNhPrvBtwGU",
+      "asC3hrerf0U",
+      "Gk4kz_CY2Fs"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ktRjU5OoAcWuG3qTI-z3FxB",
+     "titulo": "Curso CVSP: Habilidades e Intervenciones Psicológicas (HIP)",
+     "videos": [
+      "537cTLReVe0",
+      "xVJNxXPjm5A",
+      "8N8WE0pbOpo",
+      "kegvpV9GTQQ",
+      "rD5oVuUP-QU",
+      "sI9U10cxvBI",
+      "1fjFQaSQ2yQ",
+      "y7e2tszJFnU",
+      "REDD4hPaglU",
+      "FEWbwsyuAUw",
+      "lxyV-dC9ulc",
+      "z7d5tnhssm8",
+      "Kp1UsRKAsmY",
+      "DdhWtrWZhCw",
+      "0RwszGr4fkE",
+      "JoRBEXJ9qi8",
+      "KkAopiFTdxg",
+      "dqEiIJWobg0",
+      "-k9xIftH7jY",
+      "V6rabJzzSBo",
+      "Lcrhp-hBNU0",
+      "3s__mv2Exmk",
+      "ECOKS9HHnIc",
+      "mQeTElLHQzM",
+      "gxHgyjPg_iQ",
+      "nFKKp6p73Ww"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ks5nnvBNRrm1LC8M_a43rB5",
+     "titulo": "Childhood Development/Desarrollo Infantil",
+     "videos": [
+      "ES-0wG8qCm4",
+      "8CpJiE7zmOg",
+      "H5TG3HLfygA"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kv6dggwzXi5zkH5VB2uJTN0",
+     "titulo": "PAHO Webinars / Seminarios de la OPS",
+     "videos": [
+      "IdLEllBLtos",
+      "6815h5iz1dA",
+      "UhQ9WQkqiNY",
+      "vqPKSELiBcg",
+      "bFh_bW7W5hk",
+      "J1l6NqlD37w",
+      "G-kMjZ_PWZ8",
+      "WQmykOeLElM",
+      "8FUusoOEVV0",
+      "2P9uzzn4tBM",
+      "_G3Eo6wMl7o",
+      "ra8Z9me5iaQ",
+      "-0nJo_Unq4A",
+      "4RSowBq0m_Y",
+      "pF8L7JjC5XQ",
+      "ny-2ME3YjIM",
+      "jqJ__7vQqNc"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksdfIpLgVC71mDoYnoKg8e4",
+     "titulo": "Etnicidad y Salud",
+     "videos": [
+      "LKYBkZ_69GM",
+      "CU1fbRi9Trc",
+      "xSvKiV895TA",
+      "tTRipI8A8YE"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ktnU29G_cIdmFLA1cyqwxB4",
+     "titulo": "Laboratory strengthening in the Americas/Fortalecimiento laboratorial en las Américas",
+     "videos": [
+      "CHsXsO-WkVM",
+      "-r0gQpLd8Fo"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksCTbzJYZs5KgoQdO3RgdnJ",
+     "titulo": "World Health Day 2025",
+     "videos": [
+      "AMWc5sPDVgU",
+      "78TseLLZgpQ",
+      "mhkZFCCicpA",
+      "ho-Va8IZUxY"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksIRsnh4wuwIJ5VNfdh_khd",
+     "titulo": "Programa de Alfabetização Digital da OPAS",
+     "videos": [
+      "UK6uW3mmWPs",
+      "zbcKggUikk4",
+      "V9rAw9C1pvk",
+      "0GX9TVIkcBU",
+      "t6NjQ2aDLlM",
+      "67voW5LvyMY",
+      "BrkhzhVLy8M",
+      "0SToDFETmFk",
+      "THVYwFc0Tow",
+      "DL_gNwbEZPs",
+      "RwgixX70Qgw",
+      "ilMWxfqo2cQ",
+      "WWrbF45rcA8",
+      "ODVmODuNNAc",
+      "EtfVg_-1xkM"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kt2m1Huz_yt-DfrfLzzG5Si",
+     "titulo": "Programa de Alfabetización Digital de la OPS",
+     "videos": [
+      "sXhnvCplnbM",
+      "gXTjB-4qC_o",
+      "bCSG83ZR8EA",
+      "-C-siXzsvEs",
+      "Cqj__dc2d6I",
+      "XVU23Bv7QT8",
+      "l3hTJfpO5U0",
+      "F6yeMEP8kxc",
+      "wUgibRD0WpQ",
+      "ppkfnt-4fSE",
+      "mwdWsD5T40U",
+      "nFwg4NYbZ6M",
+      "wF8QD_e0mI0",
+      "sFP2UPHhqkA",
+      "d08tz9qbqFw",
+      "eF2Zn9J4MPg",
+      "ODVmODuNNAc"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kuCg_4TDVJKweOue31tCy6F",
+     "titulo": "Proyecto APS y Nutrición Guatemala",
+     "videos": [
+      "MabwgDEEBNI",
+      "0L615l9x5rs",
+      "co5BUWk4-YA",
+      "iRiu3eYNZxY",
+      "011Jms_TAUI",
+      "QE7gBwq6tWQ",
+      "GNInmOSFiAw",
+      "7rlCGN6GMNA",
+      "EunqQ73k3k0",
+      "eaIeO9JAR3M",
+      "zn_YSPDVNdM",
+      "vf_pTfOIJX0",
+      "yX5ELhyHEUs",
+      "912uBsaknLk",
+      "AO9u5Pw09UI",
+      "9T78eWy8F6I",
+      "8brLKRQ9l-M",
+      "3kk_SSa2xJc",
+      "tGKxFoqJPuU",
+      "8XgikCceTX0",
+      "Nvr3mloieXo",
+      "yts1wOXGKfQ",
+      "g8_2dyTrH1Y",
+      "0lhqaUEnm2Q",
+      "ipjbJY97G9Q",
+      "klFbnLdKdfw",
+      "ZUSz7h8zM7k",
+      "kUzTsaJcNGQ",
+      "haGBCqB2qRE",
+      "PZiSBdLP9hg",
+      "84TNJeZebCk",
+      "RzfztLtSd60",
+      "9nUOz7Qr0TA",
+      "KH6V9LEiByQ",
+      "pCc-xMmyr6o",
+      "vfyq3cEyuAk",
+      "_Jfq6jMvqPg",
+      "5r8wU75GRJM",
+      "g64BeeLYQjE",
+      "MCt86sCJQOY",
+      "TozBC2WMvqw",
+      "-ipBnegkOQo",
+      "i2hveaVlco4",
+      "alOcAf6mU48",
+      "FBmuka678qk",
+      "9RxC24GmMFk",
+      "MUxDLXCTmp8",
+      "O0uQBy67css",
+      "CLZBQ9zWib4",
+      "wRzX3B-gf5w",
+      "HTUfYzfTpSQ",
+      "mHl33VTUw-8",
+      "58XaRXdxzgE",
+      "ZVqynaRk-Pw",
+      "Tfb88QuFFOY",
+      "oqs9GdP95ao",
+      "X9xyZldystI",
+      "lcB-w1_NL14",
+      "yFlz6oQ2hn4",
+      "iCpJ8-YRrTk",
+      "k1jyc7PC8tQ",
+      "tVo6Lr42Acw",
+      "Ch7AcgkRDFQ",
+      "vaF7FJ3V0yg",
+      "rh9jKEiT6pE",
+      "Kj2KgnKIxtI",
+      "84NCgKF8uIA",
+      "xu9O7EcA3a4",
+      "qEAZrbzOTnE",
+      "fzsbtKbhIQo",
+      "EZTCoN9oi0Q",
+      "5ScSqsP83qQ",
+      "ME6HSffXUhE",
+      "AYFTxhAto_k",
+      "gstOwHMpEkk",
+      "3ZTfY8PuEcs",
+      "esYn1GH4j7E",
+      "F4PXcsQ0FlQ",
+      "VHtHOHgOLB8",
+      "Aq0Is5ktF_0",
+      "hEWpV4_Qj74",
+      "wvdwRud_rA0",
+      "ahMWckQj3s0",
+      "Zt9C17i6Vl8",
+      "-OkJvAyuRcI",
+      "CSh5AqIWvtw",
+      "-P4-ftNvF0Y",
+      "ZMdLSwPsJTE",
+      "ZKSR9OM93fg",
+      "Iapb5cSWmxk",
+      "QEuQgi4lhiM",
+      "VWnMPL7qdK8",
+      "eO0Xk3-HCMI",
+      "EqEdv2RBeqg",
+      "cgl6_ebWlJk",
+      "JqIimleBBCI",
+      "Vf-7_Z35DGE",
+      "UTo9Uw-Fs14",
+      "teHJZj27wXs",
+      "V3YF3uXbVHE"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksEDAO_Qm8jxwzXehleBR-p",
+     "titulo": "Implementación de la validación de Estimaciones Poblacionales con Imágenes Satelitales, Perú 2025",
+     "videos": [
+      "IsLCHo8rccA",
+      "nY1aDxXwF4k",
+      "ZVrUYSAH8JE",
+      "hv_YrLcyO4M",
+      "DvLgGQfLgrk",
+      "a81BY_pvsS8"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kv1UctzTaRB_3Lvl18_SdPd",
+     "titulo": "Diplomado en Salud Integral de los Adolescentes con EC y APS",
+     "videos": [
+      "Lb5xCV_V1_M",
+      "38i1F3ilVkA",
+      "g69RPYFlzkw",
+      "3tb6GkIjXCM",
+      "7QLK3QonrwU",
+      "j56WNVZA8TA",
+      "Jj-BCemUw80",
+      "_55GxfmvyBA",
+      "cVIGm-o27Wc",
+      "yMVGJW7qo0o",
+      "84QFqxvjFeI",
+      "NrTqFcwjchQ",
+      "6HCyt6d9Hhs",
+      "6WPs1tAkVDo",
+      "EIBm9tP8Yjc",
+      "2ft0V5h7fJk",
+      "xlwoI3ZR1fY",
+      "eM27XGPmLJY",
+      "obhUcDCrrMk",
+      "c0nAk1LKmL8",
+      "SchGSpFUeNo",
+      "b65bGTDT0Ks",
+      "RtsYQkCqU8Y",
+      "_blFX2p5XoE",
+      "FOBtd5PEZR8",
+      "toIITfv1GuE",
+      "lv4RjMz86xk",
+      "Nr57bSE9Xo8",
+      "_cELlgbFxdE",
+      "c_6JGEBdMuY",
+      "t-oC26jWn6Q",
+      "4RXRBD8mxNA",
+      "rQ88199flps",
+      "fyPnJBqOkCw",
+      "r1zIGGBv1gY",
+      "J_D5t1kyCEE",
+      "w-NVwsQzFTc",
+      "qWPUEvuegqA",
+      "lh-HRdvIXbY",
+      "ttn5gXg-64o",
+      "DqQ44rkDfEg"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kv-842839p_S-N3QzRIHZ0M",
+     "titulo": "Nodo_Paraguay-Cursos varios",
+     "videos": [
+      "9IiIaCGdw6U",
+      "wTMF1YljXO0",
+      "XEUTkx7Qvfk",
+      "n-oVMLlBPbw",
+      "YPP4eoINjO8",
+      "kUMGAltxknI",
+      "dJp3YHg0Vkw",
+      "U_8RBbkiWWY",
+      "DXB-RqusRSw",
+      "5cvQUO7qPE0",
+      "mC0G9aqTcUE",
+      "23kh3rlQOW4",
+      "Pl36W6n2vKU"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ktSv4ZJxK2twCTkZ0C8gkhh",
+     "titulo": "Seminarios Web Nodo VEN 2025",
+     "videos": [
+      "FMEKX4eyG3Y",
+      "wle1n8dd5dU",
+      "AihQ_0mOnIU",
+      "hLSbUGvrE-M",
+      "WI3doO_FhkM"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ku-Ji7CNKw4U1J39YBvxDUU",
+     "titulo": "Formación UCS - Fortaleciendo la EAD",
+     "videos": [
+      "vtnSXXLmTFs",
+      "BRN2nzfYGz0",
+      "gWEHA9EoZwM",
+      "9hzOvkOnj04",
+      "t8G-2hAKyEg",
+      "5eV3BH5rLPk",
+      "M9Qf-9csImI",
+      "ErsukcGBJPo",
+      "SYZ0KJl4R9g"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ks51PJ6fLNM5wTqCuFyGH54",
+     "titulo": "Curso Básico para Registradores de Cáncer",
+     "videos": [
+      "5y19yjSTyrI",
+      "q3pyG3wdvBg"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kuuu5I3SiyIWCesw4ExX58_",
+     "titulo": "PAHO´s Digital Literacy Program",
+     "videos": [
+      "ltQ8LphJ1Bk",
+      "flFTINaiws8",
+      "FUzy4p-XMpU",
+      "cn9y3YVHHg4",
+      "IntzdOQndcA",
+      "DFNguqmznBo",
+      "w4K1oPlDBts",
+      "PoAZUQ2w3wE",
+      "9ar8ROuhlmk",
+      "865_a16epm4",
+      "qR_di3cmics",
+      "qaBy0rw7Szw",
+      "U8L7RgXwvl4",
+      "7hmamCYfXUE",
+      "d1MUDLxT-9o"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kt7luByHFI9gU1KpKrC1uEf",
+     "titulo": "Herramienta GBT de la OMS para la regulación de dispositivos médicos",
+     "videos": [
+      "TG2HyON2kCY",
+      "T1wxREXa1IA",
+      "dVuaJbFYo_o",
+      "wM_GZiU-Q7c",
+      "KP5ck4N0JTM",
+      "P4tZJUnoG_g",
+      "4Irx4m0JNvs",
+      "6q6lj6GqAGk",
+      "EhjvjQAMzxU",
+      "mjjcVwoI0mk",
+      "uIEhgs0RF6c",
+      "IDqlQ7QXmT4",
+      "HZG5LK-dHso",
+      "Z0wORR0ywVs"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksYWJsjlv5m5wLq6tzXG-hS",
+     "titulo": "Patient Safety/Seguridad del Paciente",
+     "videos": [
+      "edmIH_oDUig",
+      "U4dY4l3fiLs",
+      "itND-YuIGlQ"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kvHuRNBn0OktOSsFVTYJZeF",
+     "titulo": "62nd PAHO Directing Council 2025",
+     "videos": [
+      "yC7MGksElfE",
+      "fbBvjIi-kW8",
+      "XPg2WWB98bw",
+      "QZnRBeuBJSE",
+      "4k0iKcvApII",
+      "56yrEmc22v8",
+      "MtTa4j0h2Lw",
+      "0-_ohY_CaL0",
+      "-eg6VgyEpp4",
+      "UC69XKzs3g0"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kvKwVnecFDwDz-6l7Z222Bx",
+     "titulo": "Turning the Tide: NCDs, Mental Health, and the Urgency of HLM4",
+     "videos": [
+      "5i8xXbyFhUM",
+      "OdoW4LLvo0E",
+      "5ly2kHHsLK0",
+      "MjubcGq3wRI",
+      "q4l7lvKpMiY"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7ksQwO6_ikcyHClqMS64XPyA",
+     "titulo": "Atención Primaria de Salud",
+     "videos": [
+      "RnqRDa8ksRg",
+      "bQJT1IoUV6E",
+      "O9izs-InF74",
+      "1NGjuHviego",
+      "5j5BYxM7l8c"
+     ]
+    },
+    {
+     "id": "PL6hS8Moik7kunKp5dYK-hpcsjCOLrsQPp",
+     "titulo": "Primary Health Care",
+     "videos": [
+      "RnqRDa8ksRg",
+      "yxlyf1CXAjI",
+      "xSqk6yjITPA"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "saude-mental",
+   "instituicao": "UNICEF Brasil",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/@unicefbrasil",
+   "playlists": [
+    {
+     "id": "PLg5IhsOl5bLXNBMf06lne4a_li9JhSHdI",
+     "titulo": "COP30",
+     "videos": [
+      "VVaUh8q4Q94",
+      "BoAhNO6aoW4",
+      "Zg3y4_4IE4I",
+      "dLI2nSMDPOc",
+      "e1kcyDMaK7k",
+      "_e5woJCL54s"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWP2PEm5bz4Q1n0Ib-g4KC5",
+     "titulo": "Unicefito - campanha 75 anos",
+     "videos": [
+      "vRNnr2dpOaY"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXhxWN6bWcSWEmRcmeGB1P0",
+     "titulo": "Legados que transformam",
+     "videos": [
+      "08HGnWjSASk",
+      "KX-iPYHQQ3g",
+      "TNMpJhbl1mQ",
+      "LBc_6s7AWPo"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXV2YtnkWFjlTkoWQbdYhM7",
+     "titulo": "Emergências",
+     "videos": [
+      "jHztkW0x9nc"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWUQD7TrFKToTnbUoCpxDYm",
+     "titulo": "Deixa Que Eu Conto | Vozes da Natureza",
+     "videos": [
+      "OUOGEnxo38M",
+      "ehzIsfd9ZDw",
+      "g7Ze2mCO-_8",
+      "kxI6xXvtR4Y",
+      "tXYlh_DQr8o",
+      "Z9lBk7N6-hA",
+      "bJtBuBTjVoc",
+      "jcCSJoizAOk",
+      "zelY5l0dhYA",
+      "d_9wsAMmExY",
+      "mOfbumkG_J4",
+      "hCJhaVb_spk",
+      "xr7sU1q3Q6M",
+      "k4UklP9cD8Q",
+      "dUfYMybL6iw",
+      "93CN7pNIiAA",
+      "PDoQ_OZirTg",
+      "8sfr0sxjWlk",
+      "Q8g1Q2FhmEg",
+      "SRVsuMfHQgo",
+      "EsdT3Imq5EQ",
+      "PchDo7fd4nQ",
+      "LX-1XeqVHnM",
+      "W4R9YYNOZAE",
+      "UYHmtpprH1g",
+      "1aKXDQXFHSk",
+      "3lKrHnbWAQo",
+      "-XVOc-sPRs0",
+      "36ldrKYqS5Y",
+      "05tO_-QW0Dc",
+      "8s6JM4ej7-M",
+      "86t4DdhgzJY",
+      "2YZBsXE6k40",
+      "2L3tuuoDiXQ",
+      "1OAnQIrl8FA"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXHpjoXa7ndxwthL0QJmKJL",
+     "titulo": "Legados",
+     "videos": [
+      "a-hIT893FQ8"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLV07ClVMTR5rErqnOB_z19N",
+     "titulo": "U-Report",
+     "videos": [
+      "nh3SWe5XXoI",
+      "SeJwzx6Iq3A",
+      "OKefkjdC8-E"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLX2XlMAfxDTTXm_Pp22PA5m",
+     "titulo": "Territórios Conectados",
+     "videos": [
+      "mwcsLblgfLc",
+      "ZV_SCbJKYzg"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXb_XZ5X6C_wm2AvMVObSWi",
+     "titulo": "WASH",
+     "videos": [
+      "g_ncuQFmtdU",
+      "yMmmWYCB5DA",
+      "O0tu3NWMaXQ",
+      "BMELKqkmvV4"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWMjfdXEbxM3Ce-iQjQv-mb",
+     "titulo": "INDIQUE – Indicadores de Qualidade da Educação Infantil – no Selo UNICEF",
+     "videos": [
+      "UFWD1MdQcgU",
+      "GY7uzEie9Gg",
+      "IsXwCKUuO5Y",
+      "3BaetOidRs8",
+      "KTKVqGnXi-c"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWuO69Y5txkI2qn4lIliU-x",
+     "titulo": "U-Report Uniendo Voces",
+     "videos": [
+      "qIGLIahOFfM"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLV-Ou-5YFV0oxjgPXZ_Z1vj",
+     "titulo": "PIA e as Primeiras Infâncias Indígenas",
+     "videos": [
+      "Fxatv5C5Ly8",
+      "4fShbwzPyUM",
+      "mDQf8q3_yDI",
+      "ZZ4R1sCfTQY"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLW2eX50MDRyoPRWeUHvu-a6",
+     "titulo": "Écoute protégée - Loi 13.431/2017",
+     "videos": [
+      "AU4wPfTkArY",
+      "PMZF1Hoh4r8",
+      "lI8IeILrFYM",
+      "lYO2DmvsfI0",
+      "I0Y_EVI6hug",
+      "hGWqK2KxZSQ",
+      "z4VvzjEW94Y",
+      "MxPwkZp9zC4"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXZPYVXy7RT3wjIpzT4HKUv",
+     "titulo": "Escucha Protegida - Lei 13.431/2017",
+     "videos": [
+      "dZ8Thh20b6Q",
+      "uc5bxsHlmCo",
+      "9p75GDwr6Uc",
+      "j_orNjJjHNc",
+      "rnUV6uxxW_0",
+      "eT3j8Gtsp1I",
+      "qrZIwK4zKWo",
+      "nkZmlgYPuRg"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWcDK1LA-8scIgoWokcPPGB",
+     "titulo": "Protective Hearing - Law 13.431/2017",
+     "videos": [
+      "dProN5lsAbE",
+      "ZRhOGEl-cSQ",
+      "rXf46RG3TD8",
+      "2gwQwgSwSSA",
+      "aUlDSCkl5Rw",
+      "MjjxZGeGFmY",
+      "xh3aCgk_sso",
+      "Eb-MELLOR9U"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWtqAPlI77d7cy0eZLi5q1F",
+     "titulo": "1 MiO",
+     "videos": [
+      "0nJN3cPtJAw",
+      "e9dxvadURJs",
+      "mZgFlgsHF2Q"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXohjN0JEtOZ--5u1YB8B7i",
+     "titulo": "Trajetórias do Sucesso Escolar",
+     "videos": [
+      "zCQ00d-1CcM",
+      "SVIewcnQQDs",
+      "uBq_l9Y9sVg",
+      "5RR6NWz4k5E",
+      "Kq3axiZjaz0",
+      "_n8wR2zvqnY",
+      "ys2vKy4Djbg",
+      "RpJ9ndpz_sI",
+      "5OVmoOikFx0",
+      "-RWqA1oCCik",
+      "j_sCsEGPSHE",
+      "FeasRk-g4jw",
+      "Gm15n0_OGUs",
+      "pcZQbUSQJgE",
+      "oNvDAUS5-Vg",
+      "0dE_36YGO7E",
+      "L33grHIVZ9o",
+      "G7mtSYv4ku0",
+      "ORm3_VzqWCI",
+      "aBLq4LSGFC0",
+      "TpbNVVBxF5g",
+      "Q8TsTXpEiMU",
+      "Yj2Z7Ug8OWI",
+      "HGTzuekDK_E",
+      "Wv0pzS2mLqQ",
+      "V-2Jlgo47wE",
+      "xQhSxLFQSKc",
+      "ZDniDRzvB5o",
+      "A2yyOJJHy-g",
+      "JrScE13iaIA",
+      "xRVa6sD_HhA",
+      "gZzEXRqAZY0",
+      "xbvfgGrFsag"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXjHKvqFPz4K9vbRYqUS8gz",
+     "titulo": "Lei da Escuta Protegida",
+     "videos": [
+      "WNFZCET6q2Y",
+      "InM8o4X-kHI",
+      "B2tSWNDfBfI",
+      "TrbqjBFaWE8",
+      "2hCcHG_yLBw",
+      "GrdnyOTm4m8",
+      "CDPFYJhMHNs",
+      "h53uML6V_3g"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLUY2tNNsQsovwpyscUUYv6U",
+     "titulo": "Curso: Proteção Integral e Intersetorialidade via CRAS",
+     "videos": [
+      "i3xsllsiTa8",
+      "_i2Lb2gvApQ",
+      "4Nl3AvNHMAY",
+      "9TSYPPnvbOw",
+      "9KOqpBPN6Zk",
+      "AzcTaSsatNE"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLUpz5VrWdR6crQkYFrURJ-J",
+     "titulo": "Pobreza Multidimensional",
+     "videos": [
+      "VIvGFHqc--A",
+      "zL33-dESzl0",
+      "CxGZUAR2hsI",
+      "-1zH_DyHUUk"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLW-648KZ6QAFCbLR2c_dh9R",
+     "titulo": "Cooperação Sul-Sul",
+     "videos": [
+      "gFNfl6astcs",
+      "7xFCxIP6siw",
+      "OVEXJsAFtOg",
+      "SToKmWtbh3E",
+      "bPikMflXlRg",
+      "VbNbHKN_HXI",
+      "EeCRayMNH-o"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLUQCrV3ob7Z2saodCW6GrHE",
+     "titulo": "Primeira Infância Antirracista (PIA)",
+     "videos": [
+      "-KIrLArVniQ",
+      "1tuA0XXNFP4",
+      "Frj1htgNeqI",
+      "ujm_PVgqu6Y",
+      "uHx8AZqXNcc",
+      "KgpJ4qO7AJw",
+      "wWG4ITS7lZw",
+      "RGqPJBR-1nU",
+      "PYWRF8zGHTI",
+      "ZfGgRY1ceK0"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXy52kp1xE2GzgZl-LIuffk",
+     "titulo": "Súper Panas na Rádio",
+     "videos": [
+      "CHJxx28oxYA",
+      "MoeSTzjwF78",
+      "PYcCFKPkn54",
+      "sBvnk0S2c24",
+      "181i_1HPaHk",
+      "cWENOGHfRNc",
+      "hH_q5-yZw58",
+      "axX5d_fvYiY",
+      "Jkxv7RmF4wM",
+      "_KJN_wbGyF0",
+      "fqQ5dh7yBrc",
+      "smM_wpu73D4",
+      "3-kAwe1mQ40",
+      "b2d8H9ylWz4",
+      "WjcWvfGF_4s",
+      "F90ExdzSasQ",
+      "YFx48St82ZE",
+      "iTd0z_YeNwM",
+      "o9T6tFWy4cw",
+      "zIgN9ZEkJIM",
+      "jAHZTg6ZUCE",
+      "IOigrEC-Tpg",
+      "tZ7gJch_Yvs",
+      "CIZdSEq_Zn0",
+      "S9GxdqRPsag",
+      "OBKh9N4D2zY"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLV7mOsSIznh9PCrSNCBa0up",
+     "titulo": "Curso Orçamento e Financiamento SUAS",
+     "videos": [
+      "Uu53KTc-aeY",
+      "gbDEV5cfnQA",
+      "1MjpSFxS8DY",
+      "z50p6Mlx47k",
+      "MYnUGr8bf6A",
+      "7Cf8GSMK4I0",
+      "_5rtqUHFO4I",
+      "YEz5T1gLyD0"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLXkmmQqxopcLoEiyx8KCaRK",
+     "titulo": "Curso Proteção Social e Atenção Integral via CRAS",
+     "videos": [
+      "ETFANGp584s",
+      "kqXN6HWSLxo",
+      "t3oLP2skFzg",
+      "Bhjuxl4IDQ0",
+      "MksgWUt1RcQ",
+      "_5rtqUHFO4I"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWm9lm1I8dQDjTSV0Lhkn-4",
+     "titulo": "#AgendaCidadeUNICEF",
+     "videos": [
+      "_M4guO1uxm4",
+      "8rC4zHDkYik",
+      "eR5fCp_kB7Q",
+      "njUihUl6OYE",
+      "kC0LPIUGC5M",
+      "dNscKRiSr_8",
+      "rO3GXXRglSY",
+      "nvu1PJX8ZYQ",
+      "hxfuOxJwjYo",
+      "W77JFj3jwAY",
+      "gZRwbqBMBR4",
+      "vOP-53Lp1Wo",
+      "G1ErnYpb-_A"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWGazt2lUoyVIFibtiV0PGM",
+     "titulo": "Chama na Solução",
+     "videos": [
+      "89T00ttx5cA",
+      "JDH1NeHc4wY"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLWT36j0KLj61FIUpmW9VgBV",
+     "titulo": "Campanha Papei",
+     "videos": [
+      "7ArKTxcb_9o",
+      "_riD10Gzyj8",
+      "uSniWDMGaas",
+      "Nty4x_Yw_l0",
+      "0cgNpFxWvoE",
+      "3ZTuVJ8jBiw",
+      "YAGA6yYuOOY",
+      "XN0xD_gXzZw",
+      "btuKzBTAc4g",
+      "fPIpW8UFq9g",
+      "e7X-YKFyIvI",
+      "1dLCVTGNx5E",
+      "KWio_x_Rl54",
+      "MdVhX-MT_AA",
+      "OtkLE-CvoOo",
+      "0Pxc0EsxFUw",
+      "ckyCaiXOEEk",
+      "WZupd1hZX0s",
+      "C9Sxu2lY3aA",
+      "r947TH971v0",
+      "UXIzOcAZl04",
+      "e_3UoBSbLPc"
+     ]
+    },
+    {
+     "id": "PLg5IhsOl5bLVy50tVoGjTPlEWEXNh_CYO",
+     "titulo": "#tmjUNICEF",
+     "videos": [
+      "neG-RxHNRkI",
+      "2tqI6oMFZ6k",
+      "iFmI0Uv1Oo4",
+      "XRZxS_cITHQ",
+      "yDpPkCvxuCY",
+      "HX6ItKGDeLI",
+      "OHqvZxK5oLg",
+      "iGOPtC1vQcQ",
+      "vMCO63CKnO0",
+      "aLYGRnW7BC0",
+      "6Lw9Nz2wesc",
+      "QqZ16BylQ8g",
+      "DxM3hng8Was",
+      "hvb_2cEbaX4",
+      "EiKlgahozGk",
+      "vN_O1JVPOK8",
+      "3EiGmx2_9vM",
+      "UnncyV8m-JI",
+      "iP9BZMdtyAY",
+      "VUimcKH3oYg",
+      "TguGQJjgE6A",
+      "1B46H1xOM-o",
+      "aq0HhXu_JtY",
+      "IbWcAVpRHJ0",
+      "57xgp4wG090",
+      "z1qSpwGQhgg",
+      "R1Oz7-bFpRw",
+      "Ivyy8S5YHig",
+      "IxXiLhmdzAw",
+      "uVycgRG9gd8",
+      "pdsMfgeQZ9s",
+      "9Nco4SUMe7U",
+      "_dzkgrkIupU",
+      "9fDrak91mS0",
+      "aSzXXw-JwGg"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "saude-mental",
+   "instituicao": "Anna Freud Centre — saúde mental na escola",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@AnnaFreudNCCF",
+   "playlists": [
+    {
+     "id": "PLaZguIPxZjqYvO7-bQPN7awHZcW0Dr3nK",
+     "titulo": "National Autism Trainer Programme",
+     "videos": [
+      "mUFtUvH-NjI",
+      "ToiSIZAAW4o",
+      "tp3YM4jl-f8",
+      "pCy32hLFJUs",
+      "Zi_oLlOgO2Q",
+      "wbNSpUIQQDY",
+      "3weP68bvfF0",
+      "RgNGpCSLoo0",
+      "tKUNaQCDP9w",
+      "N_Yr7Ii-GLU",
+      "9cyGfklp1GU",
+      "oVctYmjrb98",
+      "_5hg5XwcPcI",
+      "y6CGvyhJz_Y",
+      "NeUT0fdtn6A",
+      "kR4NrY0QIhc",
+      "Scs6TJ4fw9o",
+      "T8MhDd--ToI",
+      "SNmBYMz8orM",
+      "AwUGo076EQw",
+      "oNPcWRI1_Rg",
+      "mFqtkkzMXIo",
+      "wvoNPfd883k",
+      "linQY7ndUEI",
+      "RzLxlb3_pao",
+      "ZNAJvkibnas",
+      "RFhoQJaCxmU",
+      "D0VzkH7IaAw",
+      "O4NIvYyufr0",
+      "2Rlni4mpS34",
+      "mvf7m6W4hVc",
+      "WATf8bc-PWY",
+      "SEMVumcgO4I",
+      "-8DV06IgHVw",
+      "MQt9_OkHXM0",
+      "e3OjOdrgpuA"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqb5IdqIEXA8ydDmSik2rZlg",
+     "titulo": "HEE Crisis Workforce Training Videos",
+     "videos": [
+      "iixakE3aZIE",
+      "lJ6Z0uLzMt0",
+      "cL6atuWpQ1s"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqbsrMFEpUexdpiFqhG3buhr",
+     "titulo": "Childhood Trauma and PTSD",
+     "videos": [
+      "5iocOm_ixLU",
+      "B0xUwMcMwwc",
+      "qnZEqyD74eo",
+      "F5CrmanerlY",
+      "OPfUBBv-Ows",
+      "mn-Dm36WBs0",
+      "a-BAkx0JJEQ",
+      "vvW9i5EH5MU",
+      "rPirrrZpqeE",
+      "hl0k1A5ygYg",
+      "qPiMLI6SAoM"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqZJUzQOx34EPsP8un-TWcZB",
+     "titulo": "Parents and carers",
+     "videos": [
+      "KC8SGofBTf0",
+      "lnR_8DLqY7c",
+      "ru4XdkgfBe0",
+      "r_yAtOh3yV0",
+      "7k7dhuegqYY",
+      "I8rD_trewGI",
+      "lJBG_ko5n98",
+      "5f7GfbmN5aw",
+      "frpv6JcILMA",
+      "RSpKaWE8prM",
+      "MsS0eWARZIg",
+      "oLoVZW42B9Y",
+      "q5viyKoCikI",
+      "bFHGEIMXDOg"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYO1FCFiBwONCvb1m66QLer",
+     "titulo": "Receiving mental health support",
+     "videos": [
+      "mswq2wsCGyI",
+      "PEP-seB_ADE",
+      "I2XWVtee534",
+      "gq6tUfxP8Ig",
+      "-42W50g-cYk",
+      "oTTtpU7moqs",
+      "-n2kMYFWQDA",
+      "48obAFy2mL0",
+      "Qw7Ft5bD8x4",
+      "lCv5UqGS1Mk",
+      "o1NFHaJ0G84",
+      "37peseB63kU"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYdeZpx6EiyXLFrhZ4dR1yh",
+     "titulo": "Self-care activities",
+     "videos": [
+      "q5viyKoCikI",
+      "7DpfYcqzfTA",
+      "pq0aM4JPAk8",
+      "OwPB4O-eH3w",
+      "CH_2ZvYWlBU",
+      "VGqDAUZwhas",
+      "iaFoICXCDQc",
+      "rpIsj85BolI",
+      "11szWFROqqo",
+      "3JZl9CiWM20",
+      "0pOVlmpjqZ0",
+      "JxDEOKDypCs",
+      "zGx1cUT8VBE",
+      "ywDFD61_zo0",
+      "TMmuAhIydFo",
+      "jw1CWr5oIxg",
+      "FEh8xtH31GE",
+      "ISxmYT4fbBQ",
+      "Dx4f6TEqn2M",
+      "DYCtfpueT50",
+      "DmQcGwLaLSk",
+      "f7Iy5J2_Sas",
+      "Bj62viBVDm4",
+      "BxUw0DZ41pE",
+      "5vzydrnhfCI",
+      "8AYnvHmg33k",
+      "4_z1_ky4HLE",
+      "XOcKCtkh_iw",
+      "yDFSWQ7wVLk",
+      "xF6GP0yFlUA",
+      "EOzs5G-skMc",
+      "rV8mZrLuk7E",
+      "rfH8u47yDxM",
+      "-zU9GT7A4nM",
+      "ks6abAxHwgw",
+      "xI1DE0v9hkQ"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqbTKPcsvlq_qMBXQuk7GfMd",
+     "titulo": "Applied research & evaluation",
+     "videos": [
+      "NA-le404t94",
+      "LbgSVz9VcXo",
+      "_okRjCsN5XA",
+      "9UB-gcnIg-k",
+      "SymMhChYjww",
+      "oET5H1U0XMk",
+      "BM7CJsBhrOI",
+      "BqLvcaijN-I",
+      "iEgT57raRok",
+      "hcHc2p-yDNU",
+      "_fSMArqpOUY",
+      "z1dthlq7bns",
+      "UA9tVE6ZlmM",
+      "iwf24GTHJTk",
+      "o8QTiJ2j_s8",
+      "0QyvvXUS-_0",
+      "9EX_PsN4qUo",
+      "wX1S3wbvYD8",
+      "_IaldYF63Io",
+      "sGxl1IZnaJ4",
+      "KtaE9K1Nxck",
+      "gG-VxZCACmg",
+      "fpw5iBKJYGA",
+      "3xXxapY4BfM",
+      "_AF-xojlX3U",
+      "iyD2oFDCSw8",
+      "SBKIs-owtx4",
+      "mY84FkBUtsY",
+      "enls931HODo",
+      "Y4m50JwskDQ",
+      "Vvgt2C1ejWA"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqbLKPrzFYht4gVnmqhIrfsC",
+     "titulo": "You're never too young to talk mental health",
+     "videos": [
+      "nCrjevx3-Js",
+      "2hVAPFyukvY",
+      "3-iID0EfF_I",
+      "hTGighEVtw4",
+      "9w2dD7WW0kI",
+      "aNCYC1iNkyE",
+      "WcCksFh5l70",
+      "madMRm_jA6Q",
+      "j3BUV6hhYiU",
+      "hOZdqFFxfAU",
+      "wkclI8y1MKQ",
+      "zZC1Cz8kKWk",
+      "7k7dhuegqYY",
+      "uxC3vnBkxks",
+      "XSEfCnGfGHQ",
+      "dVgBabtZDHE",
+      "vBrGOpwxEa0",
+      "oz1S66_pYTw"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYpeMZyKDb_q63egvtPOb7M",
+     "titulo": "Transformation Seminars",
+     "videos": [
+      "vqEvDgRx5jY",
+      "FaGW38Acb5Q",
+      "cIFgkny9vYs",
+      "cXx-9FehJa8",
+      "XBS7VSQ2gkc",
+      "5RmrHxh_xxQ",
+      "wjvz_HLDNTM",
+      "uj-8D7L-coE",
+      "5PHzLvvhj4I",
+      "r3tUjjwrGOE",
+      "enls931HODo"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqbBRXfL-v9gvb-NvtdF43Hn",
+     "titulo": "UK Trauma Council (UKTC)",
+     "videos": [
+      "xYBUY1kZpf8",
+      "_YSA7-xCz4k",
+      "yEmPsmjN7d0",
+      "EutvrbCHi_k",
+      "5iocOm_ixLU",
+      "B0xUwMcMwwc",
+      "qnZEqyD74eo",
+      "F5CrmanerlY",
+      "zskYN3dBmhI",
+      "7APpG80XBSw",
+      "AQv7TJgltZc",
+      "roZvaHhXLlc",
+      "W7OLat5_pnI",
+      "6uSFPa4q5R4",
+      "v8fBIOl22kc",
+      "lkiOE7ebfzY",
+      "r7ciU1SoYgg",
+      "qS_byP40-UI",
+      "7E7RHieSE8I",
+      "MS8n4P6FDmE",
+      "cuPKYg-ItSg",
+      "VIVWNwJMAzI",
+      "U5D_9Ae3Tks",
+      "PtxzJXFd2n0",
+      "xjfZEFdBCh8",
+      "Wl6S8t55eMw",
+      "1vGA4ci8KYQ",
+      "mQPLV1ARCB4",
+      "moyDEfDs-po",
+      "OPfUBBv-Ows",
+      "mn-Dm36WBs0",
+      "a-BAkx0JJEQ",
+      "vvW9i5EH5MU",
+      "rPirrrZpqeE",
+      "hl0k1A5ygYg",
+      "qPiMLI6SAoM",
+      "J7X4Yr0s5sU",
+      "EFrfBJrVLbE",
+      "zhsAkQpD_Kw",
+      "BcygiIR_46M",
+      "94I2BDJPgAQ",
+      "ltW0MGenu60",
+      "u-Q619Qbpg0",
+      "d7OvbN_LHQE",
+      "QVvWuFlC9bU",
+      "O5ugf9EcuJw",
+      "mo3aC0cpU2E",
+      "EQVKaUng2Rc",
+      "KiSAP2T3QHc",
+      "oPJEU6mXX9Y",
+      "y7Nylallys8",
+      "mAYWcwccMlw",
+      "moXalwvRYQQ",
+      "ExIv3YS4K1s",
+      "2JJYnNlz60I",
+      "sxsc87EzRZ0",
+      "ZLSzGMYjKtQ",
+      "6HVIpLLIBdY",
+      "eC_MENQ0wVU",
+      "4ouP8en1YpA",
+      "hxh-pomiDmo",
+      "vXQSHICL0_0",
+      "u3OUUr4opI8",
+      "B-bx8rDa1R8",
+      "DP9f9BCCqQE",
+      "m1B5g5Eq7j4",
+      "EfD8Jhwi_zw",
+      "EomEcqyYzUA",
+      "mrDvvEe6ag4",
+      "PbaOFH7wN6U",
+      "2AxepJGvYvE",
+      "tV4_x5HQswg",
+      "jsc5t5gVaMQ",
+      "xWzVWJEdigU",
+      "TbcYs0AuSGw",
+      "0I0arFqFqOc",
+      "6bdQThQ9brc",
+      "Scyfon-OOjY",
+      "NJL9qjWh0bU",
+      "KtaJmwiY5fI",
+      "9PzgGukiOss"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqbdImg847eTJGJ3cslp6c5O",
+     "titulo": "Traumatic Bereavement",
+     "videos": [
+      "EutvrbCHi_k",
+      "cuPKYg-ItSg",
+      "VIVWNwJMAzI",
+      "U5D_9Ae3Tks",
+      "4Dgf_jfh0E4",
+      "VGSdwdyVa8M",
+      "Wl6S8t55eMw",
+      "PtxzJXFd2n0",
+      "xjfZEFdBCh8",
+      "1vGA4ci8KYQ",
+      "mQPLV1ARCB4",
+      "moyDEfDs-po",
+      "BcygiIR_46M",
+      "SlxND1GKhiQ"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYJ1cs4TX_j2A2YjsnaVXP8",
+     "titulo": "Training and events",
+     "videos": [
+      "xKqX3-DkB5s",
+      "K7_qu5icrRk",
+      "vhy04Otz8yQ",
+      "-x_1gGfo4VY",
+      "azzZItuQks4",
+      "KtaE9K1Nxck",
+      "QOW-1izZYEU",
+      "Fkf4Ed4cAew",
+      "rBGiSIp_zVQ",
+      "sa0VVcM3BvI",
+      "Pz6uUR-T7ws",
+      "Y4m50JwskDQ",
+      "4wbsv72BTTE",
+      "FxHV3qcJchs",
+      "-zHAZjzDSTE",
+      "LdkV09cCohY",
+      "7l6Pns0Te_k",
+      "qnVs9vMNtIs",
+      "0Nh7vT0X6aY",
+      "w7zZDZuSw00",
+      "z7VPc-9QGFY",
+      "TI1GJU2qWb0",
+      "w0fB6X8gsTQ",
+      "oZoQJfsSqbE",
+      "SJMpzk0BTGU",
+      "t3-GmTXHzC0",
+      "PWkqWBnSzb4"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYB882_czNcOGPgWajYoA6f",
+     "titulo": "Childhood Trauma and the Brain",
+     "videos": [
+      "xYBUY1kZpf8",
+      "yEmPsmjN7d0",
+      "zskYN3dBmhI",
+      "7APpG80XBSw",
+      "AQv7TJgltZc",
+      "roZvaHhXLlc",
+      "W7OLat5_pnI",
+      "6uSFPa4q5R4",
+      "v8fBIOl22kc",
+      "lkiOE7ebfzY",
+      "r7ciU1SoYgg",
+      "qS_byP40-UI",
+      "7E7RHieSE8I",
+      "MS8n4P6FDmE",
+      "EFrfBJrVLbE",
+      "zhsAkQpD_Kw",
+      "94I2BDJPgAQ"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqZP8b87qoH-6LFrtMElJ4Me",
+     "titulo": "Early Years in Mind",
+     "videos": [
+      "nuU177obZfs",
+      "i6Ac7tSVJ0s",
+      "UFKiUm9BfRc",
+      "wdtme4nO56A",
+      "R_tZckGhuh0",
+      "ENL2aPff2-I",
+      "-zlIeq3RQIE",
+      "EqpuY_It5X4",
+      "Ddnz19sC1VA",
+      "fNQcMebZYto",
+      "XKJuBemELjI",
+      "VZe-obhMonY",
+      "PMKxw6K_Boc",
+      "bFHGEIMXDOg",
+      "GqmZcxtXY9c",
+      "pcV5sd9wUsk",
+      "5xQPXYpOr-g",
+      "n-khp_P8Knk",
+      "tdWkEs5wXG8",
+      "9BrDch9sjeM",
+      "bP-jTIWC4PI",
+      "aT0aFZjx6KQ",
+      "Pom7rrq-7Fg"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqaS3LXLs21x0djdJzU2jbNi",
+     "titulo": "Postgraduate studies",
+     "videos": [
+      "8WZfClLcOl8",
+      "h75--q9HLio",
+      "fxqLbSgS8W0",
+      "Alq4nGlE4YM",
+      "zRWOnjJIWgM",
+      "ZnKQ25alnPo",
+      "OJTxYdapHOY",
+      "zROk0u2RvR0",
+      "GJd7NqXqPvs",
+      "H2cdHjspbGo",
+      "bgPPZ1hWKms",
+      "vS9YzL4MxKc",
+      "p8K8Pp8fdWc",
+      "N-CBXJJXgA4",
+      "3JYwYUSU6nY",
+      "B911bLjBMBE",
+      "Wvay23IfTRc",
+      "lI5sFgnvbMs",
+      "QYs93u5i1rQ",
+      "ZAR-m5Hlmbo"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYUTAy-jh25YWz5HnipHBPw",
+     "titulo": "Schools in Mind",
+     "videos": [
+      "Q5nCXZkcvOo",
+      "qKyua_ucJu4",
+      "PEf38kX01zU",
+      "gt5iyWMVazA",
+      "Cv2DJ9riXb4",
+      "zhlO5ATM4Bg",
+      "ATjcdfmPaoE",
+      "kFpVOIpeksk",
+      "thnoUraeoGs",
+      "DxIDKZHW3-E",
+      "rkALa6LDw6c",
+      "-x_1gGfo4VY",
+      "OHRdsM6kass",
+      "Ig3oq44bysM",
+      "H9UaMZ3hLAU",
+      "C3l1xVzESqc",
+      "NvyktxmjTA8",
+      "eDEYhKIXCEU",
+      "QoX4_wP4QNI",
+      "-H3BLta2e1Y",
+      "6JSXMU3Yhc0",
+      "1eYNV-zCXw0",
+      "lnR_8DLqY7c",
+      "1WfmDrDQy3I",
+      "Xw-cWujdi3Y",
+      "XD27niCd2zI",
+      "hOZdqFFxfAU",
+      "gomA1mjg284",
+      "4e-yfQiK6ic",
+      "SjSh5SYWFqM",
+      "zZC1Cz8kKWk",
+      "wkclI8y1MKQ",
+      "HIEiUZB-38Y",
+      "uxC3vnBkxks",
+      "msBv13N1ghM",
+      "r3z2jfQJ1mk",
+      "X4mbUn0nDpw",
+      "YoEUWzaCf6E",
+      "R04JB4JbuOg",
+      "xBt7lcAw9x0",
+      "Le6IrBt-qh8",
+      "s1NGC7YzQyQ",
+      "z-_3Hjr7HFU",
+      "9_cmWT0dn8I",
+      "mv2ro53pYaI",
+      "ULn3yxd3dG0",
+      "NYq08Zqdk7A",
+      "IxBG4nlQe6k",
+      "bL1nafuPwkk",
+      "E7ssSwhZCIU",
+      "EIDLrqI_Aqw",
+      "U0-VCo3X2xE",
+      "xjuc78SPyks",
+      "iGk_vOb8yT0",
+      "dknTQktH5Z0",
+      "WJaGRcHr-OM",
+      "JsfDfruOEEg",
+      "HsexgG9-nWM",
+      "sKKLmaKB82M",
+      "CJkbacN88eo",
+      "BZqaHzz8h7Q",
+      "4649qMKeV3w",
+      "UWMirgRHPPg",
+      "hpzgP9jOhPU",
+      "liGo0bVupxw",
+      "NCg8mdfL2Ow",
+      "jWmM3cLG8eg",
+      "Prblm8ic6WI",
+      "GXlPTb0w8GM"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqav_MdSZTsalPGJn2yDA7bG",
+     "titulo": "The Link Programme",
+     "videos": [
+      "5IkoRmzkB_Q",
+      "Zhq_IXBz3lQ",
+      "VeBK0NStyKY",
+      "1HE8vZENDdg",
+      "NdDtYaI8-LA",
+      "EIDLrqI_Aqw",
+      "BCl9-09_sm0",
+      "db24VYGfOIk",
+      "f464EvDHB98",
+      "bbjy5-H1PaA",
+      "w9gb6Aq5_8Q",
+      "SdHJnsuzb3M",
+      "wiitCbkBDYg",
+      "RrVkze19h6c"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqY9yt5-8EpiFmml_DTqEZBH",
+     "titulo": "On My Mind",
+     "videos": [
+      "DxIDKZHW3-E",
+      "37peseB63kU",
+      "LdmRPKUhNEY",
+      "b4eD9Pv8sAs",
+      "ME5IZn4-BAk",
+      "NdDtYaI8-LA",
+      "EMWBf-U0A8M",
+      "-cSbTB9OFrw",
+      "SlxND1GKhiQ",
+      "-HGNmwao7m8",
+      "CnzgNrKRS58",
+      "qklckvB5c6Q",
+      "754__xBsak4",
+      "V-pwQQdCsTM",
+      "Cv2DJ9riXb4"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqYeiP51TbFI3u9YYyIvR_i3",
+     "titulo": "Anna Freud Learning Network",
+     "videos": [
+      "mY84FkBUtsY",
+      "XA2G60M6tzo",
+      "3GWxeSwjdtM",
+      "VZe-obhMonY",
+      "vqEvDgRx5jY",
+      "FaGW38Acb5Q",
+      "cIFgkny9vYs",
+      "cXx-9FehJa8",
+      "XBS7VSQ2gkc",
+      "5RmrHxh_xxQ",
+      "wjvz_HLDNTM",
+      "uj-8D7L-coE",
+      "5PHzLvvhj4I",
+      "r3tUjjwrGOE",
+      "JBoMDwwE2iA",
+      "62FqvsVHKV4",
+      "pUbO8KdSi6s",
+      "95Q-mtI79m0",
+      "ZYrLi10zg20"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqangeC9bBZvh5rh1NKBZhRU",
+     "titulo": "Early Years Parenting Unit (EYPU)",
+     "videos": [
+      "2t2A1v6zN78",
+      "z2GzfFcXYfg",
+      "R_61YKw1SpY",
+      "REmf0Knt-S0",
+      "B_GHo34ZMUg",
+      "8pCO3dzprSk",
+      "ndBeZmwzy4s",
+      "av124C8W9aw",
+      "4b3RPhd8ag0",
+      "afRombotLqc",
+      "603xrvY5QzM",
+      "FvzC590ouvA",
+      "XjOYb7vnw1o",
+      "VAomRazp-zA",
+      "Phni18P44Ts",
+      "jrfzAKg0nXY",
+      "CM_v09NuwcA",
+      "CyCb31rBBkA",
+      "Rikz3rvv1vI",
+      "n6-eR3Prd6g",
+      "R5kFPpAMDF0",
+      "oFQ1zu8cdKw",
+      "38EBpzJDodg",
+      "qfb6ynJanZI",
+      "R0UmBetyAUs"
+     ]
+    },
+    {
+     "id": "PLaZguIPxZjqbBBj3V_kwef1DPKoqXj1ok",
+     "titulo": "Mentalization & Mentalization Based Treatment (MBT) Training",
+     "videos": [
+      "OHw2QumRPrQ",
+      "azzZItuQks4",
+      "9w2dD7WW0kI",
+      "6JSXMU3Yhc0",
+      "bL1nafuPwkk",
+      "U0QJ5dTA44I",
+      "IzBHDSnR2jk",
+      "shUwG-DH82A",
+      "BZl4OtQvDDg"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "surdocegueira",
+   "instituicao": "TSBVI — Texas School for the Blind and Visually Impaired",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@VideoTSBVI",
+   "playlists": [
+    {
+     "id": "PLr4iumrglLBrlGWGyJFH2geW4xO308f1g",
+     "titulo": "Self-Awareness Videos",
+     "videos": [
+      "_rr38yMOFvA",
+      "vHmUj-HxIiI",
+      "UF-X2b-5F60",
+      "AyUdR9GASM0",
+      "3-rZocxWQlE"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBrbccgcmEWTsrSIm7PsgjLw",
+     "titulo": "Syed Risvi Discusses Assistive Technology",
+     "videos": [
+      "ThanEB-ELHU",
+      "o1qtGePPNG8",
+      "QDLeHKynczk",
+      "ztqP5ESYDmg",
+      "fhHhW_D6Lfw",
+      "mG1t2Za53p0",
+      "pyrZl1fOsW8"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBo-IgsmUmxymct94MH4d7aO",
+     "titulo": "iOS VoiceOver in ONE Minute",
+     "videos": [
+      "Zc4CnkuqcfM",
+      "URyFv9YuWTQ",
+      "FDQwGbjYsc4",
+      "SvQubVkpCdE",
+      "TLAw9w_0z7M",
+      "fbyRb0YOB4A",
+      "F40aN3APg2A",
+      "EJBr4J2BTxY",
+      "eNzSRX-81cQ",
+      "Bc1vu0_hJKI",
+      "vXSeyKGNEpU",
+      "NILNLH8y1uU",
+      "2bs8nH2NXYs",
+      "jitKitlDcX0"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBqCK3LgQYbhsDwtOHz7Fslo",
+     "titulo": "Chromebook- Low Vision Tools in ONE Minute",
+     "videos": [
+      "iiIghhN9-h8",
+      "cdzSEupoxz4",
+      "QYyMYlJAc2Y"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBrli-yErqdbwWVrF8A5ew9F",
+     "titulo": "Chrome- Low Vision Tools in ONE Minute",
+     "videos": [
+      "k6N-dOwgXZg",
+      "N4NXFU-D_9k",
+      "7rlerpKnXVw"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBppEBZ26njqNlc--d4wxESI",
+     "titulo": "iOS- Low Vision Tools in ONE Minute",
+     "videos": [
+      "NT02uQRQe5M",
+      "oMCGeHL2pEQ"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBq9pknwlLa6kyGQVB-Uc5Yq",
+     "titulo": "Mac- Low Vision Tools in ONE Minute",
+     "videos": [
+      "XGbhq-nLSw4",
+      "IXn5PBHtK7M",
+      "QBTqD3GT-9Y"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBp6MggSNLIlvzlENvA-O8Uv",
+     "titulo": "APH Cranmer Abacus: Prime Factorization",
+     "videos": [
+      "UiZZ1urGPg0",
+      "CduyrvUj1e4",
+      "-XTvfPcIq3g"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBoSgxTOYbWfCE1WcibHDPGz",
+     "titulo": "Abacus Chapter 06: Addition",
+     "videos": [
+      "qG1NF0tj8sI",
+      "CMVXvvDgkFo",
+      "Nto9HVwDK7o",
+      "PlpxA6-jvUY"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBqzIyAedCfT3X4P1Rf1PatJ",
+     "titulo": "Abacus Chapter 05: Addition",
+     "videos": [
+      "7313-9UO0Ok",
+      "XZtOmZboLxk",
+      "biKPUw6105c",
+      "_3iOa_X3Pp0"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBoTXeFmS1NS0o_dWb1zTGIV",
+     "titulo": "Abacus Chapter 04: Addition",
+     "videos": [
+      "KTSIUzpxklc",
+      "kcE67fQpNJk",
+      "3yk6Ld2cWPc",
+      "RCh7xI4P7Hg"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBpCYI6-aqwcIUdbuypZEpV_",
+     "titulo": "Abacus Chapter 03: Addition",
+     "videos": [
+      "Eyvk0iw27M0",
+      "wJjNJSdSPXA",
+      "Hj4NtwsvZc4",
+      "RYs8xsw223k"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBoEuWSANHoJTl7sHbYH-GXl",
+     "titulo": "Abacus Chapter 02: Addition",
+     "videos": [
+      "goAXOdJndbU",
+      "nSuUwIoz_0A"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBqzMv83-P3maPxlcSWcNNFp",
+     "titulo": "Using the APH Orion TI-84 Plus in the classroom",
+     "videos": [
+      "w-HyfQdSUjo",
+      "nxXOjCDC5v0",
+      "N6Jo_zf8HkQ",
+      "mV7DTgjzKwU",
+      "suK9Whrv_As",
+      "KfVhZm8hjXA",
+      "ft59gg4Bb4c",
+      "zCI99v3Ukwo",
+      "Txbtmm1sf3A",
+      "CLjPrRi1yYc",
+      "q7F0pQgB38w",
+      "nFi3Qn3JkSE",
+      "CKn_VkD9GY0",
+      "XV8mLkDM90E",
+      "a4z-slFN9tA",
+      "aY35_l2NA1E",
+      "1bC14xbPTcM"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBqDvdTxrEL6JrR089d4sSf2",
+     "titulo": "TI-84 Plus Talking Graphing Calculator",
+     "videos": [
+      "NjBPrObM3gk",
+      "oGOhBWZqcG8",
+      "WRDx-RO8Bzk",
+      "MVlOENPIrqI"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBon7hLfcHPp_ggbeny3Ze_4",
+     "titulo": "Abacus Chapter 01: Introduction",
+     "videos": [
+      "0xUWf7pzTeI",
+      "elSiig58mOw",
+      "u7DvYgy3QB8",
+      "rgUkb7zQsAY",
+      "drsUNO8cFsA",
+      "c1a1y9ytHH0",
+      "Hz2Vv8QTVUg",
+      "aaOZ7rqzzxs",
+      "IDR33i-x-Lc"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBpdYoJzI_OMpAKcHFJ599hH",
+     "titulo": "Tania with her teacher - Daily and Monthly Calendar for Deafblind Students",
+     "videos": [
+      "yIiVAhdFzyM",
+      "agcj9MrQbaI",
+      "LCAUnodVW04",
+      "Ki6DmqS_cb8",
+      "62jshMv9qs0"
+     ]
+    },
+    {
+     "id": "PLr4iumrglLBq5u37_DcHPsFXX_To6SKnD",
+     "titulo": "David Wiley: Deafblind Active Lives",
+     "videos": [
+      "TLNpkrBAxok",
+      "vuw2dXr3pkI",
+      "AM-YOmdRVig",
+      "smd-FNzbqYU",
+      "fzjh82I8HJU",
+      "Q9C_GBl4LBA"
+     ]
+    },
+    {
+     "id": "PL64FDA4ED7390AA52",
+     "titulo": "Abacus Chapter 11: Subtraction - Intro to 99/100 Exchange",
+     "videos": [
+      "KPSTE6t7mE8",
+      "w1TlC63X2YI",
+      "BYBP5CYYlwU",
+      "KJA3Ea9LTLg",
+      "a2CPCThwnVg",
+      "VsAxfboawrc"
+     ]
+    },
+    {
+     "id": "PL8014A1CCF90CE500",
+     "titulo": "Abacus Chapter 10: Subtraction - Intro to 49/50 Exchange",
+     "videos": [
+      "2dGhLRufZ14",
+      "JCDxYj50hik",
+      "fq5x46pVj5A",
+      "s-LPIDPwz8o",
+      "1McFlabJ3Aw",
+      "I10n_TDGAlM"
+     ]
+    },
+    {
+     "id": "PL74DA69C46D4A3DD0",
+     "titulo": "Abacus Chapter 09: Subtraction - Intro to 9/10 Exchange",
+     "videos": [
+      "H5ej3VX4YwE",
+      "RxJBc2F7lPU",
+      "2CpoFCM005g",
+      "IKHccKgPK-Y",
+      "-Kb1VHx2pKk"
+     ]
+    },
+    {
+     "id": "PLDA57E27E9E1ED7EB",
+     "titulo": "Abacus Chapter 08: Subtraction 4-5 Exchange",
+     "videos": [
+      "6jP1Kc5xzT4",
+      "1EJGai4Pa9U",
+      "wgelq_6uyxM",
+      "5Q3pkYo4fpU",
+      "xiIz3qKvh_4",
+      "iAqwlYAqYEw"
+     ]
+    },
+    {
+     "id": "PL95E9E545A37D72FB",
+     "titulo": "Abacus Chapter 07: Subtraction - No Exchange, Exchange",
+     "videos": [
+      "q_8rVmlx4Fw",
+      "u0fm-H5JkO0"
+     ]
+    },
+    {
+     "id": "PL1CE33A64B05C4461",
+     "titulo": "Nemeth Braille Code for Math and Science by Susan Osterhaus",
+     "videos": [
+      "MWeMqwfbmG4",
+      "xFE7F2KNv2M",
+      "IlO594kYYWI",
+      "t9BWAVsZxEU",
+      "tNApi6hpJBw",
+      "OHEKAVwA8F8",
+      "AOufPEwZv8M",
+      "MJOuEgPz6ZM"
+     ]
+    },
+    {
+     "id": "PL862E3BB9DCCD06E7",
+     "titulo": "Nets and Platonic Solids by Susan Osterhaus",
+     "videos": [
+      "1oul3OY1B9w",
+      "etgbhlqs2J0",
+      "oWYjyrcFCzo",
+      "kUVVQwtpX4o",
+      "uhtIlhwv2Wc",
+      "o0u6lghCgI4",
+      "8DeuGAyGmfQ"
+     ]
+    },
+    {
+     "id": "PL39F65C745E8AE0B0",
+     "titulo": "Math Stencils by Susan Osterhaus",
+     "videos": [
+      "CjqVtOfsOFE",
+      "iXnNK_cZLOs"
+     ]
+    },
+    {
+     "id": "PLD8B234B2D66E738A",
+     "titulo": "Compasses w/ Sewell Raised Line Drawing Board by S Osterhaus",
+     "videos": [
+      "5vDXNIvp0Cc",
+      "C2i2mnC7Ij8",
+      "y8B59tFWC7M",
+      "VvzhuQRBNUg",
+      "k_aQCxAC7fY",
+      "xKcisdPySwI",
+      "qQoimHAn-KU",
+      "XQbNzyq0NFE"
+     ]
+    },
+    {
+     "id": "PLF8C690446EC08589",
+     "titulo": "Math: Less Expensive Alternative Drawing Boards and Tools",
+     "videos": [
+      "3vh6WeTPCws"
+     ]
+    },
+    {
+     "id": "PLB2DA294317672D1E",
+     "titulo": "Compasses with a Clipboard and the APH Draftsman",
+     "videos": [
+      "pEdCbTzP2gM",
+      "-D_0gwAnAGA",
+      "UnmJs6u5v9A",
+      "6odZw07-bYU",
+      "uWOP94JOiF0",
+      "Oz7cjMHy8nk",
+      "cG2BL-iSAwU"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "disgrafia",
+   "instituicao": "Reading Rockets (WETA)",
+   "idioma": "en",
+   "url": "https://www.youtube.com/user/wetalearningmedia",
+   "playlists": [
+    {
+     "id": "PLLxDwKxHx1yJLI7kM7DsN78G2irGntujm",
+     "titulo": "Melissa Stewart",
+     "videos": [
+      "17vlX6m1EvM",
+      "kUWPAYnQN4E",
+      "DtSl_ng8Ijw",
+      "IXi6lKPguX4",
+      "0gX9xDQchWU",
+      "7nkaUm7zWqM",
+      "o0FLorAFIRU",
+      "6h9e5YF0R8Q",
+      "rtcHFsfh8VI",
+      "s5OnejKk3tw",
+      "5ASY2GodLdY",
+      "Im0ZF2PUmgk",
+      "AxfZhdYCRTg",
+      "QwYuwD8KBOI"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJZt11hQnpyVPLh47Yy41mV",
+     "titulo": "Grace Lin",
+     "videos": [
+      "7hmQe8UNTy0",
+      "DX-sD3y0Iac",
+      "3XSmPxsm-Ls",
+      "PFfWcvxl8kI",
+      "Dbl_6zB9zlA"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKJkGuwoegZXn82zlHZFSqx",
+     "titulo": "Michaela Goade",
+     "videos": [
+      "UjTAxxA8Cy0",
+      "mIrZCbaxjwY",
+      "JvT5hsvUc2E",
+      "349s6_26uPQ",
+      "S_AJ9RQLo2s",
+      "MH768njJ3Q0",
+      "mGWSKAzgJmw",
+      "RlRcetbcKm4",
+      "ev7NyG6LSJw"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKvLfG7j-tKYfngd1CTaIAY",
+     "titulo": "Renée Watson",
+     "videos": [
+      "21MNGyyJcYc",
+      "z3Bk6c7qjBk",
+      "1mo9yoyDC9k",
+      "GT0EOKgoupk",
+      "RCIRxV0aVAk",
+      "DuGsdMS_1ks",
+      "avwyewP2SMo",
+      "Nm2rTchSwn4",
+      "Y9VvyATTWws",
+      "Mk9cxm-DOu4",
+      "a0saC1U5OzY",
+      "nP6kfXvpmyw",
+      "wF3hxlhVFaQ",
+      "7gGuGcLxRLY",
+      "4B3sD3Nj2RI",
+      "UD91bErDFVM",
+      "d_sxLSdSLS4",
+      "oRzXyYnMDMk",
+      "bznDyLTkgMo",
+      "G5t_RCmylpQ",
+      "jUGukm-GQGk"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKo5TKrcm5ebRntwH2Zd8d3",
+     "titulo": "Sight Words and Orthographic Mapping",
+     "videos": [
+      "0aCRDtoMoDE",
+      "KIuwKnZqJEQ",
+      "FoFD3gMEols"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yIJvDDEoq3phAvM30516_mw",
+     "titulo": "Alphabet Knowledge",
+     "videos": [
+      "Y0DoMNNNDAg",
+      "VKN3oJVBvEw",
+      "esMyG7dJu7g",
+      "iM2EJ50xkfU",
+      "h0msjfnoLRc",
+      "x8cr-CDK1Ic",
+      "wBuA589kfMg",
+      "rRk__--hEOU",
+      "uQkQw8QqaJU"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKe9Gv0G3zl6_HS7mzMeSjx",
+     "titulo": "Inclusion",
+     "videos": [
+      "APKj3Bj8rCQ",
+      "CFHJA7vhB14",
+      "PIKbQ41Tkgk",
+      "-7qWSz7omqw",
+      "7XQrwHzm7xs",
+      "NaDaK4zqx7c",
+      "uIuTXwSJJeE",
+      "J06zyi22I3w",
+      "qfau6gW0HJ4",
+      "JCiYGlYZwq8",
+      "tRza2nHOsk4",
+      "4cscJcRKYxA",
+      "CJ05dnOBUUo",
+      "CX4hVV_fv9A",
+      "m87OReoMKr8",
+      "URnX79hYnds",
+      "pGLTJw0GSxk",
+      "B7qYJY62X2s",
+      "rfsx3DGpv5o",
+      "s-IZ1FmNXGs"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yLaRSJE33kQcv-UP9va6SnZ",
+     "titulo": "Fluent Reading: Kindergarten to Third Grade (Great Schools)",
+     "videos": [
+      "_jLZPhXsAnA",
+      "bdgB4knbJrY",
+      "WCWjiTdy9Kk",
+      "LPZixxaSNXg"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKM169iITz0UWOzq4OA8ktu",
+     "titulo": "Children’s Books to Support SEL",
+     "videos": [
+      "ZWNaLv_XAs0",
+      "93XWE1OTa2E",
+      "sGBuf26-LKE",
+      "94q2IS8E3Pk",
+      "v1h9tOtb4lw",
+      "neB4fytGDXg",
+      "_qGWbu_MQA4",
+      "cDtmuaqt8bk",
+      "T0Fxvbrbir4"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yLvvdnTr5N174-tCkgEeBs5",
+     "titulo": "Learning Differences and Neurodiversity in Children’s Books",
+     "videos": [
+      "cDtmuaqt8bk",
+      "T0Fxvbrbir4",
+      "_qGWbu_MQA4",
+      "RSawg81ttes",
+      "nCse3pLp_Z8",
+      "VDmtBP7G0Jc",
+      "9ko0Gqk5rls",
+      "-D-z2zYXlyg",
+      "93XWE1OTa2E",
+      "neB4fytGDXg",
+      "pEuSZ_VF2BY",
+      "lpupZsW7Gy8",
+      "sGBuf26-LKE",
+      "XDEeY7bziBg",
+      "94q2IS8E3Pk"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yLmex07aF6AzywXZd5u1v3I",
+     "titulo": "Hispanic Author’s: Diversity in Children’s Books",
+     "videos": [
+      "MaigpT29pAs",
+      "KNupFaQj4OY",
+      "IKMQH4y3qgc",
+      "W1PCJOPBnOo",
+      "2D86au5Y7Ck",
+      "rsPjzx7zI8w",
+      "s0hahNFMOiw",
+      "E7MiJWqwa8k",
+      "KX3S2DafO_g",
+      "Y95-NSgdhi0",
+      "2RXQ2IrP5dA",
+      "fXnpjpa_vrA",
+      "pyqANRh_ruw",
+      "JPcoX0yO1So",
+      "XWiZLxqtHEg",
+      "h7eMP9NBj6Q",
+      "o5PrOSbKP5k",
+      "4_prbHGaOho",
+      "gdUtIbPUVXs",
+      "aBecNhvyqZI",
+      "JgMrR0_uyDw",
+      "AaYwtqU5qdQ",
+      "AyC-KpwHhS4",
+      "PiZhF54anv0",
+      "XHC8ezHorWw"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yL4zNe-qv0NfwciH2bSpg2W",
+     "titulo": "American Indian/Alaska Native Authors: Diversity in Children’s Books",
+     "videos": [
+      "32X-QU24rH4",
+      "Znyy6etpiAE",
+      "pBreTc38wEk",
+      "dXQv-2Kii2w",
+      "46fqnA6x9KY",
+      "xFU3WKwZl-o",
+      "T-xVsRTRFSc",
+      "dz4x6etvyNc",
+      "W01IbmiwbVE",
+      "7KYyGnAQnqk",
+      "ia6dZkn1JaQ",
+      "t4h2R-s1gc0",
+      "vmpUC48uU50",
+      "siYDdF5A9tw",
+      "sqi3V6zZuuM",
+      "JjUt6efy_58",
+      "TMJjp6uEIKc",
+      "NcdxprrxiFU",
+      "161QTFJBSgo",
+      "BrhYgKMvYOc",
+      "S-W1f6zsR8w"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKB7nLy474odwrWw5Z6ABzh",
+     "titulo": "Call and Response",
+     "videos": [
+      "6qXpt_JSvro",
+      "WFPHhJh74nI",
+      "OCC_qb_0lN0"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yIJSlLbiGLwksAF6fZtUbLK",
+     "titulo": "Jennifer Cook",
+     "videos": [
+      "p9K7PO1pfkQ",
+      "rM0rx0XKrog",
+      "v_ERKyw52nE",
+      "wJJtbs53Ays",
+      "J-C-n_39PLY",
+      "KkTiPqBSJKs",
+      "nn2miNUEtDM",
+      "iAOj57y3Nl0"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKNHZ3zX91DETa7wg_vba-i",
+     "titulo": "APA Authors: Diversity in Children's Books",
+     "videos": [
+      "ZWNaLv_XAs0",
+      "0XTmwbhlVJ8",
+      "9pCzVnkDS8o",
+      "lr29FHHnao0",
+      "te8oagVgtSk",
+      "5O6suJGG0WE",
+      "2I0JWgFWJc4",
+      "hoR2JxiM3gg",
+      "kkKnC10bZqI",
+      "7KfCgjy3YXk",
+      "xX0-FbXc8XI",
+      "NV6ni4vGk70",
+      "3ytQUPPigJo",
+      "Cj65TSDSV9Q",
+      "_lfjG6EF_rg",
+      "LR7mFLKgGWE",
+      "9ZVYOeVO47Y",
+      "4UoIDhZFSok",
+      "KV9GNWnMncs",
+      "RWK58dV5tus",
+      "6Cj6kwm9lIc",
+      "r4cLeZ7M_E0",
+      "SLoF0bGN6-g",
+      "ckZklsTdxjs",
+      "-2mnaKQ_5-I",
+      "czBGcZRHFk4",
+      "v84iY36sjrw",
+      "u3B1NIB562Y",
+      "SCW83YeVO4Y",
+      "5TGxfPopGZg",
+      "q18gynkVqj8",
+      "rPQ5VPxQn4E",
+      "X4QOGybX-NU"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJ2TE2quOpTwaUQWj4ycIP9",
+     "titulo": "Paula Yoo",
+     "videos": [
+      "TU5W9x066K0",
+      "3ytQUPPigJo",
+      "NYZtzQnpjyA",
+      "6IF8ltx4EYU",
+      "_lfjG6EF_rg",
+      "zinRsmPRHbQ",
+      "6N0cfgzkkJc",
+      "Yc6N7awZT9A",
+      "esZZj4sihis",
+      "9ZVYOeVO47Y",
+      "LR7mFLKgGWE",
+      "WP7m4R_OqDc",
+      "FNKRi4tha3w",
+      "Cj65TSDSV9Q",
+      "40mGaneCqSk",
+      "OavPFIN0zos",
+      "h5D_YXfBu0o",
+      "dO1YbMZJIm4"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJPYjm09e7y0zHH0F1JGapf",
+     "titulo": "Sally J. Pla",
+     "videos": [
+      "pjAoD9SHpi0",
+      "_qGWbu_MQA4",
+      "cDtmuaqt8bk",
+      "T0Fxvbrbir4"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yLsumc17KH1kiZQ5x5DR4hY",
+     "titulo": "Minh Lê",
+     "videos": [
+      "hkdOuO-Ac3E",
+      "qbW8srdanQQ",
+      "ZiSbyyuf8E4",
+      "ncQW7-zyy88",
+      "VyfYZVskx74",
+      "coISZvfZ-so",
+      "lr29FHHnao0",
+      "RaPB6Xu34wA",
+      "Dl_klrYO8Qc",
+      "Fvr9EEp-mD8",
+      "oFfnjP2-Gts",
+      "te8oagVgtSk",
+      "D_q61QpHhAo",
+      "AZwWDmpQNB4",
+      "nY5BlIGdUBQ",
+      "PMc72e1t7Nw",
+      "5O6suJGG0WE",
+      "qsiWIcPtDSU",
+      "qyjqbeRECTs",
+      "1iFWacjaU3U"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJZPRE8NaAwVV51sdAZL_pA",
+     "titulo": "Christina Cipriano, Ph.D.",
+     "videos": [
+      "gHEbi5Y_EIs",
+      "HVWwA0_nm44",
+      "gkm-1RXgMMo",
+      "ad2bEcaPyj8",
+      "gbxPk1tbf7Y",
+      "7B3ZfN77y38",
+      "NIPgplnoSRk",
+      "n3bfMY8BaKw",
+      "u8YIGyEhmSc",
+      "ir5_v7NSV0s",
+      "5cLwLEIGHNo",
+      "L1Iwh0-afqA",
+      "GiE7170uBng",
+      "qqGACFfEaMk",
+      "0riGODenMVM",
+      "t00_EtMZSY0",
+      "rrcFtwJNgWE",
+      "SXeqigC0NHU",
+      "unALgnPABQE",
+      "dy7FFqj7EA0"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJGCOwaHNgC2M2Wxi5cxuzZ",
+     "titulo": "Eric Garcia",
+     "videos": [
+      "2qE1Zz6soac",
+      "gXWpnPRf7AY",
+      "i1pKQPMeUjw",
+      "80bBoN17IOU",
+      "S2kP_0gkVHo",
+      "UV1SoQzajC4",
+      "e1B-FHqzYgs",
+      "rUFmIVjAZXE",
+      "0kqL0cAYVjw",
+      "cshLK8ZR2D0",
+      "pBY0pI56wQk",
+      "1abW-AufVAo",
+      "1CU0-bH0_MU",
+      "-KWfAlE2kUc",
+      "GhzyV9Q55HM",
+      "gtRq9tF-Y6E",
+      "dGwY4_WwReg",
+      "eW5gPdjlCBU",
+      "W8T97njOEc8"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJ-0LV9lElRoV0KSUlAj591",
+     "titulo": "Kekla Magoon",
+     "videos": [
+      "_VYfbzUoYr4",
+      "tsxGG_DJ8K8",
+      "JRMkMBd-6e0",
+      "URQv-M4v1Rs",
+      "mq_ARSroWXg",
+      "1YH-bV61ZgA",
+      "QdOsFBKBWPU",
+      "efgTbtsy4s4",
+      "FnqNVGf_POk",
+      "gf6NaSct1Uo",
+      "2Chz5QfkaF4",
+      "ovv6_RFfUc0",
+      "EqUlqN_Gbko"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJbsbqeRh74ZVFoovAim0Td",
+     "titulo": "Social and Emotional Learning: Meet the Experts",
+     "videos": [
+      "6XqDXNR2J1U",
+      "R1n18p3PAPw",
+      "8y-gWCakqxw",
+      "40RdYA0oP88",
+      "Vd3IYBnhYjw",
+      "CJ05dnOBUUo",
+      "CX4hVV_fv9A"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yLbpWW6XxbPw2ltCURHJOmC",
+     "titulo": "Traci Sorell",
+     "videos": [
+      "Y2GaEQ3_gEo",
+      "dXQv-2Kii2w",
+      "32X-QU24rH4",
+      "ekfL-zxnlrk",
+      "W01IbmiwbVE",
+      "Znyy6etpiAE",
+      "46fqnA6x9KY",
+      "dz4x6etvyNc",
+      "Wgm-mCl5550",
+      "KaDJr-VggzI",
+      "pBreTc38wEk",
+      "K0K_LDGHKpA",
+      "WKyirfAM8ZE",
+      "7MJWDsXLsLg",
+      "xFU3WKwZl-o",
+      "Do0DQlumXCg",
+      "T-xVsRTRFSc",
+      "S2hOA2dBpKw",
+      "r5QKzYszt9A",
+      "_vOdjFMh9YE",
+      "QwmGv2CUkhw",
+      "4Yrk8YxPWa0",
+      "cZp4I_tRnFQ",
+      "oZJ54x4VvHQ",
+      "vxHhotv41xI"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKQtTv9HzNecwFdy5Ka-4GN",
+     "titulo": "Social and Emotional Learning: In the Classroom",
+     "videos": [
+      "rpJbht1URSw",
+      "EEaRlcxEshg",
+      "MyPUY38blZQ",
+      "pCv0G4JEuJY",
+      "dxBv1w4SQyw",
+      "79AF7xy7d9U"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJ82Wfcn9PlK01im1OUr86S",
+     "titulo": "Social and Emotional Learning",
+     "videos": [
+      "lJqIt681BvI",
+      "rpJbht1URSw",
+      "EEaRlcxEshg",
+      "MyPUY38blZQ",
+      "pCv0G4JEuJY",
+      "dxBv1w4SQyw",
+      "79AF7xy7d9U",
+      "ouXhi_CfBVg",
+      "ZWNaLv_XAs0"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yIKKWgNLeIimBX-fH7h9Qz5",
+     "titulo": "Carmen Agra Deedy",
+     "videos": [
+      "vZy6UuEBt5U",
+      "XaQYjT3of7Y",
+      "eGsq3qNKvso",
+      "NN_7n8GH0Os",
+      "sdEsiGp0u-U",
+      "IdyPtfPtuHQ",
+      "rnCp4GZSCNc",
+      "DxM8oiB7ppk",
+      "AzgwbO3pi2Q",
+      "PwulN6Olw4A",
+      "fXnpjpa_vrA",
+      "eU8e6OtPnY4",
+      "8hTgZjyoeyM",
+      "2RXQ2IrP5dA",
+      "JDMf8Pqf384",
+      "WmvqFGRfm3g",
+      "AeD0XiZi5rs",
+      "ETajxVNFI_I",
+      "Q21__ceXHRQ",
+      "36WIcrw1JuQ",
+      "mmSzfuvrRjQ"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yKSem96rFSrjJcrXL35HWeD",
+     "titulo": "Sharon Robinson",
+     "videos": [
+      "AgXCSaRsbSA",
+      "PfVzSTMq39g",
+      "ygqRgr-zMRc",
+      "Vcqqj0GkyuI",
+      "fuFFD_lpGgg",
+      "ayi9AjUu_V4",
+      "ZQkcFgRzNGk",
+      "EcKVFCnetiE",
+      "6AT58FryI-0",
+      "Hyllo5AiOvI",
+      "S49H6kp-JjI",
+      "J29QxYSf-u0",
+      "xhW1uRM0AAk",
+      "_26xc-TBCNo"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJYIsaZyNu0dWgVXEbRh7yC",
+     "titulo": "Writing SOS",
+     "videos": [
+      "iVauNmA-jCU",
+      "zVOu_Q-O9vo",
+      "AvddUKf7ZII",
+      "vFf462kRJTw",
+      "ZedjuIr6Ack",
+      "weEpiE05wkQ",
+      "YZlFPxV0GA8",
+      "niZlBizrlU8",
+      "UeTINyXspy4",
+      "rJLOZOnExvo",
+      "eI7O0urHZxQ",
+      "s8u0XZ1ZkqE",
+      "qg9rajNiZVA",
+      "p3tpup40A74",
+      "uWB4CX4MW5M",
+      "-DtAh_DKyak",
+      "9pztTj8TCVs",
+      "0AGIMewR2eM"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yIbPPHnXqABMAlRebNbTLyZ",
+     "titulo": "William Van Cleave",
+     "videos": [
+      "9pztTj8TCVs",
+      "iVauNmA-jCU",
+      "-DtAh_DKyak",
+      "uWB4CX4MW5M",
+      "p3tpup40A74",
+      "zVOu_Q-O9vo",
+      "qg9rajNiZVA",
+      "s8u0XZ1ZkqE"
+     ]
+    },
+    {
+     "id": "PLLxDwKxHx1yJGqyPwVlWaO7qPxiPH4ase",
+     "titulo": "Reading SOS",
+     "videos": [
+      "ifJxc1D-f6w",
+      "m-SW3FEmLP8",
+      "N_Y_e8o54mk",
+      "YALzHbSMg_A",
+      "0aCRDtoMoDE",
+      "9m53ofZCyYQ",
+      "PExzCRdimpo",
+      "Ay3BXqtjaI8",
+      "B_vWuPVquLw",
+      "KFttmw-YJHg",
+      "cK4uvhbULhs",
+      "6DBTyIFx5xg",
+      "RNfYp5jHTwI",
+      "Fd5y08p8sxQ",
+      "kmJPNmKA1V4",
+      "2EQwM1KPT5U",
+      "4H_27HnfMjw",
+      "1Ixljds4iS8",
+      "0oASZxno--Y",
+      "Bn_fVMikGrc",
+      "ps106hDweIU",
+      "QhZFblGZi1Y"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "deficiencia-fisica",
+   "instituicao": "AssistiveWare — comunicação alternativa",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@AssistiveWare",
+   "playlists": [
+    {
+     "id": "PLwsltfWrCHQyo6lDdOWGPGqftEGd-fdIg",
+     "titulo": "Classroom AAC modeling videos",
+     "videos": [
+      "8mYVqW5WYT8",
+      "w6OFBxnf5Sc",
+      "twDybpY9r8E",
+      "ayqIfRDBFRc",
+      "x6BO7q01NDA",
+      "8oWNze31km8",
+      "P4x2OrIDx-o",
+      "CKIbDV5BEPY",
+      "UqKCkaHBfmc",
+      "GKdD0IdFGHo",
+      "dwLhyjc_F7A",
+      "_nKXqzHkTgM"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQzYXsnccHLuJUiY_fCRW76T",
+     "titulo": "Morning circle",
+     "videos": [
+      "x6BO7q01NDA",
+      "8oWNze31km8",
+      "P4x2OrIDx-o"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQz4DcExLMuCAN06Lo5Ck57K",
+     "titulo": "Story read aloud videos",
+     "videos": [
+      "twDybpY9r8E",
+      "ayqIfRDBFRc"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQzjT1Uk1E9zd3wrrQsg1FUj",
+     "titulo": "Brain Break Videos",
+     "videos": [
+      "8mYVqW5WYT8",
+      "w6OFBxnf5Sc",
+      "CKIbDV5BEPY",
+      "UqKCkaHBfmc",
+      "GKdD0IdFGHo",
+      "dwLhyjc_F7A",
+      "_nKXqzHkTgM"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQy0TnJTrghPiRkN1v5Bi4LN",
+     "titulo": "AAC Awareness Month",
+     "videos": [
+      "WnsK90qYwyU",
+      "PLi6ZfdvqpA",
+      "hYpOa38T7sE",
+      "mnx89Y3_Q2w",
+      "ydNb1n37Emc",
+      "ewVwlhP3ztM",
+      "l8nsnJ_vbM0"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQx9JBItI-ujeK8nYVY2uhjR",
+     "titulo": "Smart Classroom Clocks",
+     "videos": [
+      "QV1pTe10dAE",
+      "LN_CEu6Z8Ek",
+      "PhOgAn31pm8",
+      "CgmfZocAtWM",
+      "f3E1I84Z7-Q",
+      "F2VFVWsTS1A",
+      "zzKrcHYuiOc",
+      "gctoVgd747M",
+      "FqutXc_atjU",
+      "6B9Jkllwjcc",
+      "dNssyqmkxi4",
+      "nWXAAFbdmmo"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQxFR4p4kK7JdvJqB7LhM6Pb",
+     "titulo": "Autism Acceptance Month 2023 - You Are Not Broken",
+     "videos": [
+      "YA-pnvIxqBA",
+      "OdWgpHl0ZhY"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQw9W13awsA8AisxyfX6zfAO",
+     "titulo": "AAC in action #shorts",
+     "videos": [
+      "_-EYmYOupCQ",
+      "6i0Tn3xqW8o",
+      "ZHJ8rD_cAE4",
+      "IGT72-OUJY0",
+      "9mTWCTdXBSg",
+      "r0BGERAgJo4",
+      "C07v81wlxz4",
+      "FTtkRIeVv-Y",
+      "WonwcIV0DYI",
+      "aUeUDxW4UyM",
+      "1cggpIXKtRg",
+      "omD-ClHJn6I",
+      "NFvgoYcudK4",
+      "qaoMNQqBUiw",
+      "RWRZADcswho",
+      "ydNb1n37Emc",
+      "PLi6ZfdvqpA",
+      "nfE_2x2hilE",
+      "Rxmz-SFW7Hs",
+      "gO_ulSaNjAQ",
+      "bZfiJZU_MDM"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQwG1yopPJIBUSAxq-rYrlfq",
+     "titulo": "Assistive Technology Stories",
+     "videos": [
+      "ENkjkIypXq4",
+      "x31u1seLTo0",
+      "capg1FmXYUI",
+      "2BhHwk9qSvI",
+      "IjfwCpcD3mk"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQzJMNWahDPtvQTyHNkasuXF",
+     "titulo": "Proloquo and Proloquo Coach",
+     "videos": [
+      "qLrjpA8Y0M4",
+      "1M46OCjZivQ",
+      "MowXqKC8fFc",
+      "t2okw_-YUNc",
+      "Jk1D9K2sIpw",
+      "FpdI9VycRp0",
+      "R4PNzz-e3AA",
+      "Gv6v8A_vt4I"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQwFVASv5L2LnAqx7eXAumKT",
+     "titulo": "AAC, literacy, and fun!",
+     "videos": [
+      "P8WoFIkPsc4",
+      "0BM7Iq_xQS8",
+      "mNWjHTly7dU",
+      "04akPMJMRs4",
+      "EmsEU1KpB64",
+      "KcNoTSHVvf4",
+      "yEhXE6z14Hw",
+      "e5sFt0d_MaI",
+      "0ed2oqXWC70",
+      "Sflr898cJpo",
+      "9lR4aTv-H4o",
+      "RCRiy4V02qc",
+      "Gh61f0zLoXY",
+      "cSxsROi-ZrA",
+      "JRsNM35dU70",
+      "BUr0U6twp_c",
+      "uKiyAEygqKc",
+      "EHnKGAHtA9E"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQyYhxKVpiCQr_5xBvYhacWc",
+     "titulo": "Tips and Tricks with AssistiveWare apps",
+     "videos": [
+      "6HZkOJuAU78",
+      "pfPW7Ik2r6Q",
+      "8qbjXI6hywI",
+      "plJfTBvlZJg",
+      "Ty_Y5PHsIcM",
+      "1hktHyDp7Fk",
+      "PL550PIA2gY",
+      "7eJ-Ab6PHdM",
+      "mWdwBawfVQQ",
+      "O9-ypJbJfRs",
+      "DAg5ucetxlo",
+      "1M46OCjZivQ",
+      "MowXqKC8fFc",
+      "FF9EponvOyw",
+      "Ywk8kdg3nDc",
+      "A17u6uXqUD0",
+      "kVC_7GRGIX0",
+      "33EaxrhQjO4"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQycpOqhMzWIVJ77hSUQkdgL",
+     "titulo": "Amanda's AAC Advice",
+     "videos": [
+      "jg4hPr4QL5M",
+      "CfND2PmamUE",
+      "LqeAipcciVQ",
+      "ZsqblGI5OHA",
+      "visv8A8K0yE",
+      "E6qPkHR2oCw",
+      "HQg9ii4iSTc",
+      "CXxhDOs0s40",
+      "a-lRhxmX7kE",
+      "SykLHKSZelo",
+      "86Y4B8filOA",
+      "vwJx5wm7pW0",
+      "0u4fsyF5izI",
+      "bh2uH07UDLM",
+      "A5ydBhsmGA0",
+      "7vosAP7x6jE",
+      "snfzmLeulp8"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQwxUI1yJq3LnA9h-f8pSjRf",
+     "titulo": "Amanda's Facebook Lives",
+     "videos": [
+      "easlRFeisu8",
+      "U6BU-gfrK0w",
+      "ppzUPA3wazs",
+      "3eajE0yAVy4",
+      "aPzoPD3Y9B0",
+      "reUE2Be113U",
+      "Zgm_YPToNXE",
+      "n2LxFvsxGT0",
+      "wYg7mzJcih0",
+      "-DWOzft4Vd8",
+      "OUSXkAeiI6g",
+      "XQ9KNDrBrsM",
+      "ncnzvy1U_eo",
+      "yOQTZqBO4Zs",
+      "L7-BcQZb9dY",
+      "AyxPYYxg1jA",
+      "mTzhLTX8REE",
+      "qMTmZoVKItQ",
+      "AgWyVo4xZKg",
+      "S5BrFoQFeXc",
+      "dSvnPqsseEQ",
+      "bNjshS9JuFE",
+      "Ey4EXrsSQ-A",
+      "BJX9AjIwwDI",
+      "dIsXI1DwS_4",
+      "EI2L-hjG9a0",
+      "dHlbpIANJCU",
+      "ZKfBckfHGfk",
+      "BDAyDIisvzc",
+      "OMaM9fZVdHA",
+      "xLW7-ZwNMho",
+      "_8y4o5f8BoU",
+      "OZQs5IBacgs",
+      "VOK2ogU-ebs",
+      "zMccKduEWoo",
+      "qGdOjtSaXVQ",
+      "Bb5HA9E6qc0",
+      "1W1lmDjZlKc",
+      "sOxH3DYYvbw",
+      "FDqOzALLJNk",
+      "6ZJbQ2jaKR8",
+      "BKFw4td6tps",
+      "4C-Zss2qrQM"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQz68QZooZtwr5NVOMoS9ZqM",
+     "titulo": "Learn and play with AAC",
+     "videos": [
+      "31VNFn3Nxog",
+      "6T23t3nWYpE",
+      "Tdy-jdnKrfU",
+      "eEeSz-jB0yA",
+      "hlSujj7Vg8Y",
+      "CfND2PmamUE",
+      "xwirQNLKKC0",
+      "ov_Hce8bDq8",
+      "7vosAP7x6jE",
+      "vQxgfkUmHl4",
+      "jg4hPr4QL5M",
+      "ZsqblGI5OHA",
+      "jBbI5hi13D8",
+      "S6xOIKBMEFM",
+      "HQg9ii4iSTc",
+      "LqeAipcciVQ",
+      "dttpStSExXQ",
+      "Fg89ViWsDbs",
+      "gtbhGQBhbbk",
+      "a-lRhxmX7kE",
+      "SykLHKSZelo",
+      "G5688ggPzK4",
+      "8x-UGNAazO0",
+      "1n5vnH5CF04",
+      "eNMTyS4GQJc",
+      "l_EVrw2FBcQ",
+      "G63AaX1eG3k",
+      "jS2tNZWxOTA"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQx1IspXvuCaDrn07p-GNpL4",
+     "titulo": "Proloquo2Go Nederlandstalige video’s",
+     "videos": [
+      "e2MbQ1uSTaw",
+      "u_XtDjwsl3E",
+      "KYkS4EpY7RM",
+      "i8FvpNrKyRU",
+      "ZwImlhXD5MU",
+      "YIOrkRpVf9s",
+      "7eCVzJmwbeU",
+      "tO6enaSYa2c",
+      "FYguocYjqfk",
+      "SMQgLcBqKlE"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQxyTp2jsaKe1Kngq11AWDJ4",
+     "titulo": "Proloquo2Go vidéos en français",
+     "videos": [
+      "pu870GN8rIM",
+      "eXT3EP4bPwI",
+      "ZyBPML2eXjM",
+      "8dg6nJP4548",
+      "u2YY3DmhUxs",
+      "eb0jvNm8f6I",
+      "h1QxB9t5L8c"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQxbDim3PkUW9oM7VutRX_z6",
+     "titulo": "Proloquo2Go vídeos en español",
+     "videos": [
+      "roWaoLi33lk",
+      "t1V8ProZyXs",
+      "fL2DNfR7LUc",
+      "xmhDkwLkniw",
+      "4VVdQ6IBQkA"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQw6skI4znqyRGZ-s0MR71AD",
+     "titulo": "Proloquo2Go tutorial videos (earlier versions)",
+     "videos": [
+      "yrctmg8B44Q",
+      "UsYfx67Oebc",
+      "5zNLWmRwC1k",
+      "EPk0lSa6E5o",
+      "K-AWFK__x2s",
+      "Ib4iNdnTmQ0",
+      "whLxyxyZazI",
+      "5p-SvPOC8Fg",
+      "sLIj7n0pcok",
+      "72EmC3bi8Qs",
+      "dyfPUA9Qy34"
+     ]
+    },
+    {
+     "id": "PLwsltfWrCHQxYg5czsas7BNy13zeajInZ",
+     "titulo": "Proloquo4Text - Text-based AAC",
+     "videos": [
+      "1TaUEIJgBU0",
+      "2A4aipodWEA",
+      "Zr13xWF3H6E",
+      "BtNPpf7WrK0",
+      "OlM_ZQ40JPg",
+      "Q_mgX5PxbhI",
+      "rNN1v0upLIM",
+      "goG3epV1J6Q",
+      "H0_buaq-THo",
+      "bE73YvT2cj8",
+      "kvzxczs33WY",
+      "1WVul2MIk4s",
+      "kYlT4miuRHE",
+      "__vJkBDtzqA",
+      "6e9pa_suvn8",
+      "9Hnv9tK1Sao",
+      "gC8kGxpOs4Q",
+      "ufK8a6VyK_k",
+      "sb8X7ZeKn40"
+     ]
+    },
+    {
+     "id": "PL6B8ECFE3394DE14D",
+     "titulo": "AAC voices",
+     "videos": [
+      "6HAo4ATPFNM",
+      "OsI17MZIq0U",
+      "M2oVchJIC2o",
+      "hUkDY3ipHw0",
+      "qxMofds00Fg"
+     ]
+    },
+    {
+     "id": "PLF530776F3D74E788",
+     "titulo": "Proloquo2Go: Symbol-based AAC",
+     "videos": [
+      "5X3qL8eH21o",
+      "A5ydBhsmGA0",
+      "avCi_iMBWbg",
+      "WbMcHf2-TPo",
+      "QqqYV_1n3Ok",
+      "pdt4GHxz4bI",
+      "cHUxTdxib2k",
+      "XhpK9dP-6yE",
+      "UjukZI4idH0",
+      "FUiM0NQdE1U",
+      "BJAgq7aZ1Rg",
+      "JPeZJiPSPsk",
+      "iwq15xtXNCw",
+      "JaLxAGGjnZY",
+      "ZOxfeYeExoo",
+      "4LqDiij7ErI",
+      "m9t-_iYuO4M",
+      "BQaQksuE5Ns",
+      "oYpvC-dSTlY",
+      "esxdbMe4LqE",
+      "6HAo4ATPFNM",
+      "CFi_vMlMYCg",
+      "5NHm-HKfKgU",
+      "nBIcGXCEaTw",
+      "-xuUWxIY7SM",
+      "eIlqoEIH82c",
+      "r0adFdlbYZE",
+      "hUkDY3ipHw0",
+      "qxMofds00Fg",
+      "rNN1v0upLIM",
+      "pu870GN8rIM",
+      "eXT3EP4bPwI",
+      "ZyBPML2eXjM",
+      "8dg6nJP4548",
+      "RFuKgRI3vpI",
+      "yvlJz2wHQbY",
+      "snfzmLeulp8",
+      "oYOZgVfmNao",
+      "FF9EponvOyw",
+      "Ywk8kdg3nDc",
+      "A17u6uXqUD0",
+      "33EaxrhQjO4"
+     ]
+    },
+    {
+     "id": "PLEE28B285EA6FEF2C",
+     "titulo": "Pictello: The talking visual story creator",
+     "videos": [
+      "3dhVekGlRVY"
+     ]
+    },
+    {
+     "id": "PLB9C6EADC989FE8B8",
+     "titulo": "Augmentative and Alternative Communication (AAC) Stories",
+     "videos": [
+      "CNFPUiLJc-c",
+      "t2okw_-YUNc",
+      "jjHpATfpNTk",
+      "0pgpjBzf-CM",
+      "BsTyZfPjuZE",
+      "kl2U9VA6l9g",
+      "RFuKgRI3vpI",
+      "2Z91KMt5gz4",
+      "rNN1v0upLIM",
+      "Q_mgX5PxbhI",
+      "JaLxAGGjnZY",
+      "iwq15xtXNCw",
+      "ZOxfeYeExoo",
+      "4LqDiij7ErI",
+      "m9t-_iYuO4M",
+      "3dhVekGlRVY",
+      "BQaQksuE5Ns",
+      "esxdbMe4LqE",
+      "CFi_vMlMYCg",
+      "5NHm-HKfKgU",
+      "nBIcGXCEaTw",
+      "eIlqoEIH82c",
+      "-xuUWxIY7SM",
+      "r0adFdlbYZE"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "altas-habilidades",
+   "instituicao": "NAGC — National Association for Gifted Children",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@NAGCgifted",
+   "playlists": [
+    {
+     "id": "PLFnOUJd-v5dMXIdQX4bjc9rbWA3BLLg9L",
+     "titulo": "2026 Volunteer Appreciation Week",
+     "videos": [
+      "vfzJxPF_GpQ",
+      "oy6Y1e8RA2M",
+      "PncwwJP6ROg",
+      "zbOuvkvAxsQ",
+      "t23olPXsl4U"
+     ]
+    },
+    {
+     "id": "PLFnOUJd-v5dOU61lvF7inXQsyiektgU35",
+     "titulo": "La Excelencia Latina Student Award",
+     "videos": [
+      "j8Nck15Og0k",
+      "EZX13lNbc_g",
+      "bMpmKtltogQ",
+      "R-d_-RHxhvU",
+      "U17hB2tcuDY"
+     ]
+    },
+    {
+     "id": "PLFnOUJd-v5dMsUztN7AT6pf3p26Tehal5",
+     "titulo": "Dr. Martin D. Jenkins Student Scholarship Award",
+     "videos": [
+      "BbXaetYG5eU",
+      "j5GC6a3qIZo",
+      "9adIqF4SzfI",
+      "klxtgvOE4AU",
+      "O3oIfDB9y5A",
+      "FDy9MJ4IR_Y",
+      "hK4GSVP3k8Q"
+     ]
+    },
+    {
+     "id": "PLFnOUJd-v5dPbXPE_JXSqiuQDvvNsXwW3",
+     "titulo": "NAGC Legacy Archives",
+     "videos": [
+      "YjHSwC_iCQk",
+      "E9IcOaR8gtw",
+      "5953D8uH0KY",
+      "tXrCZBqKrqo",
+      "TyE05eMTwQY",
+      "aANZ-IzVdfE",
+      "_XBiOvqNRVk",
+      "nbGxto66FkY",
+      "AU60RvEvZ4o",
+      "OdD89WHfdjI",
+      "qBYhjKsDWNk",
+      "ku0hkvwWF_U",
+      "XlT4-UZ95_0",
+      "kVWvHdql5dc",
+      "U5_4fGW37Oo"
+     ]
+    },
+    {
+     "id": "PLFnOUJd-v5dMEG_e5s0tg8znOuXX0XEtz",
+     "titulo": "NAGC Webinars",
+     "videos": [
+      "aATLFLeobMA",
+      "Q2WVP20pjEE",
+      "-xOnVxvGmxE",
+      "-HJAL0p4QAE",
+      "-CG4TL1GS9Y",
+      "GMsF-E7kMww",
+      "335ihGH-ePU",
+      "aUv4PjX8Usc",
+      "AHKKKnaoek0"
+     ]
+    },
+    {
+     "id": "PLFnOUJd-v5dOSbTm2zcZ5FpocrduyAYVL",
+     "titulo": "NAGC Corner Chats",
+     "videos": [
+      "PI8RiluLFoE",
+      "rmpZrFXssJo",
+      "2iO3SetiChQ"
+     ]
+    },
+    {
+     "id": "PLFnOUJd-v5dOKQFuD8QCbvjHq41DeHJyd",
+     "titulo": "Administrator Video Toolbox",
+     "videos": [
+      "2jdU0VgDquA",
+      "ZEYxAwe8h3Q",
+      "lhj3mcNHJ8Y",
+      "VHdePn9Uvxw",
+      "R60uXUNL-ow"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "altas-habilidades",
+   "instituicao": "Johns Hopkins Center for Talented Youth",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@CTYJohnsHopkins",
+   "playlists": [
+    {
+     "id": "PLHjWwULD2x39UnTAefv1ONnP19sraOokL",
+     "titulo": "45 Years at CTY: Celebration and Reflection",
+     "videos": [
+      "Ll1NrW-GzfY",
+      "WR5xVGpqThQ",
+      "R9DvZHf8L7I",
+      "vWu1RcwyUHg",
+      "qHT4hv7E7Kc"
+     ]
+    },
+    {
+     "id": "PLHjWwULD2x3-I3w8tplUkXDxLKYdCvTXH",
+     "titulo": "Advanced Learners 101",
+     "videos": [
+      "oYW8Ky1Svsg",
+      "47Wr13nu4SE",
+      "Z9NcYbOHUBc",
+      "e-AmLBrplKg",
+      "iAf4a-1RWvA",
+      "HQHu-GBP-MM",
+      "p-C0PMx8xzo",
+      "7_u1RH0XrvA",
+      "QzdOXtKKKdo"
+     ]
+    },
+    {
+     "id": "PLHjWwULD2x39CQC8lfKqiMXTuyVVCEhxi",
+     "titulo": "College Admissions",
+     "videos": [
+      "-9n6G1qjAAo",
+      "mawuOfAf-Ag",
+      "49mVq0E3wgY",
+      "AllYIgx8Juc",
+      "-ifQ6PDcUgo",
+      "uZ1Q_bbD0Mk",
+      "N_AIyUPuphQ",
+      "2m_d_vJCLqM",
+      "OuG7lmie-Xw",
+      "Qickyzq-OyQ",
+      "Dk9InStFHPQ",
+      "5BcO9Rh9Cto",
+      "MzcDo-bpYxc"
+     ]
+    },
+    {
+     "id": "PLHjWwULD2x385ubMBn2LS4YKmsFoIE7sk",
+     "titulo": "CTY Student Support",
+     "videos": [
+      "KjbBjq46wtg",
+      "dmewaJzDpnY",
+      "jgHSjl4DPSQ",
+      "E_IonXDPxg8",
+      "4X7lsvRWViI",
+      "1lysGgoBess",
+      "c16PV31QJH4",
+      "QzdOXtKKKdo"
+     ]
+    },
+    {
+     "id": "PLHjWwULD2x3-AEi9ZcSQ5Hcs_GQbwDEj8",
+     "titulo": "All About CTY",
+     "videos": [
+      "bxrz7vp2HtU",
+      "iX91cNjIfuY",
+      "qkPewP2OA9w",
+      "XoZz8ZJRpaU",
+      "d6GQT0Wy_9s",
+      "5e-faW4reQY",
+      "NLEl1cez1JQ",
+      "Wv0-SgINR3I",
+      "6uXIEOl5We0",
+      "-Qi_eft1YZg",
+      "w6-hlj0Ne2Q",
+      "GkCnQUpzL2U",
+      "Smex_Oba908",
+      "Qgm18d1su44",
+      "q7dPtsj3EJI",
+      "I4eC8yKfUpQ",
+      "s9AeJe-JAKI",
+      "j7YXKyoSu8o",
+      "GY7uV0QtojE",
+      "yoN8IjWsolU",
+      "hLJR3-RFy1Q",
+      "Am3MjC-6QWM",
+      "nrPa3CxLtB4",
+      "cNYD07ihq8o",
+      "Lf_FpBLaNuw",
+      "sdBicedWk8A",
+      "tEk_nD3Q_Ek",
+      "MpBB2Bznd6E",
+      "GBOcsH8z1Qw",
+      "QZIkt8nYjW0",
+      "-S-7GITX0PQ",
+      "S09VINTcs8g"
+     ]
+    },
+    {
+     "id": "PLHjWwULD2x3_Hvmch6eTOsn2-UBOfZ-EI",
+     "titulo": "Bright Now Speaker Series",
+     "videos": [
+      "bu3u3wcKJJU",
+      "pBLYQG8eOOw",
+      "X9B01tIlLBo",
+      "RGOR_YvMbso",
+      "fxiu6lVf_2U",
+      "GbGGhNhuWls",
+      "4HtP5Dq_bEk",
+      "DshugmXWXl8"
+     ]
+    },
+    {
+     "id": "PLHjWwULD2x3_MQA7lZPLv0ACoOcCmk5Ni",
+     "titulo": "CTY Speakers Series",
+     "videos": [
+      "zb0yWpKoHwM",
+      "UaPnc6NMOBY",
+      "vTPf_q3uo8U",
+      "E7I1Im-qNqY",
+      "5f_uyzsufCs",
+      "gQAFbkJyWPk",
+      "5AzWTu_lOiE"
+     ]
+    },
+    {
+     "id": "PLA87814406998254F",
+     "titulo": "CTY Alumni",
+     "videos": [
+      "qEsmitVs76Y",
+      "3MC_FSRgZI0",
+      "bvseXTJUl6w",
+      "MLsJfSj_VFE",
+      "XvK1rqE9kYg",
+      "9CE9rMG_d9Y",
+      "7qZ6bAj-ElE",
+      "I24zjiX4HT4",
+      "dYybp4FaGtE",
+      "I1l3y9PRDsQ",
+      "0qUg8PT6in4",
+      "fO0WLpsSnbI",
+      "yEx5Icg2_pw",
+      "QjVJspB1lgc",
+      "wjk3owe7XE0",
+      "_qfiX66uTjE",
+      "IbKDbeIC_vE",
+      "i8KUUTZobMg",
+      "9Tt707XV61I",
+      "6Kxjfr1vHgI",
+      "l63ZAn64biI",
+      "3HGjfd-rpUQ",
+      "kE-ISedqrQE",
+      "qERUA-3JcZo",
+      "bu3u3wcKJJU",
+      "DshugmXWXl8",
+      "O3hQM9EhMfI",
+      "atlfIIDsykU",
+      "Iotcif3Lm2E",
+      "5e-faW4reQY",
+      "bxrz7vp2HtU"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "altas-habilidades",
+   "instituicao": "Belin-Blank Center — University of Iowa",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCOrOffPtkQegDU494nxcHjQ",
+   "playlists": [
+    {
+     "id": "PLB5E8FCC619FF9280",
+     "titulo": "Stories of Acceleration",
+     "videos": [
+      "hhujmvA4MmI",
+      "bYd0X4zljUA",
+      "_MgsMdOz-ZU",
+      "MDmg8yCiYxI",
+      "5AI_P2DvXd0",
+      "1EEfGFs67vg",
+      "-56KnKsYi5M",
+      "DAxlhWpvvf8",
+      "6PTQaV2XpU0",
+      "kjBi6A7f9lE"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "deficiencia-auditiva",
+   "instituicao": "Clerc Center — Gallaudet University",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@clerccenter",
+   "playlists": [
+    {
+     "id": "PLBvdTptm8mwylgwxDuyfI2yklf5WA-_nW",
+     "titulo": "Website",
+     "videos": [
+      "pU_abfr8yVY",
+      "VGXMzxgWNRI",
+      "p4Q9bGnxMXU",
+      "1SzLvMqR2PI",
+      "2Bcb0zAiegQ",
+      "08w08E6041g",
+      "XxTFJ0xz5sk",
+      "uhZMipykiCc",
+      "AgQC3uGXbXY",
+      "BkwQiqUNud4"
+     ]
+    },
+    {
+     "id": "PLBvdTptm8mwxhVKBy-8npemqO2Xy_A4kZ",
+     "titulo": "Public Input | announcements",
+     "videos": [
+      "ErBANBRbUcA"
+     ]
+    },
+    {
+     "id": "PLBvdTptm8mwzrCQ7f1ytrZpRnmQ30WRus",
+     "titulo": "Events",
+     "videos": [
+      "b6C8IIqBfmQ",
+      "Ntt-qpi3ePk",
+      "fIiAJHZ6Z-M",
+      "HuFxvXdi8sg",
+      "7w11OQuYcVc",
+      "453sFm0zuAo",
+      "eDL4PsJ6fVA",
+      "78QHgYQeS04",
+      "sdYtHp5XnSs",
+      "pMiwd3x0M2A",
+      "2I8OnwAi0ZQ",
+      "Waq77ubJm9w",
+      "-VL4m6ij_pY",
+      "hhlgGJYZByQ",
+      "62DAEOm9xbw"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "deficiencia-auditiva",
+   "instituicao": "TV INES — Instituto Nacional de Educação de Surdos (MEC)",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/channel/UCUcf1gG-ph6k_rbTMZBN60A",
+   "playlists": [
+    {
+     "id": "PL18ybxrEghTupb3fkqOkG1FtJUiZNiat_",
+     "titulo": "Cortes - INES NO DEBATE",
+     "videos": [
+      "vyeU-oz0Gdw",
+      "YObIKyfZuxo",
+      "XOUbs6CzOi8",
+      "wL3umSlsmmk",
+      "HjD8o3pPfbs",
+      "vxM22Tv8YU4"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTt0avmh6x6Kqaov_mT4H4uo",
+     "titulo": "INES NO DEBATE",
+     "videos": [
+      "KAqekOBAaBo",
+      "JvLxvrnINb8",
+      "93b5weJLP9w"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTs0RNvK3mAgZLWYFEykjgnX",
+     "titulo": "Manuário",
+     "videos": [
+      "2K5zqFv3GCE",
+      "Gb-FYKjCvpw",
+      "fXO_83BTD50",
+      "AbTHN7W9s_c",
+      "vf28K5s4jok",
+      "TWLxq6ctcvw",
+      "M5BDWe0x0j4",
+      "fknzxd9MFv4",
+      "x56dtmNYrr8",
+      "3aFYsMmosVo",
+      "jhE-E_MUj30",
+      "ChurvLldFxQ",
+      "v16IqcTlUOY",
+      "Evaaf0LDgPQ",
+      "zWN6isufnjQ",
+      "oTlav3frNx4",
+      "Bsj7ph4Rz7k",
+      "y-H5JbbEo1s",
+      "6jgGseJcPjA",
+      "L6o3dJHn93I",
+      "b-hAPVahVs8",
+      "39gjnxhrq8s",
+      "WD2or9FHRk8",
+      "HWgXaqIvjAU",
+      "Uc907tOJGsM",
+      "B_huACUCI-0",
+      "LK3xcAae9cQ",
+      "K0WbiZrtWv8",
+      "nz_-z6NdglA",
+      "5rLRQKeqYTw",
+      "GgAjVW0TEP8",
+      "NGQQbyipbpk",
+      "hIzEL8e3aBg",
+      "ib0q_M82mg4",
+      "UVcaa4utjzg",
+      "dxWVo_7wPNs",
+      "khr4ZAXJA1s",
+      "zPAym8FaKKY",
+      "3KMIuZD3U_A",
+      "jnka-drUbn8",
+      "ejxvM0deDKg",
+      "WIhj_sRETJQ",
+      "HWk3E2KYgog",
+      "p86g6Exj6kg",
+      "yEnv92h5L4s",
+      "uCGJ5PNgd2U",
+      "24zGt6f57kM",
+      "611jt9Ku4R4",
+      "C-SIRlhOPXk",
+      "38N5AuMDFHU",
+      "Ml8GQikF9rc",
+      "-sQ4wUWgClM",
+      "rg_NMgqL6IY",
+      "3Rl-VlISRI8",
+      "DOWnVcEchUc",
+      "yOwKNdgIfxE",
+      "F8OxZMCnGu0",
+      "qYN0AIgSjUo",
+      "sikYGAIHYTs",
+      "oUivxtk5b7E",
+      "G8EZkjQAAkA",
+      "gVZ4L9c_UWg",
+      "_-FdWc0Hj2c",
+      "nvA-C_p3RSk",
+      "PXAMreh9q88",
+      "GTqx6oc2F_Q",
+      "0vj58ViyNmI",
+      "by6cUuHtuUQ",
+      "37dx_I7Cu4o",
+      "fM7mEypwIW8",
+      "n7x7HZAcbT0",
+      "94j_xHN_dVM",
+      "kCLWvxkA7iQ",
+      "af0ep37mDtM",
+      "r8gvBDAMBEA",
+      "BQrzZwTWN7U",
+      "5bFUHqlC47M",
+      "QS7nn-kYaKc",
+      "LqQ2XLZCZX4",
+      "T2l_OkBNQF0",
+      "kX-oOmxXz2s",
+      "cAUacqR9FA4",
+      "UeGAR_y1QeA",
+      "2qqRMtKKB0o",
+      "1kpy5HEq-lI",
+      "OEwyRNiN2IQ",
+      "NO3sEPp0aTw",
+      "9ZI0R3eNSwg",
+      "P2qO0F-bDg8"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTsLl1QDAzNTjtu5Qn2ekBL5",
+     "titulo": "Mão na bola",
+     "videos": [
+      "7BQRVf-C9do",
+      "ny2b4UWmE1Y",
+      "DfTvK80dWhA",
+      "GL19USlsShQ",
+      "jAYdke7Fqh4",
+      "JmVEW41kIgk",
+      "ZMedVQU70OE",
+      "1_w8517BjU4",
+      "0-n6NA5nfVM",
+      "TMhmvXBG_ak",
+      "Y4YGIYd9dSM",
+      "uHylPGGVoe4",
+      "Ab8RPhiCF7I",
+      "sSEOafdxAhI",
+      "OUGu0hgHmWg",
+      "FFf4QXN2_U8",
+      "VA5_X-F2qX8",
+      "J-u7ZDWl7Eo",
+      "YUeUwBUYJh0",
+      "vdsyGJ36HG4",
+      "VB0pJavrGrY",
+      "93PI8No2lbM",
+      "CsXKP1TPpm0"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTsC_s9_nmyNOYTlTN7LyIUQ",
+     "titulo": "Um Dia",
+     "videos": [
+      "5Txyr67Yldk",
+      "oun7h56tsSc",
+      "nHm2q0vP4VI",
+      "cWE0YLh9VhI",
+      "qHfKVWvD-sE"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTvTj5HG37O5yUpaP-ABDQaV",
+     "titulo": "Variedades TV INES",
+     "videos": [
+      "Ul_Z_sz4wCI"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTuLf8hRoX5LGRITRyRz41DF",
+     "titulo": "A Louca OlimPiada",
+     "videos": [
+      "AdFVHmM2NiU",
+      "Ziekcfs5ASY",
+      "b-dT0wcayww",
+      "HdZ8K621VBc",
+      "uvRDfYXqxbM",
+      "bUfxAuuT__o",
+      "siixqe_56Ns",
+      "aXvWmguOSpI"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTvUyRun8zpNpXEgLMX3NhdB",
+     "titulo": "Comédia da vida surda",
+     "videos": [
+      "qiE9l3a_AhI",
+      "X70xx-lXbls",
+      "1rg8tpK181M",
+      "ZIIc04BRB3Q",
+      "0kIqE6sEMrw",
+      "8LvS29WxLl8",
+      "Sv35bsciH5c",
+      "4fmQ55Ryddw",
+      "1ws-kwgq1SE",
+      "1TzOjR5Va_4",
+      "7T7s7GTorxw",
+      "woPX2DICBfI",
+      "_rVfD3y-tTM"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTsvqcVuUK8FgLrtQ5LqnZNE",
+     "titulo": "Café com Pimenta",
+     "videos": [
+      "5ArvePqWmN8",
+      "3pGhMKcY_7Y",
+      "A37gkaAArYI",
+      "8BA2UKf_o7M",
+      "4_kIYpWfXjE",
+      "JCF_pOzP3nM",
+      "8goReXtX3z0",
+      "JeKrrXUxKwA",
+      "5yqEEeV-pes",
+      "14UREBeGBFY",
+      "GYcg3vJD65g",
+      "OTsvmaklKdU",
+      "L0YiviOMvyw",
+      "cdw-B1GGa0A",
+      "k8pi1pcXDDg",
+      "NUGsEwlrt7g",
+      "t45QZdesptI",
+      "WKwsMoR7xfs",
+      "p57RdR4CTB0",
+      "c2GUT2A_EE4",
+      "pi1rh28yGzM",
+      "0CvDB7h3vz4",
+      "2BUze8U1WGY",
+      "5t1ugAQaftE",
+      "8enPuEcV2Hc",
+      "MVAw5-rp7LI",
+      "t6nTIoJhdxM",
+      "8MBCMXfqPSc",
+      "tzCyyCZEtSQ",
+      "N90eRrrpDZM",
+      "wZv31PgfmJA",
+      "rJC46T-ljeM",
+      "wn48G8UxspM",
+      "-YBF59Fcz6I",
+      "hB6UzX6Uy1s",
+      "6kEI5nuii1g",
+      "Xmutyy9lvfo",
+      "l2eH5fOWR_g",
+      "3KjE6VMn3H8",
+      "HUMUJ8_sao0",
+      "liGjeXRUBIs",
+      "BiSQsu9xJG0",
+      "CFbXt_fsgcg",
+      "jcHMEIHFZVo",
+      "46xplp-gNmE",
+      "UKwN43Zl9DY",
+      "PYvnV4pfbWY"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTtRHxgWHKTZUrI8BfbtX5Hf",
+     "titulo": "Contação de Histórias",
+     "videos": [
+      "U80ArHqzkJs",
+      "5uznsLmwhPE",
+      "ME83q-RVJm0",
+      "9MsGGlPRouo",
+      "T1uTumEeDmI",
+      "xkDnd82WUGQ",
+      "rca8ywM5K0w",
+      "93fT5vhD42c",
+      "6N3f9S20HHg",
+      "BHVp1LYPDvs",
+      "bTcsRCmE6jQ",
+      "Mtsrffpe158",
+      "01jWu0MAyLA",
+      "nLJzP9lOpJY",
+      "t6-OkGUY0Sw",
+      "2CVXz7vS510",
+      "MktX7qT1Dr4",
+      "sUHincOyQRM",
+      "nSyKxEjOVJQ",
+      "yKh5kl5YL-M",
+      "7qVRRCghp5A",
+      "sSNdg6N4td4",
+      "1BavhRM6p18",
+      "t0HmcuQtWOg",
+      "WpSgvcxWDKE",
+      "1F__PtrYnus",
+      "zWiC-xEEAd8",
+      "9SlLzOabCWc"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTuJ3ZvrpAMyhSnyfRA8Jsqe",
+     "titulo": "O Diário de Bel",
+     "videos": [
+      "SCj11bmb4-s",
+      "OkN0MuryHQQ",
+      "jkQWiIG9qw8",
+      "RMs6ixEovpM",
+      "ePorb8shEcY",
+      "tswLk0GxF_g",
+      "2EhcyfY5Jp8",
+      "glfxCJfnKHg"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTupg8CsRUgGnirWEc7D0dez",
+     "titulo": "Os Chocolix",
+     "videos": [
+      "nVlsbyXHnDA",
+      "ziECd-Vsq9k",
+      "7Snpo6TnYvo",
+      "JAhT1OiJ2kY",
+      "RWVzRm3N0iw",
+      "6kZErJdqVpg",
+      "yHSMHfWbipI",
+      "1w29nHRbqBE",
+      "gRB8l4dIgmo"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTuoKMo9A-sQaDrXGSlawMEx",
+     "titulo": "Baú do Tito",
+     "videos": [
+      "AQ75vyS8JOQ",
+      "NuzZiQyz3-o",
+      "xZN0-UGpqE4",
+      "IF7FpkNAXco",
+      "dgDwrl2wjQw"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTtkLCfWtDCsy-261kjBPq6z",
+     "titulo": "A história das coisas",
+     "videos": [
+      "iHEGKcxTEqg",
+      "q70-syxjGjI",
+      "tNOXbP_c5hE",
+      "zdwZck69u0Y",
+      "V695LA35OAg",
+      "e1NyhHOYHXc",
+      "wZzOZz2zAXI",
+      "bQExEerjjvI",
+      "KjT6W956Nlg",
+      "QwtBCTP74_g",
+      "SqAJjiAY7fo",
+      "CQt5y0YtbuE",
+      "iCUNtSNgJkA",
+      "J85p-DN_ACo",
+      "rCeXE_M60dg",
+      "qw1Y5W9ePfA",
+      "WeNaOUCgju4",
+      "lGA83-kmhqc",
+      "SEpHRs7Yjik",
+      "A91pu2tl4JY",
+      "hHYf5S-Wy7M",
+      "OImy0v_JmBU",
+      "y9hhH9p3mw0",
+      "k6c5aQNGRZI"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTsCK4SmF2691I82ZQBQf9BI",
+     "titulo": "de olho na ciência",
+     "videos": [
+      "ZZYmnubbBnQ",
+      "VuqQqFpXxSE",
+      "Rcw1OaEdfY8",
+      "tqWAOCc5J1A",
+      "o_piQadWKeI",
+      "1I8ft5BCVMU",
+      "pWropxIY_BA",
+      "XHBjKEPyrc8",
+      "jqRsUOe2BCI",
+      "Wu82yBjIMJU",
+      "KM8KJlle5YQ",
+      "Cg6qUk-UN98",
+      "LKmxP5XCXuQ",
+      "1erKB9Iiec8"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTus_28uAX0O-DVsJMk4wnxU",
+     "titulo": "A vida em Libras",
+     "videos": [
+      "-TU2shs37qc",
+      "-js96MV_mQk",
+      "PBi7khC9Wfc",
+      "qE60ZX7LcNg",
+      "a6vPwWTftw4",
+      "o9xYgKrKZ2w",
+      "vYRI0TBuZAM",
+      "s9VDxLfv2_U",
+      "VbWaNGVIViA",
+      "Nr9wMcSKYAg",
+      "S4JnbNTTwSQ",
+      "kuSXpwRmm7s",
+      "TrzvrLDJMFM",
+      "tZKQ8J0cjqI",
+      "D_jyjUp0PIY",
+      "BZaZY975IsE",
+      "jIwNHhXGmIM",
+      "tWUJFbsqCkE",
+      "alQlHwFI1vg",
+      "GiDkdVyewPU",
+      "dV5G73RsPuQ",
+      "qJBGE8RJBUU",
+      "2UzBdUSWwxQ",
+      "-gn34MLN8Yw",
+      "hccrJBEAfcw",
+      "VdGdov0OmGM",
+      "Y_SiGWPqH9o",
+      "WUtcMaybAIQ",
+      "WkO_ab_a_kM",
+      "erb1Y8b989E",
+      "Yi9YVcdcpuc",
+      "IljqaSIGuP4",
+      "zeoUGAZ1Aeo",
+      "7dbhj2DNFFo",
+      "QCQDso5A1e4",
+      "s0Z4XSarGuw",
+      "OAsP6jyX05o",
+      "mq2hz2ISUbc",
+      "giTIRA8T154",
+      "JX_N86E-QJQ",
+      "rBoTM6lBVIA",
+      "L5ZXOBSFo1A",
+      "LmdaGtdg0Uo",
+      "GLsORSmyqiY",
+      "ZDKIGpKWhQQ",
+      "fwj87tvywuM",
+      "OGlqbWt185Y",
+      "rd6NBrB1kPU",
+      "3vm5OH0MA5E",
+      "hcMxdrM-YT0",
+      "SOq0wCX7Fw0",
+      "1786kHaaQSY",
+      "97f2KhahLGM",
+      "aMH2OcNl4JA",
+      "CkmcuxBlUeg",
+      "k2BfaRsI7DM",
+      "ZJAdAnWzAGc",
+      "wemSmYZimao",
+      "31kQ9YxWZH0",
+      "w54piqKgzis",
+      "ei6YZrvwNpk",
+      "WHGaShBtKYo",
+      "RnjF9VEy7jw",
+      "saW1se2dxwQ",
+      "527k0nmuf2w",
+      "8_cnbg_SUwE",
+      "IRBAOZlTMjg",
+      "bmHlLbfZwkY",
+      "JIJQ7P-yVMQ",
+      "gzGNlKy9os0",
+      "qtcox9YJjN0",
+      "NvY_-phNOJE",
+      "5rKaxbADC2Q",
+      "JEoKGKdXQ1A",
+      "GI1yewTj5CQ",
+      "DFfZDOLK5X8",
+      "TM8YyLrrgqQ",
+      "ZhPqM7EPpvQ",
+      "9olIrH4eFuM",
+      "qB17o9cjZzQ",
+      "Er7RLqMXlbQ",
+      "vCskvQcTHho",
+      "Khj_qv61R18",
+      "Phxm-r1VUwI",
+      "YLaBI4yO5NI",
+      "EwrD-p843CA",
+      "YBvJ5RX7CYo",
+      "aMSE9oUZ6ro"
+     ]
+    },
+    {
+     "id": "PL18ybxrEghTvURcO-yn4mefiDbqn6ZMYo",
+     "titulo": "Informações para o cotidiano",
+     "videos": [
+      "vSCdkmY-xA8",
+      "3xQFxc9YAwA",
+      "DfJatzQSWtw",
+      "dc2DUAZlnKQ",
+      "4INR0FY1qDM",
+      "nZWl8kJ5s6U",
+      "B7p4cdr9Dcg",
+      "o1M-2B260Lg"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "sindrome-de-down",
+   "instituicao": "Movimento Down",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/canalmovimentodown",
+   "playlists": [
+    {
+     "id": "PLnBzbhjz6zqtTumR8eNbZtmmcaW_XN9Hm",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria.",
+     "videos": [
+      "I5ea5tnzNOs",
+      "x3g4YqHNC8c",
+      "AbUr-37d9pA",
+      "vTM1_v49IrU",
+      "kBFScd_fQsI",
+      "9csY1UF_ZZc",
+      "VllhRIX9NgI",
+      "HFYpBYleeJM",
+      "Xyqrb0_j8Kw",
+      "KhqU8tqIoBI"
+     ]
+    },
+    {
+     "id": "PLnBzbhjz6zqufCqlGghRDEcYhyG-K92_3",
+     "titulo": "Curso Orientação Acessível em Tempo de COVID-19",
+     "videos": [
+      "5DPUyqt44zU",
+      "p0oyxHHvE5M",
+      "df-V4rqDX6E",
+      "8mT0mrK8RB8",
+      "ce5P19x8NbU",
+      "21dz_EiZmEE"
+     ]
+    },
+    {
+     "id": "PLnBzbhjz6zqvotVT9wkjq086azT7BkiF3",
+     "titulo": "#NossasDicas",
+     "videos": [
+      "97CYSjINa2U",
+      "bglFZdoE7ww"
+     ]
+    },
+    {
+     "id": "PLnBzbhjz6zqtyUklZjEIN5Y5NUmJht877",
+     "titulo": "Crescer com Síndrome de Down",
+     "videos": [
+      "iQwxdtyO7oc",
+      "hWI_itMgJkg",
+      "fOwrfDVjwsM",
+      "yamQ6PhmgHQ",
+      "O1ouMcrxfpM",
+      "piBaI47DKfs",
+      "nBQHU0eQSdg",
+      "Z5ljBl50LGk",
+      "5F9yhooOVCQ",
+      "qxb63gcBGrA",
+      "1P_CBsEX-Pg",
+      "8qTW5piIQgw",
+      "-2jMH0CICIc",
+      "ei0i_nipBEE",
+      "fOvoSeSNDE4",
+      "CijweXrEuW4",
+      "smeJmA2556Q",
+      "k46E1eEahP0",
+      "j3RbPjG3ryk",
+      "Et9WZU4N_0Q"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "sindrome-de-down",
+   "instituicao": "Down Syndrome Education International",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@DseinternationalOrg",
+   "playlists": [
+    {
+     "id": "PLkihuGdyBXkbxdfJ88T0vR2qzBFGcFlX5",
+     "titulo": "See and Learn",
+     "videos": [
+      "a2KHC_5zRZU",
+      "yvJK3braDJs",
+      "6ZvXQsWeWsg",
+      "zPfj1HYphfQ",
+      "_FYa7Qo0wXg",
+      "3A2wegtmORs"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "sindrome-de-down",
+   "instituicao": "Down Syndrome Resource Foundation (DSRF)",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCCQ9LYhlSvhZjqBn0kVNAPw",
+   "playlists": [
+    {
+     "id": "PLjwn_M1NTynKJgE704kiKhpCy5ndDj4WR",
+     "titulo": "First Signs with Carina",
+     "videos": [
+      "2UvbkrhmB8E",
+      "ejxeMbkit2I",
+      "kWpOxiCuheQ",
+      "ZLOFqUQ_Ms0",
+      "NSZXpCmVeIg",
+      "lKuqWP5_59g",
+      "SZFYNE1dbxc",
+      "lXJK8FGsmdg"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynKngNwWh9aIVVsEMVALE5AQ",
+     "titulo": "Down Syndrome Explainers",
+     "videos": [
+      "CCCUIsct8Bw",
+      "4Ug95jYt1b4",
+      "aIOkgLUvKrI",
+      "yaMg2N5YH5A",
+      "RL7TsFDPnVw",
+      "EKGjPO2T3h8"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynLKZ6r0pRVx58N9-3Sia9Ig",
+     "titulo": "Math",
+     "videos": [
+      "MMSzYgE0pVE",
+      "n2t2clbse5E",
+      "Sh6JHKTq-pY",
+      "bjZHt2xZgnc",
+      "_dKDt9Ca1Ro",
+      "TSKtYt8eaTI"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynL-J78VVOcTF3gouOEZtsEX",
+     "titulo": "Positive Behaviour Support",
+     "videos": [
+      "qWPyzKHKcYg",
+      "9im7s1-T1XM",
+      "Ij-KNpxGKio",
+      "m0Dfi1Av7WA",
+      "d_oPHYEuRmM",
+      "y8aL25sSzgo"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynI9ZimsCjYc3lcbyzVtA3Xs",
+     "titulo": "Mental Wellness for Individuals with Down Syndrome and Their Families",
+     "videos": [
+      "0vzei1VY_4U",
+      "1tCy7yTzE0A",
+      "e7ZMC22Pbf4",
+      "9G0Hm5je1qc",
+      "ScXxxd7gozM",
+      "zKdvLIOQFBs",
+      "m0Dfi1Av7WA",
+      "d_oPHYEuRmM",
+      "Y-YMc26BMBo"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynJuuL12V9qiApNItvg4rJ4b",
+     "titulo": "Occupational Therapy",
+     "videos": [
+      "yaMg2N5YH5A",
+      "PPKehYaxAO4",
+      "m1NQCllY0us",
+      "5NADw4MmIso",
+      "Clz3uQmctdM",
+      "tQqXpHzamoE",
+      "jThYLu5mt2o",
+      "rpL1meehfR0",
+      "RGUBso2K3kA",
+      "5e5umq71h8E",
+      "bddwonx42uI",
+      "KfP7WSKzahY",
+      "VsYhSvNRT1k",
+      "Cg-1X3Y2Sbs",
+      "Ir6Xf7CRV5M",
+      "2oSY8q2ncKs",
+      "HEpCVwE9dmQ",
+      "zbM__ZhiAJs"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynL4J_jwY8Kaswp51JMr9hI1",
+     "titulo": "Speech, Language, and Communication",
+     "videos": [
+      "E09dkCr9_m0",
+      "km30n8neLyc",
+      "5s9XtnjyLuE",
+      "imPL_0rKH9Y",
+      "_BRIzOhwNEI",
+      "FlfFtaE1XiY",
+      "x6PsvMSs3aw",
+      "JP2QlHME1nU",
+      "vW_utLK6LnI",
+      "rLRfPneawQs",
+      "4Ug95jYt1b4",
+      "aIOkgLUvKrI",
+      "uepkFvtJoyE",
+      "sKffahOXTGo",
+      "RdbgMD-Wikg",
+      "GB6uTakl5xk",
+      "f2KV89m-75E",
+      "kv7jK21yhRY",
+      "2oSY8q2ncKs",
+      "ejxeMbkit2I",
+      "kWpOxiCuheQ",
+      "ZLOFqUQ_Ms0",
+      "NSZXpCmVeIg",
+      "lKuqWP5_59g",
+      "SZFYNE1dbxc",
+      "lXJK8FGsmdg"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynKmdU5SLVkYEc3h-LzLiREP",
+     "titulo": "The LowDOWN: A Down Syndrome Podcast",
+     "videos": [
+      "a7wvSEaRwa8",
+      "_94gvdmCyM0",
+      "tLN9f_C3OEM",
+      "KN0qvt7Wtlo",
+      "uoKnuEIQhyQ",
+      "g258KrA2-DU",
+      "QSkKnqObR4s",
+      "j8BH5MoGcVs",
+      "MWPZAC34rPc",
+      "IjLoWBRgi80",
+      "s30O-lKCgck",
+      "n-f5XFvKeyQ",
+      "iguq6MtNOok",
+      "IIPaDgSJfm8",
+      "S8HToe4eFBE",
+      "TeDiFgO9ONk",
+      "f9yEwY6cTV4",
+      "ZGmV_FIUTXA",
+      "rw1CNgq6Lbg",
+      "Ba0kL4eUy-I",
+      "gcBf12-TeqA",
+      "iiMwue8dU5w",
+      "3V0HIGufO4c",
+      "2T1k-WqqSnA",
+      "RBe-WPTy4As",
+      "lxfpCrbiquQ",
+      "tJaEIJQZpSA",
+      "nwk26hzqOe8",
+      "1CuLovdmOGo",
+      "c6lLm_-tlLU",
+      "lDZbMSaQ_PY",
+      "dgDs0Ma1lcU",
+      "hHgilNHt80k",
+      "DxOohl5oNzA",
+      "Ag7o6pl-c3E",
+      "kIMpha4f6lY",
+      "PK7BvVddQfw",
+      "fwAN8GcCL0g",
+      "x-BQIwb-6Fs",
+      "3ijAN0eAO1o",
+      "QNi1RvFopiE",
+      "FpJMBLbCaXM",
+      "Bss-jvjDWHs",
+      "0tO1GKvldwE",
+      "Q1FjgGqWy10",
+      "_Q0tc4ks94w",
+      "NzwUCvmlvXI",
+      "PM7eeZyemSw",
+      "9Nmo2Wm5zKI",
+      "J00AGP7HZZg",
+      "SCvfwpos8QI",
+      "gmKHqlPVYfE",
+      "eHA54F2-XU4",
+      "yqGIXRnJkB4",
+      "6HexrPzteJA",
+      "FBbu9DJkKPI",
+      "Z36XIDoEdOk",
+      "1_1NZYbghtY",
+      "qgUWlNTX3lQ",
+      "QvNJupBDEp4",
+      "2jUtc_BnX6s",
+      "2go9oef_Rt8",
+      "y8aL25sSzgo",
+      "NYJAAmB5vfg",
+      "_oDURD-orr8",
+      "ZdCN2tRZPKo",
+      "twJdlkE7044",
+      "PaHObHrHIn8",
+      "ebkff0SeKhE",
+      "DIz8XfaHke8",
+      "1gEo6Yab1Fc",
+      "jhFXICJTwPE",
+      "-mSi08fTs0A",
+      "biCagxIN7hw",
+      "dYCvXzsVlws",
+      "BXcS_t0kX6g",
+      "CRVP3pDcdhA",
+      "neN2Dz9552M",
+      "OUN-q8CbrMo",
+      "jq3hrG23pq0",
+      "eu6E4PVCRlg",
+      "q-bwnv1Al2U",
+      "YkG4bLh9VO4",
+      "joq0Lqh8eys",
+      "ZoMrnKG2ZpI",
+      "PihgTpi1kXw",
+      "bW2sl38Z9GI",
+      "yEtFlx7ULug",
+      "yxSqlMq01H4",
+      "f_CKH6ZQBsA",
+      "SsBRkezls1o",
+      "9ikwohlvj5Y",
+      "U9znCMTXBog",
+      "vRuiHbc_lSw",
+      "whawwjYwifA",
+      "l05zwY6QM6U",
+      "2aqK1IbaO2I",
+      "xyPE5gPjBiA",
+      "x0dwwAQpk-s",
+      "jnlDB7XgTsk"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynL2UB6wo8FwOHAlCaCp6M_4",
+     "titulo": "DSRF's Short Film Series",
+     "videos": [
+      "vNSnd-n6ERA",
+      "dYTXmIzYmrc",
+      "zkyB-UUgj4Y",
+      "B-2KcmHNxf8",
+      "0vzei1VY_4U",
+      "pyYIhZ8mJTg"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynIys67ezDnCnKukKH7MrD4E",
+     "titulo": "DSRF News with Andrew Bingham",
+     "videos": [
+      "CD2Y76_zK0I",
+      "on6uB4jyk3E",
+      "Zwzegybxy_A",
+      "_gpXpZkW-is",
+      "kgZydEMiwkY",
+      "JbDyYv5DQng",
+      "xxTsE04DLfI",
+      "eFB_wx4BbNw",
+      "ZCG_IcsxiIs",
+      "rBo0OOBBDZA",
+      "U632iJf5mik",
+      "45idVUczNpI",
+      "kqYvIL10YZU",
+      "YuR8Tk2hWQs",
+      "7gz5l1bACK0",
+      "owqjMmx9FuI",
+      "UNLQvqcaHwQ",
+      "Q6bUlbJEoVQ",
+      "gsXYuujn1tM",
+      "Toa585e9tBs",
+      "NXT7FFXbYwM",
+      "awKy2GkE4xY",
+      "BPGFCN2j2_s",
+      "OALU-5pHNRk",
+      "-UhYtbsKZxo",
+      "QKyg7jnZVI0",
+      "LkvJcyHGRyc",
+      "l3TPF1pXwvY",
+      "NV7mGPLizh0",
+      "w9w9jzy0gVk",
+      "afdgpEyGBQI",
+      "AfXcTVcq85I",
+      "jcIAzPAPwkY",
+      "0RX1h6Qc7ys",
+      "KhTXntMFuG0",
+      "lx-b49XYRp8",
+      "NGLziSs8xLs",
+      "7hMTFa81YQ4",
+      "vlgCilp8R_I",
+      "081ENTgWFTA",
+      "adB-j2T20GU",
+      "ZXU8nvOtVcU",
+      "dYuteg8t0Lc",
+      "B79qQc1P3Lo",
+      "WrWjukrRV60",
+      "YDPmNcTUFiA",
+      "LnIQ-0CMw84",
+      "PogZnBKu6os",
+      "GqVj-Rum-7c",
+      "lNjlOd1Cof8",
+      "V7VpPhhdnuw",
+      "ciHmydhD-Yo",
+      "zTIwQGhjZAM",
+      "cgjzq_uF8_0",
+      "1MzsgCzTCRA",
+      "oGk9xGTBqzE",
+      "kNTwQwJ_ZSk",
+      "OWVLaU68VBU",
+      "Cugn_n78uwU",
+      "msasTLGh-70",
+      "bKht0Xkb9Oc",
+      "B4WMZm0lLF8",
+      "FCa7WpQslX4",
+      "V0GyzY1tubI",
+      "EIS64ANa6I4",
+      "UYaw7dhrj2A",
+      "aIoG2idQjIs",
+      "QvWWPj3S_v8",
+      "smvjjFCD8cY",
+      "-x3dKkBPI70",
+      "tTnmfZ3DGI4",
+      "Cx-VnHpe3QQ",
+      "5iM3yr-NfzU",
+      "tRYf6poBfY8"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynIep41RmeZPyEgByyuAhy_S",
+     "titulo": "21 Questions with...",
+     "videos": [
+      "YBoa0VwWlcU",
+      "sIyvJ1BF_0M",
+      "gOaplJQPdyQ",
+      "I3pABNioW5U",
+      "Qoj2TA9-MKE"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynIfV1jKfu4PPqEulp1NwqAU",
+     "titulo": "There's Ups and Downs - A Parental Wellness Series",
+     "videos": [
+      "e7ZMC22Pbf4",
+      "9G0Hm5je1qc",
+      "ScXxxd7gozM",
+      "zKdvLIOQFBs",
+      "m0Dfi1Av7WA",
+      "d_oPHYEuRmM",
+      "Y-YMc26BMBo"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynIG8dJgoW3VPeyQNrV6Eiaz",
+     "titulo": "Learn At Home",
+     "videos": [
+      "CCCUIsct8Bw",
+      "194y5MYPXm4",
+      "RL7TsFDPnVw",
+      "5s9XtnjyLuE",
+      "imPL_0rKH9Y",
+      "_BRIzOhwNEI",
+      "FlfFtaE1XiY",
+      "x6PsvMSs3aw",
+      "JP2QlHME1nU",
+      "vW_utLK6LnI",
+      "rLRfPneawQs",
+      "4Ug95jYt1b4",
+      "aIOkgLUvKrI",
+      "uepkFvtJoyE",
+      "sKffahOXTGo",
+      "RdbgMD-Wikg",
+      "GB6uTakl5xk",
+      "f2KV89m-75E",
+      "kv7jK21yhRY",
+      "yaMg2N5YH5A",
+      "PPKehYaxAO4",
+      "m1NQCllY0us",
+      "5NADw4MmIso",
+      "Clz3uQmctdM",
+      "tQqXpHzamoE",
+      "1tCy7yTzE0A",
+      "qWPyzKHKcYg",
+      "MMSzYgE0pVE",
+      "n2t2clbse5E",
+      "Sh6JHKTq-pY",
+      "bjZHt2xZgnc",
+      "_dKDt9Ca1Ro",
+      "TSKtYt8eaTI",
+      "jS7gitd39pw",
+      "Qwt4TLsz-As",
+      "b8WrMUk1ErM",
+      "qSygRnE4D54",
+      "kT24mmBEKFA",
+      "ujF2_o8iwak",
+      "_6pn_t3dZEk",
+      "7MHnOg_J61Q",
+      "oZkrVKkJTSA",
+      "1BYQYBIlk0s",
+      "bTTQ3p_JW7E",
+      "RApxuDznEdM",
+      "6EHZ_OXFmI0",
+      "JQLFlHJJNFQ",
+      "ejxeMbkit2I",
+      "kWpOxiCuheQ",
+      "ZLOFqUQ_Ms0",
+      "NSZXpCmVeIg"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynJ8P_hZDaPREEUTL3BloQp9",
+     "titulo": "DSRF Impact Stories",
+     "videos": [
+      "wf2Lk0hig1k",
+      "OQPVLxmTj1k",
+      "Ljhk5Mmq9AY",
+      "TK12o2ZhahU",
+      "wvLgpQgZ9u4",
+      "hRED5faSrXI",
+      "wYJYPt0YGls",
+      "9k1-DCmlU58",
+      "CwzEeCe6rYI",
+      "459Bpz6_YMA",
+      "cUwseI82p5s",
+      "k1GzyjdZ9ws",
+      "Rw-syhGwTvs",
+      "3-BJnXpz48U",
+      "vfGZvYvfojQ"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynJVsXrmxa_TxPThJxb7v6Ge",
+     "titulo": "Karen Dodd, PhD on Down Syndrome and Dementia",
+     "videos": [
+      "5Gs6uCaQy6o",
+      "riC_nANDGXs",
+      "J2X_b4uCRRM",
+      "JI3Hmyhywsk"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynKAOjMuz1EFpbmrW-RGk-4s",
+     "titulo": "DSRF's \"From Good to Great\" Conference",
+     "videos": [
+      "WXv7mXyDoLM",
+      "PzE4u3HHTTQ",
+      "5Gs6uCaQy6o",
+      "riC_nANDGXs",
+      "J2X_b4uCRRM",
+      "JI3Hmyhywsk",
+      "LopczOjPYFE",
+      "DnXT4xJPlK0"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynL7UmJS3JjjyS2POYV-yRts",
+     "titulo": "About DSRF",
+     "videos": [
+      "wf2Lk0hig1k",
+      "H2k6hyq71S0",
+      "OQPVLxmTj1k",
+      "Ljhk5Mmq9AY",
+      "DK51bihQ4PQ",
+      "nfGDu1OiCe0",
+      "TK12o2ZhahU",
+      "V4yHInKo-u4",
+      "Elf54miCep0",
+      "jIf1LFI0yGA",
+      "feaFYdpFUk8",
+      "M5xhGfoBomU",
+      "CYzICXboUQo",
+      "V9fB7WmFwKg",
+      "3-BJnXpz48U",
+      "vfGZvYvfojQ",
+      "mnccnBNrXfQ",
+      "cUwseI82p5s",
+      "d8VdrPYVY6c"
+     ]
+    },
+    {
+     "id": "PLjwn_M1NTynLtFsv6Ylzwz6EfGkM85xOG",
+     "titulo": "Reading",
+     "videos": [
+      "d2aqG9PzXB0",
+      "unKKz2Fe5hc",
+      "4xabdeH340w",
+      "jS7gitd39pw",
+      "Qwt4TLsz-As",
+      "b8WrMUk1ErM",
+      "qSygRnE4D54",
+      "kT24mmBEKFA",
+      "ujF2_o8iwak",
+      "_6pn_t3dZEk",
+      "7MHnOg_J61Q",
+      "oZkrVKkJTSA",
+      "1BYQYBIlk0s",
+      "bTTQ3p_JW7E",
+      "RApxuDznEdM",
+      "6EHZ_OXFmI0",
+      "zqIhuJ4RlIs"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "discalculia",
+   "instituicao": "The Dyscalculia Network",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCjMTlUFFw8X94tW2W6a_glw",
+   "playlists": [
+    {
+     "id": "PLtfQyrRGNWNSjQg_O0uTJz3yf03SWvBVL",
+     "titulo": "Dyscalculia in the Media",
+     "videos": [
+      "bx-GwBL8pOs"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "discalculia",
+   "instituicao": "NCII — National Center on Intensive Intervention",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UC6W2pma8TiSZvY_GWROkTLA",
+   "playlists": [
+    {
+     "id": "PL1bOssvlvTAWg4WnFXf_BeJqDY7MP_xc0",
+     "titulo": "Math Module 8",
+     "videos": [
+      "KCjnpTgHQr4",
+      "d7IDkxwUHy4",
+      "tPtaPHa1xGE",
+      "DIigHlZpg0M",
+      "WeVuQVyzMJs",
+      "t04wi5M_sdY"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAX-lbJt-kE5OQCbfjmChPdP",
+     "titulo": "Math Module 7",
+     "videos": [
+      "zcJVp81gfp8",
+      "yyDbLaYjokE",
+      "BiuXzJcXb4Q",
+      "OPYXrwY95eg",
+      "HwdEbV8TUY0",
+      "xdXe23GB8Kw",
+      "v4v3id8tXSY",
+      "BADNLQfM9Ek",
+      "kws3Oh97cE4",
+      "JWGdms9icYs",
+      "oGMeQPWYfXo",
+      "7s_yomij4sY",
+      "Zob6Kdccnn8",
+      "ol0HOXgOPbQ",
+      "2Qz_nne_wiw"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWumLRRjQfRXhHXJ-Iv9KuI",
+     "titulo": "Math Module 6",
+     "videos": [
+      "x03s8dnuOQ0",
+      "iBtwGOouNK0",
+      "Mq6AMR0Tvow",
+      "0LWissUbkEI",
+      "NRuASh-Zmko",
+      "vSrqKhgfoEU",
+      "wBno4xuXPEU",
+      "tX2bpclgSUE",
+      "85AKIVY6qGc",
+      "b5EJ2x1VTz0",
+      "aw4slnnkISw",
+      "Tkqq0_tf6qU",
+      "NH8KE9LUpvA",
+      "8QOq5ghbX40",
+      "ULit9bt3EzU"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAXmnp8a1mtGR7c1caLJZ9so",
+     "titulo": "Impact Stories",
+     "videos": [
+      "u0FiSOAYOAY",
+      "r1SXShX6fgk",
+      "VWTMH44nxWs",
+      "6aePcCBnNZA"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAVQrpQVDtbkq5Wh2a3Ri9KD",
+     "titulo": "State Implementation Stories",
+     "videos": [
+      "rZUpDGR5ypY",
+      "AyuVyuPCPrE",
+      "2CRSvqJlSvg",
+      "kTJNjozjNJI",
+      "PUAaHzn2RqY",
+      "Ujaq-Jax1Vw",
+      "A-abiu9BW4s",
+      "UXLcmJPnNRk",
+      "FW7H85EJXoQ",
+      "HV3Xlps0tAQ",
+      "2W9mUhd-p60",
+      "u1RX4whuXZM"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAVp3frQnfhVTWEqsYZU48Gq",
+     "titulo": "Voices from the Field",
+     "videos": [
+      "pg5vXFrXZtI",
+      "7E9CLMeXmJ0",
+      "ivQ-2dmI_NM",
+      "iZ9QC5nr-rI",
+      "O8h-UKTagpo",
+      "IdhXphjDMhc",
+      "0v-IuZ5KdUw",
+      "LwJvCuefpBk",
+      "cADQv75y0AQ",
+      "bwxiByJDh4U",
+      "1DgkpgmSf4k",
+      "_Rc1VSq5xvM",
+      "hyBhGt8M3SM",
+      "b7Pn-Xdyw9I"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWJTloV8bO6yMzTRWam9sHE",
+     "titulo": "Virtual Intervention and Progress Monitoring Examples",
+     "videos": [
+      "CohgQaGj1Rs",
+      "Imnkw6jnklU",
+      "MD1-cbdrtHs",
+      "H_Zp7s-BcFE",
+      "-Gz9pesrnM8",
+      "Yu_4VnZPM1E",
+      "IdhXphjDMhc",
+      "MzOmtfnFGTY",
+      "JBEUB9IFPHQ",
+      "fVmkGUEtPmA",
+      "q6G5sElfpUk",
+      "6cWsvGscl3k",
+      "7_S4ExYW_q4",
+      "sASlhzua7nM",
+      "ymN_NHBvKKA"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAXFBJ8iPxOPsoZO_wKiV9oG",
+     "titulo": "10 Year Celebration",
+     "videos": [
+      "7884Gh_gKgg",
+      "84HiAkD4dn4",
+      "LgI9wFxbcFY",
+      "TKFNIvzNKBI",
+      "oqlVInZenyY",
+      "mZ8yU1pBN8Y",
+      "edXny-JnfaE",
+      "DrGCbW5Xrhk",
+      "JM4eoxsia68",
+      "FiMdjZL63dk",
+      "LwXzPxqloew",
+      "s65OuWLq2Bg",
+      "Vg1OehCmIS8"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAVvWjKcnYJ-ObjTWGXZun5o",
+     "titulo": "Reading Course: Module 7",
+     "videos": [
+      "EDVAFp8aV48",
+      "I0bGrjCNnxk",
+      "oJNyEK9R8Z0"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAXWY_EWY3WFiS7Pa03zfqp2",
+     "titulo": "Reading Course: Module 6",
+     "videos": [
+      "gSnMCLNl0sc",
+      "defI9E4kFA0",
+      "Qv5uLW58I6E",
+      "pgsT0XYmORg",
+      "rbpEfBX5z-I",
+      "YAx0EvUClgI",
+      "ipgF83Miv5c",
+      "G45QcU81IyI",
+      "kyUa8Nclfmw",
+      "0S6n8p0ZIms",
+      "w7sMcpsh9Ao"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWEPANhBcHS6Fw3gSPK3jIn",
+     "titulo": "Reading Course: Module 5",
+     "videos": [
+      "jP2aUv_B3So",
+      "qAqVR0mza24",
+      "djLzbmSn7PE",
+      "5pFR6rpTY_k",
+      "cpKtwx4-lVA"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWZr7GKiwqQ-bxLkmHDW0n2",
+     "titulo": "Reading Course: Module 4",
+     "videos": [
+      "qgV3GSGAH7Y",
+      "FJ10YCkwJTM",
+      "NYwRLTjWewE",
+      "R4DMF7X3Yoc",
+      "O84hO18b4CE",
+      "Rpf09uOlxXo",
+      "Y_0PMwEoIyE",
+      "1zZXnVo9Hxo",
+      "BL179vdsszg",
+      "SHd2XGyADE0"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAUGvcQWw2zSO9O9a1729x1b",
+     "titulo": "Reading Course: Module 3",
+     "videos": [
+      "Eq1iMJ_qC3Q",
+      "fApljO6kXHU",
+      "EdCRGmFBis8"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAU9WGOZP_uU39JGuOAh3hzc",
+     "titulo": "Reading Course: Module 1",
+     "videos": [
+      "x-JJtiCtYdo",
+      "QR0ajLTcj7Q",
+      "nxdSRLJsQMw",
+      "d00vGGFGchQ",
+      "V73nfOVITjg",
+      "Vd6slv1JMW4",
+      "svaYTdIg9HI",
+      "5yWtujA9u2g",
+      "SKeQ-9p6jhU",
+      "fCmiAUHduak",
+      "dHM9GYtZ8Xg",
+      "43rSU5pQCGU",
+      "yrl2yqfwmaQ"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAU3fuqiUmIcCHbpLiPaiMb5",
+     "titulo": "Behavior Course: Module 8",
+     "videos": [
+      "K86ofvP5lbo",
+      "8QL4qyFddHY",
+      "yde-CUuZfrk",
+      "rM-usgI1Ofg"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAU6lo1yPP8KmtbJ5F-cRvji",
+     "titulo": "Behavior Course: Module 7",
+     "videos": [
+      "M973lgpNEGw",
+      "V9n-nvwYQXU",
+      "Mn6ZQKFedf0",
+      "Tdz335ALjXw",
+      "iMJ1UoP70Xg",
+      "m76fE4P4oms"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAVyCEH638UtRDaLhytDXfeo",
+     "titulo": "Behavior Course: Module 6",
+     "videos": [
+      "44xvmTRqSrg",
+      "89rRK5JcJHg",
+      "uD4_VnUye84",
+      "4YEx0EfDUvQ",
+      "tisKlZ1bYW8",
+      "SXI2GqI6t-M",
+      "AarquOGNisc"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAUcCj_P3gwlV_vKlpvQjU9R",
+     "titulo": "Behavior Course: Module 5",
+     "videos": [
+      "6OGnJExS1UY",
+      "KF7A39iFRm0",
+      "i5qXL5bebGU",
+      "dibXeCE8mi0"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAUmIEW3y4yP7rhlkFW5lCDu",
+     "titulo": "Behavior Course: Module 4",
+     "videos": [
+      "ps1XILGozu8",
+      "wJ3goMf2JrA",
+      "tHwgDOuKL5o",
+      "tP6h-vwDlJY",
+      "GaZC1t-EdG0",
+      "xmZXljQDjkI"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWgE6xnK8q0e6Y8IFTdVfe7",
+     "titulo": "Behavior Course: Module 3",
+     "videos": [
+      "3wmdB7w6oiQ",
+      "2R-s3thqAVI",
+      "ZpuFb3NPrZQ",
+      "u1lau5vLefE",
+      "8E99JA7kfPo",
+      "Ems2uQqalkc"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAUns-DxIo0qbhKnf5huc8t6",
+     "titulo": "Behavior Course: Module 2",
+     "videos": [
+      "KWCfFcLuWkw",
+      "qMr3PJAbTqg",
+      "S7zaE3FzQfc",
+      "u1XyrtSxsQQ"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWZSZrIJYDORnqGp13VxhS7",
+     "titulo": "Behavior Course: Module 1",
+     "videos": [
+      "VjCXPRjPHQo",
+      "HdC6zjgoWeY",
+      "o1Kx1FQTqac",
+      "6VAglq7mSgA",
+      "XBpgtUjYZRE",
+      "P70i_0BBFIE",
+      "jTs88SdbBYc",
+      "EfC-f0QiLXE",
+      "1-4WiNXRlqg",
+      "eJ8ebKunaig"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAX6BjQw1DrwSegRoSQJEDXH",
+     "titulo": "Math Course: Module 8",
+     "videos": [
+      "zJB7Orusjas",
+      "aKsF0GdH8ZE",
+      "Du2RSMwzsy8",
+      "SFi2VP-ziYs",
+      "Y_3mO9TH0m8",
+      "8ID17lWoZzo",
+      "aUEm1rmCWxg"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAUZdux63XmXuFV-2PPT62ja",
+     "titulo": "Math Course: Module 7",
+     "videos": [
+      "hrCz887H06c",
+      "elBvEiECA5U",
+      "3T5xexd6IDk",
+      "PXNm-PXtS5s",
+      "skwpdQb-tYI",
+      "vE0H2D57ZJQ",
+      "U_VCN1H2JqM",
+      "fpbjHOJOfZc",
+      "Tdwi5IWknYA",
+      "8yW0wID_h9Y"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAX4m5mIQ0bzWSJlFwu5OCst",
+     "titulo": "Math Course: Module 6",
+     "videos": [
+      "ib1bn3_P78U",
+      "A1CYTRWRKlM",
+      "8wWn3yWLxEo",
+      "RuBgz9A9N2o",
+      "qnXtKdPcDmk",
+      "22w3zjTzGQM",
+      "l80S7oe8g3s",
+      "4f4LlaTNQZs"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAVDBez74RwoIR4UH-wVc9i-",
+     "titulo": "Math Course: Module 5",
+     "videos": [
+      "Ye2cpGmlY14",
+      "3zuLiFIxTbE",
+      "Mi1gMaOP7_Q",
+      "Q9weT0WADuE",
+      "VMj7DowT17g",
+      "lasMPfdDH7c",
+      "fA3JIsXEW30",
+      "opMQZUWV7U8",
+      "KpWCX0x1CVw",
+      "hTLa2dxvzI8"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWTbsU_yJAnS3V2EZlPtfjl",
+     "titulo": "Math Course: Module 4",
+     "videos": [
+      "sNi0nY81REw",
+      "gacKWPwMm9s",
+      "uMz2yPxY1h4",
+      "LSQL32Pjb48",
+      "22cpT7KZAwU",
+      "HuSBQG8H2XI",
+      "ixWgcht9T5w",
+      "2OshBVGFCI0",
+      "IJMlrvSkPE8",
+      "KHQgpa8DjYs",
+      "noNlpc_qpIA",
+      "5zsEG0RJSXI",
+      "v5z5eyuHCT4",
+      "a6_keAz1WzU",
+      "HC9iKMEBk6s",
+      "LSwqLoQFnCU",
+      "5ez7OgRusLY",
+      "AJQEKxb-B9U"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWNjA1PBQMKMtwLM522DH2k",
+     "titulo": "Math Course: Module 3",
+     "videos": [
+      "z418NFbb1qg",
+      "H2QmUCR-LBU",
+      "dXNsrxobqcc",
+      "29i0BMe1iBE",
+      "wtldH7Ws0JU",
+      "sh2dyx2BZf0"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAXZ-IsqNh0FWkiCOmY1X9tF",
+     "titulo": "Math Course: Module 2",
+     "videos": [
+      "TBebWgIQq_E",
+      "dHSZlQ0NKd0",
+      "-q4M39jheD8",
+      "cF9J2dzZWVk",
+      "D7rFpsacXpk",
+      "Z48vgcjX6vE",
+      "c5cKCjAwjeY",
+      "LDe-AcB6T7w",
+      "tWLPtorzqGo",
+      "2YidrJ3zabQ",
+      "tof8mNnzvZw",
+      "CxeZ35d6h18"
+     ]
+    },
+    {
+     "id": "PL1bOssvlvTAWcIp81jaJmhY9AUAzwlbWi",
+     "titulo": "Math Course: Module 1",
+     "videos": [
+      "rn_b1cCU3DM",
+      "rYy6yb_rWM0",
+      "r1TfAzqcg6M",
+      "11Rn0uCYsAo",
+      "o_PMezSaIf0",
+      "hp2JpOnPJiI",
+      "DZvy8m0C5HI"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "transtorno-de-linguagem",
+   "instituicao": "RADLD — Raising Awareness of Developmental Language Disorder",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@RADLD",
+   "playlists": [
+    {
+     "id": "PLZKYMAk9g2pk9Nm_djh9dtZZbSke_wvQf",
+     "titulo": "2025: you can't see DLD",
+     "videos": [
+      "jLF8QrWg8M4",
+      "Wqz69pvEN_s",
+      "UshidOy6-0Y",
+      "YS91rPK0AVg",
+      "8YO5oiqyjDs",
+      "Ia0VZSoXDFs",
+      "6TlLMbUsCoQ"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pnD5eFFTgMk0P0_ipjVDwaD",
+     "titulo": "2024: Speak up for DLD",
+     "videos": [
+      "Z8vgHAaxPxI",
+      "AzLI8ijMFzM",
+      "TBjXZt2WDpg",
+      "mHy4kij06ek",
+      "NcOIW0aKtDA",
+      "6asiQ8hLH7I"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pnMTd-yfqGEkQDuZ0jz6Roq",
+     "titulo": "2023 DLD day",
+     "videos": [
+      "7wZ_OW9Jx0s",
+      "_mq16C9oJy4"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2plQUe3sA-2-TOAocwc40lZI",
+     "titulo": "Co-Occurring Conditions",
+     "videos": [
+      "1wGB7AGPUio"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2plgWaEa2kShZx8v4PvKQQcQ",
+     "titulo": "2022 #DLDday 'Growing with DLD'",
+     "videos": [
+      "ooORu9vVBpE",
+      "11cJmCy-ed8",
+      "_FkXAKj4L_g",
+      "lzy71gbf1z8",
+      "mYGAh0LxXzo",
+      "0A7TKch9eIs",
+      "X-bpL44iP6w",
+      "zhC2xLmTacU",
+      "wnso-eI1ifA",
+      "8wVncC2nAhw"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pkgtkpxQLKdzj8Yl-fWJ7bj",
+     "titulo": "RADLD USA",
+     "videos": [
+      "MndxVvsaTBk",
+      "A2dQxDJERZQ"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pl2heg4MhU14kD04glNpah8",
+     "titulo": "2020 #DLDseeMe",
+     "videos": [
+      "PDPrXQPTnlE",
+      "Sy0DUzdWMWQ",
+      "bgSgvvPX-EY",
+      "cuHdzU70iK8",
+      "eYAFvx1hrqY",
+      "bXHCjk_FCI4",
+      "xrO-4lhv-ik",
+      "5mrYiSKu8fM"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pkvnuv2ZOssWcSIAqIEPXOc",
+     "titulo": "2019 'DLD: you and me'",
+     "videos": [
+      "4W_ipZZoMac",
+      "3-UizDvINv8",
+      "Q726y9S-HR8",
+      "DNJpVLR4sDE",
+      "noP6N6J_lBM",
+      "OU4BVLspos4",
+      "n3c_XuK2zAk",
+      "z0VBTCQ0nFQ",
+      "9b7Xp_0J0oU",
+      "YP4JMnzYf2Q",
+      "U32Cu-epvqo",
+      "qIRSBsS4i2k",
+      "NAge2k2KLvU",
+      "h57J_Ux6qkw",
+      "LFdR1qXmm0s",
+      "ePoNo21up-I",
+      "v2iZeIOJlS4",
+      "i5OCZcPsNFA",
+      "DxOGJIxL_RU",
+      "hOkArvLHcbw",
+      "V8L0-BvAbb0",
+      "jrtRp2btIz8",
+      "A0n1zUU5UZA",
+      "rwOfkj0dj_0",
+      "g0gaNQnIykg",
+      "naTfjEJFbqc"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pkp9rkIEdQGMWI6iNDbNdsV",
+     "titulo": "Developmental Language Disorder (DLD): The new terminology",
+     "videos": [
+      "tQ-s02HWLb0",
+      "OZ1dHS1X8jg"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pn7gqMUHXou0x-2DUJGu5ZJ",
+     "titulo": "Supporting DLD",
+     "videos": [
+      "pA8TPdhdPvQ",
+      "MNf-VHzClPE",
+      "ame34_y4NqY",
+      "2yPR1UUtjec",
+      "MpdjP0zHeBc",
+      "CB-4G-9qyb8",
+      "tAJgFIVPwRw",
+      "J2eR0Te6wFA",
+      "RTLKPtf_ipI",
+      "lvDuMr47rcs",
+      "e4ZYE8spxn8",
+      "ZhQOJYYtrww",
+      "d5DbSYPKi4c",
+      "I3rAivhyyBo",
+      "UllFvaxhUGY",
+      "kpGVOIxKkjA",
+      "IXAHsqS3dJc"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pnjnO196n_gH4As49O2vmR6",
+     "titulo": "Impacts of DLD",
+     "videos": [
+      "Ko6sFea3v0w",
+      "-orJLnCgGJw",
+      "U_pP4DbkrBk",
+      "pA8TPdhdPvQ",
+      "WTySmn_-X80",
+      "CjF6rx-6KRY",
+      "AAmLmMEiX4c",
+      "6Vt41eM3-xg",
+      "nSGgj9GW0tw",
+      "59dSpP17VsA"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2plvvpBnHmk89QHU1-yT4Xh5",
+     "titulo": "Identifying DLD",
+     "videos": [
+      "A2dQxDJERZQ",
+      "kl6tiib_XFQ",
+      "MU1inVSISFo",
+      "AVAkpsPSydY",
+      "MDdOUt5Bd7g",
+      "g7Sj_uRV7S4",
+      "p9iWG0M5z40",
+      "Pqu7w6t3Rmo",
+      "JAsf_Wqjz4g",
+      "AFFWh9y6Ck0",
+      "9D9si-Tzt2k",
+      "nGuO1cL4gHQ",
+      "Dk9kULgUkSQ",
+      "kPYNjjk8IfU",
+      "R56kaBK09g0",
+      "biP8EzLEz0U",
+      "2EUd2IKPGxE",
+      "7ckhJAk5LJs",
+      "BYD0xM9kers",
+      "Fsh1DoMkI00"
+     ]
+    },
+    {
+     "id": "PLZKYMAk9g2pmGWymwOCMKP9diw25aQriZ",
+     "titulo": "RADLD en Español",
+     "videos": [
+      "VYRj-9-hfVI",
+      "0lqnZPbPtdo",
+      "rUr5rK1WDT8",
+      "zWFlF31Ibjw",
+      "6s7fZE3FuGY",
+      "dBMoA98bz8E",
+      "jGEqanRc9js"
+     ]
+    },
+    {
+     "id": "PLD95F2F60797AA5D2",
+     "titulo": "What we're watching",
+     "videos": [
+      "MIdaCFR-4zk",
+      "TvTfbHKlDeE",
+      "PKegRlHFqH4",
+      "EbP2DakcbIk",
+      "KWVibpPH1Uk",
+      "uBehC82whh0",
+      "luEI5b4iyvw",
+      "wJ36RRB8hyY",
+      "JYyoOfYGXxw",
+      "fn3ebCd1vc0",
+      "8dM1gsWQVSI",
+      "zA0PhUfR_wI",
+      "ikvXtrTiRVI",
+      "SZ1aFNWaOS4",
+      "f1Mt7vJYJxs",
+      "cMc9g_TGWM4",
+      "QQOTn8iQO44",
+      "qA6s2zHyceQ",
+      "OFEA26lVGNQ",
+      "LcNjU5ED5F4"
+     ]
+    },
+    {
+     "id": "PLA1D4A5FA200622A7",
+     "titulo": "International RADLD",
+     "videos": [
+      "YQVczUyNYh8",
+      "3Vs15gU7jAM",
+      "HWHaSYsOoW8",
+      "hLJuMG-OOas",
+      "6AEqa0aM-gw",
+      "0lqnZPbPtdo",
+      "BhlQ24fFO34",
+      "2XAxvqYLOFc",
+      "ebz5Hz2HmdY",
+      "CgZrxYCVCW8",
+      "tRt-WTNMF2U",
+      "dPwN2seNYz4",
+      "bulnEJSsfA4",
+      "hbsJOpOe6yY",
+      "WsOn3fVMF0w"
+     ]
+    },
+    {
+     "id": "PLD776B8F146C6E1CF",
+     "titulo": "RADLD for kids",
+     "videos": [
+      "UllFvaxhUGY",
+      "_y7TJ7Th8cY",
+      "0mcjf6nCXQs",
+      "eSYKisWEQr4",
+      "RoIjw726GL4"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "transtorno-de-linguagem",
+   "instituicao": "ASHA — American Speech-Language-Hearing Association",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@ASHAWeb",
+   "playlists": [
+    {
+     "id": "PL8XYIFygdg6UcGYW7Fy4EMzh5hjx5Prk_",
+     "titulo": "A Day in the Life",
+     "videos": [
+      "oVyChtyXdvA",
+      "MeXa9_FWrmM",
+      "jI2JVDcMsFA"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6XeWSJz0sL22uvPu4a-r9oY",
+     "titulo": "Combatting Microaggressions: How Can I Help?",
+     "videos": [
+      "y7P7tICDn74",
+      "8hREH_U_QKk",
+      "UbbRQR06kxg",
+      "RSGVcqRArsE",
+      "wDd6zDfI678"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6UKADexoudOlB_5im-fKH5x",
+     "titulo": "Witnessing Microaggressions: What Can I Do?",
+     "videos": [
+      "p1zRxWEXQRE",
+      "o1Sy5B56gOg",
+      "p5USiXh3D7k",
+      "O1oIQ3JN2Mg",
+      "0N25x3Q75Bk"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6XauDhxzSplAPeC1wIhLxXj",
+     "titulo": "Experiencing Microaggressions: How Can I Respond?",
+     "videos": [
+      "E-RbOS39pBo",
+      "ptPRwCvhXYc",
+      "RiikGF5nQss",
+      "astwmnspEvI",
+      "tsDMrYNQLeo"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6Xw0aqEOfkJtZA0wuhBbiHr",
+     "titulo": "Recognizing Microaggressions: Am I Doing That?",
+     "videos": [
+      "EawtwXdgwpI",
+      "NHeI6zDwETs",
+      "fXfs590xuaQ",
+      "O1q_0wVGQ2Y",
+      "cfSTcBxRoho"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VKrobMTV7fCC-wVRYbTOhA",
+     "titulo": "Attract, Prepare, Retain School-Based SLPs: 2019 ASHA Schools Virtual Town Hall",
+     "videos": [
+      "Hxym0jiuBK4",
+      "QQ_hSw6V_qc",
+      "5zPQAXGA0sI",
+      "dxF0YRsKNJk",
+      "fV8JfHArwZk"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VEwiOKdzJOiHj7Dgn0zXXB",
+     "titulo": "ASHA Assistants",
+     "videos": [
+      "VIGSZ0PE6CQ",
+      "A-wJ32RDTUA",
+      "6PkBwCr5hPo",
+      "VbpyiE5AxLw"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VSoXgQNpOD3xJvw4RwjjhS",
+     "titulo": "Picky Eating: Help for Parents",
+     "videos": [
+      "6zz6JESlhUI",
+      "Dy8ETp6Syjg",
+      "puqZ9ULqzjg",
+      "hKpL0lDMiw0"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6Wh33xTZuu4CULZpAaOAebL",
+     "titulo": "Your Career Is Calling",
+     "videos": [
+      "OAI7aruCjKk",
+      "ekFK94uXnnM"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VnGwwExo2EZN24_XrpX2kk",
+     "titulo": "Free CE Courses by ASHA",
+     "videos": [
+      "tTntLG2w9gM",
+      "chApJudzF_c",
+      "Jnpd22aEZvg",
+      "q-c5EazE40k",
+      "UZbG2dvmqH4",
+      "t5Gx-7s0tVg",
+      "_sTl5wknOug"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6XTkwMEsvkpKTBuQ0rIdVoy",
+     "titulo": "Clinical Forums",
+     "videos": [
+      "X0mbehOkSoY",
+      "nlqFomkzVqs",
+      "ha1NsROh6wQ"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6WtNx1HcCoQOD6qK7a-yxj-",
+     "titulo": "Value of the CCCs Campaign",
+     "videos": [
+      "svQQkeKQgc4",
+      "Y3RJS0zGgrE",
+      "L-C9MFwBxC4",
+      "nydP7rzEOcc",
+      "ZBJXKZQqBwk"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6V7tX78neeqtFN_mqE9AU0L",
+     "titulo": "ASHA Connect",
+     "videos": [
+      "fppI7BN2qSI",
+      "3oYXpowyeCo",
+      "hu-ixp18-t8",
+      "kTITEe7MJWQ",
+      "ppJJjeHEx_M"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6WZ94J6C3Ike_4gdHPFpyD3",
+     "titulo": "N-CEP: National Center for Evidence-Based Practice​ in Communication Disorders",
+     "videos": [
+      "NYMlr98CJZ8",
+      "CGEnCjkcttM",
+      "FyHmw5KIReQ",
+      "MaWbhOukyGY"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6XIPklguWcpuIz3ouDDBeW9",
+     "titulo": "Interprofessional Education and Practice (IPE/IPP)",
+     "videos": [
+      "MjdLzOLxwQY",
+      "uqS2grZAZHo",
+      "u8fOqPTwugI",
+      "n0XCkA8R_Qo",
+      "1itkTT9b-BI",
+      "sR82_QA623A",
+      "1MfHPoMOFso",
+      "DaG7kdc7xXg",
+      "dmJ9TeocGg4",
+      "38QAeY-stXY",
+      "Jz3KbBxy_Qw",
+      "nJiI_Dng7Ho",
+      "HaJSIZWEyMQ",
+      "Wx1tT0KXQNk",
+      "cIbLxLw69A0",
+      "qjOpUzXOCps",
+      "5e9WKNc0Nkc"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6Wt-11BwELe-yrqGtqsCxaf",
+     "titulo": "Speech and Language Disorders",
+     "videos": [
+      "ken2XdPrO1k",
+      "00Lb2SDdCIM",
+      "xpp9Zhc-5zA",
+      "SNRqJo9niFY"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VsvNBfnzmZpZQFQya3RII5",
+     "titulo": "Case Studies by ASHA Professional Development",
+     "videos": [
+      "dJvriZEZfkI",
+      "RevbZGsNLHg",
+      "4bvrBl77B88",
+      "d7TPbJ6Dtd0",
+      "QVC2ubGrivI",
+      "xvaVwG6dF68",
+      "mV1T7oWa3qc",
+      "svoPjCwxMn4",
+      "Dyl9XcSWDmc",
+      "jjlRcNsk77A",
+      "iYqdIwP22MU",
+      "fg3G881hdE0",
+      "gk-si6X4FXY",
+      "TokX6KohCZ8",
+      "8h3NpYAQ_-0",
+      "esJku3hCjrY",
+      "z73VBsjveyc",
+      "DMT5dZUjRn4",
+      "gE1SV0THUtU",
+      "RSAh3F3UFss",
+      "k-YI3FE4e2o",
+      "hXyZacr6R-k",
+      "y-R0PpZQS-0",
+      "AzrKx1Flxk4",
+      "lRRaIDcFlZA",
+      "CbO9O0LlRHs"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6XwrYK9RD_GxfgQnGLaVCKh",
+     "titulo": "CREd Talks: Clinical Research Education Library",
+     "videos": [
+      "f8WQnmk328Q",
+      "nGqbX72ExBs",
+      "tkFoB6UMiDk",
+      "RCeMzcVJD8c",
+      "LXIfxaOVfjI",
+      "gBmYizwzjXU",
+      "YRO7wcAOe7c",
+      "v9iyYYyTWc4",
+      "jm2zx7ziBA4",
+      "rzIR5nJH7W0",
+      "e9HikL57rMU",
+      "WauqmFctcNI",
+      "V8mOEDUQrMU",
+      "mUFoYJxzSAg",
+      "KovMJUS2pZQ",
+      "NYz4mqRKByQ",
+      "XGUQOwIAxpU",
+      "ffTgNHLD1gk",
+      "6PfQHtJVT68",
+      "kataNZRKZDA",
+      "cT9ScoLMEFU",
+      "yOFrQGDy0V0",
+      "Du1CtrQPkGI",
+      "wlGFOglfjZE",
+      "O7IwVDQkVR0",
+      "VHx87wnoQ2s",
+      "VzoD165yKgo",
+      "bUzq27Gp_Fk",
+      "m6PTZIAXcc4",
+      "3eQBLbQCK6k",
+      "xBOb--oyMrg",
+      "k9aBxbwJIjQ",
+      "q2byGijJLLY",
+      "dY6vnelEz3U",
+      "PlSe3BtsZVk",
+      "hI6Ma2DFRpU",
+      "6W_jotlOYuo",
+      "XMrXYTBQqB8",
+      "yNTHyvJueJA",
+      "ZyLcEeaQ4Dw",
+      "6dVm0PGiReU",
+      "wHr_ub8Tvss",
+      "u2oJhMNe9n4",
+      "8eLU9LlYkrM",
+      "HMWkAomx5eA",
+      "dHb1b8ZWlPY",
+      "TiU5DawChTE",
+      "i4uDN6JZTDI",
+      "A1idx6djJlY",
+      "NyLSQ7GMI2M",
+      "Dwhd_fCL4OU",
+      "aiF7ADZGltI",
+      "IQbI-xhQGnk"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VpruPUvQANpL7VuuBqUYY-",
+     "titulo": "The ASHA Leader",
+     "videos": [
+      "GG9O6VyU_Pc",
+      "EIZNSYEdwNk",
+      "LQE97eQdyp0",
+      "zH8AHqUEwGw",
+      "QqMmdU1l_Vg",
+      "8gW9-QZRXws",
+      "7ksAuZsig7I",
+      "vusErfa-Sns",
+      "4L7-9N1xQZA"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6WiZhcaX2uX7virIcxs6fn5",
+     "titulo": "24th Research Symposium: Primary Language Impairment in Children with Concomitant Health Conditions or Nonmainstream Language Backgrounds",
+     "videos": [
+      "nh13_nXvM5M",
+      "VOMjybdoV3Y",
+      "jfLVBVXG_rA",
+      "FVIwR7YtVyA",
+      "y8vmuOxo_9g",
+      "c29Vaj88wfw"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VCGmaFI8X6Bx0YZeOxm2WN",
+     "titulo": "Council on Academic Accreditation (CAA)",
+     "videos": [
+      "NRJ01Jgzeyw",
+      "pJfjP30Es7o"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6XL5_Al6jqil3Y1QWfpKNzQ",
+     "titulo": "ASHA's Coding, Reimbursement, & Advocacy Modules",
+     "videos": [
+      "ID5Gt-jchig",
+      "cDwtsBwyN-U",
+      "j9JB4dBSyRg",
+      "dm37HL04Ggs",
+      "cfqOSIO7S0A",
+      "spnN1ai71JQ",
+      "G6iGbtqcJjc",
+      "P3gYQFsmuJ4",
+      "LuV0aMnLJR4",
+      "qHDUOhafebc"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6VDxk-jvDMLk7ylrvXh0Jhz",
+     "titulo": "ASHAWire: Discover More",
+     "videos": [
+      "T9gb5z8toVc",
+      "e3B73Orbq4U",
+      "FOidtSvEfRY",
+      "q2_4NiHRmTc",
+      "I9l0dQ0ILSw",
+      "l5bGymhVdlE",
+      "wdNvuNczDQw",
+      "Shde81ZV22E",
+      "BMKYsE7h-6A",
+      "mrd7dDz9O08",
+      "z5q_aOJqFHU",
+      "hh2TPcST-wY",
+      "Xz4Lzqu_k2g",
+      "YWtkEum-hnQ",
+      "vMi1502yE9Y",
+      "TM8h-vx79uE",
+      "-hmCAMuxQGg",
+      "-NaC39dqa4I",
+      "hR7PeFEhnG0",
+      "TVHsERNh4Ww",
+      "HTM6Cy9oUOs",
+      "DbLDO6auISA",
+      "zH8AHqUEwGw",
+      "4wn_q8ES0Fc",
+      "7ksAuZsig7I",
+      "8gW9-QZRXws",
+      "QqMmdU1l_Vg",
+      "5G4VG-7Uq_U",
+      "BrBoB22HLXs",
+      "OqML6fvENB0",
+      "yGlQIPeUqdg"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6UZ04JiGOA4gTHqkZ9GaSj4",
+     "titulo": "Identify the Signs of Communication Disorders",
+     "videos": [
+      "iSuc6ucVTfw",
+      "ttvwXh-AvDw",
+      "zhp83mZ6bLI",
+      "yyLmDe760ZU",
+      "atGfS4XM6MQ",
+      "HLZcsxd-Hm0",
+      "i3Xd9vZFTfc",
+      "UjSpzEVnNoQ",
+      "7rhCjIlLysE",
+      "fPkeMph8BwM",
+      "PBxAafscs5A",
+      "daxalYqGni8",
+      "lDBPIUyvJ5c",
+      "QSZqzZcyhAE",
+      "L6dkE2ykeVM",
+      "IUTYbOjnZlY",
+      "QHY1RUbprGA",
+      "fitvLUktd-s"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6Ug3p--Al6cDKXmSLgOU2VF",
+     "titulo": "NSSLHA",
+     "videos": [
+      "NRJ01Jgzeyw",
+      "gGB-GZUUXNQ"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6URTZn3KZ75Eyw6_Q7lNHt4",
+     "titulo": "Telepractice",
+     "videos": [
+      "CgxH69CqPbM"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6X9FXuX6iLUUPKI_Y_5XFJL",
+     "titulo": "Response to Intervention (RTI)",
+     "videos": [
+      "hdWlTQLk-4A",
+      "b7WWiUudGoA",
+      "i7vxpCIbtdI",
+      "Z8_u_L0KTcE",
+      "zqQcGz2BKsc",
+      "cfeqrUR4_VA",
+      "JAARLf8hw74"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6WND-iVVvruUVSIueFDjDXN",
+     "titulo": "Public Service Announcements (PSAs)",
+     "videos": [
+      "nydP7rzEOcc",
+      "L-C9MFwBxC4",
+      "ttvwXh-AvDw",
+      "zhp83mZ6bLI",
+      "yyLmDe760ZU",
+      "O4qwGkRUJzI",
+      "crLYh8AGbAA",
+      "wQVlVuNj5n0",
+      "8osA7agGeco",
+      "8pw1LuMj9VQ",
+      "ihXjbAHPUXA",
+      "FjkgMBYsM-M"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6U0N4BMzj5vaujINO539uFJ",
+     "titulo": "Working at ASHA",
+     "videos": [
+      "wgtHOfPST0Y",
+      "v949QGh84EE",
+      "7sky6qN3AHs"
+     ]
+    },
+    {
+     "id": "PL8XYIFygdg6W2UsAYnBptHwzFlO7WqTzw",
+     "titulo": "ASHA Convention",
+     "videos": [
+      "nRDKF-WarPE",
+      "vusErfa-Sns",
+      "_J0YnzDuVCw",
+      "ZuEoBRdaUhk",
+      "cO-QgHkzEQM",
+      "B81cS3TCRp8"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "transtorno-de-linguagem",
+   "instituicao": "Speech and Language UK",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UC52E9NxUaFSdoSJcTXCOvyQ",
+   "playlists": [
+    {
+     "id": "PL5HBvJSAud_Yb5zOL4ssWRWJWp_vDTUeG",
+     "titulo": "Videos we like",
+     "videos": [
+      "A4eQsC9vP38",
+      "8kCgaug2WZk",
+      "2UhNKv3XGI4",
+      "xACizpsKErE"
+     ]
+    },
+    {
+     "id": "PL0D03F161E5B1F00C",
+     "titulo": "Chatterbox Challenge",
+     "videos": [
+      "wuWiHPI6Htc"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "tdah",
+   "instituicao": "Help for ADHD — National Resource Center on ADHD (CHADD)",
+   "idioma": "en",
+   "url": "https://www.youtube.com/helpforadhd",
+   "playlists": [
+    {
+     "id": "PLx7kGylXrHHGcveH6G3sxsMjL9FSJHFpT",
+     "titulo": "ADHD2025 Conference",
+     "videos": [
+      "_mKhSeGOjEs",
+      "GpDX_SAzQAQ",
+      "G7IoZcmkMSY",
+      "NVeKRx0CuR4"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHH2-1oo344HOHrBTfjI796Q",
+     "titulo": "ADHD Advocacy",
+     "videos": [
+      "qAvCvVoXcSo",
+      "g3Dv-gH-SGM",
+      "DUzsxZgCkLE"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHHqzXk7FuUmfZ9mRhqUySVr",
+     "titulo": "Support CHADD",
+     "videos": [
+      "4wML017tofA",
+      "L9HOAOu75Qs",
+      "qAvCvVoXcSo",
+      "G7IoZcmkMSY",
+      "NVeKRx0CuR4",
+      "g3Dv-gH-SGM",
+      "DUzsxZgCkLE",
+      "vVKnYP_5Y3E"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHHLpvB5W9x6VYDBGBpNIAgM",
+     "titulo": "Short Videos on ADHD",
+     "videos": [
+      "u1j3AY0d6SQ",
+      "qiB50TXCFqk",
+      "xCYyuco1ufU",
+      "VZ5BJSJTJT8",
+      "pLmFchO_TTk",
+      "EoMNQJV-jkM",
+      "ENt_1dLlT4I",
+      "51Kd998gugU",
+      "nLtulQpGV2w",
+      "VcXRlJEaohc",
+      "2M01_b7BlDQ",
+      "Gms7sXSOPfA",
+      "Kt3OtuPqf-8",
+      "-Z0u1ygOjRU",
+      "clr_GQfT0_M",
+      "fF0C1XvyevM",
+      "o2HTmPfLcPk",
+      "ofVX6RI-B-I",
+      "Kcoyp1KUwy0",
+      "1bc5W3JRqHs",
+      "q7sRZbD7wm0",
+      "46DnwqScns4",
+      "0iJEaTIRLQ4"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHFSMWCkHXjSKTUhXukbuO54",
+     "titulo": "ADHD Awareness Month",
+     "videos": [
+      "xG-K_XdBagA",
+      "3D2j2ulSK-E",
+      "QurZfhkainU",
+      "rAWuuVPX_qI",
+      "DUzsxZgCkLE",
+      "7w8hDJWhJ0s",
+      "mNW0rPzqSxI",
+      "L3B5COfziBU",
+      "hbLwSDv7mLA",
+      "ewbD2Dw0NLo"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHGy7N7Ldwkn49JrR0KgmeYK",
+     "titulo": "Lunch & Learn with CHADD's Public Policy Committee",
+     "videos": [
+      "RDQnyiOV8h0",
+      "Z8h7Wrkt5oQ",
+      "AVuRplXwbDY"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHF2XtEBcPTHqZjC5XCfU2mJ",
+     "titulo": "This is CHADD",
+     "videos": [
+      "z-NoAIXzrBw",
+      "8et5TeuFMJY",
+      "46DnwqScns4",
+      "q7sRZbD7wm0",
+      "hq_WnO8D3Ec",
+      "Kcoyp1KUwy0",
+      "hbLwSDv7mLA",
+      "mNW0rPzqSxI",
+      "PSLVUMhQ2ZY",
+      "MWGRZAflqAU",
+      "ldHoPJRwgsU",
+      "ikrG3u-6DCI",
+      "8RwQBIZdYSo",
+      "DUzsxZgCkLE",
+      "GpDX_SAzQAQ",
+      "3D2j2ulSK-E",
+      "QurZfhkainU",
+      "4wML017tofA",
+      "katjkntORyc",
+      "_iA9ubLIEJ4",
+      "3ohPkEHIbBo",
+      "9K-nYTdAuLk"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHFIAsf_nKm3UqwgFBycsNxv",
+     "titulo": "Teens and Young Adults with ADHD",
+     "videos": [
+      "da89VfSFYc4",
+      "o2HTmPfLcPk",
+      "9K-nYTdAuLk"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHFV94fZr8dxAoVKkzRHAAQi",
+     "titulo": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+     "videos": [
+      "QiTmoWsybrY",
+      "MuUm0qCPVJA"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHFC3R3k9RrGmbdqkXvzCrGD",
+     "titulo": "For Professionals",
+     "videos": [
+      "P7-D9bat7vI",
+      "64vJSB9htQM",
+      "ThaiNWTNlVs",
+      "LD20Hz0f_NA",
+      "0iJEaTIRLQ4",
+      "Fcg0IhBNlwo",
+      "YjHfye5ZKtU",
+      "MuUm0qCPVJA",
+      "0rrQWnpI8iw",
+      "yM7rsdw6KAE",
+      "y-F6PTaI_4I",
+      "FOe0vqGVUlU",
+      "Jz8VKT2OCWI",
+      "Z8h7Wrkt5oQ",
+      "7w8hDJWhJ0s",
+      "ikrG3u-6DCI",
+      "IlBggl_wcqs",
+      "Kt3OtuPqf-8",
+      "L1wJ051kKQQ",
+      "-zPcpiOCnVA",
+      "Gms7sXSOPfA",
+      "2M01_b7BlDQ",
+      "VcXRlJEaohc"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHE3FrFcCGYiKJAocYnEQrLR",
+     "titulo": "For Spouses/Partners of Adults with ADHD",
+     "videos": [
+      "Avy31EdZIXA",
+      "DRb7StZSbSA"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHGDy6u1vsvyXeE_OoF1wDpn",
+     "titulo": "All Things ADHD podcasts",
+     "videos": [
+      "v5zm2XXHIPU",
+      "AkyxNp1NOzM",
+      "6_OBY_tOgAk",
+      "jSUD8-plz6o",
+      "mlvvd_uX-Ho",
+      "urfOO9-3kss",
+      "dRKaacKJI3g",
+      "wcqk6ooyQf8",
+      "8pdRiiLoqTI",
+      "qtBoj74QFVk",
+      "kDrLV4rKuy0",
+      "vXYfQymCM5g",
+      "M1XbFC3zJ2s",
+      "3eMfytDjr7k",
+      "n3JA50WAkYc",
+      "1UL8RL5SNU4",
+      "MN29bwrEAkc",
+      "oWJO5hQ4CSI",
+      "iJqvshT8xp8",
+      "r-KMR8pDApU",
+      "-to1dI6flTk",
+      "Rtfk34JnbQ0",
+      "DTH4mV30BRY",
+      "FOe0vqGVUlU",
+      "Rw2sRLHKpSQ",
+      "s64--m3BYas",
+      "V5vruajm_bk",
+      "y-F6PTaI_4I",
+      "B-wtG1Y3O74",
+      "vAsGs5D3SqQ",
+      "s0eXuw0XhGQ",
+      "MzzBLtt3Wpo",
+      "lPlGMl6-zDI",
+      "yMFhpXJzqMY",
+      "QaNFVXFzg80",
+      "LMFxa1oYhls",
+      "RvWkyZhqnpk",
+      "Li3vfJRQoDE",
+      "LHk56xQWjsY",
+      "cRpKPz-sLdQ",
+      "kVhGt6e18jc",
+      "9FlDX36CM1E",
+      "eZMNnR6vSek",
+      "64vJSB9htQM",
+      "Avy31EdZIXA",
+      "ThaiNWTNlVs"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHHQIWYDFwWtWGpBLMkvS0bT",
+     "titulo": "For Parents and Caregivers",
+     "videos": [
+      "LHk56xQWjsY",
+      "cRpKPz-sLdQ",
+      "9FlDX36CM1E",
+      "eZMNnR6vSek",
+      "4LMcTqtqL2k",
+      "hHqMMSyWW0M",
+      "emFHZZF7Cok",
+      "tEuJGlF1yDo",
+      "T4kIEDmMq7I",
+      "da89VfSFYc4",
+      "e9fabqeZpkk",
+      "0777OhJn4Bc",
+      "cLgCr3TGiwU",
+      "vx-BPMVwpok",
+      "Fcg0IhBNlwo",
+      "V2sHqLZtlaM",
+      "YjHfye5ZKtU",
+      "MuUm0qCPVJA",
+      "D7Bs1TU8LVA",
+      "fOc9eeUhrkg",
+      "0rrQWnpI8iw",
+      "luuR-flUjEI",
+      "yM7rsdw6KAE",
+      "y-F6PTaI_4I",
+      "VViUSDv-VoQ",
+      "pvWtYOUxaJM",
+      "5BXhOWT9tTU",
+      "q7sRZbD7wm0",
+      "AmabwjwsOWQ",
+      "hq_WnO8D3Ec",
+      "tZNOt661hOg",
+      "mNW0rPzqSxI",
+      "-hmgh65s-5M",
+      "fF0C1XvyevM",
+      "ikrG3u-6DCI",
+      "IlBggl_wcqs",
+      "RDQnyiOV8h0",
+      "vH4NDCA4hYQ",
+      "DUzsxZgCkLE",
+      "3D2j2ulSK-E",
+      "QurZfhkainU",
+      "9K-nYTdAuLk",
+      "WfzmeMTUhM0",
+      "VZ5BJSJTJT8"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHFmVjimcVS_k0fBaTMn65-T",
+     "titulo": "For Adults with ADHD",
+     "videos": [
+      "HCyFLo3X02U",
+      "64vJSB9htQM",
+      "Avy31EdZIXA",
+      "DRb7StZSbSA",
+      "da89VfSFYc4",
+      "Zhk4eAKv7bY",
+      "cLgCr3TGiwU",
+      "KQZ86lgYVXo",
+      "V5vruajm_bk",
+      "y-F6PTaI_4I",
+      "kVhGt6e18jc",
+      "7m6akvxr-bc",
+      "q7sRZbD7wm0",
+      "R4I7amXOHW4",
+      "AmabwjwsOWQ",
+      "0Z1EP-df7N4",
+      "Z8h7Wrkt5oQ",
+      "o2HTmPfLcPk",
+      "ikrG3u-6DCI",
+      "IlBggl_wcqs",
+      "-Z0u1ygOjRU",
+      "nLtulQpGV2w",
+      "51Kd998gugU",
+      "ENt_1dLlT4I",
+      "9K-nYTdAuLk",
+      "WfzmeMTUhM0",
+      "xCYyuco1ufU"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHEX3Tud3EkDTtyVEuC9Twlc",
+     "titulo": "For Educators",
+     "videos": [
+      "N9LVwcjpRI4",
+      "EbB2iVHXtO4",
+      "Kq3N60PSgjo",
+      "da89VfSFYc4",
+      "0777OhJn4Bc",
+      "vx-BPMVwpok",
+      "Fcg0IhBNlwo",
+      "V2sHqLZtlaM",
+      "Kbh4cZd93-I",
+      "BrTArlTiqUo",
+      "D7Bs1TU8LVA",
+      "0rrQWnpI8iw",
+      "yM7rsdw6KAE",
+      "y-F6PTaI_4I",
+      "VViUSDv-VoQ",
+      "q7sRZbD7wm0",
+      "tZNOt661hOg",
+      "ikrG3u-6DCI",
+      "IlBggl_wcqs",
+      "RDQnyiOV8h0",
+      "LApNRgeMyf8",
+      "AI_8oWnUpLk",
+      "Kt3OtuPqf-8",
+      "L1wJ051kKQQ",
+      "Gms7sXSOPfA",
+      "2M01_b7BlDQ",
+      "VcXRlJEaohc"
+     ]
+    },
+    {
+     "id": "PLx7kGylXrHHHi_6MCpKFs7NowpVHpcbM8",
+     "titulo": "Ask the Expert",
+     "videos": [
+      "KhfWCxthy_w",
+      "KNGTi-zSxF0",
+      "WfzmeMTUhM0",
+      "EoMNQJV-jkM",
+      "AI_8oWnUpLk",
+      "uQC9UIq2Z3U",
+      "OuUIxBL15uY",
+      "2P3XT_ezT80",
+      "vH4NDCA4hYQ",
+      "RDQnyiOV8h0",
+      "1O92oVf_L_8",
+      "bUjv8lWLE2o",
+      "IlBggl_wcqs",
+      "1_cd_t2ZeqQ",
+      "Sh6z0ExIVvo",
+      "pvWtYOUxaJM",
+      "Jz8VKT2OCWI",
+      "FOe0vqGVUlU",
+      "yM7rsdw6KAE",
+      "luuR-flUjEI",
+      "0rrQWnpI8iw",
+      "fOc9eeUhrkg",
+      "2ugEBOennMk",
+      "D7Bs1TU8LVA",
+      "MuUm0qCPVJA",
+      "BrTArlTiqUo",
+      "YjHfye5ZKtU",
+      "Kbh4cZd93-I",
+      "V2sHqLZtlaM",
+      "Fcg0IhBNlwo",
+      "vx-BPMVwpok",
+      "ApqSMzsGwXQ",
+      "0777OhJn4Bc",
+      "EbB2iVHXtO4",
+      "P7-D9bat7vI",
+      "QiTmoWsybrY",
+      "Kq3N60PSgjo",
+      "4LMcTqtqL2k",
+      "hHqMMSyWW0M",
+      "emFHZZF7Cok",
+      "tEuJGlF1yDo"
+     ]
+    }
+   ]
+  },
+  {
+   "especialidade": "tdah",
+   "instituicao": "The IRIS Center — Vanderbilt University (OSEP)",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCFYHtSkEr0IjuDYSK1hQ0Bg",
+   "playlists": [
+    {
+     "id": "PLNwDIsTyOwX6yXnH7wcyF2je9JeMN173e",
+     "titulo": "IRIS Prep Talks",
+     "videos": [
+      "WRjvY1mVFAY",
+      "JWxjSLWvIos",
+      "82pjGtLSbXA",
+      "1oBCef2XmNk",
+      "HNWNo-JfHmI",
+      "LN27-v6xeVk",
+      "gfllbZrdvVc",
+      "KE-UMLiFePk"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX4feU-_I4OEed_ry__h5rjA",
+     "titulo": "IRIS Stories",
+     "videos": [
+      "y0aK6jC7OxM",
+      "QGk82kjYBA8",
+      "xf_5Dxn1sNU"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX4eXq59Qd6Cc3_lo7auMVYf",
+     "titulo": "Module Quick-Looks",
+     "videos": [
+      "OkbKIZRkXSw"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX43iXb03o5RxfMNcACweCjU",
+     "titulo": "Fundamental Skill Sheets Example Videos",
+     "videos": [
+      "ijV6FkDWLAs",
+      "oCnZu8sqWhA",
+      "dWN__65eoN4",
+      "1tT2M0bCi64",
+      "W6stU9clh2Q",
+      "6AZsS5b311c",
+      "DclO5pwXE08",
+      "1dEisB8gxMM"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX7DKGBksm5CqmHYBOEHCs5I",
+     "titulo": "Fidelity of Implementation",
+     "videos": [
+      "Y6fbqhCjYn8",
+      "Z_kMd9ac5ik"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX7hjA_c95melpWRDHy0judA",
+     "titulo": "English Language Learners",
+     "videos": [
+      "swQzT8rVI08"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX7qJCIjMMW1xP8FmX3zvs5u",
+     "titulo": "Reading Instruction",
+     "videos": [
+      "fpwIC7z1uXE",
+      "J9NN7g7W-pU",
+      "9lBjHYffzlk"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX5M80ICoaI2DvOQJYezmjqU",
+     "titulo": "Learning Strategies (SRSD)",
+     "videos": [
+      "m9TykvvZHWg",
+      "b4YDLvkCh68",
+      "YbQvpIUYX8Y",
+      "IhXcBH2aoaQ",
+      "klcwSybkafU",
+      "_1VAe9MMd4s",
+      "wb9eU4NBXK0",
+      "yeeEcQuDpU4",
+      "Rx-amBjA0Ok",
+      "SVD0dkHTdok",
+      "tD6rPW80ROA",
+      "Sdh5Aa0DUSE"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX5JfiFStOfsHlNm0ReUxAXd",
+     "titulo": "Autism Spectrum Disorder",
+     "videos": [
+      "GS9IFwuM_G8",
+      "rKKh-a-2OJM",
+      "3OXC2eczdkg",
+      "i_sZUTUL1v8",
+      "UfNnAP0uQHQ",
+      "8ED4fOVruIw",
+      "GIzYH0fmPWo"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX67Ay_WutjULfcRFDr07JNE",
+     "titulo": "Mathematics Instruction",
+     "videos": [
+      "zs5eJFQMrmY",
+      "YDRsmxPA-J8",
+      "jrMFkpn6NPc",
+      "1ktU336ATg4",
+      "80tGOvMHSVE"
+     ]
+    },
+    {
+     "id": "PLNwDIsTyOwX79N-gM0gAs3pzotWnabCDl",
+     "titulo": "Behavior Management",
+     "videos": [
+      "NFHck-X43y4",
+      "Sxf9GPH5A-8",
+      "PbULitYn1r4",
+      "9DuPgrI6X1s",
+      "48eBXIXPiv8",
+      "TGf7l_eQ5eA",
+      "K14J1jz6hSs",
+      "sf8b_rvx73g",
+      "p3ZP0sSGF-k",
+      "6X9fmqXngyU"
+     ]
+    }
+   ]
+  }
+ ]
+}

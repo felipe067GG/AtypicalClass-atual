@@ -92,6 +92,54 @@ export interface CelulaDeConteudo {
   oQueFazer: LocalizedText
   citations: Citation[]
   evidence?: EvidenceLevel
+  /** Formação do professor para **esta** célula. Opcional; ver `VideoFormativo`. */
+  videoFormativo?: VideoFormativo
+}
+
+/**
+ * Um vídeo que forma o professor para aplicar **esta** célula da matriz.
+ *
+ * ## O segundo papel do vídeo, e por que ele não mora no conteúdo
+ *
+ * `Video`, em `lib/conteudos/tipos.ts`, é a aula da matéria acessível ao aluno:
+ * fração em Libras, ciências com audiodescrição. Ele pertence ao conteúdo,
+ * porque é sobre o assunto. Este aqui é outro papel — é sobre **como ensinar**
+ * aquele assunto a um aluno específico quando o conteúdo exige aquilo dele — e
+ * por isso pertence à célula, que é o único lugar onde o par exigência ×
+ * especialidade existe.
+ *
+ * ## O campo que impede o conselho genérico
+ *
+ * `porQue` é obrigatório, e é o que segura o desenho inteiro. A tentação, com um
+ * acervo colhido por especialidade, é pendurar o mesmo vídeo de dislexia nas
+ * sete células de dislexia: sete ligações, nenhuma delas sobre a exigência. Um
+ * `porQue` que sirva a duas células da mesma especialidade é a prova de que a
+ * ligação foi feita pela especialidade, e não pela célula — é o mesmo teste que
+ * o cabeçalho deste arquivo aplica às células ("se pudesse ser colada na outra
+ * matriz, está no arquivo errado").
+ *
+ * `revisado` começa `false` pelo mesmo motivo de sempre: nenhuma verificação
+ * automática assiste a nada.
+ */
+export interface VideoFormativo {
+  /** Endereço `https://` — de qualquer origem, não só do YouTube. */
+  url: string
+  /** Preenchido por `npm run videos`, pela API. Nunca digitado. */
+  titulo: string
+  canal: string
+  duracaoSegundos: number
+  /** De onde a descrição veio: `oEmbed`, `schema.org VideoObject` ou `Open Graph`. */
+  metadadosDe?: string
+  /**
+   * Por que este vídeo serve a **esta** célula, e não à especialidade inteira.
+   * Uma frase que cite a exigência. Se ela couber noutra célula da mesma
+   * especialidade, a ligação está errada.
+   */
+  porQue: string
+  /** Alguém assistiu e aprovou. Sem isto, o vídeo não é publicado. */
+  revisado: boolean
+  revisadoPor?: string
+  revisadoEm?: string
 }
 
 export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
@@ -111,6 +159,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, UNDERSTOOD_LITERACIA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=QzxzCNOSObQ",
+      titulo: "Dyslexia Conference Recording | Reading Comprehension Strategies for Students with Dyslexia",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 4895,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata da compreensão de texto longo, que é onde a decodificação lenta consome o aluno antes de ele chegar ao sentido.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -126,6 +184,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Divida la lectura en bloques con una tarea corta al final de cada uno — una pregunta, una frase escrita, una marca en el texto. Y dé la estructura del texto antes de empezar: saber que son tres partes y de qué trata cada una convierte la lectura en una secuencia con hitos, en vez de un recorrido sin señalización.",
     ),
     citations: [UNDERSTOOD_TDAH, CDC_TDAH, PMC_TDAH_REVISAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=HFa33hpMU_I",
+      titulo: "What Is Slow Processing Speed?",
+      canal: "Understood",
+      duracaoSegundos: 161,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Velocidade de processamento é o que decide quanto texto cabe no tempo da aula, e é o que faz a leitura longa terminar inacabada.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -141,6 +209,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Reduzca la cantidad de ideas por sesión, y no la extensión del contenido. Una idea por clase, con el texto íntegro disponible y la parte del día marcada, llega más lejos en un bimestre que el capítulo entero en una clase. Cierre cada sesión con el estudiante diciendo la idea con sus propias palabras.",
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=wmgg40nNgYI",
+      titulo: "Materiais pedagógicos acessíveis | Corrida do Desafio | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 332,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Quebra a alfabetização em jogo com voltas curtas, reduzindo ideias por sessão em vez de reduzir o conteúdo.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -156,6 +234,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Construya con la clase un mapa del texto antes de la lectura: quiénes son los elementos, cómo se relacionan, qué quiere mostrar el texto. Después lea con el mapa a la vista, marcando en él cada retoma. El mapa lleva la estructura que la memoria de trabajo no sostiene a lo largo de páginas.",
     ),
     citations: [ASHA, PMC_TDL_LEITURA, DLD_PROJECT],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=6Vt41eM3-xg",
+      titulo: "SLI and reading: 2. Understanding written language",
+      canal: "RADLD",
+      duracaoSegundos: 181,
+      metadadosDe: "oEmbed",
+      porQue:
+        "É sobre compreender a língua escrita ao longo do texto, que é onde o TDL deixa de construir o todo apesar de entender cada parágrafo.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -172,6 +260,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [DSE_MEMORIA, DSE_LEITURA, DSRF_LEITURA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=zPfj1HYphfQ",
+      titulo: "See and Learn First Phrases 1 - Reading Books",
+      canal: "Down Syndrome Education International",
+      duracaoSegundos: 55,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Mostra a leitura de livro apoiada, que é como o texto longo se torna atravessável quando a retenção verbal é o ponto caro.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -187,6 +285,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Elija el texto con semanas de antelación y provea la versión accesible junto con la planificación, no después. Prefiera formatos que el lector de pantalla navegue por títulos — un PDF digitalizado como imagen es inaccesible aun estando en la computadora del estudiante.",
     ),
     citations: [PATHS_BRAILLE, PATHS_TECNOLOGIA, APH_RECURSOS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=FpHy1X3aZ40",
+      titulo: "Materiais Pedagógicos Acessíveis | Lousa Interativa | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 258,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Lousa interativa como via de alfabetização, atacando a leitura pelo canal que o aluno tem.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -202,6 +310,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Decida con el interviniente, en la planificación, qué se transmitirá íntegro y qué se resumirá — y registre esa decisión junto al plan de clase. Distribuya la lectura a lo largo de varios días en vez de concentrarla en una clase, y trate el tiempo de acceso como parte de la carga horaria del contenido.",
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, NCDB_MOODLE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=jitKitlDcX0",
+      titulo: "iOS VoiceOver in ONE Minute: Rotor",
+      canal: "TSBVI Distance",
+      duracaoSegundos: 60,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O rotor é o que torna o texto longo navegável por título e por palavra, em vez de percorrível só do começo ao fim.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -217,6 +335,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Trabaje el texto en bloques, cada uno cerrado con la síntesis hecha por el estudiante en lengua de señas antes de seguir. Cuando haya material bilingüe del mismo contenido, úselo como puerta de entrada y el texto escrito como profundización — el orden inverso gasta el aliento en la traducción y deja el contenido para después.",
     ),
     citations: [INES_DEBASI, INES_MATERIAIS, INES],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=J9NN7g7W-pU",
+      titulo: "PALS High School: Paragraph Shrinking",
+      canal: "The IRIS Center Video Collection",
+      duracaoSegundos: 83,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Fecha cada parágrafo com a ideia principal dita pelo aluno, que é a estrutura em blocos que impede o capítulo inteiro de virar tradução sem parada.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -233,6 +361,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [AFIRM_APOIOS_VISUAIS, AFIRM_ANTECEDENTES, NCAEP],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=XGEjzU-1bLI",
+      titulo: "Materiais Pedagógicos Acessíveis | Pique Bandeira de Tabuleiro | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 134,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Põe o multiletramento dentro de um jogo com regras explícitas, que é o que torna a leitura longa previsível o bastante para ser atravessada.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -248,6 +386,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Fragmente el plazo, y no el libro: puntos de conversación cada semana, cortos y sin nota. Lo que se busca no es vigilar el ritmo — es crear cinco puntos de retorno en vez de un punto de fracaso. Y deje explícito que volver después de parar está previsto, porque lo que traba no es la lectura, es la certeza de haber perdido ya.",
     ),
     citations: [CDC_SAUDE_MENTAL, CDC_SAUDE_MENTAL_AULA, OMS_ADOLESCENTE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=WcCksFh5l70",
+      titulo: "Low Mood",
+      canal: "Anna Freud",
+      duracaoSegundos: 276,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Humor deprimido corrói a energia que a leitura longa exige, e o vídeo trata do que isso parece na sala.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -263,6 +411,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Prefiera el formato que exija menos operaciones — audio sincronizado, desplazamiento automático ajustable, texto continuo en vez de páginas. Distribuya la lectura en sesiones cortas a lo largo de la semana y cuente las pausas de posicionamiento como tiempo de clase, y no como interrupción de la tarea.",
     ),
     citations: [CAST_UDL, TIES_PARTICIPACAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=cSxsROi-ZrA",
+      titulo: "AAC, literacy, and fun: The Twits",
+      canal: "AssistiveWare",
+      duracaoSegundos: 1550,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Leitura compartilhada de livro longo com comunicação alternativa, que é como o texto extenso segue sendo discutido por quem não fala.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -278,6 +436,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Arme, junto con la lectura, una línea o una tabla que guarde las cantidades a medida que aparecen. No es resumen del texto: es el registro de lo numérico, que la lectura corrida disuelve. Al final, la línea responde preguntas que el texto respondería si pudiera releerse entero.",
     ),
     citations: [WWC_MATEMATICA_2021, NCII_MATEMATICA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=KpWCX0x1CVw",
+      titulo: "Video Example: A tutor and student work on word problems",
+      canal: "National Center on Intensive Intervention",
+      duracaoSegundos: 288,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Problema em palavras é onde a quantidade vem dentro do texto, e o vídeo mostra o trabalho de retê-la em vez de deixá-la dissolver na leitura corrida.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -293,6 +461,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Separe las dos cosas en la planificación: evalúe la lectura por conversación, grabación o marcación en el propio texto, y trate la escritura como otro contenido, con su tiempo y apoyo. El fichaje manuscrito de un capítulo mide resistencia de trazo, no comprensión.",
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=fpwIC7z1uXE",
+      titulo: "PALS High School: Partner Reading with Retell",
+      canal: "The IRIS Center Video Collection",
+      duracaoSegundos: 101,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O reconto oral demonstra a leitura sem passar pela mão, que é o que separa avaliar a compreensão de medir resistência de traçado.",
+      revisado: false,
+    },
   },
   {
     exigencia: "leitura-extensa",
@@ -326,6 +504,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [WWC_RESOLUCAO, NCII_MATEMATICA, WWC_MATEMATICA_2021],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=ubFuVJeFcgE",
+      titulo: "Long Multiplication for learners with dyscalculia and maths difficulties",
+      canal: "The Dyscalculia Network",
+      duracaoSegundos: 880,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Destrincha a multiplicação longa passo a passo, que é o procedimento de ordem obrigatória mais custoso neste perfil.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -342,6 +530,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [AFIRM_ANALISE_DE_TAREFA, AFIRM_APOIOS_VISUAIS, NCAEP],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=UijE01ge7Oo",
+      titulo: "Materiais pedagógicos acessíveis | Trilhando os campos de experiências | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 339,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A trilha torna a ordem dos passos visível e percorrível, em vez de ela existir só na instrução falada.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -357,6 +555,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Dé la lista de pasos como material permanente del cuaderno, con casillas para tachar. La pregunta de cierre pasa a ser \"¿las taché todas?\", que se verifica, en vez de \"¿terminé?\", que no. Vale más que cualquier recordatorio verbal repetido.",
     ),
     citations: [UNDERSTOOD_TDAH, CDC_TDAH, WWC_RESOLUCAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=D7Bs1TU8LVA",
+      titulo: "Six Keys to Developing Executive Function Skills at School and at Home",
+      canal: "Help for ADHD",
+      duracaoSegundos: 3192,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Função executiva é o que mantém a ordem dos passos até o fim, e é o alvo declarado do vídeo.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -372,6 +580,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Escriba la pregunta original en lo alto de la hoja y reléala al final de cada etapa. Enseñe una etapa por vez hasta que esté firme, encadenando después — encadenar todo desde el inicio es lo que produce el abandono en el segundo paso.",
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=B6h8nKvylVQ",
+      titulo: "Materiais pedagógicos acessíveis | Jogo de Trilha Interativo - Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 337,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A trilha materializa a ordem obrigatória, e cada casa é um passo que o aluno vê antes de executar.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -387,6 +605,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Ofrezca el formulario con las etapas ya impresas y solo el valor por completar, como material estándar de la unidad — y no como adaptación puntual. Acepte el procedimiento dictado cuando el objetivo sea verificar el razonamiento.",
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=CYi2EzPkErs",
+      titulo: "What Is Executive Function?",
+      canal: "Understood",
+      duracaoSegundos: 202,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A função executiva é o que sustenta a ordem do procedimento enquanto a mão luta com o traço, e é o que se perde primeiro quando escrever custa.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -402,6 +630,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Describa cada paso en voz alta mientras lo ejecuta, diciendo el número de etapa junto al valor, y acuerde un lugar fijo para cada resultado intermedio. La dirección fija sustituye al vistazo — sin ella, el borrador se vuelve una segunda lectura secuencial.",
     ),
     citations: [PATHS_TECNOLOGIA, APH_RECURSOS, PATHS_BRAILLE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=B6h8nKvylVQ",
+      titulo: "Materiais pedagógicos acessíveis | Jogo de Trilha Interativo - Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 337,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Percorrer a trilha com as mãos dá a ordem dos passos sem depender de acompanhar uma linha com os olhos.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -433,6 +671,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [DSE_MEMORIA, DSE_LEITURA, DSRF_LEITURA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=unKKz2Fe5hc",
+      titulo: "Successful Strategies: Memory, Phonological Awareness and Beginning Phonics",
+      canal: "DSRFCANADA",
+      duracaoSegundos: 1757,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata da memória verbal de curto prazo, que é o que decide se o resultado do primeiro passo ainda está disponível quando o terceiro chega.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -448,6 +696,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Deje el plan fuera del habla: etapas numeradas con ícono o palabra corta, a la vista durante toda la resolución. Pida que señale en qué etapa está, en vez de decirlo — señalar no cobra el lenguaje que el contenido no está midiendo.",
     ),
     citations: [ASHA, PMC_TDL_LEITURA, DLD_PROJECT],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=AAmLmMEiX4c",
+      titulo: "SLI & reading: 1. Decoding (phonics)",
+      canal: "RADLD",
+      duracaoSegundos: 225,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A decodificação é procedimento de ordem obrigatória, e o vídeo mostra por que ela emperra quando a base é a linguagem oral.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -463,6 +721,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Reduzca el registro al mínimo — formulario con etapas impresas, dictado aceptado — y no cuente un ejercicio de cuatro etapas como un ejercicio a efectos de tiempo y cantidad. Para este estudiante son cuatro.",
     ),
     citations: [CAST_UDL, TIES_PARTICIPACAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=iDOZ4TJrrE4",
+      titulo: "Portas abertas para a inclusão | Jogos de tabuleiro | Natal (RN)",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 289,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Tabuleiro gigante põe o passo no chão, na escala em que o aluno consegue agir sobre ele.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -478,6 +746,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acuerde antes cuántas etapas son, dónde queda registrado cada resultado en relieve, y quién hace qué en cada paso. Sin esa división acordada en la planificación, la ayuda entra en medio de la etapa y después es imposible saber qué parte fue del estudiante.",
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, NCDB_MOODLE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=lo3qXFOc3vk",
+      titulo: "BLV FirstSteps App: Teaching VoiceOver to Young Students",
+      canal: "Perkins School for the Blind",
+      duracaoSegundos: 5769,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Ensinar o leitor de tela é ensinar uma sequência de comandos com ordem obrigatória, que é a única via de acesso autônomo aqui.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -493,6 +771,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Muestre de antemano el número de etapas y trate cada una como parada legítima. Corrija por etapa, y no solo al final: saber que la etapa dos estaba bien cambia la disposición a intentar la tres, y es información que existe y casi nunca se dice.",
     ),
     citations: [CDC_SAUDE_MENTAL, CAST_UDL, OMS_ADOLESCENTE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=1WfmDrDQy3I",
+      titulo: "The Adolescent Brain: Practical Advice for Schools",
+      canal: "Anna Freud",
+      duracaoSegundos: 210,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Traz o que o cérebro adolescente sustenta de fato numa sequência longa, em vez de tratar a desistência no meio como falta de esforço.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -508,6 +796,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Dé el paso a paso en íconos o en palabras muy cortas, y grábelo en audio para consulta. Volver debe costar segundos, y no un párrafo — cuando la consulta es barata, la etapa deja de saltarse.",
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, NCIL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=3GF1cPR0t6A",
+      titulo: "Dyslexia Conference Recording | Multisensory Strategies for Better Working Memory",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 5167,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A memória de trabalho é o que segura a ordem obrigatória dos passos, e é dela que o vídeo trata.",
+      revisado: false,
+    },
   },
   {
     exigencia: "sequencia-de-passos",
@@ -523,6 +821,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "En lugar del paso a paso, pida el camino alternativo: otra forma de llegar al mismo resultado, o qué cambiaría si un dato fuera otro. Profundizar en vez de repetir conserva el registro sin volverlo burocracia, y es el principio de los modelos de enriquecimiento.",
     ),
     citations: [UCONN_SEM, ERIC_ENRIQUECIMENTO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=80tGOvMHSVE",
+      titulo: "Metacognitive Strategies: High School",
+      canal: "The IRIS Center Video Collection",
+      duracaoSegundos: 175,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O aluno narra o próprio raciocínio por automonitoramento, que é o registro que o passo a passo tenta obter e que este aluno recusa por não precisar dele.",
+      revisado: false,
+    },
   },
 
   // === vocabulario-tecnico ===================================================
@@ -541,6 +849,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [ASHA, PMC_TDL_LEITURA, DLD_PROJECT],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=Jnpd22aEZvg",
+      titulo: "A Taste of the Core: Building CCSS-Aligned Vocabulary Skills",
+      canal: "American Speech-Language-Hearing Association",
+      duracaoSegundos: 2378,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Construção de vocabulário alinhada ao currículo, que é o que separa ensinar a palavra de esperar que ela seja pega no uso.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -557,6 +875,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, UNDERSTOOD_LITERACIA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=xeQqGYUfs7Q",
+      titulo: "Dyslexia Conference Recording | Morphology and Syntax Rock!",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 2730,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Ensina a atacar o termo novo pela morfologia — o caminho para o vocabulário técnico quando ler a palavra inteira é o que custa.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -572,6 +900,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acuerde con el estudiante y el intérprete una seña o un deletreo para cada término de la unidad **antes** de empezarla, y registre el acuerdo en un glosario que atraviese el año. Improvisar la seña en cada clase cuesta la atención que debería estar en el contenido, y produce tres nombres para la misma cosa.",
     ),
     citations: [INES_DEBASI, INES_MATERIAIS, INES],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=FZa25ESMVfw",
+      titulo: "Materiais Pedagógicos Acessíveis | Jogo da Memória | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 410,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Casa sinal e palavra escrita no mesmo jogo, que é como o termo novo entra quando o português é segunda língua.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -587,6 +925,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Mantenga el término y agregue la explicación al lado, en aposición, siempre con las mismas palabras: \"fotosíntesis (la planta usando luz para hacer alimento)\". La constancia de la explicación importa más que su elegancia — variar la paráfrasis cada clase es lo que impide la consolidación.",
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=n_oZEaoNS4o",
+      titulo: "Materiais pedagógicos acessíveis | Painel de nomes e sons dos animais",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 294,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Liga nome e som do animal no mesmo painel, que é a associação que o termo novo exige e que a leitura sozinha não dá.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -602,6 +950,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Construya el referente antes del término, con el interviniente y con experiencia táctil cuando sea posible — y planifíquelo con semanas de antelación. En una unidad de vocabulario técnico, esa construcción es el cronograma, y no una etapa preparatoria rápida.",
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, NCDB_MOODLE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=Ki6DmqS_cb8",
+      titulo: "Tania's Two Month Review of Calendar",
+      canal: "TSBVI Distance",
+      duracaoSegundos: 582,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Mostra o referente sendo construído ao longo de dois meses de calendário tátil, que é a escala de tempo que o termo novo exige quando não há objeto para apontar.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -617,6 +975,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Anuncie el sentido en que se usará el término en la unidad y reconozca el otro en voz alta, en vez de ignorarlo. Un desacuerdo sobre definiciones resuelto con \"aquí significa esto\" cuesta diez segundos; ignorado, ocupa la unidad entera — y con razón.",
     ),
     citations: [AFIRM_NARRATIVAS, AFIRM_ANTECEDENTES, NCAEP],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=B8MMkw0crEQ",
+      titulo: "Materiais pedagógicos acessíveis | Meu Passeio Animal | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 354,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O termo de ciências entra ligado a um objeto que o aluno percorre, em vez de a uma definição que ele teria de aceitar de ouvido.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -633,6 +1001,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [DSE_LEITURA, DSE_MEMORIA, IES_DOWN],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=6ZvXQsWeWsg",
+      titulo: "See and Learn First Phrases 1 - Matching Sight Words",
+      canal: "Down Syndrome Education International",
+      duracaoSegundos: 95,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Palavra reconhecida à vista é a via documentada para o termo novo neste perfil, sem passar pela decodificação.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -663,6 +1041,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Verifique, antes de la unidad, cómo pronuncia el lector cada término, y corríjalo en el diccionario del software cuando se pueda. Deletree el término una vez en la primera aparición. Es ajuste de transcripción, y decide si el estudiante pasará el bimestre con el nombre correcto del concepto.",
     ),
     citations: [PATHS_TECNOLOGIA, APH_RECURSOS, PATHS_LETRAMENTO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=n_oZEaoNS4o",
+      titulo: "Materiais pedagógicos acessíveis | Painel de nomes e sons dos animais",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 294,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Liga o termo ao som e ao relevo do painel, que é como a palavra nova chega sem depender da imagem que a acompanha no livro.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -679,6 +1067,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [WWC_MATEMATICA_2021, NCII_MATEMATICA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=fpbjHOJOfZc",
+      titulo: "Video Example: A tutor and student add fractions with unlike denominators.",
+      canal: "National Center on Intensive Intervention",
+      duracaoSegundos: 501,
+      metadadosDe: "oEmbed",
+      porQue:
+        "\"Denominadores diferentes\" é o termo que manda fazer a operação, e o vídeo mostra o termo sendo traduzido em ação em vez de memorizado como nome.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -694,6 +1092,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Programe los términos de la unidad en el sistema antes de empezarla, junto con el estudiante. Son minutos de trabajo que valen para todas las clases del contenido — sin eso, lo que se mide es el tamaño del vocabulario programado, y no lo que sabe de la materia.",
     ),
     citations: [CAST_UDL, TIES_PARTICIPACAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=Gh61f0zLoXY",
+      titulo: "AAC, literacy, and fun: Science experiment",
+      canal: "AssistiveWare",
+      duracaoSegundos: 1762,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O termo de ciências entra pela prancha de comunicação, e não pela repetição oral que este aluno não pode fazer.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -709,6 +1117,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Presente los términos de la unidad diciendo que son técnicos y que nadie los conoce de antemano — antes de cualquier pregunta, y no después de la primera dificultad. Situar la dificultad en la palabra, y no en el estudiante, es un ajuste que cuesta una frase y solo funciona si viene primero.",
     ),
     citations: [CDC_SAUDE_MENTAL, CDC_SAUDE_MENTAL_AULA, OMS_ADOLESCENTE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=ULn3yxd3dG0",
+      titulo: "Supporting students’ mental health through everyday interactions in school settings webinar",
+      canal: "Anna Freud",
+      duracaoSegundos: 5365,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata das interações miúdas do dia a dia, que é a escala da frase dita antes do termo técnico — a que situa a dificuldade na palavra e não no aluno.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -724,6 +1142,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Deje el glosario de la unidad impreso y disponible para consulta y copia en toda evaluación, y no cuente la ortografía del término como parte de lo que se mide. Para saber si el concepto está ahí, pida la explicación oral con la palabra a la vista.",
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=p3tpup40A74",
+      titulo: "Writing SOS: Is there value to having my child learn prefixes and suffixes?",
+      canal: "Reading Rockets",
+      duracaoSegundos: 151,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Prefixo e sufixo dão ao termo novo uma via de montagem por partes, mais barata que escrevê-lo inteiro para memorizá-lo.",
+      revisado: false,
+    },
   },
   {
     exigencia: "vocabulario-tecnico",
@@ -757,6 +1185,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [PATHS_BRAILLE, APH_RECURSOS, CAST_UDL],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=eYGX2oL6euo",
+      titulo: "Materiais Pedagógicos Acessíveis | Modelo do Sistema Nervoso",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 274,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O modelo tátil é a única tradução da figura que carrega informação não repetida no texto.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -772,6 +1210,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Prepare la versión táctil con antelación y acuerde con el interviniente el vocabulario de lo que se explorará con las manos, antes de la clase. Reserve tiempo de exploración táctil en el plan: leer un gráfico en relieve lleva varios minutos, y no los treinta segundos de la versión visual.",
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, APH_RECURSOS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=UFCMlDJropA",
+      titulo: "Tactile Graphicacy Webinar Part 1- 02/11/2025",
+      canal: "Perkins School for the Blind",
+      duracaoSegundos: 4192,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Grafia tátil é a tradução da informação espacial para quem não a alcança pela visão — o único caminho para gráfico e diagrama aqui.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -788,6 +1236,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [AFIRM_APOIOS_VISUAIS, NCAEP, AFIRM_ANTECEDENTES],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=snBwz6JNDmg",
+      titulo: "Materiais Pedagógicos Acessíveis | Sistema Solar Interativo | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 322,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Traz o sistema solar para três dimensões, tornando manipulável a figura que no papel exige inferir profundidade.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -819,6 +1277,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [WWC_MATEMATICA_2021, NCII_MATEMATICA, WWC_RESOLUCAO],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=IxZduIv1a7c",
+      titulo: "Decoding Dyscalculia -  Making Sense of Decimal Place Value",
+      canal: "The Dyscalculia Network",
+      duracaoSegundos: 577,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O valor posicional é informação espacial antes de ser numérica, e o vídeo trabalha exatamente essa leitura.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -834,6 +1302,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Enseñe una rutina fija de lectura y use siempre la misma en toda la unidad: título, eje de abajo, eje de al lado, y solo entonces la pregunta. Simplifique la figura antes de simplificar el contenido — reducir de tres series a una preserva el asunto y vuelve posible la lectura.",
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=AD8tTiMCHJk",
+      titulo: "Materiais Pedagógicos Acessíveis | Modelo do DNA",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 380,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Transforma a molécula, que é figura abstrata no livro, em objeto que se monta e se desmonta.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -849,6 +1327,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Dé el objetivo antes de mostrar la figura, uno por vez y por escrito. Y ponga figura y texto en la misma superficie, sin alternancia — cada cambio entre ambos es una oportunidad de recomenzar, y recomenzar es el costo a evitar.",
     ),
     citations: [UNDERSTOOD_TDAH, CDC_TDAH, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=UijE01ge7Oo",
+      titulo: "Materiais pedagógicos acessíveis | Trilhando os campos de experiências | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 339,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A trilha põe a estrutura da atividade à vista, que é o apoio visual que segura a atenção quando a instrução falada se perde no meio.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -865,6 +1353,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [DSE_LEITURA, IES_DOWN, DSRF_LEITURA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=Yzb7DTg6AhE",
+      titulo: "Materiais Pedagógicos Acessíveis | Mapa Tátil | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 379,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O mapa tátil transforma a projeção cartográfica em relevo percorrível, e a memória visual deixa de ser condição para ler o mapa.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -880,6 +1378,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Lea los rótulos y la leyenda en voz alta antes de que el estudiante mire la figura, y déjelos escritos en cuerpo mayor al lado. En una unidad entera, use siempre los mismos rótulos para las mismas magnitudes — variar el nombre del eje entre clases recrea el obstáculo cada vez.",
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, UNDERSTOOD_LITERACIA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=CMKjNHWkL2Y",
+      titulo: "Dyslexia Conference Recording | Best Graphic Organizers to Teach Math",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 3459,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Organizador gráfico como forma de carregar a informação que o aluno perderia se ela chegasse só por texto.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -910,6 +1418,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Entregue la figura ya en tamaño legible y, cuando tenga varias partes, también recortada en cada parte con el eje repetido. Cuente el tiempo de acceso a la figura como tiempo de clase, y no como parte del tiempo de resolución.",
     ),
     citations: [CAST_UDL, TIES_PARTICIPACAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=cLf-p-DQgg4",
+      titulo: "Materiais pedagógicos acessíveis | Jogo das formas tridimensionais",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 230,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Formas tridimensionais manipuláveis substituem a figura no papel, que exige manter o traço e a folha no lugar.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -925,6 +1443,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Mire las figuras de la unidad antes de empezarla y anuncie el asunto de las imágenes pesadas en una frase, antes de mostrarlas. Cuando haya figura equivalente que sirva al mismo contenido, úsela — cambiar por causa de la imagen no es bajar la exigencia, es elegir entre materiales que enseñan lo mismo.",
     ),
     citations: [CDC_SAUDE_MENTAL, CDC_SAUDE_MENTAL_AULA, OMS_ADOLESCENTE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=eDEYhKIXCEU",
+      titulo: "Young People and Traumatic Events",
+      canal: "Anna Freud",
+      duracaoSegundos: 180,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata do aluno que já viveu o que a figura mostra, que é o risco de exibir a imagem pesada da unidade sem o aviso de uma frase.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -940,6 +1468,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Ofrezca regla, papel transparente o versión digital con línea guía como material estándar de la unidad. Cuando el valor leído alimente una cuenta, regístrelo usted al lado de la figura — el contenido es la lectura del gráfico, y no la caligrafía del número leído.",
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=zVOu_Q-O9vo",
+      titulo: "Writing SOS: How can I help my child organize their ideas to help them write?",
+      canal: "Reading Rockets",
+      duracaoSegundos: 130,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Organizar ideias fora do texto corrido tira do papel a estrutura que a escrita à mão não consegue sustentar enquanto se escreve.",
+      revisado: false,
+    },
   },
   {
     exigencia: "representacao-visual",
@@ -973,6 +1511,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [WWC_MATEMATICA_2021, NCII_MATEMATICA, WWC_RESOLUCAO],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=eYX2stWBN60",
+      titulo: "Decoding Dyscalculia: Unlocking Algebra with Algebra Tiles",
+      canal: "The Dyscalculia Network",
+      duracaoSegundos: 601,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Usa material de álgebra para dar referente concreto ao símbolo, que é o ponto em que a discalculia perde a conta.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -988,6 +1536,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Mantenga el referente concreto disponible durante toda la unidad, y no solo en la clase de introducción. Cada símbolo nuevo entra con el objeto al lado y con la frase que lo lee en voz alta, siempre la misma. Reduzca la cantidad de símbolos por clase antes de reducir la profundidad del contenido.",
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS, WWC_MATEMATICA_2021],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=pPB7dQZx71U",
+      titulo: "Materiais pedagógicos acessíveis | Contando as luzes",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 136,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Usa luz para dar existência física ao número, atacando o símbolo pelo lado que não exige memória verbal.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1003,6 +1561,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acuerde en voz alta cómo se dirá cada estructura — \"fracción de numerador x más uno, denominador dos\" — y use siempre la misma formulación en toda la unidad. Garantice el material en notación matemática braille, y no en texto corrido: describir una fórmula en prosa es posible para una, e insostenible para una unidad.",
     ),
     citations: [PATHS_BRAILLE, APH_RECURSOS, PATHS_TECNOLOGIA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=p82vuC9r-yM",
+      titulo: "Materiais pedagógicos acessíveis | Máquina de somar - Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 142,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A máquina de somar dá forma manipulável à operação, que no quadro existe só como símbolo visual.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1019,6 +1587,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [AFIRM_ANTECEDENTES, AFIRM_APOIOS_VISUAIS, NCAEP],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=tx2PC4rtQAE",
+      titulo: "Materiais Pedagógicos Acessíveis | Arizinho | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 331,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Dá referente físico ao número antes de ele virar símbolo escrito, que é o degrau que a notação pula.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1034,6 +1612,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Entregue la expresión ya impresa en vez de pedir la copia, y exija una línea por operación. Corrija señalando en qué línea la expresión dejó de corresponder a la anterior — el estudiante pasa a ver que el defecto es de registro, y no de comprensión, lo que cambia lo que entrena.",
     ),
     citations: [UNDERSTOOD_TDAH, CDC_TDAH, WWC_RESOLUCAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=q5IDRtXpsEU",
+      titulo: "Error Analysis in Math: Using Student Work to Intensify Intervention",
+      canal: "National Center on Intensive Intervention",
+      duracaoSegundos: 3458,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Analisar o trabalho do aluno por padrão de erro é o que separa engano de transcrição de erro de compreensão, que aqui é a diferença entre corrigir e concluir errado.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1049,6 +1637,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Use papel cuadriculado o cuadrícula impresa como material estándar de la unidad, y ofrezca editor de ecuaciones cuando haya computadora. Cuando la duda sea sobre lo que escribió, pregunte en vez de deducir: la diferencia entre equivocar la manipulación y equivocar el trazo cambia lo que se enseña después.",
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=-DtAh_DKyak",
+      titulo: "Writing SOS: How can learning to spell help my child?",
+      canal: "Reading Rockets",
+      duracaoSegundos: 114,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A ortografia é convenção pura, e é onde a disgrafia é mais penalizada por um erro que não é de raciocínio.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1064,6 +1662,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Escriba los valores en una tarjeta a la vista, con rótulo en palabra y, cuando sea posible, en imagen, y manténgala durante toda la unidad. El apoyo visual es vía de fortaleza documentada — usarlo aquí no es concesión, es elegir el canal que funciona para sacar el valor de la memoria.",
     ),
     citations: [DSE_MEMORIA, IES_DOWN, DSRF_LEITURA],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=a2KHC_5zRZU",
+      titulo: "See and Learn First Counting",
+      canal: "Down Syndrome Education International",
+      duracaoSegundos: 94,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trabalha o número como símbolo desde a contagem, que é o degrau anterior a qualquer notação.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1079,6 +1687,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Introduzca el símbolo por demostración, y no por definición: muestre la misma situación con tres valores distintos y deje que la letra aparezca en el lugar que varía. La definición viene después, por escrito y corta, para consulta — y no como puerta de entrada.",
     ),
     citations: [ASHA, PMC_TDL_LEITURA, DLD_PROJECT],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=YDRsmxPA-J8",
+      titulo: "Explicit, Systematic Instruction: Elementary",
+      canal: "The IRIS Center Video Collection",
+      duracaoSegundos: 188,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A professora demonstra antes de definir, que é a ordem que o símbolo precisa aqui — a definição verbal é justamente o que o TDL não retém.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1094,6 +1712,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Escriba la regla de manipulación, no solo la expresión, y nunca explique de espaldas a la clase. Aproveche la exigencia como diagnóstico: si acierta la manipulación y falla el problema en texto, lo que pesa es la lengua, y es eso lo que hay que registrar.",
     ),
     citations: [INES_DEBASI, INES_MATERIAIS, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=LLgB_V2Cth0",
+      titulo: "Materiais Pedagógicos Acessíveis | Roda das Frações",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 247,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A roda das frações torna a notação manipulável, tirando a explicação do terreno falado.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1109,6 +1737,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Lea la expresión en voz alta junto con el estudiante, siempre en el mismo orden y con las mismas palabras, y escriba esa lectura al lado de la expresión. Prefiera letras que no se confundan en la lectura y evite las que se parecen entre sí en la misma expresión.",
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, WWC_MATEMATICA_2021],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=wSY1VGlErWE",
+      titulo: "Dyslexia Conference Recording | Multisensory Math: From Arithmetic to Algebra",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 3925,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Mostra como sustentar o símbolo algébrico com material multissensorial, quando a via verbal é justamente a mais cara para este aluno.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1139,6 +1777,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Empiece cada clase por un paso que se concluye — leer la expresión, decir qué representa cada símbolo — antes de cualquier manipulación. Es concluir el primer paso, y no el ánimo, lo que suele destrabar el resto. Y corrija por etapa: saber que la lectura estaba bien cambia la disposición a intentar la cuenta.",
     ),
     citations: [CDC_SAUDE_MENTAL, WWC_RESOLUCAO, OMS_ADOLESCENTE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=H9UaMZ3hLAU",
+      titulo: "Anxiety",
+      canal: "Anna Freud",
+      duracaoSegundos: 352,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O símbolo abstrato costuma ser o primeiro ponto em que a ansiedade de desempenho aparece, porque nele não há contexto onde se apoiar.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1154,6 +1802,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Verifique, en la planificación, si la notación exigida ya fue enseñada — y, si no, enséñela antes como contenido propio, con tiempo propio. Acuerde con el interviniente una forma fija de decir cada estructura, y mantenga las expresiones de la unidad cortas y numeradas para poder referirlas sin releerlas.",
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, APH_RECURSOS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=yWlQDfBj5BM",
+      titulo: "How do tactile symbols drive conversations?",
+      canal: "Perkins School for the Blind",
+      duracaoSegundos: 58,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Símbolo tátil é convenção pura sustentada pelo tato, e o vídeo trata de como ele passa a significar.",
+      revisado: false,
+    },
   },
   {
     exigencia: "abstracao-simbolica",
@@ -1169,6 +1827,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acepte el camino alternativo cuando sea correcto, y pida que lo justifique — justificar un método propio es más exigente que aplicar el enseñado. Ofrezca la generalización: por qué vale la regla, en qué casos falla, qué pasaría con otra convención.",
     ),
     citations: [ERIC_ENRIQUECIMENTO, UCONN_SEM, NAGC],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=zs5eJFQMrmY",
+      titulo: "Presenting and Comparing Multiple Solutions Strategies",
+      canal: "The IRIS Center Video Collection",
+      duracaoSegundos: 271,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Compara estratégias diferentes para a mesma operação, que é o que transforma o caminho próprio deste aluno em objeto de aula em vez de desvio a corrigir.",
+      revisado: false,
+    },
   },
 
   // === producao-do-aluno =====================================================
@@ -1187,6 +1855,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA, CAST_UDL],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=pPN-foAXezY",
+      titulo: "Strategies to Help Your Child With Written Expression",
+      canal: "Understood",
+      duracaoSegundos: 2569,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata da expressão escrita como produto, que é exatamente o que a disgrafia impede de mostrar.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1203,6 +1881,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [ASHA, PMC_TDL_LEITURA, WWC_ESCRITA_FINAIS],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=RevbZGsNLHg",
+      titulo: "Yield Powerful Payoffs Using Written Language Assessment and Intervention",
+      canal: "American Speech-Language-Hearing Association",
+      duracaoSegundos: 2165,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Avaliação e intervenção em linguagem escrita, que é a forma de produção onde o TDL é mais confundido com desatenção.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1218,6 +1906,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Divida la producción en entregas cortas con plazos propios — esbozo, primera versión, revisión — y dé retorno en cada una. Empiece la producción en clase, con el docente presente: el primer párrafo escrito en el aula es lo que decide si el trabajo existe.",
     ),
     citations: [UNDERSTOOD_TDAH, CDC_TDAH, WWC_ESCRITA_FINAIS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=ApqSMzsGwXQ",
+      titulo: "“I Can’t Focus!” When ADHD Impacts Your Child’s Math & Writing Performance",
+      canal: "Help for ADHD",
+      duracaoSegundos: 3281,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata do que acontece com o desempenho em escrita quando a atenção falha no meio da produção.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1234,6 +1932,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [CAST_UDL, TIES_PARTICIPACAO],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=AlmAZjfiKt0",
+      titulo: "Materiais pedagógicos acessíveis | Tabuleiro de RPG | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 399,
+      metadadosDe: "oEmbed",
+      porQue:
+        "O RPG desloca a produção da escrita à mão para a narrativa construída em grupo.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1249,6 +1957,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acepte la producción en lengua de señas — grabada — como demostración legítima del contenido, y trate el texto escrito como objetivo de lengua, con criterio propio. Cuando se exijan ambas, evalúelas por separado, y dígale al estudiante cuál se evalúa en cada momento.",
     ),
     citations: [INES_DEBASI, INES_MATERIAIS, INES],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=YZlFPxV0GA8",
+      titulo: "Writing SOS: How do I encourage my deaf child to write more at home?",
+      canal: "Reading Rockets",
+      duracaoSegundos: 200,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata diretamente de fazer o aluno surdo escrever mais, que é a produção onde a distância entre Libras e português escrito aparece inteira.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1264,6 +1982,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Dé la estructura lista y el contenido por completar: frases iniciadas, campos rotulados, secuencia de preguntas cortas. Reducir la apertura no reduce la exigencia de contenido — y es lo que permite ver lo que sabe, en vez de ver la dificultad de empezar.",
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS, WWC_ESCRITA_FINAIS],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=9KweyLv6e64",
+      titulo: "Material Pedagógico Acessível (MPA) | Lata de criação de histórias | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 186,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Produção com material de baixo custo, que muda o que se aceita como evidência de aprendizado.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1280,6 +2008,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, WWC_ESCRITA_FINAIS],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=44ieGKyACTM",
+      titulo: "Dyslexia Conference Recording | Note-Taking Strategies for Students with Dyslexia",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 3492,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Anotar em aula é produção escrita sob pressão de tempo, e é a forma de produção que a escrita disléxica menos sustenta sem estratégia.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1296,6 +2034,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [AFIRM_ANTECEDENTES, AFIRM_NARRATIVAS, NCAEP],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=9KweyLv6e64",
+      titulo: "Material Pedagógico Acessível (MPA) | Lata de criação de histórias | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 186,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Dá à criação de história um suporte físico com começo e fim visíveis, que é o que destrava a produção quando a folha em branco paralisa.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1311,6 +2059,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Cree puntos de entrega parcial sin nota, y deje explícito que una versión incompleta se acepta y se comenta. Haga opcional la exposición pública. Y responda a lo que funcionó antes de señalar lo que falta — en producción, el orden del retorno decide si habrá una próxima.",
     ),
     citations: [CDC_SAUDE_MENTAL, CDC_SAUDE_MENTAL_AULA, OMS_ADOLESCENTE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=hOZdqFFxfAU",
+      titulo: "Exam Stress",
+      canal: "Anna Freud",
+      duracaoSegundos: 211,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A entrega avaliada é onde a ansiedade de desempenho se materializa, e é disso que o vídeo trata.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1326,6 +2084,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Deje el plan visible durante la producción — imágenes en secuencia, tópicos en tarjetas, esquema en la mesa — y produzca una parte por vez, marcando la concluida. El apoyo visual es vía de fortaleza documentada, y aquí lleva el plan que la memoria no sostiene.",
     ),
     citations: [DSE_MEMORIA, DSE_LEITURA, IES_DOWN],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=_FYa7Qo0wXg",
+      titulo: "Introducing See and Learn Speech",
+      canal: "Down Syndrome Education International",
+      duracaoSegundos: 3557,
+      metadadosDe: "oEmbed",
+      porQue:
+        "É sobre produção de fala, que é a forma de produção que a avaliação mais cobra e a que mais subestima este aluno.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1341,6 +2109,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Produzca en entorno digital con navegación por títulos desde el comienzo, y numere los párrafos para que la revisión pueda dirigirse — \"cambie el tercero\" en vez de \"cambie ese fragmento\". Dé el retorno con la referencia del lugar, y no solo el comentario.",
     ),
     citations: [PATHS_TECNOLOGIA, APH_RECURSOS, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=QYyMYlJAc2Y",
+      titulo: "Low Vision Tools in ONE Minute: Chromebook- Select-to-Speak & Dictation",
+      canal: "TSBVI Distance",
+      duracaoSegundos: 60,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Select-to-Speak relê o trecho escolhido em vez do texto inteiro, que é o que torna a revisão dirigida possível quando reler por voz é sequencial.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1356,6 +2134,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acuerde antes qué hace el interviniente: transcribe literalmente, pregunta para aclarar, o no interviene. Registre el acuerdo junto a la tarea. Y prefiera producciones cortas y frecuentes a una larga — el costo de transmisión vuelve inviable revisar un texto largo.",
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, NCDB_MOODLE],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=LCAUnodVW04",
+      titulo: "Tania Signs Daily Tactile Calendar",
+      canal: "TSBVI Distance",
+      duracaoSegundos: 148,
+      metadadosDe: "oEmbed",
+      porQue:
+        "É a aluna produzindo com o adulto ao lado, que é a cena exata em que a fronteira entre a voz dela e a de quem transcreve se decide.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1371,6 +2159,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Ofrezca el modelo del registro ya estructurado — tabla con columnas rotuladas, gráfico con ejes listos — y libere la calculadora cuando el objetivo sea la interpretación. Evalúe la conclusión y el razonamiento por separado de la ejecución aritmética.",
     ),
     citations: [WWC_RESOLUCAO, NCII_MATEMATICA, WWC_MATEMATICA_2021],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=8yW0wID_h9Y",
+      titulo: "Video Example: A student independently solves an addition problem with fractions",
+      canal: "National Center on Intensive Intervention",
+      duracaoSegundos: 255,
+      metadadosDe: "oEmbed",
+      porQue:
+        "É o aluno resolvendo sozinho com o registro do cálculo à vista, que é a forma de produção pela qual a discalculia acaba avaliada duas vezes.",
+      revisado: false,
+    },
   },
   {
     exigencia: "producao-do-aluno",
@@ -1386,6 +2184,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Deje el formato abierto y negocie el producto: el criterio es el contenido demostrado, no el género entregado. Exija público real — alguien fuera de la clase que lea o vea —, porque es el destinatario, y no la nota, lo que sostiene el trabajo de quien ya domina el contenido.",
     ),
     citations: [ERIC_ENRIQUECIMENTO, UCONN_SEM, NAGC],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=rmpZrFXssJo",
+      titulo: "NAGC Corner Chat, How Children Show Their Creative Potential",
+      canal: "nagcgifted",
+      duracaoSegundos: 716,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Trata de como o potencial criativo aparece no que a criança produz, que é onde este aluno mostra o que a prova não capta.",
+      revisado: false,
+    },
   },
 
   // === pratica-concreta ======================================================
@@ -1404,6 +2212,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [CAST_UDL, TIES_PARTICIPACAO],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=koNRX40dI1I",
+      titulo: "Materiais pedagógicos acessíveis | Mancala Acessível | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 378,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Mancala adaptado para que a atividade prática caiba no alcance e no acionamento possíveis.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1419,6 +2237,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Sustituya lo que señaliza por visión con señal táctil o sonora — termómetro parlante, balanza con voz, marcación en relieve en el vidrio — y haga el reconocimiento táctil de la mesada antes de empezar. Prefiera reacción con cambio de temperatura o de olor a la que solo cambia de color.",
     ),
     citations: [PATHS_BRAILLE, APH_RECURSOS, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=U0QnLUoeLw4",
+      titulo: "Ciência Sem Limites| Ensino de física para deficientes visuais",
+      canal: "TV Unesp",
+      duracaoSegundos: 1509,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Kit construído pelos próprios colegas para que o experimento de física aconteça pelo tato.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1435,6 +2263,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [AFIRM_ANTECEDENTES, AFIRM_ANALISE_DE_TAREFA, NCAEP],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=FDN5yHbgYfA",
+      titulo: "Materiais pedagógicos acessíveis | Caixa de Instrumentos Musicais | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 403,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Material sonoro construído para sustentar escuta e concentração na atividade prática, em vez de a atividade virar excesso sensorial.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1451,6 +2289,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [NCIL_DEFICIENCIA_INTELECTUAL, PROMOTING_PROGRESS, CAST_UDL],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=7E2ltdXw1Bw",
+      titulo: "Materiais pedagógicos acessíveis | Célula Tátil - Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 260,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A célula tátil põe na mão a estrutura que a aula normalmente só descreve.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1466,6 +2314,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Entregue el material etapa por etapa, y no todo de una vez al comienzo. Dé función explícita durante los tiempos de espera — cronometrar, registrar, verificar — porque es el intervalo sin tarea, y no la tarea, lo que produce el problema.",
     ),
     citations: [UNDERSTOOD_TDAH, CDC_TDAH, PMC_TDAH_REVISAO],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=LApNRgeMyf8",
+      titulo: "Teacher Tip: How Proximity and Movement Improve Attention in Students with ADHD",
+      canal: "Help for ADHD",
+      duracaoSegundos: 169,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Mostra como proximidade e movimento sustentam a atenção na atividade prática, em vez de a atividade prática virar dispersão.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1482,6 +2340,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [DSE_LEITURA, IES_DOWN, DSRF_LEITURA],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=0W-_gL3xaDU",
+      titulo: "Materiais Pedagógicos Acessíveis | Fogão Musical | Libras e Audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 369,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Material sonoro operado com as mãos, que sustenta a atividade prática sem depender de instrução verbal retida.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1497,6 +2365,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Separe explicar de demostrar: explique de frente, con el material quieto, y solo entonces demuestre en silencio. Deje la secuencia escrita o en imágenes en la mesada, para que no dependa de mirar dos cosas a la vez.",
     ),
     citations: [INES_DEBASI, INES_MATERIAIS, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=r3zMxkn5K-g",
+      titulo: "Materiais pedagógicos acessíveis | Librando | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 329,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Material construído para a aprendizagem de Libras acontecer com objeto na mão, e não por instrução oral traduzida.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1513,6 +2391,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [PATHS_SURDOCEGUEIRA, CADEAFBLIND_INTERVENTOR, NCDB_MOODLE],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=67sVA0f6YfM",
+      titulo: "Deep Dive Into The Manipulatives Checklist Webinar",
+      canal: "Perkins School for the Blind",
+      duracaoSegundos: 5630,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Percorre a escolha de material manipulável, que é a via de acesso ao conteúdo quando nem visão nem audição sustentam a atividade.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1529,6 +2417,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
     ),
     citations: [WWC_MATEMATICA_2021, NCII_MATEMATICA, WWC_RESOLUCAO],
     evidence: "established",
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=2fT-aKeyJlk",
+      titulo: "Fixit with Karen - Bridging 10 to Subtract a Single Digit",
+      canal: "The Dyscalculia Network",
+      duracaoSegundos: 410,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Ensina a subtração por decomposição com material na mão, em vez de pela regra escrita.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1544,6 +2442,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Dé el guion en imágenes numeradas, con el texto corto al lado, y lea la secuencia en voz alta antes de empezar. Aproveche la clase práctica como el momento en que el contenido entra por otro canal — y no repita allí la misma exigencia de lectura de la clase anterior.",
     ),
     citations: [READING_ROCKETS_SL, NCIL_STRUCTURED_LITERACY, NCIL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=gVNQ7WkN_eY",
+      titulo: "Sound Walls - Making the Speech to Print Connection",
+      canal: "International Dyslexia Association",
+      duracaoSegundos: 642,
+      metadadosDe: "oEmbed",
+      porQue:
+        "A parede de sons é material fixo na sala, consultado e manipulado, que dá apoio físico à correspondência entre som e letra.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1574,6 +2482,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Defina los grupos antes, y no por elección en el momento. Diga de antemano que un resultado inesperado es resultado, y no error — en un experimento eso es verdad y casi nunca se dice. Ofrezca un papel definido dentro del grupo, para que participar no dependa de imponerse.",
     ),
     citations: [CDC_SAUDE_MENTAL, CDC_SAUDE_MENTAL_AULA, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=NvyktxmjTA8",
+      titulo: "Creating a Safe Environment in Schools",
+      canal: "Anna Freud",
+      duracaoSegundos: 180,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Atividade prática é exposta e coletiva; sem ambiente seguro, ela vira o momento em que o aluno se retira.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1589,6 +2507,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Acepte el registro por foto, audio o formulario con campos cortos, y reserve el informe escrito para cuando sea el objetivo declarado. En las etapas de precisión fina, ofrezca soporte — embudo, pinza de agarre ancho, apoyo — en vez de cambiar el papel del estudiante en la actividad.",
     ),
     citations: [WWC_ESCRITA_FINAIS, READING_ROCKETS_ESCRITA, CAST_UDL],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=KVf51TojK1U",
+      titulo: "The Different Types of Pencil Grips for Kids",
+      canal: "Understood",
+      duracaoSegundos: 143,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Compara adaptadores de lápis — material na mão do aluno, que é o que muda a atividade prática para quem escreve com esforço.",
+      revisado: false,
+    },
   },
   {
     exigencia: "pratica-concreta",
@@ -1604,6 +2532,16 @@ export const MATRIZ_DE_CONTEUDOS: CelulaDeConteudo[] = [
       "Abra la variable: en lugar del guion, dé la pregunta y deje que planifique el procedimiento, con el material disponible declarado. Pida la previsión antes y la explicación de la diferencia después — investigar es lo que la práctica puede ser, y el guion cerrado es en lo que se convirtió.",
     ),
     citations: [ERIC_ENRIQUECIMENTO, UCONN_SEM, NAGC],
+    videoFormativo: {
+      url: "https://www.youtube.com/watch?v=UQ5Yu4-83qU",
+      titulo: "Materiais pedagógicos acessíveis | Caminho Sustentável | Libras e audiodescrição",
+      canal: "Instituto Rodrigo Mendes",
+      duracaoSegundos: 369,
+      metadadosDe: "oEmbed",
+      porQue:
+        "Material interativo aberto, em que a atividade prática deixa de ter teto e passa a ser onde este aluno ainda encontra desafio.",
+      revisado: false,
+    },
   },
 ]
 

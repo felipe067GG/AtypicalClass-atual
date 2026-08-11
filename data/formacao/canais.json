@@ -1,0 +1,3156 @@
+{
+ "colhidoEm": "2026-08-11",
+ "comoFoiColhido": "ids lidos de \"videoId\" no HTML bruto da aba /videos de cada canal; procedência confirmada pelo oEmbed. Duração não é colhida aqui — vem do npm run videos quando o vídeo entrar numa célula.",
+ "canais": [
+  {
+   "especialidade": "dislexia",
+   "instituicao": "Instituto ABCD",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/@institutoabcd",
+   "channelId": "UC3U4wd93nUU5kRtC89n7ZnQ",
+   "canalSegundoAApi": "Instituto ABCD",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "WwBNCqaoNP8",
+     "url": "https://www.youtube.com/watch?v=WwBNCqaoNP8",
+     "titulo": "Encontrão da Dislexia - Semana da Dislexia: Construindo Laços - 2023",
+     "revisado": false
+    },
+    {
+     "id": "M3Kjb0lNvfE",
+     "url": "https://www.youtube.com/watch?v=M3Kjb0lNvfE",
+     "titulo": "Instituto ABCD na Bett Brasil",
+     "revisado": false
+    },
+    {
+     "id": "TA-NanjtvGI",
+     "url": "https://www.youtube.com/watch?v=TA-NanjtvGI",
+     "titulo": "Conheça o EduEdu",
+     "revisado": false
+    },
+    {
+     "id": "18fdoRsoOsI",
+     "url": "https://www.youtube.com/watch?v=18fdoRsoOsI",
+     "titulo": "História do Grupo de Pais DislexiaMT",
+     "revisado": false
+    },
+    {
+     "id": "vQk6CeGlVbo",
+     "url": "https://www.youtube.com/watch?v=vQk6CeGlVbo",
+     "titulo": "Todos Aprendem",
+     "revisado": false
+    },
+    {
+     "id": "rff_O9B9bUA",
+     "url": "https://www.youtube.com/watch?v=rff_O9B9bUA",
+     "titulo": "Você é Disléxico?",
+     "revisado": false
+    },
+    {
+     "id": "0P1nTb4rhAs",
+     "url": "https://www.youtube.com/watch?v=0P1nTb4rhAs",
+     "titulo": "Depoimentos de Professores sobre o Programa Todos Aprendem do iABCD",
+     "revisado": false
+    },
+    {
+     "id": "eJckWjo97BY",
+     "url": "https://www.youtube.com/watch?v=eJckWjo97BY",
+     "titulo": "Importância da avaliação de dislexia",
+     "revisado": false
+    },
+    {
+     "id": "Tm-_KdkhcwA",
+     "url": "https://www.youtube.com/watch?v=Tm-_KdkhcwA",
+     "titulo": "Meu filho(a) é dislexico?",
+     "revisado": false
+    },
+    {
+     "id": "O6ZyWBVQyQ4",
+     "url": "https://www.youtube.com/watch?v=O6ZyWBVQyQ4",
+     "titulo": "Quando que a dislexia pode ser diagnosticada?",
+     "revisado": false
+    },
+    {
+     "id": "sS_wb5ICK2Y",
+     "url": "https://www.youtube.com/watch?v=sS_wb5ICK2Y",
+     "titulo": "Remédio para dislexia?",
+     "revisado": false
+    },
+    {
+     "id": "b3Q222yiI5M",
+     "url": "https://www.youtube.com/watch?v=b3Q222yiI5M",
+     "titulo": "Os diferentes níveis de dislexia",
+     "revisado": false
+    },
+    {
+     "id": "_WZDO2lTvX8",
+     "url": "https://www.youtube.com/watch?v=_WZDO2lTvX8",
+     "titulo": "Direitos das pessoas com dislexia",
+     "revisado": false
+    },
+    {
+     "id": "qJJo8GrAhK8",
+     "url": "https://www.youtube.com/watch?v=qJJo8GrAhK8",
+     "titulo": "Sinais da Dislexia",
+     "revisado": false
+    },
+    {
+     "id": "9RTSoqFH3CQ",
+     "url": "https://www.youtube.com/watch?v=9RTSoqFH3CQ",
+     "titulo": "Existe uma relação entre dislexia e inteligência",
+     "revisado": false
+    },
+    {
+     "id": "CXjsdjgBVcs",
+     "url": "https://www.youtube.com/watch?v=CXjsdjgBVcs",
+     "titulo": "O que é Dislexia",
+     "revisado": false
+    },
+    {
+     "id": "auPUJCiljWA",
+     "url": "https://www.youtube.com/watch?v=auPUJCiljWA",
+     "titulo": "Todos Aprendem Instituto ABCD - Legendado",
+     "revisado": false
+    },
+    {
+     "id": "1gduXfKw32g",
+     "url": "https://www.youtube.com/watch?v=1gduXfKw32g",
+     "titulo": "Dislexia em família",
+     "revisado": false
+    },
+    {
+     "id": "8wO101Jk05g",
+     "url": "https://www.youtube.com/watch?v=8wO101Jk05g",
+     "titulo": "Todos Aprendem Instituto ABCD",
+     "revisado": false
+    },
+    {
+     "id": "YTZ4YuNtNHM",
+     "url": "https://www.youtube.com/watch?v=YTZ4YuNtNHM",
+     "titulo": "Projeto Indivualmente",
+     "revisado": false
+    },
+    {
+     "id": "HQ2MLiDwQbc",
+     "url": "https://www.youtube.com/watch?v=HQ2MLiDwQbc",
+     "titulo": "Dificuldades ou Transtornos de Aprendizagem?",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "dislexia",
+   "instituicao": "International Dyslexia Association",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCcaAMbct0X6N9QrYK4t9Abg",
+   "channelId": "UCcaAMbct0X6N9QrYK4t9Abg",
+   "canalSegundoAApi": "International Dyslexia Association",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "62ZwSCaRbjc",
+     "url": "https://www.youtube.com/watch?v=62ZwSCaRbjc",
+     "titulo": "Navigating IDA TV - DyslexiaCon 21 OnDemand",
+     "revisado": false
+    },
+    {
+     "id": "UGBqFF9l-gQ",
+     "url": "https://www.youtube.com/watch?v=UGBqFF9l-gQ",
+     "titulo": "Book Chat: Reading Fund for Everyone",
+     "revisado": false
+    },
+    {
+     "id": "gVNQ7WkN_eY",
+     "url": "https://www.youtube.com/watch?v=gVNQ7WkN_eY",
+     "titulo": "Sound Walls - Making the Speech to Print Connection",
+     "revisado": false
+    },
+    {
+     "id": "bjkhMYd4jV4",
+     "url": "https://www.youtube.com/watch?v=bjkhMYd4jV4",
+     "titulo": "College Transition and Accommodations for Students with Dyslexia and Other Disabilities",
+     "revisado": false
+    },
+    {
+     "id": "nMu5SeHOitE",
+     "url": "https://www.youtube.com/watch?v=nMu5SeHOitE",
+     "titulo": "IDA Dyslexia Webinar | Supporting Comprehension Through Writing About Reading",
+     "revisado": false
+    },
+    {
+     "id": "KghkV07I9Ck",
+     "url": "https://www.youtube.com/watch?v=KghkV07I9Ck",
+     "titulo": "Dyslexia Conference Recording | Understanding Dyslexia Test Scores",
+     "revisado": false
+    },
+    {
+     "id": "QzxzCNOSObQ",
+     "url": "https://www.youtube.com/watch?v=QzxzCNOSObQ",
+     "titulo": "Dyslexia Conference Recording | Reading Comprehension Strategies for Students with Dyslexia",
+     "revisado": false
+    },
+    {
+     "id": "3GF1cPR0t6A",
+     "url": "https://www.youtube.com/watch?v=3GF1cPR0t6A",
+     "titulo": "Dyslexia Conference Recording | Multisensory Strategies for Better Working Memory",
+     "revisado": false
+    },
+    {
+     "id": "wUKjSMSHbbU",
+     "url": "https://www.youtube.com/watch?v=wUKjSMSHbbU",
+     "titulo": "Dyslexia Conference Recording | Dyslexia Advocacy for Parents",
+     "revisado": false
+    },
+    {
+     "id": "G2-e6fF1AtE",
+     "url": "https://www.youtube.com/watch?v=G2-e6fF1AtE",
+     "titulo": "Dyslexia Conference Recording | Evolving Diagnoses for Dyslexia",
+     "revisado": false
+    },
+    {
+     "id": "9xr-jSNgQBs",
+     "url": "https://www.youtube.com/watch?v=9xr-jSNgQBs",
+     "titulo": "DyslexiaCon20 Sneak Peek with Dr. Tracy Johnson",
+     "revisado": false
+    },
+    {
+     "id": "j22Pk-7sPSY",
+     "url": "https://www.youtube.com/watch?v=j22Pk-7sPSY",
+     "titulo": "Dyslexia Conference Recording | Navigating IEPs for Students with Dyslexia",
+     "revisado": false
+    },
+    {
+     "id": "J0Kbt49zx8g",
+     "url": "https://www.youtube.com/watch?v=J0Kbt49zx8g",
+     "titulo": "Dyslexia Conference Recording | Dyslexia Assessments for Driving Instruction",
+     "revisado": false
+    },
+    {
+     "id": "44ieGKyACTM",
+     "url": "https://www.youtube.com/watch?v=44ieGKyACTM",
+     "titulo": "Dyslexia Conference Recording | Note-Taking Strategies for Students with Dyslexia",
+     "revisado": false
+    },
+    {
+     "id": "6csIC5Iw1Uc",
+     "url": "https://www.youtube.com/watch?v=6csIC5Iw1Uc",
+     "titulo": "Dyslexia Conference Recording | Written Language, Reading Comprehension, and Executive Function",
+     "revisado": false
+    },
+    {
+     "id": "TuSFCU0Rc8g",
+     "url": "https://www.youtube.com/watch?v=TuSFCU0Rc8g",
+     "titulo": "Dyslexia Conference Recording | \"Evidence-Based,\" What it Means, and Dyslexia Treatments",
+     "revisado": false
+    },
+    {
+     "id": "ACZNkF1xD4Y",
+     "url": "https://www.youtube.com/watch?v=ACZNkF1xD4Y",
+     "titulo": "Dyslexia Conference Recording | Teaching Inferencing (Strategies That Work!)",
+     "revisado": false
+    },
+    {
+     "id": "0iGrOEmRS68",
+     "url": "https://www.youtube.com/watch?v=0iGrOEmRS68",
+     "titulo": "IDA Oregon | Students With Dyslexia - Journey to Self Advocacy and Assistive Technology",
+     "revisado": false
+    },
+    {
+     "id": "OZrgI3UyKa4",
+     "url": "https://www.youtube.com/watch?v=OZrgI3UyKa4",
+     "titulo": "Dyslexia Conference Recording | Benefits of Mindfulness LD Classroom",
+     "revisado": false
+    },
+    {
+     "id": "CMKjNHWkL2Y",
+     "url": "https://www.youtube.com/watch?v=CMKjNHWkL2Y",
+     "titulo": "Dyslexia Conference Recording | Best Graphic Organizers to Teach Math",
+     "revisado": false
+    },
+    {
+     "id": "OF6405Z4myo",
+     "url": "https://www.youtube.com/watch?v=OF6405Z4myo",
+     "titulo": "IDA Dyslexia Webinar | Bring Online Structured Literacy to Life",
+     "revisado": false
+    },
+    {
+     "id": "lIsaBMBQZnM",
+     "url": "https://www.youtube.com/watch?v=lIsaBMBQZnM",
+     "titulo": "Dyslexia Conference Recording | Learning Disabilities and Social-Emotional Development",
+     "revisado": false
+    },
+    {
+     "id": "RZlPamkmSiI",
+     "url": "https://www.youtube.com/watch?v=RZlPamkmSiI",
+     "titulo": "Dyslexia Conference Recording | Testing for Teaching— Basic Facts About the Dyslexia Assessment",
+     "revisado": false
+    },
+    {
+     "id": "xeQqGYUfs7Q",
+     "url": "https://www.youtube.com/watch?v=xeQqGYUfs7Q",
+     "titulo": "Dyslexia Conference Recording | Morphology and Syntax Rock!",
+     "revisado": false
+    },
+    {
+     "id": "T96vpBoYN0A",
+     "url": "https://www.youtube.com/watch?v=T96vpBoYN0A",
+     "titulo": "Dyslexia Conference Recording | Helping Your Student with Dyslexia Get Ready for College",
+     "revisado": false
+    },
+    {
+     "id": "wSY1VGlErWE",
+     "url": "https://www.youtube.com/watch?v=wSY1VGlErWE",
+     "titulo": "Dyslexia Conference Recording | Multisensory Math: From Arithmetic to Algebra",
+     "revisado": false
+    },
+    {
+     "id": "DK5mxzOH1sM",
+     "url": "https://www.youtube.com/watch?v=DK5mxzOH1sM",
+     "titulo": "Dyslexia Conference Recording | Helping Native and Nonnative Speakers of English with Dyslexia",
+     "revisado": false
+    },
+    {
+     "id": "4IZ1beCxFqs",
+     "url": "https://www.youtube.com/watch?v=4IZ1beCxFqs",
+     "titulo": "Dyslexia Conference Recording | Protect and Support your Child with Dyslexia",
+     "revisado": false
+    },
+    {
+     "id": "PWtu1E-NYJ8",
+     "url": "https://www.youtube.com/watch?v=PWtu1E-NYJ8",
+     "titulo": "Dyslexia Conference Recording | Mobile Apps to Enhance Structured Literacy",
+     "revisado": false
+    },
+    {
+     "id": "lB6udGFqs-U",
+     "url": "https://www.youtube.com/watch?v=lB6udGFqs-U",
+     "titulo": "Dyslexia Conference Recording | EdTech to Enhance Structured-Literacy Instruction",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "disgrafia",
+   "instituicao": "Understood",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@UnderstoodOrg",
+   "channelId": "UCbXMoF3-74hj2lhLCIp3C-A",
+   "canalSegundoAApi": "Understood",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "LEWujxV-ZfQ",
+     "url": "https://www.youtube.com/watch?v=LEWujxV-ZfQ",
+     "titulo": "ADHD and relationships explained: Why resentment builds and how to stop it | Experts Answer",
+     "revisado": false
+    },
+    {
+     "id": "OzB1vaUz144",
+     "url": "https://www.youtube.com/watch?v=OzB1vaUz144",
+     "titulo": "Guiding a neurodivergent kid through grief (by breaking all the rules) | Everyone Gets a Juice Box",
+     "revisado": false
+    },
+    {
+     "id": "sYMgU-aS7wg",
+     "url": "https://www.youtube.com/watch?v=sYMgU-aS7wg",
+     "titulo": "Her fans kept calling her “ADHD queen” — turns out they were right | ADHD Aha!",
+     "revisado": false
+    },
+    {
+     "id": "yxigzfaJkjQ",
+     "url": "https://www.youtube.com/watch?v=yxigzfaJkjQ",
+     "titulo": "ADHD and avoidance: Why you resist things you actually want to do",
+     "revisado": false
+    },
+    {
+     "id": "J6-ZYugcOBA",
+     "url": "https://www.youtube.com/watch?v=J6-ZYugcOBA",
+     "titulo": "My ADHD debt was worse than you’re imagining. Here’s how I fixed it | Sorry, I Missed This",
+     "revisado": false
+    },
+    {
+     "id": "_4RlxIHvvCg",
+     "url": "https://www.youtube.com/watch?v=_4RlxIHvvCg",
+     "titulo": "ADHD and motivation explained: Why starting is so hard | Experts Answer",
+     "revisado": false
+    },
+    {
+     "id": "I1Uy2goSAq0",
+     "url": "https://www.youtube.com/watch?v=I1Uy2goSAq0",
+     "titulo": "How one mom battled small town prejudice for her kids | Everyone Gets a Juice Box",
+     "revisado": false
+    },
+    {
+     "id": "qXrCljGKzds",
+     "url": "https://www.youtube.com/watch?v=qXrCljGKzds",
+     "titulo": "When ADHD feels like your insides are crawling | ADHD Aha!",
+     "revisado": false
+    },
+    {
+     "id": "tlZulOveLKM",
+     "url": "https://www.youtube.com/watch?v=tlZulOveLKM",
+     "titulo": "Why fidget toys are everywhere (and what it means for neurodivergence) | Hyperfocus",
+     "revisado": false
+    },
+    {
+     "id": "f5aUsb5KHZc",
+     "url": "https://www.youtube.com/watch?v=f5aUsb5KHZc",
+     "titulo": "Parentification: The hidden pattern in ADHD relationships | Sorry, I Missed This",
+     "revisado": false
+    },
+    {
+     "id": "rdoLpZgYp3s",
+     "url": "https://www.youtube.com/watch?v=rdoLpZgYp3s",
+     "titulo": "ADHD and boredom: Why it can feel like torture",
+     "revisado": false
+    },
+    {
+     "id": "MMf3XmPsrvU",
+     "url": "https://www.youtube.com/watch?v=MMf3XmPsrvU",
+     "titulo": "ADHD and self-sabotage explained: Why you get in your own way | Experts Answer",
+     "revisado": false
+    },
+    {
+     "id": "_MijwDD7kYo",
+     "url": "https://www.youtube.com/watch?v=_MijwDD7kYo",
+     "titulo": "The ADHD pattern I only noticed after years of tiny mistakes | ADHD Aha!",
+     "revisado": false
+    },
+    {
+     "id": "26YDfEsE4-g",
+     "url": "https://www.youtube.com/watch?v=26YDfEsE4-g",
+     "titulo": "Why people with ADHD quit therapy (and how to make it work for you) | Hyperfocus",
+     "revisado": false
+    },
+    {
+     "id": "BC5YJ7FZm2M",
+     "url": "https://www.youtube.com/watch?v=BC5YJ7FZm2M",
+     "titulo": "ADHD and family vacations: Why you can’t relax (and what actually helps)",
+     "revisado": false
+    },
+    {
+     "id": "vhAARNPEe7s",
+     "url": "https://www.youtube.com/watch?v=vhAARNPEe7s",
+     "titulo": "ADHD and impulse control: The science behind why willpower fails | Sorry, I Missed This",
+     "revisado": false
+    },
+    {
+     "id": "357NRka4U4E",
+     "url": "https://www.youtube.com/watch?v=357NRka4U4E",
+     "titulo": "How neurodivergent kids helped build a better children’s museum | Everyone Gets A Juice Box",
+     "revisado": false
+    },
+    {
+     "id": "stgwhAesOVY",
+     "url": "https://www.youtube.com/watch?v=stgwhAesOVY",
+     "titulo": "What nobody warned me about ADHD and executive dysfunction | ADHD Aha!",
+     "revisado": false
+    },
+    {
+     "id": "PaYASBbgexA",
+     "url": "https://www.youtube.com/watch?v=PaYASBbgexA",
+     "titulo": "ADHD and organization explained: Why it feels impossible | Experts Answer",
+     "revisado": false
+    },
+    {
+     "id": "5OnBFwPQYjw",
+     "url": "https://www.youtube.com/watch?v=5OnBFwPQYjw",
+     "titulo": "Why good sex can make your ADHD brain spiral | Sorry, I Missed This",
+     "revisado": false
+    },
+    {
+     "id": "35BdhVYvUXE",
+     "url": "https://www.youtube.com/watch?v=35BdhVYvUXE",
+     "titulo": "ADHD and perimenopause: Why your symptoms are suddenly worse",
+     "revisado": false
+    },
+    {
+     "id": "l3YdrcvWJKk",
+     "url": "https://www.youtube.com/watch?v=l3YdrcvWJKk",
+     "titulo": "First-generation parents, neurodivergent kids, and redefining excellence | Everyone Gets a Juice Box",
+     "revisado": false
+    },
+    {
+     "id": "YsWpJPNvz_I",
+     "url": "https://www.youtube.com/watch?v=YsWpJPNvz_I",
+     "titulo": "They told me I’d never go to college. Then ADHD medication changed my life. | ADHD Aha!",
+     "revisado": false
+    },
+    {
+     "id": "BOUt4OW16_Y",
+     "url": "https://www.youtube.com/watch?v=BOUt4OW16_Y",
+     "titulo": "Mindfulness for ADHD explained: What works, what doesn’t, and why | Experts Answer",
+     "revisado": false
+    },
+    {
+     "id": "-Lv7jmdqTUU",
+     "url": "https://www.youtube.com/watch?v=-Lv7jmdqTUU",
+     "titulo": "Why people with ADHD can’t sleep (and what actually helps) | Hyperfocus",
+     "revisado": false
+    },
+    {
+     "id": "1p6avRRo-cU",
+     "url": "https://www.youtube.com/watch?v=1p6avRRo-cU",
+     "titulo": "ADHD, AuDHD, and social skills: Why you feel like too much and not enough",
+     "revisado": false
+    },
+    {
+     "id": "VPhwmq1QnyY",
+     "url": "https://www.youtube.com/watch?v=VPhwmq1QnyY",
+     "titulo": "Why neurodivergent women can’t stop reading smut and romantasy | Sorry, I Missed This",
+     "revisado": false
+    },
+    {
+     "id": "epItTHL9rFg",
+     "url": "https://www.youtube.com/watch?v=epItTHL9rFg",
+     "titulo": "Should you hold your child back a year?  | Opportunity Gap",
+     "revisado": false
+    },
+    {
+     "id": "KDtLd2CGYTc",
+     "url": "https://www.youtube.com/watch?v=KDtLd2CGYTc",
+     "titulo": "Same ADHD diagnosis, opposite reactions — one celebrated, one broke down | ADHD Aha!",
+     "revisado": false
+    },
+    {
+     "id": "7ggyZQlENbE",
+     "url": "https://www.youtube.com/watch?v=7ggyZQlENbE",
+     "titulo": "We didn’t know we had ADHD. Then motherhood hit. | Everyone Gets a Juice Box",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "surdocegueira",
+   "instituicao": "Perkins School for the Blind",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@PerkinsVision",
+   "channelId": "UCHRD0xFQAvhI-5IZBEdYrDA",
+   "canalSegundoAApi": "Perkins School for the Blind",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "Xg_ACCIQEHc",
+     "url": "https://www.youtube.com/watch?v=Xg_ACCIQEHc",
+     "titulo": "Keynote: Braving Advocacy - Building a Path to Access, Belonging, and Opportunity",
+     "revisado": false
+    },
+    {
+     "id": "dLBX20LCex8",
+     "url": "https://www.youtube.com/watch?v=dLBX20LCex8",
+     "titulo": "Starting Early: Building a Strong Future for Your Child",
+     "revisado": false
+    },
+    {
+     "id": "WDNAA8vhFHs",
+     "url": "https://www.youtube.com/watch?v=WDNAA8vhFHs",
+     "titulo": "Partnering for Progress Collaboration in AAC",
+     "revisado": false
+    },
+    {
+     "id": "cqgTJl4OSWM",
+     "url": "https://www.youtube.com/watch?v=cqgTJl4OSWM",
+     "titulo": "Parent Voices: Insights and Inspiration",
+     "revisado": false
+    },
+    {
+     "id": "WpqzDYOf23A",
+     "url": "https://www.youtube.com/watch?v=WpqzDYOf23A",
+     "titulo": "Navigating How to Individualize Support for Children with Autism Spectrum Disorder and CVI",
+     "revisado": false
+    },
+    {
+     "id": "CcaRRDwye38",
+     "url": "https://www.youtube.com/watch?v=CcaRRDwye38",
+     "titulo": "Growing Up Blind: The Supports That Mattered Most",
+     "revisado": false
+    },
+    {
+     "id": "5bBWxsd0v8E",
+     "url": "https://www.youtube.com/watch?v=5bBWxsd0v8E",
+     "titulo": "Facilitating Increased Participation for Infants and Toddlers with Neurodevelopmental Disabilities",
+     "revisado": false
+    },
+    {
+     "id": "ySA8scg14Lc",
+     "url": "https://www.youtube.com/watch?v=ySA8scg14Lc",
+     "titulo": "Bridging the Gap Between Home and School",
+     "revisado": false
+    },
+    {
+     "id": "qLP9Qyqq9bo",
+     "url": "https://www.youtube.com/watch?v=qLP9Qyqq9bo",
+     "titulo": "Accessing Community Sports and Recreation Opportunities: The 'Why' and the 'How'",
+     "revisado": false
+    },
+    {
+     "id": "aad7r3O-gtY",
+     "url": "https://www.youtube.com/watch?v=aad7r3O-gtY",
+     "titulo": "A Journey of Love and Strength",
+     "revisado": false
+    },
+    {
+     "id": "67wLs0jnHDg",
+     "url": "https://www.youtube.com/watch?v=67wLs0jnHDg",
+     "titulo": "A Neurodiversity-Affirming Lens to Advocacy",
+     "revisado": false
+    },
+    {
+     "id": "ayrunspQHEs",
+     "url": "https://www.youtube.com/watch?v=ayrunspQHEs",
+     "titulo": "TransitionTalk: Honoring Choices: Creating a Care Plan for Your Young Adult in Massachusetts",
+     "revisado": false
+    },
+    {
+     "id": "lTD85RWOUcc",
+     "url": "https://www.youtube.com/watch?v=lTD85RWOUcc",
+     "titulo": "Perkins India Short Film-Jhunjhunu",
+     "revisado": false
+    },
+    {
+     "id": "fal2msCqHjk",
+     "url": "https://www.youtube.com/watch?v=fal2msCqHjk",
+     "titulo": "Perkins India Short Film-Jhunjhunu (Accessible)",
+     "revisado": false
+    },
+    {
+     "id": "vWgMVT6jcbc",
+     "url": "https://www.youtube.com/watch?v=vWgMVT6jcbc",
+     "titulo": "Revels 2026 Celebration of Spring Concert at Perkins",
+     "revisado": false
+    },
+    {
+     "id": "Ri8bwTt_0sE",
+     "url": "https://www.youtube.com/watch?v=Ri8bwTt_0sE",
+     "titulo": "Transition Talk: Empowering Fathers",
+     "revisado": false
+    },
+    {
+     "id": "dp7pSBemdJg",
+     "url": "https://www.youtube.com/watch?v=dp7pSBemdJg",
+     "titulo": "10. Perkins CVI Protocol Parent Interview: Wrap up question",
+     "revisado": false
+    },
+    {
+     "id": "h5Xy8ey3zEI",
+     "url": "https://www.youtube.com/watch?v=h5Xy8ey3zEI",
+     "titulo": "2. Perkins CVI Protocol Parent Interview: Interests and motivations",
+     "revisado": false
+    },
+    {
+     "id": "XQ80F0JlGiM",
+     "url": "https://www.youtube.com/watch?v=XQ80F0JlGiM",
+     "titulo": "6. Perkins CVI Protocol Parent Interview: Impact of Color",
+     "revisado": false
+    },
+    {
+     "id": "QJGGjyMGs2c",
+     "url": "https://www.youtube.com/watch?v=QJGGjyMGs2c",
+     "titulo": "9. Perkins CVI Protocol Parent Interview: Lower field, navigating changes in depth",
+     "revisado": false
+    },
+    {
+     "id": "OON1cpjJG9c",
+     "url": "https://www.youtube.com/watch?v=OON1cpjJG9c",
+     "titulo": "7. Perkins CVI Protocol Parent Interview: Impact of Light",
+     "revisado": false
+    },
+    {
+     "id": "NsBFqhru3jM",
+     "url": "https://www.youtube.com/watch?v=NsBFqhru3jM",
+     "titulo": "8. Perkins CVI Protocol Parent Interview: Impact of Motion",
+     "revisado": false
+    },
+    {
+     "id": "KIj6FC59FZ8",
+     "url": "https://www.youtube.com/watch?v=KIj6FC59FZ8",
+     "titulo": "5. Perkins CVI Protocol Parent Interview: Visual Fatigue",
+     "revisado": false
+    },
+    {
+     "id": "9OczzM4s6Jk",
+     "url": "https://www.youtube.com/watch?v=9OczzM4s6Jk",
+     "titulo": "3. Perkins CVI Protocol Parent Interview: Visual attention and awareness",
+     "revisado": false
+    },
+    {
+     "id": "82ied8PoAO0",
+     "url": "https://www.youtube.com/watch?v=82ied8PoAO0",
+     "titulo": "4. Perkins CVI Protocol Parent Interview: Object Recognition",
+     "revisado": false
+    },
+    {
+     "id": "KrdpcVyE97Q",
+     "url": "https://www.youtube.com/watch?v=KrdpcVyE97Q",
+     "titulo": "1. Perkins CVI Protocol Parent Interview: Hopes and Concerns",
+     "revisado": false
+    },
+    {
+     "id": "rilQ1pq24Ec",
+     "url": "https://www.youtube.com/watch?v=rilQ1pq24Ec",
+     "titulo": "2026 Instrumental Recital - Perkins School for the Blind",
+     "revisado": false
+    },
+    {
+     "id": "C2Wph97GPQ8",
+     "url": "https://www.youtube.com/watch?v=C2Wph97GPQ8",
+     "titulo": "Putting the Good in Goodbye: Acknowledging, Managing and Celebrating the Shift to Adult Care",
+     "revisado": false
+    },
+    {
+     "id": "67sVA0f6YfM",
+     "url": "https://www.youtube.com/watch?v=67sVA0f6YfM",
+     "titulo": "Deep Dive Into The Manipulatives Checklist Webinar",
+     "revisado": false
+    },
+    {
+     "id": "0LdjAmGg8QA",
+     "url": "https://www.youtube.com/watch?v=0LdjAmGg8QA",
+     "titulo": "Strategies for an Inclusive Healthcare Transition for Individuals with Disabilities",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "saude-mental",
+   "instituicao": "OPAS/OMS — Organização Pan-Americana da Saúde (PAHO TV)",
+   "idioma": "es/en/pt",
+   "url": "https://www.youtube.com/@pahotv",
+   "channelId": "UCpNnv_kL4Jk8YG_VflnZpmg",
+   "canalSegundoAApi": "PAHO TV",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "o0al4Rfrc4E",
+     "url": "https://www.youtube.com/watch?v=o0al4Rfrc4E",
+     "titulo": "Breastfeeding for a Sustainable Start in Life: Strengthen What Works",
+     "revisado": false
+    },
+    {
+     "id": "IdLEllBLtos",
+     "url": "https://www.youtube.com/watch?v=IdLEllBLtos",
+     "titulo": "Lactancia materna para un comienzo sostenible en la vida: fortalecer lo que funciona",
+     "revisado": false
+    },
+    {
+     "id": "7KvsDycnDoA",
+     "url": "https://www.youtube.com/watch?v=7KvsDycnDoA",
+     "titulo": "Equidad en salud y determinantes sociales: fundamentos conceptuales para la ETS",
+     "revisado": false
+    },
+    {
+     "id": "qGu0jjUDris",
+     "url": "https://www.youtube.com/watch?v=qGu0jjUDris",
+     "titulo": "Breastfeeding for a Sustainable Start in Life: Strengthen What Works (ORIGINAL AUDIO)",
+     "revisado": false
+    },
+    {
+     "id": "I0_TTPeX3bM",
+     "url": "https://www.youtube.com/watch?v=I0_TTPeX3bM",
+     "titulo": "Advanced HIV Disease: CNS infections in Advanced HIV Disease.",
+     "revisado": false
+    },
+    {
+     "id": "q1ad8VoLuWk",
+     "url": "https://www.youtube.com/watch?v=q1ad8VoLuWk",
+     "titulo": "AHD Optimizing health across the lifespan in people with HIV",
+     "revisado": false
+    },
+    {
+     "id": "nL-HZjtIZ84",
+     "url": "https://www.youtube.com/watch?v=nL-HZjtIZ84",
+     "titulo": "Caribbean Community of Practice ECHO. Advanced HIV Disease: Diagnosis, Treatment and Management.",
+     "revisado": false
+    },
+    {
+     "id": "0BYL4-C6u6M",
+     "url": "https://www.youtube.com/watch?v=0BYL4-C6u6M",
+     "titulo": "Reaching Adolescents, Protecting Generations: The Role of Adolescent Health Services in EMTCT Plus",
+     "revisado": false
+    },
+    {
+     "id": "KX29Lec4bhw",
+     "url": "https://www.youtube.com/watch?v=KX29Lec4bhw",
+     "titulo": "Community of practice: From Data to Impact- Guyana’s Journey Towards EMTCT of HIV and Syphilis",
+     "revisado": false
+    },
+    {
+     "id": "hDnBHxLsiL8",
+     "url": "https://www.youtube.com/watch?v=hDnBHxLsiL8",
+     "titulo": "Laboratory Quality: the basis of diagnosis, care and treatment: A key Pillar for EMTCT",
+     "revisado": false
+    },
+    {
+     "id": "97b8o9TX0pY",
+     "url": "https://www.youtube.com/watch?v=97b8o9TX0pY",
+     "titulo": "Syphilis in Pregnancy: Screening and treatment of the partner to ensure positive  outcomes-S5 Part 2",
+     "revisado": false
+    },
+    {
+     "id": "ZSuf6LtlZNU",
+     "url": "https://www.youtube.com/watch?v=ZSuf6LtlZNU",
+     "titulo": "Webinar: Screening and Clinical Management of the Hepatitis B Exposed Infant (Session 4)",
+     "revisado": false
+    },
+    {
+     "id": "9xBKcmoTT10",
+     "url": "https://www.youtube.com/watch?v=9xBKcmoTT10",
+     "titulo": "Prep in Pregnancy: Because every mother deserves the tools to protect herself and her baby",
+     "revisado": false
+    },
+    {
+     "id": "Yd2Xaq1PPnI",
+     "url": "https://www.youtube.com/watch?v=Yd2Xaq1PPnI",
+     "titulo": "Screening and Clinical Management of the Pregnant Woman with Hepatitis B.   (Session 3)",
+     "revisado": false
+    },
+    {
+     "id": "l5yExPduaAE",
+     "url": "https://www.youtube.com/watch?v=l5yExPduaAE",
+     "titulo": "El Niño y la salud en las Américas: fortalecimiento de la preparación y la acción anticipatoria",
+     "revisado": false
+    },
+    {
+     "id": "bubfM79pcQ8",
+     "url": "https://www.youtube.com/watch?v=bubfM79pcQ8",
+     "titulo": "Hablemos de salud Ep 30 - AIRE Y SALUD",
+     "revisado": false
+    },
+    {
+     "id": "tOjkM4NyMlo",
+     "url": "https://www.youtube.com/watch?v=tOjkM4NyMlo",
+     "titulo": "Prácticas clínicas no basadas en evidencia: Cesáreas, apisiotonimías, Kristeller",
+     "revisado": false
+    },
+    {
+     "id": "0-WcH-R0VFY",
+     "url": "https://www.youtube.com/watch?v=0-WcH-R0VFY",
+     "titulo": "Going Global for Local Impact: A Preview of ISPAH Congress 2026",
+     "revisado": false
+    },
+    {
+     "id": "meYL7bY6ta8",
+     "url": "https://www.youtube.com/watch?v=meYL7bY6ta8",
+     "titulo": "Pre-approved protocolos",
+     "revisado": false
+    },
+    {
+     "id": "fydajrWB1Y8",
+     "url": "https://www.youtube.com/watch?v=fydajrWB1Y8",
+     "titulo": "Proyección global para un impacto local: un adelanto del Congreso ISPAH 2026",
+     "revisado": false
+    },
+    {
+     "id": "K90831KbmQY",
+     "url": "https://www.youtube.com/watch?v=K90831KbmQY",
+     "titulo": "Graduamos en Ecuador a 21 nuevos epidemiólogos de campo con apoyo del proyecto PROTECT",
+     "revisado": false
+    },
+    {
+     "id": "6815h5iz1dA",
+     "url": "https://www.youtube.com/watch?v=6815h5iz1dA",
+     "titulo": "World Drowning Prevention Day 2026: Unite to Turn the Tide",
+     "revisado": false
+    },
+    {
+     "id": "UhQ9WQkqiNY",
+     "url": "https://www.youtube.com/watch?v=UhQ9WQkqiNY",
+     "titulo": "Día Mundial para la Prevención de los Ahogamientos 2026: Unidos para cambiar el rumbo",
+     "revisado": false
+    },
+    {
+     "id": "R6v3n_TP6nQ",
+     "url": "https://www.youtube.com/watch?v=R6v3n_TP6nQ",
+     "titulo": "One month after the earthquakes in Venezuela, a message from Dr. Jarbas Barbosa, Director of PAHO",
+     "revisado": false
+    },
+    {
+     "id": "z6Uv5wGA_Iw",
+     "url": "https://www.youtube.com/watch?v=z6Uv5wGA_Iw",
+     "titulo": "A un mes de los terremotos en Venezuela - Mensaje del Dr. Jarbas Barbosa, Director de las OPS",
+     "revisado": false
+    },
+    {
+     "id": "pDnB55c9h8U",
+     "url": "https://www.youtube.com/watch?v=pDnB55c9h8U",
+     "titulo": "Estratégias para prevenir, detectar e manejar a sepse neonatal no contexto da RAM",
+     "revisado": false
+    },
+    {
+     "id": "KU7D2Ay6nMM",
+     "url": "https://www.youtube.com/watch?v=KU7D2Ay6nMM",
+     "titulo": "Strategies for the Prevention, Detection, and Management of Neonatal Sepsis in the Context of AMR",
+     "revisado": false
+    },
+    {
+     "id": "L7j-7mUg29M",
+     "url": "https://www.youtube.com/watch?v=L7j-7mUg29M",
+     "titulo": "Estrategias para prevenir, detectar y tratar la sepsis neonatal frente a la RAM",
+     "revisado": false
+    },
+    {
+     "id": "cNhPrvBtwGU",
+     "url": "https://www.youtube.com/watch?v=cNhPrvBtwGU",
+     "titulo": "ICD-11 Training Series | Session 3: ICD-11 Coding Tool",
+     "revisado": false
+    },
+    {
+     "id": "vcAPakL-xys",
+     "url": "https://www.youtube.com/watch?v=vcAPakL-xys",
+     "titulo": "India UNDP Fund -  Community of Practice:  Laboratory Quality: A Pillar for EMTCT",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "saude-mental",
+   "instituicao": "UNICEF Brasil",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/@unicefbrasil",
+   "channelId": "UC1776BaMxEfOYH19UhsQ5Vw",
+   "canalSegundoAApi": "UNICEF Brasil",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "rat8mVIbpV8",
+     "url": "https://www.youtube.com/watch?v=rat8mVIbpV8",
+     "titulo": "Agosto Dourado: como Alice transformou leite materno em solidariedade | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "kfdtI_uMCOQ",
+     "url": "https://www.youtube.com/watch?v=kfdtI_uMCOQ",
+     "titulo": "Uma merenda que alimenta muito mais do que o corpo | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "j61aB0YmkeM",
+     "url": "https://www.youtube.com/watch?v=j61aB0YmkeM",
+     "titulo": "Como ajudar a levar água a mais pessoas fez Kaio acreditar em si mesmo | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "27TSuPZM65s",
+     "url": "https://www.youtube.com/watch?v=27TSuPZM65s",
+     "titulo": "Transformando Dados em Mudança: Ciência e Proteção para Mulheres em Manaus | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "f2QKqPABjkc",
+     "url": "https://www.youtube.com/watch?v=f2QKqPABjkc",
+     "titulo": "Puerpério, com Sheila Gonzalez | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "KsXYx-Jc8_0",
+     "url": "https://www.youtube.com/watch?v=KsXYx-Jc8_0",
+     "titulo": "Plano de parto, com Renata Reis | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "bH4tMKAuhKQ",
+     "url": "https://www.youtube.com/watch?v=bH4tMKAuhKQ",
+     "titulo": "Parto humanizado, com Mayra Calvette | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "AUu7sCLjXw8",
+     "url": "https://www.youtube.com/watch?v=AUu7sCLjXw8",
+     "titulo": "Parto: mitos e verdades, com Sheila Gonzalez | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "8KRM-fgO2Z4",
+     "url": "https://www.youtube.com/watch?v=8KRM-fgO2Z4",
+     "titulo": "Sistema de Alertas da Terra Indígena Yanomami | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "7EBImD-FuqY",
+     "url": "https://www.youtube.com/watch?v=7EBImD-FuqY",
+     "titulo": "Oficina RS5 do Selo UNICEF no Encontro do Congemas em Fortaleza – 16/06/2026 | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "7DQ8BZ0dEY0",
+     "url": "https://www.youtube.com/watch?v=7DQ8BZ0dEY0",
+     "titulo": "Conheça a jornada de Isabel para proteger o futuro de sua comunidade quilombola | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "MDNvaG2Oep4",
+     "url": "https://www.youtube.com/watch?v=MDNvaG2Oep4",
+     "titulo": "Parto normal: uma escolha que merece respeito (salão) | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "35iFbn3hAgo",
+     "url": "https://www.youtube.com/watch?v=35iFbn3hAgo",
+     "titulo": "Parto normal: uma escolha que merece respeito (supermercado) | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "ANFtzCDu0k8",
+     "url": "https://www.youtube.com/watch?v=ANFtzCDu0k8",
+     "titulo": "UNICEF e parceiros em campo | Pará | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "BMELKqkmvV4",
+     "url": "https://www.youtube.com/watch?v=BMELKqkmvV4",
+     "titulo": "“Sem água a gente não sobrevive” | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "kiLYjqLdpSw",
+     "url": "https://www.youtube.com/watch?v=kiLYjqLdpSw",
+     "titulo": "“O UNICEF foi meu início de vida ativa na sociedade civil” | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "ClGyX0qz2E8",
+     "url": "https://www.youtube.com/watch?v=ClGyX0qz2E8",
+     "titulo": "Oficina de Projetação #EntrenoClimaUNICEF|  UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "Rv0ZAVlZo6Y",
+     "url": "https://www.youtube.com/watch?v=Rv0ZAVlZo6Y",
+     "titulo": "UNICEF e parceiros em campo | Manaus | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "092t2EwHMn8",
+     "url": "https://www.youtube.com/watch?v=092t2EwHMn8",
+     "titulo": "Selo UNICEF - Lei da Escuta Protegida - Como preencher | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "B2l1qCG3wU8",
+     "url": "https://www.youtube.com/watch?v=B2l1qCG3wU8",
+     "titulo": "Uma nova chance para Frank Davi | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "dWruCas1DX8",
+     "url": "https://www.youtube.com/watch?v=dWruCas1DX8",
+     "titulo": "Água, saneamento e higiene (WASH) no território indígena Munduruku | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "d65NnAd78EI",
+     "url": "https://www.youtube.com/watch?v=d65NnAd78EI",
+     "titulo": "UNICEF e parceiros em campo com a UAPI no Rio de Janeiro | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "JHgdV7zCXLc",
+     "url": "https://www.youtube.com/watch?v=JHgdV7zCXLc",
+     "titulo": "Estudo Câmeras Corporais, São Paulo | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "SDmVfnNPgPI",
+     "url": "https://www.youtube.com/watch?v=SDmVfnNPgPI",
+     "titulo": "A proteção de crianças e adolescentes em Soure contada por quem faz acontecer | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "VVaUh8q4Q94",
+     "url": "https://www.youtube.com/watch?v=VVaUh8q4Q94",
+     "titulo": "[English] A Estufa Improvável | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "6lIzoU4SF8E",
+     "url": "https://www.youtube.com/watch?v=6lIzoU4SF8E",
+     "titulo": "[FRANÇAIS] Selo UNICEF - Child-Friendly Cities | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "pLKcL2wCwio",
+     "url": "https://www.youtube.com/watch?v=pLKcL2wCwio",
+     "titulo": "[ENGLISH] Selo UNICEF -Child-Friendly Cities | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "Zg3y4_4IE4I",
+     "url": "https://www.youtube.com/watch?v=Zg3y4_4IE4I",
+     "titulo": "A pauta climática também é coisa de criança e adolescente | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "dLI2nSMDPOc",
+     "url": "https://www.youtube.com/watch?v=dLI2nSMDPOc",
+     "titulo": "Estufa Improvável | UNICEF Brasil",
+     "revisado": false
+    },
+    {
+     "id": "NKCck3VG_Wg",
+     "url": "https://www.youtube.com/watch?v=NKCck3VG_Wg",
+     "titulo": "A natureza como sala de aula em Canguaretama, no Rio Grande do Norte | UNICEF Brasil",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "sindrome-de-down",
+   "instituicao": "Movimento Down",
+   "idioma": "pt",
+   "url": "https://www.youtube.com/canalmovimentodown",
+   "channelId": "UCBtmpiFZnK3-8AZjs1BbRbQ",
+   "canalSegundoAApi": "CanalMovimentoDown",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "kBFScd_fQsI",
+     "url": "https://www.youtube.com/watch?v=kBFScd_fQsI",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Treino simples 2.",
+     "revisado": false
+    },
+    {
+     "id": "KhqU8tqIoBI",
+     "url": "https://www.youtube.com/watch?v=KhqU8tqIoBI",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - No escritório.",
+     "revisado": false
+    },
+    {
+     "id": "HFYpBYleeJM",
+     "url": "https://www.youtube.com/watch?v=HFYpBYleeJM",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Em família",
+     "revisado": false
+    },
+    {
+     "id": "Xyqrb0_j8Kw",
+     "url": "https://www.youtube.com/watch?v=Xyqrb0_j8Kw",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Adultos",
+     "revisado": false
+    },
+    {
+     "id": "VllhRIX9NgI",
+     "url": "https://www.youtube.com/watch?v=VllhRIX9NgI",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Adolescentes.",
+     "revisado": false
+    },
+    {
+     "id": "9csY1UF_ZZc",
+     "url": "https://www.youtube.com/watch?v=9csY1UF_ZZc",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Crianças",
+     "revisado": false
+    },
+    {
+     "id": "vTM1_v49IrU",
+     "url": "https://www.youtube.com/watch?v=vTM1_v49IrU",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Treino simples.",
+     "revisado": false
+    },
+    {
+     "id": "AbUr-37d9pA",
+     "url": "https://www.youtube.com/watch?v=AbUr-37d9pA",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Alongamento",
+     "revisado": false
+    },
+    {
+     "id": "x3g4YqHNC8c",
+     "url": "https://www.youtube.com/watch?v=x3g4YqHNC8c",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Pré treino.",
+     "revisado": false
+    },
+    {
+     "id": "I5ea5tnzNOs",
+     "url": "https://www.youtube.com/watch?v=I5ea5tnzNOs",
+     "titulo": "Mantendo o corpo ativo durante a pandemia, com Kiki Faria - Abertura",
+     "revisado": false
+    },
+    {
+     "id": "21dz_EiZmEE",
+     "url": "https://www.youtube.com/watch?v=21dz_EiZmEE",
+     "titulo": "CORONAVÍRUS: VACINAÇÃO E CUIDADOS DEPOIS DA VACINA - LINGUAGEM SIMPLES E ACESSÍVEL.",
+     "revisado": false
+    },
+    {
+     "id": "5DPUyqt44zU",
+     "url": "https://www.youtube.com/watch?v=5DPUyqt44zU",
+     "titulo": "Orientação acessível em tempos de COVID-19 - Encontro 1 - Prevenção à saúde, COVID–19 e deficiências",
+     "revisado": false
+    },
+    {
+     "id": "p0oyxHHvE5M",
+     "url": "https://www.youtube.com/watch?v=p0oyxHHvE5M",
+     "titulo": "Orientação acessível em tempos de COVID-19 - Encontro 2 - Comunicação e deficiência",
+     "revisado": false
+    },
+    {
+     "id": "df-V4rqDX6E",
+     "url": "https://www.youtube.com/watch?v=df-V4rqDX6E",
+     "titulo": "Orientação acessível em tempos de COVID-19 - Encontro 3 - Conhecendo os materiais acessíveis",
+     "revisado": false
+    },
+    {
+     "id": "8mT0mrK8RB8",
+     "url": "https://www.youtube.com/watch?v=8mT0mrK8RB8",
+     "titulo": "Orientação acessível em tempos de COVID-19 - Encontro 4 - Acolhimento e facilitação",
+     "revisado": false
+    },
+    {
+     "id": "ce5P19x8NbU",
+     "url": "https://www.youtube.com/watch?v=ce5P19x8NbU",
+     "titulo": "CORONAVÍRUS - COMO PREVENIR. LINGUAGEM SIMPLES E ACESSÍVEL.",
+     "revisado": false
+    },
+    {
+     "id": "bglFZdoE7ww",
+     "url": "https://www.youtube.com/watch?v=bglFZdoE7ww",
+     "titulo": "Como trocar com outras famílias sobre estimulação?",
+     "revisado": false
+    },
+    {
+     "id": "97CYSjINa2U",
+     "url": "https://www.youtube.com/watch?v=97CYSjINa2U",
+     "titulo": "Como promover encontros com outras famílias da minha Região?",
+     "revisado": false
+    },
+    {
+     "id": "AAarqCfk3fw",
+     "url": "https://www.youtube.com/watch?v=AAarqCfk3fw",
+     "titulo": "10 anos da Convenção sobre os Direitos das Pessoas com Deficiência.",
+     "revisado": false
+    },
+    {
+     "id": "HKOqDCd_ExU",
+     "url": "https://www.youtube.com/watch?v=HKOqDCd_ExU",
+     "titulo": "Alex Duarte no MGT 2019.",
+     "revisado": false
+    },
+    {
+     "id": "Za6xp53Fr_Q",
+     "url": "https://www.youtube.com/watch?v=Za6xp53Fr_Q",
+     "titulo": "Tathi Piancastelli no MGT 2019.",
+     "revisado": false
+    },
+    {
+     "id": "_zWcDCYSwqo",
+     "url": "https://www.youtube.com/watch?v=_zWcDCYSwqo",
+     "titulo": "Chœur Symphonique Jeune de Goiás - Quai Wilson, 23/6/2018.",
+     "revisado": false
+    },
+    {
+     "id": "MiGeJt0XLCc",
+     "url": "https://www.youtube.com/watch?v=MiGeJt0XLCc",
+     "titulo": "Famílias Aconchegantes II",
+     "revisado": false
+    },
+    {
+     "id": "ed9Dh5FVDXw",
+     "url": "https://www.youtube.com/watch?v=ed9Dh5FVDXw",
+     "titulo": "10 anos da Convenção da ONU sobre os Direitos das Pessoas com Deficiência.",
+     "revisado": false
+    },
+    {
+     "id": "iNQoj56-Gqg",
+     "url": "https://www.youtube.com/watch?v=iNQoj56-Gqg",
+     "titulo": "Canta e Lê",
+     "revisado": false
+    },
+    {
+     "id": "8PL130Ao3tU",
+     "url": "https://www.youtube.com/watch?v=8PL130Ao3tU",
+     "titulo": "Campanha Salve o Movimento Down",
+     "revisado": false
+    },
+    {
+     "id": "0aEm_aQFsu8",
+     "url": "https://www.youtube.com/watch?v=0aEm_aQFsu8",
+     "titulo": "Colabore com o Movimento Down",
+     "revisado": false
+    },
+    {
+     "id": "Z5ljBl50LGk",
+     "url": "https://www.youtube.com/watch?v=Z5ljBl50LGk",
+     "titulo": "Crescer com Síndrome de Down - Gabriel e Gonzalo",
+     "revisado": false
+    },
+    {
+     "id": "piBaI47DKfs",
+     "url": "https://www.youtube.com/watch?v=piBaI47DKfs",
+     "titulo": "Crescer com Síndrome de Down - José Carlos e Márcia",
+     "revisado": false
+    },
+    {
+     "id": "Et9WZU4N_0Q",
+     "url": "https://www.youtube.com/watch?v=Et9WZU4N_0Q",
+     "titulo": "Crescer com Síndrome de Down - Tutorial 12",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "sindrome-de-down",
+   "instituicao": "Down Syndrome Education International",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@dseinternational",
+   "channelId": "UC63qr-wvLUp_V1hwQg2tYeA",
+   "canalSegundoAApi": "DSE International",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "rOSDWVkQpYM",
+     "url": "https://www.youtube.com/watch?v=rOSDWVkQpYM",
+     "titulo": "Radisson Social Festive Campaign 2023",
+     "revisado": false
+    },
+    {
+     "id": "O28-phXFn-4",
+     "url": "https://www.youtube.com/watch?v=O28-phXFn-4",
+     "titulo": "Melia Desert Palm Ad Campaign",
+     "revisado": false
+    },
+    {
+     "id": "Uvm_Rmnw52k",
+     "url": "https://www.youtube.com/watch?v=Uvm_Rmnw52k",
+     "titulo": "Wyndham Social Festive Campaign 2023",
+     "revisado": false
+    },
+    {
+     "id": "vJUAi3QGCYQ",
+     "url": "https://www.youtube.com/watch?v=vJUAi3QGCYQ",
+     "titulo": "PETROL Denim Ad Campaign",
+     "revisado": false
+    },
+    {
+     "id": "64cv4pZpqHE",
+     "url": "https://www.youtube.com/watch?v=64cv4pZpqHE",
+     "titulo": "Rian Fernandez - Editorial Fashion Film",
+     "revisado": false
+    },
+    {
+     "id": "r-QUoXYiIxI",
+     "url": "https://www.youtube.com/watch?v=r-QUoXYiIxI",
+     "titulo": "Antiage Wellness Campaign",
+     "revisado": false
+    },
+    {
+     "id": "n4auUTQYsDA",
+     "url": "https://www.youtube.com/watch?v=n4auUTQYsDA",
+     "titulo": "Calivo Couture - Men's Collection Editorial",
+     "revisado": false
+    },
+    {
+     "id": "sEB71AiPZWc",
+     "url": "https://www.youtube.com/watch?v=sEB71AiPZWc",
+     "titulo": "Michael Cinco - MEGAMAN Magazine Editorial",
+     "revisado": false
+    },
+    {
+     "id": "WRoEQJTmg48",
+     "url": "https://www.youtube.com/watch?v=WRoEQJTmg48",
+     "titulo": "The Whales Fashion Film - Dubai Fashion Week 2023",
+     "revisado": false
+    },
+    {
+     "id": "4OOHOYBObOE",
+     "url": "https://www.youtube.com/watch?v=4OOHOYBObOE",
+     "titulo": "Rian Fernandez - Arab Fashion Week Editorial",
+     "revisado": false
+    },
+    {
+     "id": "CagM7wrrx9Q",
+     "url": "https://www.youtube.com/watch?v=CagM7wrrx9Q",
+     "titulo": "The Whales Campaign II",
+     "revisado": false
+    },
+    {
+     "id": "KlHK70t8-zo",
+     "url": "https://www.youtube.com/watch?v=KlHK70t8-zo",
+     "titulo": "PETROL Denim Ad Campaign",
+     "revisado": false
+    },
+    {
+     "id": "bK0GBmQqmgY",
+     "url": "https://www.youtube.com/watch?v=bK0GBmQqmgY",
+     "titulo": "New York Fashion Week 2022",
+     "revisado": false
+    },
+    {
+     "id": "A8_-kX_1L_Y",
+     "url": "https://www.youtube.com/watch?v=A8_-kX_1L_Y",
+     "titulo": "The Whales Campaign",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "altas-habilidades",
+   "instituicao": "NAGC — National Association for Gifted Children",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@NAGCgifted",
+   "channelId": "UC4md2L4T_0CF1oJFCuzzAMw",
+   "canalSegundoAApi": "nagcgifted",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "LG0hjLNrNpo",
+     "url": "https://www.youtube.com/watch?v=LG0hjLNrNpo",
+     "titulo": "NAGC Legacy Archive Interview with Dr. Linda Silverman (2026)",
+     "revisado": false
+    },
+    {
+     "id": "vfzJxPF_GpQ",
+     "url": "https://www.youtube.com/watch?v=vfzJxPF_GpQ",
+     "titulo": "Volunteer Appreciation Week",
+     "revisado": false
+    },
+    {
+     "id": "oy6Y1e8RA2M",
+     "url": "https://www.youtube.com/watch?v=oy6Y1e8RA2M",
+     "titulo": "Volunteer Appreciation Week",
+     "revisado": false
+    },
+    {
+     "id": "PncwwJP6ROg",
+     "url": "https://www.youtube.com/watch?v=PncwwJP6ROg",
+     "titulo": "Volunteer Appreciation Week Mark and Jessica",
+     "revisado": false
+    },
+    {
+     "id": "zbOuvkvAxsQ",
+     "url": "https://www.youtube.com/watch?v=zbOuvkvAxsQ",
+     "titulo": "Volunteer Appreciation Week",
+     "revisado": false
+    },
+    {
+     "id": "t23olPXsl4U",
+     "url": "https://www.youtube.com/watch?v=t23olPXsl4U",
+     "titulo": "Volunteer Appreciation Week",
+     "revisado": false
+    },
+    {
+     "id": "EZX13lNbc_g",
+     "url": "https://www.youtube.com/watch?v=EZX13lNbc_g",
+     "titulo": "Darianna Castillo",
+     "revisado": false
+    },
+    {
+     "id": "bMpmKtltogQ",
+     "url": "https://www.youtube.com/watch?v=bMpmKtltogQ",
+     "titulo": "Isabel Franco",
+     "revisado": false
+    },
+    {
+     "id": "R-d_-RHxhvU",
+     "url": "https://www.youtube.com/watch?v=R-d_-RHxhvU",
+     "titulo": "Jose Rodriguez Gonzalez",
+     "revisado": false
+    },
+    {
+     "id": "U17hB2tcuDY",
+     "url": "https://www.youtube.com/watch?v=U17hB2tcuDY",
+     "titulo": "Carly Cabrera",
+     "revisado": false
+    },
+    {
+     "id": "j5GC6a3qIZo",
+     "url": "https://www.youtube.com/watch?v=j5GC6a3qIZo",
+     "titulo": "Lauryn Davis",
+     "revisado": false
+    },
+    {
+     "id": "9adIqF4SzfI",
+     "url": "https://www.youtube.com/watch?v=9adIqF4SzfI",
+     "titulo": "Nyla Stokes",
+     "revisado": false
+    },
+    {
+     "id": "hK4GSVP3k8Q",
+     "url": "https://www.youtube.com/watch?v=hK4GSVP3k8Q",
+     "titulo": "Nicholas Baptiste Jones",
+     "revisado": false
+    },
+    {
+     "id": "7u1vUIB9OVI",
+     "url": "https://www.youtube.com/watch?v=7u1vUIB9OVI",
+     "titulo": "NAGC Legacy Archive Interview with Del Siegle (2018)",
+     "revisado": false
+    },
+    {
+     "id": "AHKKKnaoek0",
+     "url": "https://www.youtube.com/watch?v=AHKKKnaoek0",
+     "titulo": "The History of LGBTQ+ Pride: A Movement Lead by Gifted Persons",
+     "revisado": false
+    },
+    {
+     "id": "aUv4PjX8Usc",
+     "url": "https://www.youtube.com/watch?v=aUv4PjX8Usc",
+     "titulo": "The Students Speak: Thoughts on Living with Perfectionism",
+     "revisado": false
+    },
+    {
+     "id": "335ihGH-ePU",
+     "url": "https://www.youtube.com/watch?v=335ihGH-ePU",
+     "titulo": "The Faces & Facets of Perfectionism: A Primer",
+     "revisado": false
+    },
+    {
+     "id": "RMa2UCjcMY0",
+     "url": "https://www.youtube.com/watch?v=RMa2UCjcMY0",
+     "titulo": "Celebrating NAGC Volunteers: A Thank You from Our President",
+     "revisado": false
+    },
+    {
+     "id": "k5AQuswLBTI",
+     "url": "https://www.youtube.com/watch?v=k5AQuswLBTI",
+     "titulo": "Volunteer Spotlight: Amy McShane",
+     "revisado": false
+    },
+    {
+     "id": "MsJkdf5E7hY",
+     "url": "https://www.youtube.com/watch?v=MsJkdf5E7hY",
+     "titulo": "Join us in Pittsburgh for NAGC25!",
+     "revisado": false
+    },
+    {
+     "id": "om16SBMOro4",
+     "url": "https://www.youtube.com/watch?v=om16SBMOro4",
+     "titulo": "From the Sidelines: Supporting Your Perfectionistic Gifted Child | NAGC Webinar",
+     "revisado": false
+    },
+    {
+     "id": "VeQHWRTSYcM",
+     "url": "https://www.youtube.com/watch?v=VeQHWRTSYcM",
+     "titulo": "Gifted Well-Being as a Measure of Equity | NAGC Teachers Summit",
+     "revisado": false
+    },
+    {
+     "id": "J1aoMIyd9RE",
+     "url": "https://www.youtube.com/watch?v=J1aoMIyd9RE",
+     "titulo": "Harnessing AI to Differentiate Secondary ELA Lessons | NAGC Teachers Summit",
+     "revisado": false
+    },
+    {
+     "id": "EuLIS_A2gbo",
+     "url": "https://www.youtube.com/watch?v=EuLIS_A2gbo",
+     "titulo": "Empowering Educators: NAGC Teachers Summit with Stephanie Higgs",
+     "revisado": false
+    },
+    {
+     "id": "SMevP1p8Orw",
+     "url": "https://www.youtube.com/watch?v=SMevP1p8Orw",
+     "titulo": "Jenkins Student Award Winner: David",
+     "revisado": false
+    },
+    {
+     "id": "jMidIPNC8Eo",
+     "url": "https://www.youtube.com/watch?v=jMidIPNC8Eo",
+     "titulo": "Empower Your Students with Choice! | 2025 NAGC Teachers Summit",
+     "revisado": false
+    },
+    {
+     "id": "GMsF-E7kMww",
+     "url": "https://www.youtube.com/watch?v=GMsF-E7kMww",
+     "titulo": "Gifted 101: The 5 Things You Need to Know",
+     "revisado": false
+    },
+    {
+     "id": "-CG4TL1GS9Y",
+     "url": "https://www.youtube.com/watch?v=-CG4TL1GS9Y",
+     "titulo": "2022-2023 State of the States in Gifted Education Webinar",
+     "revisado": false
+    },
+    {
+     "id": "AU60RvEvZ4o",
+     "url": "https://www.youtube.com/watch?v=AU60RvEvZ4o",
+     "titulo": "NAGC Legacy Archive Interview With Dr. Sylvia Rimm",
+     "revisado": false
+    },
+    {
+     "id": "nbGxto66FkY",
+     "url": "https://www.youtube.com/watch?v=nbGxto66FkY",
+     "titulo": "NAGC Legacy Archive Interview With Dr. Donna Ford",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "altas-habilidades",
+   "instituicao": "Johns Hopkins Center for Talented Youth",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@CTYJohnsHopkins",
+   "channelId": "UCInKECJOhjC95PAYwTPysfg",
+   "canalSegundoAApi": "Johns Hopkins Center for Talented Youth",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "oYW8Ky1Svsg",
+     "url": "https://www.youtube.com/watch?v=oYW8Ky1Svsg",
+     "titulo": "College Planning: How Early Is Too Early? | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "S09VINTcs8g",
+     "url": "https://www.youtube.com/watch?v=S09VINTcs8g",
+     "titulo": "Discover CTY | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "MzcDo-bpYxc",
+     "url": "https://www.youtube.com/watch?v=MzcDo-bpYxc",
+     "titulo": "Decoding College: What Type of School (and Degree) Fits You? | Johns Hopkins CTY",
+     "revisado": false
+    },
+    {
+     "id": "k94HFHj7u7Q",
+     "url": "https://www.youtube.com/watch?v=k94HFHj7u7Q",
+     "titulo": "Cooke Young Scholars Application Workshop | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "47Wr13nu4SE",
+     "url": "https://www.youtube.com/watch?v=47Wr13nu4SE",
+     "titulo": "The Importance of Peer Community | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "U7MDvkq_MvI",
+     "url": "https://www.youtube.com/watch?v=U7MDvkq_MvI",
+     "titulo": "Introduction to the Cooke Young Scholars Program | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "_1s11T4XfvI",
+     "url": "https://www.youtube.com/watch?v=_1s11T4XfvI",
+     "titulo": "Discover CTY in South Florida | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "5BcO9Rh9Cto",
+     "url": "https://www.youtube.com/watch?v=5BcO9Rh9Cto",
+     "titulo": "Selecting Rigorous Courses for Academic Excellence | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "Z9NcYbOHUBc",
+     "url": "https://www.youtube.com/watch?v=Z9NcYbOHUBc",
+     "titulo": "The Power of Play | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "Dk9InStFHPQ",
+     "url": "https://www.youtube.com/watch?v=Dk9InStFHPQ",
+     "titulo": "The Latest Trends in College Admissions | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "e-AmLBrplKg",
+     "url": "https://www.youtube.com/watch?v=e-AmLBrplKg",
+     "titulo": "Failure as a Stepping Stone to Success | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "-S-7GITX0PQ",
+     "url": "https://www.youtube.com/watch?v=-S-7GITX0PQ",
+     "titulo": "CTY Scholars Information Session  | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "sp4d5i2K5Dc",
+     "url": "https://www.youtube.com/watch?v=sp4d5i2K5Dc",
+     "titulo": "An In-Depth Guide to College Decision Plans  | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "GBOcsH8z1Qw",
+     "url": "https://www.youtube.com/watch?v=GBOcsH8z1Qw",
+     "titulo": "The CTY Experience | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "iAf4a-1RWvA",
+     "url": "https://www.youtube.com/watch?v=iAf4a-1RWvA",
+     "titulo": "Smart Kids, Testing, and Labels. Oh My! |  | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "ibD9KLjKqWw",
+     "url": "https://www.youtube.com/watch?v=ibD9KLjKqWw",
+     "titulo": "Cooke Young Scholars Application Workshop | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "SfxKNSRfoAU",
+     "url": "https://www.youtube.com/watch?v=SfxKNSRfoAU",
+     "titulo": "The CTY Experience: Course Types | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "Qickyzq-OyQ",
+     "url": "https://www.youtube.com/watch?v=Qickyzq-OyQ",
+     "titulo": "College Research and Building Your College List | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "prIaZtBckOU",
+     "url": "https://www.youtube.com/watch?v=prIaZtBckOU",
+     "titulo": "Introduction to the Cooke Young Scholars Program | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "GlwxFYYV2NY",
+     "url": "https://www.youtube.com/watch?v=GlwxFYYV2NY",
+     "titulo": "Making the Most of Summer | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "OuG7lmie-Xw",
+     "url": "https://www.youtube.com/watch?v=OuG7lmie-Xw",
+     "titulo": "High School Course Selection: How to Reach Your Goals | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "HQHu-GBP-MM",
+     "url": "https://www.youtube.com/watch?v=HQHu-GBP-MM",
+     "titulo": "Why Extracurriculars are Essential, Not Extra | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "nrPa3CxLtB4",
+     "url": "https://www.youtube.com/watch?v=nrPa3CxLtB4",
+     "titulo": "CTY Scholars Information Session | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "2m_d_vJCLqM",
+     "url": "https://www.youtube.com/watch?v=2m_d_vJCLqM",
+     "titulo": "Inside Highly Selective College Admissions | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "qEsmitVs76Y",
+     "url": "https://www.youtube.com/watch?v=qEsmitVs76Y",
+     "titulo": "5 Questions with Christina Yu | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "3MC_FSRgZI0",
+     "url": "https://www.youtube.com/watch?v=3MC_FSRgZI0",
+     "titulo": "5 Questions with Dave Jha | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "Ll1NrW-GzfY",
+     "url": "https://www.youtube.com/watch?v=Ll1NrW-GzfY",
+     "titulo": "Cognitive Skills: A Potential Key to Understanding Success in the Online Classroom | JHU CTY",
+     "revisado": false
+    },
+    {
+     "id": "WR5xVGpqThQ",
+     "url": "https://www.youtube.com/watch?v=WR5xVGpqThQ",
+     "titulo": "CTY's Vision for Educating Advanced Learners | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "R9DvZHf8L7I",
+     "url": "https://www.youtube.com/watch?v=R9DvZHf8L7I",
+     "titulo": "CTY Alumni Reflections and Future Visions  | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    },
+    {
+     "id": "vWu1RcwyUHg",
+     "url": "https://www.youtube.com/watch?v=vWu1RcwyUHg",
+     "titulo": "CTY’s History in the Field of Advanced Learning | Johns Hopkins Center for Talented Youth",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "altas-habilidades",
+   "instituicao": "Belin-Blank Center — University of Iowa",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCOrOffPtkQegDU494nxcHjQ",
+   "channelId": "UCOrOffPtkQegDU494nxcHjQ",
+   "canalSegundoAApi": "Belin Blank Center",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "nZNJ_ofii-o",
+     "url": "https://www.youtube.com/watch?v=nZNJ_ofii-o",
+     "titulo": "Belin-Blank Advanced Learners Institute:  Introducing Dr. Laurie Croft",
+     "revisado": false
+    },
+    {
+     "id": "LOwTlfk9shw",
+     "url": "https://www.youtube.com/watch?v=LOwTlfk9shw",
+     "titulo": "Scholastic Art & Writing Awards - 2026 Midwest Gold Key Winners",
+     "revisado": false
+    },
+    {
+     "id": "tdGMpILGO48",
+     "url": "https://www.youtube.com/watch?v=tdGMpILGO48",
+     "titulo": "Scholastic Art & Writing Awards - 2026 Iowa Gold Key Winners",
+     "revisado": false
+    },
+    {
+     "id": "icrKicz6-gQ",
+     "url": "https://www.youtube.com/watch?v=icrKicz6-gQ",
+     "titulo": "Webinar - Bridging Distances - Audience Questions",
+     "revisado": false
+    },
+    {
+     "id": "TQPwNWYpBW0",
+     "url": "https://www.youtube.com/watch?v=TQPwNWYpBW0",
+     "titulo": "Webinar - Bridging Distances: Cultivating Mental Health Support for Rural Advanced Learners",
+     "revisado": false
+    },
+    {
+     "id": "w-Vv9YKIzVk",
+     "url": "https://www.youtube.com/watch?v=w-Vv9YKIzVk",
+     "titulo": "B BALI 2025 Keynote Intro: Erin Lane",
+     "revisado": false
+    },
+    {
+     "id": "0tdSH6ikB8A",
+     "url": "https://www.youtube.com/watch?v=0tdSH6ikB8A",
+     "titulo": "BBALI 2025 Keynote: Erin Lane",
+     "revisado": false
+    },
+    {
+     "id": "q2DqWLz_8mI",
+     "url": "https://www.youtube.com/watch?v=q2DqWLz_8mI",
+     "titulo": "Webinar/FLOW: Problem Based Learning",
+     "revisado": false
+    },
+    {
+     "id": "-OU3Ibp3vNE",
+     "url": "https://www.youtube.com/watch?v=-OU3Ibp3vNE",
+     "titulo": "IEP or 504 Meeting: What You Should Know",
+     "revisado": false
+    },
+    {
+     "id": "M8n0f9XKct4",
+     "url": "https://www.youtube.com/watch?v=M8n0f9XKct4",
+     "titulo": "IOAPA Webinar - Presented by Dr. Saba Ali",
+     "revisado": false
+    },
+    {
+     "id": "XXDf8lEGQX4",
+     "url": "https://www.youtube.com/watch?v=XXDf8lEGQX4",
+     "titulo": "Rooted in Place with Dr. Kimberley Chandler",
+     "revisado": false
+    },
+    {
+     "id": "OaVdy_wLoTY",
+     "url": "https://www.youtube.com/watch?v=OaVdy_wLoTY",
+     "titulo": "Twice-Exceptional Summer Academy",
+     "revisado": false
+    },
+    {
+     "id": "q4xq37CQmfE",
+     "url": "https://www.youtube.com/watch?v=q4xq37CQmfE",
+     "titulo": "Happy Holidays for 2024",
+     "revisado": false
+    },
+    {
+     "id": "gL9TF_HHG-U",
+     "url": "https://www.youtube.com/watch?v=gL9TF_HHG-U",
+     "titulo": "Scholastic 2023 Gold Key Winners",
+     "revisado": false
+    },
+    {
+     "id": "frz0NJngp7Q",
+     "url": "https://www.youtube.com/watch?v=frz0NJngp7Q",
+     "titulo": "Migrating Monarchs and other Free Flights of Fancy for your Fall",
+     "revisado": false
+    },
+    {
+     "id": "Q0YRj5h0dKI",
+     "url": "https://www.youtube.com/watch?v=Q0YRj5h0dKI",
+     "titulo": "An Introduction to the Bucksbaum Early Entrance Academy",
+     "revisado": false
+    },
+    {
+     "id": "u2y0Ypd3tHI",
+     "url": "https://www.youtube.com/watch?v=u2y0Ypd3tHI",
+     "titulo": "Scholastic Awards 2023 - Iowa & Midwest Regions Revised",
+     "revisado": false
+    },
+    {
+     "id": "iSmx0TTdBA8",
+     "url": "https://www.youtube.com/watch?v=iSmx0TTdBA8",
+     "titulo": "Scholastic Art & Writing Celebration: Writing Discussion 2",
+     "revisado": false
+    },
+    {
+     "id": "6ZAxrc97jkc",
+     "url": "https://www.youtube.com/watch?v=6ZAxrc97jkc",
+     "titulo": "SScholastic Art & Writing Celebration: Writing Discussion 1",
+     "revisado": false
+    },
+    {
+     "id": "IMNFgMKqAQI",
+     "url": "https://www.youtube.com/watch?v=IMNFgMKqAQI",
+     "titulo": "Scholastic Art & Writing Celebration: Art Discussion 1",
+     "revisado": false
+    },
+    {
+     "id": "pcOgA12YET0",
+     "url": "https://www.youtube.com/watch?v=pcOgA12YET0",
+     "titulo": "Scholastic Art & Writing Celebration: Art Discussion 2",
+     "revisado": false
+    },
+    {
+     "id": "-mIbmgdAuZg",
+     "url": "https://www.youtube.com/watch?v=-mIbmgdAuZg",
+     "titulo": "Scholastic Art & Writing Celebration 2022",
+     "revisado": false
+    },
+    {
+     "id": "9KTMEqe3dhM",
+     "url": "https://www.youtube.com/watch?v=9KTMEqe3dhM",
+     "titulo": "2021 Scholastic Artwork Collage",
+     "revisado": false
+    },
+    {
+     "id": "ERtnp3fHBnE",
+     "url": "https://www.youtube.com/watch?v=ERtnp3fHBnE",
+     "titulo": "Welcome to the Summer Writing Residency",
+     "revisado": false
+    },
+    {
+     "id": "_4m22TNlkpA",
+     "url": "https://www.youtube.com/watch?v=_4m22TNlkpA",
+     "titulo": "Belin Blank Center Fall 2021",
+     "revisado": false
+    },
+    {
+     "id": "AbH5rgL67to",
+     "url": "https://www.youtube.com/watch?v=AbH5rgL67to",
+     "titulo": "Integrated Acceleration System",
+     "revisado": false
+    },
+    {
+     "id": "Jf4OdJT_AFk",
+     "url": "https://www.youtube.com/watch?v=Jf4OdJT_AFk",
+     "titulo": "Scholastic Awards 2021 Iowa & Midwest Regions",
+     "revisado": false
+    },
+    {
+     "id": "w9Oq7-u2V18",
+     "url": "https://www.youtube.com/watch?v=w9Oq7-u2V18",
+     "titulo": "Scholastic Awards 2021 - Iowa & Midwest Region",
+     "revisado": false
+    },
+    {
+     "id": "36mQFYdnqRY",
+     "url": "https://www.youtube.com/watch?v=36mQFYdnqRY",
+     "titulo": "Scholastic Art Winners 2020",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "transtorno-de-linguagem",
+   "instituicao": "RADLD — Raising Awareness of Developmental Language Disorder",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@RADLD",
+   "channelId": "UC5J2oZIiKfB4VG0Zq_xabUA",
+   "canalSegundoAApi": "RADLD",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "R7Wd1X-RAek",
+     "url": "https://www.youtube.com/watch?v=R7Wd1X-RAek",
+     "titulo": "You can't see DLD: the perfect introduction to Developmental Language Disorder",
+     "revisado": false
+    },
+    {
+     "id": "cTw40BB3IGU",
+     "url": "https://www.youtube.com/watch?v=cTw40BB3IGU",
+     "titulo": "A creative take on Developmental Language Disorder (DLD) 'Midnight' by Siouxsie",
+     "revisado": false
+    },
+    {
+     "id": "Z8vgHAaxPxI",
+     "url": "https://www.youtube.com/watch?v=Z8vgHAaxPxI",
+     "titulo": "Frankie's story: A lived experience of Developmental Language Disorder (DLD)",
+     "revisado": false
+    },
+    {
+     "id": "Ko6sFea3v0w",
+     "url": "https://www.youtube.com/watch?v=Ko6sFea3v0w",
+     "titulo": "Developmental Language Disorder (DLD): a guide for mental heath practitioners",
+     "revisado": false
+    },
+    {
+     "id": "AzLI8ijMFzM",
+     "url": "https://www.youtube.com/watch?v=AzLI8ijMFzM",
+     "titulo": "Using strategies to support a teenager with Developmental Language Disorder (DLD) in work",
+     "revisado": false
+    },
+    {
+     "id": "mHy4kij06ek",
+     "url": "https://www.youtube.com/watch?v=mHy4kij06ek",
+     "titulo": "Abraz's advice for supporting employees with Developmental Language Disorder",
+     "revisado": false
+    },
+    {
+     "id": "NcOIW0aKtDA",
+     "url": "https://www.youtube.com/watch?v=NcOIW0aKtDA",
+     "titulo": "Speak Up for Developmental Language Disorder: Workplace strategies",
+     "revisado": false
+    },
+    {
+     "id": "6asiQ8hLH7I",
+     "url": "https://www.youtube.com/watch?v=6asiQ8hLH7I",
+     "titulo": "'Speak Up for Developmental Language Disorder (DLD) school strategies",
+     "revisado": false
+    },
+    {
+     "id": "_mq16C9oJy4",
+     "url": "https://www.youtube.com/watch?v=_mq16C9oJy4",
+     "titulo": "Le langage autour du monde",
+     "revisado": false
+    },
+    {
+     "id": "7wZ_OW9Jx0s",
+     "url": "https://www.youtube.com/watch?v=7wZ_OW9Jx0s",
+     "titulo": "Language around the world",
+     "revisado": false
+    },
+    {
+     "id": "A2dQxDJERZQ",
+     "url": "https://www.youtube.com/watch?v=A2dQxDJERZQ",
+     "titulo": "An introduction to Developmental Language Disorder (DLD) for Speech-Language Pathologists",
+     "revisado": false
+    },
+    {
+     "id": "1wGB7AGPUio",
+     "url": "https://www.youtube.com/watch?v=1wGB7AGPUio",
+     "titulo": "Developmental Language Disorder (DLD) and Co occurrence",
+     "revisado": false
+    },
+    {
+     "id": "mYGAh0LxXzo",
+     "url": "https://www.youtube.com/watch?v=mYGAh0LxXzo",
+     "titulo": "Lucas interviewed about Developmental Language Disorder",
+     "revisado": false
+    },
+    {
+     "id": "11cJmCy-ed8",
+     "url": "https://www.youtube.com/watch?v=11cJmCy-ed8",
+     "titulo": "Amelia: growing up with Developmental Language Disorder",
+     "revisado": false
+    },
+    {
+     "id": "ooORu9vVBpE",
+     "url": "https://www.youtube.com/watch?v=ooORu9vVBpE",
+     "titulo": "Growing with DLD 2022",
+     "revisado": false
+    },
+    {
+     "id": "TLA9EH4Zlcg",
+     "url": "https://www.youtube.com/watch?v=TLA9EH4Zlcg",
+     "titulo": "Grandir avec un TDL 4",
+     "revisado": false
+    },
+    {
+     "id": "_FkXAKj4L_g",
+     "url": "https://www.youtube.com/watch?v=_FkXAKj4L_g",
+     "titulo": "Sunny: Growing with DLD",
+     "revisado": false
+    },
+    {
+     "id": "zhC2xLmTacU",
+     "url": "https://www.youtube.com/watch?v=zhC2xLmTacU",
+     "titulo": "#DLDday 2022. Shelbi interviews Amelia about growing up with Developmental Language Disorder",
+     "revisado": false
+    },
+    {
+     "id": "8wVncC2nAhw",
+     "url": "https://www.youtube.com/watch?v=8wVncC2nAhw",
+     "titulo": "Amelia interviewing Shelbi for #DLDday 2022",
+     "revisado": false
+    },
+    {
+     "id": "lzy71gbf1z8",
+     "url": "https://www.youtube.com/watch?v=lzy71gbf1z8",
+     "titulo": "#DLDday 2022 Sophie talks about growing with Developmental Language Disorder",
+     "revisado": false
+    },
+    {
+     "id": "kl6tiib_XFQ",
+     "url": "https://www.youtube.com/watch?v=kl6tiib_XFQ",
+     "titulo": "What families think about Developmental Language Disorder diagnosis",
+     "revisado": false
+    },
+    {
+     "id": "MU1inVSISFo",
+     "url": "https://www.youtube.com/watch?v=MU1inVSISFo",
+     "titulo": "Raising Awareness of Developmental Language Disorder (DLD) Day: #ThinkLanguage #ThinkDLD",
+     "revisado": false
+    },
+    {
+     "id": "WsOn3fVMF0w",
+     "url": "https://www.youtube.com/watch?v=WsOn3fVMF0w",
+     "titulo": "'What is Developmental Language Disorder (DLD)?' in Persian",
+     "revisado": false
+    },
+    {
+     "id": "hbsJOpOe6yY",
+     "url": "https://www.youtube.com/watch?v=hbsJOpOe6yY",
+     "titulo": "Persian translation of Lily Farrington's Developmental Language Disorder animation",
+     "revisado": false
+    },
+    {
+     "id": "PDPrXQPTnlE",
+     "url": "https://www.youtube.com/watch?v=PDPrXQPTnlE",
+     "titulo": "Raising Awareness of Developmental Language Disorder #DLDSEEME 2020",
+     "revisado": false
+    },
+    {
+     "id": "xrO-4lhv-ik",
+     "url": "https://www.youtube.com/watch?v=xrO-4lhv-ik",
+     "titulo": "RADLD 2020 1",
+     "revisado": false
+    },
+    {
+     "id": "-orJLnCgGJw",
+     "url": "https://www.youtube.com/watch?v=-orJLnCgGJw",
+     "titulo": "Why is language important for mental health?",
+     "revisado": false
+    },
+    {
+     "id": "4W_ipZZoMac",
+     "url": "https://www.youtube.com/watch?v=4W_ipZZoMac",
+     "titulo": "Témoignage d'adolescents ayant un TDL - Teenagers with DLD share their story",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "transtorno-de-linguagem",
+   "instituicao": "ASHA — American Speech-Language-Hearing Association",
+   "idioma": "en",
+   "url": "https://www.youtube.com/@ASHAWeb",
+   "channelId": "UC-RlNcHZEucIevdNBeR-KPw",
+   "canalSegundoAApi": "American Speech-Language-Hearing Association",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "2mDbB4viHJY",
+     "url": "https://www.youtube.com/watch?v=2mDbB4viHJY",
+     "titulo": "Preview: New CPT Codes for Speech-Language Pathology Services: Webinar 1",
+     "revisado": false
+    },
+    {
+     "id": "oVyChtyXdvA",
+     "url": "https://www.youtube.com/watch?v=oVyChtyXdvA",
+     "titulo": "A Day in the Life of Health Care SLP Amy Rosneck, CCC-SLP: Patients as Teachers",
+     "revisado": false
+    },
+    {
+     "id": "MeXa9_FWrmM",
+     "url": "https://www.youtube.com/watch?v=MeXa9_FWrmM",
+     "titulo": "A Day in the Life of School-Based SLP Luke Davis: Fostering Connections Through Communication",
+     "revisado": false
+    },
+    {
+     "id": "jI2JVDcMsFA",
+     "url": "https://www.youtube.com/watch?v=jI2JVDcMsFA",
+     "titulo": "A Day in the Life of Audiologist Dr. Kristina Deak: It starts with listening",
+     "revisado": false
+    },
+    {
+     "id": "AKLXZcNskuI",
+     "url": "https://www.youtube.com/watch?v=AKLXZcNskuI",
+     "titulo": "Your Child’s Communication Development: Birth to Five Years",
+     "revisado": false
+    },
+    {
+     "id": "7pMAWlJbs4g",
+     "url": "https://www.youtube.com/watch?v=7pMAWlJbs4g",
+     "titulo": "Your Child’s Feeding Development: Birth to Three Years",
+     "revisado": false
+    },
+    {
+     "id": "MjdLzOLxwQY",
+     "url": "https://www.youtube.com/watch?v=MjdLzOLxwQY",
+     "titulo": "Interprofessional Education: Moving From More IPE to Better IPE",
+     "revisado": false
+    },
+    {
+     "id": "uqS2grZAZHo",
+     "url": "https://www.youtube.com/watch?v=uqS2grZAZHo",
+     "titulo": "Interprofessional Practice (IPP) in Action: Public Schools",
+     "revisado": false
+    },
+    {
+     "id": "SgBMiV_YQJs",
+     "url": "https://www.youtube.com/watch?v=SgBMiV_YQJs",
+     "titulo": "ASHA’s Developmental Milestones: Feeding and Swallowing",
+     "revisado": false
+    },
+    {
+     "id": "1JpCAB-4iCw",
+     "url": "https://www.youtube.com/watch?v=1JpCAB-4iCw",
+     "titulo": "ASHA’s Developmental Milestones: Communication (Hearing, Speech, and Language)",
+     "revisado": false
+    },
+    {
+     "id": "RrMbHZ2hC8s",
+     "url": "https://www.youtube.com/watch?v=RrMbHZ2hC8s",
+     "titulo": "Sneak Peek:  Speech Sound Disorders in Schools Online Conference",
+     "revisado": false
+    },
+    {
+     "id": "u8fOqPTwugI",
+     "url": "https://www.youtube.com/watch?v=u8fOqPTwugI",
+     "titulo": "Resources Overview: Interprofessional Education/Interprofessional Practice (IPE/IPP)",
+     "revisado": false
+    },
+    {
+     "id": "Z1MvwpZ95vY",
+     "url": "https://www.youtube.com/watch?v=Z1MvwpZ95vY",
+     "titulo": "ASHA President Robert Augustine: Identify the Signs of Communication Disorders (2023)",
+     "revisado": false
+    },
+    {
+     "id": "8KlopuczK94",
+     "url": "https://www.youtube.com/watch?v=8KlopuczK94",
+     "titulo": "May is Better Hearing and Speech Month: A Message From ASHA's President",
+     "revisado": false
+    },
+    {
+     "id": "xPRLpmBD8fw",
+     "url": "https://www.youtube.com/watch?v=xPRLpmBD8fw",
+     "titulo": "Real Stories of Care: Ebony Green",
+     "revisado": false
+    },
+    {
+     "id": "5OxBdGAM8-o",
+     "url": "https://www.youtube.com/watch?v=5OxBdGAM8-o",
+     "titulo": "Real Stories of Care: Gabriel Bargen",
+     "revisado": false
+    },
+    {
+     "id": "1BnXFEHffxI",
+     "url": "https://www.youtube.com/watch?v=1BnXFEHffxI",
+     "titulo": "Real Stories of Care: Karen McQuaide",
+     "revisado": false
+    },
+    {
+     "id": "M8pok6lbeP4",
+     "url": "https://www.youtube.com/watch?v=M8pok6lbeP4",
+     "titulo": "Real Stories of Care: Rebecca Woods",
+     "revisado": false
+    },
+    {
+     "id": "yHivHTEuFPw",
+     "url": "https://www.youtube.com/watch?v=yHivHTEuFPw",
+     "titulo": "Real Stories of Care: Rinki Varindani Desai",
+     "revisado": false
+    },
+    {
+     "id": "Aw4j_9vRTkg",
+     "url": "https://www.youtube.com/watch?v=Aw4j_9vRTkg",
+     "titulo": "Real Stories of Care: Suzanne Coyle",
+     "revisado": false
+    },
+    {
+     "id": "n0XCkA8R_Qo",
+     "url": "https://www.youtube.com/watch?v=n0XCkA8R_Qo",
+     "titulo": "Interprofessional Practice (IPP) in Action: Cochlear Implant Center",
+     "revisado": false
+    },
+    {
+     "id": "1itkTT9b-BI",
+     "url": "https://www.youtube.com/watch?v=1itkTT9b-BI",
+     "titulo": "Interprofessional Practice (IPP) in Action: Head & Neck Cancer Center",
+     "revisado": false
+    },
+    {
+     "id": "sR82_QA623A",
+     "url": "https://www.youtube.com/watch?v=sR82_QA623A",
+     "titulo": "How To: Interprofessional Education/Interprofessional Practice (IPE/IPP)",
+     "revisado": false
+    },
+    {
+     "id": "1MfHPoMOFso",
+     "url": "https://www.youtube.com/watch?v=1MfHPoMOFso",
+     "titulo": "Evidence For Interprofessional Education/Interprofessional Practice (IPE/IPP)",
+     "revisado": false
+    },
+    {
+     "id": "DaG7kdc7xXg",
+     "url": "https://www.youtube.com/watch?v=DaG7kdc7xXg",
+     "titulo": "Benefits of Interprofessional Education/Interprofessional Practice (IPE/IPP)",
+     "revisado": false
+    },
+    {
+     "id": "w4eeUVNYyoQ",
+     "url": "https://www.youtube.com/watch?v=w4eeUVNYyoQ",
+     "titulo": "Keys to a Successful SLP Private Practice",
+     "revisado": false
+    },
+    {
+     "id": "gYpjKrf4_HE",
+     "url": "https://www.youtube.com/watch?v=gYpjKrf4_HE",
+     "titulo": "Session Preview: Feeding and Nutrition in the NICU",
+     "revisado": false
+    },
+    {
+     "id": "VgVFmaXbGSY",
+     "url": "https://www.youtube.com/watch?v=VgVFmaXbGSY",
+     "titulo": "Share Your Videos With ASHA Members",
+     "revisado": false
+    },
+    {
+     "id": "7hNhaQYVkYM",
+     "url": "https://www.youtube.com/watch?v=7hNhaQYVkYM",
+     "titulo": "Feature Your Company on the ASHA Solution Center",
+     "revisado": false
+    },
+    {
+     "id": "5e9WKNc0Nkc",
+     "url": "https://www.youtube.com/watch?v=5e9WKNc0Nkc",
+     "titulo": "Interview with Dr. Elena M. Umland, PharmD, Thomas Jefferson University",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "transtorno-de-linguagem",
+   "instituicao": "Speech and Language UK",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UC52E9NxUaFSdoSJcTXCOvyQ",
+   "channelId": "UC52E9NxUaFSdoSJcTXCOvyQ",
+   "canalSegundoAApi": "Speech and Language UK",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "dYQ6HDEfDWo",
+     "url": "https://www.youtube.com/watch?v=dYQ6HDEfDWo",
+     "titulo": "Young people with speech and language challenges speak out in Parliament",
+     "revisado": false
+    },
+    {
+     "id": "me68vpJoE1Q",
+     "url": "https://www.youtube.com/watch?v=me68vpJoE1Q",
+     "titulo": "How screen time can support your child's speech and language development",
+     "revisado": false
+    },
+    {
+     "id": "5kAouwul7KY",
+     "url": "https://www.youtube.com/watch?v=5kAouwul7KY",
+     "titulo": "How to complete the SEND consultation | Step-by-step guide",
+     "revisado": false
+    },
+    {
+     "id": "R-zOtniboI8",
+     "url": "https://www.youtube.com/watch?v=R-zOtniboI8",
+     "titulo": "Sign up to sing 2025 | Performance montage",
+     "revisado": false
+    },
+    {
+     "id": "CBBS8CrAH3w",
+     "url": "https://www.youtube.com/watch?v=CBBS8CrAH3w",
+     "titulo": "Eve's story",
+     "revisado": false
+    },
+    {
+     "id": "M9VLcCFld6w",
+     "url": "https://www.youtube.com/watch?v=M9VLcCFld6w",
+     "titulo": "Siouxsie's top tips for public speaking",
+     "revisado": false
+    },
+    {
+     "id": "9ed6LJB6SPc",
+     "url": "https://www.youtube.com/watch?v=9ed6LJB6SPc",
+     "titulo": "\"It terrifies me to think about the future...\" | Siouxsie's DLD story",
+     "revisado": false
+    },
+    {
+     "id": "_kdvFXR-qzc",
+     "url": "https://www.youtube.com/watch?v=_kdvFXR-qzc",
+     "titulo": "Why children with speech and language challenges are being left behind",
+     "revisado": false
+    },
+    {
+     "id": "CO4jsR_9tsU",
+     "url": "https://www.youtube.com/watch?v=CO4jsR_9tsU",
+     "titulo": "A message from Stephen Morgan MP for The Speech, Language and Communication Alliance Launch",
+     "revisado": false
+    },
+    {
+     "id": "38ur_bxJJG4",
+     "url": "https://www.youtube.com/watch?v=38ur_bxJJG4",
+     "titulo": "Darcie's story - a video about Developmental Language Disorder (DLD) #2in30",
+     "revisado": false
+    },
+    {
+     "id": "wuWiHPI6Htc",
+     "url": "https://www.youtube.com/watch?v=wuWiHPI6Htc",
+     "titulo": "Heads Shoulders Knees and Toes",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "tdah",
+   "instituicao": "Help for ADHD — National Resource Center on ADHD (CHADD)",
+   "idioma": "en",
+   "url": "https://www.youtube.com/helpforadhd",
+   "channelId": "UCtIdw4TxJHT8XUlPBvYZD7A",
+   "canalSegundoAApi": "Help for ADHD",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "v5zm2XXHIPU",
+     "url": "https://www.youtube.com/watch?v=v5zm2XXHIPU",
+     "titulo": "It's Not About the Money, Honey",
+     "revisado": false
+    },
+    {
+     "id": "xCYyuco1ufU",
+     "url": "https://www.youtube.com/watch?v=xCYyuco1ufU",
+     "titulo": "Drop the Armor: ADHD & Men's Mental Health | Jeff Kapp x CHADD",
+     "revisado": false
+    },
+    {
+     "id": "KhfWCxthy_w",
+     "url": "https://www.youtube.com/watch?v=KhfWCxthy_w",
+     "titulo": "ADHD vs Autism: Why They Look the Same (But Aren’t)",
+     "revisado": false
+    },
+    {
+     "id": "KNGTi-zSxF0",
+     "url": "https://www.youtube.com/watch?v=KNGTi-zSxF0",
+     "titulo": "Why Your Child Acts Like Two Different Kids: ADHD & Autism Explained",
+     "revisado": false
+    },
+    {
+     "id": "AkyxNp1NOzM",
+     "url": "https://www.youtube.com/watch?v=AkyxNp1NOzM",
+     "titulo": "Men, Fatherhood, and ADHD",
+     "revisado": false
+    },
+    {
+     "id": "VZ5BJSJTJT8",
+     "url": "https://www.youtube.com/watch?v=VZ5BJSJTJT8",
+     "titulo": "ADHD in the Summer: What Actually Helps",
+     "revisado": false
+    },
+    {
+     "id": "6_OBY_tOgAk",
+     "url": "https://www.youtube.com/watch?v=6_OBY_tOgAk",
+     "titulo": "Employable You",
+     "revisado": false
+    },
+    {
+     "id": "pLmFchO_TTk",
+     "url": "https://www.youtube.com/watch?v=pLmFchO_TTk",
+     "titulo": "Why ADHD Is Often Missed in Asian American Communities",
+     "revisado": false
+    },
+    {
+     "id": "WfzmeMTUhM0",
+     "url": "https://www.youtube.com/watch?v=WfzmeMTUhM0",
+     "titulo": "Ask the Expert: Access to ADHD Care",
+     "revisado": false
+    },
+    {
+     "id": "jSUD8-plz6o",
+     "url": "https://www.youtube.com/watch?v=jSUD8-plz6o",
+     "titulo": "ADHD and the Allure of the Outdoors",
+     "revisado": false
+    },
+    {
+     "id": "9K-nYTdAuLk",
+     "url": "https://www.youtube.com/watch?v=9K-nYTdAuLk",
+     "titulo": "AuDHD and Autism Acceptance Month",
+     "revisado": false
+    },
+    {
+     "id": "mlvvd_uX-Ho",
+     "url": "https://www.youtube.com/watch?v=mlvvd_uX-Ho",
+     "titulo": "We’ve Come a Long Way: Advances in ADHD Care for Women",
+     "revisado": false
+    },
+    {
+     "id": "urfOO9-3kss",
+     "url": "https://www.youtube.com/watch?v=urfOO9-3kss",
+     "titulo": "Expanding the Neurodiverse Workplace",
+     "revisado": false
+    },
+    {
+     "id": "dRKaacKJI3g",
+     "url": "https://www.youtube.com/watch?v=dRKaacKJI3g",
+     "titulo": "Who Protects Students With ADHD When Policy Changes?",
+     "revisado": false
+    },
+    {
+     "id": "Kt3OtuPqf-8",
+     "url": "https://www.youtube.com/watch?v=Kt3OtuPqf-8",
+     "titulo": "Supporting Accurate ADHD Identification Through Family Partnerships",
+     "revisado": false
+    },
+    {
+     "id": "AI_8oWnUpLk",
+     "url": "https://www.youtube.com/watch?v=AI_8oWnUpLk",
+     "titulo": "Using Cultural Humility to Engage Black Families About ADHD",
+     "revisado": false
+    },
+    {
+     "id": "wcqk6ooyQf8",
+     "url": "https://www.youtube.com/watch?v=wcqk6ooyQf8",
+     "titulo": "How Hormones Affect ADHD in Women",
+     "revisado": false
+    },
+    {
+     "id": "LApNRgeMyf8",
+     "url": "https://www.youtube.com/watch?v=LApNRgeMyf8",
+     "titulo": "Teacher Tip: How Proximity and Movement Improve Attention in Students with ADHD",
+     "revisado": false
+    },
+    {
+     "id": "8pdRiiLoqTI",
+     "url": "https://www.youtube.com/watch?v=8pdRiiLoqTI",
+     "titulo": "Medication Essentials for Empowered Decisions",
+     "revisado": false
+    },
+    {
+     "id": "3D2j2ulSK-E",
+     "url": "https://www.youtube.com/watch?v=3D2j2ulSK-E",
+     "titulo": "Octubre es el Mes de Concientización sobre el TDAH.",
+     "revisado": false
+    },
+    {
+     "id": "qtBoj74QFVk",
+     "url": "https://www.youtube.com/watch?v=qtBoj74QFVk",
+     "titulo": "Experiencias y Consejos de Padres con Hijos con TDAH Part 2",
+     "revisado": false
+    },
+    {
+     "id": "kDrLV4rKuy0",
+     "url": "https://www.youtube.com/watch?v=kDrLV4rKuy0",
+     "titulo": "Experiencias y Consejos de Padres con Hijos con TDAH Part 1",
+     "revisado": false
+    },
+    {
+     "id": "vXYfQymCM5g",
+     "url": "https://www.youtube.com/watch?v=vXYfQymCM5g",
+     "titulo": "ADHD Goes to Work",
+     "revisado": false
+    },
+    {
+     "id": "OuUIxBL15uY",
+     "url": "https://www.youtube.com/watch?v=OuUIxBL15uY",
+     "titulo": "How to Stay Productive with ADHD: The Mindset That Keeps You Going",
+     "revisado": false
+    },
+    {
+     "id": "qAvCvVoXcSo",
+     "url": "https://www.youtube.com/watch?v=qAvCvVoXcSo",
+     "titulo": "Join CHADD -- and build a stronger ADHD community!",
+     "revisado": false
+    },
+    {
+     "id": "2P3XT_ezT80",
+     "url": "https://www.youtube.com/watch?v=2P3XT_ezT80",
+     "titulo": "Video Games and ADHD: Harmful or Helpful?",
+     "revisado": false
+    },
+    {
+     "id": "DUzsxZgCkLE",
+     "url": "https://www.youtube.com/watch?v=DUzsxZgCkLE",
+     "titulo": "ADHD Advocacy: How the Department of Education Supports Students",
+     "revisado": false
+    },
+    {
+     "id": "vH4NDCA4hYQ",
+     "url": "https://www.youtube.com/watch?v=vH4NDCA4hYQ",
+     "titulo": "Support Your Child with ADHD Through Transitions",
+     "revisado": false
+    },
+    {
+     "id": "RDQnyiOV8h0",
+     "url": "https://www.youtube.com/watch?v=RDQnyiOV8h0",
+     "titulo": "ADHD Policy Briefing: Analysis and Impact of Federal Healthcare and Education Policies",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "tdah",
+   "instituicao": "The IRIS Center — Vanderbilt University (OSEP)",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCFYHtSkEr0IjuDYSK1hQ0Bg",
+   "channelId": "UCFYHtSkEr0IjuDYSK1hQ0Bg",
+   "canalSegundoAApi": "The IRIS Center Video Collection",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "GIzYH0fmPWo",
+     "url": "https://www.youtube.com/watch?v=GIzYH0fmPWo",
+     "titulo": "Later Autism Diagnosis: Evelyn’s Journey",
+     "revisado": false
+    },
+    {
+     "id": "8ED4fOVruIw",
+     "url": "https://www.youtube.com/watch?v=8ED4fOVruIw",
+     "titulo": "Early Autism Diagnosis: Noah’s Journey",
+     "revisado": false
+    },
+    {
+     "id": "UfNnAP0uQHQ",
+     "url": "https://www.youtube.com/watch?v=UfNnAP0uQHQ",
+     "titulo": "Autism: Meet Joseph (high school student)",
+     "revisado": false
+    },
+    {
+     "id": "i_sZUTUL1v8",
+     "url": "https://www.youtube.com/watch?v=i_sZUTUL1v8",
+     "titulo": "Autism: Meet Rogan (elementary school student)",
+     "revisado": false
+    },
+    {
+     "id": "kKjfU0jNbVk",
+     "url": "https://www.youtube.com/watch?v=kKjfU0jNbVk",
+     "titulo": "Functional Assessment Matrix",
+     "revisado": false
+    },
+    {
+     "id": "PEv_U4Uy7L4",
+     "url": "https://www.youtube.com/watch?v=PEv_U4Uy7L4",
+     "titulo": "Evaluating Student Performance Using a Trend Line Analysis: The Tukey Method",
+     "revisado": false
+    },
+    {
+     "id": "Sdh5Aa0DUSE",
+     "url": "https://www.youtube.com/watch?v=Sdh5Aa0DUSE",
+     "titulo": "Task Analysis: Forward Chaining",
+     "revisado": false
+    },
+    {
+     "id": "tD6rPW80ROA",
+     "url": "https://www.youtube.com/watch?v=tD6rPW80ROA",
+     "titulo": "Task Analysis: Backward Chaining",
+     "revisado": false
+    },
+    {
+     "id": "0j7D_TJJw6o",
+     "url": "https://www.youtube.com/watch?v=0j7D_TJJw6o",
+     "titulo": "Prompting",
+     "revisado": false
+    },
+    {
+     "id": "SVD0dkHTdok",
+     "url": "https://www.youtube.com/watch?v=SVD0dkHTdok",
+     "titulo": "Progressive Time Delay",
+     "revisado": false
+    },
+    {
+     "id": "6X9fmqXngyU",
+     "url": "https://www.youtube.com/watch?v=6X9fmqXngyU",
+     "titulo": "Precorrection: Secondary Example and Non-Example During Virtual Instruction",
+     "revisado": false
+    },
+    {
+     "id": "Rx-amBjA0Ok",
+     "url": "https://www.youtube.com/watch?v=Rx-amBjA0Ok",
+     "titulo": "Modeling",
+     "revisado": false
+    },
+    {
+     "id": "IrVRJOKYEMo",
+     "url": "https://www.youtube.com/watch?v=IrVRJOKYEMo",
+     "titulo": "Behavior-Specific Praise: Secondary Example & Non-Example During Small-Group Discussion",
+     "revisado": false
+    },
+    {
+     "id": "p3ZP0sSGF-k",
+     "url": "https://www.youtube.com/watch?v=p3ZP0sSGF-k",
+     "titulo": "Behavior-Specific Praise: Elementary Example During a Transition",
+     "revisado": false
+    },
+    {
+     "id": "sf8b_rvx73g",
+     "url": "https://www.youtube.com/watch?v=sf8b_rvx73g",
+     "titulo": "Behavior-Specific Praise: Elementary Example and Non-Example During Virtual Instruction",
+     "revisado": false
+    },
+    {
+     "id": "yeeEcQuDpU4",
+     "url": "https://www.youtube.com/watch?v=yeeEcQuDpU4",
+     "titulo": "Active Supervision: Secondary Example and Non-Example",
+     "revisado": false
+    },
+    {
+     "id": "K14J1jz6hSs",
+     "url": "https://www.youtube.com/watch?v=K14J1jz6hSs",
+     "titulo": "Acting-Out Cycle: Secondary Example (Sam)",
+     "revisado": false
+    },
+    {
+     "id": "9DuPgrI6X1s",
+     "url": "https://www.youtube.com/watch?v=9DuPgrI6X1s",
+     "titulo": "Acting-Out Cycle: Secondary Example (Ava)",
+     "revisado": false
+    },
+    {
+     "id": "TGf7l_eQ5eA",
+     "url": "https://www.youtube.com/watch?v=TGf7l_eQ5eA",
+     "titulo": "Acting-Out Cycle: Elementary Example (Nora)",
+     "revisado": false
+    },
+    {
+     "id": "48eBXIXPiv8",
+     "url": "https://www.youtube.com/watch?v=48eBXIXPiv8",
+     "titulo": "Acting-Out Cycle: Elementary Example (Kai)",
+     "revisado": false
+    },
+    {
+     "id": "PbULitYn1r4",
+     "url": "https://www.youtube.com/watch?v=PbULitYn1r4",
+     "titulo": "Acting-Out Cycle: The Seven Phases",
+     "revisado": false
+    },
+    {
+     "id": "QgYlZzBl_Hg",
+     "url": "https://www.youtube.com/watch?v=QgYlZzBl_Hg",
+     "titulo": "Active Supervision Elementary: Example and Non-Example",
+     "revisado": false
+    },
+    {
+     "id": "gfllbZrdvVc",
+     "url": "https://www.youtube.com/watch?v=gfllbZrdvVc",
+     "titulo": "Prep Talk #7: Center for Innovation, Design, and Digital Learning",
+     "revisado": false
+    },
+    {
+     "id": "LN27-v6xeVk",
+     "url": "https://www.youtube.com/watch?v=LN27-v6xeVk",
+     "titulo": "IRIS Prep Talk #6: National Center on Educational Outcomes",
+     "revisado": false
+    },
+    {
+     "id": "HNWNo-JfHmI",
+     "url": "https://www.youtube.com/watch?v=HNWNo-JfHmI",
+     "titulo": "IRIS Prep Talk #5: National Center on Intensive Intervention",
+     "revisado": false
+    },
+    {
+     "id": "1oBCef2XmNk",
+     "url": "https://www.youtube.com/watch?v=1oBCef2XmNk",
+     "titulo": "Prep Talk #4: TIES Center Resources",
+     "revisado": false
+    },
+    {
+     "id": "TF-ePpFLDuc",
+     "url": "https://www.youtube.com/watch?v=TF-ePpFLDuc",
+     "titulo": "Meet the IRIS Center 2022",
+     "revisado": false
+    },
+    {
+     "id": "82pjGtLSbXA",
+     "url": "https://www.youtube.com/watch?v=82pjGtLSbXA",
+     "titulo": "Prep Talk #3: Resources on Dispute Resolution, Featuring CADRE",
+     "revisado": false
+    },
+    {
+     "id": "JWxjSLWvIos",
+     "url": "https://www.youtube.com/watch?v=JWxjSLWvIos",
+     "titulo": "Prep Talk #2: Accessible Educational Materials with AEM & Bookshare",
+     "revisado": false
+    },
+    {
+     "id": "WRjvY1mVFAY",
+     "url": "https://www.youtube.com/watch?v=WRjvY1mVFAY",
+     "titulo": "Prep Talk #1: Resources for High-Quality IEPs, Featuring the PROGRESS Center",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "discalculia",
+   "instituicao": "The Dyscalculia Network",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UCjMTlUFFw8X94tW2W6a_glw",
+   "channelId": "UCjMTlUFFw8X94tW2W6a_glw",
+   "canalSegundoAApi": "The Dyscalculia Network",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "IxZduIv1a7c",
+     "url": "https://www.youtube.com/watch?v=IxZduIv1a7c",
+     "titulo": "Decoding Dyscalculia -  Making Sense of Decimal Place Value",
+     "revisado": false
+    },
+    {
+     "id": "bx-GwBL8pOs",
+     "url": "https://www.youtube.com/watch?v=bx-GwBL8pOs",
+     "titulo": "Cat Eadle Appears on BBC Breakfast talking about Dyscalculia",
+     "revisado": false
+    },
+    {
+     "id": "wwimQjJw1t4",
+     "url": "https://www.youtube.com/watch?v=wwimQjJw1t4",
+     "titulo": "Dyscalculia Research Revealed - Prof. Daniel Ansari",
+     "revisado": false
+    },
+    {
+     "id": "dO44nih3HlQ",
+     "url": "https://www.youtube.com/watch?v=dO44nih3HlQ",
+     "titulo": "Dyscalculia  Research Revealed - Prof. Bert De Smedt",
+     "revisado": false
+    },
+    {
+     "id": "irD81Kuh3wE",
+     "url": "https://www.youtube.com/watch?v=irD81Kuh3wE",
+     "titulo": "Dyscalculia Research Revealed - Prof. Camilla Gilmore",
+     "revisado": false
+    },
+    {
+     "id": "Q8dF-vCqzjI",
+     "url": "https://www.youtube.com/watch?v=Q8dF-vCqzjI",
+     "titulo": "Dyscalculia  Research Revealed - Prof. Jo Van Herwegen",
+     "revisado": false
+    },
+    {
+     "id": "A43tHMWuOtc",
+     "url": "https://www.youtube.com/watch?v=A43tHMWuOtc",
+     "titulo": "Dyscalculia Research Revealed - Prof. Giannis Karagiannakis",
+     "revisado": false
+    },
+    {
+     "id": "iu3hp83cBLo",
+     "url": "https://www.youtube.com/watch?v=iu3hp83cBLo",
+     "titulo": "Dyscalculia  Research Revealed - Dr Kinga Morsanyi",
+     "revisado": false
+    },
+    {
+     "id": "eYX2stWBN60",
+     "url": "https://www.youtube.com/watch?v=eYX2stWBN60",
+     "titulo": "Decoding Dyscalculia: Unlocking Algebra with Algebra Tiles",
+     "revisado": false
+    },
+    {
+     "id": "JIdYwB7JfYo",
+     "url": "https://www.youtube.com/watch?v=JIdYwB7JfYo",
+     "titulo": "Decoding Dyscalculia  - Doubling",
+     "revisado": false
+    },
+    {
+     "id": "ubFuVJeFcgE",
+     "url": "https://www.youtube.com/watch?v=ubFuVJeFcgE",
+     "titulo": "Long Multiplication for learners with dyscalculia and maths difficulties",
+     "revisado": false
+    },
+    {
+     "id": "W2gC0qvPRl4",
+     "url": "https://www.youtube.com/watch?v=W2gC0qvPRl4",
+     "titulo": "Short Multiplication for learners with dyscalculia and maths difficulties",
+     "revisado": false
+    },
+    {
+     "id": "ZcOqGn0040M",
+     "url": "https://www.youtube.com/watch?v=ZcOqGn0040M",
+     "titulo": "Fixit with Karen - Finding Fractions of numbers for learners with dyscalculia or maths difficulties",
+     "revisado": false
+    },
+    {
+     "id": "x_n8aq3vIoQ",
+     "url": "https://www.youtube.com/watch?v=x_n8aq3vIoQ",
+     "titulo": "Fixit with Karen - Multiplying using place value for learners with dyscalculia",
+     "revisado": false
+    },
+    {
+     "id": "ut-hv9xNtmI",
+     "url": "https://www.youtube.com/watch?v=ut-hv9xNtmI",
+     "titulo": "Fixit with Karen - Multiplying by 10",
+     "revisado": false
+    },
+    {
+     "id": "nnUOm8ZpUaU",
+     "url": "https://www.youtube.com/watch?v=nnUOm8ZpUaU",
+     "titulo": "Fixit with Karen - Equivalent Fractions for learners with dyscalculia or maths difficulties",
+     "revisado": false
+    },
+    {
+     "id": "ZIfhaEN8WRg",
+     "url": "https://www.youtube.com/watch?v=ZIfhaEN8WRg",
+     "titulo": "Dyscalculia Network  Dealing with Maths Anxiety as an Adult",
+     "revisado": false
+    },
+    {
+     "id": "2fT-aKeyJlk",
+     "url": "https://www.youtube.com/watch?v=2fT-aKeyJlk",
+     "titulo": "Fixit with Karen - Bridging 10 to Subtract a Single Digit",
+     "revisado": false
+    },
+    {
+     "id": "utmxTOtBUKU",
+     "url": "https://www.youtube.com/watch?v=utmxTOtBUKU",
+     "titulo": "Dyscalculia, Maths Difficulties and Access to Work",
+     "revisado": false
+    },
+    {
+     "id": "L1tV6slZW3Y",
+     "url": "https://www.youtube.com/watch?v=L1tV6slZW3Y",
+     "titulo": "Fixit with Karen - Tips for teaching bridging",
+     "revisado": false
+    },
+    {
+     "id": "n3LgRJXEZJI",
+     "url": "https://www.youtube.com/watch?v=n3LgRJXEZJI",
+     "titulo": "Fixit with Karen- Times Tables - The Commutative Property",
+     "revisado": false
+    },
+    {
+     "id": "s5gT96l1z9o",
+     "url": "https://www.youtube.com/watch?v=s5gT96l1z9o",
+     "titulo": "Dyscalculator Webinar   Dyscalculia Network",
+     "revisado": false
+    },
+    {
+     "id": "jsgAFn2zgxg",
+     "url": "https://www.youtube.com/watch?v=jsgAFn2zgxg",
+     "titulo": "Sophie Ellis- Bextor Dyscalculia Network Ambassador",
+     "revisado": false
+    },
+    {
+     "id": "O8opFUfCVF4",
+     "url": "https://www.youtube.com/watch?v=O8opFUfCVF4",
+     "titulo": "Dyscalculia Song- Mia Borthwick for Dyscalculia Network",
+     "revisado": false
+    },
+    {
+     "id": "pCw-Dp4FiCU",
+     "url": "https://www.youtube.com/watch?v=pCw-Dp4FiCU",
+     "titulo": "A sneak preview of what Mahesh is presenting next year at Dyscalculia Day March 2024",
+     "revisado": false
+    },
+    {
+     "id": "RVuDqeMglIU",
+     "url": "https://www.youtube.com/watch?v=RVuDqeMglIU",
+     "titulo": "What is your background and how did you get into the area of Dyscalculia and Maths difficulties?",
+     "revisado": false
+    },
+    {
+     "id": "BHIDOrAMl68",
+     "url": "https://www.youtube.com/watch?v=BHIDOrAMl68",
+     "titulo": "What maths assessments do you use and why?",
+     "revisado": false
+    },
+    {
+     "id": "zZmZE0_lYr0",
+     "url": "https://www.youtube.com/watch?v=zZmZE0_lYr0",
+     "titulo": "What is your current understanding of the definition of Dyscalculia?",
+     "revisado": false
+    },
+    {
+     "id": "Q9HzLWqceeI",
+     "url": "https://www.youtube.com/watch?v=Q9HzLWqceeI",
+     "titulo": "What are the biggest challenges facing the Dyscalculia Network currently?",
+     "revisado": false
+    },
+    {
+     "id": "fJrT1Wxhu4Q",
+     "url": "https://www.youtube.com/watch?v=fJrT1Wxhu4Q",
+     "titulo": "Sophie Ellis-Bextor Dyscalculia Network Ambassador! @sophieebofficial",
+     "revisado": false
+    }
+   ]
+  },
+  {
+   "especialidade": "discalculia",
+   "instituicao": "NCII — National Center on Intensive Intervention",
+   "idioma": "en",
+   "url": "https://www.youtube.com/channel/UC6W2pma8TiSZvY_GWROkTLA",
+   "channelId": "UC6W2pma8TiSZvY_GWROkTLA",
+   "canalSegundoAApi": "National Center on Intensive Intervention",
+   "playlists": [],
+   "videos": [
+    {
+     "id": "Oo41LBPBR4Q",
+     "url": "https://www.youtube.com/watch?v=Oo41LBPBR4Q",
+     "titulo": "Error Analysis in Writing: Using Writing Errors to Intensify Intervention",
+     "revisado": false
+    },
+    {
+     "id": "q5IDRtXpsEU",
+     "url": "https://www.youtube.com/watch?v=q5IDRtXpsEU",
+     "titulo": "Error Analysis in Math: Using Student Work to Intensify Intervention",
+     "revisado": false
+    },
+    {
+     "id": "W8I9dYH0Evk",
+     "url": "https://www.youtube.com/watch?v=W8I9dYH0Evk",
+     "titulo": "Error Analysis in Reading: Using Oral Reading Errors to Inform Instructional Decisions",
+     "revisado": false
+    },
+    {
+     "id": "8sAWlqiO-OI",
+     "url": "https://www.youtube.com/watch?v=8sAWlqiO-OI",
+     "titulo": "Full Eyes, Clear Problem Solving:Using Diagnostic Data to Intensify Interventions",
+     "revisado": false
+    },
+    {
+     "id": "Z1BtBdYe_Ks",
+     "url": "https://www.youtube.com/watch?v=Z1BtBdYe_Ks",
+     "titulo": "Navigating Barriers for Successful DBI Implementation",
+     "revisado": false
+    },
+    {
+     "id": "LwJvCuefpBk",
+     "url": "https://www.youtube.com/watch?v=LwJvCuefpBk",
+     "titulo": "Embedding the Dual Capacity Building Framework into MTSS Professional Learning",
+     "revisado": false
+    },
+    {
+     "id": "RZjDDYJ9Hig",
+     "url": "https://www.youtube.com/watch?v=RZjDDYJ9Hig",
+     "titulo": "Getting It Right From the Start: Why Embedding DBI in Teacher Education Matters",
+     "revisado": false
+    },
+    {
+     "id": "ozzvDCwBJnA",
+     "url": "https://www.youtube.com/watch?v=ozzvDCwBJnA",
+     "titulo": "Designing Appropriate Academic Interventions Using the Taxonomy of Intervention Intensity",
+     "revisado": false
+    },
+    {
+     "id": "Bfvt1qV0yDc",
+     "url": "https://www.youtube.com/watch?v=Bfvt1qV0yDc",
+     "titulo": "Introduction to Academic Progress Monitoring Webinar",
+     "revisado": false
+    },
+    {
+     "id": "KAP62AJg2Hc",
+     "url": "https://www.youtube.com/watch?v=KAP62AJg2Hc",
+     "titulo": "Data-Based Individualization 101 Webinar (8/19/25)",
+     "revisado": false
+    },
+    {
+     "id": "cBXhcMCL0Cs",
+     "url": "https://www.youtube.com/watch?v=cBXhcMCL0Cs",
+     "titulo": "From Data to Action: Individualizing Math Supports to Meet Student’s Needs",
+     "revisado": false
+    },
+    {
+     "id": "u0FiSOAYOAY",
+     "url": "https://www.youtube.com/watch?v=u0FiSOAYOAY",
+     "titulo": "Impact Stories: Maria Jimenez, Special Education Coordinator, Lexington District One",
+     "revisado": false
+    },
+    {
+     "id": "r1SXShX6fgk",
+     "url": "https://www.youtube.com/watch?v=r1SXShX6fgk",
+     "titulo": "Impact Stories: Nicole Adams, Executive Director of Special Services, Lexington School District",
+     "revisado": false
+    },
+    {
+     "id": "VWTMH44nxWs",
+     "url": "https://www.youtube.com/watch?v=VWTMH44nxWs",
+     "titulo": "Impact Stories: Lisa Hartman, Special Education Teacher, Grades 6 – 8 Self-Contained Classroom",
+     "revisado": false
+    },
+    {
+     "id": "6aePcCBnNZA",
+     "url": "https://www.youtube.com/watch?v=6aePcCBnNZA",
+     "titulo": "Impact Stories: Don Hardie, Principal, White Knoll Middle School",
+     "revisado": false
+    },
+    {
+     "id": "kxH10Ermhkk",
+     "url": "https://www.youtube.com/watch?v=kxH10Ermhkk",
+     "titulo": "From Data to Action: Supporting Students with Behavioral and Mental Health Challenges Webinar",
+     "revisado": false
+    },
+    {
+     "id": "iLu6_BYZljY",
+     "url": "https://www.youtube.com/watch?v=iLu6_BYZljY",
+     "titulo": "Planning for Success: Building Readiness to Implement Data-Based Individualization",
+     "revisado": false
+    },
+    {
+     "id": "C5mPFANSTA8",
+     "url": "https://www.youtube.com/watch?v=C5mPFANSTA8",
+     "titulo": "Using the RIOT/ICEL Matrix to Guide Intensification Decisions Webinar",
+     "revisado": false
+    },
+    {
+     "id": "TOg41nPGR7Y",
+     "url": "https://www.youtube.com/watch?v=TOg41nPGR7Y",
+     "titulo": "Using DBI to Improve Literacy Outcomes for Students with Intellectual and Developmental Disabilities",
+     "revisado": false
+    },
+    {
+     "id": "l_3_xpiTxTQ",
+     "url": "https://www.youtube.com/watch?v=l_3_xpiTxTQ",
+     "titulo": "How to Use NCII's  Student Progress Monitoring Tool for Data Collection and Graphing",
+     "revisado": false
+    },
+    {
+     "id": "9kzxgyBUNQY",
+     "url": "https://www.youtube.com/watch?v=9kzxgyBUNQY",
+     "titulo": "Leveraging Data-Based Individualization to Design and Deliver Specially Designed Instruction",
+     "revisado": false
+    },
+    {
+     "id": "QOZ6wzzU51w",
+     "url": "https://www.youtube.com/watch?v=QOZ6wzzU51w",
+     "titulo": "Better Together! Keys to Creating Efficient and Effective Intensive Intervention Team Meetings",
+     "revisado": false
+    },
+    {
+     "id": "uaO3jP5ydLo",
+     "url": "https://www.youtube.com/watch?v=uaO3jP5ydLo",
+     "titulo": "Supporting English Learners With Intensive Needs",
+     "revisado": false
+    },
+    {
+     "id": "Jf-3PCvt30o",
+     "url": "https://www.youtube.com/watch?v=Jf-3PCvt30o",
+     "titulo": "About the National Center on Intensive Intervention",
+     "revisado": false
+    },
+    {
+     "id": "Okf13dhhXFE",
+     "url": "https://www.youtube.com/watch?v=Okf13dhhXFE",
+     "titulo": "Building Social and Emotional Competencies Among Students with Intensive Needs",
+     "revisado": false
+    },
+    {
+     "id": "u1RX4whuXZM",
+     "url": "https://www.youtube.com/watch?v=u1RX4whuXZM",
+     "titulo": "Oregon Implementation Story",
+     "revisado": false
+    },
+    {
+     "id": "cADQv75y0AQ",
+     "url": "https://www.youtube.com/watch?v=cADQv75y0AQ",
+     "titulo": "Voices from the Field: A district leader's experiences and insights into implementing DBI",
+     "revisado": false
+    },
+    {
+     "id": "bwxiByJDh4U",
+     "url": "https://www.youtube.com/watch?v=bwxiByJDh4U",
+     "titulo": "Sustaining DBI Implementation in New York City",
+     "revisado": false
+    },
+    {
+     "id": "2W9mUhd-p60",
+     "url": "https://www.youtube.com/watch?v=2W9mUhd-p60",
+     "titulo": "Texas Implementation Story",
+     "revisado": false
+    },
+    {
+     "id": "HV3Xlps0tAQ",
+     "url": "https://www.youtube.com/watch?v=HV3Xlps0tAQ",
+     "titulo": "North Carolina Implementation Story",
+     "revisado": false
+    }
+   ]
+  }
+ ]
+}
