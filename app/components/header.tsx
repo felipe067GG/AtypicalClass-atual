@@ -19,6 +19,7 @@ import {
   Moon,
   ChevronDown,
   Check,
+  Wand2,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { LogoWordmark } from "@/components/brand/logo"
@@ -94,6 +95,7 @@ export default function Header() {
   const navLinks = [
     { href: "/questoes", label: t("questions"), icon: BookMarked },
     { href: "/conteudos", label: t("content"), icon: BookOpen },
+    { href: "/adaptar", label: t("adapt"), icon: Wand2 },
     ...(user ? [{ href: "/contribuir", label: t("contribute"), icon: Pencil }] : []),
   ]
 

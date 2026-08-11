@@ -10,6 +10,7 @@ export const translations = {
 
     // Header
     home: "Início",
+    adapt: "Adaptar",
     questions: "Questões",
     content: "Conteúdos",
     contribute: "Atribuir",
@@ -327,6 +328,8 @@ export const translations = {
     average_effectiveness: "Eficácia Média",
 
     // Questions page
+    adaptTitle: "Adaptar meu material",
+    adaptDesc: "Cole a atividade ou a questão que você já usa, escolha o aluno, e receba aquilo adaptado — com a orientação e a fonte ao lado.",
     questionsBank: "Banco de Questões",
     questionsBankDesc: "Questões de diversas matérias e especialidades para estudo e prática",
     subject: "Matéria",
@@ -1464,6 +1467,7 @@ export const translations = {
 
     // Header
     home: "Home",
+    adapt: "Adapt",
     questions: "Questions",
     content: "Content",
     contribute: "Contribute",
@@ -1778,6 +1782,8 @@ export const translations = {
     average_effectiveness: "Average Effectiveness",
 
     // Questions page
+    adaptTitle: "Adapt my material",
+    adaptDesc: "Paste the activity or question you already use, choose the student, and get it adapted — with the guidance and the source alongside.",
     questionsBank: "Question Bank",
     questionsBankDesc: "Questions from various subjects and specialties for study and practice",
     subject: "Subject",
@@ -2915,6 +2921,7 @@ export const translations = {
 
     // Header
     home: "Inicio",
+    adapt: "Adaptar",
     questions: "Preguntas",
     content: "Contenidos",
     contribute: "Contribuir",
@@ -3231,6 +3238,8 @@ export const translations = {
     average_effectiveness: "Eficacia Promedio",
 
     // Questions page
+    adaptTitle: "Adaptar mi material",
+    adaptDesc: "Pegue la actividad o la pregunta que ya usa, elija al estudiante, y reciba eso adaptado — con la orientación y la fuente al lado.",
     questionsBank: "Banco de Preguntas",
     questionsBankDesc: "Preguntas de diversas materias y especialidades para estudio y práctica",
     subject: "Materia",

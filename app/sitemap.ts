@@ -36,6 +36,9 @@ const ROTAS: Rota[] = [
   // As duas rotas que vêm do banco: mudam sempre que entra material novo.
   { path: "/questoes", changeFrequency: "weekly", priority: 0.9 },
   { path: "/conteudos", changeFrequency: "weekly", priority: 0.9 },
+  // Ferramenta, e não acervo: o conteúdo dela é o material que o professor
+  // traz, então não muda com o que entra aqui.
+  { path: "/adaptar", changeFrequency: "monthly", priority: 0.9 },
   ...SPECIALTIES.map((specialty) => ({
     path: `/${specialty.slug}`,
     changeFrequency: "monthly" as const,
