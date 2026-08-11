@@ -379,15 +379,29 @@ if (!SO_QUESTOES && imagensParaSubir.length) {
       }
     }
 
-    const { error } = await supabase.storage
-      .from(BUCKET)
-      .upload(caminho, bytes, {
+    /**
+     * Três tentativas, com espera crescente.
+     *
+     * Subindo 2 367 arquivos em paralelo, o Storage devolve um "Bad Request"
+     * avulso de vez em quando — a mesma imagem sobe sozinha, sem erro, um
+     * minuto depois. Sem repetição isso derrubava o envio inteiro **antes de
+     * gravar uma linha sequer**, porque a saída por falha de imagem acontece
+     * antes da gravação: dez minutos de upload perdidos por um 400 passageiro,
+     * e o banco ficando com o conteúdo velho enquanto o disco já tinha o novo.
+     */
+    let ultimoErro = null
+    for (let tentativa = 1; tentativa <= 3; tentativa += 1) {
+      const { error } = await supabase.storage.from(BUCKET).upload(caminho, bytes, {
         // `upsert` é o que torna a reexecução barata e segura: subir de novo
         // substitui o mesmo arquivo em vez de acumular cópias.
         upsert: true,
         contentType: `image/${caminho.split(".").pop().replace("jpg", "jpeg")}`,
       })
-    if (error) falhas.push(`${caminho}: ${error.message}`)
+      if (!error) return
+      ultimoErro = error
+      if (tentativa < 3) await new Promise((r) => setTimeout(r, 1500 * tentativa))
+    }
+    falhas.push(`${caminho}: ${ultimoErro.message} (3 tentativas)`)
   })
 
   if (falhas.length) {

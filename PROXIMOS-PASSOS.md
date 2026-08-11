@@ -49,28 +49,93 @@ exatamente como valia contra mim.
 O modelo não opina sobre pedagogia; ele executa instrução que já tem procedência,
 e a saída sai com a fonte junto. É o que mantém a promessa do resto do site.
 
-## Três riscos, e o primeiro passo sai deles
+## Três riscos — medidos em 11/08/2026
 
-**1. Os limiares são percentis do ENEM, não do material de escola.** `LIMIARES`
-em `medir.mjs` vem da distribuição de 3.495 questões de prova real. Uma atividade
-de 4º ano quase nunca cruza `leitura-longa` — não porque seja fácil para o aluno,
-mas porque a régua foi calibrada noutro corpus. **Se isso não for medido antes, a
-ferramenta dirá "nenhuma barreira" para metade do que o professor colar.**
+**1. A régua do ENEM não dispara em material de escola. Confirmado, e é ordem de
+grandeza.** Rodando `medir()` sobre as 280 questões autorais — escritas de
+propósito "para quem ainda não alcança uma questão de ENEM":
 
-**2. Conteúdo e plano de aula não têm detector.** As 7 exigências são declaradas
-por leitura humana. O que existe em `conferir.mjs` são heurísticas por palavra
-que erraram 9 de 9 na estreia ("quadra" dentro de *quadrado*). Para plano de
-aula, o caminho honesto é o modelo **propor** as exigências e o professor
-confirmar — não detectar sozinho.
+| | autorais | ENEM + vestibular |
+|---|---|---|
+| **sem barreira nenhuma** | **91%** (256 de 280) | 13% (470 de 3.495) |
+
+O **p90** do enunciado nas autorais é **142 caracteres**; o limiar é **868**.
+`leitura-longa` disparou **0 vezes em 280**.
+
+**A decomposição salva metade dos detectores, e é o que interessa:**
+
+| sobrevivem | por quê | quebram |
+|---|---|---|
+| `figura-essencial` | é fato, não limiar | `leitura-longa` (0%) |
+| `vocabulario-denso` (3%) | densidade é proporção, escala-livre | `alternativas-longas` (0%) |
+| `alternativas-numericas` (6%) | absoluto | `muitos-numeros` (0%) |
+| `cadeia-de-etapas` (1%) | marcador contado | `periodo-longo` (1%) |
+
+As quatro que quebram são exatamente as **quatro de comprimento**, as únicas
+relativas ao corpus. `figura-essencial` deu 0% só porque as autorais não têm
+imagem — numa folha de atividade de escola é a que mais dispara.
+
+**O que falta é corpus de professor de verdade**, e as autorais são proxy com
+viés conhecido: fui eu que as escrevi curtas. Os candidatos são os itens
+liberados do **SAEB/Prova Brasil** (`portal.mec.gov.br/dmdocuments/saeb_matriz2.pdf`,
+Português e Matemática, 5º e 9º ano, amplo) e as provas da **OBMEP**. Em
+11/08/2026 os dois estavam inacessíveis: `download.inep.gov.br` e
+`portal.mec.gov.br` passaram a recusar conexão depois de eu baixar quinze
+cadernos do ledor no mesmo dia. É limitação de momento, não beco sem saída —
+e o `extrairTexto` já lê PDF de governo, agora sem comer a ligadura "fi".
+
+**Não calibrar em OBMEP sozinha.** É olimpíada de matemática: daria régua de
+problema curto de matemática, e a metade do material de professor que é texto
+longo de Português e História ficaria de fora. Corpus estreito com número
+bonito é pior que nenhum, porque parece resolvido.
+
+**2. Conteúdo e plano de aula não têm detector. Agora tem, e ele está medido.**
+`npm run exigencias` roda o proponente de `scripts/conteudos/propor-exigencias.mjs`
+contra as **170 exigências declaradas por leitura humana** — 1.190 rótulos.
+
+```
+geral: precisão 70% · cobertura 49% · F1 58%
+```
+
+| exigência | precisão | cobertura |
+|---|---|---|
+| representação visual | 89% | 67% |
+| prática concreta | 65% | 79% |
+| leitura extensa | 85% | 40% |
+| produção do aluno | 63% | 46% |
+| abstração simbólica | 50% | 52% |
+| sequência de passos | 50% | 26% |
+| **vocabulário técnico** | **44%** | **13%** |
+
+**Isto não autoriza declarar exigência sozinho — e é essa a conclusão útil.**
+Com 49% de cobertura, metade do que o conteúdo exige passa batido, e o professor
+teria de reler tudo de qualquer jeito. O que muda é que "o modelo propõe e o
+professor confirma" deixou de ser intenção e virou número: qualquer proponente
+novo, inclusive um modelo de linguagem, tem 58% de F1 para bater, e o script sai
+com código 1 se cair abaixo do piso medido.
+
+**O que o método não alcança está nos erros, e vale mais que a média.** A
+avaliação nomeia **o artefato**, como substantivo, sem nenhum verbo de produção:
+"A intervenção realizada", "A ficha completa", "A proposta com dois critérios",
+"As duas explicações escritas". Procurar verbo perdia 48 das 89; uma linha de
+substantivos recuperou treze. Reconhecer que "a ficha" é coisa que o aluno
+entrega e "a relação padrão-matriz" não é **leitura**, não casamento — que é
+exatamente o trabalho que se quer dar ao modelo. Por isso `vocabulario-tecnico`
+fica em 13%: "três termos que o aluno não encontraria fora da escola" não tem
+forma de superfície nenhuma.
+
+**As 170 não são gabarito perfeito.** São a leitura de uma pessoa, e há casos em
+que a outra decisão seria igualmente defensável — "O desenho com três estruturas
+nomeadas" foi lido como representação visual e não como produção do aluno. O
+número mede concordância com quem escreveu o acervo, que é o que interessa.
 
 **3. A ferramenta precisa saber dizer "não achei nada".** 470 das 3.495 questões
 não disparam barreira alguma, e para elas não há o que orientar. IA que sempre
-produz adaptação vai inventar em 13% dos casos.
-
-**O primeiro passo, portanto, não é código: é medir.** Rodar os detectores sobre
-material de professor de verdade — atividade de anos iniciais, prova de escola,
-lista de exercícios — e ver o que dispara. Se a régua do ENEM não servir, isso
-muda o desenho inteiro, e é barato descobrir antes.
+produz adaptação vai inventar em 13% dos casos — e, com a régua do ENEM em
+material de escola, em 91%. O conserto sai do risco 1: `medir()` já devolve
+`{ medidas, barreiras }`, e a ferramenta tem de mostrar **o que mediu e onde
+aquilo cai na distribuição** ("enunciado de 130 caracteres, p40 do acervo
+escolar"), nunca um veredito vazio.
 
 ## Perguntas em aberto, para decidir antes de construir
 
@@ -1069,6 +1134,8 @@ npm run diversa -- --refazer                       # ignora o que já foi visita
 npm run canais                                     # colhe os canais institucionais
 npm run canais -- --so dislexia                    # só uma especialidade, preservando o resto do arquivo
 npm run detectores                                 # mede as 3.495 e confere a matriz
+npm run exigencias                                 # mede o proponente contra as 170 declaradas
+npm run exigencias -- --erros                      # lista os desacertos, para inspeção
 npm run autorais                                   # confere as 280 questões autorais
 npm run bncc                                       # confere os códigos da BNCC no PDF oficial
 npm run check:links                                # valida todas as fontes

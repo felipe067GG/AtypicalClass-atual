@@ -19,7 +19,8 @@
     "canais": "node scripts/conteudos/canais.mjs",
     "enviar": "node scripts/import-supabase/enviar.mjs",
     "enviar:conteudos": "node scripts/import-supabase/enviar-conteudos.mjs",
-    "descricoes:ledor": "node scripts/import-enem/recuperar-descricoes-ledor.mjs"
+    "descricoes:ledor": "node scripts/import-enem/recuperar-descricoes-ledor.mjs",
+    "exigencias": "node scripts/conteudos/medir-exigencias.mjs"
   },
   "dependencies": {
     "@ai-sdk/google": "^4.0.39",
