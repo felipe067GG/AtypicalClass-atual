@@ -8,6 +8,29 @@
 -- de aula de `data/conteudos/`. Depois dela, rode `npm run enviar:conteudos`.
 --
 -- -----------------------------------------------------------------------------
+-- JÁ FOI APLICADO em 11/08/2026, e não pelo SQL Editor
+-- -----------------------------------------------------------------------------
+--
+-- Diferente do 08, que o mantenedor rodou no SQL Editor, este foi aplicado por
+-- conexão direta ao Postgres (`POSTGRES_URL_NON_POOLING`), com um cliente `pg`
+-- instalado fora do repositório — o projeto não tem essa dependência e não
+-- precisa ganhar uma por causa de um DDL de uma vez só.
+--
+-- Duas pegadinhas, se for preciso repetir:
+--
+--  1. **Tire `sslmode` da string de conexão** e passe
+--     `ssl: { rejectUnauthorized: false }`. O `pg` novo trata `sslmode=require`
+--     como `verify-full`, e a cadeia do Supabase tem raiz própria (RNP/ICPEdu no
+--     caso de outros hosts; aqui, a do próprio Supabase).
+--  2. As duas restrições de array **foram corrigidas depois**, por `ALTER`
+--     (ver o comentário em `conteudos_tem_bncc`). Num banco novo este arquivo já
+--     nasce certo; num banco que rodou a primeira versão, `CREATE TABLE IF NOT
+--     EXISTS` não conserta nada — é preciso o `ALTER` à mão.
+--
+-- O estado no banco foi conferido depois: 170 linhas, 6 restrições, leitura
+-- pública, e comparação campo a campo com `data/conteudos/` sem divergência.
+--
+-- -----------------------------------------------------------------------------
 -- Por que uma tabela nova, e não colunas em `content`
 -- -----------------------------------------------------------------------------
 --
