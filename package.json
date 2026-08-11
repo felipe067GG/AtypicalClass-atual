@@ -17,7 +17,8 @@
     "videos": "node scripts/conteudos/videos.mjs",
     "diversa": "node scripts/conteudos/diversa.mjs",
     "canais": "node scripts/conteudos/canais.mjs",
-    "enviar": "node scripts/import-supabase/enviar.mjs"
+    "enviar": "node scripts/import-supabase/enviar.mjs",
+    "enviar:conteudos": "node scripts/import-supabase/enviar-conteudos.mjs"
   },
   "dependencies": {
     "@ai-sdk/google": "^4.0.39",

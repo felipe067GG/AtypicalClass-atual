@@ -53,15 +53,20 @@ export function LiveStats() {
     // (`questoes` — provas reais e autorais) e a tabela antiga (`questions` —
     // contribuições de professor e as 43 primeiras). Contar só uma delas daria
     // um número que não corresponde ao que a página de questões oferece.
+    //
+    // O de conteúdos soma pelo mesmo motivo, desde que a biblioteca curricular
+    // ganhou tabela própria: `conteudos` traz os 170 com plano de aula e
+    // `content`, as dicas contribuídas por professor. A página mostra os dois.
     Promise.all([
       supabase.from("questoes").select("id", { count: "exact", head: true }),
       supabase.from("questions").select("id", { count: "exact", head: true }),
+      supabase.from("conteudos").select("id", { count: "exact", head: true }),
       supabase.from("content").select("id", { count: "exact", head: true }),
     ])
-      .then(([acervo, antigas, contents]) =>
+      .then(([acervo, antigas, biblioteca, contents]) =>
         setCounts({
           questions: (acervo.count ?? 0) + (antigas.count ?? 0),
-          contents: contents.count ?? 0,
+          contents: (biblioteca.count ?? 0) + (contents.count ?? 0),
         }),
       )
       .catch(() => setCounts({ questions: 0, contents: 0 }))

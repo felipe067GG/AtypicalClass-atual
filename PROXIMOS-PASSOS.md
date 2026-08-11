@@ -319,15 +319,48 @@ exigências continuam sendo leitura, como foram nas células escritas.
 | triagem por playlist, 891 candidatos com título | ✅ curada (`triagem.json`) |
 | vídeo formativo escolhido por célula | ⏳ **89 de 98** — 9 especialidades em 7 de 7 |
 | vídeo formativo assistido | ❌ **0 de 89** — a fila inteira aguarda revisão |
-| tabela `conteudos` no Supabase | ❌ não começado |
-| página `/conteudos` | ❌ ainda lê as 11 linhas antigas |
+| tabela `conteudos` no Supabase | ✅ **170 linhas no ar** |
+| página `/conteudos` | ✅ lê a biblioteca; as 11 antigas viraram "Da comunidade" |
 
 Educação Física fica em zero por decisão do mantenedor — o conferidor a lista
 como "nenhum", que é lacuna declarada e não esquecimento.
 
-**Nada foi enviado ao Supabase de propósito.** O mantenedor decidiu subir só
-quando tudo estiver pronto, e é por isso que a página continua com as onze
-linhas antigas mesmo com 156 conteúdos no repositório.
+## A biblioteca foi ao ar (11/08/2026)
+
+`scripts/09-biblioteca-de-conteudos.sql` cria a tabela `conteudos` e
+`npm run enviar:conteudos` a preenche. **170 linhas, 13 matérias, 41 vídeos e
+427 fontes**, conferidas relendo do banco. Como em `questoes`, o script não
+escreve nada sem `--confirmar`.
+
+**A matriz não vai para o banco**, pelo mesmo motivo da matriz de questões: vive
+em `lib/conteudos/matriz.ts` e é lida pelo site, porque é conteúdo com fonte que
+muda por revisão e não por importação. E os 89 vídeos formativos ainda não foram
+assistidos — publicá-los faria o banco recomendar o que ninguém viu.
+
+### Cinco regras viraram restrição do banco
+
+Fonte obrigatória, âncora na BNCC, exigência declarada, plano com etapas e
+duração, e **vídeo não revisado não entra**. A última precisou de função
+`IMMUTABLE` (`conteudos_videos_revisados`), porque CHECK não aceita subconsulta e
+conferir cada item de um array JSON exige percorrê-lo.
+
+**Duas das cinco não recusavam nada, e pareciam certas.** `array_length(bncc, 1)
+>= 1` devolve **NULL** para o array vazio, e CHECK que resulta em NULL é
+considerado satisfeito — a restrição existia, tinha o nome certo e aceitava
+`'{}'`. O mesmo valia para `exigencias`. Corrigidas para `cardinality()`, que
+devolve 0.
+
+Só apareceu porque as cinco foram testadas uma a uma, com `INSERT` de linha ruim
+dentro de transação desfeita. **Restrição que nunca viu uma linha ruim é
+suposição, não garantia** — e é barato transformar em garantia.
+
+### A tabela antiga não foi apagada
+
+`content` continua recebendo a "Dica Pedagógica" que o professor publica por
+`app/actions/posts.tsx`. As onze linhas antigas passam a aparecer em "Da
+comunidade", separadas da biblioteca — mesma decisão de `/questoes`, e pelo mesmo
+motivo: apagar a contribuição do professor para estrear a biblioteca seria trocar
+uma coisa pela outra sem ele ter pedido. O contador da home soma as duas.
 
 ## Os 17 vídeos foram assistidos e aprovados (10/08/2026)
 
