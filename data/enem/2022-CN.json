@@ -599,7 +599,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Apresenta as concentrações iniciais de sacarose, em grama por litro, e as concentrações de microrganismos, em miligrama por litro, para os cinco códigos das amostras de cana-de-açúcar: RB72, RB84, RB92, SP79 e SP80. Amostra RB72: Concentração inicial de sacarose igual a 13,0 e a de microrganismos igual a 0,7. Amostra RB84: Concentração inicial de sacarose igual a 18,0 e a de microrganismos igual a 0,8. Amostra RB92: Concentração inicial de sacarose igual a 16,0 e a de microrganismos igual a 0,6. Amostra SP79: Concentração inicial de sacarose igual a 14,0 e a de microrganismos igual a 0,5. Amostra SP80: Concentração inicial de sacarose igual a 17,0 e a de microrganismos igual a 0,9."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 102,
@@ -1046,7 +1049,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Dados em duas colunas. A primeira coluna indica o tempo decorrido, em dia. A segunda coluna indica as respectivas massas residuais de iodo-131, em micrograma. Tempo: 0; massa residual 12,0. Tempo: 2; massa residual 10,1. Tempo: 4; massa residual 8,5. Tempo: 5; massa residual 7,8. Tempo: 6; massa residual 7,2. Tempo: 8; massa residual 6,0."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 110,
@@ -1265,7 +1271,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Apresenta as densidades, em quilograma por metro cúbico, e calores específicos, em joule por grama por grau Celsius, da água e do concreto. Água — Densidade: 1 000; e Calor específico: 4,2. Concreto — Densidade: 2 500; e Calor específico: 0,8."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 116,
@@ -1487,7 +1496,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Dados em três colunas. A primeira apresenta os ensaios de 1 a 6, a segunda, as respectivas temperaturas, em grau Celsius, e a terceira, os resultados dos ensaios, em termos de decomposição de H2O2, em 10 elevado a menos 12 mol por minuto. Ensaio 1: Temperatura 10 e Resultado 8,0. Ensaio 2: Temperatura 15 e Resultado 10,5. Ensaio 3: Temperatura 20 e Resultado 9,5. Ensaio 4: Temperatura 25 e Resultado 5,0. Ensaio 5: Temperatura 30 e Resultado 3,6. Ensaio 6: Temperatura 35 e Resultado 3,1. Ensaio Temperatura (°C) Resultado Decomposição de H2O2 \u001f\u001e\u001f\u001d \u001f\u001e \u001d \u001c \u001b \u001a \u0019 \u001c\u001b \u001a \u001c\u0019 \u00181 10 8,0 2 15 10,5 3 20 9,5 4 25 5,0 5 30 3,6 6 35 3,1 Os diferentes resultados dos ensaios justificam-se pelo(a) A A variação do pH do meio."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 121,
@@ -1542,7 +1554,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Antimicrobiano 1. Ação: une-se aos ribossomos. Efeito: impede a síntese proteica. Antimicrobiano 2. Ação: une-se aos microtúbulos. Efeito: impede a segregação das cromátides. Antimicrobiano 3. Ação: une-se aos fosfolipídeos da membrana plasmática. Efeito: reduz a permeabilidade da membrana plasmática. Antimicrobiano 4. Ação: interfere na síntese de timina. Efeito: inibe a síntese de DNA. Antimicrobiano 5. Ação: interfere na síntese de uracila. Efeito: impede a síntese de RNA. Antimicrobiano Ação Efeito 1 Une-se aos ribossomos Impede a síntese proteica 2 Une-se aos microtúbulos Impede a segregação das cromátides 3 Une-se aos fosfolipídeos da membrana plasmática Reduz a permeabilidade da membrana plasmática 4 Interfere na síntese de timina Inibe a síntese de DNA 5 Interfere na síntese de uracila Impede a síntese de RNA Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo? A A 1 B B 2 C C 3 D D 4 E E 5*021125LA7* 8"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 122,
@@ -1919,7 +1934,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Dados em três colunas. A primeira coluna indica as rotas. A segunda coluna indica a ddp, com unidade em joule por carro por metro. A terceira coluna indica a corrente, com unidade carro por segundo. Rota 1: ddp 510 e corrente 4. Rota 2: ddp 608 e corrente 4. Rota 3: ddp 575 e corrente 3. Rota d.d.p."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 129,

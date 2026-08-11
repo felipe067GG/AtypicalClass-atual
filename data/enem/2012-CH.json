@@ -419,7 +419,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/8",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Gandhi está em uma cela. Do lado de fora milhares de pessoas com o rosto igual ao de Gandhi observam o preso. Lord Willingdon, que está em frente à porta da cela, demonstra dúvida sobre abrir ou fechar o cadeado da cela."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D1.pdf)"
   },
   {
     "numero": 9,
@@ -997,7 +1001,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/19",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "em uma linha de produção em um galpão de fábrica, operários e operárias executam de forma simultânea a montagem de partes de equipamentos semelhantes."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D1.pdf)"
   },
   {
     "numero": 20,

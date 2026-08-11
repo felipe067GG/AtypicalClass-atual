@@ -53,7 +53,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/136",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "234567 + 12 + 13 + 25 + 38 + 5… A potência , escrita na forma a b ( a e b A 5 .B 7 .C 9 .D 11.E 13."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 137,
@@ -166,7 +170,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/140",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro relaciona as comissões às suas respectivas médias de faturamento mensal ( M ), sendo: M maior ou igual a 1 e menor que 2. M maior ou igual a 2 e menor que 4. M maior ou igual a 4 e menor que 5. M maior ou igual a 5 e menor que 6. M maior ou igual a 6.",
+      "O quadro apresenta a quantidade de meses em que se O faturamento mensal de 3,5 milhões de reais foi obtido em 3 meses. O faturamento mensal de 2,5 milhões de reais foi obtido em 2 meses. O faturamento mensal de 5 milhões de reais foi obtido em 2 meses. O faturamento mensal de 3 milhões de reais foi obtido em 4 meses. O faturamento mensal de 7,5 milhões de reais foi obtido em 1 mês. Faturamento mensal (em milhão de real) Quantidade de meses 3,53 2,52 52 34 7,51 Nas condições apresentadas, os representantes desse A 1.B 2.C 3.D 4.E 5."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 141,
@@ -330,7 +339,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/143",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Nível dos reservatórios em 2 de fevereiro de 2015 litros, dos reservatórios 1, 2, 3, 4 e 5 e seus respectivos O reservatório 1 tem capacidade de 105 bilhões de litros O reservatório 2 tem capacidade de 100 bilhões de litros O reservatório 3 tem capacidade de 20 bilhões de litros O reservatório 4 tem capacidade de 80 bilhões de litros O reservatório 5 tem capacidade de 40 bilhões de litros IIIIIIIVV 100 90 80 70 60 50 40 30 20 10 0 Nível dos reservatórios em 2 fev. 2015 Reservatório Capacidade (bilhão de litros) 105100208040Nessa data, o reservatório com o maior volume de água era oA 1.B 2.C 3.D 4.E 5."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 144,
@@ -386,7 +399,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/144",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "em ano e, no eixo vertical, a frequência de ocorrência. Alunos com 9 anos de idade tiveram frequência de ocorrência 6. Alunos com 18 anos de idade tiveram frequência de ocorrência 12. Alunos com 27 anos de idade tiveram frequência de ocorrência 9. Frequência de ocorrênciaIdade (ano) 12 9 6 91827 A 9B 12C 18D 19E 27 30 MT - 2° dia | Caderno 11 - LARANJA LEDOR - 1ª Aplicação*021125LA30* L a r a j n a L e d o r C N M T 2 D i a P 1 . i n d b 3 0 0 9 / 0 9 / 2 0 2 1 1 9 : 1 2 : 0 6"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 146,
@@ -497,7 +514,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/147",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "as letras do alfabeto de A a Z e, no eixo vertical, o número de frequências de 0 a 70 000, com intervalo de 10 000 entre os números. A letra A tem frequência igual a 70 000. A letra B tem frequência entre 0 e 10 000. A letra C tem frequência pouco abaixo de 20 000. A letra D tem frequência pouco acima de 20 000. A letra E tem frequência pouco acima de 60 000. A letra I tem frequência pouco acima de 30 000. A letra k tem frequência igual a 0. A letra L tem frequência entre 10 000 e 20 000. As letras M e N têm frequência pouco acima de 20 000. A letra O tem frequência pouco acima de 50 000. A letra P tem frequência pouco acima de 10 000. A letra Q tem frequência entre 0 e 10 000. A letra R tem frequência pouco acima de 30 000. A letra S tem frequência pouco abaixo de 40 000. A letra T tem frequência próxima a 20 000. A letra U tem frequência pouco acima de 20 000. A letra V tem frequência igual a 10 000. A letra W tem frequência igual a 0. A letra X tem frequência pouco acima de 0. A letra Y tem frequência igual a 0. A letra Z tem frequência pouco acima de 0. 70 000 60 000 50 000 40 000 30 000 20 000 10 000 0 ABCDEFGHIJKLMNOPQRSTUVWXYZ Frequência As quatro letras mais frequentes, em ordem decrescente A A, E, O e S.B D,C D, H, R e V.D R, L, B e X.E X, B, L e P. 29 MT - 2° dia | Caderno 11 - LARANJA LEDOR - 1ª Aplicação *021125LA29* L a r a j n a L e d o r C N M T 2 D i a P 1 . i n d b 2 9 0 9 / 0 9 / 2 0 2 1 1 9 : 1 2 : 0 6"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 148,
@@ -833,7 +854,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/154",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "brasileira (em milhar) nos anos 1990, 2000 e 2010. milhar) de 147 mil. (em milhar) de 170 mil. (em milhar) de 191 mil. AnoMédicosPopulação brasileira (em milhar) 1990219 000147 000 2000292 000170 000 2010365 000191 000 2000 e a de 2000 para 2010."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 155,
@@ -949,7 +974,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/156",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "massa ( m) P) P) t P) representado por uma linha sinuosa que se inicia no ponto (0, \u0004 3). P) igual a três positivo nos instantes: pi sobre dois, três pi sobre dois e cinco pi sobre dois. Nos pontos mais baixos, a curva atinge o valor de ( P) igual a três negativo e nos instantes: zero, pi, dois pi e três pi. 1 2 3 0 \u0004 1 \u0004 2 \u0004 3 P 2 \u000e \u000e 2 3 \u000e 2 \u000e 2 5 \u000e 3 \u000et Gráfico Posição de equilíbrio m m Mola distendida P ( t ) da massa m A menos 3 cosseno de 2 t .B menos 3 seno de 2 t .C 3 cosseno de 2 t .D menos 6 cosseno de 2 t .E 6 seno de 2 t ."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 157,
@@ -1391,7 +1420,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/164",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro apresenta as seguintes informações: Na viagem 1, constam 12 camisetas, 4 calças e 3 sapatos. Na viagem 2, constam 18 camisetas, 3 calças e 2 sapatos."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 165,
@@ -1833,7 +1866,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/172",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as seguintes informações: “Frequências cardíacas máximas (batimentos por minuto) em cada cardíaca máxima foi de 90 batimentos por minuto."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 173,
@@ -1943,7 +1980,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/174",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as seguintes informações: Na farmácia 1, o medicamento X custa 45 reais, o medicamento Y custa 40 reais e o medicamento Z custa 50 reais. Na farmácia 2, o medicamento X custa 50 reais, o medicamento Y custa 50 reais e o medicamento Z custa 40 reais. Na farmácia 3, o medicamento X custa 65 reais, o medicamento Y custa 45 reais e o medicamento Z custa 35 reais."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 176,
@@ -2053,7 +2094,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/177",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro apresenta as seguintes informações: “ a , b e a mais b Quando a é igual a zero e b é igual a zero, a mais b é igual a zero. Quando a é igual a zero e b é igual a um, a mais b é igual a um. Quando a é igual a um e b é igual a zero, a mais b é igual a um. Quando a é igual a um e b é igual a um, a mais b é igual a abre parêntese um zero fecha parêntese. aba \u0006 b 000 011 101 1110 Por exemplo, na base binária, a soma dos números abre parêntese um zero fecha parêntese e abre parêntese um zero fecha parêntese é abre parêntese um zero zero fecha parêntese, como apresentado:",
+      "abre parêntese um zero fecha parêntese mais abre parêntese um zero fecha parêntese é igual a abre parêntese um zero zero fecha parêntese."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 178,

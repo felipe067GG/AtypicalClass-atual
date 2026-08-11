@@ -261,7 +261,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/95",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Os reagentes C 6 H 12 O 6 (sólido) mais 6 O 2 (gasoso) formam os produtos 6 CO 2 (gasoso) mais 6 H 2 O (líquido). Variação de entalpia de combustão igual a − 2 800 quilojoules. Os reagentes CH 3 CH(OH)COOH (sólido) mais 3 O 2 (gasoso) formam os produtos 3 CO 2 (gasoso) mais 3 H 2 O (líquido). Variação de entalpia de combustão igual a − 1 344 quilojoules."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 96,
@@ -315,7 +319,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/96",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com estratégias 1 e 2. Estratégia 1: Hábitat: Mais instável e imprevisível."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 97,
@@ -578,7 +586,13 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/103",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro que contém duas figuras representando o biochip, o qual é constituído por um tubo com dois semicírculos nas pontas e um na parte central. Na primeira figura está o biochip antes da adição de soro, no qual o primeiro semicírculo da esquerda para a direita está vazio; o segundo contém as enzimas e o terceiro, o iodeto de potássio. Na segunda figura está o biochip após a adição de soro, no qual o primeiro semicírculo da esquerda para direita contém o soro que segue em fluxo para o semicírculo central e atinge o terceiro semicírculo, que se torna colorido.",
+      "Os reagentes C 6 H 12 O 6 (aquoso) mais O 2 (gasoso) mais H 2 O (líquido), na presença de enzimas, formam os produtos C 6 H 12 O 7 (aquoso) mais H 2 O 2 (aquoso). Na segunda, o peróxido de hidrogênio reage com íons iodeto gerando o íon tri-iodeto, água e oxigênio.",
+      "Os reagentes 2 H 2 O 2 (aquoso) mais 3 I de carga negativa (aquoso) formam I 3 de carga negativa (aquoso) mais 2 H 2 O (líquido) mais O 2 (gasoso)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 104,
@@ -894,7 +908,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/109",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Ilustração do planeta Terra com a indicação da cidade do Rio de Janeiro no Hemisfério Sul e com o Oceano Atlântico a leste do Rio de Janeiro. Uma seta indica o sentido de rotação da Terra de oeste para leste (sentido anti-horário vista a partir do Polo Norte)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 110,
@@ -1052,7 +1070,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/112",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com: fração; faixa de temperatura, em grau Celsius; exemplos de produto(s) e número de átomos de carbono (hidrocarboneto de fórmula geral C n H 2n+2 ), respectivamente: Fração 1: Até 20 graus Celsius, gás natural e gás de cozinha (GLP), C 1 a C 4 . Fração 2: 30 a 180 graus Celsius, gasolina, C 6 a C 12 . Fração 3: 170 a 290 graus Celsius, querosene, C 11 a C 16 . Fração 4: 260 a 350 graus Celsius, óleo diesel, C 14 a C 18 ."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 113,
@@ -1106,7 +1128,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/113",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Um sistema de três eixos cartesianos (x, y, z) no qual existem linhas de campo magnético (vetor B) dispostas paralelamente ao eixo x (perpendiculares ao plano yz). Uma carga pontual positiva q está executando várias voltas em trajetória helicoidal em torno das linhas de campo magnético B, avançando no sentido positivo do eixo x. A massa do íon medida por esse dispositivo será A Fração de numerador q vezes B vezes t e denominador 2 vezes pi vezes N . B Fração de numerador q vezes B vezes t e denominador pi vezes N . C Fração de numerador 2 vezes q vezes B vezes t e denominador pi vezes N . D Fração de numerador q vezes B vezes t e denominador N . E Fração de numerador 2 vezes q vezes B vezes t e denominador N ."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 114,
@@ -1318,7 +1344,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/117",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro apresenta valores para quantidade por porção de 10 gramas de castanhas, o que equivale a 2 castanhas. Valor energético: 70 quilocalorias. Carboidratos: 0,8 grama. Proteínas: 3,5 gramas. Gorduras totais: 3,5 gramas."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 118,
@@ -1372,7 +1402,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/118",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura apresenta uma célula eletroquímica formada por duas semicélulas separadas por uma membrana separadora. A semicélula da esquerda contém um eletrodo poroso. Moléculas do gás oxigênio atravessam esse eletrodo e se transformam no íon OH de carga negativa. Há um fluxo de íons OH de carga negativa que atravessam a membrana separadora indo até a semicélula da direita, que contém um eletrodo de zinco, onde é formado o Zn(OH) 4 de carga 2− . Essa célula eletroquímica está ligada a uma lâmpada através de dois fios: um que parte do eletrodo poroso e outro que parte do eletrodo de zinco. A lâmpada está acesa."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 119,
@@ -1638,7 +1672,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/124",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O polímero PET reage com 2 n do composto A , sob condições de altas temperaturas e pressão, formando dois produtos. O reagente PET é um polímero de n monômeros com a estrutura, entre colchetes, de um anel aromático com grupo CO ligado ao carbono 1 e COO ligado ao carbono 4. O oxigênio do grupo COO do carbono 4 faz ligação simples com o grupo CH 2 CH 2 O. Um dos produtos formado tem n moléculas de um composto que contém um anel aromático com grupos COOCH 3 ligados aos carbonos 1 e 4. O outro produto formado tem mais n moléculas do composto HOCH 2 CH 2 OH."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 125,
@@ -1692,7 +1730,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/125",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A imagem representa um cladograma a partir de uma alga verde ancestral, destacando cinco aquisições evolutivas. Aquisição evolutiva 1 (embriões protegidos no gametófito, entre 500 e 450 milhões de anos): linha tracejada para Hepáticas, outra para Antóceros, outra para Musgos e uma linha contínua para aquisição evolutiva 2. Aquisição evolutiva 2 (tecidos condutores verdadeiros, entre 450 e 400 milhões de anos): linha contínua para Licófitas (licopódios, Isoetes e Selaginella ), linha contínua para Pteridófitas (samambaias, cavalinhas, Psilotum ) e outra linha contínua para aquisição evolutiva 3. Aquisição evolutiva 3 (formação de tubo polínico, próximo de 300 milhões de anos): linha contínua para aquisição evolutiva 4 (polinização pelo vento, próximo de 0 milhão de anos) — Gimnospermas; e para aquisição evolutiva 5 (produção de frutos, próximo de 0 milhão de anos) — Angiospermas."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 126,
@@ -1746,7 +1788,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/126",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Circuito misto de malha externa retangular. No lado esquerdo do circuito há uma fonte de 120 volts e um resistor de 10 ohms. No lado direito do circuito há um resistor de 50 ohms. Internamente, há 5 lâmpadas, de 200 ohms cada, conectadas paralelamente à fonte por meio de interruptores individuais."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 127,
@@ -2116,7 +2162,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/134",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Copo de vidro que contém próximo de um quarto de seu volume de etanol, no qual está mergulhado verticalmente um pedaço retangular de papel de filtro, que encosta no fundo do copo. Observa-se que o etanol molha o papel de filtro acima do nível do líquido, na imediação da metade do copo."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 135,

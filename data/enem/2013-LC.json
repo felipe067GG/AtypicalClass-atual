@@ -541,7 +541,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/95?language=ingles",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Tirinha, composta por quatro quadrinhos. No primeiro quadrinho, Calvin entra na sala e diz a seu pai, que está lendo: — I’ve concluded that nothing bad I do is my fault. O seu pai questiona: — Oh? No segundo quadrinho, Calvin explica: — Right! Being young and impressionable, I’m the helpless victim of countless bad influences! An unwholesome culture panders to my undeveloped values and pushes me to maleficence. No terceiro quadrinho, Calvin complementa: — I take no responsibility for my behavior! I’m an innocent pawn! It’s society’s fault! O pai, sem tirar os olhos do livro, aponta para fora de casa e diz: —Then you need to build more character. Go shovel the walk. No quarto quadrinho, aparece Calvin retirando a neve acumulada na calçada de casa com uma pá. Calvin diz: — These discussions never go where they’re supposed to."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 96,
@@ -1303,7 +1307,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/109",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Desenho no qual estão representados dois meninos de idades aproximadas, frente a frente. O menino da esquerda veste uma camisa de manga comprida, maior que seu tamanho, e uma calça cujas barras estão enroladas até os joelhos, está descalço e puxa um vagão de trem por uma corda apoiada em seu ombro direito. Seu esforço é percebido devido à corda esticada, seu corpo projetado para frente, seu olhar fixo para o chão, a perna esquerda flexionada e a direita estendida para trás. O menino da direita usa um boné, veste camiseta adequada ao seu tamanho, calça e tênis. Ele observa o outro menino e segura, sem esforço, uma corda presa a um trenzinho de brinquedo."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 110,
@@ -1577,7 +1585,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/114",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A pintura O descobrimento do Brasil, de Candido Portinari, feita em 1956, tem dois planos visuais principais. O primeiro plano é mais denso e escuro e o segundo é mais claro e luminoso. No primeiro plano, ocupando a metade direita da pintura, está um grupo de índios adultos, na beira da praia, em pé e segurando suas lanças. Seus corpos estão nus e pintados. O grupo está de costas para o observador do quadro e olhando para caravelas que vêm do horizonte. Atrás dos adultos, há um menino, cobrindo o rosto, com o corpo voltado para o lado oposto às caravelas que vêm em direção à praia. Um adulto o segura pelo pulso. No segundo plano, encontram-se três caravelas navegando a todo vento. Elas vêm em direção à praia onde estão os índios. Em uma das caravelas é possível identificar a Cruz de Malta, que simbolizava a Coroa portuguesa."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 115,
@@ -1849,7 +1861,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/119",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A charge mostra um menino sentado preguiçosamente em uma cadeira. Ele pensa: “A preguiça é a mãe de todos os vícios, mas uma mãe é uma mãe e é preciso respeitá-la, pronto!”. Nessa charge, o recurso morfossintático que colabora para o efeito de humor está indicado pelo(a) A emprego de uma oração adversativa, que orienta a quebra da expectativa ao final."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 120,
@@ -1905,7 +1921,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/120",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O cartum, intitulado Não há movimento, mostra uma estrada com quatro faixas de rolagem, onde acontece um grande engarrafamento. Duas faixas são ocupadas por carros e as outras duas são ocupadas por caminhões. De dentro de um caminhão, um motorista fala: — Certo estava Parmênides... “Não há movimento!!!”."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 121,
@@ -2285,7 +2305,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/127",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Fotografia da instalação Mercado de artes/mercado de bananas, de Paulo Nazareth. No primeiro plano, o artista aparece de frente. Ele veste calça e camisa de mangas compridas. Seus cabelos crespos estão soltos e chamam atenção pelo volume. Paulo Nazareth traz um leve sorriso no rosto. Ele segura diante de si uma placa de tamanho aproximado ao seu próprio tronco. Na placa, há a seguinte inscrição: “No me olviden cuando yo sea un nombre importante”. Tradução: “Não me esqueçam quando eu for um nome importante”. A placa faz referência à forma popular de escrita de cartazes, utilizando apenas letras maiúsculas, ligeiramente desproporcionais e não se atentando à divisão silábica esperada. Em segundo plano, há um velho automóvel Kombi com sua porta lateral aberta. De dentro do veículo, transborda uma montanha de cachos de banana para fora até o chão."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 128,
@@ -2341,7 +2365,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/128",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Na tirinha, de quatro quadrinhos, intitulada Quadrinho Quadrado , escrita por Caco Xavier, o autor, juntamente com vários desenhos estilizados de livros, expõe o seguinte texto: Definições intangíveis - Um livro é feito de papel costurado ou colado em páginas. Um livro é feito de letras que formam palavras e de palavras dispostas em sentenças. Será um livro uma sentença? Um livro é feito de histórias e sonhos (d)escritos. Mas um livro só é um livro quando é feito sobretudo de... Olhos!"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 129,
@@ -2507,7 +2535,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/131",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Tirinha composta por três quadrinhos: No primeiro quadrinho, com o título “No mundo conectado não há preconceitos”, aparece um homem usando a internet e mentindo sobre sua descrição pessoal. Ele é baixo e moreno, porém diz: Sou alto, loiro e sincero. No segundo quadrinho, intitulado “No mundo conectado não há ignorância”, estão dois homens conversando. O homem à esquerda fala para o homem da direita, que lê um livro: “ – Ler pra quê? Tem tudo na Wikipédia!” No terceiro quadrinho, intitulado “No mundo conectado não há covardia”, há uma mulher de pé, segurando um telefone celular. A mulher olha para o aparelho e uma lágrima corre de seu olho. Ela lê no aparelho celular: Nova mensagem “Eu não te amo mais”."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 132,
@@ -2617,7 +2649,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/133",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Foto de uma escultura que mostra peças, fios e engrenagens formando uma cabeça humana que está com os olhos vendados. Analisando-se as informações verbais e a imagem associada a uma cabeça humana, compreende-se que a venda A representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 134,
@@ -2727,6 +2763,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/135",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Gráfico intitulado “Aumento no número de casamentos (entre 2003 e 2008)”. Dois gráficos são apresentados: o primeiro gráfico apresenta o aumento de 44% no número de casamentos entre as pessoas acima dos 60 anos; o segundo gráfico mostra o aumento de 28% no número de casamentos na população brasileira. ... e um fator determinante é que cada vez mais pessoas nessa idade estão no mercado de trabalho, o que lhes garante a independência financeira necessária para o matrimônio.",
+      "Gráfico intitulado “População com mais de 60 anos no mercado de trabalho”. Mais dois gráficos são apresentados: o primeiro gráfico mostra que, em 2003, no mercado de trabalho, 31% da população tinha mais de 60 anos. O segundo gráfico mostra que, em 2008, esse valor era de 38%."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   }
 ]

@@ -217,7 +217,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2011/questions/97",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2011.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "AMIZADE PÓS-MODERNA Subtítulo: A internet e as redes sociais se baseiam em dois tipos de relação • AMIZADE SIMÉTRICA – é recíproca: se eu quiser ter você como amigo e acessar o seu perfil, você precisa autorizar o pedido e se tornar meu amigo também.◦ PRÓ: privacidade – você decide quem terá acesso às suas informações.◦ CONTRA: reduz a possibilidade de conhecer gente nova.◦ EXEMPLOS: Facebook, Orkut, Flickr, Linkedin, MSN, Last.fm • AMIZADE ASSIMÉTRICA – não é recíproca: eu posso adicionar ou seguir você sem ◦ PRÓ: torna muito mais fácil a formação de laços e comunidades.◦ CONTRA: mais difícil de virar amizade íntima, pois a interação é pública.◦ EXEMPLOS: Twitter, Buzz, Tumblr, Blip.fm Os amigos são um dos principais indicadores de bem-estar na vida social das pessoas."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2011 (2011_D2.pdf)"
   },
   {
     "numero": 98,

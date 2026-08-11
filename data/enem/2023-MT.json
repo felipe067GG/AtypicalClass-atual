@@ -113,7 +113,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Quadro com três colunas, nesta ordem: setor; quantidade de funcionários e salário, em real. Produção; 75 funcionários e 2000,00 reais de salário. Administração; 25 funcionários e 7000,00 reais de salário."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2023 (2023_MT.txt)"
   },
   {
     "numero": 138,

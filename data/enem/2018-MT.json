@@ -55,7 +55,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/136",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Primeira linha: 0, 2, 0, 2, 2. Segunda linha: 0, 0, 2, 1, 0. Terceira linha: 1, 2, 0, 1, 1. Quarta linha: 0, 2, 2, 0, 0. Quinta linha: 3, 0, 1, 1, 0.*LE0225LA24*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 137,
@@ -168,7 +172,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/138",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "No eixo horizontal (x ) estão marcados os pontos: 0, 1, 2, 3, 4, 5 e 6. No eixo vertical (y ) estão marcados os pontos: 0, 1, 2, 3, 4 e 5."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 139,
@@ -225,7 +233,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/139",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as seguintes informações: Ranking: I; Frequência: 4. Ranking: II; Frequência: 9. Ranking: III; Frequência: 7. Ranking: IV; Frequência: 5.",
+      "No plano cartesiano estão marcados o ponto A da malha, localizado na interseção entre a circunferência de raio 6 e a semirreta que forma um ângulo de fração de numerador 5 vezes pi e denominador 6 radianos com o semieixo positivo das abscissas, e o ponto B localizado na interseção entre a circunferência de raio 4 e a semirreta que forma um ângulo de fração de numerador pi e denominador 6 radianos com o semieixo positivo das abscissas.*LE0225LA22*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 140,
@@ -281,7 +294,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/140",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as informações: Modelo, Comprimento, Largura e Altura, em centímetro: Modelo I: Comprimento 8; Largura 8; Altura 40. Modelo II: Comprimento 8; Largura 20; Altura 14. Modelo III: Comprimento 18; Largura 5; Altura 35. Modelo IV: Comprimento 20; Largura 12; Altura 12. Modelo V: Comprimento 24; Largura 8; Altura 14."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 141,
@@ -503,7 +520,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/144",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Dois eixos perpendiculares interceptando na origem. O eixo horizontal indica a massa m e o eixo vertical indica o raio r. Três pontos estão representados no plano cartesiano. Os pontos A e B estão localizados na mesma linha paralela ao eixo horizontal, sendo A à esquerda de B. O ponto C está localizado acima do ponto A, na mesma linha vertical e paralela ao eixo vertical.",
+      "Figura com cinco retângulos indicando as máquinas e dentro de cada retângulo, o tempo seguido do número de pessoas: Máquina 1: 35 segundos; 5 pessoas. Máquina 2: 25 segundos; 6 pessoas. Máquina 3: 22 segundos; 7 pessoas. Máquina 4: 40 segundos; 4 pessoas. Máquina 5: 20 segundos; 8 pessoas.*LE0225LA20*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 145,
@@ -671,7 +693,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/147",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro intitulado “Taxa de LDL (miligrama por decilitro)” com as seguintes informações: Ótima: menor do que 100. Próxima de ótima: de 100 a 129. Limite: de 130 a 159. Alta: de 160 a 189. Muito alta: 190 ou mais."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 148,
@@ -894,7 +920,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/151",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "As letras da palavra “Eco”, no sistema comum de escrita, estão separadas e cada uma delas está descrita a seguir: Letra E é formada por oito quadrados, cinco na vertical, um à direita do primeiro quadrado, outro à direita do terceiro quadrado e, por último, um à direita do quinto quadrado. No interior de cada quadrado há um furo circular, totalizando oito furos circulares. Letra C é formada por sete quadrados, cinco na vertical, um à direita do primeiro quadrado e outro à direita do quinto quadrado. No interior de cada quadrado há um furo circular, totalizando sete furos circulares. Letra O é formada por doze quadrados, cinco na vertical no lado esquerdo, um ao lado do primeiro quadrado do lado esquerdo, um ao lado do quinto quadrado do lado esquerdo e cinco na vertical no lado direito. No interior de cada quadrado há um furo circular, totalizando doze furos circulares."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 152,
@@ -950,7 +980,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/152",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A imagem mostra um plano cartesiano: eixo horizontal (x) com os pontos: -15, -10, -5, 0, 5, 10, 15 e eixo vertical (y) com os pontos: -15, -10, -5, 0, 5, 10, 15. Nesse plano cartesiano estão marcados todos os pontos de coordenadas inteiras que estão sobre o triângulo de vértices nos pontos (0 ; 0), (10 ; 0) e (10 ; 10)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 153,
@@ -1007,7 +1041,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/153",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A mesma figura anterior, destacando o ponto A à esquerda e o ponto B à direita, no círculo maior. Um segmento de reta horizontal tangente e abaixo do círculo menor une os pontos A e B, medindo 16 metros."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 154,
@@ -1065,7 +1103,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/154",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Tabuleiro formado por oito colunas e oito linhas. Na terceira coluna e quinta linha há uma peça. As outras casas da terceira coluna e as outras casas da quinta linha formam a zona de combate.",
+      "Dois círculos concêntricos, sendo o menor denominado chafariz e o maior, praça. A região formada entre os dois é o passeio. Há quatro aberturas ao redor do círculo maior.*LE0225LA31* *LE0225LA32*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 155,
@@ -1122,7 +1165,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/155",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Figura de um barco com uma pessoa no interior segurando, com as mãos juntas, dois remos de mesmo tamanho."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 156,
@@ -1778,7 +1825,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/168",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "2013: 67 por cento; um segmento de reta inclinado para baixo sai de 67 por cento e chega a 59 por cento. 2014: não representado. 2015: 59 por cento; um segmento de reta inclinado para cima sai de 59 por cento e chega a 61 por cento. 2016: não representado. 2017: 61 por cento."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 169,
@@ -1888,7 +1939,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/170",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura representa um círculo dividido em doze raios. O centro está marcado com a letra O e a extremidade de um raio horizontal à direita está com a letra A, que representa uma cadeira. Um segmento perpendicular vai do centro do círculo até o solo. Uma seta indica que o movimento é anti-horário.",
+      "No eixo horizontal, que representa tempo em radianos, estão marcados os pontos zero, pi sobre dois, dois pi e quatro pi. No eixo vertical, que representa f em metro, estão marcados os pontos 0, 88 e 168. Uma curva começa no ponto (0 ; 88) e sobe até o ponto (pi sobre 2 ; 168); a partir desse ponto, desce até perto do eixo horizontal e sobe passando pelo ponto (2pi ; 88), sobe até o ponto de ordenada 168, desce até perto do eixo horizontal e sobe até o ponto (4pi ; 88).*LE0225LA18*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 171,
@@ -1944,7 +2000,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/171",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as seguintes informações: Número de acidentes sofridos: 0; número de trabalhadores: 50. Número de acidentes sofridos: 1; número de trabalhadores: 17. Número de acidentes sofridos: 2; número de trabalhadores: 15. Número de acidentes sofridos: 3; número de trabalhadores: 10. Número de acidentes sofridos: 4; número de trabalhadores: 6. Número de acidentes sofridos: 5; número de trabalhadores: 2.",
+      "Figura formada por dois círculos concêntricos. No maior, estão traçados dois diâmetros perpendiculares, um na vertical e outro na horizontal. Na extremidade superior do diâmetro vertical está a letra N (Norte) e na extremidade inferior, a letra S (Sul). Na extremidade à esquerda do diâmetro horizontal está a letra O (Oeste) e na extremidade à direita, a letra L (Leste). No círculo menor estão traçados dois diâmetros inclinados e perpendiculares. Na extremidade superior do diâmetro inclinado à esquerda estão as letras NO (Noroeste) e na extremidade inferior à direita estão as letras SE (Sudeste). No outro diâmetro inclinado há, na extremidade superior à direita, as letras NE (Nordeste) e na extremidade inferior à esquerda estão as letras SO (Sudoeste).*LE0225LA21*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 172,
@@ -2000,7 +2061,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/172",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as informações: “Ranking” e “Colocações”. Ranking I: 1o Ana; 2o Bia; 3o Caio; 4o Dani; 5o Edu. Ranking II: 1o Dani; 2o Caio; 3o Edu; 4o Ana; 5o Bia. Ranking III: 1o Bia; 2o Ana; 3o Caio; 4o Edu; 5o Dani. Ranking IV: 1o Edu; 2o Ana; 3o Dani; 4o Bia; 5o Caio."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 173,
@@ -2058,7 +2123,14 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/173",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Os eixos cartesianos se interceptam na origem.",
+      "Os eixos cartesianos se interceptam na origem.",
+      "Os eixos cartesianos se interceptam na origem.",
+      "Os eixos cartesianos se interceptam na origem."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 174,
@@ -2223,7 +2295,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/176",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Quadro com as informações: Classificação, Atleta, Sexto salto e Total. Classificação: primeiro; Atleta: 3; Sexto salto: 135,0; Total: 829,0. Classificação: segundo; Atleta: 4; Sexto salto: 140,0; Total: 825,2. Classificação: terceiro; Atleta: 8; Sexto salto: 140,4; Total: 824,2. Classificação: sexto; Atleta: 10; Sexto salto: vazio; Total: 687,5."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 177,
@@ -2279,7 +2355,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/177",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Tabela “Balanço parcial nacional da vacinação contra a gripe” de quatro colunas e seis linhas: Grupo de risco: Crianças; Profissionais de saúde; Gestantes; Indígenas; Idosos. População (milhão): 4,5; 2,0; 2,5; 0,5; 20,5. População já vacinada (milhão): 0,9; 1,0; 1,5; 0,4; 8,2. População já vacinada (porcentagem): 20; 50; 60; 80; 40."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 178,
@@ -2392,7 +2472,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/179",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Um quadrado com uma diagonal que liga o vértice inferior esquerdo ao vértice superior direito. A parte acima dessa diagonal está preenchida por um triângulo retângulo isósceles e a parte abaixo está preenchida por seis triângulos retângulos isósceles de tamanhos variados da seguinte forma: o triângulo menor está localizado no canto inferior direito do quadrado com seus catetos sobre os lados do quadrado, sua hipotenusa forma um dos catetos do segundo triângulo, a hipotenusa deste forma um dos catetos do terceiro, a hipotenusa deste forma um dos catetos do quarto, a hipotenusa deste forma um dos catetos do quinto e a hipotenusa deste é uma das partes da diagonal do quadrado. O sexto triângulo complementa a parte abaixo da diagonal do quadrado."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 180,
@@ -2448,6 +2532,10 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/180",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Um cilindro circular reto na vertical em que está destacada a altura e, a partir dela, há o desenho de um retângulo com os lados maiores na horizontal e uma diagonal que vai do vértice inferior esquerdo até o vértice superior direito. Essa diagonal forma um ângulo de trinta graus com o lado inferior horizontal do retângulo. Ao lado, outro desenho do cilindro com a faixa enrolada dando seis voltas completas ao seu redor, destacando a diagonal, que é uma linha com a forma de hélice, envolvendo o cilindro."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   }
 ]

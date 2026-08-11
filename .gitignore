@@ -54,3 +54,7 @@ Thumbs.db
 # São 20 MB de documento do MEC que se rebaixa em segundos; o que entra no git é
 # `data/bncc/codigos.json`, o resultado da extração.
 data/bncc/*.pdf
+
+# Cadernos acessíveis do INEP, baixados por scripts/import-enem/ledor.mjs
+# São fonte pública e pesada (33 MB); o script rebaixa o que faltar.
+/data/ledor/

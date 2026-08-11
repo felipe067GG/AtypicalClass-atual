@@ -53,7 +53,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/136",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A partir da figura, obtém-se um triângulo retângulo com um dos catetos medindo 114 m, correspondendo à altura da torre, e o outro cateto tendo um comprimento desconhecido x, correspondendo a um dos lados da base quadrada da torre. O ângulo oposto ao cateto de comprimento x é de 15°."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 137,
@@ -109,7 +113,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/137",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico, que apresenta as notas em pontos referentes aos conhecimentos específicos e aos conhecimentos pedagógicos de acordo com os avaliadores A, B, C, D e E, registra os seguintes dados: • Avaliador A – Conhecimentos específicos: 18; Conhecimentos pedagógicos: 16. • Avaliador B – Conhecimentos específicos: 17; Conhecimentos pedagógicos: 13. • Avaliador C – Conhecimentos específicos: 14; Conhecimentos pedagógicos: 1. • Avaliador D – Conhecimentos específicos: 19; Conhecimentos pedagógicos: 14. • Avaliador E – Conhecimentos específicos: 16; Conhecimentos pedagógicos: 12."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 138,
@@ -219,7 +227,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/140",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro mostra que o quilo • do arroz tipo A custa R$ 2,00 e o do tipo B custa R$ 1,70; • do feijão tipo A custa R$ 4,50 e o do tipo B custa R$ 4,10; • da soja tipo A custa R$ 3,80 e o da tipo B custa R$ 3,50; • do milho tipo A custa R$ 6,00 e o do tipo B custa R$ 5,30."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 141,
@@ -275,7 +287,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/141",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura mostra uma circunferência grande, de raio R, no interior da qual estão desenhadas três circunferências menores, de raios iguais a 30 cm, que se tangenciam mutuamente, posicionadas de modo que os seus centros formariam os vértices de um triângulo equilátero, e que o centro desse triângulo coincidiria com o centro da circunferência grande. As circunferências pequenas não encostam na circunferência grande porque entre a borda de cada circunferência pequena e a borda da circunferência grande encontra-se um espaçador que mede 10 cm."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 142,
@@ -331,7 +347,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/142",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A tabela, intitulada Dados relativos à produção das vacas e que apresenta informações referentes a Vacas, Tempo de lactação (em dias), Produção média diária de leite (em kg) e Intervalo entre partos (em meses), registra os seguintes dados: • Vaca Malhada: 360 dias de lactação, 12 kg de produção média diária de leite e 15 meses de intervalo entre partos; • Vaca Mamona: 310 dias de lactação, 11 kg de produção média diária de leite e 12 meses de intervalo entre partos; • Vaca Maravilha: 260 dias de lactação, 14 kg de produção média diária de leite e 12 meses de intervalo entre partos; • Vaca Mateira: 310 dias de lactação, 13 kg de produção média diária de leite e 13 meses de intervalo entre partos; • Vaca Mimosa: 270 dias de lactação, 12 kg de produção média diária de leite e 11 meses de intervalo entre partos."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 143,
@@ -387,7 +407,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/143",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura mostra uma malha quadriculada formada por quadradinhos de lados iguais a 1 cm, os quais representam as quadras do município. O trajeto do aluno corresponde, no desenho, aos lados dos quadradinhos que ele percorre. Desse modo, no trajeto da casa até a escola, o aluno avança 3 lados de quadradinhos à frente, 3 à direita, 2 à frente, 2 à direita, 1 à frente, 4 à direita e 1 à frente, chegando à escola."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 144,
@@ -443,7 +467,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/144",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico, denominado Crescimento – Indústria registra que o Brasil obteve um índice de crescimento no valor de 30,95%; São Paulo (estado) obteve um índice de 14,76%; São Paulo (capital) obteve um índice de 3,57% e Guarulhos obteve um índice de 60,52%."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 145,
@@ -499,7 +527,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/145",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura ilustra uma sala com 7 fileiras de cadeiras, cada uma contendo 10 cadeiras. Desse total de cadeiras, 17 são escuras e as demais são claras."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 146,
@@ -555,7 +587,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/146",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico, que apresenta o número de compradores dos produtos A e B durante os meses de janeiro, fevereiro e março de 2012, registra os seguintes dados: • Janeiro – 10 compradores adquiriram o produto A e 20 adquiriram o produto B; • Fevereiro – 30 compradores adquiriram o produto A e 20 adquiriram o produto B; • Março – 60 compradores adquiriram o produto A e 80 adquiriram o produto B."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 147,
@@ -611,7 +647,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/147",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura representa um terreno com lados medindo 190 metros, 81 metros e 81 metros. O rio coincide com o outro dos lados maiores do terreno."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 148,
@@ -721,7 +761,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/149",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A projeção da produção para cada ano é a seguinte: • 2012 — 50,25 toneladas; • 2013 — 51,50 toneladas; • 2014 — 52,75 toneladas; • 2015 — 54,00 toneladas."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 150,
@@ -886,7 +930,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/152",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura apresenta a rotação em torno de um eixo vertical de rotação (z). Verifica-se na figura que C é o valor da ordenada do ponto em que a parábola cruza o eixo Oy, enquanto o ponto V é o vértice da parábola, que está sobre o eixo O x."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 153,
@@ -1161,7 +1209,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/157",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura apresenta dois círculos concêntricos: um círculo menor, de raio r, que representa a ilha de lazer, contido em um círculo maior, de raio R, que representa a piscina."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 158,
@@ -1381,7 +1433,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/162",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico registra os seguintes dados: A: 25%; B: 25%; C: 40% e D: 10%."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 163,
@@ -1547,7 +1603,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/165",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura, no formato de um losango não quadrado, apresenta a letra A no seu vértice superior, a letra B no seu vértice direito, a letra C no seu vértice inferior e a letra D no seu vértice esquerdo."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 167,
@@ -1713,7 +1773,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/169",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro mostra que as cartelas com • 6 números escolhidos custam R$ 2,00; • 7 números escolhidos custam R$ 12,00; • 8 números escolhidos custam R$ 40,00; • 9 números escolhidos custam R$ 125,00; • 10 números escolhidos custam R$ 250,00."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 170,
@@ -1933,7 +1997,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/174",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura mostra um mapa do Brasil, cuja escala é 1 : 25 000 000, no qual o estado do Rio de Janeiro é destacado com uma ampliação, cuja é escala é 1 : 4 000 000."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 175,
@@ -1989,7 +2057,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/175",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "No plano cartesiano xOy, em que x e y são dados em km, as posições das antenas são as seguintes: • antena A: ponto (30 ; 20); • antena B: ponto (70 ; 20); • antena C: ponto (60 ; 50)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 176,
@@ -2101,7 +2173,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/177",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "São apresentadas as seguintes informações relativas à quantidade de horas de estudo e às notas no Pisa de alguns países: Países com nota acima da média: • Finlândia — nota: 560 — horas de estudo: 5 800; • Coréia do Sul — nota: 550 — horas de estudo: 6 000; • Holanda — nota: 540 — horas de estudo: 7 900; • Japão — nota: 530 — horas de estudo: 6 500; • Austrália — nota: 520 — horas de estudo: 7 800. Países com nota abaixo da média: • Rússia — nota: 490 — horas de estudo: 6 000; • Portugal — nota: 470 — horas de estudo: 7 100; • Itália — nota: 460 — horas de estudo: 8 300; • Israel — nota: 440 — horas de estudo: 8 600; • México — nota: 410 — horas de estudo: 7 500."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 178,
@@ -2157,7 +2233,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/178",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura representa um copo. A parte superior mais larga do copo é circular, com raio igual a AC, e a base do copo também é circular, com raio igual a BD."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 179,
@@ -2213,7 +2293,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2013/questions/179",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura mostra dois triângulos retângulos CAB, retângulo em A e ABD, retângulo em B. O cateto CA mede 4 metros, enquanto que o cateto DB mede 6 metros. Os triângulos estão posicionados de modo que os seus catetos maiores coincidam com o segmento de reta AB e suas hipotenusas se intersectem no ponto E. O segmento EF é perpendicular ao cateto AB, comum aos dois triângulos."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2013 (2013_D2.pdf)"
   },
   {
     "numero": 180,

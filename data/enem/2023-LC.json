@@ -54,7 +54,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Foto de um homem com o corpo inclinado para frente, na altura de um menino, olhando em seus olhos. Ambos estão sorrindo. Entre eles, há o desenho de um disco voador e, acima, um texto apresentado com letras maiúsculas, exceto a palavra \"porqué\", que ora é escrita com algumas letras maiúsculas, ora com algumas letras minúsculas: \"¿QUÉ ME PASA?: ¿PorQUÉ ME CUESTA TANTO ESTUDIAR?"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2023 (2023_LC.txt)"
   },
   {
     "numero": 2,

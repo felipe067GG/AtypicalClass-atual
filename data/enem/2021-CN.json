@@ -105,7 +105,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2021/questions/92",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2021.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "penduradas em uma circunferência e igualmente espaçadas. A barra mais curta corresponde ao comprimento 1 e a barra mais longa corresponde ao comprimento 2."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2021 (2021_D2.pdf)"
   },
   {
     "numero": 93,

@@ -162,7 +162,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/93",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "As figuras apresentam dois esquemas de ligação de um equipamento de som com duas conexões, sendo uma para o alto-falante esquerdo (E) e a outra para o alto-falante direito (D). Cada conexão possui um polo positivo e outro negativo. O primeiro esquema, denominado polaridade correta, apresenta fios ligando os polos positivo com positivo e negativo com negativo das conexões do equipamento com cada alto-falante. No segundo esquema, denominado polaridade invertida, o alto-falante da esquerda está ligado conforme a primeira imagem, enquanto o alto-falante da direita apresenta o polo positivo ligado ao polo negativo do",
+      "Um vaso de barro bojudo, de gargalo estreito na parte superior. Nesse gargalo está inserido um tubo de cobre. Dentro do tubo há uma barra de ferro que não está em contato com o cobre."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 94,
@@ -741,7 +746,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/104",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura contém as imagens de cinco objetos: pinça, alicate, quebra-nozes, carrinho de mão e abridor de garrafa."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 105,
@@ -953,7 +962,17 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/108",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Gráfico de linha. No eixo horizontal, a corrente elétrica, de 0 a 7 ampères. No eixo vertical, a resistência, de 0 a 20 ohms. Do ponto (0, 10) parte uma linha reta horizontal para o ponto (7, 10). B",
+      "Gráfico de linha. No eixo horizontal, a corrente elétrica, de 0 a 7 ampères. No eixo vertical, a resistência, de 10 a 30 ohms. Do ponto (0, 17) parte uma linha reta horizontal para o ponto (7, 17). C",
+      "Gráfico de linha. No eixo horizontal, a corrente elétrica, de 0 a 7 ampères. No eixo vertical, a resistência, de 0 a 8 ohms. Do ponto (0, 0) parte uma linha reta em diagonal crescente para o ponto (7, 7). D",
+      "Gráfico de linha. No eixo horizontal, a corrente elétrica, de 0 a 7 ampères. No eixo vertical, a resistência, de 8 a 18 ohms. Do ponto (0, 10) parte uma linha reta em diagonal crescente para o ponto (7, 17). E",
+      "Gráfico de linha. No eixo horizontal, a corrente elétrica, de 0 a 7 ampères. No eixo vertical, a resistência, de 0 a 60 ohms. Do ponto (0, 10) parte uma linha curva crescente, com concavidade voltada para cima, para o ponto (7, 60).",
+      "Quadro com alguns equipamentos elétricos e seus valores de potência aproximada em watt. Exaustor: 150. Computador: 300. Aspirador de pó: 600. Churrasqueira elétrica: 1 200. Secadora de roupas: 3 600.",
+      "A escala de tensão varia de 0 volt a 120 volts, enquanto a escala de corrente varia de 0 ampère a 7 ampères. O gráfico é uma curva contínua e crescente com uma leve concavidade voltada para cima partindo do ponto (0, 0) e chegando ao ponto (7, 120).*LE0225LA7*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 109,
@@ -1274,7 +1293,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/114",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Os reagentes C6H12O6 (sólido) mais 6 O2 (gasoso) formam os produtos 6 CO2 (gasoso) mais 6 H2O (líquido). Variação de entalpia igual a –2 800 quilojoules. Considere as massas molares (em grama por mol): H igual a 1; C igual a 12; O igual a 16.",
+      "Circuito elétrico composto por dois ramos ligados em paralelo, conectados a uma fonte de tensão. Cada ramo possui dois resistores iguais de resistência 4 quilo-ohms. Entre os resistores de cada ramo existe uma chave A que, quando fechada, conecta os dois ramos (na figura, esta chave está aberta). Após os resistores de cada ramo existe uma chave B que, quando fechada, conecta os dois ramos (na figura, esta chave também está aberta).*LE0225LA6*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 115,
@@ -1440,7 +1464,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/117",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Legenda que serve de referência para as demais imagens, com uma membrana plasmática, na qual estão representadas as seguintes estruturas: Mitocôndria, Retículo endoplasmático rugoso, Nucléolo, Eucromatina e Heterocromatina. Abaixo da legenda há 5 linhagens, numeradas de I a V, todas de mesmo tamanho, descritas a seguir: I. Duas mitocôndrias, uma unidade de retículo endoplasmático rugoso, um núcleo pequeno com nucléolo pequeno, eucromatina e grande quantidade de heterocromatina. II. Quatro mitocôndrias, duas unidades de retículo endoplasmático rugoso, um núcleo grande com um nucléolo grande, eucromatina e quantidade média de heterocromatina. III. Quatro mitocôndrias, duas unidades de retículo endoplasmático rugoso, um núcleo pequeno com um nucléolo pequeno, eucromatina e grande quantidade de heterocromatina. IV. Quatro mitocôndrias, quatro unidades de retículo endoplasmático rugoso, um núcleo grande com um nucléolo grande, eucromatina e quantidade pequena de heterocromatina. V. Duas mitocôndrias, uma unidade de retículo endoplasmático rugoso, um núcleo grande com um nucléolo pequeno, eucromatina e quantidade média de heterocromatina."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 118,
@@ -2193,7 +2221,12 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/131",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura ilustra o brinquedo como um tubo (trilho horizontal) com a extremidade esquerda fechada e a direita aberta. Uma mola está dentro do tubo, fixada na extremidade fechada e sendo comprimida por um cubo, que se pretende lançar pela parte aberta.",
+      "A estrutura apresenta uma rede plana formada por vários hexágonos interligados, que contêm, em cada vértice, um átomo de carbono. Cada átomo de carbono está ligado a outros três átomos de carbono presentes nos vértices desses hexágonos.*LE0225LA3*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D2.pdf)"
   },
   {
     "numero": 132,

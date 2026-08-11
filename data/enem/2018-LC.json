@@ -1741,7 +1741,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/28",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Cartaz composto por textos e pela montagem de uma foto com desenhos, que mostra uma garrafa PET apoiada em uma superfície. Da garrafa saem traços que compõem um pedaço de tecido. Ao redor do tecido, o desenho de uma fita métrica, de uma tesoura, de um carretel com linha e de uma agulha. O texto diz: “Plástico velho pode virar tecido novo. Garrafa PET vazia tem valor líquido e certo: reciclada, vira tecido, madeira sintética ou plástico novo de novo. Separar o lixo facilita o trabalho dos catadores e aumenta o material aproveitado, principalmente se você limpar as embalagens por dentro, retirando toda a sujeira antes de descartá-las. Mude de atitude. Assim, você ajuda a gerar renda para quem precisa e poupa recursos naturais. Separe o lixo e acerte na lata”. Ao lado do desenho de um cesto de papéis, plástico e vidro”. Ao lado do cesto de lixo com a inscrição ‘úmido’, há a indicação: “cascas e ossos, restos de comida, pó de café e chá, galhos e podas”.*LE0175LA12*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D1.pdf)"
   },
   {
     "numero": 29,
@@ -2344,7 +2348,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/39",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Sob o título “Reações celíacas ao ler um rótulo sem glúten”, há seis ícones, acompanhados por textos. • “Curti” – Não contém glúten. Curti! • “Amei” – Sem glúten e com sabor. Amei! • “HaHa” – Sem glúten e barato. HaHa! • “Uau” – Sem glúten, barato e gostoso. Uau! • “Triste” – Sem glúten, mas pode conter traços. Triste! • “Grr” – Rótulo tá todo errado. Grr!*LE0175LA16*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D1.pdf)"
   },
   {
     "numero": 40,
@@ -2672,6 +2680,10 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/45",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A imagem é composta por um mapa de parte da cidade de Victoria e por uma foto, em preto e branco, de parte da cidade do Rio de Janeiro vista de cima, com destaque para o Cristo Redentor e o Pão de Açúcar. No mapa, algumas ruas foram demarcadas, de modo a representar a mesma imagem destacada na foto.*LE0175LA18* INSTRUÇÕES PARA A REDAÇÃO1. O rascunho da redação deve ser feito no espaço apropriado. 2. O texto definitivo deve ser escrito à tinta, na folha própria, em até 30 linhas. 3. A redação que apresentar cópia dos textos da Proposta de Redação ou do Caderno de Questões terá o número de linhas copiadas desconsiderado para efeito de correção. 4. Receberá nota zero, em qualquer das situações expressas a seguir , a redação que: 4.1. tiver até 7 (sete) linhas escritas, sendo considerada “texto insuficiente”. 4.2. fugir ao tema ou que não atender ao tipo dissertativo-argumentativo. TEXT OS MOTI VADORES TEXTO I Às segundas-feiras pela manh músicas que lhes permite descobrir novidades. Assim como os sistemas de outros aplicativos e redes sociais, este cérebro artificial consegue traçar um retrato automatizado do gosto de seus assinantes e constrói uma máquina de sugestões que não costuma falhar. O sistema se baseia em um algoritmo cuja evolução e usos aplicados ao consumo cultural são infinitos. De fato, plataformas de transmissão de vídeo on-line começam a desenhar suas séries de sucesso rastreando o banco de dados gerado por todos os movimentos dos usuários para analisar o que os satisfaz. O algoritmo , que pode avançar até chegar sempre a lugares reconhecíveis. Dessa forma, a filtragem de informação feita pelas redes sociais ou pelos sistemas de busca pode moldar nossa maneira de pensar muitas vezes é gerada pelos algoritmos. TEXTO IINos sistemas dos gigantes da internet, a filtragem de dados é transferida para um exército de moderadores em empresas localizadas do Oriente Médio ao Sul da Ásia, que têm um papel importante no controle daquilo que deve ser eliminado da rede social, a partir de sinalizações dos usuários. Mas a informação é então processada por um algoritmo, que tem a decisão final. Os algoritmos são literais. Em poucas palavras, são uma opinião embrulhada em código. E estamos caminhando para um estágio em que é a máquina que decide qual notícia deve ou não ser lida.TEXTO IV Mudanças sutis nas informações às quais somos expostos podem transformar nosso comportamento. As redes têm selecionado as notícias sob títulos chamativos como “trending topics” ou critérios como “relevância”."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D1.pdf)"
   }
 ]

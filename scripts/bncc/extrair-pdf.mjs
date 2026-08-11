@@ -115,9 +115,26 @@ export function extrairTexto(pdf) {
     const texto = conteudo.toString("latin1")
     const mapa = new Map()
 
+    /**
+     * O destino de um `bfchar` pode ser mais de um caractere, e é aí que moram
+     * as ligaduras.
+     *
+     * O glifo único de "fi" mapeia para `<00660069>`, que são dois códigos:
+     * "f" e "i". Ler só os quatro primeiros dígitos devolve "f" e come o "i" —
+     * "figura" vira "fgura", "gráfico" vira "gráfco", "perfil" vira "perfl".
+     * Não quebra nada, não levanta erro, e passa despercebido enquanto o texto
+     * é só procurado por código (que foi o caso da BNCC). Passou a importar
+     * quando o texto extraído virou conteúdo lido para um aluno cego.
+     */
+    const paraTexto = (hex) => {
+      let saida = ""
+      for (let i = 0; i + 4 <= hex.length; i += 4) saida += String.fromCharCode(parseInt(hex.slice(i, i + 4), 16))
+      return saida || String.fromCharCode(parseInt(hex, 16))
+    }
+
     for (const bloco of texto.match(/beginbfchar([\s\S]*?)endbfchar/g) ?? []) {
       for (const par of bloco.matchAll(/<([0-9A-Fa-f]+)>\s*<([0-9A-Fa-f]+)>/g)) {
-        mapa.set(parseInt(par[1], 16), String.fromCharCode(parseInt(par[2].slice(0, 4), 16)))
+        mapa.set(parseInt(par[1], 16), paraTexto(par[2]))
       }
     }
     for (const bloco of texto.match(/beginbfrange([\s\S]*?)endbfrange/g) ?? []) {

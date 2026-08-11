@@ -679,7 +679,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/59",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Globo terrestre no qual todos os países e continentes foram agrupados em um único bloco, formando, assim, um supercontinente cercado por água."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 60,
@@ -1617,7 +1621,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/77",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Fotografia de uma rua calçada e bem conservada. No fim dos paralelepípedos e meio fio do calçamento há um pequeno jardim, onde se lê na lateral a palavra “veracidade”. No fundo da imagem há um muro com diversos grafites."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 78,
@@ -2035,7 +2043,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/85",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Numa parede há duas fotos mostrando pessoas pertencentes a comunidades indígenas. As fotos estão emolduradas com arabescos desenhados em volta de cada uma delas. Ao centro, entre as fotos emolduradas, próximo a uma gravura do busto de uma mulher falando, está escrito: “NUESTRA CULTURA NO CABE EN SUS MUSEOS”. Tradução do texto em espanhol: “Nossa cultura não cabe nos seus museus”."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 86,

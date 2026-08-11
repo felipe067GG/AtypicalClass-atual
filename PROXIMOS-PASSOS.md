@@ -89,6 +89,75 @@ muda o desenho inteiro, e é barato descobrir antes.
 
 ---
 
+# Audiodescrição: 723 → 587 questões sem descrição (11/08/2026)
+
+O maior buraco de acessibilidade do acervo diminuiu **136 questões**, com fonte
+oficial e sem nada escrito à mão. As 723 eram **todas do ENEM** — o vestibular
+já estava em 607 de 607, porque o BLUEX trazia as descrições.
+
+**A fonte é o caderno que o INEP prepara para leitor de tela.** Ele traz, no
+corpo do texto, `Descrição da imagem: …` escrita por quem elaborou a prova. A
+tabela de cadernos, com as três convenções de nome que o INEP usou em treze
+anos, está em `scripts/import-enem/ledor.mjs`; a recuperação é
+`npm run descricoes:ledor` (não grava sem `--confirmar`).
+
+| ano | antes | agora | ano | antes | agora |
+|---|---|---|---|---|---|
+| 2011 | 0/69 | **1** | 2019 | 0/57 | **32** |
+| 2012 | 0/70 | **15** | 2021 | 0/65 | **12** |
+| 2013 | 0/76 | **31** | 2022 | 40/65 | **50** |
+| 2018 | 0/77 | **31** | 2023 | 39/58 | **43** |
+
+**2010, 2014, 2015 e 2020 não têm caderno acessível publicado** da aplicação
+regular — 265 questões que esta fonte não alcança. Em 2015 existe um "ledor",
+mas é da **reaplicação/PPL**, que é prova diferente: casá-lo colaria a descrição
+de uma questão em outra. O caderno de 2011 dia 1 existe e não baixou; o servidor
+do INEP corta a conexão quando se pede rápido demais, e ele sozinho vale ~30.
+
+**O caderno acessível quase sempre não se chama "ledor".** De 2018 a 2022 ele é
+o `CD9` (dia 1) e o `CD11` (dia 2), os laranja — procurar pela palavra "ledor"
+perde quatro anos inteiros. O caderno 10 e o 12, verdes, são a videoprova em
+Libras, que é outra coisa. Em 2023 há um **`.txt` para DOSVOX**, texto puro, sem
+PDF no caminho.
+
+**Isto não foi voltar para o parser de PDF.** A armadilha registrada adiante é
+sobre o caderno impresso, com fonte cifrada. O do ledor é feito para ser lido
+por máquina, e o `extrairTexto` que já existia leu as 32 páginas inteiras.
+
+## Dois defeitos que a conferência pegou, e um deles era antigo
+
+**A ligadura "fi" sumia do texto extraído.** O `ToUnicode` mapeia o glifo único
+de "fi" para dois códigos, `<00660069>`, e `extrair-pdf.mjs` lia só os quatro
+primeiros dígitos: "figura" saía "fgura", "gráfico" saía "gráfco", "perfil"
+saía "perfl". Eram até 48 palavras por caderno. **O defeito é anterior a esta
+frente** — está lá desde a leitura da BNCC, onde não importava, porque lá o
+texto só era procurado por código. Passou a importar no dia em que o texto
+extraído virou conteúdo lido em voz alta para um aluno cego. `npm run bncc`
+continua passando.
+
+**O recorte abortava na primeira linha, em 30 questões que tinham casado com
+nota 1,00.** A semelhança usada para achar a questão divide pelo **menor** dos
+dois textos, o que é certo quando os dois são longos. No recorte ela mente: a
+alternativa "A" tem dois pedaços de quatro letras, e se os dois aparecerem na
+frase o resultado é 1,0 — toda frase vira "texto que já conhecemos" e não sobra
+descrição. A pergunta ali é outra e é direcional: *quanto desta frase já está no
+que conhecemos*. São duas funções agora, `semelhanca` e `contida`.
+
+## Por que 297 não acharam par, e por que isso está certo
+
+O caderno do ledor descreve a figura **que é preciso ver para responder**, e não
+toda figura da prova. São 428 marcadores de descrição em 15 cadernos, contra 458
+questões-alvo — o teto nunca foi 458. Das que não fecharam, 82 não chegam a 0,30
+de semelhança com bloco nenhum e 150 param entre 0,30 e 0,50: a questão está no
+caderno, o bloco dela é que não tem descrição.
+
+**O limiar de 0,65 não foi afrouxado, e não deve ser.** Há 65 questões entre 0,50
+e 0,65 que provavelmente fechariam — e descrição colada na questão errada é pior
+que descrição nenhuma, porque o professor lê para um aluno cego a imagem de outro
+item e não tem como perceber.
+
+---
+
 # Biblioteca de conteúdos — no ar desde 11/08/2026
 
 O banco de questões está fechado; a parte de baixo desta página é sobre ele e não
@@ -920,10 +989,12 @@ catorze especialidades no teto de alcance, nada declarado como lacuna.
 O que existe daqui para a frente é de outra natureza, e nada disso está
 começado:
 
-- **As 723 questões com figura e sem audiodescrição** (de 1.409 com figura).
-  Enquanto não têm descrição, para um aluno cego não são questões difíceis: são
-  questões indisponíveis, como diz a célula de figura × deficiência visual.
-  É o maior buraco de acessibilidade que resta no acervo.
+- **As 587 questões com figura e sem audiodescrição** (de 1.409 com figura).
+  Eram 723 até 11/08/2026 — ver "Audiodescrição" no alto desta página. Enquanto
+  não têm descrição, para um aluno cego não são questões difíceis: são questões
+  indisponíveis, como diz a célula de figura × deficiência visual. Continua
+  sendo o maior buraco de acessibilidade do acervo, e o que sobrou é mais caro:
+  265 são de anos sem caderno acessível publicado.
 - **Revisar as células com o professor que usa.** As 109 foram escritas a partir
   das fontes e da medida; nenhuma passou ainda pelo teste de alguém aplicando em
   sala e dizendo o que não serviu.
@@ -990,7 +1061,9 @@ node scripts/import-enem/conferir.mjs              # confere os dois acervos
 node scripts/import-enem/importar.mjs 2023 CN      # importa uma área de um ano
 node scripts/import-enem/aplicar-leituras.mjs      # aplica materias-lidas.json
 node scripts/import-vestibular/importar.mjs        # reimporta USP e UNICAMP
-node scripts/import-enem/recuperar-descricoes.mjs  # audiodescrições do INEP
+node scripts/import-enem/recuperar-descricoes.mjs  # audiodescrições (conjunto Maritaca, só 2022-2023)
+npm run descricoes:ledor                           # ensaio: audiodescrição do caderno do ledor do INEP
+npm run descricoes:ledor -- --confirmar            # grava; --amostra mostra o recorte antes
 npm run diversa                                    # varre o diversa.org.br (retoma de onde parou)
 npm run diversa -- --refazer                       # ignora o que já foi visitado
 npm run canais                                     # colhe os canais institucionais

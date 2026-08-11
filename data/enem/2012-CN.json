@@ -681,7 +681,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/58",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "um anel aromático faz uma ligação simples com um carbono, que, por sua vez, faz uma ligação dupla com um oxigênio e uma ligação simples com outro oxigênio, que faz uma ligação simples com o grupo CH2CH3."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D1.pdf)"
   },
   {
     "numero": 59,
@@ -2103,7 +2107,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/85",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura representa o processo evolutivo das embriófitas (Reino Plantae). Nesse processo, ALGA VERDE ANCESTRAL desenvolve as estruturas adaptativas GAMETÓFITO DOMINANTE e ARQUEGÔNIO e evolui para BRIÓFITA; a BRIÓFITA desenvolve as estruturas adaptativas ESPORÓFITO DOMINANTE e VASOS CONDUTORES e evolui para PTERIDÓFITA; a PTERIDÓFITA desenvolve as estruturas adaptativas SEMENTES ALADAS e GRÃOS DE PÓLEN e evolui para GIMNOSPERMA; a GIMNOSPERMA desenvolve as estruturas adaptativas FLORES e FRUTOS e evolui para ANGIOSPERMA."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D1.pdf)"
   },
   {
     "numero": 86,

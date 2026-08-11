@@ -164,7 +164,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/139",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "no gráfico está representado que 52% dos visitantes do blog assinalaram a postagem “Contos de Halloween” como “DIVERTIDO”; 15% deles assinalaram essa postagem como “ASSUSTADOR”; 12% deles assinalaram a postagem como “CHATO” e 21% deles não opinaram."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 140,
@@ -274,7 +278,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/141",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura ilustra um retângulo com um dos lados igual a 3 e o outro igual a 5; dentro desse retângulo, estão representados três outros retângulos – que, juntos, correspondem à área perdida do forro após a primeira lavagem –, um de lados iguais a (5 – x) e y; o outro de lados iguais a x e y; e o terceiro de lados iguais a x e (3 – y)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 142,
@@ -384,7 +392,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/143",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura ilustra uma viga na forma de paralelepípedo de largura b, altura d e comprimento x. A expressão que traduz a resistência S dessa viga de madeira é A S = k.b.d2x2B S = k.b.d x2C S = k.b.d2xD S = k.b2.d xE S = k.b.2d 2x*LECZ25dom28*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 144,
@@ -494,7 +506,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/145",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura mostra os seguintes dados para cada árvore: • Árvore I: escala = 1:100; altura = 9 lados do quadradinho da malha quadriculada; • Árvore II: escala = 2:100; altura = 9 lados do quadradinho da malha quadriculada; • Árvore III: escala = 2:300; altura = 6 lados do quadradinho da malha quadriculada; • Árvore IV: escala = 1:300; altura = 4,5 lados do quadradinho da malha quadriculada; • Árvore V: escala = 2:300; altura = 4,5 lados do quadradinho da malha quadriculada."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 146,
@@ -662,7 +678,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/148",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "o gráfico apresenta um plano cartesiano, tendo, no eixo horizontal, os meses de janeiro a dezembro e, no eixo vertical, o total de vendas. O ponto do gráfico que tem a maior ordenada corresponde ao mês de junho, enquanto que o ponto do gráfico que tem a menor ordenada corresponde ao mês de agosto."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 149,
@@ -994,7 +1014,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/154",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura mostra um cadeirante sentado na sua cadeira de rodas; nessa posição, a figura ilustra que: • a altura mínima que o cadeirante consegue alcançar é 0,40 metro acima do piso; • a faixa de 0,80 metro a 1,00 metro é descrita na figura como “confortável” para o cadeirante, ou seja, ele pode alcançar coisas que estão nessa faixa de altura do piso com pouco esforço; • a altura máxima que o cadeirante consegue alcançar é 1,35 metro acima do piso."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 155,
@@ -1214,7 +1238,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/158",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura ilustra um tanque na forma de paralelepípedo, de 40 cm de comprimento, 30 cm de largura e 25 cm de altura; nesse tanque, foi colocada água até a altura de 20 cm — ou seja, apenas os últimos 5 cm da altura do tanque não estão preenchidos com água."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 159,
@@ -1270,7 +1298,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/159",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "da figura apresentada, obtém-se as seguintes informações para os ambientes que compõem o salão de Jorge: • Ambiente I: retângulo com 5 m de largura e 8 m de comprimento; • Ambiente II: retângulo com 5 m de largura e 6 m de comprimento; • Ambiente III : retângulo com 4 m de largura e 6 m de comprimento; • Ambiente IV: trapézio com base maior medindo 6 m, base menor medindo 4 m e altura medindo 7 m. Avaliando-se todas as informações, serão necessários A quatro unidades do tipo A e nenhuma unidade do tipo B."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 160,
@@ -1437,7 +1469,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/162",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico apresenta o valor de cada ação da XPN a cada hora: • às 10 horas, o valor era de R$ 150,00; • às 11 horas, o valor era de R$ 280,00; • às 12 horas, o valor era de R$ 200,00; • às 13 horas, o valor era de R$ 380,00; • às 14 horas, o valor era de R$ 330,00; • às 15 horas, o valor era de R$ 460,00; • às 16 horas, o valor era de R$ 100,00; • às 17 horas, o valor era de R$ 200,00."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 163,
@@ -1821,7 +1857,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/170",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Todos os gráficos mostram um plano cartesiano, com a corrente elétrica (i) representada no eixo das abscissas (eixo horizontal) e a energia consumida (E) representada no eixo das ordenadas (eixo vertical). A gráfico composto por um segmento de reta de inclinação positiva, com início no ponto (0, 0). B gráfico composto por um trecho de parábola com concavidade voltada para cima, ligando um ponto do eixo vertical de ordenada positiva a um ponto do eixo horizontal de abscissa positiva. C gráfico composto por um segmento de reta horizontal, com início em um ponto do eixo vertical, de ordenada positiva. D gráfico composto por um trecho de parábola com concavidade voltada para cima, ligando o ponto (0, 0) a um ponto que tem ambas as coordenadas positivas. E gráfico composto por um segmento de reta com inclinação negativa, com início em um ponto do eixo vertical, de ordenada positiva."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 171,
@@ -1931,7 +1971,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2012/questions/172",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2012.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "a figura representa a Terra, a Lua e algumas posições do asteroide YU 55; nessa figura verifica-se que a menor distância que o asteroide YU 55 passou da superfície terrestre foi de 325 mil km."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2012 (2012_D2.pdf)"
   },
   {
     "numero": 173,

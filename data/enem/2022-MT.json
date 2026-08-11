@@ -616,7 +616,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Quadro que relaciona número de crianças por família à frequência, mostra os seguintes dados: nenhuma criança: 100; 1 criança: 400; 2 crianças: 200; 3 crianças: 150; 4 crianças: 100; 5 crianças: 50."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 150,
@@ -1763,7 +1766,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Quadro que relaciona jogadores à quantidade de pontos marcados por jogo, mostra os seguintes dados: jogador 1: 12 no jogo 1; 25 no jogo 2; 20 no jogo 3; 20 no jogo 4; jogador 2: 12 no jogo 1; 12 no jogo 2; 27 no jogo 3; 20 no jogo 4; jogador 3: 14 no jogo 1; 14 no jogo 2; 17 no jogo 3; 26 no jogo 4; jogador 4: 15 no jogo 1; 18 no jogo 2; 21 no jogo 3; 21 no jogo 4; jogador 5: 22 no jogo 1; 15 no jogo 2; 23 no jogo 3; 15 no jogo 4. Jogadores Jogo 1 Jogo 2 Jogo 3 Jogo 4 I 12 25 20 20 II 12 12 27 20 III 14 14 17 26 IV 15 18 21 21 V 22 15 23 15 O quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 172,
@@ -1875,7 +1881,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Quadro que relaciona curso com número de vagas oferecidas e número de candidatos por vaga, mostra os seguintes dados: Administração: 30 vagas oferecidas e 6 candidatos por vaga; Ciências Contábeis: 40 vagas oferecidas e 6 candidatos por vaga; Engenharia Elétrica: 50 vagas oferecidas e 7 candidatos por vaga; História: 30 vagas oferecidas e 8 candidatos por vaga; Letras: 25 vagas oferecidas e 4 candidatos por vaga; Pedagogia: 25 vagas oferecidas e 5 candidatos por vaga. Curso Número de vagas oferecidas Número de candidatos por vaga Administração 30 6 Ciências Contábeis 40 6 Engenharia Elétrica 50 7 História 30 8 Letras 25 4 Pedagogia 25 5 Qual foi o número total de candidatos inscritos nesse processo seletivo? A A 200 B B 400 C C 1 200 D D 1 235 E E 7 200"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 174,
@@ -2101,7 +2110,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Quadro que apresenta informações do Operário em relação ao preço por hora em real, preço do transporte em real e tempo até conclusão em hora, mostra os seguintes dados: Operário 1: Preço por hora, 120 reais; preço do transporte, zero real; tempo até conclusão, 8 horas; Operário 2: Preço por hora, 180 reais; preço do transporte, zero real; tempo até conclusão, 6 horas; Operário 3: Preço por hora, 170 reais; preço do transporte, 20 reais; tempo até conclusão, 6 horas; Operário 4: Preço por hora, 110 reais; preço do transporte, 10 reais; tempo até conclusão, 9 horas; Operário 5: Preço por hora, 110 reais; preço do transporte, zero real; tempo até conclusão, 10 horas. Operário Preço por hora (real) Preço do transporte (real) Tempo até conclusão (hora) I 120 0,00 8 II 180 0,00 6 III 170 20,00 6 IV 110 10,00 9 V 110 0,00 10 Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário A A 1. B B 2. C C 3. D D 4. E E 5.*021125LA20* 20 11"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2022 (2022_D2.pdf)"
   },
   {
     "numero": 178,

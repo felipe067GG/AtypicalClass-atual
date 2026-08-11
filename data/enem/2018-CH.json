@@ -2090,7 +2090,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/87",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Cartaz da década de 1940, intitulado A SAÚDE DA MULHER, apresenta o seguinte texto escrito na grafia da época: ELLA SERIA ADORAVEL ...si não fosse doentia Só uma saude perfeita póde dar á mulher belleza e encanto capazes de a tornar adoravel aos olhos masculinos! Para ter uma saude assim, tome “A SAUDE DA MULHER”, o remedio que traz no nome o resumo das suas vírtudes. “A SAUDE DA MULHER” regulariza o funccionamento do delicado organismo feminino . O cartaz contém a figura de uma mulher, relaxadamente sentada em uma poltrona, com as mãos na nuca."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D1.pdf)"
   },
   {
     "numero": 88,
@@ -2144,7 +2148,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2018/questions/88",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2018.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Gráfico intitulado Participação percentual do extrativismo vegetal e da silvicultura no valor da produção primária florestal – Brasil – 1996-2014. O eixo vertical corresponde à porcentagem e o eixo horizontal corresponde ao ano. Uma linha correspondente ao Extrativismo vegetal indica 60 por cento em 1996, descendo para menos de 50 por cento em 1998, permanecendo oscilante nesse patamar até 2002, descendo a menos de 40 por cento em 2003, seguindo nessa tendência até chegar a um pouco mais de 20 por cento em 2014, em valores aproximados. A linha correspondente à Silvicultura indica 40 por cento em 1996, subindo para um pouco mais de 50 por cento em 1998, permanecendo oscilante nesse patamar até 2002, subindo a um pouco mais de 60 por cento em 2003, seguindo nessa tendência até chegar a quase 80 por cento em 2014, em valores aproximados. Visualmente, as linhas partem do eixo vertical separadas, oscilando próximas entre 1997 e 2002, depois seguem em uma tendência de afastamento até 2014, tendo invertido suas posições iniciais. As linhas se opõem simetricamente ao longo do período registrado."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2018 (2018_D1.pdf)"
   },
   {
     "numero": 89,

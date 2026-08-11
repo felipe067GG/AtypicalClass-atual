@@ -216,7 +216,15 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/139",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico é formado por um plano cartesiano onde o eixo x representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 54 reais. D",
+      "O gráfico é formado por um plano cartesiano onde o eixo x representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por dois segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 15 metros cúbicos e 54 reais. B",
+      "O gráfico é formado por um plano cartesiano onde o eixo x representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 32 reais. E",
+      "O gráfico é formado por um plano cartesiano onde o eixo x representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é crescente, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 16 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 16 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 54 reais. C",
+      "O gráfico é formado por um plano cartesiano onde o eixo x representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é horizontal, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 24 reais. *LE0225LA30*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 140,
@@ -490,7 +498,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/144",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Matriz composta por cinco linhas e cinco colunas. Na primeira linha estão os números: 3, 2, 0, 1, 2. Na segunda linha estão os números: 3, 2, 4, 1, 2. Na terceira linha estão os números: 2, 2, 2, 3, 2. Na quarta linha estão os números: 3, 2, 4, 1, 0. Na quinta linha estão os números: 0, 2, 0, 4, 4."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 146,
@@ -710,7 +722,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/149",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro mostra o número total de acidentes nos anos: 2013: 1 050 acidentes; 2014: 900 acidentes e 2015: 850 acidentes."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 150,
@@ -1364,7 +1380,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/161",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro mostra a quantidade de garrafas fora das especificações por dia e a quantidade de dias: 52 dias: 0 garrafa fora das especificações."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 162,
@@ -1420,7 +1440,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/162",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O quadro mostra a equivalência das seguintes unidades: Polegada: 2,54 centímetros; Jarda: 3 pés e Jarda: 0,9144 metro."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 163,
@@ -1533,7 +1557,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/164",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura é formada por um polígono de 8 lados que formam, entre os lados, ângulos de 90 graus. O comprimento da base desse polígono é igual a 14 metros. No lado direito desse polígono tem três degraus: o primeiro degrau tem altura igual a 5 metros e comprimento igual a 3 metros, o segundo degrau tem altura igual a 2 metros e comprimento igual a 3 metros e o terceiro degrau tem altura igual a 1 metro e comprimento igual a 8 metros."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 165,
@@ -1643,7 +1671,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/166",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A figura mostra um retângulo ABCD, com os lados AB e CD medindo 18 centímetros e os lados AD e BC medindo 12 centímetros. No lado CD tem um ponto E, o segmento CE é igual a 12 centímetros. A partir do ponto E foi feita uma dobra do vértice D para o interior do retângulo, formando um triângulo retângulo ADE. O lado AE é oposto ao ângulo de 90 graus, os lados AD e DE são adjacentes ao ângulo de 90 graus. Após essa primeira dobradura, a medida do segmento AE é A 2 vezes raiz quadrada de 22 centímetros. B 6 vezes raiz quadrada de 3 centímetros. C 12 centímetros. D 6 vezes raiz quadrada de 5 centímetros. E 12 vezes raiz quadrada de 2 centímetros. *LE0225LA23*"
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 167,
@@ -1809,7 +1841,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/169",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Plano cartesiano onde os eixos x e y representam os números, em quilômetro. O gráfico tem os seguintes pontos: O ponto P está localizado nas coordenadas (0 ; 0). O ponto Q está localizado nas coordenadas (3 ; 7). O ponto R está localizado nas coordenadas (6 ; 7). O ponto S está localizado nas coordenadas (5 ; 3). O ponto um está localizado nas coordenadas (5 ; 6). O ponto dois está localizado nas coordenadas (4 ; 5). O ponto três está localizado nas coordenadas (5 ; 5). O ponto quatro está localizado nas coordenadas (4 ; 6). O ponto cinco está localizado nas coordenadas (3 ; 4)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 170,
@@ -2307,7 +2343,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/178",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico, em forma heptagonal, mostra a venda da última semana."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 179,
@@ -2363,7 +2403,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/179",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "O gráfico está em um plano cartesiano, em que o eixo x mostra o tempo, em minuto, e o eixo y mostra a energia, em watt vezes minuto. O gráfico é formado por uma linha que sai da origem e passa pelos pontos: (1 ; 20); (2 ; 35); (3 ; 40); (4 ; 55); (5 ; 75); (6 ; 85); (7 ; 105) e (8 ; 120)."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D2.pdf)"
   },
   {
     "numero": 180,

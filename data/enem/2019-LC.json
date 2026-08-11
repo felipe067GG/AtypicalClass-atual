@@ -539,7 +539,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/6",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Cartaz com a mensagem: “Palavras têm poder. Palavras informam, libertam, destroem preconceitos. Palavras desinformam, aprisionam e criam preconceitos. Liberdade de expressão. A escolha é sua. A responsabilidade, também. A liberdade de expressão é uma conquista inquestionável. O que todos precisam saber é que liberdade traz responsabilidades. Publicar informações e mensagens sensacionalistas, explorar imagens mórbidas, desrespeitar os Direitos Humanos e estimular o preconceito e a violência são atos de desrespeito à lei. Para promover a liberdade de expressão com responsabilidade, o Ministério Público de Pernambuco se une a vários parceiros nesta ação educativa. Colabore. Caso veja alguma mensagem que desrespeite os seus direitos, denuncie. 0800-281-9455 — Ministério Público de Pernambuco\"."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 7,
@@ -757,7 +761,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/10",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Na parte superior do cartaz, está o título: “Faz com que o BULLYING passe à história!”. Do lado esquerdo, sobre uma faixa preta, a palma branca de uma mão e a mensagem: “STOP Bullying”. Do lado direito do cartaz, o texto: “És vítima: • Fica calmo(a). Os bullies adoram reações nervosas. Finge que não é contigo! • Não dês troco. Lembra-te: o agressor é ele, não és tu. • Evita ficar sozinho(a) com o bullie, junta-te com os teus amigos! • Mostra-te confiante, não demonstres medo e acredita em ti! • Conta a uma pessoa de confiança o que está a acontecer contigo. Conheces alguma vítima: • Nunca deixes o teu amigo(a) sozinho(a). Assim farás com que ele(a) se sinta seguro(a). • Ajuda-o(a) a contar a alguém de confiança o que se passa! Conheces o(a) agressor(a): • Tenta convencê-lo(a) a mudar o seu comportamento."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 11,
@@ -867,7 +875,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/12",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "História composta por seis quadrinhos, intitulada “A promessa da felicidade”. No primeiro quadrinho, uma imagem vista de cima mostra uma pessoa usando um chapéu. Não é possível ver o seu rosto. No segundo quadrinho, vê-se apenas parte do chapéu da pessoa do primeiro quadrinho e a silhueta de outra pessoa. O terceiro quadrinho mostra apenas um olho da pessoa de chapéu. No quarto quadrinho, há apenas uma mão segurando flores. O quinto quadrinho mostra uma menina que usa o chapéu. Ela está envergonhada, de olhos fechados e com uma das mãos na altura do queixo. No último quadrinho, um menino, ruborizado, está com uma mão atrás da cabeça. É dele a mão que segura as flores."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 13,
@@ -1465,7 +1477,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/23",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Do lado esquerdo do cartaz há um par de tênis velhos e sujos; do lado direito, a mensagem: “Vamos calçar os sapatos dos refugiados e dar o primeiro passo para entender sua situação — www.ensuszapatos.org.” Nesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de A criticar as difíceis condições de vida dos refugiados."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 24,
@@ -1629,7 +1645,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/26",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Cartaz intitulado “Direitos dos idosos”. No centro do cartaz, há o desenho de uma senhora de cabelos brancos, com óculos, sentada numa poltrona ao lado de um abajur, utilizando um notebook. Do lado esquerdo do cartaz, há o seguinte texto: “Estatuto do Idoso e a Constituição Federal asseguram: Atendimento preferencial no SUS; Prioridade na tramitação de processos judiciais; Vagas preferenciais em estacionamentos; Meia-entrada em eventos culturais, esportivos e de lazer.” Do lado direito do cartaz, há o seguinte texto: “Aos idosos de baixa renda também estão garantidos: Viagem gratuita em ônibus interestadual; Assistência de um salário mínimo; Acesso a mais de 20 programas sociais”."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 27,
@@ -1901,7 +1921,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/31",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "A obra está afixada em uma parede e é composta por um guidão de metal e por um selim de bicicleta, que, unidos, formam uma figura que lembra a cabeça de um touro com chifres. Na obra Cabeça de touro , de Pablo Picasso , o material descartado torna-se objeto de arte por meio da A reciclagem da matéria-prima original."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 32,
@@ -2500,7 +2524,11 @@
       "questaoApi": "https://api.enem.dev/v1/exams/2019/questions/43",
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
-    }
+    },
+    "descricoesDeFiguras": [
+      "Na parte superior de uma carta de jogo, há a fotografia do busto de um homem branco e calvo. Abaixo da fotografia, o nome de Marcelo Gleiser e as informações a respeito dele: “Área de atuação: Física e Astronomia. Contribuição mais famosa: Seus livros A Dança do Universo e O Fim da Terra e do Céu . Nascimento: 19 de março de 1959. Alma Mater: PUC-Rio, UFRJ e King’s College de Londres”. Na parte inferior da carta, está o nome do jogo: “Super Trunfo Tecmundo”."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2019 (2019_D1.pdf)"
   },
   {
     "numero": 44,

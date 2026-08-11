@@ -211,7 +211,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "O quadro indica os parâmetros medidos para testes de 1 a 5: Teste 1: cálcio; Teste 2: cloreto; Teste 3: turbidez; Teste 4: coliformes totais; Teste 5: sólidos sedimentáveis."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2023 (2023_CN.txt)"
   },
   {
     "numero": 95,
@@ -1506,7 +1509,10 @@
       "microdados": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
       "validacao": "duas fontes independentes (API enem.dev e TX_GABARITO dos microdados do INEP)"
     },
-    "descricoesDeFiguras": []
+    "descricoesDeFiguras": [
+      "Quadro com compostos numerados de 1 a 5 e suas respectivas nomenclaturas. Composto 1: n-decano. Composto 2: n-heptano. Composto 3: 2,2,4-trimetilpentano. Composto 4: 3-etil-4-metilex-1-eno. Composto 5: 3-etil-2-metilpentan-1-ol."
+    ],
+    "descricoesDeFigurasFonte": "caderno do ledor do INEP, ENEM 2023 (2023_CN.txt)"
   },
   {
     "numero": 119,
