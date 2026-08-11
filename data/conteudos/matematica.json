@@ -161,7 +161,10 @@
      "titulo": "Aula 02 - Representando numericamente as partes",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 592,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -231,6 +234,20 @@
     {
      "label": "Livro Aberto de Frações — sequência didática com orientações ao professor apoiadas em pesquisa, financiada por IMPA e OBMEP",
      "url": "https://github.com/livro-aberto/livro-de-fracoes"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=Pi3e7A5FiYo",
+     "titulo": "[ Libras e LSE ] FRAÇÃO - O que são Frações e Números Mistos? - Introdução e Significados | MAB #48",
+     "canal": "Matemática Rio com Prof. Rafael Procopio",
+     "duracaoSegundos": 1832,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   },
@@ -304,7 +321,34 @@
      "titulo": "Aula 03 - Frações equivalentes",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 599,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=mTen4Pv8OA0",
+     "titulo": "[LIBRAS e LCE ] LEITURA E ESCRITA DOS NÚMEROS DECIMAIS 5º 6º ANOS \\Prof. Gis/",
+     "canal": "Gis com Giz",
+     "duracaoSegundos": 307,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=cICcNyEuOS4",
+     "titulo": "[ Libras e LSE ] Porcentagem - Muito Fácil",
+     "canal": "André Simão",
+     "duracaoSegundos": 381,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   },
@@ -378,7 +422,22 @@
      "titulo": "Razões - Aula 52",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 763,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=SbGQsSXevyc",
+     "titulo": "(Libras e LSE) RAZÕES ESPECIAIS: VELOCIDADE MÉDIA, DENSIDADE DEMOGRÁFICA E ESCALAS.",
+     "canal": "Professora Ana Maria | Matemática",
+     "duracaoSegundos": 845,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   },
@@ -448,7 +507,22 @@
      "titulo": "Introdução aos números inteiros - Aula 01",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 834,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=_eX_ErjebuE",
+     "titulo": "[Libras e LSE] NÚMEROS NEGATIVOS | OPERAÇÕES COM NÚMEROS INTEIROS |",
+     "canal": "Gis com Giz",
+     "duracaoSegundos": 1253,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   },
@@ -509,6 +583,20 @@
     {
      "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
      "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=Lh_FlooYZ6Q",
+     "titulo": "[ Libras e LSE ] - Valor numérico de uma expressão algébrica",
+     "canal": "Prof Laís - Matemática",
+     "duracaoSegundos": 397,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   },
@@ -583,7 +671,10 @@
      "titulo": "Produtos Notáveis: Parte 1 - Aula 25",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 894,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -659,7 +750,10 @@
      "titulo": "Função Afim: Definição e Propriedades Básicas - Aula 69",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 841,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -735,7 +829,10 @@
      "titulo": "Aula 41 - Função Quadrática: Definição, Máximos e Mínimos",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 786,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -806,7 +903,22 @@
      "titulo": "Aumentos ou descontos sucessivo - Aula 15",
      "canal": "Portal da Matemática OBMEP",
      "duracaoSegundos": 574,
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=v0zJCckZU4o",
+     "titulo": "[ Libras e LSE ] Porcentagem | Matemática Básica",
+     "canal": "Matemático TECA",
+     "duracaoSegundos": 725,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   },
@@ -873,6 +985,1167 @@
     {
      "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
      "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=fqPJ4zppl0o",
+     "titulo": "[ Libras e LSE ] Probabilidade | Eventos Independentes e Eventos Dependentes | Aula 02 de 03",
+     "canal": "Professor Claudio Teixeira",
+     "duracaoSegundos": 655,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-angulo-abertura-e-tipos",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Ângulo como abertura: reto, agudo, obtuso e raso",
+   "descricao": "O aluno reconhece o ângulo como a abertura entre dois lados, e não como o comprimento dos lados desenhados, e classifica ângulos que encontra na sala e em imagens.",
+   "bncc": [
+    "EF06MA25",
+    "EF06MA26"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "vocabulario-tecnico",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno compara dois ângulos de lados desiguais e diz qual tem maior abertura, justificando pela abertura e não pelo desenho.",
+    "duracao": 50,
+    "materiais": [
+     "Uma tesoura sem ponta e um leque de papel por dupla",
+     "Folhas de papel para dobradura",
+     "Transferidor",
+     "Fotos impressas de esquinas, telhados e escadas"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Abrir e fechar",
+      "comoFazer": "Cada dupla abre e fecha a tesoura e o leque. Pergunte o que muda quando se abre mais: a lâmina não cresce, e é essa observação que sustenta tudo o que vem depois."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O desenho que engana",
+      "comoFazer": "Mostre dois ângulos com a mesma abertura e lados de comprimentos muito diferentes. Peça que apontem o maior e justifiquem. Deixe a turma discordar antes de resolver — o erro precisa aparecer para ser desfeito."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O reto sai da dobradura, antes do transferidor",
+      "comoFazer": "Dobre a folha ao meio e de novo ao meio: o canto é o ângulo reto. Com esse canto de papel na mão, a turma classifica os ângulos das fotos em menor que o reto, igual e maior. Só depois entregue o transferidor, para medir o que já foi classificado."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Nomear o que já se separou",
+      "comoFazer": "Agora entram agudo, obtuso e raso, aplicados aos grupos que a turma já formou. O nome chega para um conjunto que o aluno construiu, e não antes dele."
+     }
+    ],
+    "comoAvaliar": "Dê dois ângulos de mesma abertura com lados desiguais e peça a comparação por escrito. Responder 'o da direita, porque as linhas são maiores' é o resultado a evitar, e é o mais comum quando ângulo é apresentado só como desenho.",
+    "errosComuns": [
+     "Julgar a abertura pelo comprimento dos lados desenhados, que é o que a figura mostra mais forte.",
+     "Ler a escala errada do transferidor, porque ele traz duas numerações em sentidos opostos.",
+     "Achar que um ângulo muda de tipo quando a figura é girada."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=2w6ZxGqqVI0",
+     "titulo": "[Libras e LSE]  ÂNGULOS - DEFINIÇÃO E TIPOS DE ÂNGULOS  | RETO, NULO, AGUDO, OBTUSO",
+     "canal": "Gis com Giz",
+     "duracaoSegundos": 962,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-poligonos-classificar",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Polígonos: classificar por lados, vértices e ângulos",
+   "descricao": "O aluno classifica polígonos em regulares e não regulares usando lados, vértices e ângulos como critério, e não a aparência da figura na posição em que foi desenhada.",
+   "bncc": [
+    "EF06MA18"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "vocabulario-tecnico",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno decide se um polígono é regular medindo lados e ângulos, e explica por que um losango não é regular apesar de ter os quatro lados iguais.",
+    "duracao": 50,
+    "materiais": [
+     "Conjunto de figuras recortadas, com o mesmo polígono em posições diferentes",
+     "Régua e transferidor",
+     "Canudos e massa de modelar para montar polígonos"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Separar antes de nomear",
+      "comoFazer": "Entregue as figuras recortadas e peça que cada grupo as separe como quiser, dizendo o critério. Vão aparecer critérios de aparência — é deles que se parte."
+     },
+     {
+      "minutos": 12,
+      "titulo": "O quadrado em pé e o quadrado na ponta",
+      "comoFazer": "Mostre o mesmo quadrado apoiado no lado e apoiado no vértice. Muita gente chama o segundo de losango. Meça os dois com a turma: os lados e os ângulos não mudaram, só a posição."
+     },
+     {
+      "minutos": 18,
+      "titulo": "Dois critérios, não um",
+      "comoFazer": "Monte com canudos um losango de lados iguais e ângulos diferentes. Regular exige lados iguais **e** ângulos iguais; o losango cumpre um e falha no outro. Peça que testem os dois critérios em cada figura recortada."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A tabela da turma",
+      "comoFazer": "Preencham juntos uma tabela com número de lados, número de vértices, lados iguais (sim/não) e ângulos iguais (sim/não). A coluna que decide fica visível."
+     }
+    ],
+    "comoAvaliar": "Dê um losango não quadrado e um retângulo não quadrado e pergunte se são regulares, pedindo a medida que sustenta a resposta. Resposta sem medida não conta, mesmo quando acerta.",
+    "errosComuns": [
+     "Chamar de losango o quadrado apoiado no vértice, tratando posição como propriedade.",
+     "Concluir que lados iguais bastam para ser regular, esquecendo os ângulos.",
+     "Contar vértices a menos em polígonos com muitos lados, por perder a conta no meio da volta."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=uUUC39uhpAY",
+     "titulo": "[ Libras e LSE ] Geometria plana poligonos",
+     "canal": "Eu vou aprender Matemática",
+     "duracaoSegundos": 391,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-area-por-decomposicao",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Área de figuras planas por composição e decomposição",
+   "descricao": "O aluno calcula a área de uma figura recortando-a em retângulos e triângulos conhecidos, e reconhece que figuras diferentes podem ter a mesma área.",
+   "bncc": [
+    "EF07MA32"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "sequencia-de-passos",
+    "pratica-concreta",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno decompõe uma figura em partes de área conhecida, soma as partes e explica por que a decomposição escolhida não altera o resultado.",
+    "duracao": 50,
+    "materiais": [
+     "Malha quadriculada impressa",
+     "Figuras compostas recortadas em cartolina",
+     "Tesoura sem ponta"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Contar quadradinhos",
+      "comoFazer": "Na malha, peça a área de uma figura irregular contando quadrados inteiros e juntando os pedaços. Contar é lento de propósito: é o que dá sentido ao atalho que vem depois."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Cortar de dois jeitos",
+      "comoFazer": "Cada dupla recorta a mesma figura de duas maneiras diferentes e calcula a área nas duas. Os resultados batem, e é essa coincidência que deve ser discutida — não anunciada."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O triângulo é meio retângulo",
+      "comoFazer": "Recorte um retângulo pela diagonal e sobreponha as duas partes. Só depois disso escreva a fórmula do triângulo: ela passa a registrar o que a turma viu, em vez de substituí-lo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mesma área, formatos diferentes",
+      "comoFazer": "Peça duas figuras de mesma área e formatos distintos, desenhadas na malha. Isso separa área de perímetro, que costumam andar colados na cabeça do aluno."
+     }
+    ],
+    "comoAvaliar": "Dê uma figura em L e peça a área com a decomposição desenhada por cima. O desenho da decomposição é o que se avalia; o número sozinho não mostra se houve método ou chute.",
+    "errosComuns": [
+     "Somar as medidas dos lados achando que calcula área — a confusão entre área e perímetro.",
+     "Esquecer de dividir por dois na parte triangular, porque a fórmula foi decorada solta.",
+     "Contar duas vezes a região onde os dois pedaços se encontram, ao decompor com sobreposição."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=yX33gDWCwos",
+     "titulo": "Libras e LSE - CÁLCULO DE ÁREA POR COMPOSIÇÃO OU DECOMPOSIÇÃO DE FIGURAS PLANAS👩‍🏫PROF GISELE RAMOS",
+     "canal": "Professora Gisele Ramos - Matemática",
+     "duracaoSegundos": 623,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-volume-bloco-retangular",
+   "etapa": "EF2",
+   "ano": "7º ano",
+   "titulo": "Volume do bloco retangular: empilhar antes de multiplicar",
+   "descricao": "O aluno calcula o volume de um bloco retangular entendendo o produto das três medidas como a contagem de cubos que cabem dentro dele.",
+   "bncc": [
+    "EF07MA30"
+   ],
+   "exigencias": [
+    "pratica-concreta",
+    "abstracao-simbolica",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno calcula o volume de uma caixa e explica o que cada um dos três fatores conta, sem recorrer à frase 'é a fórmula'.",
+    "duracao": 50,
+    "materiais": [
+     "Cubinhos de encaixe ou dados iguais, ao menos 60 por grupo",
+     "Caixas de papelão pequenas e vazias",
+     "Régua"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Quantos cabem",
+      "comoFazer": "Cada grupo enche uma caixa pequena de cubinhos e conta. Ninguém escreve conta ainda — só o número obtido e como contaram."
+     },
+     {
+      "minutos": 15,
+      "titulo": "A camada",
+      "comoFazer": "Peça que montem só a primeira camada do fundo e contem. Depois perguntem quantas camadas iguais cabem. A multiplicação aparece aqui, descrevendo o que já foi feito com a mão."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Da contagem para as três medidas",
+      "comoFazer": "Meçam a caixa com a régua e comparem com a contagem. Escreva comprimento × largura × altura ao lado do que a turma contou, apontando qual fator é a fileira, qual é a camada e qual é o empilhamento."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mesma quantidade, caixas diferentes",
+      "comoFazer": "Dê 24 cubinhos e peça todas as caixas possíveis. Sai 24 de várias formas, e fica claro que volume igual não quer dizer formato igual."
+     }
+    ],
+    "comoAvaliar": "Dê as três medidas de uma caixa e peça o volume com uma frase dizendo o que cada fator conta. A frase é a avaliação: o número certo com a explicação 'multipliquei os três' não distingue quem entendeu de quem repetiu.",
+    "errosComuns": [
+     "Somar as três medidas em vez de multiplicá-las.",
+     "Misturar unidades — medir em centímetros e responder em metros cúbicos sem converter.",
+     "Confundir volume com área da superfície da caixa, porque as duas contas usam as mesmas medidas."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=nF10KBVF9qM",
+     "titulo": "Libras e LSE - VOLUME do BLOCO retangular",
+     "canal": "Professora Gisele Ramos - Matemática",
+     "duracaoSegundos": 365,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-angulos-na-circunferencia",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Ângulos central e inscrito na circunferência",
+   "descricao": "O aluno relaciona o ângulo central e o ângulo inscrito que enxergam o mesmo arco, e usa essa relação para resolver problemas.",
+   "bncc": [
+    "EF09MA11"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "abstracao-simbolica",
+    "vocabulario-tecnico",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno identifica, numa mesma figura, o arco, o ângulo central e o ângulo inscrito correspondentes, e calcula um a partir do outro.",
+    "duracao": 50,
+    "materiais": [
+     "Círculos de papel com o centro marcado",
+     "Transferidor e régua",
+     "Barbante para marcar arcos"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Marcar o arco primeiro",
+      "comoFazer": "Cada aluno marca dois pontos na borda do círculo e destaca o arco entre eles com barbante. O arco vem antes dos ângulos, porque é ele que os dois ângulos têm em comum."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Duas maneiras de olhar o mesmo arco",
+      "comoFazer": "Ligue os dois pontos ao centro e meça. Depois ligue os mesmos dois pontos a um terceiro ponto da borda e meça de novo. Peça que registrem os dois valores numa tabela, sem conclusão ainda."
+     },
+     {
+      "minutos": 13,
+      "titulo": "A relação sai da tabela",
+      "comoFazer": "Repita com três arcos diferentes. Com a tabela cheia, a turma enuncia a relação. Escrever a relação antes da tabela transforma a aula em verificação de uma fórmula dada."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Mover o vértice",
+      "comoFazer": "Peça que desloquem o terceiro ponto pela borda e meçam de novo. O inscrito não muda, e essa invariância é o que o aluno leva para o problema."
+     }
+    ],
+    "comoAvaliar": "Dê uma figura com o central marcado e peça o inscrito, e depois o inverso. Pedir só um dos sentidos deixa passar quem decorou 'divide por dois' sem saber o que divide.",
+    "errosComuns": [
+     "Aplicar a relação a ângulos que não enxergam o mesmo arco, porque estão na mesma figura.",
+     "Trocar central por inscrito, dobrando quando deveria dividir.",
+     "Confundir a medida do arco com o comprimento do arco, que são grandezas diferentes."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=XwfNUJlfLZg",
+     "titulo": "[ Libras e LSE ] Ângulos na Circunferência - GEOMETRIA PLANA",
+     "canal": "Equaciona Com Paulo Pereira",
+     "duracaoSegundos": 1092,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-distancia-entre-dois-pontos",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Distância entre dois pontos no plano cartesiano",
+   "descricao": "O aluno calcula a distância entre dois pontos do plano cartesiano reconhecendo o triângulo retângulo formado por eles, em vez de aplicar uma fórmula memorizada.",
+   "bncc": [
+    "EF09MA14"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "abstracao-simbolica",
+    "sequencia-de-passos",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno desenha o triângulo retângulo entre dois pontos dados, identifica os catetos como as diferenças de coordenadas e obtém a distância.",
+    "duracao": 50,
+    "materiais": [
+     "Malha quadriculada com eixos impressos",
+     "Régua",
+     "Barbante"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Andar pela quadra e cortar caminho",
+      "comoFazer": "Marque dois pontos na malha. Peça o caminho andando só na horizontal e na vertical, e depois o caminho reto com o barbante. São dois números diferentes, e a diferença é o assunto da aula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O triângulo que ninguém desenhou",
+      "comoFazer": "Mostre que os dois trechos do caminho em L são os catetos e o barbante é a hipotenusa. O triângulo já estava ali; o que falta é traçá-lo."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Os catetos são diferenças",
+      "comoFazer": "Meça os catetos contando quadradinhos e compare com a subtração das coordenadas. Só depois disso escreva a expressão, apontando cada diferença no desenho."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Pontos com coordenada negativa",
+      "comoFazer": "Repita com um ponto no terceiro quadrante. A subtração dá negativo e o quadrado desfaz o sinal — distância não é negativa, e é aqui que isso se vê."
+     }
+    ],
+    "comoAvaliar": "Dê dois pontos com uma coordenada negativa e peça a distância com o triângulo desenhado. Sem o desenho não dá para separar quem entendeu de quem substituiu na fórmula.",
+    "errosComuns": [
+     "Somar as coordenadas em vez de subtraí-las ao montar os catetos.",
+     "Esquecer a raiz quadrada no fim e entregar o quadrado da distância.",
+     "Tratar o resultado negativo da subtração como erro, quando o quadrado resolve o sinal."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Teaching Strategies for Improving Algebra Knowledge in Middle and High School Students",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/20"
+    },
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=gVpB7FmvxXo",
+     "titulo": "[ Libras e LSE ] DISTÂNCIA ENTRE DOIS PONTOS  no plano cartesiano - Geometria Analítica",
+     "canal": "Matemática do aluno - Prof. Rodrigo Ribeiro",
+     "duracaoSegundos": 1002,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-frequencias-em-classes",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Agrupar valores contínuos em classes numa tabela de frequências",
+   "descricao": "O aluno organiza dados de uma variável contínua em classes e constrói a tabela de frequências, decidindo o tamanho da classe pelo que ela deixa ver.",
+   "bncc": [
+    "EF08MA23",
+    "EF08MA24"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "sequencia-de-passos",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno agrupa em classes um conjunto de medidas da própria turma e justifica o tamanho de classe escolhido pelo que a tabela passa a mostrar.",
+    "duracao": 50,
+    "materiais": [
+     "Fita métrica",
+     "Papel quadriculado",
+     "Tabela em branco impressa"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Medir a turma",
+      "comoFazer": "Cada dupla mede a altura de quatro colegas, em centímetros. Os dados são da turma de propósito: dado de fora não provoca a pergunta que vem a seguir."
+     },
+     {
+      "minutos": 10,
+      "titulo": "A lista não responde nada",
+      "comoFazer": "Escreva as trinta alturas em lista e pergunte qual é a faixa mais comum. Ninguém responde olhando a lista, e é essa frustração que justifica agrupar."
+     },
+     {
+      "minutos": 18,
+      "titulo": "Classes largas e classes estreitas",
+      "comoFazer": "Um grupo agrupa de 10 em 10 cm, outro de 2 em 2. Comparem as duas tabelas: a larga esconde a variação, a estreita devolve a lista. A escolha é do problema, não do gosto."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Fechar o intervalo",
+      "comoFazer": "Decidam juntos onde entra quem mede exatamente o valor de fronteira. Sem essa regra escrita, dois alunos contam a mesma pessoa em classes diferentes."
+     }
+    ],
+    "comoAvaliar": "Peça a tabela pronta com uma frase justificando o tamanho da classe. A tabela sozinha não mostra a decisão, que é o que se está ensinando.",
+    "errosComuns": [
+     "Deixar intervalos que se sobrepõem, fazendo um mesmo dado caber em duas classes.",
+     "Escolher classes tão largas que a tabela deixa de mostrar variação alguma.",
+     "Somar as frequências e não bater com o total de dados, sem perceber a diferença."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=pvjin8J7gdw",
+     "titulo": "[ Libras e LSE ] - Como construir uma tabela com valores contínuos? Estatística básica - Somatize",
+     "canal": "Somatize - Profª Edna - Matemática",
+     "duracaoSegundos": 1271,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-media-moda-mediana",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Média, moda e mediana: qual delas responde a pergunta",
+   "descricao": "O aluno calcula as três medidas de tendência central e escolhe qual delas descreve melhor um conjunto de dados, reconhecendo quando a média engana.",
+   "bncc": [
+    "EF08MA25"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "sequencia-de-passos",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno calcula as três medidas de um mesmo conjunto e argumenta qual usar, apontando o dado extremo que desloca a média.",
+    "duracao": 50,
+    "materiais": [
+     "Lista de salários de uma empresa fictícia, com um valor muito alto",
+     "Fichas ou cubinhos para nivelar",
+     "Papel quadriculado"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Nivelar as pilhas",
+      "comoFazer": "Cada grupo monta pilhas de fichas com alturas diferentes e as iguala movendo fichas. O número que sobra em cada pilha é a média, obtida sem conta nenhuma."
+     },
+     {
+      "minutos": 12,
+      "titulo": "As três, no mesmo conjunto",
+      "comoFazer": "Com a lista de salários, calculem as três. Ordenar para achar a mediana é o passo que mais se pula, e conferir a ordenação vale o tempo."
+     },
+     {
+      "minutos": 16,
+      "titulo": "O salário do dono",
+      "comoFazer": "Mostre que a média está acima do que quase todo mundo ganha, por causa de um único valor. Peça que digam qual medida usariam num anúncio de emprego e qual usariam numa negociação — e por quê."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quando a moda é a única que serve",
+      "comoFazer": "Dê uma lista de tamanhos de calçado vendidos. Média de calçado não compra estoque; a moda, sim. Fecha a ideia de que a escolha depende da pergunta."
+     }
+    ],
+    "comoAvaliar": "Dê um conjunto com um valor extremo e peça as três medidas mais a escolha justificada. A justificativa é o que se avalia — as três contas sozinhas não mostram compreensão.",
+    "errosComuns": [
+     "Calcular a mediana sem ordenar os dados antes.",
+     "Errar a mediana em conjunto de quantidade par, esquecendo a média dos dois centrais.",
+     "Usar a média em conjunto com valor extremo e concluir algo falso sobre o grupo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=d965cRsim6I",
+     "titulo": "Libras e LSE | MODA, MÉDIA E MEDIANA ✅ ESTATÍSTICA",
+     "canal": "Prof. MURAKAMI - MATEMÁTICA RAPIDOLA",
+     "duracaoSegundos": 522,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-divisao-com-naturais",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Divisão com números naturais: o que sobra e o que isso significa",
+   "descricao": "O aluno resolve problemas de divisão escolhendo o que fazer com o resto conforme a pergunta, em vez de aplicar o algoritmo e parar no quociente.",
+   "bncc": [
+    "EF06MA03"
+   ],
+   "exigencias": [
+    "sequencia-de-passos",
+    "abstracao-simbolica",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno resolve dois problemas com a mesma divisão e respostas diferentes, justificando pelo que a pergunta pede que se faça com o resto.",
+    "duracao": 50,
+    "materiais": [
+     "Fichas ou tampinhas, ao menos 60 por grupo",
+     "Copos ou pratos de papel"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Repartir de verdade",
+      "comoFazer": "Dê 53 tampinhas e 8 copos e peça a divisão igual. Sobram 5, e elas ficam na mesa à vista. Ninguém escreve conta ainda."
+     },
+     {
+      "minutos": 13,
+      "titulo": "Duas perguntas, uma divisão",
+      "comoFazer": "Pergunte quantas tampinhas cada copo recebe, e depois quantos copos cheios de 8 dá para formar. A divisão é a mesma e o que se olha é diferente — reparte e mede são os dois sentidos."
+     },
+     {
+      "minutos": 15,
+      "titulo": "O resto decide a resposta",
+      "comoFazer": "Três problemas com 53 ÷ 8: ônibus de 8 lugares para 53 pessoas (7 não basta), doces repartidos (7 e sobram 5), fita cortada em pedaços de 8 (7 pedaços). Peça a resposta e a justificativa de cada."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Só agora o algoritmo",
+      "comoFazer": "Escreva a conta armada ao lado das tampinhas, apontando onde está o quociente e onde está o resto no material. O algoritmo registra o que a turma fez com a mão."
+     }
+    ],
+    "comoAvaliar": "Dê dois problemas com a mesma divisão e restos tratados de forma diferente. Responder o mesmo número nos dois é o resultado a evitar, e é o mais comum quando divisão é ensinada só como procedimento.",
+    "errosComuns": [
+     "Ignorar o resto e responder sempre o quociente, porque foi o que a conta devolveu.",
+     "Arredondar para baixo quando o problema exige o inteiro seguinte, como no caso dos ônibus.",
+     "Trocar dividendo por divisor ao armar a conta, quando o enunciado cita o menor número primeiro."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=cUakCISGaC0",
+     "titulo": "[Libras e LSE] OPERAÇÕES COM NÚMEROS NATURAIS",
+     "canal": "Matemática com Demóclis Rocha",
+     "duracaoSegundos": 772,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=E0h_GnQC0BM",
+     "titulo": "[ Libras e LSE ] OPERAÇÕES COM NÚMEROS NATURAIS - DIVISÃO",
+     "canal": "Matemática no Papel",
+     "duracaoSegundos": 328,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-multiplos-e-divisores",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Múltiplos e divisores: duas leituras da mesma relação",
+   "descricao": "O aluno reconhece que 'é múltiplo de' e 'é divisor de' descrevem a mesma relação vista dos dois lados, e usa isso para resolver problemas de agrupamento.",
+   "bncc": [
+    "EF06MA05"
+   ],
+   "exigencias": [
+    "vocabulario-tecnico",
+    "abstracao-simbolica",
+    "representacao-visual"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno completa a frase nos dois sentidos para um par de números e usa divisores para resolver um problema de arrumar em fileiras iguais.",
+    "duracao": 50,
+    "materiais": [
+     "Papel quadriculado",
+     "Fichas ou quadradinhos recortados",
+     "Tabela de 1 a 100 impressa"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Retângulos com 24 quadradinhos",
+      "comoFazer": "Peça todos os retângulos possíveis com 24 quadradinhos. Saem 1×24, 2×12, 3×8, 4×6. Os lados que aparecem são os divisores de 24, e ninguém precisou da palavra ainda."
+     },
+     {
+      "minutos": 12,
+      "titulo": "O número que não faz retângulo",
+      "comoFazer": "Repita com 23. Só sai 1×23. Esse é o momento de nomear primo — como o número que só admite o retângulo fino."
+     },
+     {
+      "minutos": 16,
+      "titulo": "A mesma seta, dois nomes",
+      "comoFazer": "Escreva 3 → 24 e peça as duas frases: 24 é múltiplo de 3, 3 é divisor de 24. Insista que é uma relação só, lida de duas pontas. Este é o ponto que a turma mais troca."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Pintar a tabela",
+      "comoFazer": "Na tabela de 1 a 100, cada grupo pinta os múltiplos de um número. Os padrões que aparecem nas colunas dão sentido aos critérios de divisibilidade."
+     }
+    ],
+    "comoAvaliar": "Dê um par de números e peça as duas frases. Escrever só uma, ou trocar os papéis, mostra que a relação ainda está sendo lida como duas coisas distintas.",
+    "errosComuns": [
+     "Trocar múltiplo por divisor, porque as duas palavras aparecem na mesma frase do enunciado.",
+     "Esquecer o 1 e o próprio número na lista de divisores.",
+     "Achar que a lista de múltiplos acaba, por analogia com a de divisores, que acaba."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=Stsipf9XZc8",
+     "titulo": "[ Libras e LSE ] Múltiplos e divisores | Números naturais -  Matemática do 6º ano",
+     "canal": "Matemática do aluno - Prof. Rodrigo Ribeiro",
+     "duracaoSegundos": 307,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=KH-7Eo899uM",
+     "titulo": "(Libras e LSE) MÚLTIPLOS E DIVISORES DE UM NÚMERO NATURAL - Professora Angela Matemática",
+     "canal": "Professora Angela Matemática",
+     "duracaoSegundos": 717,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-fluxograma",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Fluxograma: escrever um procedimento que outra pessoa consiga seguir",
+   "descricao": "O aluno lê e constrói fluxogramas simples, reconhecendo que o losango de decisão é o que separa um caminho único de um procedimento com escolhas.",
+   "bncc": [
+    "EF06MA34"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "sequencia-de-passos",
+    "producao-do-aluno"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno desenha o fluxograma de um procedimento com pelo menos uma decisão, e um colega consegue executá-lo sem perguntar nada.",
+    "duracao": 50,
+    "materiais": [
+     "Fichas retangulares e losangos recortados",
+     "Cola e cartolina",
+     "Fluxograma pronto de exemplo"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Instrução que dá errado",
+      "comoFazer": "Um aluno dita como fazer um sanduíche e o professor executa ao pé da letra, sem completar nada. O que falta na instrução aparece sozinho, e com graça."
+     },
+     {
+      "minutos": 12,
+      "titulo": "Ler um pronto",
+      "comoFazer": "Entregue um fluxograma de 'o ônibus passou?' e peça que percorram com dois casos diferentes. Ler vem antes de escrever, aqui como em texto."
+     },
+     {
+      "minutos": 18,
+      "titulo": "O losango é a pergunta",
+      "comoFazer": "Cada dupla monta na cartolina o fluxograma de uma tarefa da rotina, com pelo menos uma decisão. Retângulo é ação, losango é pergunta de sim ou não — e toda seta que sai do losango precisa de rótulo."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Trocar e executar",
+      "comoFazer": "As duplas trocam os cartazes e executam o do colega literalmente. Onde travar, o autor corrige. O teste é outra pessoa conseguir seguir, não o desenho ficar bonito."
+     }
+    ],
+    "comoAvaliar": "Avalie o fluxograma pela execução de um colega, e não pela aparência. Fluxograma sem rótulo nas setas do losango é o caso que trava, e é o mais frequente.",
+    "errosComuns": [
+     "Sair do losango sem dizer qual seta é 'sim' e qual é 'não'.",
+     "Usar retângulo para pergunta, perdendo a distinção entre fazer e decidir.",
+     "Escrever um passo que supõe conhecimento que o executor não tem, como 'tempere a gosto'."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "NCII — princípios para desenhar intervenção em matemática",
+     "url": "https://intensiveintervention.org/resource/principles-designing-intervention-mathematics"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=CrzY3ZnbVKI",
+     "titulo": "[ Libras e LSE ] Você sabe o que é um FLUXOGRAMA? (6º Ano do Ensino Fundamental) - Prof Jorge Abreu",
+     "canal": "Matemática com prof Jorge Abreu",
+     "duracaoSegundos": 868,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-adicao-subtracao-fracoes",
+   "etapa": "EF2",
+   "ano": "6º ano",
+   "titulo": "Adição e subtração de frações: por que o denominador não se soma",
+   "descricao": "O aluno soma e subtrai frações apoiado na ideia de que só se somam partes do mesmo tamanho, e reconhece por que somar denominadores produz resultado absurdo.",
+   "bncc": [
+    "EF06MA10"
+   ],
+   "exigencias": [
+    "representacao-visual",
+    "sequencia-de-passos",
+    "pratica-concreta"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno soma duas frações de denominadores diferentes explicando por que precisou reescrevê-las, e mostra com uma figura que 1/2 + 1/3 não é 2/5.",
+    "duracao": 50,
+    "materiais": [
+     "Tiras de papel de mesmo comprimento",
+     "Régua",
+     "Papel quadriculado"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Tiras dobradas",
+      "comoFazer": "Cada dupla dobra tiras iguais em 2, em 3, em 4 e em 6 partes. As tiras ficam guardadas e servem de referência o resto da aula."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Somar o que tem o mesmo tamanho",
+      "comoFazer": "Peça 1/4 + 2/4 usando a tira dobrada em 4. Some as partes, não os pedaços do nome. Aqui já se diz por que o denominador não muda: ele diz o tamanho da parte, não a quantidade."
+     },
+     {
+      "minutos": 18,
+      "titulo": "O caso que não fecha",
+      "comoFazer": "Peça 1/2 + 1/3 com as tiras. Não encaixa, e a turma tem de procurar uma dobra que sirva para as duas — a de 6. A troca de denominador aparece como necessidade, e não como regra."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Testar o absurdo",
+      "comoFazer": "Se 1/2 + 1/3 fosse 2/5, o resultado seria menor que 1/2. Ponha as tiras lado a lado: somar não pode diminuir. É o teste que o aluno leva para conferir sozinho."
+     }
+    ],
+    "comoAvaliar": "Peça uma soma de denominadores diferentes com a figura que a justifica. O número certo sem figura não distingue quem entendeu de quem aplicou o mínimo múltiplo comum de cor.",
+    "errosComuns": [
+     "Somar numeradores e denominadores, tratando a fração como dois números soltos.",
+     "Trocar o denominador e esquecer de ajustar o numerador na mesma proporção.",
+     "Achar que o resultado precisa sempre ser simplificado para estar certo."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Developing Effective Fractions Instruction for Kindergarten Through 8th Grade",
+     "url": "https://ies.ed.gov/ncee/wwc/practiceguide/15"
+    },
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=72kK6txRaag",
+     "titulo": "(Libras e LSE) ADIÇÃO E SUBTRAÇÃO DE FRAÇÕES Matemática Básica Revisão ENEM e CONCURSOS Profª Angela",
+     "canal": "Professora Angela Matemática",
+     "duracaoSegundos": 1321,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-principio-multiplicativo",
+   "etapa": "EF2",
+   "ano": "8º ano",
+   "titulo": "Princípio multiplicativo da contagem",
+   "descricao": "O aluno conta possibilidades multiplicando as escolhas de cada etapa, e reconhece quando o princípio não vale porque as escolhas dependem umas das outras.",
+   "bncc": [
+    "EF08MA22"
+   ],
+   "exigencias": [
+    "sequencia-de-passos",
+    "representacao-visual",
+    "abstracao-simbolica"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno conta as possibilidades de uma situação de duas ou três etapas e aponta um caso em que multiplicar dá errado.",
+    "duracao": 50,
+    "materiais": [
+     "Recortes de camisetas e calças de cores diferentes",
+     "Papel para árvore de possibilidades"
+    ],
+    "etapas": [
+     {
+      "minutos": 12,
+      "titulo": "Listar tudo, uma vez",
+      "comoFazer": "Com 3 camisetas e 2 calças, peça todas as combinações escritas. Listar é lento de propósito: é a lentidão que faz o atalho valer."
+     },
+     {
+      "minutos": 13,
+      "titulo": "A árvore",
+      "comoFazer": "Desenhem a árvore de possibilidades. Cada camiseta abre dois ramos. O 3 × 2 fica visível no desenho antes de virar conta."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Acrescentar uma etapa",
+      "comoFazer": "Entram 4 pares de tênis. Desenhar a árvore inteira agora cansa, e é aí que a multiplicação passa a ser o método, não o atalho de quem já sabia."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quando não pode repetir",
+      "comoFazer": "Senha de 3 algarismos sem repetir: 10 × 9 × 8, e não 10 × 10 × 10. A segunda escolha depende da primeira, e é essa dependência que muda a conta."
+     }
+    ],
+    "comoAvaliar": "Dê uma situação com repetição permitida e outra sem, com os mesmos números. Responder igual nas duas mostra que o princípio virou fórmula.",
+    "errosComuns": [
+     "Somar as opções de cada etapa em vez de multiplicá-las.",
+     "Usar o mesmo total em todas as etapas quando a escolha não pode repetir.",
+     "Contar duas vezes a mesma combinação por trocar a ordem, em situações em que a ordem não importa."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / WWC — Improving Mathematical Problem Solving in Grades 4 Through 8 (PDF)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/MPS_PG_043012.pdf"
+    },
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=NX1E3mB8Xkw",
+     "titulo": "[ Libras e LSE ] PRINCÍPIO FUNDAMENTAL DA CONTAGEM - PRINCÍPIO MULTIPLICATIVO",
+     "canal": "Matemática no Papel",
+     "duracaoSegundos": 530,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
+    }
+   ]
+  },
+  {
+   "id": "matematica-notacao-cientifica",
+   "etapa": "EF2",
+   "ano": "9º ano",
+   "titulo": "Notação científica: comparar grandezas muito diferentes",
+   "descricao": "O aluno escreve números muito grandes e muito pequenos em notação científica e usa o expoente para comparar ordens de grandeza sem contar zeros.",
+   "bncc": [
+    "EF09MA04"
+   ],
+   "exigencias": [
+    "abstracao-simbolica",
+    "sequencia-de-passos",
+    "vocabulario-tecnico"
+   ],
+   "plano": {
+    "objetivo": "Ao final, o aluno converte nos dois sentidos e diz quantas vezes uma grandeza é maior que outra usando só os expoentes.",
+    "duracao": 50,
+    "materiais": [
+     "Fichas com dados reais: distância à Lua, diâmetro de um vírus, população do Brasil, massa de um elétron",
+     "Papel quadriculado"
+    ],
+    "etapas": [
+     {
+      "minutos": 10,
+      "titulo": "Contar zeros cansa e erra",
+      "comoFazer": "Peça que escrevam por extenso a distância da Terra ao Sol e o diâmetro de um vírus. Alguém vai errar a contagem de zeros — e esse erro é o argumento da aula."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Mover a vírgula é multiplicar por 10",
+      "comoFazer": "Mostre que cada casa que a vírgula anda multiplica ou divide por 10. O expoente conta essas casas, e o sinal diz para que lado. Faça nos dois sentidos, com a turma ditando."
+     },
+     {
+      "minutos": 15,
+      "titulo": "Comparar sem conta",
+      "comoFazer": "Com as fichas em notação científica, peça a ordenação. A comparação passa a ser entre expoentes, e a mantissa só desempata. É aqui que a notação mostra para que serve."
+     },
+     {
+      "minutos": 10,
+      "titulo": "Quantas vezes maior",
+      "comoFazer": "Pergunte quantas vezes a população do Brasil é maior que a de uma cidade pequena. Subtrair expoentes responde em uma linha, e o aluno confere pela ordem de grandeza."
+     }
+    ],
+    "comoAvaliar": "Peça a conversão nos dois sentidos e uma comparação justificada pelo expoente. Só converter não mostra se a notação virou ferramenta ou continuou sendo formatação.",
+    "errosComuns": [
+     "Trocar o sinal do expoente ao converter número pequeno, escrevendo 10⁴ onde cabe 10⁻⁴.",
+     "Deixar a mantissa fora do intervalo de 1 a 10, como 35 × 10³.",
+     "Comparar mantissas ignorando os expoentes, e concluir que 9 × 10² é maior que 2 × 10⁵."
+    ]
+   },
+   "fontes": [
+    {
+     "label": "IES / What Works Clearinghouse — guia prático de intervenção em matemática (PDF, 2021)",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "label": "Portal da Matemática OBMEP / IMPA — videoaulas do 6º ano do fundamental ao 3º do médio",
+     "url": "https://portaldaobmep.impa.br/index.php/modulo/index"
+    },
+    {
+     "label": "BNCC — Educação Infantil e Ensino Fundamental (PDF oficial do MEC)",
+     "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/watch?v=riJakGbRqGc",
+     "titulo": "Libras e LSE - OPERAÇÕES COM NOTAÇÃO CIENTÍFICA - Professora Angela Matemática",
+     "canal": "Professora Angela Matemática",
+     "duracaoSegundos": 838,
+     "paraEspecialidade": "deficiencia-auditiva",
+     "recursoDeAcessibilidade": "aula em Libras com legenda (LSE)",
+     "revisado": true,
+     "revisadoPor": "felipe067GG — aprovação em bloco da playlist, sem visionamento individual",
+     "revisadoEm": "2026-08-10",
+     "metadadosDe": "oEmbed"
     }
    ]
   }

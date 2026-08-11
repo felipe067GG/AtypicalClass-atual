@@ -33,6 +33,47 @@ const EXTENSAO_POR_DIR = { "data/conteudos": ".json" }
  * traria os 429 do YouTube para dentro de um script que derruba o build.
  */
 const IGNORADOS = [/^https?:\/\/(www\.)?(youtube\.com|youtu\.be)\//i]
+
+/**
+ * Os endereços de vídeo dos conteúdos, que também não são fonte.
+ *
+ * A regra acima resolvia isto por domínio, e resolvia porque todo vídeo era do
+ * YouTube. Desde que o vídeo pode estar em qualquer lugar da internet, casar por
+ * domínio deixou de valer: um webinar em Vimeo ou uma aula de campus virtual
+ * cairia aqui como se fosse fonte de afirmação pedagógica, seria cobrado duas
+ * vezes e traria o 429 do provedor para dentro de um script que derruba o build.
+ *
+ * O critério certo nunca foi o domínio, e sim **onde o endereço está no
+ * conteúdo**: `videos[].url` tem verificador próprio, `fontes[].url` não. Por
+ * isso a exclusão passa a ser lida da estrutura do JSON.
+ */
+async function urlsDeVideo() {
+  const enderecos = new Set()
+
+  let entries = []
+  try {
+    entries = await readdir("data/conteudos", { withFileTypes: true })
+  } catch {
+    return enderecos
+  }
+
+  for (const entry of entries) {
+    if (!entry.isFile() || !entry.name.endsWith(".json")) continue
+    let acervo
+    try {
+      acervo = JSON.parse(await readFile(join("data/conteudos", entry.name), "utf8"))
+    } catch {
+      continue
+    }
+    for (const conteudo of acervo.conteudos ?? []) {
+      for (const video of conteudo.videos ?? []) {
+        if (video?.url) enderecos.add(video.url)
+      }
+    }
+  }
+
+  return enderecos
+}
 const TIMEOUT_MS = 20000
 const CONCURRENCY = 10
 
@@ -69,8 +110,11 @@ const CONFIRMED_BLOCKED = new Map([
   // Acervos digitais da Biblioteca Nacional e do IBGE. Todos respondem 403 a
   // requisição automatizada e foram abertos no navegador pelo mantenedor em
   // 09/08/2026. Como as demais, a exceção vale por endereço exato.
-  ["https://memoria.bn.gov.br/", "Hemeroteca Digital Brasileira (Biblioteca Nacional)"],
-  ["https://bndigital.bn.gov.br/", "BNDigital (Biblioteca Nacional)"],
+  // A Hemeroteca (`memoria.bn.gov.br`) e a BNDigital saíram daqui em 10/08/2026:
+  // o próprio verificador as apontou como exceções sem link correspondente, e
+  // uma busca no repositório confirmou que nenhum conteúdo as cita. Exceção que
+  // não protege nada é ruído numa lista que só serve enquanto for curta — se
+  // algum conteúdo voltar a usá-las, o 403 traz o assunto de volta.
   ["https://brasilianafotografica.bn.gov.br/", "Brasiliana Fotográfica (Biblioteca Nacional)"],
   ["https://educa.ibge.gov.br/", "IBGE Educa"],
   // Domínio Público — biblioteca do MEC com obras literárias de domínio
@@ -80,6 +124,7 @@ const CONFIRMED_BLOCKED = new Map([
 
 async function collectUrls() {
   const found = new Map() // url -> Set(arquivo)
+  const deVideo = await urlsDeVideo()
 
   for (const dir of DIRS) {
     let entries = []
@@ -96,6 +141,7 @@ async function collectUrls() {
       for (const match of src.matchAll(/"(https?:\/\/[^"\s]+)"/g)) {
         const url = match[1]
         if (IGNORADOS.some((padrao) => padrao.test(url))) continue
+        if (deVideo.has(url)) continue
         if (!found.has(url)) found.set(url, new Set())
         found.get(url).add(path)
       }

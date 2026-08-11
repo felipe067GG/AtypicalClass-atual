@@ -58,8 +58,8 @@
      "url": "https://portal.fiocruz.br/"
     },
     {
-     "label": "InVivo / Fiocruz — divulgação científica para a escola",
-     "url": "https://www.invivo.fiocruz.br/"
+     "label": "Museu da Vida / Fiocruz — divulgação científica para a escola",
+     "url": "https://museudavida.fiocruz.br/"
     },
     {
      "label": "Portal do Professor (MEC)",
@@ -123,8 +123,8 @@
      "url": "https://portal.fiocruz.br/"
     },
     {
-     "label": "InVivo / Fiocruz — divulgação científica para a escola",
-     "url": "https://www.invivo.fiocruz.br/"
+     "label": "Museu da Vida / Fiocruz — divulgação científica para a escola",
+     "url": "https://museudavida.fiocruz.br/"
     }
    ],
    "videos": [
@@ -135,7 +135,10 @@
      "duracaoSegundos": 735,
      "paraEspecialidade": "deficiencia-auditiva",
      "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -196,8 +199,8 @@
      "url": "https://portal.fiocruz.br/"
     },
     {
-     "label": "InVivo / Fiocruz",
-     "url": "https://www.invivo.fiocruz.br/"
+     "label": "Museu da Vida / Fiocruz — divulgação científica para a escola",
+     "url": "https://museudavida.fiocruz.br/"
     },
     {
      "label": "Portal do Professor (MEC)",
@@ -339,7 +342,10 @@
      "duracaoSegundos": 391,
      "paraEspecialidade": "deficiencia-auditiva",
      "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -459,8 +465,8 @@
      "url": "https://portal.fiocruz.br/"
     },
     {
-     "label": "InVivo / Fiocruz",
-     "url": "https://www.invivo.fiocruz.br/"
+     "label": "Museu da Vida / Fiocruz — divulgação científica para a escola",
+     "url": "https://museudavida.fiocruz.br/"
     },
     {
      "label": "Sociedade Brasileira de Genética (SBG)",
@@ -665,7 +671,10 @@
      "duracaoSegundos": 718,
      "paraEspecialidade": "deficiencia-auditiva",
      "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
@@ -725,8 +734,8 @@
      "url": "https://portal.fiocruz.br/"
     },
     {
-     "label": "InVivo / Fiocruz",
-     "url": "https://www.invivo.fiocruz.br/"
+     "label": "Museu da Vida / Fiocruz — divulgação científica para a escola",
+     "url": "https://museudavida.fiocruz.br/"
     },
     {
      "label": "CDC — saúde mental e bem-estar na escola",
@@ -791,8 +800,8 @@
      "url": "https://portal.fiocruz.br/"
     },
     {
-     "label": "InVivo / Fiocruz",
-     "url": "https://www.invivo.fiocruz.br/"
+     "label": "Museu da Vida / Fiocruz — divulgação científica para a escola",
+     "url": "https://museudavida.fiocruz.br/"
     },
     {
      "label": "Organização Mundial da Saúde — saúde do adolescente",

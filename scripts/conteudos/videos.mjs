@@ -4,9 +4,17 @@
  * ## O que este script pode e o que não pode
  *
  * Pode confirmar que o vídeo **existe**, que não foi removido nem ficou
- * privado, e qual é o título, o canal e a duração. Isso vem da API pública de
- * oEmbed do YouTube e da própria página, não de digitação — um título digitado à
- * mão é uma afirmação sobre um vídeo que ninguém abriu.
+ * privado, e qual é o título, o canal e a duração. Isso vem de uma origem de
+ * máquina — oEmbed, schema.org ou Open Graph, conforme o que a fonte publica —
+ * e nunca de digitação: um título digitado à mão é uma afirmação sobre um vídeo
+ * que ninguém abriu.
+ *
+ * **O vídeo não precisa ser do YouTube.** Quem lê a descrição é
+ * `procedencia.mjs`, que atende qualquer endereço https e registra em `via` de
+ * onde a descrição veio. Enquanto todo vídeo do acervo era do YouTube, a regra
+ * "a descrição vem de uma fonte, não da memória" e "o vídeo é do YouTube"
+ * pareciam a mesma coisa; não são, e confundi-las deixava de fora webinar de
+ * instituição, aula de campus virtual e vídeo hospedado em Vimeo.
  *
  * **Não pode dizer se o vídeo presta.** Nenhuma verificação automática assiste a
  * nada. Por isso todo vídeo entra com `revisado: false` e o envio para o
@@ -21,6 +29,8 @@
 import { readdir, readFile, writeFile } from "node:fs/promises"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+
+import { descreverVideo, dormir } from "./procedencia.mjs"
 
 const PASTA = join(process.cwd(), "data", "conteudos")
 const SO_FILA = process.argv.includes("--fila")
@@ -66,88 +76,15 @@ const CANAIS_INSTITUCIONAIS = [
   "INES",
 ]
 
-function idDoVideo(url) {
-  const m =
-    url.match(/[?&]v=([A-Za-z0-9_-]{11})/) ??
-    url.match(/youtu\.be\/([A-Za-z0-9_-]{11})/) ??
-    url.match(/embed\/([A-Za-z0-9_-]{11})/)
-  return m?.[1] ?? null
-}
-
 /**
- * Título e canal, pela API de oEmbed.
- *
- * Vídeo removido, privado ou com id inventado responde 404 aqui — e é essa a
- * checagem que importa. Um endereço do YouTube sempre "existe" no sentido de
- * responder 200 na página; quem responde se o vídeo existe é o oEmbed.
+ * O intervalo entre vídeos existe pelo mesmo motivo que a repetição com espera
+ * crescente dentro de `procedencia.mjs`: numa curadoria de oito vídeos seguidos
+ * o YouTube passou a responder 429, com uma página de três mil bytes e nenhuma
+ * duração. Tratar isso como "não consegui ler a duração" se parece com vídeo
+ * defeituoso, e não com "tente daqui a pouco" — teria feito o conferidor
+ * recusar oito vídeos perfeitos. Pedir devagar é mais rápido que ser bloqueado.
  */
-async function oembed(url) {
-  const endereco = `https://www.youtube.com/oembed?url=${encodeURIComponent(url)}&format=json`
-  const resposta = await fetch(endereco, { headers: { "User-Agent": "AtypicalClass-VideoCheck/1.0" } })
-  if (!resposta.ok) return { erro: `oEmbed respondeu ${resposta.status}` }
-  const dados = await resposta.json()
-  return { titulo: dados.title, canal: dados.author_name }
-}
-
-/**
- * A duração, lida da página do vídeo.
- *
- * A duração não vem no oEmbed e a API oficial exigiria chave. `lengthSeconds`
- * está no JSON que a própria página embute. Se o YouTube mudar o formato, isto
- * para de achar — e por isso a falha aqui é reportada, e não silenciosa: sem
- * duração o conferidor recusa o vídeo, em vez de publicá-lo sem ela.
- *
- * ## O 429 não é vídeo quebrado
- *
- * Numa curadoria de oito vídeos seguidos, o YouTube passou a responder **429**
- * — limite de taxa — com uma página de três mil bytes e nenhuma duração. A
- * primeira versão deste script tratava isso como "não consegui ler a duração",
- * que se parece com vídeo defeituoso e não com "tente daqui a pouco", e teria
- * feito o conferidor recusar oito vídeos que estão perfeitos.
- *
- * Agora o 429 e os erros de servidor são repetidos com espera crescente, e a
- * falha final diz qual foi o status. O intervalo entre vídeos existe pelo mesmo
- * motivo: pedir devagar é mais rápido que ser bloqueado.
- */
-const TENTATIVAS = 4
 const ESPERA_ENTRE_VIDEOS_MS = 1500
-
-const dormir = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
-
-async function duracao(id) {
-  let ultimoStatus = 0
-
-  for (let tentativa = 1; tentativa <= TENTATIVAS; tentativa += 1) {
-    const resposta = await fetch(`https://www.youtube.com/watch?v=${id}`, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
-        "Accept-Language": "pt-BR,pt;q=0.9",
-      },
-    })
-    ultimoStatus = resposta.status
-
-    if (resposta.ok) {
-      const html = await resposta.text()
-      const achado = html.match(/"lengthSeconds":"(\d+)"/)
-      if (achado) return { segundos: Number(achado[1]) }
-      // Respondeu 200 e não trouxe a duração: aí é mudança de formato, e
-      // repetir não resolve.
-      return { erro: "a página respondeu 200 sem `lengthSeconds` — o formato do YouTube pode ter mudado" }
-    }
-
-    const valeRepetir = resposta.status === 429 || resposta.status >= 500
-    if (!valeRepetir) break
-    if (tentativa < TENTATIVAS) await dormir(3000 * tentativa)
-  }
-
-  return {
-    erro:
-      ultimoStatus === 429
-        ? "limite de taxa do YouTube (429) mesmo após as tentativas — rode de novo daqui a alguns minutos"
-        : `a página do vídeo respondeu ${ultimoStatus}`,
-  }
-}
 
 // --- Percorrer o acervo ------------------------------------------------------
 
@@ -187,6 +124,7 @@ async function gravarAtualizacoes(caminho, atualizacoes) {
       video.titulo = nova.titulo
       video.canal = nova.canal
       video.duracaoSegundos = nova.duracaoSegundos
+      video.metadadosDe = nova.metadadosDe
       aplicadas += 1
     }
   }
@@ -203,37 +141,51 @@ for (const arquivo of arquivos) {
 
   for (const conteudo of acervo.conteudos ?? []) {
     for (const video of conteudo.videos ?? []) {
-      const id = idDoVideo(video.url ?? "")
-      if (!id) {
-        falhas.push(`${arquivo} :: ${conteudo.id} — não consegui extrair o id de: ${video.url}`)
-        continue
-      }
-
       if (SO_FILA) {
         if (!video.revisado) fila.push(`${arquivo} :: ${conteudo.id} — ${video.titulo ?? video.url}\n      ${video.url}`)
         continue
       }
 
-      const info = await oembed(video.url)
+      const info = await descreverVideo(video.url ?? "")
       verificados += 1
+      await dormir(ESPERA_ENTRE_VIDEOS_MS)
+
       if (info.erro) {
         falhas.push(`${arquivo} :: ${conteudo.id} — ${video.url}: ${info.erro}`)
         continue
       }
 
-      const medida = await duracao(id)
-      await dormir(ESPERA_ENTRE_VIDEOS_MS)
-      if (medida.erro) {
-        falhas.push(`${arquivo} :: ${conteudo.id} — ${video.url}: ${medida.erro}`)
+      // Sem duração o vídeo não é publicável: a lista precisa dizer ao professor
+      // quanto tempo de aula aquilo custa. Fora do YouTube e do Vimeo há fontes
+      // que não a declaram, e aí a falha aponta para onde procurar.
+      const segundos = info.duracaoSegundos
+      if (!(segundos > 0)) {
+        falhas.push(
+          `${arquivo} :: ${conteudo.id} — ${video.url}: a fonte (${info.via}) não declara duração`,
+        )
         continue
       }
-      const segundos = medida.segundos
+      if (!info.canal) {
+        falhas.push(`${arquivo} :: ${conteudo.id} — ${video.url}: a fonte (${info.via}) não diz quem publicou`)
+        continue
+      }
 
-      if (video.titulo !== info.titulo || video.canal !== info.canal || video.duracaoSegundos !== segundos) {
-        atualizacoes.set(video.url, { titulo: info.titulo, canal: info.canal, duracaoSegundos: segundos })
+      if (
+        video.titulo !== info.titulo ||
+        video.canal !== info.canal ||
+        video.duracaoSegundos !== segundos ||
+        video.metadadosDe !== info.via
+      ) {
+        atualizacoes.set(video.url, {
+          titulo: info.titulo,
+          canal: info.canal,
+          duracaoSegundos: segundos,
+          metadadosDe: info.via,
+        })
         mudou = true
         alterados += 1
       }
+      video.metadadosDe = info.via
       // A fila é montada com o que a API acabou de responder, e não com o que
       // está no arquivo — que só será atualizado no fim.
       video.titulo = info.titulo

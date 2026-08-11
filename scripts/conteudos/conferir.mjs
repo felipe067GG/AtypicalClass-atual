@@ -237,10 +237,17 @@ for (const c of conteudos) {
 
   // --- Vídeos
   for (const v of c.videos ?? []) {
-    if (!v.url?.includes("youtu")) acusar(c, `vídeo com URL que não é do YouTube: ${v.url}`)
-    // Título, canal e duração são preenchidos pela API, não digitados. Vazio
-    // quer dizer que `npm run videos` ainda não passou por aqui.
-    if (!v.titulo || !v.canal || !(v.duracaoSegundos > 0)) {
+    // O vídeo não precisa ser do YouTube — precisa ser descritível por máquina.
+    //
+    // Esta regra já foi `v.url.includes("youtu")`, e isso confundia a regra com
+    // um fornecedor: webinar de instituição, aula de campus virtual e vídeo em
+    // Vimeo são material institucional legítimo e ficavam de fora por detalhe de
+    // implementação. O que importa é que título, canal e duração tenham vindo de
+    // uma fonte declarada — `metadadosDe` diz qual — e não da memória de quem
+    // cadastrou, que é como um título errado entra e ninguém nota.
+    if (!v.url?.startsWith("https://")) acusar(c, `vídeo com URL que não é https: ${v.url}`)
+    // Vazio quer dizer que `npm run videos` ainda não passou por aqui.
+    if (!v.titulo || !v.canal || !(v.duracaoSegundos > 0) || !v.metadadosDe) {
       acusar(c, `vídeo não verificado (rode: npm run videos): ${v.url}`)
     }
     if (!v.revisado) anotar(c, `vídeo aguardando alguém assistir: ${v.titulo ?? v.url}`)
@@ -327,6 +334,97 @@ for (const e of EXIGENCIAS) {
 
 console.log(`\nVídeos: ${videosTotais} em ${comVideo} conteúdos — ${videosRevisados} revisados, ${videosTotais - videosRevisados} aguardando`)
 if (dispensados) console.log(`Sinais conferidos e dispensados, com motivo no conteúdo: ${dispensados}`)
+
+// --- Vídeo formativo, na matriz de conteúdos ---------------------------------
+
+/**
+ * Confere os vídeos de formação do professor pendurados nas células da matriz.
+ *
+ * O arquivo é TypeScript e é lido como texto, o que traz duas armadilhas já
+ * pagas aqui. A primeira é o **CRLF**: o `core.autocrlf` do Windows reescreve a
+ * cópia de trabalho, e uma expressão ancorada em `\n` deixa de casar — foi assim
+ * que `npm run detectores` passou a jurar que nenhum dos oito detectores
+ * existia. A segunda é a **falha silenciosa**: parser que não acha nada se
+ * parece com "não há nada", que foi como o leitor da BNCC devolveu pouco texto
+ * sem erro nenhum. Por isso o número de blocos lidos é comparado com o de
+ * ocorrências de `videoFormativo:` — divergiu, é falha de leitura e derruba.
+ */
+const MATRIZ = join(process.cwd(), "lib", "conteudos", "matriz.ts")
+
+if (existsSync(MATRIZ)) {
+  const fonte = (await readFile(MATRIZ, "utf8")).replace(/\r\n/g, "\n")
+
+  // Cada célula abre com `exigencia:` e traz `especialidade:` logo abaixo; um
+  // `videoFormativo` pertence à última célula aberta antes dele.
+  const marcas = [
+    ...fonte.matchAll(/exigencia:\s*"([a-z-]+)"|especialidade:\s*"([a-z-]+)"|videoFormativo:\s*\{([\s\S]*?)\n\s*\},?\n/g),
+  ]
+
+  const esperados = (fonte.match(/videoFormativo:\s*\{/g) ?? []).length
+  const formativos = []
+  let exigencia = null
+  let especialidade = null
+
+  for (const m of marcas) {
+    if (m[1]) {
+      exigencia = m[1]
+      continue
+    }
+    if (m[2]) {
+      especialidade = m[2]
+      continue
+    }
+    formativos.push({ exigencia, especialidade, corpo: m[3] })
+  }
+
+  if (formativos.length !== esperados) {
+    erros.push(
+      `matriz.ts — li ${formativos.length} bloco(s) de videoFormativo e o arquivo tem ${esperados}: é falha de leitura, não ausência`,
+    )
+  }
+
+  const campo = (corpo, nome) => corpo.match(new RegExp(`${nome}:\\s*"([^"]*)"`))?.[1] ?? null
+  const motivos = new Map()
+  let formativosRevisados = 0
+
+  for (const f of formativos) {
+    const onde = `matriz.ts :: ${f.exigencia} × ${f.especialidade}`
+    const url = campo(f.corpo, "url")
+    const porQue = campo(f.corpo, "porQue")
+    const titulo = campo(f.corpo, "titulo")
+    const canal = campo(f.corpo, "canal")
+    const segundos = Number(f.corpo.match(/duracaoSegundos:\s*(\d+)/)?.[1] ?? 0)
+
+    if (!url?.startsWith("https://")) erros.push(`${onde} — vídeo formativo com URL que não é https`)
+    if (!titulo || !canal || !(segundos > 0)) {
+      erros.push(`${onde} — vídeo formativo sem título, canal ou duração vindos da API`)
+    }
+    if (!porQue?.trim()) {
+      erros.push(`${onde} — vídeo formativo sem \`porQue\`, que é o que distingue ligação com a célula de ligação com a especialidade`)
+    }
+
+    if (/revisado:\s*true/.test(f.corpo)) formativosRevisados += 1
+    else conferir.push(`${onde} — vídeo formativo aguardando alguém assistir`)
+
+    /**
+     * O mesmo motivo em duas células da mesma especialidade é a assinatura do
+     * conselho genérico: quer dizer que o vídeo foi ligado à especialidade e
+     * repetido pelas exigências, que é o que a matriz existe para evitar.
+     */
+    if (porQue) {
+      const chave = `${f.especialidade}::${porQue.trim().toLowerCase()}`
+      if (motivos.has(chave)) {
+        erros.push(`${onde} — o \`porQue\` repete o de ${motivos.get(chave)}: a ligação foi feita pela especialidade, não pela célula`)
+      } else {
+        motivos.set(chave, `${f.exigencia} × ${f.especialidade}`)
+      }
+    }
+  }
+
+  console.log(
+    `Vídeo formativo por célula: ${formativos.length} de 98 — ${formativosRevisados} revisados, ${formativos.length - formativosRevisados} aguardando`,
+  )
+}
 
 if (conferir.length) {
   console.log(`\n${conferir.length} ponto(s) para conferir a olho (não derrubam o build):`)

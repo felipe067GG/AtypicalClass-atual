@@ -105,18 +105,31 @@ export interface NotaEspecifica {
  * Um vídeo indicado, e o campo que impede que ele vá ao ar sem alguém ter visto.
  *
  * `titulo`, `canal` e `duracaoSegundos` são preenchidos por
- * `scripts/conteudos/videos.mjs`, que os lê da API pública do YouTube — não são
- * digitados à mão. Isso garante que o vídeo existe e é o que diz ser.
+ * `scripts/conteudos/videos.mjs` — não são digitados à mão. Isso garante que o
+ * vídeo existe e é o que diz ser.
+ *
+ * **O vídeo pode estar em qualquer lugar da internet.** Durante um tempo o
+ * conferidor exigia URL do YouTube, e isso confundia a regra com um fornecedor:
+ * o que a regra sempre quis dizer é que a descrição vem de uma fonte legível por
+ * máquina, e não da memória de quem cadastra. `scripts/conteudos/procedencia.mjs`
+ * lê essa descrição de oEmbed, de `schema.org/VideoObject` ou de Open Graph,
+ * conforme o que a fonte publica, e `metadadosDe` registra qual das três
+ * respondeu. Webinar de instituição, aula de campus virtual e vídeo hospedado em
+ * Vimeo ficavam de fora por detalhe de implementação, e não por critério.
  *
  * O que a verificação automática **não** faz é dizer se o vídeo presta. Por isso
  * `revisado` começa `false`, e o envio para o Supabase recusa vídeo não revisado:
  * a alternativa seria recomendar a um professor um vídeo que ninguém assistiu.
  */
 export interface Video {
+  /** Endereço `https://` — de qualquer origem, não só do YouTube. */
   url: string
   titulo: string
+  /** Quem publicou: o canal, o autor declarado, ou o domínio quando é só o que há. */
   canal: string
   duracaoSegundos: number
+  /** De onde a descrição veio: `oEmbed`, `schema.org VideoObject` ou `Open Graph`. */
+  metadadosDe?: string
   /**
    * A especialidade a que este vídeo serve, quando ele existe por causa dela.
    *

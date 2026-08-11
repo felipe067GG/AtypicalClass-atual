@@ -138,7 +138,10 @@
      "duracaoSegundos": 240,
      "paraEspecialidade": "deficiencia-auditiva",
      "recursoDeAcessibilidade": "aula em Libras, com legenda e narração — produção do INES/MEC",
-     "revisado": false
+     "revisado": true,
+     "metadadosDe": "oEmbed",
+     "revisadoPor": "felipe067GG",
+     "revisadoEm": "2026-08-10"
     }
    ]
   },
