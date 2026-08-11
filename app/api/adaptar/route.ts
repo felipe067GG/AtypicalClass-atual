@@ -3,6 +3,7 @@ import { google } from "@ai-sdk/google"
 
 import { analisar, promptDeAdaptacao, type MaterialColado } from "@/lib/adaptacao/adaptar"
 import { SPECIALTIES } from "@/lib/specialties"
+import { createClient } from "@/lib/supabase/server"
 import { translations, type Language } from "@/lib/translations"
 
 /**
@@ -59,6 +60,20 @@ export async function POST(req: Request) {
     if (!process.env.GOOGLE_GENERATIVE_AI_API_KEY) {
       return erro("GOOGLE_GENERATIVE_AI_API_KEY não está configurada.", 500)
     }
+
+    /**
+     * A conferência que realmente protege.
+     *
+     * A tela de `/adaptar` também confere, mas ela só alcança quem abre a
+     * página. Cada adaptação é uma chamada de modelo paga com a chave do site,
+     * e este endereço aceita 12 mil caracteres de entrada: sem esta linha, um
+     * `curl` em laço gastaria a chave do mantenedor sem passar por tela nenhuma.
+     */
+    const supabase = await createClient()
+    const {
+      data: { user },
+    } = await supabase.auth.getUser()
+    if (!user) return erro("Entre na sua conta para adaptar material.", 401)
 
     const body = await req.json()
     const texto = String(body?.texto ?? "").trim()

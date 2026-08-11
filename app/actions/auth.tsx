@@ -2,6 +2,31 @@
 
 import { createClient } from "@/lib/supabase/server"
 import { revalidatePath } from "next/cache"
+import { headers } from "next/headers"
+import { SITE_URL } from "@/lib/site"
+
+/**
+ * De onde o link do e-mail deve apontar.
+ *
+ * Sai do próprio pedido, e não de `NEXT_PUBLIC_APP_URL`. A variável vale
+ * `http://localhost:3000` no `.env.local`, e se ela não estiver configurada no
+ * ambiente de produção o professor recebe um e-mail cujo link aponta para a
+ * máquina dele — que não abre, sem erro nenhum do lado do site. É o mesmo
+ * defeito que `lib/site.ts` já contorna para o sitemap, e aqui ele é pior:
+ * sitemap errado o Google reclama, link de recuperação errado ninguém reclama,
+ * porque quem recebeu simplesmente desiste.
+ *
+ * O cabeçalho do pedido acerta nos dois ambientes: em desenvolvimento aponta
+ * para localhost, em produção para o domínio de verdade. `SITE_URL` fica de
+ * reserva para o caso de o cabeçalho não vir.
+ */
+async function enderecoDoSite(): Promise<string> {
+  const h = await headers()
+  const host = h.get("x-forwarded-host") ?? h.get("host")
+  if (!host) return SITE_URL
+  const protocolo = h.get("x-forwarded-proto") ?? (host.startsWith("localhost") ? "http" : "https")
+  return `${protocolo}://${host}`
+}
 
 export async function signUp(formData: FormData) {
   const supabase = await createClient()
@@ -19,7 +44,7 @@ export async function signUp(formData: FormData) {
         name,
         specialty,
       },
-      emailRedirectTo: `${process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}/auth/callback`,
+      emailRedirectTo: `${await enderecoDoSite()}/auth/callback`,
     },
   })
 
@@ -78,6 +103,62 @@ export async function signIn(formData: FormData) {
 
   revalidatePath("/", "layout")
   return { success: true, message: "Login realizado com sucesso!" }
+}
+
+/**
+ * Manda o link de recuperação de senha.
+ *
+ * ## A resposta é a mesma para e-mail cadastrado e não cadastrado
+ *
+ * Dizer "este e-mail não existe" transforma a tela de recuperação num
+ * verificador de cadastro: qualquer um descobre quem tem conta aqui, um
+ * endereço por vez. Como o site é de professor de educação especial e o perfil
+ * traz a especialidade em que ele trabalha, isso não é lista inócua.
+ *
+ * Por isso o erro é engolido de propósito, e a tela mostra sempre "se este
+ * e-mail estiver cadastrado, o link saiu".
+ */
+export async function resetPassword(formData: FormData) {
+  const supabase = await createClient()
+  const email = String(formData.get("email") ?? "").trim()
+
+  if (!email) return { success: false }
+
+  const base = await enderecoDoSite()
+
+  await supabase.auth.resetPasswordForEmail(email, {
+    // O `proximo` é lido por `/auth/callback`, que estabelece a sessão e só
+    // então manda para a tela da senha nova. Sem ele, o callback devolveria o
+    // professor para a home com a sessão de recuperação aberta e sem tela para
+    // trocar a senha — que é o mesmo que não ter recuperação.
+    redirectTo: `${base}/auth/callback?proximo=${encodeURIComponent("/auth/nova-senha")}`,
+  })
+
+  return { success: true }
+}
+
+/**
+ * Grava a senha nova.
+ *
+ * Só funciona com a sessão que o link de recuperação abriu: `updateUser` sem
+ * sessão devolve erro, e é isso que impede alguém de trocar a senha de outro.
+ */
+export async function updatePassword(formData: FormData) {
+  const supabase = await createClient()
+  const senha = String(formData.get("password") ?? "")
+
+  if (senha.length < 6) return { success: false, motivo: "curta" as const }
+
+  const {
+    data: { user },
+  } = await supabase.auth.getUser()
+  if (!user) return { success: false, motivo: "expirado" as const }
+
+  const { error } = await supabase.auth.updateUser({ password: senha })
+  if (error) return { success: false, motivo: "erro" as const, message: error.message }
+
+  revalidatePath("/", "layout")
+  return { success: true }
 }
 
 export async function signOut() {

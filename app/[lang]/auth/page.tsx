@@ -10,8 +10,8 @@ import { Label } from "@/components/ui/label"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
-import { LogIn, UserPlus, Loader2, CheckCircle2, AlertCircle, Mail } from "lucide-react"
-import { signUp, signIn } from "@/app/actions/auth"
+import { LogIn, UserPlus, Loader2, CheckCircle2, AlertCircle, Mail, KeyRound, ArrowLeft } from "lucide-react"
+import { signUp, signIn, resetPassword } from "@/app/actions/auth"
 import { useRouter } from "next/navigation"
 import Header from "@/app/components/header"
 import { useLanguage } from "@/lib/language-context"
@@ -20,6 +20,16 @@ export default function AuthPage() {
   const [isLoading, setIsLoading] = useState(false)
   const [message, setMessage] = useState<{ type: "success" | "error" | "info"; text: string } | null>(null)
   const [showEmailVerification, setShowEmailVerification] = useState(false)
+  /**
+   * A recuperação de senha ocupa a aba de login em vez de virar terceira aba.
+   *
+   * Uma terceira aba estaria visível o tempo todo para quem não esqueceu nada,
+   * e "Esqueci minha senha" ao lado de "Entrar" e "Cadastrar" sugere que sejam
+   * três caminhos de igual peso. É um desvio do login, e por isso vive dentro
+   * dele, com volta.
+   */
+  const [recuperando, setRecuperando] = useState(false)
+  const [linkEnviado, setLinkEnviado] = useState(false)
   const router = useRouter()
   const { t } = useLanguage()
 
@@ -72,6 +82,30 @@ export default function AuthPage() {
         router.refresh()
       }, 1000)
     }
+  }
+
+  /**
+   * Pede o link de senha nova.
+   *
+   * A tela não distingue e-mail cadastrado de não cadastrado — `resetPassword`
+   * engole o erro de propósito, para que esta página não vire um verificador de
+   * quem tem conta aqui. Ver o comentário na ação.
+   */
+  const handleRecuperar = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault()
+    setIsLoading(true)
+    setMessage(null)
+
+    await resetPassword(new FormData(e.currentTarget))
+
+    setIsLoading(false)
+    setLinkEnviado(true)
+  }
+
+  const voltarParaLogin = () => {
+    setRecuperando(false)
+    setLinkEnviado(false)
+    setMessage(null)
   }
 
   return (
@@ -157,6 +191,65 @@ export default function AuthPage() {
                 </TabsList>
 
                 <TabsContent value="login">
+                  {recuperando ? (
+                    <div className="space-y-4">
+                      <div className="space-y-1">
+                        <h2 className="flex items-center gap-2 font-medium">
+                          <KeyRound className="h-4 w-4" />
+                          {t("forgotPasswordTitle")}
+                        </h2>
+                        <p className="text-sm text-muted-foreground">{t("forgotPasswordHelp")}</p>
+                      </div>
+
+                      {linkEnviado ? (
+                        <Alert className="bg-success/10 border-success/40">
+                          <div className="flex items-start gap-2">
+                            <Mail className="mt-0.5 h-5 w-5 shrink-0 text-success" />
+                            <AlertDescription className="text-success">{t("forgotPasswordSent")}</AlertDescription>
+                          </div>
+                        </Alert>
+                      ) : (
+                        <form onSubmit={handleRecuperar} className="space-y-4">
+                          <div className="space-y-2">
+                            <Label htmlFor="recuperar-email" className="text-muted-foreground">
+                              {t("email")}
+                            </Label>
+                            <Input
+                              id="recuperar-email"
+                              name="email"
+                              type="email"
+                              placeholder="seu@email.com"
+                              required
+                              className="bg-surface border-border text-foreground placeholder:text-muted-foreground"
+                              disabled={isLoading}
+                            />
+                          </div>
+                          <Button
+                            type="submit"
+                            className="w-full bg-primary hover:bg-primary/90 text-foreground"
+                            disabled={isLoading}
+                          >
+                            {isLoading ? (
+                              <>
+                                <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                                {t("forgotPasswordSending")}
+                              </>
+                            ) : (
+                              <>
+                                <Mail className="mr-2 h-4 w-4" />
+                                {t("forgotPasswordSend")}
+                              </>
+                            )}
+                          </Button>
+                        </form>
+                      )}
+
+                      <Button type="button" variant="ghost" className="w-full gap-2" onClick={voltarParaLogin}>
+                        <ArrowLeft className="h-4 w-4" />
+                        {t("backToLogin")}
+                      </Button>
+                    </div>
+                  ) : (
                   <form onSubmit={handleLogin} className="space-y-4">
                     <div className="space-y-2">
                       <Label htmlFor="login-email" className="text-muted-foreground">
@@ -203,7 +296,17 @@ export default function AuthPage() {
                         </>
                       )}
                     </Button>
+
+                    <Button
+                      type="button"
+                      variant="link"
+                      className="h-auto w-full p-0 text-sm text-muted-foreground hover:text-foreground"
+                      onClick={() => setRecuperando(true)}
+                    >
+                      {t("forgotPassword")}
+                    </Button>
                   </form>
+                  )}
                 </TabsContent>
 
                 <TabsContent value="register">
