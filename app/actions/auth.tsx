@@ -127,39 +127,47 @@ export async function resetPassword(formData: FormData) {
   const base = await enderecoDoSite()
 
   await supabase.auth.resetPasswordForEmail(email, {
-    // O `proximo` é lido por `/auth/callback`, que estabelece a sessão e só
-    // então manda para a tela da senha nova. Sem ele, o callback devolveria o
-    // professor para a home com a sessão de recuperação aberta e sem tela para
-    // trocar a senha — que é o mesmo que não ter recuperação.
-    redirectTo: `${base}/auth/callback?proximo=${encodeURIComponent("/auth/nova-senha")}`,
+    /**
+     * Direto para a tela da senha nova, sem passar por `/auth/callback`.
+     *
+     * A primeira versão passava pelo callback, e o professor caía na tela de
+     * login. O motivo é que o Supabase pode devolver a sessão no **fragmento**
+     * da URL (`#access_token=…`), e fragmento nunca chega ao servidor: a rota
+     * recebia um pedido sem `code` e sem `token_hash`, concluía "link inválido"
+     * e redirecionava para `/auth`.
+     *
+     * `/auth/nova-senha` abre a sessão no navegador, onde a URL inteira é
+     * visível, e por isso funciona nos três formatos que o Supabase usa.
+     *
+     * ## Este endereço é lido pelo template de e-mail, não só pelo Supabase
+     *
+     * O template de "Reset Password" foi editado no painel para montar o link
+     * como `{{ .RedirectTo }}?token_hash={{ .TokenHash }}&type=recovery`. Duas
+     * consequências que valem estar escritas aqui:
+     *
+     * 1. O endereço precisa estar na lista de Redirect URLs do painel. Fora da
+     *    lista, o Supabase descarta este valor e usa a Site URL — o professor
+     *    cai na home, sem tela para trocar a senha.
+     * 2. Como o valor sai do cabeçalho do pedido, o mesmo template serve
+     *    localhost e produção, sem template por ambiente.
+     */
+    redirectTo: `${base}/auth/nova-senha`,
   })
 
   return { success: true }
 }
 
 /**
- * Grava a senha nova.
+ * A gravação da senha nova **não** mora aqui, e isso é intencional.
  *
- * Só funciona com a sessão que o link de recuperação abriu: `updateUser` sem
- * sessão devolve erro, e é isso que impede alguém de trocar a senha de outro.
+ * Ela está em `app/[lang]/auth/nova-senha/page.tsx`, no cliente, porque é lá
+ * que a sessão da recuperação é aberta — o Supabase pode devolvê-la no
+ * fragmento da URL, que nunca chega ao servidor. Uma ação de servidor leria a
+ * sessão dos cookies e não a encontraria.
+ *
+ * Fica registrado para ninguém "consertar" isso trazendo a gravação para cá: já
+ * esteve aqui, e o professor caía na tela de login sem mensagem nenhuma.
  */
-export async function updatePassword(formData: FormData) {
-  const supabase = await createClient()
-  const senha = String(formData.get("password") ?? "")
-
-  if (senha.length < 6) return { success: false, motivo: "curta" as const }
-
-  const {
-    data: { user },
-  } = await supabase.auth.getUser()
-  if (!user) return { success: false, motivo: "expirado" as const }
-
-  const { error } = await supabase.auth.updateUser({ password: senha })
-  if (error) return { success: false, motivo: "erro" as const, message: error.message }
-
-  revalidatePath("/", "layout")
-  return { success: true }
-}
 
 export async function signOut() {
   const supabase = await createClient()

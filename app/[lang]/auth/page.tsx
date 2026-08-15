@@ -12,7 +12,7 @@ import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { LogIn, UserPlus, Loader2, CheckCircle2, AlertCircle, Mail, KeyRound, ArrowLeft } from "lucide-react"
 import { signUp, signIn, resetPassword } from "@/app/actions/auth"
-import { useRouter } from "next/navigation"
+import { useRouter, useSearchParams } from "next/navigation"
 import Header from "@/app/components/header"
 import { useLanguage } from "@/lib/language-context"
 
@@ -31,7 +31,20 @@ export default function AuthPage() {
   const [recuperando, setRecuperando] = useState(false)
   const [linkEnviado, setLinkEnviado] = useState(false)
   const router = useRouter()
+  const searchParams = useSearchParams()
   const { t } = useLanguage()
+
+  /**
+   * O erro que `/auth/callback` manda para cá.
+   *
+   * A rota redireciona para `/auth?erro=…` quando o link do e-mail falha, e
+   * esta página **ignorava o parâmetro**. O resultado era o pior tipo de
+   * defeito: o professor clicava no link de recuperação, caía na tela de login
+   * sem uma palavra de explicação, e não havia como saber o que tinha
+   * acontecido nem do lado dele nem do nosso. Foi assim que a recuperação de
+   * senha nasceu quebrada e pareceu funcionar.
+   */
+  const erroDoLink = searchParams.get("erro")
 
   const specialties = [
     t("mathematics"),
@@ -124,6 +137,19 @@ export default function AuthPage() {
             </h1>
             <p className="text-muted-foreground">{t("authSubtitle")}</p>
           </div>
+
+          {erroDoLink && !message && (
+            <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} className="mb-6">
+              <Alert className="bg-destructive/10 border-destructive/40">
+                <div className="flex items-start gap-2">
+                  <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 text-destructive" />
+                  <AlertDescription className="text-destructive">
+                    {erroDoLink === "link_invalido" ? t("newPasswordExpired") : erroDoLink}
+                  </AlertDescription>
+                </div>
+              </Alert>
+            </motion.div>
+          )}
 
           {showEmailVerification && (
             <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} className="mb-6">
