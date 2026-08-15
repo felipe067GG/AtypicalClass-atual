@@ -52,8 +52,43 @@ function hasLocalePrefix(pathname: string): boolean {
   return isLocale(first) && first !== DEFAULT_LOCALE
 }
 
+/**
+ * `/pt/questoes` é o mesmo que `/questoes`, e precisa dizer isso em vez de 404.
+ *
+ * O português mora na raiz, então `localizedHref` nunca gera `/pt/` e o sitemap
+ * também não — nada no site aponta para lá. Mas `hasLocalePrefix` responde
+ * `false` para `pt`, porque para ele prefixo é o que o padrão não tem. O
+ * resultado é que `/pt/questoes` era tratado como caminho sem idioma e recebia o
+ * prefixo padrão por cima: reescrito para `/pt/pt/questoes`, que não existe.
+ *
+ * Quebrava para qualquer visitante, não só para quem tem cookie de outro idioma,
+ * e de um jeito difícil de acreditar quando acontece: `/pt/questoes` é uma
+ * página que o build realmente gera, e ainda assim não abre. Quem digita o
+ * endereço à mão, ou guardou um de antes de o idioma entrar na rota, cai nisso.
+ *
+ * Redirecionamento, e não reescrita, porque as duas URLs serviriam a mesma
+ * página em português — deixar as duas vivas seria conteúdo duplicado, o mesmo
+ * motivo de o redirecionamento por cookie logo abaixo também ser redirecionamento.
+ */
+function semPrefixoRedundante(pathname: string): string | null {
+  const raiz = `/${DEFAULT_LOCALE}`
+  if (pathname === raiz) return "/"
+  if (pathname.startsWith(`${raiz}/`)) return pathname.slice(raiz.length)
+  return null
+}
+
 export async function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl
+
+  // Tira o `/pt` redundante antes de qualquer outra coisa. Quem tem cookie de
+  // outro idioma dá mais um salto no pedido seguinte, e é de propósito: são duas
+  // regras independentes, e juntá-las numa só esconderia as duas.
+  const semPt = semPrefixoRedundante(pathname)
+  if (!isUnlocalized(pathname) && semPt) {
+    const url = request.nextUrl.clone()
+    url.pathname = semPt
+    return NextResponse.redirect(url)
+  }
 
   /**
    * Quem já escolheu um idioma vai para a versão dele.
