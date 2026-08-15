@@ -8,6 +8,7 @@ export { BARREIRAS, barreiraDe } from "./barreiras"
 export type { Barreira, BarreiraId } from "./barreiras"
 export { MATRIZ, celulasDe, coberturaDaMatriz } from "./matriz"
 export type { CelulaDaMatriz } from "./matriz"
+export { MINIMO_DE_CARACTERES, MAXIMO_DE_CARACTERES } from "./adaptar"
 
 /**
  * Registro dos guias de adaptação.

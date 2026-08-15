@@ -11,7 +11,7 @@ import { Wand2, Ruler, AlertCircle, Copy, Check, Square } from "lucide-react"
 import Header from "@/app/components/header"
 import { useLanguage } from "@/lib/language-context"
 import { text } from "@/lib/i18n-content"
-import type { Barreira, CelulaDaMatriz } from "@/lib/adaptacao"
+import { MINIMO_DE_CARACTERES, MAXIMO_DE_CARACTERES, type Barreira, type CelulaDaMatriz } from "@/lib/adaptacao"
 
 type Tipo = "questao" | "atividade"
 
@@ -29,13 +29,19 @@ interface SemAdaptacao {
   semCelula: string[]
 }
 
-/** Nomes das medidas, para o relatório não sair em nome de variável. */
-const NOME_DA_MEDIDA: Record<string, string> = {
-  caracteres: "Tamanho do enunciado",
-  palavrasPorFrase: "Palavras por frase",
-  caracteresAlternativas: "Tamanho das alternativas",
-  numeros: "Números a reter",
-  densidadeVocabulario: "Palavras longas",
+/**
+ * Nomes das medidas, para o relatório não sair em nome de variável.
+ *
+ * Guarda a chave de tradução, e não o texto: as medidas chegam do servidor
+ * identificadas por `caracteres`, `palavrasPorFrase` e companhia, que são nomes
+ * de campo e não mudam de idioma.
+ */
+const CHAVE_DA_MEDIDA: Record<string, string> = {
+  caracteres: "measureChars",
+  palavrasPorFrase: "measureWordsPerSentence",
+  caracteresAlternativas: "measureAltLength",
+  numeros: "measureNumbers",
+  densidadeVocabulario: "measureLongWords",
 }
 
 export default function AdaptarClient({
@@ -76,6 +82,9 @@ export default function AdaptarClient({
     return b ? text(b.nome, language) : id
   }
 
+  /** O limite escrito como o idioma escreve número: 12.000 em pt, 12,000 em en. */
+  const limite = MAXIMO_DE_CARACTERES.toLocaleString(language)
+
   /** As células que respondem às barreiras que foram medidas neste material. */
   const celulasAplicadas = analise ? celulas.filter((c) => analise.barreiras.includes(c.barreira)) : []
 
@@ -85,7 +94,7 @@ export default function AdaptarClient({
   )
 
   async function adaptar() {
-    if (!especialidade || material.trim().length < 40 || adaptando) return
+    if (!especialidade || material.trim().length < MINIMO_DE_CARACTERES || adaptando) return
     setAdaptando(true)
     setSaida("")
     setErro(null)
@@ -105,7 +114,7 @@ export default function AdaptarClient({
 
       if (!resposta.ok) {
         const corpo = await resposta.json().catch(() => null)
-        setErro(corpo?.error ?? "Não foi possível adaptar agora.")
+        setErro(corpo?.error ?? t("adaptFailed"))
         return
       }
 
@@ -128,7 +137,7 @@ export default function AdaptarClient({
         setSaida((anterior) => anterior + decodificador.decode(value, { stream: true }))
       }
     } catch (e) {
-      if ((e as Error).name !== "AbortError") setErro("Não foi possível adaptar agora.")
+      if ((e as Error).name !== "AbortError") setErro(t("adaptFailed"))
     } finally {
       setAdaptando(false)
       abortar.current = null
@@ -147,31 +156,24 @@ export default function AdaptarClient({
 
       <main id="conteudo" className="container mx-auto max-w-5xl px-4 py-24">
         <header className="mb-8">
-          <h1 className="text-3xl font-bold sm:text-4xl">Adaptar meu material</h1>
-          <p className="mt-3 max-w-2xl text-muted-foreground">
-            Cole a atividade ou a questão que você já usa, escolha o aluno, e receba aquilo adaptado. O material é
-            seu — nada do que você colar é guardado.
-          </p>
+          <h1 className="text-3xl font-bold sm:text-4xl">{t("adaptTitle")}</h1>
+          <p className="mt-3 max-w-2xl text-muted-foreground">{t("adaptIntro")}</p>
         </header>
 
         <div className="grid gap-6 lg:grid-cols-[1fr_340px]">
           <div className="space-y-6">
             <Card>
               <CardHeader>
-                <CardTitle className="text-lg">1. O material</CardTitle>
-                <CardDescription>
-                  Uma atividade ou uma questão por vez. Cole o texto como ele está na sua folha.
-                </CardDescription>
+                <CardTitle className="text-lg">{t("adaptStep1")}</CardTitle>
+                <CardDescription>{t("adaptStep1Help")}</CardDescription>
               </CardHeader>
               <CardContent className="space-y-4">
                 <Textarea
                   value={material}
                   onChange={(e) => setMaterial(e.target.value)}
-                  placeholder={
-                    "Cole aqui.\n\nExemplo: o enunciado de uma questão, com as alternativas em a) b) c), ou o comando de uma atividade dissertativa."
-                  }
+                  placeholder={t("adaptPlaceholder")}
                   className="min-h-[220px] font-mono text-sm"
-                  aria-label="Material a adaptar"
+                  aria-label={t("adaptTextareaLabel")}
                 />
                 <div className="flex flex-wrap items-center gap-3">
                   <Select value={tipo} onValueChange={(v) => setTipo(v as Tipo)}>
@@ -179,13 +181,15 @@ export default function AdaptarClient({
                       <SelectValue />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="atividade">É uma atividade</SelectItem>
-                      <SelectItem value="questao">É uma questão</SelectItem>
+                      <SelectItem value="atividade">{t("adaptTypeActivity")}</SelectItem>
+                      <SelectItem value="questao">{t("adaptTypeQuestion")}</SelectItem>
                     </SelectContent>
                   </Select>
                   <span className="text-sm text-muted-foreground">
-                    {material.trim().length} caracteres
-                    {material.trim().length > 12_000 ? " — acima do limite de 12.000" : ""}
+                    {material.trim().length} {t("adaptCharacters")}
+                    {material.trim().length > MAXIMO_DE_CARACTERES
+                      ? ` — ${t("adaptOverLimit").replace("{max}", limite)}`
+                      : ""}
                   </span>
                 </div>
               </CardContent>
@@ -193,16 +197,13 @@ export default function AdaptarClient({
 
             <Card>
               <CardHeader>
-                <CardTitle className="text-lg">2. O aluno</CardTitle>
-                <CardDescription>
-                  A orientação muda por aluno. Sem escolher um, o que sai é conselho genérico — e é isso que este
-                  site existe para não fazer.
-                </CardDescription>
+                <CardTitle className="text-lg">{t("adaptStep2")}</CardTitle>
+                <CardDescription>{t("adaptStep2Help")}</CardDescription>
               </CardHeader>
               <CardContent className="flex flex-wrap items-center gap-3">
                 <Select value={especialidade} onValueChange={escolherAluno}>
                   <SelectTrigger className="w-[280px]">
-                    <SelectValue placeholder="Escolha o aluno" />
+                    <SelectValue placeholder={t("adaptChooseStudent")} />
                   </SelectTrigger>
                   <SelectContent>
                     {especialidades.map((e) => (
@@ -215,17 +216,17 @@ export default function AdaptarClient({
 
                 <Button
                   onClick={adaptar}
-                  disabled={!especialidade || material.trim().length < 40 || adaptando}
+                  disabled={!especialidade || material.trim().length < MINIMO_DE_CARACTERES || adaptando}
                   className="gap-2"
                 >
                   <Wand2 className="h-4 w-4" />
-                  {adaptando ? "Adaptando…" : "Adaptar"}
+                  {adaptando ? t("adaptRunning") : t("adapt")}
                 </Button>
 
                 {adaptando ? (
                   <Button variant="ghost" size="sm" className="gap-2" onClick={() => abortar.current?.abort()}>
                     <Square className="h-3 w-3" />
-                    Parar
+                    {t("adaptStop")}
                   </Button>
                 ) : null}
               </CardContent>
@@ -246,18 +247,17 @@ export default function AdaptarClient({
                 <CardHeader>
                   <CardTitle className="flex items-center gap-2 text-lg">
                     <Ruler className="h-4 w-4" />
-                    Medi, e não encontrei barreira neste material
+                    {t("adaptNoBarrierTitle")}
                   </CardTitle>
-                  <CardDescription>
-                    Não é elogio nem defeito: quer dizer que nada aqui cruzou os limiares medidos em material de
-                    escola. Adaptar mesmo assim seria inventar.
-                  </CardDescription>
+                  <CardDescription>{t("adaptNoBarrierHelp")}</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <dl className="grid gap-2 sm:grid-cols-2">
                     {semAdaptacao.relatorio.map((r) => (
                       <div key={r.medida} className="flex items-baseline justify-between gap-3 rounded-md border px-3 py-2">
-                        <dt className="text-sm text-muted-foreground">{NOME_DA_MEDIDA[r.medida] ?? r.medida}</dt>
+                        <dt className="text-sm text-muted-foreground">
+                          {CHAVE_DA_MEDIDA[r.medida] ? t(CHAVE_DA_MEDIDA[r.medida]) : r.medida}
+                        </dt>
                         <dd className="text-sm font-medium">
                           {r.valor} <span className="text-muted-foreground">· p{r.percentil}</span>
                         </dd>
@@ -266,8 +266,7 @@ export default function AdaptarClient({
                   </dl>
                   {semAdaptacao.semCelula.length ? (
                     <p className="mt-4 text-sm text-muted-foreground">
-                      Foram medidas estas barreiras, mas ainda não há orientação escrita para este aluno:{" "}
-                      {semAdaptacao.semCelula.map(nomeDaBarreira).join(", ")}.
+                      {t("adaptNoCellMeasured")} {semAdaptacao.semCelula.map(nomeDaBarreira).join(", ")}.
                     </p>
                   ) : null}
                 </CardContent>
@@ -278,14 +277,12 @@ export default function AdaptarClient({
               <Card>
                 <CardHeader className="flex-row items-start justify-between gap-4 space-y-0">
                   <div>
-                    <CardTitle className="text-lg">Proposta de adaptação</CardTitle>
-                    <CardDescription>
-                      É rascunho, não material pronto. Leia antes de levar para a sala — quem conhece o aluno é você.
-                    </CardDescription>
+                    <CardTitle className="text-lg">{t("adaptResultTitle")}</CardTitle>
+                    <CardDescription>{t("adaptResultHelp")}</CardDescription>
                   </div>
                   <Button variant="outline" size="sm" className="shrink-0 gap-2" onClick={copiar}>
                     {copiado ? <Check className="h-3 w-3" /> : <Copy className="h-3 w-3" />}
-                    {copiado ? "Copiado" : "Copiar"}
+                    {copiado ? t("adaptCopied") : t("adaptCopy")}
                   </Button>
                 </CardHeader>
                 <CardContent>
@@ -300,15 +297,18 @@ export default function AdaptarClient({
               <Card>
                 <CardHeader>
                   <CardTitle className="flex items-center gap-2 text-base">
-                    <Ruler className="h-4 w-4" />O que foi medido
+                    <Ruler className="h-4 w-4" />
+                    {t("adaptMeasuredTitle")}
                   </CardTitle>
-                  <CardDescription>Contagem, não opinião. É daqui que sai a orientação.</CardDescription>
+                  <CardDescription>{t("adaptMeasuredHelp")}</CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-3 text-sm">
                   <p className="text-muted-foreground">
-                    {analise.medidas.caracteres} caracteres · {analise.medidas.palavrasPorFrase} palavras por frase ·{" "}
-                    {analise.medidas.numeros} números
-                    {analise.medidas.alternativas ? ` · ${analise.medidas.alternativas} alternativas` : ""}
+                    {analise.medidas.caracteres} {t("adaptCharacters")} · {analise.medidas.palavrasPorFrase}{" "}
+                    {t("adaptWordsPerSentence")} · {analise.medidas.numeros} {t("adaptNumbers")}
+                    {analise.medidas.alternativas
+                      ? ` · ${analise.medidas.alternativas} ${t("adaptAlternatives")}`
+                      : ""}
                   </p>
                   <div className="flex flex-wrap gap-2">
                     {analise.barreiras.map((b) => (
@@ -319,7 +319,7 @@ export default function AdaptarClient({
                   </div>
                   {analise.semCelula.length ? (
                     <p className="text-muted-foreground">
-                      Sem orientação escrita para este aluno: {analise.semCelula.map(nomeDaBarreira).join(", ")}.
+                      {t("adaptNoCellShort")} {analise.semCelula.map(nomeDaBarreira).join(", ")}.
                     </p>
                   ) : null}
                 </CardContent>
@@ -329,10 +329,8 @@ export default function AdaptarClient({
             {celulasAplicadas.length ? (
               <Card>
                 <CardHeader>
-                  <CardTitle className="text-base">A orientação aplicada</CardTitle>
-                  <CardDescription>
-                    Escrita por gente, com fonte. O modelo não decidiu isto — ele aplicou ao seu texto.
-                  </CardDescription>
+                  <CardTitle className="text-base">{t("adaptGuidanceTitle")}</CardTitle>
+                  <CardDescription>{t("adaptGuidanceHelp")}</CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-4 text-sm">
                   {celulasAplicadas.map((c) => (
@@ -349,8 +347,8 @@ export default function AdaptarClient({
             {fontes.length ? (
               <Card>
                 <CardHeader>
-                  <CardTitle className="text-base">Fontes</CardTitle>
-                  <CardDescription>Vêm da matriz, não do modelo.</CardDescription>
+                  <CardTitle className="text-base">{t("sources")}</CardTitle>
+                  <CardDescription>{t("adaptSourcesHelp")}</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <ul className="space-y-2 text-sm">

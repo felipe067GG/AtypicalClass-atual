@@ -30,6 +30,21 @@ import { celulasDe, type CelulaDaMatriz } from "./matriz"
  * e a promessa do site inteiro é que toda afirmação tem procedência conferida.
  */
 
+/**
+ * Quanto texto o adaptador aceita de uma vez.
+ *
+ * O teto não é limite de modelo: é limite de promessa. Acima disso o que chega
+ * já não é "a atividade de quinta", é uma apostila, e a adaptação de apostila
+ * inteira numa passada devolve resumo, não adaptação.
+ *
+ * Moram aqui, e não na rota, porque a tela também precisa deles: ela mostra o
+ * contador e desabilita o botão antes de gastar uma chamada de modelo. Enquanto
+ * eram literais repetidos nos dois lados, dava para mudar o limite da rota e
+ * deixar a tela prometendo outro número.
+ */
+export const MINIMO_DE_CARACTERES = 40
+export const MAXIMO_DE_CARACTERES = 12_000
+
 /** O que o professor colou. */
 export interface MaterialColado {
   texto: string

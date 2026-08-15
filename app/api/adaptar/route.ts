@@ -1,7 +1,13 @@
 import { streamText } from "ai"
 import { google } from "@ai-sdk/google"
 
-import { analisar, promptDeAdaptacao, type MaterialColado } from "@/lib/adaptacao/adaptar"
+import {
+  analisar,
+  promptDeAdaptacao,
+  MINIMO_DE_CARACTERES,
+  MAXIMO_DE_CARACTERES,
+  type MaterialColado,
+} from "@/lib/adaptacao/adaptar"
 import { SPECIALTIES } from "@/lib/specialties"
 import { createClient } from "@/lib/supabase/server"
 import { translations, type Language } from "@/lib/translations"
@@ -27,16 +33,6 @@ export const runtime = "nodejs"
 export const maxDuration = 60
 
 /**
- * Teto do que se aceita colar.
- *
- * Não é limite de modelo: é limite de promessa. Acima disso o que chega já não
- * é "a atividade de quinta", é uma apostila, e a adaptação de apostila inteira
- * numa passada devolve resumo, não adaptação.
- */
-const MAXIMO_DE_CARACTERES = 12_000
-const MINIMO_DE_CARACTERES = 40
-
-/**
  * O nome do aluno, e não o slug.
  *
  * "sindrome-de-down" dentro do prompt é o tipo de detalhe que reaparece na
@@ -56,9 +52,23 @@ function erro(mensagem: string, status: number) {
 }
 
 export async function POST(req: Request) {
+  /**
+   * O idioma antes de qualquer recusa, porque toda recusa daqui aparece na tela
+   * do professor. Enquanto o corpo era lido depois das conferências, as
+   * mensagens saíam em português para quem estava usando o site em inglês.
+   *
+   * Fica fora do `try` para que o `catch` lá embaixo também alcance — senão a
+   * única mensagem que sobra sem tradução é justamente a do erro inesperado.
+   * Ler o corpo antes da conferência de sessão não afrouxa nada: o que custa
+   * dinheiro é a chamada de modelo, e ela continua atrás do login.
+   */
+  const body = await req.json().catch(() => null)
+  const idioma: Language = body?.idioma === "en" || body?.idioma === "es" ? body.idioma : "pt"
+  const t = translations[idioma]
+
   try {
     if (!process.env.GOOGLE_GENERATIVE_AI_API_KEY) {
-      return erro("GOOGLE_GENERATIVE_AI_API_KEY não está configurada.", 500)
+      return erro(t.adaptErrorNoKey, 500)
     }
 
     /**
@@ -73,26 +83,26 @@ export async function POST(req: Request) {
     const {
       data: { user },
     } = await supabase.auth.getUser()
-    if (!user) return erro("Entre na sua conta para adaptar material.", 401)
+    if (!user) return erro(t.adaptErrorLogin, 401)
 
-    const body = await req.json()
     const texto = String(body?.texto ?? "").trim()
     const tipo = (body?.tipo ?? "atividade") as MaterialColado["tipo"]
     const especialidade = String(body?.especialidade ?? "")
-    const idioma: Language = body?.idioma === "en" || body?.idioma === "es" ? body.idioma : "pt"
 
     if (texto.length < MINIMO_DE_CARACTERES) {
-      return erro(`Cole ao menos ${MINIMO_DE_CARACTERES} caracteres do material.`, 400)
+      return erro(t.adaptErrorTooShort.replace("{min}", String(MINIMO_DE_CARACTERES)), 400)
     }
     if (texto.length > MAXIMO_DE_CARACTERES) {
       return erro(
-        `O material tem ${texto.length} caracteres. Cole até ${MAXIMO_DE_CARACTERES} de cada vez — uma atividade ou uma questão por vez adapta melhor que uma apostila inteira.`,
+        t.adaptErrorTooLong
+          .replace("{n}", texto.length.toLocaleString(idioma))
+          .replace("{max}", MAXIMO_DE_CARACTERES.toLocaleString(idioma)),
         400,
       )
     }
 
     const specialty = SPECIALTIES.find((s) => s.slug === especialidade)
-    if (!specialty) return erro("Escolha um aluno para adaptar.", 400)
+    if (!specialty) return erro(t.adaptErrorNoStudent, 400)
 
     const material: MaterialColado = { texto, tipo }
     const analise = analisar(material, especialidade)
@@ -148,7 +158,13 @@ export async function POST(req: Request) {
       },
     })
   } catch (error) {
+    /**
+     * O `error.message` cru saía para a tela antes, e saía em inglês do provedor
+     * mesmo com o site em português. Além de não traduzir, dizia ao professor
+     * coisas que são do servidor e não dele. Agora a mensagem é do site e o
+     * original fica no log, que é onde se investiga.
+     */
     console.error("Erro no adaptador:", error)
-    return erro(error instanceof Error ? error.message : "Erro ao adaptar o material.", 500)
+    return erro(t.adaptErrorGeneric, 500)
   }
 }
